@@ -1,0 +1,30 @@
+---
+title: marianaitaliana | Patromierz
+permalink: /marianaitaliana
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/m/marianaitaliana.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [marianaitaliana](https://patronite.pl/marianaitaliana)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["marianaitaliana"]);
+</script>

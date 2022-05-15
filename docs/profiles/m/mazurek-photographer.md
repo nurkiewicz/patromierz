@@ -1,0 +1,30 @@
+---
+title: mazurek-photographer | Patromierz
+permalink: /mazurek-photographer
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/m/mazurek-photographer.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [mazurek-photographer](https://patronite.pl/mazurek-photographer)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["mazurek-photographer"]);
+</script>

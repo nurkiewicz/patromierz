@@ -1,0 +1,21 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["trenerbartosz"] = [
+	[new Date(1651034509000), 7, 1, 7.0, 7],
+	[new Date(1651121280000), 7, 1, 7.0, 7],
+	[new Date(1651207444000), 7, 1, 7.0, 7],
+	[new Date(1651294097000), 7, 1, 7.0, 7],
+	[new Date(1651380480000), 7, 1, 7.0, 7],
+	[new Date(1651467086000), 7, 1, 7.0, 7],
+	[new Date(1651552901000), 7, 1, 7.0, 7],
+	[new Date(1651639735000), 7, 1, 7.0, 7],
+	[new Date(1651726177000), 7, 1, 7.0, 7],
+	[new Date(1651812120000), 7, 1, 7.0, 7],
+	[new Date(1651898547000), 7, 1, 7.0, 7],
+	[new Date(1651985379000), 7, 1, 7.0, 7],
+	[new Date(1652071886000), null, 1, null, 7],
+	[new Date(1652159629000), null, 1, null, 7],
+	[new Date(1652274160000), null, 1, null, 7],
+	[new Date(1652330653000), null, 1, null, 7],
+	[new Date(1652417102000), null, 1, null, 7],
+	[new Date(1652503626000), null, 1, null, 7],
+];

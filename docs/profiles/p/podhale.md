@@ -1,0 +1,30 @@
+---
+title: podhale | Patromierz
+permalink: /podhale
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/p/podhale.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [podhale](https://patronite.pl/podhale)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["podhale"]);
+</script>

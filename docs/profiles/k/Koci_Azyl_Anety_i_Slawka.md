@@ -1,0 +1,30 @@
+---
+title: Koci_Azyl_Anety_i_Slawka | Patromierz
+permalink: /Koci_Azyl_Anety_i_Slawka
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/k/Koci_Azyl_Anety_i_Slawka.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [Koci_Azyl_Anety_i_Slawka](https://patronite.pl/Koci_Azyl_Anety_i_Slawka)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["Koci_Azyl_Anety_i_Slawka"]);
+</script>

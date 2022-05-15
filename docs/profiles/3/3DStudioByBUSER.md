@@ -1,0 +1,30 @@
+---
+title: 3DStudioByBUSER | Patromierz
+permalink: /3DStudioByBUSER
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/3/3DStudioByBUSER.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [3DStudioByBUSER](https://patronite.pl/3DStudioByBUSER)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["3DStudioByBUSER"]);
+</script>

@@ -1,0 +1,30 @@
+---
+title: kobietagorom | Patromierz
+permalink: /kobietagorom
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/k/kobietagorom.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [kobietagorom](https://patronite.pl/kobietagorom)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["kobietagorom"]);
+</script>

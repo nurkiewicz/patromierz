@@ -1,0 +1,30 @@
+---
+title: kultura-na-czasie-blog | Patromierz
+permalink: /kultura-na-czasie-blog
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/k/kultura-na-czasie-blog.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [kultura-na-czasie-blog](https://patronite.pl/kultura-na-czasie-blog)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["kultura-na-czasie-blog"]);
+</script>

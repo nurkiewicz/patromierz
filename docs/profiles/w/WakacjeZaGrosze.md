@@ -1,0 +1,30 @@
+---
+title: WakacjeZaGrosze | Patromierz
+permalink: /WakacjeZaGrosze
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/w/WakacjeZaGrosze.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [WakacjeZaGrosze](https://patronite.pl/WakacjeZaGrosze)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["WakacjeZaGrosze"]);
+</script>

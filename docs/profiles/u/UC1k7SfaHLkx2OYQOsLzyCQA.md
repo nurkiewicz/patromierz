@@ -1,0 +1,30 @@
+---
+title: UC1k7SfaHLkx2OYQOsLzyCQA | Patromierz
+permalink: /UC1k7SfaHLkx2OYQOsLzyCQA
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/u/UC1k7SfaHLkx2OYQOsLzyCQA.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [UC1k7SfaHLkx2OYQOsLzyCQA](https://patronite.pl/UC1k7SfaHLkx2OYQOsLzyCQA)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["UC1k7SfaHLkx2OYQOsLzyCQA"]);
+</script>

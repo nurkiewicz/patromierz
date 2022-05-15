@@ -1,0 +1,30 @@
+---
+title: konopny_recenzent | Patromierz
+permalink: /konopny_recenzent
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/k/konopny_recenzent.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [konopny_recenzent](https://patronite.pl/konopny_recenzent)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["konopny_recenzent"]);
+</script>

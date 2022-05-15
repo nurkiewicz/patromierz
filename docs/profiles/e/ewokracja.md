@@ -1,0 +1,30 @@
+---
+title: ewokracja | Patromierz
+permalink: /ewokracja
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/e/ewokracja.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [ewokracja](https://patronite.pl/ewokracja)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["ewokracja"]);
+</script>

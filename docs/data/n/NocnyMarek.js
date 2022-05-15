@@ -1,0 +1,7 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["NocnyMarek"] = [
+	[new Date(1652261901000), 50, 3, 16.66, 50],
+	[new Date(1652318461000), 85, 6, 14.16, 85],
+	[new Date(1652404915000), 115, 7, 16.42, 115],
+	[new Date(1652491398000), 165, 8, 20.62, 165],
+];

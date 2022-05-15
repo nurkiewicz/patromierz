@@ -1,0 +1,9 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["fundacja-ekologicznie"] = [
+	[new Date(1652064350000), 20, 1, 20.0, 20],
+	[new Date(1652152330000), 20, 1, 20.0, 20],
+	[new Date(1652266677000), 20, 1, 20.0, 20],
+	[new Date(1652323206000), 20, 1, 20.0, 20],
+	[new Date(1652409673000), 20, 1, 20.0, 20],
+	[new Date(1652496176000), 20, 1, 20.0, 20],
+];

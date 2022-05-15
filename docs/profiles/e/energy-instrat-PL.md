@@ -1,0 +1,30 @@
+---
+title: energy-instrat-PL | Patromierz
+permalink: /energy-instrat-PL
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/e/energy-instrat-PL.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [energy-instrat-PL](https://patronite.pl/energy-instrat-PL)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["energy-instrat-PL"]);
+</script>

@@ -1,0 +1,30 @@
+---
+title: sylwiadudziak-travllersgeograp | Patromierz
+permalink: /sylwiadudziak-travllersgeograp
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/s/sylwiadudziak-travllersgeograp.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [sylwiadudziak-travllersgeograp](https://patronite.pl/sylwiadudziak-travllersgeograp)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["sylwiadudziak-travllersgeograp"]);
+</script>

@@ -1,0 +1,30 @@
+---
+title: fundacja-weblex | Patromierz
+permalink: /fundacja-weblex
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/f/fundacja-weblex.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [fundacja-weblex](https://patronite.pl/fundacja-weblex)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["fundacja-weblex"]);
+</script>

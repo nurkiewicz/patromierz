@@ -1,0 +1,30 @@
+---
+title: brodate_dzwieki | Patromierz
+permalink: /brodate_dzwieki
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/b/brodate_dzwieki.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [brodate_dzwieki](https://patronite.pl/brodate_dzwieki)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["brodate_dzwieki"]);
+</script>

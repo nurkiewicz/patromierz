@@ -1,0 +1,30 @@
+---
+title: historia-z-morisem | Patromierz
+permalink: /historia-z-morisem
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/h/historia-z-morisem.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [historia-z-morisem](https://patronite.pl/historia-z-morisem)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["historia-z-morisem"]);
+</script>

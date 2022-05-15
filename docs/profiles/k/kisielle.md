@@ -1,0 +1,30 @@
+---
+title: kisielle | Patromierz
+permalink: /kisielle
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/k/kisielle.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [kisielle](https://patronite.pl/kisielle)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["kisielle"]);
+</script>

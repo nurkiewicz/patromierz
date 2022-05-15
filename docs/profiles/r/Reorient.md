@@ -1,0 +1,30 @@
+---
+title: Reorient | Patromierz
+permalink: /Reorient
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/r/Reorient.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [Reorient](https://patronite.pl/Reorient)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["Reorient"]);
+</script>

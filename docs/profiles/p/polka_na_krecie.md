@@ -1,0 +1,30 @@
+---
+title: polka_na_krecie | Patromierz
+permalink: /polka_na_krecie
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="data/p/polka_na_krecie.js"></script>
+<script type="text/javascript" src="js/chart.js"></script>
+
+# [polka_na_krecie](https://patronite.pl/polka_na_krecie)
+
+## Miesięczne wsparcie
+
+<div id="chart_monthly" class="chart"></div>
+
+## Patroni
+
+<div id="chart_supporters" class="chart"></div>
+
+## Łącznie
+
+<div id="chart_total" class="chart"></div>
+
+## Średnie wsparcie
+
+<div id="chart_average" class="chart"></div>
+
+<script type="text/javascript">
+    window.onload = () => drawCharts(profiles["polka_na_krecie"]);
+</script>
