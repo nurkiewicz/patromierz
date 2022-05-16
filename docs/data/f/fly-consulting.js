@@ -108,4 +108,6 @@ profiles["fly-consulting"] = [
 	[new Date(1652323072000), 10, null, null, 150],
 	[new Date(1652409537000), 10, null, null, 150],
 	[new Date(1652496043000), 10, null, null, 150],
+	[new Date(1652577900000), 10, 1, 10.0, 160],
+	[new Date(1652664230000), 10, 1, 10.0, 160],
 ];

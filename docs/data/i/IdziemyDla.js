@@ -108,4 +108,6 @@ profiles["IdziemyDla"] = [
 	[new Date(1652316912000), 30, 1, 30.0, 1405],
 	[new Date(1652403356000), 30, 1, 30.0, 1405],
 	[new Date(1652489828000), 30, null, null, 1405],
+	[new Date(1652571726000), 30, null, null, 1405],
+	[new Date(1652658123000), 30, null, null, 1405],
 ];

@@ -108,4 +108,6 @@ profiles["daneradarowe"] = [
 	[new Date(1652322245000), 20, null, null, 420],
 	[new Date(1652408707000), 20, null, null, 420],
 	[new Date(1652495209000), 20, null, null, 420],
+	[new Date(1652577070000), 20, null, null, 420],
+	[new Date(1652663407000), 20, 1, 20.0, 440],
 ];

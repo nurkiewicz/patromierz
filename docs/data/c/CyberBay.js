@@ -108,4 +108,6 @@ profiles["CyberBay"] = [
 	[new Date(1652315905000), 10, 1, 10.0, 240],
 	[new Date(1652402358000), 10, 1, 10.0, 240],
 	[new Date(1652488820000), 10, null, null, 240],
+	[new Date(1652570725000), 10, null, null, 240],
+	[new Date(1652657124000), 10, null, null, 240],
 ];

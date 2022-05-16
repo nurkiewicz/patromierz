@@ -89,4 +89,6 @@ profiles["paulinasliwaart"] = [
 	[new Date(1652327482000), 24, 1, 24.0, 72],
 	[new Date(1652413939000), 24, 1, 24.0, 72],
 	[new Date(1652500465000), 24, 1, 24.0, 72],
+	[new Date(1652582263000), null, 1, null, 72],
+	[new Date(1652668585000), null, 1, null, 72],
 ];
