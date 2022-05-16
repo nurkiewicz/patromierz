@@ -17,8 +17,8 @@ title: Patromierz
 email: your-email@example.com
 description: >- 
   Statystyki patronite.pl
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/patromierz" # the subpath of your site, e.g. /blog
+url: "https://nurkiewicz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
