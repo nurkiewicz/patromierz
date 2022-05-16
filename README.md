@@ -1,1 +1,1 @@
-http://patromierz.nurkiewicz.com/
+https://patromierz.nurkiewicz.com/
