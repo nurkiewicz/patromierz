@@ -1,1 +1,1 @@
-https://nurkiewicz.github.io/patromierz/
+http://patromierz.nurkiewicz.com/
