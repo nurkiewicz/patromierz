@@ -20,4 +20,5 @@ profiles["trenerbartosz"] = [
 	[new Date(1652503626000), null, 1, null, 7],
 	[new Date(1652585394000), null, 1, null, 7],
 	[new Date(1652671693000), null, 1, null, 7],
+	[new Date(1652758220000), null, 1, null, 7],
 ];

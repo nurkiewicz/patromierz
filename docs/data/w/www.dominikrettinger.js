@@ -11,4 +11,5 @@ profiles["www.dominikrettinger"] = [
 	[new Date(1652504338000), 20, 2, 10.0, 20],
 	[new Date(1652586102000), 20, 2, 10.0, 20],
 	[new Date(1652672397000), 20, 2, 10.0, 20],
+	[new Date(1652758942000), null, 2, null, 170],
 ];

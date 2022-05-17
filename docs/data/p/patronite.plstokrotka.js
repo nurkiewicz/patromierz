@@ -49,4 +49,5 @@ profiles["patronite.plstokrotka"] = [
 	[new Date(1652500420000), null, 1, null, 20],
 	[new Date(1652582217000), null, 1, null, 20],
 	[new Date(1652668539000), null, 1, null, 20],
+	[new Date(1652754992000), null, 1, null, 20],
 ];
