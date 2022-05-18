@@ -37,7 +37,7 @@ function drawBasic(data, column, id, label, format) {
         var dt = new google.visualization.DataTable();
         dt.addColumn('date', '');
         dt.addColumn('number', label);
-        dt.addRows(data.map(row => [row[0], row[column]]).filter(row => row[1]));
+        dt.addRows(data.map(row => [new Date(row[0] * 1000), row[column]]).filter(row => row[1]));
         var options = {
             vAxis: {
                 format: format

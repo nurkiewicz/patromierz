@@ -10,10 +10,6 @@ plugins:
 
 show_downloads: false
 
-site:
-  github:
-    is_project_page: false
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
