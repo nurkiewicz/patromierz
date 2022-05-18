@@ -28,3 +28,5 @@ permalink: /kompaskryzysowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kompaskryzysowy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

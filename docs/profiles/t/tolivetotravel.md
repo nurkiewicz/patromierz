@@ -28,3 +28,5 @@ permalink: /tolivetotravel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tolivetotravel"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

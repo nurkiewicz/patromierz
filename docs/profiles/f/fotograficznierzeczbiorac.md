@@ -28,3 +28,5 @@ permalink: /fotograficznierzeczbiorac
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fotograficznierzeczbiorac"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

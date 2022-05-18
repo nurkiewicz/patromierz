@@ -28,3 +28,5 @@ permalink: /Boudicca
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Boudicca"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

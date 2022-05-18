@@ -28,3 +28,5 @@ permalink: /KurierHistoryczny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KurierHistoryczny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

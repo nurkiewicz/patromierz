@@ -28,3 +28,5 @@ permalink: /nataliabrand
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nataliabrand"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

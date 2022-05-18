@@ -28,3 +28,5 @@ permalink: /podcastspecjalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podcastspecjalny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

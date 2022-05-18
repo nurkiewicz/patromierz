@@ -28,3 +28,5 @@ permalink: /diego-lopez
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["diego-lopez"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

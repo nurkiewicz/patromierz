@@ -28,3 +28,5 @@ permalink: /tyniec_wydawnictwo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tyniec_wydawnictwo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

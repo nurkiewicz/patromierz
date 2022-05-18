@@ -28,3 +28,5 @@ permalink: /MonikaMatusik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MonikaMatusik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

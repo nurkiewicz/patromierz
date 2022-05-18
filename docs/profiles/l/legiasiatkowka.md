@@ -28,3 +28,5 @@ permalink: /legiasiatkowka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["legiasiatkowka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

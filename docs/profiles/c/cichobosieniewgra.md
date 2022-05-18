@@ -28,3 +28,5 @@ permalink: /cichobosieniewgra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cichobosieniewgra"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

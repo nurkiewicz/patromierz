@@ -28,3 +28,5 @@ permalink: /ppb
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ppb"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

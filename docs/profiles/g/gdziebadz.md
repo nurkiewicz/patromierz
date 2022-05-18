@@ -28,3 +28,5 @@ permalink: /gdziebadz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gdziebadz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

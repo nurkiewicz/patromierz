@@ -28,3 +28,5 @@ permalink: /pantinka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pantinka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

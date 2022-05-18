@@ -28,3 +28,5 @@ permalink: /AgnieszkaFlis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AgnieszkaFlis"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

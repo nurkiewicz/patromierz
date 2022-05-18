@@ -28,3 +28,5 @@ permalink: /Justembroidery
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Justembroidery"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kajutex
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kajutex"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

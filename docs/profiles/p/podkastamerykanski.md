@@ -28,3 +28,5 @@ permalink: /podkastamerykanski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podkastamerykanski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

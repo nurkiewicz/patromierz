@@ -28,3 +28,5 @@ permalink: /zespolcme
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zespolcme"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

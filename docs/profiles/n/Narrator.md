@@ -28,3 +28,5 @@ permalink: /Narrator
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Narrator"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

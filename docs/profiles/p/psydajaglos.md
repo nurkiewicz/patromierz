@@ -28,3 +28,5 @@ permalink: /psydajaglos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psydajaglos"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /przygarnijkota
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przygarnijkota"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /prawdziwe-zbrodnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prawdziwe-zbrodnie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

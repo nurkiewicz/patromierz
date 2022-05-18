@@ -28,3 +28,5 @@ permalink: /upgrademozg
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["upgrademozg"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

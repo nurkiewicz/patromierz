@@ -28,3 +28,5 @@ permalink: /ravgor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ravgor"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /gramofontv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gramofontv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

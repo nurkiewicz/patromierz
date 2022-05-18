@@ -28,3 +28,5 @@ permalink: /radomskieklasyki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radomskieklasyki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Biwak-PolanaSzeptow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Biwak-PolanaSzeptow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

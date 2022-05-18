@@ -28,3 +28,5 @@ permalink: /teistacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teistacja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

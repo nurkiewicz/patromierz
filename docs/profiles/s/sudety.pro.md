@@ -28,3 +28,5 @@ permalink: /sudety.pro
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sudety.pro"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

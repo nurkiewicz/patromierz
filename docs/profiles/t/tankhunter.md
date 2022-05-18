@@ -28,3 +28,5 @@ permalink: /tankhunter
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tankhunter"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

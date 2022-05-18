@@ -28,3 +28,5 @@ permalink: /mypolitics
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mypolitics"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

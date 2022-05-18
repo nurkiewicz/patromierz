@@ -28,3 +28,5 @@ permalink: /Kasia_in
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kasia_in"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

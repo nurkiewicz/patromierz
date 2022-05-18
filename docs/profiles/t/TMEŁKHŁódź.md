@@ -28,3 +28,5 @@ permalink: /TMEŁKHŁódź
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TMEŁKHŁódź"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

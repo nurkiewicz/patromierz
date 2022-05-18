@@ -28,3 +28,5 @@ permalink: /podnaporem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podnaporem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

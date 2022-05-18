@@ -28,3 +28,5 @@ permalink: /panpjoter
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["panpjoter"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

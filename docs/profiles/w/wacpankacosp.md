@@ -28,3 +28,5 @@ permalink: /wacpankacosp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wacpankacosp"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

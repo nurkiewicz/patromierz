@@ -28,3 +28,5 @@ permalink: /TerazGoldap
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TerazGoldap"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

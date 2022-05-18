@@ -28,3 +28,5 @@ permalink: /festiwalempatia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["festiwalempatia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

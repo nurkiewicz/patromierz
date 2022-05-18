@@ -28,3 +28,5 @@ permalink: /wojowniczka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wojowniczka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

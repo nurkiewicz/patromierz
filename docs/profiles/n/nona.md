@@ -28,3 +28,5 @@ permalink: /nona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nona"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

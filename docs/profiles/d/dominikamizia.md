@@ -28,3 +28,5 @@ permalink: /dominikamizia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dominikamizia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

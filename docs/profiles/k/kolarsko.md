@@ -28,3 +28,5 @@ permalink: /kolarsko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kolarsko"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

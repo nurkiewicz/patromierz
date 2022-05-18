@@ -28,3 +28,5 @@ permalink: /niuniaposting
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niuniaposting"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

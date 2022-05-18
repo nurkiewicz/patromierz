@@ -28,3 +28,5 @@ permalink: /StrzeleckiVideo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StrzeleckiVideo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

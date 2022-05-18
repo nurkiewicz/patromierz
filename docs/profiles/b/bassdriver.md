@@ -28,3 +28,5 @@ permalink: /bassdriver
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bassdriver"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

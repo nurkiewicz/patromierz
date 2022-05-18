@@ -28,3 +28,5 @@ permalink: /balet-krynica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["balet-krynica"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /KarolSchwarz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KarolSchwarz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

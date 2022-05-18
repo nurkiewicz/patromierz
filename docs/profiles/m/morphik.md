@@ -28,3 +28,5 @@ permalink: /morphik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["morphik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

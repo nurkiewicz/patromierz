@@ -28,3 +28,5 @@ permalink: /Spox_2
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Spox_2"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

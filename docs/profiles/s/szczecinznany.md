@@ -28,3 +28,5 @@ permalink: /szczecinznany
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szczecinznany"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

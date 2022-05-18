@@ -28,3 +28,5 @@ permalink: /Michal_Backiel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Michal_Backiel"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

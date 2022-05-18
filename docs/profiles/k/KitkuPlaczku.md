@@ -28,3 +28,5 @@ permalink: /KitkuPlaczku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KitkuPlaczku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

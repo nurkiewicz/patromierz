@@ -28,3 +28,5 @@ permalink: /PutinowaPolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PutinowaPolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

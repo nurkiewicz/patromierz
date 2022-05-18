@@ -28,3 +28,5 @@ permalink: /Sieje_Dobro
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sieje_Dobro"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

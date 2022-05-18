@@ -28,3 +28,5 @@ permalink: /globstory
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["globstory"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /mike-satoshi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mike-satoshi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

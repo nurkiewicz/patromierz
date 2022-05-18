@@ -28,3 +28,5 @@ permalink: /Finansista
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Finansista"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

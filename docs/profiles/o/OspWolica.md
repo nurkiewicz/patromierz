@@ -28,3 +28,5 @@ permalink: /OspWolica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OspWolica"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

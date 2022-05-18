@@ -28,3 +28,5 @@ permalink: /spooneg3
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spooneg3"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

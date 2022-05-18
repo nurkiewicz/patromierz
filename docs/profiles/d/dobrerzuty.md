@@ -28,3 +28,5 @@ permalink: /dobrerzuty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dobrerzuty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

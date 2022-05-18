@@ -28,3 +28,5 @@ permalink: /eduobywatelska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eduobywatelska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

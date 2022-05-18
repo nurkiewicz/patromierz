@@ -28,3 +28,5 @@ permalink: /rallypl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rallypl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /bulldog-in-yellow-submarine
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bulldog-in-yellow-submarine"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

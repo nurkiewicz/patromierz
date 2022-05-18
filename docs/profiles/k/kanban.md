@@ -28,3 +28,5 @@ permalink: /kanban
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kanban"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

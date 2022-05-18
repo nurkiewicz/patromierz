@@ -28,3 +28,5 @@ permalink: /elektrowozpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["elektrowozpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

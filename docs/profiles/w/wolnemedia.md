@@ -28,3 +28,5 @@ permalink: /wolnemedia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wolnemedia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

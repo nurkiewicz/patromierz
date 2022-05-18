@@ -28,3 +28,5 @@ permalink: /namaluj-mi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["namaluj-mi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

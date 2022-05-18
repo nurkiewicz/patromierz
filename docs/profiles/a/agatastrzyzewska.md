@@ -28,3 +28,5 @@ permalink: /agatastrzyzewska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["agatastrzyzewska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

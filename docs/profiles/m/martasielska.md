@@ -28,3 +28,5 @@ permalink: /martasielska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["martasielska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

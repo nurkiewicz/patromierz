@@ -28,3 +28,5 @@ permalink: /urbexpkr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["urbexpkr"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

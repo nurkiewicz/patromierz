@@ -28,3 +28,5 @@ permalink: /OrphanedByGenesis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OrphanedByGenesis"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

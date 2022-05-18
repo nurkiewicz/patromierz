@@ -28,3 +28,5 @@ permalink: /ChickenLifestyle
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ChickenLifestyle"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

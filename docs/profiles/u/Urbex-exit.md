@@ -28,3 +28,5 @@ permalink: /Urbex-exit
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Urbex-exit"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

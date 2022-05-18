@@ -28,3 +28,5 @@ permalink: /przesiadkowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przesiadkowy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

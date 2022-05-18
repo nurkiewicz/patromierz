@@ -28,3 +28,5 @@ permalink: /perchprofessor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["perchprofessor"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

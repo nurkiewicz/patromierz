@@ -28,3 +28,5 @@ permalink: /kocimiętka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kocimiętka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

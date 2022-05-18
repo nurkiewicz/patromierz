@@ -28,3 +28,5 @@ permalink: /Gitarowanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Gitarowanie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

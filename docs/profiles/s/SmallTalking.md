@@ -28,3 +28,5 @@ permalink: /SmallTalking
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SmallTalking"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /calaprawda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["calaprawda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

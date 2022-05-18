@@ -28,3 +28,5 @@ permalink: /NaszeRadioUSA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NaszeRadioUSA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

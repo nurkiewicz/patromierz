@@ -28,3 +28,5 @@ permalink: /FundacjaDlaWszystkich
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaDlaWszystkich"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

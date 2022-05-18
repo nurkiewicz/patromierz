@@ -28,3 +28,5 @@ permalink: /pharmacopola
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pharmacopola"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

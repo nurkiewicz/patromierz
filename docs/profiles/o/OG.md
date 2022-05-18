@@ -28,3 +28,5 @@ permalink: /OG
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OG"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

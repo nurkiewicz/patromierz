@@ -28,3 +28,5 @@ permalink: /TowarzystwoPrzyjaciółZiemiLąde
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TowarzystwoPrzyjaciółZiemiLąde"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

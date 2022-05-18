@@ -28,3 +28,5 @@ permalink: /boczemunie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["boczemunie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

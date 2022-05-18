@@ -28,3 +28,5 @@ permalink: /mensrightsPolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mensrightsPolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

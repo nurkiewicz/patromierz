@@ -28,3 +28,5 @@ permalink: /LukaszRybarskiYES
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LukaszRybarskiYES"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

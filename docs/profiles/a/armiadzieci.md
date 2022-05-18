@@ -28,3 +28,5 @@ permalink: /armiadzieci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["armiadzieci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

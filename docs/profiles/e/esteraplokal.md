@@ -28,3 +28,5 @@ permalink: /esteraplokal
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["esteraplokal"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

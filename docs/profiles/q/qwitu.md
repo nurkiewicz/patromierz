@@ -28,3 +28,5 @@ permalink: /qwitu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["qwitu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

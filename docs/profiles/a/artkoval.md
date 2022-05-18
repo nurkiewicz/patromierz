@@ -28,3 +28,5 @@ permalink: /artkoval
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["artkoval"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

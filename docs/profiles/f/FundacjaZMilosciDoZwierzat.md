@@ -28,3 +28,5 @@ permalink: /FundacjaZMilosciDoZwierzat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaZMilosciDoZwierzat"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

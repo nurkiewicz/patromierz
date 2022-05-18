@@ -28,3 +28,5 @@ permalink: /kolejwogrodzie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kolejwogrodzie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

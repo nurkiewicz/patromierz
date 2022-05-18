@@ -28,3 +28,5 @@ permalink: /KawaiiQueenMagdalena
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KawaiiQueenMagdalena"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

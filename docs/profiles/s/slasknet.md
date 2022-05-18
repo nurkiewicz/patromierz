@@ -28,3 +28,5 @@ permalink: /slasknet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slasknet"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

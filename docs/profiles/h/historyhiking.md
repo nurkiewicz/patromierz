@@ -28,3 +28,5 @@ permalink: /historyhiking
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historyhiking"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

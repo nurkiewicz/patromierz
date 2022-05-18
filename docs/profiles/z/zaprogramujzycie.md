@@ -28,3 +28,5 @@ permalink: /zaprogramujzycie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zaprogramujzycie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /guitarstories
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["guitarstories"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

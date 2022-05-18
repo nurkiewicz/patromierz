@@ -28,3 +28,5 @@ permalink: /CoachKuba
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CoachKuba"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /domzkamienia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["domzkamienia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

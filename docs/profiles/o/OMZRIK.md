@@ -28,3 +28,5 @@ permalink: /OMZRIK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OMZRIK"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

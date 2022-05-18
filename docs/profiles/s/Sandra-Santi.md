@@ -28,3 +28,5 @@ permalink: /Sandra-Santi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sandra-Santi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

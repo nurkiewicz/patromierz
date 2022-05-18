@@ -28,3 +28,5 @@ permalink: /prosto-o-prawie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prosto-o-prawie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kanałkryminalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kanałkryminalny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

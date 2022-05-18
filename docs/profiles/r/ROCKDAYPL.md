@@ -28,3 +28,5 @@ permalink: /ROCKDAYPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ROCKDAYPL"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

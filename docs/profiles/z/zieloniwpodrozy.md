@@ -28,3 +28,5 @@ permalink: /zieloniwpodrozy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zieloniwpodrozy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

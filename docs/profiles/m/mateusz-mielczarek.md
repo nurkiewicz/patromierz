@@ -28,3 +28,5 @@ permalink: /mateusz-mielczarek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mateusz-mielczarek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

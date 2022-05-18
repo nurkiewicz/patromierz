@@ -28,3 +28,5 @@ permalink: /Jolanta_Klavier_in_Kiel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Jolanta_Klavier_in_Kiel"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

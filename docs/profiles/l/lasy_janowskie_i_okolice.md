@@ -28,3 +28,5 @@ permalink: /lasy_janowskie_i_okolice
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lasy_janowskie_i_okolice"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kebson
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kebson"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

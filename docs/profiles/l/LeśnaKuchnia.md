@@ -28,3 +28,5 @@ permalink: /LeśnaKuchnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LeśnaKuchnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

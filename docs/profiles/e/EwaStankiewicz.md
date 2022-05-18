@@ -28,3 +28,5 @@ permalink: /EwaStankiewicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EwaStankiewicz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

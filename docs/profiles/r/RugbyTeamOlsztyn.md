@@ -28,3 +28,5 @@ permalink: /RugbyTeamOlsztyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RugbyTeamOlsztyn"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

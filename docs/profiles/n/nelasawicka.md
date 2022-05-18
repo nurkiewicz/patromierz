@@ -28,3 +28,5 @@ permalink: /nelasawicka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nelasawicka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

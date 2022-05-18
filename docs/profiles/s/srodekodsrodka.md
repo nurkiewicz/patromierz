@@ -28,3 +28,5 @@ permalink: /srodekodsrodka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["srodekodsrodka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

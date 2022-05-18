@@ -28,3 +28,5 @@ permalink: /emilolejnik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["emilolejnik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

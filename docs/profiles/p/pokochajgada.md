@@ -28,3 +28,5 @@ permalink: /pokochajgada
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pokochajgada"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

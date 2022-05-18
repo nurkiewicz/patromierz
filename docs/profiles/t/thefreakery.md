@@ -28,3 +28,5 @@ permalink: /thefreakery
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["thefreakery"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

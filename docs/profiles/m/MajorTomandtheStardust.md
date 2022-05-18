@@ -28,3 +28,5 @@ permalink: /MajorTomandtheStardust
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MajorTomandtheStardust"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /hackroom122
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hackroom122"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

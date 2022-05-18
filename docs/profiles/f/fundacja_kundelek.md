@@ -28,3 +28,5 @@ permalink: /fundacja_kundelek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja_kundelek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

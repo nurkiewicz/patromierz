@@ -28,3 +28,5 @@ permalink: /jacek_suchanowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jacek_suchanowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /MDP
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MDP"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

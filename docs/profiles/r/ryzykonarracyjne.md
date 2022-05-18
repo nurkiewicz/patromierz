@@ -28,3 +28,5 @@ permalink: /ryzykonarracyjne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ryzykonarracyjne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

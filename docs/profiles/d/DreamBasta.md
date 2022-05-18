@@ -28,3 +28,5 @@ permalink: /DreamBasta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DreamBasta"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

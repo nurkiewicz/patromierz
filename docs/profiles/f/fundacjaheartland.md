@@ -28,3 +28,5 @@ permalink: /fundacjaheartland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaheartland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

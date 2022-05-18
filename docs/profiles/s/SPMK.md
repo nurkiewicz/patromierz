@@ -28,3 +28,5 @@ permalink: /SPMK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SPMK"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

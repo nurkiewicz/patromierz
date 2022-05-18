@@ -28,3 +28,5 @@ permalink: /muzeum
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzeum"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /steiger
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["steiger"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

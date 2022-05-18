@@ -28,3 +28,5 @@ permalink: /KoLiber
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KoLiber"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

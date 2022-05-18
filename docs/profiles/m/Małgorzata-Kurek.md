@@ -28,3 +28,5 @@ permalink: /Małgorzata-Kurek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Małgorzata-Kurek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

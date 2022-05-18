@@ -28,3 +28,5 @@ permalink: /Szczytomaniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Szczytomaniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

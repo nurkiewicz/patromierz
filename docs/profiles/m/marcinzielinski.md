@@ -28,3 +28,5 @@ permalink: /marcinzielinski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marcinzielinski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

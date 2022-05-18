@@ -28,3 +28,5 @@ permalink: /MuzykaRelaksacyjna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MuzykaRelaksacyjna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /KulawaEksploracja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KulawaEksploracja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /GarageMakeZone
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GarageMakeZone"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

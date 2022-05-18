@@ -28,3 +28,5 @@ permalink: /mateuszrajski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mateuszrajski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

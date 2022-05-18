@@ -28,3 +28,5 @@ permalink: /jwesolowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jwesolowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

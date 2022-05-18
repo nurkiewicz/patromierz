@@ -28,3 +28,5 @@ permalink: /anjunafamilypoland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anjunafamilypoland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

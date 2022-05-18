@@ -28,3 +28,5 @@ permalink: /PolniPizgacze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolniPizgacze"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

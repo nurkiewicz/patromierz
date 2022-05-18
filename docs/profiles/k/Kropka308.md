@@ -28,3 +28,5 @@ permalink: /Kropka308
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kropka308"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

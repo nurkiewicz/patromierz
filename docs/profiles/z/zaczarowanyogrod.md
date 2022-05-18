@@ -28,3 +28,5 @@ permalink: /zaczarowanyogrod
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zaczarowanyogrod"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

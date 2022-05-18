@@ -28,3 +28,5 @@ permalink: /mateusz-tites-meyer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mateusz-tites-meyer"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

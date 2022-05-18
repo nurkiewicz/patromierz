@@ -28,3 +28,5 @@ permalink: /imw
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["imw"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

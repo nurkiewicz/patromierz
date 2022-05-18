@@ -28,3 +28,5 @@ permalink: /gosiasacala
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gosiasacala"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

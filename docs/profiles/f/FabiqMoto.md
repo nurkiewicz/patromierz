@@ -28,3 +28,5 @@ permalink: /FabiqMoto
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FabiqMoto"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

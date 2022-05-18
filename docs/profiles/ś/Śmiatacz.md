@@ -28,3 +28,5 @@ permalink: /Śmiatacz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Śmiatacz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

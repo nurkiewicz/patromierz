@@ -28,3 +28,5 @@ permalink: /zmorderstwem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zmorderstwem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

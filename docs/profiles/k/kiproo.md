@@ -28,3 +28,5 @@ permalink: /kiproo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kiproo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wjadrodyskursu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wjadrodyskursu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

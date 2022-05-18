@@ -28,3 +28,5 @@ permalink: /piotrplebaniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["piotrplebaniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

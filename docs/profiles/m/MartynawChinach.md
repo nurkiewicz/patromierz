@@ -28,3 +28,5 @@ permalink: /MartynawChinach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MartynawChinach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

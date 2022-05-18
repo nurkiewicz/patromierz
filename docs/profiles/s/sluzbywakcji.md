@@ -28,3 +28,5 @@ permalink: /sluzbywakcji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sluzbywakcji"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

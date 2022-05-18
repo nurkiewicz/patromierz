@@ -28,3 +28,5 @@ permalink: /wiki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wiki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

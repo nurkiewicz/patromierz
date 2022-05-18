@@ -28,3 +28,5 @@ permalink: /dziennikarzdlaklimatu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dziennikarzdlaklimatu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

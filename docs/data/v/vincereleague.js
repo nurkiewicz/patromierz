@@ -110,4 +110,5 @@ profiles["vincereleague"] = [
 	[new Date(1652585642000), null, 1, null, 470],
 	[new Date(1652671942000), null, 1, null, 470],
 	[new Date(1652758475000), null, 1, null, 470],
+	[new Date(1652866217000), null, 1, null, 470],
 ];

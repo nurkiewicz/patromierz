@@ -28,3 +28,5 @@ permalink: /ArkadyFiedler
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ArkadyFiedler"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

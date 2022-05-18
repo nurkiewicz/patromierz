@@ -28,3 +28,5 @@ permalink: /Barycza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Barycza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

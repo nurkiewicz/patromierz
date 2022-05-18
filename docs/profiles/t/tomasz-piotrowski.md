@@ -28,3 +28,5 @@ permalink: /tomasz-piotrowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tomasz-piotrowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

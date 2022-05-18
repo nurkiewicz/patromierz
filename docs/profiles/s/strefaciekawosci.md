@@ -28,3 +28,5 @@ permalink: /strefaciekawosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["strefaciekawosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

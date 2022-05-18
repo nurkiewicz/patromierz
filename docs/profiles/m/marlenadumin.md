@@ -28,3 +28,5 @@ permalink: /marlenadumin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marlenadumin"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kotypodgora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kotypodgora"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

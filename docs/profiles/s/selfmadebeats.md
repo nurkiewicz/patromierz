@@ -28,3 +28,5 @@ permalink: /selfmadebeats
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["selfmadebeats"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

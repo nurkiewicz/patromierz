@@ -28,3 +28,5 @@ permalink: /Konti
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Konti"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

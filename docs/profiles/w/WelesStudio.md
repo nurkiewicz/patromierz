@@ -28,3 +28,5 @@ permalink: /WelesStudio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WelesStudio"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /DiakoN
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DiakoN"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /betlejewski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["betlejewski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /godmother
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["godmother"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

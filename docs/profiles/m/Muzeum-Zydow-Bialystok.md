@@ -28,3 +28,5 @@ permalink: /Muzeum-Zydow-Bialystok
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Muzeum-Zydow-Bialystok"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

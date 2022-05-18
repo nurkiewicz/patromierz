@@ -28,3 +28,5 @@ permalink: /lente
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lente"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

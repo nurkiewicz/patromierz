@@ -28,3 +28,5 @@ permalink: /militarnajazda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["militarnajazda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

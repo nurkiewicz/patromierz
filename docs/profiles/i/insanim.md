@@ -28,3 +28,5 @@ permalink: /insanim
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["insanim"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

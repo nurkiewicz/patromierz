@@ -28,3 +28,5 @@ permalink: /paulinapawlik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paulinapawlik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

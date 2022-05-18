@@ -28,3 +28,5 @@ permalink: /hadzbe
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hadzbe"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /joga-paulina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["joga-paulina"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

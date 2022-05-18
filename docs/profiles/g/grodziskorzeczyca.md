@@ -28,3 +28,5 @@ permalink: /grodziskorzeczyca
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grodziskorzeczyca"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

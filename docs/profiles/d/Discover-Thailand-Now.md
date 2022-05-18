@@ -28,3 +28,5 @@ permalink: /Discover-Thailand-Now
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Discover-Thailand-Now"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

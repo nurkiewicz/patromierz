@@ -28,3 +28,5 @@ permalink: /kupachrustu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kupachrustu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

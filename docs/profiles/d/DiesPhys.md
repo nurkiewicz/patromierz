@@ -28,3 +28,5 @@ permalink: /DiesPhys
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DiesPhys"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

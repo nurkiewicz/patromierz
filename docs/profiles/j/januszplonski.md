@@ -28,3 +28,5 @@ permalink: /januszplonski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["januszplonski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

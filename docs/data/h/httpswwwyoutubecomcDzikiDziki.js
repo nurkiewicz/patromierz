@@ -111,4 +111,5 @@ profiles["httpswwwyoutubecomcDzikiDziki"] = [
 	[new Date(1652578723000), 15, 1, 15.0, 90],
 	[new Date(1652665051000), 15, 1, 15.0, 90],
 	[new Date(1652751439000), 15, 1, 15.0, 90],
+	[new Date(1652865127000), 15, 1, 15.0, 105],
 ];

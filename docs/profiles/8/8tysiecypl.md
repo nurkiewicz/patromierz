@@ -28,3 +28,5 @@ permalink: /8tysiecypl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["8tysiecypl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

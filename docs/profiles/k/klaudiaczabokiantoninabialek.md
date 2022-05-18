@@ -28,3 +28,5 @@ permalink: /klaudiaczabokiantoninabialek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klaudiaczabokiantoninabialek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

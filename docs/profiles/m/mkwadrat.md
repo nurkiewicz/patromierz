@@ -28,3 +28,5 @@ permalink: /mkwadrat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mkwadrat"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

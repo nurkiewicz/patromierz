@@ -28,3 +28,5 @@ permalink: /vlognaskale
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vlognaskale"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

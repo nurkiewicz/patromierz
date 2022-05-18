@@ -28,3 +28,5 @@ permalink: /matrik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["matrik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

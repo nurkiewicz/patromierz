@@ -28,3 +28,5 @@ permalink: /ziarnoswiadomosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ziarnoswiadomosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

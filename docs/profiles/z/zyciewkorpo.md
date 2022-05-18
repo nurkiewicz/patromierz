@@ -28,3 +28,5 @@ permalink: /zyciewkorpo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zyciewkorpo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

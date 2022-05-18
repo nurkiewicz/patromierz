@@ -28,3 +28,5 @@ permalink: /rouler
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rouler"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

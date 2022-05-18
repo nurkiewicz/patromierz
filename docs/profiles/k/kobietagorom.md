@@ -28,3 +28,5 @@ permalink: /kobietagorom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kobietagorom"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

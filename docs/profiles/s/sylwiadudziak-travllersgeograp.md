@@ -28,3 +28,5 @@ permalink: /sylwiadudziak-travllersgeograp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sylwiadudziak-travllersgeograp"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

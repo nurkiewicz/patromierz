@@ -28,3 +28,5 @@ permalink: /MGRMAJKI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MGRMAJKI"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

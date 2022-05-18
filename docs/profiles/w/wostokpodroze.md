@@ -28,3 +28,5 @@ permalink: /wostokpodroze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wostokpodroze"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

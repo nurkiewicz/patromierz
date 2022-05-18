@@ -28,3 +28,5 @@ permalink: /GdziewPolscenaweekend
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GdziewPolscenaweekend"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

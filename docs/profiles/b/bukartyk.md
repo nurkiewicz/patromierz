@@ -28,3 +28,5 @@ permalink: /bukartyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bukartyk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

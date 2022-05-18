@@ -28,3 +28,5 @@ permalink: /pasja-informatyki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pasja-informatyki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

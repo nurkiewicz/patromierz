@@ -28,3 +28,5 @@ permalink: /alfahfemmes
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["alfahfemmes"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /pptv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pptv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

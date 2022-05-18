@@ -28,3 +28,5 @@ permalink: /racjapielegnacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["racjapielegnacja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

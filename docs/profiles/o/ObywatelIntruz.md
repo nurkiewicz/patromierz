@@ -28,3 +28,5 @@ permalink: /ObywatelIntruz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ObywatelIntruz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

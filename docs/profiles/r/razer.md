@@ -28,3 +28,5 @@ permalink: /razer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["razer"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

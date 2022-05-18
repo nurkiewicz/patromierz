@@ -28,3 +28,5 @@ permalink: /horrorshowPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["horrorshowPL"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

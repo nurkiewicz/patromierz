@@ -28,3 +28,5 @@ permalink: /mikrowyprawy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mikrowyprawy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

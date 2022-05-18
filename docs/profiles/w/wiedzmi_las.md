@@ -28,3 +28,5 @@ permalink: /wiedzmi_las
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wiedzmi_las"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

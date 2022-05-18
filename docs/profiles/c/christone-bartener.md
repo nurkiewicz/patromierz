@@ -28,3 +28,5 @@ permalink: /christone-bartener
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["christone-bartener"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

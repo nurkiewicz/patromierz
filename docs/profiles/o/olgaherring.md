@@ -28,3 +28,5 @@ permalink: /olgaherring
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["olgaherring"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

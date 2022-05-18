@@ -28,3 +28,5 @@ permalink: /lodzdlaludzi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lodzdlaludzi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

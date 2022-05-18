@@ -28,3 +28,5 @@ permalink: /gdanskpomaga
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gdanskpomaga"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

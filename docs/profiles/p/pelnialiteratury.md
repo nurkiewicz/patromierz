@@ -28,3 +28,5 @@ permalink: /pelnialiteratury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pelnialiteratury"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kipisz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kipisz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

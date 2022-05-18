@@ -28,3 +28,5 @@ permalink: /Anatomia_Mechaniki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Anatomia_Mechaniki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

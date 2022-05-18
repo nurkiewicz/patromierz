@@ -28,3 +28,5 @@ permalink: /BaldTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BaldTV"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

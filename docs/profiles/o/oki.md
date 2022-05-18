@@ -28,3 +28,5 @@ permalink: /oki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["oki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

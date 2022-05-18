@@ -28,3 +28,5 @@ permalink: /krzysztof_piersa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["krzysztof_piersa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

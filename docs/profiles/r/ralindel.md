@@ -28,3 +28,5 @@ permalink: /ralindel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ralindel"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

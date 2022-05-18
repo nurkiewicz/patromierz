@@ -28,3 +28,5 @@ permalink: /ZGlowaWGwiazdach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZGlowaWGwiazdach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /PodkastTygodnikaPowszechnego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PodkastTygodnikaPowszechnego"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

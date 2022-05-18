@@ -28,3 +28,5 @@ permalink: /aniablush
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["aniablush"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

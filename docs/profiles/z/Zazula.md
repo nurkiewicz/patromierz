@@ -28,3 +28,5 @@ permalink: /Zazula
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Zazula"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

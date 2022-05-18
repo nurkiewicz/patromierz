@@ -28,3 +28,5 @@ permalink: /szydercawloczykij
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szydercawloczykij"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /MiszczGryRobakov
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MiszczGryRobakov"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

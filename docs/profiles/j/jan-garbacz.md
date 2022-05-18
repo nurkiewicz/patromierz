@@ -28,3 +28,5 @@ permalink: /jan-garbacz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jan-garbacz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

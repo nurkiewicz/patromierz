@@ -28,3 +28,5 @@ permalink: /crystaltarot
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["crystaltarot"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

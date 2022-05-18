@@ -28,3 +28,5 @@ permalink: /debski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["debski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

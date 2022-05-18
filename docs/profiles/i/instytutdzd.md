@@ -28,3 +28,5 @@ permalink: /instytutdzd
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["instytutdzd"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

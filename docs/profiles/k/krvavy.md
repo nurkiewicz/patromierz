@@ -28,3 +28,5 @@ permalink: /krvavy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["krvavy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

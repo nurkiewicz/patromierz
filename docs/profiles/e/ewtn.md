@@ -28,3 +28,5 @@ permalink: /ewtn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ewtn"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

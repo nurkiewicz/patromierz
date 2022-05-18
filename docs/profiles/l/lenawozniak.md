@@ -28,3 +28,5 @@ permalink: /lenawozniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lenawozniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

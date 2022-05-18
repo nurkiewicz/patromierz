@@ -28,3 +28,5 @@ permalink: /mezczyznaspelniony
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mezczyznaspelniony"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

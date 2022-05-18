@@ -28,3 +28,5 @@ permalink: /Wojtek-Taraba-parasnowboard
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Wojtek-Taraba-parasnowboard"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

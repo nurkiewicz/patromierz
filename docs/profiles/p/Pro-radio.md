@@ -28,3 +28,5 @@ permalink: /Pro-radio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Pro-radio"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

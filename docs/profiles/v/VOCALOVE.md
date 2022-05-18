@@ -28,3 +28,5 @@ permalink: /VOCALOVE
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["VOCALOVE"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

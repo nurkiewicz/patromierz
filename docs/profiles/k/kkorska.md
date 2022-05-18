@@ -28,3 +28,5 @@ permalink: /kkorska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kkorska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

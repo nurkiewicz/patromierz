@@ -28,3 +28,5 @@ permalink: /szop
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szop"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

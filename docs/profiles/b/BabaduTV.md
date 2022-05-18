@@ -28,3 +28,5 @@ permalink: /BabaduTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BabaduTV"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /ARDK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ARDK"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

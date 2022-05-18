@@ -28,3 +28,5 @@ permalink: /odjechanezwierzatka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odjechanezwierzatka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

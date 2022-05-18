@@ -28,3 +28,5 @@ permalink: /pathlife
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pathlife"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

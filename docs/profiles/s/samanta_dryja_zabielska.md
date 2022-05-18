@@ -28,3 +28,5 @@ permalink: /samanta_dryja_zabielska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["samanta_dryja_zabielska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

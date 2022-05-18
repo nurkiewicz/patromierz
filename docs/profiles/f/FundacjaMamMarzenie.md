@@ -28,3 +28,5 @@ permalink: /FundacjaMamMarzenie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaMamMarzenie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

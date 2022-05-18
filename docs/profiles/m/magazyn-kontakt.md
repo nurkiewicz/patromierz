@@ -28,3 +28,5 @@ permalink: /magazyn-kontakt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magazyn-kontakt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

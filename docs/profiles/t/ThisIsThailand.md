@@ -28,3 +28,5 @@ permalink: /ThisIsThailand
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ThisIsThailand"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

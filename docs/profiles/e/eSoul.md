@@ -28,3 +28,5 @@ permalink: /eSoul
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eSoul"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

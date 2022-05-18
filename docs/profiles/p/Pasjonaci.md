@@ -28,3 +28,5 @@ permalink: /Pasjonaci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Pasjonaci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

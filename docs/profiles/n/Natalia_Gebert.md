@@ -28,3 +28,5 @@ permalink: /Natalia_Gebert
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Natalia_Gebert"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

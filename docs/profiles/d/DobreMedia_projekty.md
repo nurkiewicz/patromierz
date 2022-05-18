@@ -28,3 +28,5 @@ permalink: /DobreMedia_projekty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DobreMedia_projekty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

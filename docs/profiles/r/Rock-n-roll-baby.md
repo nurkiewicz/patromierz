@@ -28,3 +28,5 @@ permalink: /Rock-n-roll-baby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Rock-n-roll-baby"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

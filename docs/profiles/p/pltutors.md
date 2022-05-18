@@ -28,3 +28,5 @@ permalink: /pltutors
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pltutors"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

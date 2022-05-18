@@ -28,3 +28,5 @@ permalink: /ArekTrajdos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ArekTrajdos"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

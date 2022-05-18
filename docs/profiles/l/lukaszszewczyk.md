@@ -28,3 +28,5 @@ permalink: /lukaszszewczyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lukaszszewczyk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

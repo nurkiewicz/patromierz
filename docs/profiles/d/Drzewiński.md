@@ -28,3 +28,5 @@ permalink: /Drzewiński
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Drzewiński"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

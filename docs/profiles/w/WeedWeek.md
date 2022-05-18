@@ -28,3 +28,5 @@ permalink: /WeedWeek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WeedWeek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

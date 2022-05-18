@@ -28,3 +28,5 @@ permalink: /christianitas
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["christianitas"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /rpgowa-alchemia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rpgowa-alchemia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

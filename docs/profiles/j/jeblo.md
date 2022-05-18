@@ -28,3 +28,5 @@ permalink: /jeblo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jeblo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

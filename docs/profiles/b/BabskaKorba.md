@@ -28,3 +28,5 @@ permalink: /BabskaKorba
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BabskaKorba"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

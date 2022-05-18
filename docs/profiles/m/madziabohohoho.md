@@ -28,3 +28,5 @@ permalink: /madziabohohoho
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["madziabohohoho"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

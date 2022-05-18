@@ -28,3 +28,5 @@ permalink: /adamjazwiecki-nietylkowlewo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adamjazwiecki-nietylkowlewo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

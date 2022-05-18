@@ -28,3 +28,5 @@ permalink: /btepl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["btepl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

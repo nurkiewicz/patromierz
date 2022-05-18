@@ -28,3 +28,5 @@ permalink: /Nawrocki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Nawrocki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

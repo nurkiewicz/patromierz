@@ -28,3 +28,5 @@ permalink: /naislandii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["naislandii"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

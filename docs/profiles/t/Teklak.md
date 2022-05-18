@@ -28,3 +28,5 @@ permalink: /Teklak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Teklak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

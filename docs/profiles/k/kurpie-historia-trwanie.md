@@ -28,3 +28,5 @@ permalink: /kurpie-historia-trwanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kurpie-historia-trwanie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

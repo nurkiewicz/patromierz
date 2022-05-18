@@ -28,3 +28,5 @@ permalink: /jangorski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jangorski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

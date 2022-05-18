@@ -28,3 +28,5 @@ permalink: /CamperAustraliaTrip
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CamperAustraliaTrip"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

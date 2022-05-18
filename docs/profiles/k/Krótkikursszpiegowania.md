@@ -28,3 +28,5 @@ permalink: /Krótkikursszpiegowania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Krótkikursszpiegowania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

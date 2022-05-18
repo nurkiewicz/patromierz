@@ -28,3 +28,5 @@ permalink: /SudeckaOstoja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SudeckaOstoja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

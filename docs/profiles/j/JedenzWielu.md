@@ -28,3 +28,5 @@ permalink: /JedenzWielu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JedenzWielu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

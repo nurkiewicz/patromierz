@@ -28,3 +28,5 @@ permalink: /kubazaborski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kubazaborski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

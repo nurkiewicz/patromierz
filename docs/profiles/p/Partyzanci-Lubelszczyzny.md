@@ -28,3 +28,5 @@ permalink: /Partyzanci-Lubelszczyzny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Partyzanci-Lubelszczyzny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /anty-alienator
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anty-alienator"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /otwieramyoczy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["otwieramyoczy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

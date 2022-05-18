@@ -28,3 +28,5 @@ permalink: /limboski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["limboski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

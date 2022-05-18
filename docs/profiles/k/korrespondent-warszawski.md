@@ -28,3 +28,5 @@ permalink: /korrespondent-warszawski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["korrespondent-warszawski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

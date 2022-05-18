@@ -28,3 +28,5 @@ permalink: /ogniwo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ogniwo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

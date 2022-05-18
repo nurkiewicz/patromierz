@@ -28,3 +28,5 @@ permalink: /Wojtas_carpenter
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Wojtas_carpenter"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

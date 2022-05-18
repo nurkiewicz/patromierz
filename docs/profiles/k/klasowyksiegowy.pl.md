@@ -28,3 +28,5 @@ permalink: /klasowyksiegowy.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klasowyksiegowy.pl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

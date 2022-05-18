@@ -28,3 +28,5 @@ permalink: /LUKASZLAMZA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LUKASZLAMZA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

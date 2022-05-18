@@ -28,3 +28,5 @@ permalink: /Kostrzyński
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kostrzyński"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

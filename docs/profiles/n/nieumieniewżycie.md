@@ -28,3 +28,5 @@ permalink: /nieumieniewżycie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nieumieniewżycie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

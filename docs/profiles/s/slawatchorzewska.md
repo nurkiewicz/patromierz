@@ -28,3 +28,5 @@ permalink: /slawatchorzewska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slawatchorzewska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

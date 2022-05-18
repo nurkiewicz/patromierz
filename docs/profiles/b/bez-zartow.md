@@ -28,3 +28,5 @@ permalink: /bez-zartow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bez-zartow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /patronite.plstokrotka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patronite.plstokrotka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

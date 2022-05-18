@@ -28,3 +28,5 @@ permalink: /niepelnosprytna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niepelnosprytna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

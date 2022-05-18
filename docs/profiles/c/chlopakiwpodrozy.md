@@ -28,3 +28,5 @@ permalink: /chlopakiwpodrozy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chlopakiwpodrozy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

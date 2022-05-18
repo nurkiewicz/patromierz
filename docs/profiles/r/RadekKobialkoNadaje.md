@@ -28,3 +28,5 @@ permalink: /RadekKobialkoNadaje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadekKobialkoNadaje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

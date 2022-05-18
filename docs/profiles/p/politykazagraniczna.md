@@ -28,3 +28,5 @@ permalink: /politykazagraniczna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["politykazagraniczna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

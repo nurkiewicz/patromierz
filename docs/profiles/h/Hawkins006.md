@@ -28,3 +28,5 @@ permalink: /Hawkins006
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Hawkins006"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

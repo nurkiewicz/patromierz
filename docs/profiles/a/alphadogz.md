@@ -28,3 +28,5 @@ permalink: /alphadogz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["alphadogz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

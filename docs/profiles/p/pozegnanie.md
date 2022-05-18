@@ -28,3 +28,5 @@ permalink: /pozegnanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pozegnanie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

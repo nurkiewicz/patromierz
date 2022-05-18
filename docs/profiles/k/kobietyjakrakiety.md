@@ -28,3 +28,5 @@ permalink: /kobietyjakrakiety
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kobietyjakrakiety"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

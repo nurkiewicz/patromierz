@@ -28,3 +28,5 @@ permalink: /kristinkagaming
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kristinkagaming"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

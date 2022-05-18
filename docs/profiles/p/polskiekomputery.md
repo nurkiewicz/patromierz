@@ -28,3 +28,5 @@ permalink: /polskiekomputery
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polskiekomputery"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

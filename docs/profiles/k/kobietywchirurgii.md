@@ -28,3 +28,5 @@ permalink: /kobietywchirurgii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kobietywchirurgii"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

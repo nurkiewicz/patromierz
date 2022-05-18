@@ -28,3 +28,5 @@ permalink: /Kryminomaniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kryminomaniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

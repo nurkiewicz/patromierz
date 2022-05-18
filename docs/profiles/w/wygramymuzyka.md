@@ -28,3 +28,5 @@ permalink: /wygramymuzyka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wygramymuzyka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

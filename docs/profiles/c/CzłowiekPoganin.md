@@ -28,3 +28,5 @@ permalink: /CzłowiekPoganin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CzłowiekPoganin"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

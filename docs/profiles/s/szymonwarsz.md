@@ -28,3 +28,5 @@ permalink: /szymonwarsz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szymonwarsz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /darwininchaneldress
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["darwininchaneldress"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

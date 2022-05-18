@@ -28,3 +28,5 @@ permalink: /niebiblijny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niebiblijny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

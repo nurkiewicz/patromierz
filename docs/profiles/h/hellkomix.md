@@ -28,3 +28,5 @@ permalink: /hellkomix
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hellkomix"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

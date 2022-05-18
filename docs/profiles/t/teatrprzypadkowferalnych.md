@@ -28,3 +28,5 @@ permalink: /teatrprzypadkowferalnych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teatrprzypadkowferalnych"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

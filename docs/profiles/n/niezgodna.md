@@ -28,3 +28,5 @@ permalink: /niezgodna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niezgodna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

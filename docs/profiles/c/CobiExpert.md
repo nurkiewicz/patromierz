@@ -28,3 +28,5 @@ permalink: /CobiExpert
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CobiExpert"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /WędkarskieDylematy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WędkarskieDylematy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

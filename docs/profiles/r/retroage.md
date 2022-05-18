@@ -28,3 +28,5 @@ permalink: /retroage
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["retroage"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

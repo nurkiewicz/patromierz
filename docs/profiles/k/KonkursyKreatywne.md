@@ -28,3 +28,5 @@ permalink: /KonkursyKreatywne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KonkursyKreatywne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

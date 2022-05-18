@@ -28,3 +28,5 @@ permalink: /retrostrzal
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["retrostrzal"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

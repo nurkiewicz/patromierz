@@ -28,3 +28,5 @@ permalink: /SwiryET
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SwiryET"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

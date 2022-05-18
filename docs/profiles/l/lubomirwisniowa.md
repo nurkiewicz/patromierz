@@ -28,3 +28,5 @@ permalink: /lubomirwisniowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lubomirwisniowa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

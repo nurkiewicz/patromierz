@@ -28,3 +28,5 @@ permalink: /tenmelon
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tenmelon"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

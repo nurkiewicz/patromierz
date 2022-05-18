@@ -28,3 +28,5 @@ permalink: /paulasthetic
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paulasthetic"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

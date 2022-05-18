@@ -28,3 +28,5 @@ permalink: /PolskieArchiwumX
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolskieArchiwumX"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

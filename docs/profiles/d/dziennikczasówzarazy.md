@@ -28,3 +28,5 @@ permalink: /dziennikczasówzarazy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dziennikczasówzarazy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

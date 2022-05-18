@@ -28,3 +28,5 @@ permalink: /tzt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tzt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

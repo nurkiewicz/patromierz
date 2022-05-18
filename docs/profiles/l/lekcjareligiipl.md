@@ -28,3 +28,5 @@ permalink: /lekcjareligiipl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lekcjareligiipl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /mprylinska.wixsite.com
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mprylinska.wixsite.com"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

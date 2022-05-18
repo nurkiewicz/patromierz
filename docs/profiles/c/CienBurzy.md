@@ -28,3 +28,5 @@ permalink: /CienBurzy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CienBurzy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

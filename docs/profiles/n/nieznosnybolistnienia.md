@@ -28,3 +28,5 @@ permalink: /nieznosnybolistnienia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nieznosnybolistnienia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

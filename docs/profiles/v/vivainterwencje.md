@@ -28,3 +28,5 @@ permalink: /vivainterwencje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vivainterwencje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

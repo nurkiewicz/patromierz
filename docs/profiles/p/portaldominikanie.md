@@ -28,3 +28,5 @@ permalink: /portaldominikanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["portaldominikanie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

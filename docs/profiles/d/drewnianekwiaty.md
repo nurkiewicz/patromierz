@@ -28,3 +28,5 @@ permalink: /drewnianekwiaty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drewnianekwiaty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

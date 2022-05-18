@@ -28,3 +28,5 @@ permalink: /paragrafwkieliszku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paragrafwkieliszku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

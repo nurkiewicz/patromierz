@@ -28,3 +28,5 @@ permalink: /TOŚKAIPRZYJACIELE
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TOŚKAIPRZYJACIELE"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

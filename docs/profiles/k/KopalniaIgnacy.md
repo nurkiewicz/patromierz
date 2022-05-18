@@ -28,3 +28,5 @@ permalink: /KopalniaIgnacy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KopalniaIgnacy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

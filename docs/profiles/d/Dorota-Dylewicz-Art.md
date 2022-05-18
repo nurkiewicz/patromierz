@@ -28,3 +28,5 @@ permalink: /Dorota-Dylewicz-Art
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dorota-Dylewicz-Art"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

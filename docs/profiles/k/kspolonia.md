@@ -28,3 +28,5 @@ permalink: /kspolonia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kspolonia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

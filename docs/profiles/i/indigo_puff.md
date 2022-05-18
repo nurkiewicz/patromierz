@@ -28,3 +28,5 @@ permalink: /indigo_puff
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["indigo_puff"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

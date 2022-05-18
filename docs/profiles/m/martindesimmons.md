@@ -28,3 +28,5 @@ permalink: /martindesimmons
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["martindesimmons"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

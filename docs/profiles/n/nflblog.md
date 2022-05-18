@@ -28,3 +28,5 @@ permalink: /nflblog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nflblog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

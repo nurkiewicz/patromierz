@@ -28,3 +28,5 @@ permalink: /SAPER
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SAPER"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /mothor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mothor"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

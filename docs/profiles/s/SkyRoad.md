@@ -28,3 +28,5 @@ permalink: /SkyRoad
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SkyRoad"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

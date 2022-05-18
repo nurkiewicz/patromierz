@@ -28,3 +28,5 @@ permalink: /WojnaMussoliniego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WojnaMussoliniego"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

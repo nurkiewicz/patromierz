@@ -28,3 +28,5 @@ permalink: /ogarniamfizyke
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ogarniamfizyke"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

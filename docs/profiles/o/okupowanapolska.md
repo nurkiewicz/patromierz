@@ -28,3 +28,5 @@ permalink: /okupowanapolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["okupowanapolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /strefaczytacza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["strefaczytacza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

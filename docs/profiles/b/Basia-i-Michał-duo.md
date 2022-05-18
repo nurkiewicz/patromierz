@@ -28,3 +28,5 @@ permalink: /Basia-i-Michał-duo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Basia-i-Michał-duo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

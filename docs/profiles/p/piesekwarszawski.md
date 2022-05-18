@@ -28,3 +28,5 @@ permalink: /piesekwarszawski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["piesekwarszawski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

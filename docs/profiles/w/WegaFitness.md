@@ -28,3 +28,5 @@ permalink: /WegaFitness
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WegaFitness"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

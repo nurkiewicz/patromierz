@@ -28,3 +28,5 @@ permalink: /menudorotki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["menudorotki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

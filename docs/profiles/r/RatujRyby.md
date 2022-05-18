@@ -28,3 +28,5 @@ permalink: /RatujRyby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RatujRyby"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

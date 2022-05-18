@@ -28,3 +28,5 @@ permalink: /jezykowe_kontrowersje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jezykowe_kontrowersje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

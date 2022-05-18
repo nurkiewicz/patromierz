@@ -28,3 +28,5 @@ permalink: /imaginariumrpg
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["imaginariumrpg"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

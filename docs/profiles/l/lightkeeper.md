@@ -28,3 +28,5 @@ permalink: /lightkeeper
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lightkeeper"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

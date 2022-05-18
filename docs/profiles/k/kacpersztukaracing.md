@@ -28,3 +28,5 @@ permalink: /kacpersztukaracing
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kacpersztukaracing"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

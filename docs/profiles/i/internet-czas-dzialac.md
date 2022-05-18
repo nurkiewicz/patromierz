@@ -28,3 +28,5 @@ permalink: /internet-czas-dzialac
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["internet-czas-dzialac"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /badembassy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["badembassy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

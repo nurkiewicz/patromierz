@@ -28,3 +28,5 @@ permalink: /fael
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fael"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

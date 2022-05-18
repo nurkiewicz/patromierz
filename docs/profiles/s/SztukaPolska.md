@@ -28,3 +28,5 @@ permalink: /SztukaPolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SztukaPolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

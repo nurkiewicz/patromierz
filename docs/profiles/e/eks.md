@@ -28,3 +28,5 @@ permalink: /eks
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eks"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

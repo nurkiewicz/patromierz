@@ -28,3 +28,5 @@ permalink: /Z-pamietnika-psa-podroznika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Z-pamietnika-psa-podroznika"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /fundacjaeudajmonia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaeudajmonia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

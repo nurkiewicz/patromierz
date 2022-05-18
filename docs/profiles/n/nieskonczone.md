@@ -28,3 +28,5 @@ permalink: /nieskonczone
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nieskonczone"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Astronomia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Astronomia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

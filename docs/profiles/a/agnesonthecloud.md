@@ -28,3 +28,5 @@ permalink: /agnesonthecloud
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["agnesonthecloud"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

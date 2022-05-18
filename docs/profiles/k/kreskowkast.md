@@ -28,3 +28,5 @@ permalink: /kreskowkast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kreskowkast"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /historiawp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historiawp"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /dwutygodnik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dwutygodnik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

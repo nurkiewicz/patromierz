@@ -28,3 +28,5 @@ permalink: /motoryzacyjny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["motoryzacyjny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

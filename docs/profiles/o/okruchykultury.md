@@ -28,3 +28,5 @@ permalink: /okruchykultury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["okruchykultury"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

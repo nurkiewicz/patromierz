@@ -28,3 +28,5 @@ permalink: /theundergroundman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["theundergroundman"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

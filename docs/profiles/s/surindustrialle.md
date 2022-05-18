@@ -28,3 +28,5 @@ permalink: /surindustrialle
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["surindustrialle"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

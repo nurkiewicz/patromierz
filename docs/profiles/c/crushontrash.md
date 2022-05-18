@@ -28,3 +28,5 @@ permalink: /crushontrash
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["crushontrash"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

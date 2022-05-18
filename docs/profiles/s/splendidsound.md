@@ -28,3 +28,5 @@ permalink: /splendidsound
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["splendidsound"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

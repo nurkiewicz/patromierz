@@ -28,3 +28,5 @@ permalink: /Kobalt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kobalt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

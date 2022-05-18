@@ -28,3 +28,5 @@ permalink: /sambudujedom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sambudujedom"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /podcastprowincjonalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podcastprowincjonalny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

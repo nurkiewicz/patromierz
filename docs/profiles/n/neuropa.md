@@ -28,3 +28,5 @@ permalink: /neuropa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["neuropa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

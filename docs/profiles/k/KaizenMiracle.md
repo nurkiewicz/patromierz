@@ -28,3 +28,5 @@ permalink: /KaizenMiracle
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KaizenMiracle"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

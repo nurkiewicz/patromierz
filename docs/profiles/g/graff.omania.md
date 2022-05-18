@@ -28,3 +28,5 @@ permalink: /graff.omania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["graff.omania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /DanielGrzyb
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DanielGrzyb"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

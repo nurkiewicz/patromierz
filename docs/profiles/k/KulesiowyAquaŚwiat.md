@@ -28,3 +28,5 @@ permalink: /KulesiowyAquaŚwiat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KulesiowyAquaŚwiat"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

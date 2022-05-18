@@ -28,3 +28,5 @@ permalink: /HejMama
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HejMama"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

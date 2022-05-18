@@ -28,3 +28,5 @@ permalink: /duchyimperiumrosyjskiego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["duchyimperiumrosyjskiego"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

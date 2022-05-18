@@ -28,3 +28,5 @@ permalink: /jakzostacprogramistanet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jakzostacprogramistanet"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /pepol-urbex
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pepol-urbex"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

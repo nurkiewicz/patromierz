@@ -28,3 +28,5 @@ permalink: /BigBandDobczyce
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BigBandDobczyce"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

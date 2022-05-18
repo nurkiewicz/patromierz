@@ -28,3 +28,5 @@ permalink: /Joanna-Obuchowska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Joanna-Obuchowska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

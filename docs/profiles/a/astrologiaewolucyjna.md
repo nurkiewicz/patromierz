@@ -28,3 +28,5 @@ permalink: /astrologiaewolucyjna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["astrologiaewolucyjna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

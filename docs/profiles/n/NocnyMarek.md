@@ -28,3 +28,5 @@ permalink: /NocnyMarek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NocnyMarek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

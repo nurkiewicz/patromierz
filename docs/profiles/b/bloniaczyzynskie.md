@@ -28,3 +28,5 @@ permalink: /bloniaczyzynskie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bloniaczyzynskie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

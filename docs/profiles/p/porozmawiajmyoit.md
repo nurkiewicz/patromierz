@@ -28,3 +28,5 @@ permalink: /porozmawiajmyoit
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["porozmawiajmyoit"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

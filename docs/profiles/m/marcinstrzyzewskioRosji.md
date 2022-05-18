@@ -28,3 +28,5 @@ permalink: /marcinstrzyzewskioRosji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marcinstrzyzewskioRosji"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

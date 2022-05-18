@@ -28,3 +28,5 @@ permalink: /zbrodniaikara
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zbrodniaikara"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

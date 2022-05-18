@@ -28,3 +28,5 @@ permalink: /wiecejpiekna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wiecejpiekna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

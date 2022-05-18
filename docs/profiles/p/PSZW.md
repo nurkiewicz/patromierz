@@ -28,3 +28,5 @@ permalink: /PSZW
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PSZW"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

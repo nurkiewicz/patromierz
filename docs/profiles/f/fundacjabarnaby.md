@@ -28,3 +28,5 @@ permalink: /fundacjabarnaby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjabarnaby"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

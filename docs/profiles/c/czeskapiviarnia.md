@@ -28,3 +28,5 @@ permalink: /czeskapiviarnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["czeskapiviarnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

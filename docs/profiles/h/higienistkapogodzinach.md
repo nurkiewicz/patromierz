@@ -28,3 +28,5 @@ permalink: /higienistkapogodzinach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["higienistkapogodzinach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

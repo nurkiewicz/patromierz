@@ -28,3 +28,5 @@ permalink: /historiarealna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historiarealna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

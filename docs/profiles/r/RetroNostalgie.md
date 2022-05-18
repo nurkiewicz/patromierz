@@ -28,3 +28,5 @@ permalink: /RetroNostalgie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RetroNostalgie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

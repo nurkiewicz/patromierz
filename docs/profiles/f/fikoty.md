@@ -28,3 +28,5 @@ permalink: /fikoty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fikoty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

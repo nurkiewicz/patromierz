@@ -28,3 +28,5 @@ permalink: /Reorient
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Reorient"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

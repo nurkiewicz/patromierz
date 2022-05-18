@@ -28,3 +28,5 @@ permalink: /potemotem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["potemotem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /SowiaDusza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SowiaDusza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

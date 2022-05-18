@@ -28,3 +28,5 @@ permalink: /teach-for-poland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teach-for-poland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

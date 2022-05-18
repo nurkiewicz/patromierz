@@ -28,3 +28,5 @@ permalink: /Edith.TheTraveller
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Edith.TheTraveller"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

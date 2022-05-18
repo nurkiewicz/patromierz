@@ -28,3 +28,5 @@ permalink: /Inesita744
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Inesita744"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

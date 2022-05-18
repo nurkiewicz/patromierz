@@ -28,3 +28,5 @@ permalink: /polkawmeksyku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polkawmeksyku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

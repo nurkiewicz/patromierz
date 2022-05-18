@@ -28,3 +28,5 @@ permalink: /mysterytv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mysterytv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

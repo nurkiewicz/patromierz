@@ -28,3 +28,5 @@ permalink: /baskethills
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["baskethills"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

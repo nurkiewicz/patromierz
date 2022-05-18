@@ -28,3 +28,5 @@ permalink: /Koci_Azyl_Anety_i_Slawka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Koci_Azyl_Anety_i_Slawka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

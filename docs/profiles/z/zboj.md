@@ -28,3 +28,5 @@ permalink: /zboj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zboj"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

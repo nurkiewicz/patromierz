@@ -28,3 +28,5 @@ permalink: /hallourbex
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hallourbex"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

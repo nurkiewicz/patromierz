@@ -28,3 +28,5 @@ permalink: /Centrum-Slowian-i-Wikingow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Centrum-Slowian-i-Wikingow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

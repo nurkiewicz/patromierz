@@ -28,3 +28,5 @@ permalink: /szczesliwyziemniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szczesliwyziemniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

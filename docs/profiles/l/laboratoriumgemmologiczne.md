@@ -28,3 +28,5 @@ permalink: /laboratoriumgemmologiczne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["laboratoriumgemmologiczne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

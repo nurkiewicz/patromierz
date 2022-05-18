@@ -28,3 +28,5 @@ permalink: /kultura-na-czasie-blog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kultura-na-czasie-blog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

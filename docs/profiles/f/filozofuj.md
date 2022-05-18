@@ -28,3 +28,5 @@ permalink: /filozofuj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filozofuj"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

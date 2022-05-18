@@ -28,3 +28,5 @@ permalink: /rugbykobietkrakow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rugbykobietkrakow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

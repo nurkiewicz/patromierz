@@ -28,3 +28,5 @@ permalink: /moja-polska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["moja-polska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

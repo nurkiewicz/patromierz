@@ -28,3 +28,5 @@ permalink: /domdiecezjalnytabor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["domdiecezjalnytabor"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

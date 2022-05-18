@@ -28,3 +28,5 @@ permalink: /Klaudia_eM
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Klaudia_eM"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

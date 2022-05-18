@@ -28,3 +28,5 @@ permalink: /ZulakMotoAdv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZulakMotoAdv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

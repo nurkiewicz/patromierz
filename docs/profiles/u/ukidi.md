@@ -28,3 +28,5 @@ permalink: /ukidi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ukidi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

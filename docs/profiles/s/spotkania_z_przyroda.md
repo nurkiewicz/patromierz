@@ -28,3 +28,5 @@ permalink: /spotkania_z_przyroda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spotkania_z_przyroda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

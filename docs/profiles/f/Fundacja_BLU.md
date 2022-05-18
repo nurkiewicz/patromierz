@@ -28,3 +28,5 @@ permalink: /Fundacja_BLU
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fundacja_BLU"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

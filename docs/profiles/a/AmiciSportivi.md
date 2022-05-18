@@ -28,3 +28,5 @@ permalink: /AmiciSportivi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AmiciSportivi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /applemuzeumpolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["applemuzeumpolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

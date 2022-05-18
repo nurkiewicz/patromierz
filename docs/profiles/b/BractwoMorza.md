@@ -28,3 +28,5 @@ permalink: /BractwoMorza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BractwoMorza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

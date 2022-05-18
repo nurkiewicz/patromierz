@@ -28,3 +28,5 @@ permalink: /rullaman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rullaman"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

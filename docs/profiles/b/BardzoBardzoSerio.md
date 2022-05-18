@@ -28,3 +28,5 @@ permalink: /BardzoBardzoSerio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BardzoBardzoSerio"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

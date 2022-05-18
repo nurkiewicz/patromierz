@@ -28,3 +28,5 @@ permalink: /projektwzepolesila
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["projektwzepolesila"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

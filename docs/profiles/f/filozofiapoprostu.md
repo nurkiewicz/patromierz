@@ -28,3 +28,5 @@ permalink: /filozofiapoprostu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filozofiapoprostu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

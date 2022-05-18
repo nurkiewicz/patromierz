@@ -28,3 +28,5 @@ permalink: /FSBiodra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FSBiodra"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

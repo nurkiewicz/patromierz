@@ -28,3 +28,5 @@ permalink: /Bajkiodoroslych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bajkiodoroslych"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

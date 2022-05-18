@@ -28,3 +28,5 @@ permalink: /nojracht-front
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nojracht-front"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

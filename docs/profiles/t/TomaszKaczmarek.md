@@ -28,3 +28,5 @@ permalink: /TomaszKaczmarek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TomaszKaczmarek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

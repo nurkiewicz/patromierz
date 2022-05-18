@@ -28,3 +28,5 @@ permalink: /niezatapialni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niezatapialni"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

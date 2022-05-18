@@ -28,3 +28,5 @@ permalink: /Sfilmowani
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sfilmowani"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

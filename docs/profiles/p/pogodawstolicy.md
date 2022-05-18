@@ -28,3 +28,5 @@ permalink: /pogodawstolicy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pogodawstolicy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /grykzwp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grykzwp"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /ndj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ndj"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

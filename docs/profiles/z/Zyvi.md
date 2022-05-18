@@ -28,3 +28,5 @@ permalink: /Zyvi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Zyvi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

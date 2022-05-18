@@ -28,3 +28,5 @@ permalink: /jaknajwiecejpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jaknajwiecejpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Gogetters
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Gogetters"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /HarmonyArt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HarmonyArt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

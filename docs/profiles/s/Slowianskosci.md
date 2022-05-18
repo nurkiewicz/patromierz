@@ -28,3 +28,5 @@ permalink: /Slowianskosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Slowianskosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

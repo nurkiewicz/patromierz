@@ -28,3 +28,5 @@ permalink: /ocalona.podcast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ocalona.podcast"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

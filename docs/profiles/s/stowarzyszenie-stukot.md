@@ -28,3 +28,5 @@ permalink: /stowarzyszenie-stukot
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stowarzyszenie-stukot"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

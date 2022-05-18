@@ -28,3 +28,5 @@ permalink: /ParadygmatPrawdy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ParadygmatPrawdy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

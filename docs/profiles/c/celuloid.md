@@ -28,3 +28,5 @@ permalink: /celuloid
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["celuloid"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Impuls
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Impuls"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

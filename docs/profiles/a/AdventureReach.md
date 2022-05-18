@@ -28,3 +28,5 @@ permalink: /AdventureReach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AdventureReach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

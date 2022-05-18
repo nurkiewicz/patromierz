@@ -28,3 +28,5 @@ permalink: /the_slowlifers
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["the_slowlifers"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

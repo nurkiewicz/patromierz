@@ -28,3 +28,5 @@ permalink: /muzykazakorzeniona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzykazakorzeniona"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

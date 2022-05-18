@@ -28,3 +28,5 @@ permalink: /Catowice
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Catowice"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

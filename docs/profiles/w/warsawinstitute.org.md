@@ -28,3 +28,5 @@ permalink: /warsawinstitute.org
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["warsawinstitute.org"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

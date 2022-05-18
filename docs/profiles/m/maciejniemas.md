@@ -28,3 +28,5 @@ permalink: /maciejniemas
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["maciejniemas"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

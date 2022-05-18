@@ -28,3 +28,5 @@ permalink: /ATEISCI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ATEISCI"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

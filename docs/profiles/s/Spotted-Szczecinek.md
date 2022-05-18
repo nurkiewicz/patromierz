@@ -28,3 +28,5 @@ permalink: /Spotted-Szczecinek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Spotted-Szczecinek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wikingowie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wikingowie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

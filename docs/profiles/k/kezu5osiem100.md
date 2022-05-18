@@ -28,3 +28,5 @@ permalink: /kezu5osiem100
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kezu5osiem100"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

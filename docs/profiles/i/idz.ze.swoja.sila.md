@@ -28,3 +28,5 @@ permalink: /idz.ze.swoja.sila
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["idz.ze.swoja.sila"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /cojestnietakzkrakowem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cojestnietakzkrakowem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

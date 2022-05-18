@@ -28,3 +28,5 @@ permalink: /URBEXprojekt36
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["URBEXprojekt36"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

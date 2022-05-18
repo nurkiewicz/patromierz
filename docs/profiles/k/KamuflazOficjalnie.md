@@ -28,3 +28,5 @@ permalink: /KamuflazOficjalnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KamuflazOficjalnie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

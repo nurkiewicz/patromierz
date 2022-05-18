@@ -28,3 +28,5 @@ permalink: /orkiestrazdrojowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["orkiestrazdrojowa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

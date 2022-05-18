@@ -28,3 +28,5 @@ permalink: /stowarzyszenie-cnr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stowarzyszenie-cnr"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /pagor_triathlete
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pagor_triathlete"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /BROiMY
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BROiMY"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

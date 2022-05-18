@@ -28,3 +28,5 @@ permalink: /lepszykomentator
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lepszykomentator"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

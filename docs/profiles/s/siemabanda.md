@@ -28,3 +28,5 @@ permalink: /siemabanda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["siemabanda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

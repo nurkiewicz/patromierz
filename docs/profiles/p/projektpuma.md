@@ -28,3 +28,5 @@ permalink: /projektpuma
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["projektpuma"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /technokrata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["technokrata"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

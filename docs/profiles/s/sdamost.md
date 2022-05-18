@@ -28,3 +28,5 @@ permalink: /sdamost
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sdamost"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

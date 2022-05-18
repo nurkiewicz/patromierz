@@ -28,3 +28,5 @@ permalink: /nostalgicznie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nostalgicznie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

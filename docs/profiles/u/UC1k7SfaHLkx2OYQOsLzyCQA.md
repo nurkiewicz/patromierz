@@ -28,3 +28,5 @@ permalink: /UC1k7SfaHLkx2OYQOsLzyCQA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["UC1k7SfaHLkx2OYQOsLzyCQA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Dziemian
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dziemian"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /definicjekatechetyczne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["definicjekatechetyczne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

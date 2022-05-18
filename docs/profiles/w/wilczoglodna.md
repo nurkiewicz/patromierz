@@ -28,3 +28,5 @@ permalink: /wilczoglodna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wilczoglodna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

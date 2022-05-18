@@ -28,3 +28,5 @@ permalink: /psiemielone
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psiemielone"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

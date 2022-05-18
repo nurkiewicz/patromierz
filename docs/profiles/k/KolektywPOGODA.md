@@ -28,3 +28,5 @@ permalink: /KolektywPOGODA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KolektywPOGODA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

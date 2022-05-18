@@ -28,3 +28,5 @@ permalink: /PawelGielec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PawelGielec"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

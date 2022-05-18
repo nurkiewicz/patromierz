@@ -28,3 +28,5 @@ permalink: /IrytujacyHistoryk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["IrytujacyHistoryk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

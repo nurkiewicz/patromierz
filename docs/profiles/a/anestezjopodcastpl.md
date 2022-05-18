@@ -28,3 +28,5 @@ permalink: /anestezjopodcastpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anestezjopodcastpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

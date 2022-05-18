@@ -28,3 +28,5 @@ permalink: /kolezankiporozmawiajmy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kolezankiporozmawiajmy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

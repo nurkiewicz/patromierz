@@ -28,3 +28,5 @@ permalink: /naturalne20
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["naturalne20"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

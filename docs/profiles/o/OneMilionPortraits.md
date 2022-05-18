@@ -28,3 +28,5 @@ permalink: /OneMilionPortraits
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OneMilionPortraits"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

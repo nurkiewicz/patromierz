@@ -28,3 +28,5 @@ permalink: /Dokurviator
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dokurviator"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

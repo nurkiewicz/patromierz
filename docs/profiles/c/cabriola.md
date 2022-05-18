@@ -28,3 +28,5 @@ permalink: /cabriola
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cabriola"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

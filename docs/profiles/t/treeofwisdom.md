@@ -28,3 +28,5 @@ permalink: /treeofwisdom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["treeofwisdom"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

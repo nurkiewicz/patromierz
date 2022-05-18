@@ -28,3 +28,5 @@ permalink: /bluelilly1313
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bluelilly1313"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

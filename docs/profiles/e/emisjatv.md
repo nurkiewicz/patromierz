@@ -28,3 +28,5 @@ permalink: /emisjatv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["emisjatv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

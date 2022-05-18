@@ -28,3 +28,5 @@ permalink: /Milasoo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Milasoo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

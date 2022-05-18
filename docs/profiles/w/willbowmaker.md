@@ -28,3 +28,5 @@ permalink: /willbowmaker
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["willbowmaker"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

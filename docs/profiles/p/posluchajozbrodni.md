@@ -28,3 +28,5 @@ permalink: /posluchajozbrodni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["posluchajozbrodni"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

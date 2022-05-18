@@ -28,3 +28,5 @@ permalink: /gildiadcs
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gildiadcs"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

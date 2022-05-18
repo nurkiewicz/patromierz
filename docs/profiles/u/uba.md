@@ -28,3 +28,5 @@ permalink: /uba
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["uba"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

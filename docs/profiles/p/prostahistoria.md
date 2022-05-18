@@ -28,3 +28,5 @@ permalink: /prostahistoria
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prostahistoria"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

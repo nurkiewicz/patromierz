@@ -28,3 +28,5 @@ permalink: /t.latosinski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["t.latosinski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

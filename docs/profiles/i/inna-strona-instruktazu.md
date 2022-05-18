@@ -28,3 +28,5 @@ permalink: /inna-strona-instruktazu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["inna-strona-instruktazu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

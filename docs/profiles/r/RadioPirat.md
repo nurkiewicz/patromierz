@@ -28,3 +28,5 @@ permalink: /RadioPirat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadioPirat"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

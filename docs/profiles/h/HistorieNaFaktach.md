@@ -28,3 +28,5 @@ permalink: /HistorieNaFaktach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HistorieNaFaktach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

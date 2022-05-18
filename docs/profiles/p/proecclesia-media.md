@@ -28,3 +28,5 @@ permalink: /proecclesia-media
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["proecclesia-media"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

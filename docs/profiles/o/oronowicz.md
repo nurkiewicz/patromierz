@@ -28,3 +28,5 @@ permalink: /oronowicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["oronowicz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

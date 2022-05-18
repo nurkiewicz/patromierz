@@ -28,3 +28,5 @@ permalink: /zuzabaum
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zuzabaum"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

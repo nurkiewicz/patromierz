@@ -28,3 +28,5 @@ permalink: /wmatnikobiecosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wmatnikobiecosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

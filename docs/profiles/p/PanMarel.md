@@ -28,3 +28,5 @@ permalink: /PanMarel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PanMarel"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

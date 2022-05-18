@@ -28,3 +28,5 @@ permalink: /naumiempl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["naumiempl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

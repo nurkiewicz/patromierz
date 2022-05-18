@@ -28,3 +28,5 @@ permalink: /zrownowazony_biznes
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zrownowazony_biznes"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

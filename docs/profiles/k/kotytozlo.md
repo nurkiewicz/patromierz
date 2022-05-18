@@ -28,3 +28,5 @@ permalink: /kotytozlo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kotytozlo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

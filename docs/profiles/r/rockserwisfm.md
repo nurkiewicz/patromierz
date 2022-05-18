@@ -28,3 +28,5 @@ permalink: /rockserwisfm
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rockserwisfm"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

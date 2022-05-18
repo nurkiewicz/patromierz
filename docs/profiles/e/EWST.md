@@ -28,3 +28,5 @@ permalink: /EWST
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EWST"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

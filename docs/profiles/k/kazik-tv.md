@@ -28,3 +28,5 @@ permalink: /kazik-tv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kazik-tv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

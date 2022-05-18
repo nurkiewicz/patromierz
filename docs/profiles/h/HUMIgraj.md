@@ -28,3 +28,5 @@ permalink: /HUMIgraj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HUMIgraj"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

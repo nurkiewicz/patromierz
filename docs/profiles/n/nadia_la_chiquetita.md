@@ -28,3 +28,5 @@ permalink: /nadia_la_chiquetita
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nadia_la_chiquetita"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

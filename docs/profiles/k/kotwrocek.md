@@ -28,3 +28,5 @@ permalink: /kotwrocek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kotwrocek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

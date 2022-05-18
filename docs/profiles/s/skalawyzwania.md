@@ -28,3 +28,5 @@ permalink: /skalawyzwania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["skalawyzwania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

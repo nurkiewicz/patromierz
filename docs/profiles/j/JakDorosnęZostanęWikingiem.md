@@ -28,3 +28,5 @@ permalink: /JakDorosnęZostanęWikingiem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JakDorosnęZostanęWikingiem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

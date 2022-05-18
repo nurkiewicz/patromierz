@@ -28,3 +28,5 @@ permalink: /Jasinski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Jasinski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

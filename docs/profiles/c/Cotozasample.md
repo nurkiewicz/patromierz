@@ -28,3 +28,5 @@ permalink: /Cotozasample
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Cotozasample"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

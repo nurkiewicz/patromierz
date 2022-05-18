@@ -28,3 +28,5 @@ permalink: /SquatsAndMilk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SquatsAndMilk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

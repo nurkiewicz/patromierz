@@ -28,3 +28,5 @@ permalink: /spoilermaster
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spoilermaster"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

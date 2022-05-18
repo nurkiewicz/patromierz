@@ -28,3 +28,5 @@ permalink: /TawernaBajarza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TawernaBajarza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

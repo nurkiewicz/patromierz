@@ -28,3 +28,5 @@ permalink: /Permisie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Permisie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

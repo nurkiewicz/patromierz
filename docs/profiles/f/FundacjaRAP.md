@@ -28,3 +28,5 @@ permalink: /FundacjaRAP
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaRAP"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

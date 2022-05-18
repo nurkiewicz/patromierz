@@ -28,3 +28,5 @@ permalink: /fundacjasosnaratunek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjasosnaratunek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

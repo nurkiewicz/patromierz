@@ -28,3 +28,5 @@ permalink: /bsfbochnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bsfbochnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

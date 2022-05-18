@@ -28,3 +28,5 @@ permalink: /WiedxmaGames
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WiedxmaGames"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

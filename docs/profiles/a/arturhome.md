@@ -28,3 +28,5 @@ permalink: /arturhome
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["arturhome"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

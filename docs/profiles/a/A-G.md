@@ -28,3 +28,5 @@ permalink: /A-G
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["A-G"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

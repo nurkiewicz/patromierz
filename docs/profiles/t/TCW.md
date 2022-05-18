@@ -28,3 +28,5 @@ permalink: /TCW
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TCW"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

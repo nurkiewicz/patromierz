@@ -28,3 +28,5 @@ permalink: /Leśnelichofotografia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Leśnelichofotografia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

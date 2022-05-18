@@ -28,3 +28,5 @@ permalink: /pan_jagoda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pan_jagoda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

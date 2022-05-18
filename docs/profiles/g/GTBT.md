@@ -28,3 +28,5 @@ permalink: /GTBT
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GTBT"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

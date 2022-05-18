@@ -28,3 +28,5 @@ permalink: /poznajsiebie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poznajsiebie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

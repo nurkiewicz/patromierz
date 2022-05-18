@@ -28,3 +28,5 @@ permalink: /klubjagiellonski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klubjagiellonski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

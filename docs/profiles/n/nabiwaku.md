@@ -28,3 +28,5 @@ permalink: /nabiwaku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nabiwaku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

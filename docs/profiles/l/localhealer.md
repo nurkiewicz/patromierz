@@ -28,3 +28,5 @@ permalink: /localhealer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["localhealer"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

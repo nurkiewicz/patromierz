@@ -28,3 +28,5 @@ permalink: /PomocdlaBonnieiClyde
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PomocdlaBonnieiClyde"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

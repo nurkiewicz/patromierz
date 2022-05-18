@@ -28,3 +28,5 @@ permalink: /bajkowanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bajkowanie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

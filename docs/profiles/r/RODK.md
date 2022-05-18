@@ -28,3 +28,5 @@ permalink: /RODK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RODK"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /bezsloganu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bezsloganu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

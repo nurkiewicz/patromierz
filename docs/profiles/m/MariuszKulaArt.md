@@ -28,3 +28,5 @@ permalink: /MariuszKulaArt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MariuszKulaArt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

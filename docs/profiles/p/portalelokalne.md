@@ -28,3 +28,5 @@ permalink: /portalelokalne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["portalelokalne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /psycho-logiczne-rozmowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psycho-logiczne-rozmowy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

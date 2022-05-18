@@ -28,3 +28,5 @@ permalink: /torbareportera
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["torbareportera"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

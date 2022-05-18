@@ -28,3 +28,5 @@ permalink: /freska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["freska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

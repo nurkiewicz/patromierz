@@ -28,3 +28,5 @@ permalink: /DED87
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DED87"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

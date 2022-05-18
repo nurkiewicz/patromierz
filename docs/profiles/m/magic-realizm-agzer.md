@@ -28,3 +28,5 @@ permalink: /magic-realizm-agzer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magic-realizm-agzer"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

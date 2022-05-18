@@ -28,3 +28,5 @@ permalink: /siostryrzeki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["siostryrzeki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

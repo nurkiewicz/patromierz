@@ -28,3 +28,5 @@ permalink: /mysliuwolnione
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mysliuwolnione"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /vrkadia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vrkadia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

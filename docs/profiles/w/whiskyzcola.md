@@ -28,3 +28,5 @@ permalink: /whiskyzcola
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["whiskyzcola"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

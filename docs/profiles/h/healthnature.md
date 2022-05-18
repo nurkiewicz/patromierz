@@ -28,3 +28,5 @@ permalink: /healthnature
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["healthnature"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

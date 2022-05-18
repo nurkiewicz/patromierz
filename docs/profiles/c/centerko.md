@@ -28,3 +28,5 @@ permalink: /centerko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["centerko"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

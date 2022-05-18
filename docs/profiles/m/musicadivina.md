@@ -28,3 +28,5 @@ permalink: /musicadivina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["musicadivina"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

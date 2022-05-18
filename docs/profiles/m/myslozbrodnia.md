@@ -28,3 +28,5 @@ permalink: /myslozbrodnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["myslozbrodnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

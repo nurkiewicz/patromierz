@@ -28,3 +28,5 @@ permalink: /polki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

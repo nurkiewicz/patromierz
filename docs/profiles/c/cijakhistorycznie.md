@@ -28,3 +28,5 @@ permalink: /cijakhistorycznie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cijakhistorycznie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

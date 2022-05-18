@@ -28,3 +28,5 @@ permalink: /-EwaeM-
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["-EwaeM-"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

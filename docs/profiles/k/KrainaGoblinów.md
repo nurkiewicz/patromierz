@@ -28,3 +28,5 @@ permalink: /KrainaGoblinów
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KrainaGoblinów"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

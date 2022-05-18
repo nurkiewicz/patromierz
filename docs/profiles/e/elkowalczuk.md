@@ -28,3 +28,5 @@ permalink: /elkowalczuk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["elkowalczuk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

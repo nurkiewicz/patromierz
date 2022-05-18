@@ -28,3 +28,5 @@ permalink: /TomaszDerach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TomaszDerach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

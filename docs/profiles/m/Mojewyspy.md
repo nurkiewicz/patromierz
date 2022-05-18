@@ -28,3 +28,5 @@ permalink: /Mojewyspy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mojewyspy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

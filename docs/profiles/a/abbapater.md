@@ -28,3 +28,5 @@ permalink: /abbapater
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["abbapater"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

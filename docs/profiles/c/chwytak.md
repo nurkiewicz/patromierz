@@ -28,3 +28,5 @@ permalink: /chwytak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chwytak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

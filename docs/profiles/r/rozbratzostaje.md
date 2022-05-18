@@ -28,3 +28,5 @@ permalink: /rozbratzostaje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rozbratzostaje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

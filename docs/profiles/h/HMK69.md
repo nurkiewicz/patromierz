@@ -28,3 +28,5 @@ permalink: /HMK69
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HMK69"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

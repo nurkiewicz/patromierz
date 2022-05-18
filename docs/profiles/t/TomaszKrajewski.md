@@ -28,3 +28,5 @@ permalink: /TomaszKrajewski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TomaszKrajewski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

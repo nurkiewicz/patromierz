@@ -28,3 +28,5 @@ permalink: /CDSW
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CDSW"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /lifeonwheelz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lifeonwheelz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

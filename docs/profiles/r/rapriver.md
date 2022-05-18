@@ -28,3 +28,5 @@ permalink: /rapriver
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rapriver"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

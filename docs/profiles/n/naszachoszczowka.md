@@ -28,3 +28,5 @@ permalink: /naszachoszczowka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["naszachoszczowka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

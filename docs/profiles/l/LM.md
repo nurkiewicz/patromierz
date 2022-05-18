@@ -28,3 +28,5 @@ permalink: /LM
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LM"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

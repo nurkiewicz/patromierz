@@ -28,3 +28,5 @@ permalink: /bogiem-silne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bogiem-silne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

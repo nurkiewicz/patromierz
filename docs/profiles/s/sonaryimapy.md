@@ -28,3 +28,5 @@ permalink: /sonaryimapy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sonaryimapy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

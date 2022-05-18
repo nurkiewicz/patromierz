@@ -28,3 +28,5 @@ permalink: /darwin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["darwin"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

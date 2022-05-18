@@ -28,3 +28,5 @@ permalink: /wzn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wzn"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

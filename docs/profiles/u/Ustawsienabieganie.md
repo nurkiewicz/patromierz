@@ -28,3 +28,5 @@ permalink: /Ustawsienabieganie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ustawsienabieganie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

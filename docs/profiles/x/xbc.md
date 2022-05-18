@@ -28,3 +28,5 @@ permalink: /xbc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["xbc"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wPunkt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wPunkt"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

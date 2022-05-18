@@ -28,3 +28,5 @@ permalink: /Triglav
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Triglav"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

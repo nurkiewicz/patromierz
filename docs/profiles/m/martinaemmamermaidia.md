@@ -28,3 +28,5 @@ permalink: /martinaemmamermaidia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["martinaemmamermaidia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

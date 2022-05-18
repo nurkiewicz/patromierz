@@ -28,3 +28,5 @@ permalink: /Bikedreams
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bikedreams"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

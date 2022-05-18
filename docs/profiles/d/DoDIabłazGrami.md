@@ -28,3 +28,5 @@ permalink: /DoDIabłazGrami
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DoDIabłazGrami"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

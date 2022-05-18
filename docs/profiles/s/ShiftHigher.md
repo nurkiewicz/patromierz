@@ -28,3 +28,5 @@ permalink: /ShiftHigher
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ShiftHigher"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

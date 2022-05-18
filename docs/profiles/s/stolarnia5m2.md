@@ -28,3 +28,5 @@ permalink: /stolarnia5m2
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stolarnia5m2"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

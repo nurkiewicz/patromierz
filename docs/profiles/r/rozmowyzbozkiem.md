@@ -28,3 +28,5 @@ permalink: /rozmowyzbozkiem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rozmowyzbozkiem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

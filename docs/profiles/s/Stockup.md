@@ -28,3 +28,5 @@ permalink: /Stockup
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Stockup"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

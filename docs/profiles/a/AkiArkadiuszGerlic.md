@@ -28,3 +28,5 @@ permalink: /AkiArkadiuszGerlic
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AkiArkadiuszGerlic"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

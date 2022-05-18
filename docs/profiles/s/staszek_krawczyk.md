@@ -28,3 +28,5 @@ permalink: /staszek_krawczyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["staszek_krawczyk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

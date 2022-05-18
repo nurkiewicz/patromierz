@@ -28,3 +28,5 @@ permalink: /GameDayPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GameDayPL"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /stszamekbierzglowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stszamekbierzglowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

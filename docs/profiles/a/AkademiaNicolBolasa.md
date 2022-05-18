@@ -28,3 +28,5 @@ permalink: /AkademiaNicolBolasa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AkademiaNicolBolasa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Maskacjusz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Maskacjusz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

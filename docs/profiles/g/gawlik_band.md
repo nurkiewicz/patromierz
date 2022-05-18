@@ -28,3 +28,5 @@ permalink: /gawlik_band
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gawlik_band"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

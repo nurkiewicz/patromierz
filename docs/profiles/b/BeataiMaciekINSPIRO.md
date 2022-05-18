@@ -28,3 +28,5 @@ permalink: /BeataiMaciekINSPIRO
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BeataiMaciekINSPIRO"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

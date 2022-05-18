@@ -28,3 +28,5 @@ permalink: /sciezkadriady
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sciezkadriady"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

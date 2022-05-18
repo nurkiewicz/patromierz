@@ -28,3 +28,5 @@ permalink: /TubaOstrowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TubaOstrowa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

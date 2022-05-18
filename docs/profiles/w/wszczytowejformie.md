@@ -28,3 +28,5 @@ permalink: /wszczytowejformie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wszczytowejformie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

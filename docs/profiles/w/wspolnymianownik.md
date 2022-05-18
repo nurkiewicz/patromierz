@@ -28,3 +28,5 @@ permalink: /wspolnymianownik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wspolnymianownik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kinoamondo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kinoamondo"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /hirekwrona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hirekwrona"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

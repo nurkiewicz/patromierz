@@ -28,3 +28,5 @@ permalink: /milosnicyshishy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["milosnicyshishy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

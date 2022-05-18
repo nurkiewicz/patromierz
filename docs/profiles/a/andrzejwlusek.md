@@ -28,3 +28,5 @@ permalink: /andrzejwlusek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["andrzejwlusek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

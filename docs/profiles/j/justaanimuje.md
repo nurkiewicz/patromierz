@@ -28,3 +28,5 @@ permalink: /justaanimuje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["justaanimuje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

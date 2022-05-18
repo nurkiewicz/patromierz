@@ -28,3 +28,5 @@ permalink: /eestipl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eestipl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

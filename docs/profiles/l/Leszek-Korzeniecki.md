@@ -28,3 +28,5 @@ permalink: /Leszek-Korzeniecki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Leszek-Korzeniecki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

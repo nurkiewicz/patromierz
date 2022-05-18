@@ -28,3 +28,5 @@ permalink: /CiezkieMajki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CiezkieMajki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /akademiawloskiegocinema
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akademiawloskiegocinema"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

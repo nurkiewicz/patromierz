@@ -28,3 +28,5 @@ permalink: /KlasyczneJachty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KlasyczneJachty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

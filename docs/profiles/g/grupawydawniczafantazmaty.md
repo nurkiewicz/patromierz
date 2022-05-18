@@ -28,3 +28,5 @@ permalink: /grupawydawniczafantazmaty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grupawydawniczafantazmaty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

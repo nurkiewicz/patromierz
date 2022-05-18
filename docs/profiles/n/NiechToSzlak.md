@@ -28,3 +28,5 @@ permalink: /NiechToSzlak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NiechToSzlak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

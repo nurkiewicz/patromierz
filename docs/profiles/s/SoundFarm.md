@@ -28,3 +28,5 @@ permalink: /SoundFarm
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SoundFarm"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

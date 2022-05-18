@@ -28,3 +28,5 @@ permalink: /Karpiowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Karpiowy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

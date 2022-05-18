@@ -28,3 +28,5 @@ permalink: /fundacjaTipTop
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaTipTop"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

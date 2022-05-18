@@ -110,4 +110,6 @@ profiles["DronoStrefa"] = [
 	[new Date(1652489078000), null, 1, null, 670],
 	[new Date(1652570982000), null, 1, null, 670],
 	[new Date(1652657379000), null, 1, null, 670],
+	[new Date(1652743570000), null, 1, null, 670],
+	[new Date(1652863915000), null, 1, null, 670],
 ];

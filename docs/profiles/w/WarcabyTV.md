@@ -28,3 +28,5 @@ permalink: /WarcabyTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WarcabyTV"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

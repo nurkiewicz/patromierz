@@ -28,3 +28,5 @@ permalink: /kartingraport
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kartingraport"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /mtb-trails-mielec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mtb-trails-mielec"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

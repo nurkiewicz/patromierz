@@ -28,3 +28,5 @@ permalink: /AmorPatriae
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AmorPatriae"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

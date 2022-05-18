@@ -28,3 +28,5 @@ permalink: /Youngtimerbike
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Youngtimerbike"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

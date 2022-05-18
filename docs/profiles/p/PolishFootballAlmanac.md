@@ -28,3 +28,5 @@ permalink: /PolishFootballAlmanac
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolishFootballAlmanac"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

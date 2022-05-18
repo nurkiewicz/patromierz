@@ -28,3 +28,5 @@ permalink: /fsr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fsr"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

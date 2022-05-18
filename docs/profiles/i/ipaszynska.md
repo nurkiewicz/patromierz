@@ -28,3 +28,5 @@ permalink: /ipaszynska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ipaszynska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

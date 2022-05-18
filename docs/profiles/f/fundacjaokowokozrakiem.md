@@ -28,3 +28,5 @@ permalink: /fundacjaokowokozrakiem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaokowokozrakiem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

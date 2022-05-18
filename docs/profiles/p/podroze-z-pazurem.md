@@ -28,3 +28,5 @@ permalink: /podroze-z-pazurem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podroze-z-pazurem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

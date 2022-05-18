@@ -28,3 +28,5 @@ permalink: /annabojarska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["annabojarska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /tapicerwpodrozy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tapicerwpodrozy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Arkadia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Arkadia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

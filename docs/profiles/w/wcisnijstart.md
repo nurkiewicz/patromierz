@@ -28,3 +28,5 @@ permalink: /wcisnijstart
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wcisnijstart"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

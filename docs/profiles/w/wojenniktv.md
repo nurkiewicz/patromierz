@@ -28,3 +28,5 @@ permalink: /wojenniktv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wojenniktv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

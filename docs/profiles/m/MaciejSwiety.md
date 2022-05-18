@@ -28,3 +28,5 @@ permalink: /MaciejSwiety
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MaciejSwiety"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

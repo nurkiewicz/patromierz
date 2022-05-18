@@ -28,3 +28,5 @@ permalink: /EdwardSłowianin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EdwardSłowianin"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

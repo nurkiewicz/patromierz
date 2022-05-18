@@ -28,3 +28,5 @@ permalink: /Ironbro
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ironbro"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

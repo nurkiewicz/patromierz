@@ -28,3 +28,5 @@ permalink: /2padypl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["2padypl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

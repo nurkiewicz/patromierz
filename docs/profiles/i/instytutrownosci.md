@@ -28,3 +28,5 @@ permalink: /instytutrownosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["instytutrownosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

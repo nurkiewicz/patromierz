@@ -28,3 +28,5 @@ permalink: /RadioKoncao
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadioKoncao"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /TomekJurekWlazło
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TomekJurekWlazło"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

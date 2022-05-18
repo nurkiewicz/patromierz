@@ -28,3 +28,5 @@ permalink: /Wobliczuzmian
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Wobliczuzmian"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

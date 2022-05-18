@@ -28,3 +28,5 @@ permalink: /SMOKPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SMOKPL"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

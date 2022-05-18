@@ -28,3 +28,5 @@ permalink: /ZbigniewDylewski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZbigniewDylewski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

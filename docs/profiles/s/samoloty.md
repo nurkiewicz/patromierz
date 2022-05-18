@@ -28,3 +28,5 @@ permalink: /samoloty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["samoloty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

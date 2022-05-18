@@ -28,3 +28,5 @@ permalink: /fotazdrona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fotazdrona"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

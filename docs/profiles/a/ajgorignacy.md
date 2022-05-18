@@ -28,3 +28,5 @@ permalink: /ajgorignacy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ajgorignacy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /FundacjaSAWANCI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaSAWANCI"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

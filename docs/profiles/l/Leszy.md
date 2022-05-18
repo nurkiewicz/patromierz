@@ -28,3 +28,5 @@ permalink: /Leszy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Leszy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

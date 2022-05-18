@@ -28,3 +28,5 @@ permalink: /Tusiefilmuje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Tusiefilmuje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /alienhive
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["alienhive"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

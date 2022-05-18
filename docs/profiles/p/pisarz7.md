@@ -28,3 +28,5 @@ permalink: /pisarz7
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pisarz7"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

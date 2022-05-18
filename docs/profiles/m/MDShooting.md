@@ -28,3 +28,5 @@ permalink: /MDShooting
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MDShooting"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /kiedymsza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kiedymsza"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

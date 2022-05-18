@@ -28,3 +28,5 @@ permalink: /dyaltaracreatrice
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dyaltaracreatrice"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /liberte
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["liberte"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /sysopspolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sysopspolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

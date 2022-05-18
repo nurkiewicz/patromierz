@@ -28,3 +28,5 @@ permalink: /radiokuropatwa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radiokuropatwa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

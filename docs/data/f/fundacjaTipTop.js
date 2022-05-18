@@ -89,4 +89,5 @@ profiles["fundacjaTipTop"] = [
 	[new Date(1652578047000), 15, 1, 15.0, 45],
 	[new Date(1652664379000), 15, 1, 15.0, 45],
 	[new Date(1652750748000), null, 1, null, 45],
+	[new Date(1652865020000), null, 1, null, 45],
 ];

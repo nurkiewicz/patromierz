@@ -28,3 +28,5 @@ permalink: /musicmasterclass
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["musicmasterclass"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

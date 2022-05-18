@@ -28,3 +28,5 @@ permalink: /blizejlasu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["blizejlasu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

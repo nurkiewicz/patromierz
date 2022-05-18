@@ -28,3 +28,5 @@ permalink: /pasiekanetwork
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pasiekanetwork"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /rocker
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rocker"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

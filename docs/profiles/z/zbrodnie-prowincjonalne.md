@@ -28,3 +28,5 @@ permalink: /zbrodnie-prowincjonalne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zbrodnie-prowincjonalne"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

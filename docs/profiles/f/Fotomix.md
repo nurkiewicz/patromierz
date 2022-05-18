@@ -28,3 +28,5 @@ permalink: /Fotomix
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fotomix"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

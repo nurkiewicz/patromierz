@@ -28,3 +28,5 @@ permalink: /Mamut-Podcasty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mamut-Podcasty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

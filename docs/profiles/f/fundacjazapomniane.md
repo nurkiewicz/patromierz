@@ -28,3 +28,5 @@ permalink: /fundacjazapomniane
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjazapomniane"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Morskie-Opowieści
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Morskie-Opowieści"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

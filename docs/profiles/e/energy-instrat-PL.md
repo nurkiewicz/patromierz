@@ -28,3 +28,5 @@ permalink: /energy-instrat-PL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["energy-instrat-PL"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

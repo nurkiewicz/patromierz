@@ -28,3 +28,5 @@ permalink: /resetobywatelski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["resetobywatelski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

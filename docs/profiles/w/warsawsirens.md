@@ -28,3 +28,5 @@ permalink: /warsawsirens
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["warsawsirens"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

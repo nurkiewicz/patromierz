@@ -28,3 +28,5 @@ permalink: /dajherbate
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dajherbate"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /AlphaPolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AlphaPolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

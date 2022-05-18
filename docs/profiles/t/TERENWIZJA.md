@@ -28,3 +28,5 @@ permalink: /TERENWIZJA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TERENWIZJA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

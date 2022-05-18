@@ -28,3 +28,5 @@ permalink: /SandraCygan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SandraCygan"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

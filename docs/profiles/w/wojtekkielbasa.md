@@ -28,3 +28,5 @@ permalink: /wojtekkielbasa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wojtekkielbasa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /NatalaSzkoleniowaZiomala
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NatalaSzkoleniowaZiomala"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

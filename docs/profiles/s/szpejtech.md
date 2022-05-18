@@ -28,3 +28,5 @@ permalink: /szpejtech
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szpejtech"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

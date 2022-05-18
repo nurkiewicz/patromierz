@@ -28,3 +28,5 @@ permalink: /wolnesady
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wolnesady"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

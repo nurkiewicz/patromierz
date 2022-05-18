@@ -28,3 +28,5 @@ permalink: /MuzykaSeniora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MuzykaSeniora"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

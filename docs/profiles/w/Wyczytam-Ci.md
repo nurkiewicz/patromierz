@@ -28,3 +28,5 @@ permalink: /Wyczytam-Ci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Wyczytam-Ci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

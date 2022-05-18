@@ -28,3 +28,5 @@ permalink: /DronoStrefa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DronoStrefa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

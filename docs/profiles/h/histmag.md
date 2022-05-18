@@ -28,3 +28,5 @@ permalink: /histmag
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["histmag"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

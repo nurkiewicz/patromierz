@@ -28,3 +28,5 @@ permalink: /cudcodziennosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cudcodziennosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

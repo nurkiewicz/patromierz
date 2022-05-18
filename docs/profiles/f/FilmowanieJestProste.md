@@ -28,3 +28,5 @@ permalink: /FilmowanieJestProste
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FilmowanieJestProste"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

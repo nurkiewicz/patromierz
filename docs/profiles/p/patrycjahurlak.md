@@ -28,3 +28,5 @@ permalink: /patrycjahurlak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patrycjahurlak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

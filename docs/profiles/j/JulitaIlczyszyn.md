@@ -28,3 +28,5 @@ permalink: /JulitaIlczyszyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JulitaIlczyszyn"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Eff1o
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Eff1o"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

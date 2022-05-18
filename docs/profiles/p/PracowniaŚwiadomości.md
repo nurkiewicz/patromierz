@@ -28,3 +28,5 @@ permalink: /PracowniaŚwiadomości
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PracowniaŚwiadomości"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

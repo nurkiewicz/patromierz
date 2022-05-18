@@ -28,3 +28,5 @@ permalink: /nienawiscpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nienawiscpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

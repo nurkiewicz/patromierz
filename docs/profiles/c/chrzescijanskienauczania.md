@@ -28,3 +28,5 @@ permalink: /chrzescijanskienauczania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chrzescijanskienauczania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

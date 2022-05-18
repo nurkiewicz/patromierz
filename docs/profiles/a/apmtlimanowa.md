@@ -28,3 +28,5 @@ permalink: /apmtlimanowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["apmtlimanowa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

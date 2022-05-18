@@ -28,3 +28,5 @@ permalink: /zpopk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zpopk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

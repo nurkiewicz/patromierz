@@ -28,3 +28,5 @@ permalink: /lokalsi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lokalsi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

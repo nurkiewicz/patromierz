@@ -28,3 +28,5 @@ permalink: /instahiszpanski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["instahiszpanski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

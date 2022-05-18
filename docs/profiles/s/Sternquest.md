@@ -28,3 +28,5 @@ permalink: /Sternquest
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sternquest"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

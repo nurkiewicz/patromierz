@@ -28,3 +28,5 @@ permalink: /teczapoburzy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teczapoburzy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

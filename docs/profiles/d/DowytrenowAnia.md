@@ -28,3 +28,5 @@ permalink: /DowytrenowAnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DowytrenowAnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

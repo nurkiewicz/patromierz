@@ -28,3 +28,5 @@ permalink: /infoszach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["infoszach"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

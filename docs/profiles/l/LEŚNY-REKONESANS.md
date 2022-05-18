@@ -28,3 +28,5 @@ permalink: /LEŚNY-REKONESANS
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LEŚNY-REKONESANS"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /raj_utracony
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["raj_utracony"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

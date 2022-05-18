@@ -28,3 +28,5 @@ permalink: /sylwiabanasik-smulska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sylwiabanasik-smulska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

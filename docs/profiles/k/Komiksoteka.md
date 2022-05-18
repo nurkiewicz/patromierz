@@ -28,3 +28,5 @@ permalink: /Komiksoteka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Komiksoteka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

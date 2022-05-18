@@ -28,3 +28,5 @@ permalink: /tetmajer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tetmajer"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

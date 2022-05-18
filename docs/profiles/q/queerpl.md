@@ -28,3 +28,5 @@ permalink: /queerpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["queerpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

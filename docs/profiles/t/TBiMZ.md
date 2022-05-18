@@ -28,3 +28,5 @@ permalink: /TBiMZ
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TBiMZ"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /milozwierz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["milozwierz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

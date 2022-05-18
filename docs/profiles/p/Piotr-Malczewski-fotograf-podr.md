@@ -28,3 +28,5 @@ permalink: /Piotr-Malczewski-fotograf-podr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Piotr-Malczewski-fotograf-podr"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

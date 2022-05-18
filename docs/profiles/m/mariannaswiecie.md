@@ -28,3 +28,5 @@ permalink: /mariannaswiecie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mariannaswiecie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

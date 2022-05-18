@@ -28,3 +28,5 @@ permalink: /vPET.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vPET.pl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

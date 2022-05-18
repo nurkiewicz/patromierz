@@ -28,3 +28,5 @@ permalink: /fotobykaras
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fotobykaras"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

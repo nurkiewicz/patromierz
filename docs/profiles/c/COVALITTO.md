@@ -28,3 +28,5 @@ permalink: /COVALITTO
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["COVALITTO"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

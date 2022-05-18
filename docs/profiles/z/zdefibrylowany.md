@@ -28,3 +28,5 @@ permalink: /zdefibrylowany
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zdefibrylowany"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

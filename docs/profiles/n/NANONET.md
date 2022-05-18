@@ -28,3 +28,5 @@ permalink: /NANONET
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NANONET"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

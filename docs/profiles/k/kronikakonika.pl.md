@@ -28,3 +28,5 @@ permalink: /kronikakonika.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kronikakonika.pl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

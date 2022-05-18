@@ -28,3 +28,5 @@ permalink: /tomaszmering
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tomaszmering"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

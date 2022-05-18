@@ -28,3 +28,5 @@ permalink: /radiospacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radiospacja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

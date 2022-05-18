@@ -28,3 +28,5 @@ permalink: /teraz-wojsko-polskie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teraz-wojsko-polskie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

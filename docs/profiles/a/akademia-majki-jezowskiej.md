@@ -28,3 +28,5 @@ permalink: /akademia-majki-jezowskiej
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akademia-majki-jezowskiej"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

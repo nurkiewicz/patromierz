@@ -28,3 +28,5 @@ permalink: /Steeped
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Steeped"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

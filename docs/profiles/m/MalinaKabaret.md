@@ -28,3 +28,5 @@ permalink: /MalinaKabaret
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MalinaKabaret"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

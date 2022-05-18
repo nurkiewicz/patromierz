@@ -28,3 +28,5 @@ permalink: /mafimalibu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mafimalibu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

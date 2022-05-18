@@ -28,3 +28,5 @@ permalink: /mexicomagicoblog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mexicomagicoblog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

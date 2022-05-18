@@ -28,3 +28,5 @@ permalink: /Ekonomiaicałareszta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ekonomiaicałareszta"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

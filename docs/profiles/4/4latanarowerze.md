@@ -28,3 +28,5 @@ permalink: /4latanarowerze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["4latanarowerze"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

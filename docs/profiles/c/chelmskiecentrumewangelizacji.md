@@ -28,3 +28,5 @@ permalink: /chelmskiecentrumewangelizacji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chelmskiecentrumewangelizacji"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

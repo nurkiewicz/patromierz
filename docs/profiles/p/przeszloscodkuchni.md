@@ -28,3 +28,5 @@ permalink: /przeszloscodkuchni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przeszloscodkuchni"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

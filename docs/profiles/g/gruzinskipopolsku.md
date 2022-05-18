@@ -28,3 +28,5 @@ permalink: /gruzinskipopolsku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gruzinskipopolsku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

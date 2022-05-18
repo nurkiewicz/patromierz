@@ -28,3 +28,5 @@ permalink: /Marekirosliny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Marekirosliny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /radiooliwia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radiooliwia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

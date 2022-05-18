@@ -28,3 +28,5 @@ permalink: /PiterZrobToSam
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PiterZrobToSam"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

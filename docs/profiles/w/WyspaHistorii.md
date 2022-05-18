@@ -28,3 +28,5 @@ permalink: /WyspaHistorii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WyspaHistorii"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

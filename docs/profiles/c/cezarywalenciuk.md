@@ -28,3 +28,5 @@ permalink: /cezarywalenciuk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cezarywalenciuk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

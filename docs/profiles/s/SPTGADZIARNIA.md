@@ -28,3 +28,5 @@ permalink: /SPTGADZIARNIA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SPTGADZIARNIA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

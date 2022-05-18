@@ -28,3 +28,5 @@ permalink: /poszukiwacze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poszukiwacze"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /dom-milosierdzia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dom-milosierdzia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

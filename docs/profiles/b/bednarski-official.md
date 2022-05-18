@@ -28,3 +28,5 @@ permalink: /bednarski-official
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bednarski-official"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

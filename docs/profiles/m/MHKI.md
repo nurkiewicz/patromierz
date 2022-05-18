@@ -28,3 +28,5 @@ permalink: /MHKI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MHKI"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

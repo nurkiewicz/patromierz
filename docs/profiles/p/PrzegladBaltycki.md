@@ -28,3 +28,5 @@ permalink: /PrzegladBaltycki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PrzegladBaltycki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /fly-consulting
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fly-consulting"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

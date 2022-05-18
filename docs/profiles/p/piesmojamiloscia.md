@@ -28,3 +28,5 @@ permalink: /piesmojamiloscia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["piesmojamiloscia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

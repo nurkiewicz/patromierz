@@ -28,3 +28,5 @@ permalink: /stettin3d
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stettin3d"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

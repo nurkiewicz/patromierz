@@ -28,3 +28,5 @@ permalink: /carpigiani
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["carpigiani"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

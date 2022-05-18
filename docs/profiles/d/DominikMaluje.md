@@ -28,3 +28,5 @@ permalink: /DominikMaluje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DominikMaluje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

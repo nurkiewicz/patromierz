@@ -28,3 +28,5 @@ permalink: /wschodniezbrodnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wschodniezbrodnie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

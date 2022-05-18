@@ -28,3 +28,5 @@ permalink: /Mydreamland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mydreamland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

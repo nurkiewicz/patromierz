@@ -28,3 +28,5 @@ permalink: /patronite.plPilkarskaEstonia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patronite.plPilkarskaEstonia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

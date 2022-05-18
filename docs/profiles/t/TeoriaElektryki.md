@@ -28,3 +28,5 @@ permalink: /TeoriaElektryki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TeoriaElektryki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

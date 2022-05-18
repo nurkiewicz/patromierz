@@ -28,3 +28,5 @@ permalink: /bushcraftowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bushcraftowy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

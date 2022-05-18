@@ -28,3 +28,5 @@ permalink: /haft-artystyczny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["haft-artystyczny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

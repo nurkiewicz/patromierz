@@ -28,3 +28,5 @@ permalink: /redakcjaflash
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["redakcjaflash"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

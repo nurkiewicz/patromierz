@@ -28,3 +28,5 @@ permalink: /szeptanki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szeptanki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /mowrzepczyno
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mowrzepczyno"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

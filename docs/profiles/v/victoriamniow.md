@@ -28,3 +28,5 @@ permalink: /victoriamniow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["victoriamniow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

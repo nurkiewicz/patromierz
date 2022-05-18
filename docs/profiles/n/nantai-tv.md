@@ -28,3 +28,5 @@ permalink: /nantai-tv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nantai-tv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

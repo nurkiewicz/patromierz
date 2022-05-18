@@ -28,3 +28,5 @@ permalink: /FundacjaNadzieja.org
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaNadzieja.org"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

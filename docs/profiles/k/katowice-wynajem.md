@@ -28,3 +28,5 @@ permalink: /katowice-wynajem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["katowice-wynajem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

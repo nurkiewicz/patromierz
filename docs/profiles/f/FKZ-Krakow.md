@@ -28,3 +28,5 @@ permalink: /FKZ-Krakow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FKZ-Krakow"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

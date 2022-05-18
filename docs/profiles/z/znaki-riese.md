@@ -28,3 +28,5 @@ permalink: /znaki-riese
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["znaki-riese"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

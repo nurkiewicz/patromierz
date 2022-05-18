@@ -28,3 +28,5 @@ permalink: /krea-k-tywny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["krea-k-tywny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wojtusialke
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wojtusialke"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

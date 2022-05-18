@@ -28,3 +28,5 @@ permalink: /LukaszKozlik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LukaszKozlik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

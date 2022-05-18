@@ -28,3 +28,5 @@ permalink: /podlaskapiłka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podlaskapiłka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /maciej-wielobob
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["maciej-wielobob"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

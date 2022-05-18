@@ -28,3 +28,5 @@ permalink: /ruslan-poland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ruslan-poland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

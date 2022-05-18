@@ -28,3 +28,5 @@ permalink: /KamilaBakalarczyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KamilaBakalarczyk"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

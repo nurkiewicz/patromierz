@@ -28,3 +28,5 @@ permalink: /wojtekczytaWH40K
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wojtekczytaWH40K"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

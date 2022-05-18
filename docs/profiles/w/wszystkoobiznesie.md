@@ -28,3 +28,5 @@ permalink: /wszystkoobiznesie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wszystkoobiznesie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

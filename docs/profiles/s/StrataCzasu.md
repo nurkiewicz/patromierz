@@ -28,3 +28,5 @@ permalink: /StrataCzasu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StrataCzasu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

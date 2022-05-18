@@ -28,3 +28,5 @@ permalink: /podrozbezpaszportu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podrozbezpaszportu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

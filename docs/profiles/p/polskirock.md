@@ -28,3 +28,5 @@ permalink: /polskirock
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polskirock"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

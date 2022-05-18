@@ -28,3 +28,5 @@ permalink: /zalewianka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zalewianka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

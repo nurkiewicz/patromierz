@@ -28,3 +28,5 @@ permalink: /IdziemyDla
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["IdziemyDla"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

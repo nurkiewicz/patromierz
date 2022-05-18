@@ -28,3 +28,5 @@ permalink: /RemekDabrowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RemekDabrowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /patryk_rozycki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patryk_rozycki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

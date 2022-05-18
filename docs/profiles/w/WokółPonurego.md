@@ -28,3 +28,5 @@ permalink: /WokółPonurego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WokółPonurego"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

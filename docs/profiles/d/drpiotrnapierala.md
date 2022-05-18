@@ -28,3 +28,5 @@ permalink: /drpiotrnapierala
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drpiotrnapierala"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /adamstachowiak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adamstachowiak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

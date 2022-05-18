@@ -28,3 +28,5 @@ permalink: /typowyjedrzej
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["typowyjedrzej"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

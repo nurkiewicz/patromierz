@@ -28,3 +28,5 @@ permalink: /vacanze-romane
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vacanze-romane"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

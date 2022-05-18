@@ -28,3 +28,5 @@ permalink: /strefachanasa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["strefachanasa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Vonsky
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Vonsky"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

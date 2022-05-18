@@ -28,3 +28,5 @@ permalink: /spw
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spw"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

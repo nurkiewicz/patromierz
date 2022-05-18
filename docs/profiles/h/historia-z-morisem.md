@@ -28,3 +28,5 @@ permalink: /historia-z-morisem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historia-z-morisem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

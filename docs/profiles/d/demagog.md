@@ -28,3 +28,5 @@ permalink: /demagog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["demagog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

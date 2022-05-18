@@ -28,3 +28,5 @@ permalink: /Włodek-Biliński
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Włodek-Biliński"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

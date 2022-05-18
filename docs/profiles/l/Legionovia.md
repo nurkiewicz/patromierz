@@ -28,3 +28,5 @@ permalink: /Legionovia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Legionovia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /konradgadzina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["konradgadzina"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

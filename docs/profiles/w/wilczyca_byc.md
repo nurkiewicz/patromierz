@@ -28,3 +28,5 @@ permalink: /wilczyca_byc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wilczyca_byc"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

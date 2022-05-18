@@ -28,3 +28,5 @@ permalink: /BrodyzKosmosu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BrodyzKosmosu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

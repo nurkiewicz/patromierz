@@ -28,3 +28,5 @@ permalink: /muzykaetniczna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzykaetniczna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

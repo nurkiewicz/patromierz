@@ -28,3 +28,5 @@ permalink: /grandeconnection
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grandeconnection"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

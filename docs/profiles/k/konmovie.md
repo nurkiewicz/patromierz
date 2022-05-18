@@ -28,3 +28,5 @@ permalink: /konmovie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["konmovie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

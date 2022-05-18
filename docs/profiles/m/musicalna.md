@@ -28,3 +28,5 @@ permalink: /musicalna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["musicalna"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

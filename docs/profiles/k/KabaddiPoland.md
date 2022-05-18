@@ -28,3 +28,5 @@ permalink: /KabaddiPoland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KabaddiPoland"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

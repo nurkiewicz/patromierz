@@ -28,3 +28,5 @@ permalink: /michalsawickiakordeon
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["michalsawickiakordeon"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

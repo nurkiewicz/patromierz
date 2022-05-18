@@ -28,3 +28,5 @@ permalink: /jack_and_dog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jack_and_dog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

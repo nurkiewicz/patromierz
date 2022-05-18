@@ -28,3 +28,5 @@ permalink: /portalwarszawski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["portalwarszawski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

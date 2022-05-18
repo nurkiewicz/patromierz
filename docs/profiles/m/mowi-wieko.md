@@ -28,3 +28,5 @@ permalink: /mowi-wieko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mowi-wieko"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

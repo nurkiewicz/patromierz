@@ -28,3 +28,5 @@ permalink: /GlobalnaGra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GlobalnaGra"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

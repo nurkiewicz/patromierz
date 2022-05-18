@@ -28,3 +28,5 @@ permalink: /ameryka-dla-podroznika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ameryka-dla-podroznika"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

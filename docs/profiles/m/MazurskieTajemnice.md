@@ -28,3 +28,5 @@ permalink: /MazurskieTajemnice
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MazurskieTajemnice"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

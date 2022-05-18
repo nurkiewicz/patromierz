@@ -28,3 +28,5 @@ permalink: /agata-wilam-whybluesky
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["agata-wilam-whybluesky"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

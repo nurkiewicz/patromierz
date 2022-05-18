@@ -28,3 +28,5 @@ permalink: /sztukanawynos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sztukanawynos"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

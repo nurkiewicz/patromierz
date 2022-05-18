@@ -28,3 +28,5 @@ permalink: /Lifyen
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Lifyen"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

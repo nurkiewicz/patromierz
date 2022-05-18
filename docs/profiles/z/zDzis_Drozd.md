@@ -28,3 +28,5 @@ permalink: /zDzis_Drozd
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zDzis_Drozd"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

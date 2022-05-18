@@ -28,3 +28,5 @@ permalink: /projektprzebudzenie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["projektprzebudzenie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wioskakobiet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wioskakobiet"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

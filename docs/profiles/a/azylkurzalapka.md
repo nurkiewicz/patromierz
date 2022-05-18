@@ -28,3 +28,5 @@ permalink: /azylkurzalapka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["azylkurzalapka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

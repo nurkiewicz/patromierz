@@ -28,3 +28,5 @@ permalink: /medianarodowe
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["medianarodowe"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

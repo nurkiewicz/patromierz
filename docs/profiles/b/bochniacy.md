@@ -28,3 +28,5 @@ permalink: /bochniacy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bochniacy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

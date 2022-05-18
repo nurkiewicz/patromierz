@@ -28,3 +28,5 @@ permalink: /wyskakujzlaptopa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wyskakujzlaptopa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

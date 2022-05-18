@@ -28,3 +28,5 @@ permalink: /antekradzimski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["antekradzimski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /HotelMania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HotelMania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

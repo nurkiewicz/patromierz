@@ -28,3 +28,5 @@ permalink: /RunningMachine
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RunningMachine"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

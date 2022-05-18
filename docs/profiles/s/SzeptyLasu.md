@@ -28,3 +28,5 @@ permalink: /SzeptyLasu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SzeptyLasu"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

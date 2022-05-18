@@ -28,3 +28,5 @@ permalink: /TelewizjaTychy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TelewizjaTychy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

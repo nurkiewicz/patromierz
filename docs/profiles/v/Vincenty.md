@@ -28,3 +28,5 @@ permalink: /Vincenty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Vincenty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

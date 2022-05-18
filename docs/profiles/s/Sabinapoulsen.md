@@ -28,3 +28,5 @@ permalink: /Sabinapoulsen
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sabinapoulsen"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /diydesign
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["diydesign"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

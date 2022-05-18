@@ -28,3 +28,5 @@ permalink: /kieubasatv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kieubasatv"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

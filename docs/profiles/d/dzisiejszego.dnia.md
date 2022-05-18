@@ -28,3 +28,5 @@ permalink: /dzisiejszego.dnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dzisiejszego.dnia"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

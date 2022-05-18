@@ -28,3 +28,5 @@ permalink: /odwróconalekcja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odwróconalekcja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

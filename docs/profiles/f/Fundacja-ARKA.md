@@ -28,3 +28,5 @@ permalink: /Fundacja-ARKA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fundacja-ARKA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

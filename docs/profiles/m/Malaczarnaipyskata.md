@@ -28,3 +28,5 @@ permalink: /Malaczarnaipyskata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Malaczarnaipyskata"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

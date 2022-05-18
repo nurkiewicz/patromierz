@@ -28,3 +28,5 @@ permalink: /dolina-milosierdzia.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dolina-milosierdzia.pl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /wyobrazcie-sobie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wyobrazcie-sobie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

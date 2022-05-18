@@ -28,3 +28,5 @@ permalink: /imagomortis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["imagomortis"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

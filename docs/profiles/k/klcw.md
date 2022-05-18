@@ -28,3 +28,5 @@ permalink: /klcw
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klcw"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /sokayka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sokayka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /zadzieramkieceilece
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zadzieramkieceilece"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

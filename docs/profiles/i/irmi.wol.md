@@ -28,3 +28,5 @@ permalink: /irmi.wol
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["irmi.wol"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

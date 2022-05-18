@@ -28,3 +28,5 @@ permalink: /rapfrancuski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rapfrancuski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

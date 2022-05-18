@@ -28,3 +28,5 @@ permalink: /FundacjaWolnośćodReligii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaWolnośćodReligii"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /EvangelistLucasSzczepaniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EvangelistLucasSzczepaniak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

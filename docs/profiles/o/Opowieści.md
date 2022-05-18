@@ -28,3 +28,5 @@ permalink: /Opowieści
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Opowieści"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

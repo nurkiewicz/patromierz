@@ -28,3 +28,5 @@ permalink: /TSMTB
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TSMTB"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

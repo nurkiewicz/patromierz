@@ -28,3 +28,5 @@ permalink: /poszlakontra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poszlakontra"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

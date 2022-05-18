@@ -28,3 +28,5 @@ permalink: /magia_natury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magia_natury"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

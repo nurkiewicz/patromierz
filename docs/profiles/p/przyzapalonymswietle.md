@@ -28,3 +28,5 @@ permalink: /przyzapalonymswietle
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przyzapalonymswietle"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

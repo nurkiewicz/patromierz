@@ -28,3 +28,5 @@ permalink: /OriATVRiders
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OriATVRiders"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

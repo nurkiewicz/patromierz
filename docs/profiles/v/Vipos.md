@@ -28,3 +28,5 @@ permalink: /Vipos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Vipos"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

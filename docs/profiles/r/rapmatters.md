@@ -28,3 +28,5 @@ permalink: /rapmatters
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rapmatters"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

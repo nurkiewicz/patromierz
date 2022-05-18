@@ -28,3 +28,5 @@ permalink: /Bart-Networking
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bart-Networking"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

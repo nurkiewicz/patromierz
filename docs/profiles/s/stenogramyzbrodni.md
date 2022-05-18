@@ -28,3 +28,5 @@ permalink: /stenogramyzbrodni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stenogramyzbrodni"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

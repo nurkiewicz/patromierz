@@ -28,3 +28,5 @@ permalink: /poetycki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poetycki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

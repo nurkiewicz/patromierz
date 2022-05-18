@@ -28,3 +28,5 @@ permalink: /Budowlani-Całus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Budowlani-Całus"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

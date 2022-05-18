@@ -28,3 +28,5 @@ permalink: /tv_atlantyda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tv_atlantyda"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /owca
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["owca"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

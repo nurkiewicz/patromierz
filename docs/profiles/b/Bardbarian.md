@@ -28,3 +28,5 @@ permalink: /Bardbarian
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bardbarian"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

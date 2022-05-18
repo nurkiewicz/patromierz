@@ -28,3 +28,5 @@ permalink: /pgprgryf
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pgprgryf"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

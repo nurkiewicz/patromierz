@@ -28,3 +28,5 @@ permalink: /Antycznyblog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Antycznyblog"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

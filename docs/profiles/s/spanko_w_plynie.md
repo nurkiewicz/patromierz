@@ -28,3 +28,5 @@ permalink: /spanko_w_plynie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spanko_w_plynie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

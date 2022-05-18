@@ -28,3 +28,5 @@ permalink: /RoweremNaWoodstock
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RoweremNaWoodstock"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /chaosiinnepietra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chaosiinnepietra"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

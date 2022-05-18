@@ -28,3 +28,5 @@ permalink: /papierwdole666
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["papierwdole666"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

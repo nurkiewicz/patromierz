@@ -28,3 +28,5 @@ permalink: /AdamChemLab
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AdamChemLab"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

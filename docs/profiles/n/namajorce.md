@@ -28,3 +28,5 @@ permalink: /namajorce
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["namajorce"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

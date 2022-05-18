@@ -28,3 +28,5 @@ permalink: /drannasaj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drannasaj"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

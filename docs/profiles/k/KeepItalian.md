@@ -28,3 +28,5 @@ permalink: /KeepItalian
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KeepItalian"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

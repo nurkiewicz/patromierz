@@ -28,3 +28,5 @@ permalink: /hellozos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hellozos"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

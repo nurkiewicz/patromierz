@@ -28,3 +28,5 @@ permalink: /w-gore-szlaku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["w-gore-szlaku"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

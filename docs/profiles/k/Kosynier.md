@@ -28,3 +28,5 @@ permalink: /Kosynier
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kosynier"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

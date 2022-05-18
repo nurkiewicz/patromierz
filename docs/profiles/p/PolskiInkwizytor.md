@@ -28,3 +28,5 @@ permalink: /PolskiInkwizytor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolskiInkwizytor"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

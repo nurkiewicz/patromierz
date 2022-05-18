@@ -28,3 +28,5 @@ permalink: /pietniewicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pietniewicz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

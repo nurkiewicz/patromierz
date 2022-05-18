@@ -28,3 +28,5 @@ permalink: /PodcastLepiejTeraz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PodcastLepiejTeraz"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

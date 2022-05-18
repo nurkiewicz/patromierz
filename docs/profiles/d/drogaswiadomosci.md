@@ -28,3 +28,5 @@ permalink: /drogaswiadomosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drogaswiadomosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

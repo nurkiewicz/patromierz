@@ -28,3 +28,5 @@ permalink: /trenerpodczaski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["trenerpodczaski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

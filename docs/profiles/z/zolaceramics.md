@@ -28,3 +28,5 @@ permalink: /zolaceramics
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zolaceramics"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

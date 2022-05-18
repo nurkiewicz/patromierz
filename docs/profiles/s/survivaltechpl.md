@@ -28,3 +28,5 @@ permalink: /survivaltechpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["survivaltechpl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

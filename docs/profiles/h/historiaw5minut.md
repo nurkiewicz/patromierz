@@ -28,3 +28,5 @@ permalink: /historiaw5minut
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historiaw5minut"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

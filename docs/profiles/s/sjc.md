@@ -28,3 +28,5 @@ permalink: /sjc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sjc"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

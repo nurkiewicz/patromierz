@@ -28,3 +28,5 @@ permalink: /kochamnarty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kochamnarty"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

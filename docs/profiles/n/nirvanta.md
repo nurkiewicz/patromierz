@@ -28,3 +28,5 @@ permalink: /nirvanta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nirvanta"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

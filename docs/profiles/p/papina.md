@@ -28,3 +28,5 @@ permalink: /papina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["papina"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

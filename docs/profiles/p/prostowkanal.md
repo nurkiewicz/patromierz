@@ -28,3 +28,5 @@ permalink: /prostowkanal
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prostowkanal"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /LEGENDMAKE
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LEGENDMAKE"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

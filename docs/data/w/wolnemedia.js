@@ -74,4 +74,5 @@ profiles["wolnemedia"] = [
 	[new Date(1649395239000), null, 1, null, 705],
 	[new Date(1649481753000), null, 1, null, 705],
 	[new Date(1652758845000), 10, 1, 10.0, 715],
+	[new Date(1652866270000), 10, 1, 10.0, 715],
 ];

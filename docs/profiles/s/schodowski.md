@@ -28,3 +28,5 @@ permalink: /schodowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["schodowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

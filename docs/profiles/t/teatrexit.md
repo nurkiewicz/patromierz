@@ -28,3 +28,5 @@ permalink: /teatrexit
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teatrexit"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

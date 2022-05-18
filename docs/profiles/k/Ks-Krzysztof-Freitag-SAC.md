@@ -28,3 +28,5 @@ permalink: /Ks-Krzysztof-Freitag-SAC
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ks-Krzysztof-Freitag-SAC"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

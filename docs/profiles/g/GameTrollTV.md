@@ -28,3 +28,5 @@ permalink: /GameTrollTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GameTrollTV"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

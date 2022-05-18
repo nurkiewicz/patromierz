@@ -28,3 +28,5 @@ permalink: /prahumira
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prahumira"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

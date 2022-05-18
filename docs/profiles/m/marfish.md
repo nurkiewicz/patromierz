@@ -28,3 +28,5 @@ permalink: /marfish
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marfish"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

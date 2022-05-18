@@ -28,3 +28,5 @@ permalink: /AlfabetWojtusika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AlfabetWojtusika"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

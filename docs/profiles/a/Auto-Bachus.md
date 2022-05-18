@@ -28,3 +28,5 @@ permalink: /Auto-Bachus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Auto-Bachus"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

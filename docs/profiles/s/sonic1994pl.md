@@ -28,3 +28,5 @@ permalink: /sonic1994pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sonic1994pl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

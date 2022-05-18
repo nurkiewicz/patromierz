@@ -28,3 +28,5 @@ permalink: /revolshen
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["revolshen"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

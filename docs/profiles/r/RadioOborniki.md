@@ -28,3 +28,5 @@ permalink: /RadioOborniki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadioOborniki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

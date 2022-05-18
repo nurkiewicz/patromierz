@@ -28,3 +28,5 @@ permalink: /mieczyslaw_lusiak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mieczyslaw_lusiak"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

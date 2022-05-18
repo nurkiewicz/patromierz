@@ -28,3 +28,5 @@ permalink: /FundacjaDrClown
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaDrClown"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

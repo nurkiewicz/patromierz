@@ -28,3 +28,5 @@ permalink: /ChSA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ChSA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

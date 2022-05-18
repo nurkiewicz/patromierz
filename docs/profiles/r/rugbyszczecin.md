@@ -28,3 +28,5 @@ permalink: /rugbyszczecin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rugbyszczecin"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /motowizja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["motowizja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

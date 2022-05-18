@@ -28,3 +28,5 @@ permalink: /oaza-miedzyles
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["oaza-miedzyles"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

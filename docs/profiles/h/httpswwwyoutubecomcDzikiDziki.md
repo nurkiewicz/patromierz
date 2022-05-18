@@ -28,3 +28,5 @@ permalink: /httpswwwyoutubecomcDzikiDziki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["httpswwwyoutubecomcDzikiDziki"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

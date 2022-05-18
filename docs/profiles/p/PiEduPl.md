@@ -28,3 +28,5 @@ permalink: /PiEduPl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PiEduPl"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

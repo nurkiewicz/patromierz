@@ -28,3 +28,5 @@ permalink: /ssi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ssi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

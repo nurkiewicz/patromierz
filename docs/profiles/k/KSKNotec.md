@@ -28,3 +28,5 @@ permalink: /KSKNotec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KSKNotec"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

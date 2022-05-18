@@ -28,3 +28,5 @@ permalink: /Popularzy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Popularzy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

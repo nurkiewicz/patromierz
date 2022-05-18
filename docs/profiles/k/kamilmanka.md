@@ -28,3 +28,5 @@ permalink: /kamilmanka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kamilmanka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /MyTaple
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MyTaple"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

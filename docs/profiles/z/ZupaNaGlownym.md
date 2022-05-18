@@ -28,3 +28,5 @@ permalink: /ZupaNaGlownym
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZupaNaGlownym"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

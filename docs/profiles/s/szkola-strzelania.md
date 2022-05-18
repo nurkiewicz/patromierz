@@ -28,3 +28,5 @@ permalink: /szkola-strzelania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szkola-strzelania"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

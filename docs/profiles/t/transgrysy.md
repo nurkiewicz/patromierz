@@ -28,3 +28,5 @@ permalink: /transgrysy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["transgrysy"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

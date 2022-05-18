@@ -28,3 +28,5 @@ permalink: /slowianskie-demony
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slowianskie-demony"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

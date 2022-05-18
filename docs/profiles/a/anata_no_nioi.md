@@ -28,3 +28,5 @@ permalink: /anata_no_nioi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anata_no_nioi"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

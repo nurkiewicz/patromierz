@@ -28,3 +28,5 @@ permalink: /Sierzant_Bagieta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sierzant_Bagieta"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

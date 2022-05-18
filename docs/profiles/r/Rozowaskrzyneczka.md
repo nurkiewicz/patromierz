@@ -28,3 +28,5 @@ permalink: /Rozowaskrzyneczka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Rozowaskrzyneczka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

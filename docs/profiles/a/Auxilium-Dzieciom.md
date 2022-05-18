@@ -28,3 +28,5 @@ permalink: /Auxilium-Dzieciom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Auxilium-Dzieciom"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

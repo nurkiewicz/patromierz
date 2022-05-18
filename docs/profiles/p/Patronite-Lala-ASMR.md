@@ -28,3 +28,5 @@ permalink: /Patronite-Lala-ASMR
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Patronite-Lala-ASMR"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

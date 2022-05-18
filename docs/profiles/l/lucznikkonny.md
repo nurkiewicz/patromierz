@@ -28,3 +28,5 @@ permalink: /lucznikkonny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lucznikkonny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

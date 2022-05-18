@@ -28,3 +28,5 @@ permalink: /lgrzybowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lgrzybowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

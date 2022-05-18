@@ -28,3 +28,5 @@ permalink: /widzialnalapa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["widzialnalapa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /rejentiszumowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rejentiszumowski"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

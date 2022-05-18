@@ -28,3 +28,5 @@ permalink: /combatalert
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["combatalert"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

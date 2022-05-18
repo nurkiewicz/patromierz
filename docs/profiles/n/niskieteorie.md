@@ -28,3 +28,5 @@ permalink: /niskieteorie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niskieteorie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /ScienceWatchPolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ScienceWatchPolska"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

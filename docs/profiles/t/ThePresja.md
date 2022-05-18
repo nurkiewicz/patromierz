@@ -28,3 +28,5 @@ permalink: /ThePresja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ThePresja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

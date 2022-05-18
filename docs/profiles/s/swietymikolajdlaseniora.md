@@ -28,3 +28,5 @@ permalink: /swietymikolajdlaseniora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["swietymikolajdlaseniora"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

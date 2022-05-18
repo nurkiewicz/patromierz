@@ -28,3 +28,5 @@ permalink: /grzegorzkulik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grzegorzkulik"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

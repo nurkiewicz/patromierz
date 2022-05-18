@@ -28,3 +28,5 @@ permalink: /Legia_Rugby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Legia_Rugby"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /Rebeliant
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Rebeliant"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

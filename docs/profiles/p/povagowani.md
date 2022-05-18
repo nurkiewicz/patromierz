@@ -28,3 +28,5 @@ permalink: /povagowani
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["povagowani"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

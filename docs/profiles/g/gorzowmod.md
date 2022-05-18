@@ -28,3 +28,5 @@ permalink: /gorzowmod
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gorzowmod"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

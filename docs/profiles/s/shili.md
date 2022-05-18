@@ -28,3 +28,5 @@ permalink: /shili
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["shili"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /fitontrip
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fitontrip"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

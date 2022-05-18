@@ -28,3 +28,5 @@ permalink: /BartłomiejPopławski-Leather
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BartłomiejPopławski-Leather"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

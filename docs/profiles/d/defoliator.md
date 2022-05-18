@@ -28,3 +28,5 @@ permalink: /defoliator
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["defoliator"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

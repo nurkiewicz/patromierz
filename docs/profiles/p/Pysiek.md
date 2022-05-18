@@ -28,3 +28,5 @@ permalink: /Pysiek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Pysiek"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

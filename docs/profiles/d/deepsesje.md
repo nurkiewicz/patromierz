@@ -28,3 +28,5 @@ permalink: /deepsesje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["deepsesje"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

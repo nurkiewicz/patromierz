@@ -28,3 +28,5 @@ permalink: /Basti
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Basti"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

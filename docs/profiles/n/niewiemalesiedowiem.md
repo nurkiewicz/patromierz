@@ -28,3 +28,5 @@ permalink: /niewiemalesiedowiem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niewiemalesiedowiem"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

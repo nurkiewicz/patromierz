@@ -28,3 +28,5 @@ permalink: /otwieramy-przestrzeń
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["otwieramy-przestrzeń"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

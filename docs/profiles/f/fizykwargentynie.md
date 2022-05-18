@@ -28,3 +28,5 @@ permalink: /fizykwargentynie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fizykwargentynie"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

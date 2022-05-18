@@ -28,3 +28,5 @@ permalink: /japonskaprowincja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["japonskaprowincja"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

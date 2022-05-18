@@ -28,3 +28,5 @@ permalink: /halogorlice-info
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["halogorlice-info"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

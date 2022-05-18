@@ -28,3 +28,5 @@ permalink: /Elektronika_Układy_FPGA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Elektronika_Układy_FPGA"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

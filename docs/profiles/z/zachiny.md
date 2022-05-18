@@ -28,3 +28,5 @@ permalink: /zachiny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zachiny"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

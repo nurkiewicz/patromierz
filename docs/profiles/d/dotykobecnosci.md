@@ -28,3 +28,5 @@ permalink: /dotykobecnosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dotykobecnosci"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

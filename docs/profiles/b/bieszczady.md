@@ -28,3 +28,5 @@ permalink: /bieszczady
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bieszczady"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

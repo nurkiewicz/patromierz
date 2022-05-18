@@ -28,3 +28,5 @@ permalink: /KMAG_Radio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KMAG_Radio"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

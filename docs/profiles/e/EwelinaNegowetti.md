@@ -28,3 +28,5 @@ permalink: /EwelinaNegowetti
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EwelinaNegowetti"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

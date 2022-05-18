@@ -28,3 +28,5 @@ permalink: /altertonative
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["altertonative"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

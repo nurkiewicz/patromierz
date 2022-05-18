@@ -28,3 +28,5 @@ permalink: /Guzikówka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Guzikówka"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

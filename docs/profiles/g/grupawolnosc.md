@@ -28,3 +28,5 @@ permalink: /grupawolnosc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grupawolnosc"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -28,3 +28,5 @@ permalink: /smocza.mama
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["smocza.mama"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

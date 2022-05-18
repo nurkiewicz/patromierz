@@ -28,3 +28,5 @@ permalink: /CzarneOwce
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CzarneOwce"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

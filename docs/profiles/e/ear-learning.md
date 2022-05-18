@@ -28,3 +28,5 @@ permalink: /ear-learning
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ear-learning"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

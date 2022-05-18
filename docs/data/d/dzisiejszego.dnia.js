@@ -16,4 +16,5 @@ profiles["dzisiejszego.dnia"] = [
 	[new Date(1652577517000), 5, 1, 5.0, 5],
 	[new Date(1652663851000), 5, 1, 5.0, 5],
 	[new Date(1652750208000), 5, 1, 5.0, 5],
+	[new Date(1652864935000), null, 1, null, 5],
 ];

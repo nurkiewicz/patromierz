@@ -28,3 +28,5 @@ permalink: /OgrodyPermakultury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OgrodyPermakultury"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

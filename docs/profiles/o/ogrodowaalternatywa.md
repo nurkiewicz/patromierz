@@ -28,3 +28,5 @@ permalink: /ogrodowaalternatywa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ogrodowaalternatywa"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.
