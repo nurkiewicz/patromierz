@@ -1,5 +1,5 @@
 ---
-title: AmbitnaPolska | Patromierz
+title: "AmbitnaPolska | Patromierz"
 permalink: /AmbitnaPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /AmbitnaPolska
 <script type="text/javascript" src="data/a/AmbitnaPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AmbitnaPolska](https://patronite.pl/AmbitnaPolska)
+# [Ambitna Polska](https://patronite.pl/AmbitnaPolska)
 
 ## Miesięczne wsparcie
 

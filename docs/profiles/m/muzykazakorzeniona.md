@@ -1,5 +1,5 @@
 ---
-title: muzykazakorzeniona | Patromierz
+title: "muzykazakorzeniona | Patromierz"
 permalink: /muzykazakorzeniona
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzykazakorzeniona
 <script type="text/javascript" src="data/m/muzykazakorzeniona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzykazakorzeniona](https://patronite.pl/muzykazakorzeniona)
+# [Muzyka Zakorzeniona](https://patronite.pl/muzykazakorzeniona)
 
 ## Miesięczne wsparcie
 

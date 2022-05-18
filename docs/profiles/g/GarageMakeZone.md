@@ -1,5 +1,5 @@
 ---
-title: GarageMakeZone | Patromierz
+title: "GarageMakeZone | Patromierz"
 permalink: /GarageMakeZone
 ---
 
@@ -7,7 +7,7 @@ permalink: /GarageMakeZone
 <script type="text/javascript" src="data/g/GarageMakeZone.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GarageMakeZone](https://patronite.pl/GarageMakeZone)
+# [Garage Make Zone](https://patronite.pl/GarageMakeZone)
 
 ## Miesięczne wsparcie
 

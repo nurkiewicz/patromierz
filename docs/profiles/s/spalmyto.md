@@ -1,5 +1,5 @@
 ---
-title: spalmyto | Patromierz
+title: "spalmyto | Patromierz"
 permalink: /spalmyto
 ---
 
@@ -7,7 +7,7 @@ permalink: /spalmyto
 <script type="text/javascript" src="data/s/spalmyto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spalmyto](https://patronite.pl/spalmyto)
+# [Spalmy to!](https://patronite.pl/spalmyto)
 
 ## Miesięczne wsparcie
 

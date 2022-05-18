@@ -1,5 +1,5 @@
 ---
-title: RadioJAZZFM | Patromierz
+title: "RadioJAZZFM | Patromierz"
 permalink: /RadioJAZZFM
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioJAZZFM
 <script type="text/javascript" src="data/r/RadioJAZZFM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioJAZZFM](https://patronite.pl/RadioJAZZFM)
+# [RadioJAZZ.FM  ](https://patronite.pl/RadioJAZZFM)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: jaru | Patromierz
+title: "jaru | Patromierz"
 permalink: /jaru
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaru
 <script type="text/javascript" src="data/j/jaru.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaru](https://patronite.pl/jaru)
+# [Jaru](https://patronite.pl/jaru)
 
 ## Miesięczne wsparcie
 

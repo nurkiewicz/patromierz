@@ -1,5 +1,5 @@
 ---
-title: ChSA | Patromierz
+title: "ChSA | Patromierz"
 permalink: /ChSA
 ---
 
@@ -7,7 +7,7 @@ permalink: /ChSA
 <script type="text/javascript" src="data/c/ChSA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ChSA](https://patronite.pl/ChSA)
+# [Chodzieskie Służby Alarmowo](https://patronite.pl/ChSA)
 
 ## Miesięczne wsparcie
 

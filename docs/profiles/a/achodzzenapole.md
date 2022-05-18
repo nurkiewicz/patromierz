@@ -1,5 +1,5 @@
 ---
-title: achodzzenapole | Patromierz
+title: "achodzzenapole | Patromierz"
 permalink: /achodzzenapole
 ---
 
@@ -7,7 +7,7 @@ permalink: /achodzzenapole
 <script type="text/javascript" src="data/a/achodzzenapole.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [achodzzenapole](https://patronite.pl/achodzzenapole)
+# [A chodźże na pole!](https://patronite.pl/achodzzenapole)
 
 ## Miesięczne wsparcie
 

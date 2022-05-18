@@ -1,5 +1,5 @@
 ---
-title: spokojnietotylkoADHD | Patromierz
+title: "spokojnietotylkoADHD | Patromierz"
 permalink: /spokojnietotylkoADHD
 ---
 
@@ -7,7 +7,7 @@ permalink: /spokojnietotylkoADHD
 <script type="text/javascript" src="data/s/spokojnietotylkoADHD.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spokojnietotylkoADHD](https://patronite.pl/spokojnietotylkoADHD)
+# [Spokojnie to tylko ADHD](https://patronite.pl/spokojnietotylkoADHD)
 
 ## Miesięczne wsparcie
 

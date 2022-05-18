@@ -1,5 +1,5 @@
 ---
-title: pilateszirena | Patromierz
+title: "pilateszirena | Patromierz"
 permalink: /pilateszirena
 ---
 
@@ -7,7 +7,7 @@ permalink: /pilateszirena
 <script type="text/javascript" src="data/p/pilateszirena.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pilateszirena](https://patronite.pl/pilateszirena)
+# [Irena Melcer](https://patronite.pl/pilateszirena)
 
 ## Miesięczne wsparcie
 

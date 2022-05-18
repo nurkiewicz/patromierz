@@ -1,5 +1,5 @@
 ---
-title: Edith.TheTraveller | Patromierz
+title: "Edith.TheTraveller | Patromierz"
 permalink: /Edith.TheTraveller
 ---
 
@@ -7,7 +7,7 @@ permalink: /Edith.TheTraveller
 <script type="text/javascript" src="data/e/Edith.TheTraveller.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Edith.TheTraveller](https://patronite.pl/Edith.TheTraveller)
+# [Edyta Krakowiak](https://patronite.pl/Edith.TheTraveller)
 
 ## Miesięczne wsparcie
 

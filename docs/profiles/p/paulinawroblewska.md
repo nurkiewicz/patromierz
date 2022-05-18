@@ -1,5 +1,5 @@
 ---
-title: paulinawroblewska | Patromierz
+title: "paulinawroblewska | Patromierz"
 permalink: /paulinawroblewska
 ---
 
@@ -7,7 +7,7 @@ permalink: /paulinawroblewska
 <script type="text/javascript" src="data/p/paulinawroblewska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paulinawroblewska](https://patronite.pl/paulinawroblewska)
+# [Paulina Wróblewska](https://patronite.pl/paulinawroblewska)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: WyspaHistorii | Patromierz
+title: "WyspaHistorii | Patromierz"
 permalink: /WyspaHistorii
 ---
 
@@ -7,7 +7,7 @@ permalink: /WyspaHistorii
 <script type="text/javascript" src="data/w/WyspaHistorii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WyspaHistorii](https://patronite.pl/WyspaHistorii)
+# [Wyspa Historii](https://patronite.pl/WyspaHistorii)
 
 ## Miesięczne wsparcie
 

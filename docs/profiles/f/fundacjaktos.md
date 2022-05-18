@@ -1,5 +1,5 @@
 ---
-title: fundacjaktos | Patromierz
+title: "fundacjaktos | Patromierz"
 permalink: /fundacjaktos
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaktos
 <script type="text/javascript" src="data/f/fundacjaktos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaktos](https://patronite.pl/fundacjaktos)
+# [Fundacja KTOŚ](https://patronite.pl/fundacjaktos)
 
 ## Miesięczne wsparcie
 

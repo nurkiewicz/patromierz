@@ -1,5 +1,5 @@
 ---
-title: MatejMatejGshock | Patromierz
+title: "MatejMatejGshock | Patromierz"
 permalink: /MatejMatejGshock
 ---
 

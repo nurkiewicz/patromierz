@@ -1,5 +1,5 @@
 ---
-title: joga-paulina | Patromierz
+title: "joga-paulina | Patromierz"
 permalink: /joga-paulina
 ---
 
@@ -7,7 +7,7 @@ permalink: /joga-paulina
 <script type="text/javascript" src="data/j/joga-paulina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [joga-paulina](https://patronite.pl/joga-paulina)
+# [Yoga with Paulina](https://patronite.pl/joga-paulina)
 
 ## Miesięczne wsparcie
 

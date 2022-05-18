@@ -1,5 +1,5 @@
 ---
-title: Koscielny | Patromierz
+title: "Koscielny | Patromierz"
 permalink: /Koscielny
 ---
 
@@ -7,7 +7,7 @@ permalink: /Koscielny
 <script type="text/javascript" src="data/k/Koscielny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Koscielny](https://patronite.pl/Koscielny)
+# [Filip Łuczak](https://patronite.pl/Koscielny)
 
 ## Miesięczne wsparcie
 

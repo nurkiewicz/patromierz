@@ -1,5 +1,5 @@
 ---
-title: Vipos | Patromierz
+title: "Vipos | Patromierz"
 permalink: /Vipos
 ---
 

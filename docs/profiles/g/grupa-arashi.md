@@ -1,5 +1,5 @@
 ---
-title: grupa-arashi | Patromierz
+title: "grupa-arashi | Patromierz"
 permalink: /grupa-arashi
 ---
 
@@ -7,7 +7,7 @@ permalink: /grupa-arashi
 <script type="text/javascript" src="data/g/grupa-arashi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grupa-arashi](https://patronite.pl/grupa-arashi)
+# [Grupa Arashi](https://patronite.pl/grupa-arashi)
 
 ## Miesięczne wsparcie
 

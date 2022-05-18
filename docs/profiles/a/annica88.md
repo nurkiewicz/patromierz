@@ -1,5 +1,5 @@
 ---
-title: annica88 | Patromierz
+title: "annica88 | Patromierz"
 permalink: /annica88
 ---
 
@@ -7,7 +7,7 @@ permalink: /annica88
 <script type="text/javascript" src="data/a/annica88.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annica88](https://patronite.pl/annica88)
+# [Annica88](https://patronite.pl/annica88)
 
 ## Miesięczne wsparcie
 

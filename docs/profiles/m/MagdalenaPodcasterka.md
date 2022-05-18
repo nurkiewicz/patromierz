@@ -1,5 +1,5 @@
 ---
-title: MagdalenaPodcasterka | Patromierz
+title: "MagdalenaPodcasterka | Patromierz"
 permalink: /MagdalenaPodcasterka
 ---
 
@@ -7,7 +7,7 @@ permalink: /MagdalenaPodcasterka
 <script type="text/javascript" src="data/m/MagdalenaPodcasterka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MagdalenaPodcasterka](https://patronite.pl/MagdalenaPodcasterka)
+# [Magdalena Popielarczyk](https://patronite.pl/MagdalenaPodcasterka)
 
 ## Miesięczne wsparcie
 

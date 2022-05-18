@@ -1,5 +1,5 @@
 ---
-title: radio-dimash-pl | Patromierz
+title: "radio-dimash-pl | Patromierz"
 permalink: /radio-dimash-pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /radio-dimash-pl
 <script type="text/javascript" src="data/r/radio-dimash-pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radio-dimash-pl](https://patronite.pl/radio-dimash-pl)
+# [RadioDimash.pl   ](https://patronite.pl/radio-dimash-pl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: siostryrzeki | Patromierz
+title: "siostryrzeki | Patromierz"
 permalink: /siostryrzeki
 ---
 
@@ -7,7 +7,7 @@ permalink: /siostryrzeki
 <script type="text/javascript" src="data/s/siostryrzeki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [siostryrzeki](https://patronite.pl/siostryrzeki)
+# [Siostry Rzeki](https://patronite.pl/siostryrzeki)
 
 ## Miesięczne wsparcie
 

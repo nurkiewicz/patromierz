@@ -1,5 +1,5 @@
 ---
-title: esteraplokal | Patromierz
+title: "esteraplokal | Patromierz"
 permalink: /esteraplokal
 ---
 
@@ -7,7 +7,7 @@ permalink: /esteraplokal
 <script type="text/javascript" src="data/e/esteraplokal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [esteraplokal](https://patronite.pl/esteraplokal)
+# [ESTE Rap Lokal](https://patronite.pl/esteraplokal)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wydera | Patromierz
+title: "wydera | Patromierz"
 permalink: /wydera
 ---
 
@@ -7,7 +7,7 @@ permalink: /wydera
 <script type="text/javascript" src="data/w/wydera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wydera](https://patronite.pl/wydera)
+# [Wydera](https://patronite.pl/wydera)
 
 ## Miesięczne wsparcie
 

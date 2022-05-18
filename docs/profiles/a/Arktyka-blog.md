@@ -1,5 +1,5 @@
 ---
-title: Arktyka-blog | Patromierz
+title: "Arktyka-blog | Patromierz"
 permalink: /Arktyka-blog
 ---
 
@@ -7,7 +7,7 @@ permalink: /Arktyka-blog
 <script type="text/javascript" src="data/a/Arktyka-blog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Arktyka-blog](https://patronite.pl/Arktyka-blog)
+# [Arktyczny Lód blog](https://patronite.pl/Arktyka-blog)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: strzelczyk | Patromierz
+title: "strzelczyk | Patromierz"
 permalink: /strzelczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /strzelczyk
 <script type="text/javascript" src="data/s/strzelczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strzelczyk](https://patronite.pl/strzelczyk)
+# [Błażej Strzelczyk](https://patronite.pl/strzelczyk)
 
 ## Miesięczne wsparcie
 

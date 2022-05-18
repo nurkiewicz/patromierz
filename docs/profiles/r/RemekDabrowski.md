@@ -1,5 +1,5 @@
 ---
-title: RemekDabrowski | Patromierz
+title: "RemekDabrowski | Patromierz"
 permalink: /RemekDabrowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /RemekDabrowski
 <script type="text/javascript" src="data/r/RemekDabrowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RemekDabrowski](https://patronite.pl/RemekDabrowski)
+# [Remek Dąbrowski](https://patronite.pl/RemekDabrowski)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: abbapater | Patromierz
+title: "abbapater | Patromierz"
 permalink: /abbapater
 ---
 
@@ -7,7 +7,7 @@ permalink: /abbapater
 <script type="text/javascript" src="data/a/abbapater.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [abbapater](https://patronite.pl/abbapater)
+# [Fundacja Abba Pater](https://patronite.pl/abbapater)
 
 ## Miesięczne wsparcie
 

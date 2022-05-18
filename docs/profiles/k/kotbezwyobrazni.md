@@ -1,5 +1,5 @@
 ---
-title: kotbezwyobrazni | Patromierz
+title: "kotbezwyobrazni | Patromierz"
 permalink: /kotbezwyobrazni
 ---
 
@@ -7,7 +7,7 @@ permalink: /kotbezwyobrazni
 <script type="text/javascript" src="data/k/kotbezwyobrazni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kotbezwyobrazni](https://patronite.pl/kotbezwyobrazni)
+# [Kot Bez Wyobraźni ∙ Gosia Gawlik](https://patronite.pl/kotbezwyobrazni)
 
 ## Miesięczne wsparcie
 

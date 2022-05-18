@@ -1,5 +1,5 @@
 ---
-title: przeszloscodkuchni | Patromierz
+title: "przeszloscodkuchni | Patromierz"
 permalink: /przeszloscodkuchni
 ---
 
@@ -7,7 +7,7 @@ permalink: /przeszloscodkuchni
 <script type="text/javascript" src="data/p/przeszloscodkuchni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przeszloscodkuchni](https://patronite.pl/przeszloscodkuchni)
+# [Przeszłość od kuchni](https://patronite.pl/przeszloscodkuchni)
 
 ## Miesięczne wsparcie
 

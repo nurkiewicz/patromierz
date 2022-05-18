@@ -1,5 +1,5 @@
 ---
-title: degustator | Patromierz
+title: "degustator | Patromierz"
 permalink: /degustator
 ---
 
@@ -7,7 +7,7 @@ permalink: /degustator
 <script type="text/javascript" src="data/d/degustator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [degustator](https://patronite.pl/degustator)
+# [Degustator](https://patronite.pl/degustator)
 
 ## Miesięczne wsparcie
 

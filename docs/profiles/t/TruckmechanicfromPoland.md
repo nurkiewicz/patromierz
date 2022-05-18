@@ -1,5 +1,5 @@
 ---
-title: TruckmechanicfromPoland | Patromierz
+title: "TruckmechanicfromPoland | Patromierz"
 permalink: /TruckmechanicfromPoland
 ---
 
@@ -7,7 +7,7 @@ permalink: /TruckmechanicfromPoland
 <script type="text/javascript" src="data/t/TruckmechanicfromPoland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TruckmechanicfromPoland](https://patronite.pl/TruckmechanicfromPoland)
+# [Truck Mechanic from Poland](https://patronite.pl/TruckmechanicfromPoland)
 
 ## Miesięczne wsparcie
 

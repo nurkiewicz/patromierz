@@ -1,5 +1,5 @@
 ---
-title: inthecagepl | Patromierz
+title: "inthecagepl | Patromierz"
 permalink: /inthecagepl
 ---
 
@@ -7,7 +7,7 @@ permalink: /inthecagepl
 <script type="text/javascript" src="data/i/inthecagepl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [inthecagepl](https://patronite.pl/inthecagepl)
+# [InTheCage.pl](https://patronite.pl/inthecagepl)
 
 ## Miesięczne wsparcie
 

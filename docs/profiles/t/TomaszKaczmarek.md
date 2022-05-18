@@ -1,5 +1,5 @@
 ---
-title: TomaszKaczmarek | Patromierz
+title: "TomaszKaczmarek | Patromierz"
 permalink: /TomaszKaczmarek
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszKaczmarek
 <script type="text/javascript" src="data/t/TomaszKaczmarek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszKaczmarek](https://patronite.pl/TomaszKaczmarek)
+# [Tomek Kaczmarek](https://patronite.pl/TomaszKaczmarek)
 
 ## Miesięczne wsparcie
 

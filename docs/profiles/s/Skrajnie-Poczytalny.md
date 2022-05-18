@@ -1,5 +1,5 @@
 ---
-title: Skrajnie-Poczytalny | Patromierz
+title: "Skrajnie-Poczytalny | Patromierz"
 permalink: /Skrajnie-Poczytalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /Skrajnie-Poczytalny
 <script type="text/javascript" src="data/s/Skrajnie-Poczytalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Skrajnie-Poczytalny](https://patronite.pl/Skrajnie-Poczytalny)
+# [Adrian Kaszuba](https://patronite.pl/Skrajnie-Poczytalny)
 
 ## Miesięczne wsparcie
 

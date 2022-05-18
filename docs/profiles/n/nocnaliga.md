@@ -1,5 +1,5 @@
 ---
-title: nocnaliga | Patromierz
+title: "nocnaliga | Patromierz"
 permalink: /nocnaliga
 ---
 
@@ -7,7 +7,7 @@ permalink: /nocnaliga
 <script type="text/javascript" src="data/n/nocnaliga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nocnaliga](https://patronite.pl/nocnaliga)
+# [Nocna Liga Halowa](https://patronite.pl/nocnaliga)
 
 ## Miesięczne wsparcie
 

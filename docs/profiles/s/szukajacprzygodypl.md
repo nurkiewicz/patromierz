@@ -1,5 +1,5 @@
 ---
-title: szukajacprzygodypl | Patromierz
+title: "szukajacprzygodypl | Patromierz"
 permalink: /szukajacprzygodypl
 ---
 
@@ -7,7 +7,7 @@ permalink: /szukajacprzygodypl
 <script type="text/javascript" src="data/s/szukajacprzygodypl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szukajacprzygodypl](https://patronite.pl/szukajacprzygodypl)
+# [Szukając Przygody - Życie na Filipinach](https://patronite.pl/szukajacprzygodypl)
 
 ## Miesięczne wsparcie
 

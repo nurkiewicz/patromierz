@@ -1,5 +1,5 @@
 ---
-title: niewszystkojedno | Patromierz
+title: "niewszystkojedno | Patromierz"
 permalink: /niewszystkojedno
 ---
 
@@ -7,7 +7,7 @@ permalink: /niewszystkojedno
 <script type="text/javascript" src="data/n/niewszystkojedno.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niewszystkojedno](https://patronite.pl/niewszystkojedno)
+# [Nie wszystko jedno](https://patronite.pl/niewszystkojedno)
 
 ## Miesięczne wsparcie
 

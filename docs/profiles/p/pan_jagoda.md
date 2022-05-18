@@ -1,5 +1,5 @@
 ---
-title: pan_jagoda | Patromierz
+title: "pan_jagoda | Patromierz"
 permalink: /pan_jagoda
 ---
 
@@ -7,7 +7,7 @@ permalink: /pan_jagoda
 <script type="text/javascript" src="data/p/pan_jagoda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pan_jagoda](https://patronite.pl/pan_jagoda)
+# [Pan Jagoda ](https://patronite.pl/pan_jagoda)
 
 ## Miesięczne wsparcie
 

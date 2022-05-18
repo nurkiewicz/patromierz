@@ -1,5 +1,5 @@
 ---
-title: jakzostacprogramistanet | Patromierz
+title: "jakzostacprogramistanet | Patromierz"
 permalink: /jakzostacprogramistanet
 ---
 
@@ -7,7 +7,7 @@ permalink: /jakzostacprogramistanet
 <script type="text/javascript" src="data/j/jakzostacprogramistanet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jakzostacprogramistanet](https://patronite.pl/jakzostacprogramistanet)
+# [Jak zostać programistą .NET](https://patronite.pl/jakzostacprogramistanet)
 
 ## Miesięczne wsparcie
 

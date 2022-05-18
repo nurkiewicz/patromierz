@@ -1,5 +1,5 @@
 ---
-title: mywonderland_com_pl | Patromierz
+title: "mywonderland_com_pl | Patromierz"
 permalink: /mywonderland_com_pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /mywonderland_com_pl
 <script type="text/javascript" src="data/m/mywonderland_com_pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mywonderland_com_pl](https://patronite.pl/mywonderland_com_pl)
+# [My Wonderland.com.pl](https://patronite.pl/mywonderland_com_pl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: elvizja | Patromierz
+title: "elvizja | Patromierz"
 permalink: /elvizja
 ---
 
@@ -7,7 +7,7 @@ permalink: /elvizja
 <script type="text/javascript" src="data/e/elvizja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elvizja](https://patronite.pl/elvizja)
+# [Elvizja](https://patronite.pl/elvizja)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: emteroo | Patromierz
+title: "emteroo | Patromierz"
 permalink: /emteroo
 ---
 
@@ -7,7 +7,7 @@ permalink: /emteroo
 <script type="text/javascript" src="data/e/emteroo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [emteroo](https://patronite.pl/emteroo)
+# [Michał Terpiłowski - Emteroo](https://patronite.pl/emteroo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kazik-tv | Patromierz
+title: "kazik-tv | Patromierz"
 permalink: /kazik-tv
 ---
 
@@ -7,7 +7,7 @@ permalink: /kazik-tv
 <script type="text/javascript" src="data/k/kazik-tv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kazik-tv](https://patronite.pl/kazik-tv)
+# [Kazik.TV](https://patronite.pl/kazik-tv)
 
 ## Miesięczne wsparcie
 

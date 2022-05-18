@@ -1,5 +1,5 @@
 ---
-title: PawelGielec | Patromierz
+title: "PawelGielec | Patromierz"
 permalink: /PawelGielec
 ---
 
@@ -7,7 +7,7 @@ permalink: /PawelGielec
 <script type="text/javascript" src="data/p/PawelGielec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PawelGielec](https://patronite.pl/PawelGielec)
+# [Tu i Teraz - Podcast](https://patronite.pl/PawelGielec)
 
 ## Miesięczne wsparcie
 

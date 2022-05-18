@@ -1,5 +1,5 @@
 ---
-title: SquatsAndMilk | Patromierz
+title: "SquatsAndMilk | Patromierz"
 permalink: /SquatsAndMilk
 ---
 
@@ -7,7 +7,7 @@ permalink: /SquatsAndMilk
 <script type="text/javascript" src="data/s/SquatsAndMilk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SquatsAndMilk](https://patronite.pl/SquatsAndMilk)
+# [Squats And Milk](https://patronite.pl/SquatsAndMilk)
 
 ## Miesięczne wsparcie
 

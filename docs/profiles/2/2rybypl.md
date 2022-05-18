@@ -1,5 +1,5 @@
 ---
-title: 2rybypl | Patromierz
+title: "2rybypl | Patromierz"
 permalink: /2rybypl
 ---
 
@@ -7,7 +7,7 @@ permalink: /2rybypl
 <script type="text/javascript" src="data/2/2rybypl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [2rybypl](https://patronite.pl/2rybypl)
+# [2ryby.pl](https://patronite.pl/2rybypl)
 
 ## Miesięczne wsparcie
 

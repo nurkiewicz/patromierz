@@ -1,5 +1,5 @@
 ---
-title: DTPiTypografia | Patromierz
+title: "DTPiTypografia | Patromierz"
 permalink: /DTPiTypografia
 ---
 
@@ -7,7 +7,7 @@ permalink: /DTPiTypografia
 <script type="text/javascript" src="data/d/DTPiTypografia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DTPiTypografia](https://patronite.pl/DTPiTypografia)
+# [DTP i Typografia](https://patronite.pl/DTPiTypografia)
 
 ## Miesięczne wsparcie
 

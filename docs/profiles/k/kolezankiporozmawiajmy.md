@@ -1,5 +1,5 @@
 ---
-title: kolezankiporozmawiajmy | Patromierz
+title: "kolezankiporozmawiajmy | Patromierz"
 permalink: /kolezankiporozmawiajmy
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolezankiporozmawiajmy
 <script type="text/javascript" src="data/k/kolezankiporozmawiajmy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolezankiporozmawiajmy](https://patronite.pl/kolezankiporozmawiajmy)
+# [Podcast "Koleżanki, porozmawiajmy", Martyna Kraus](https://patronite.pl/kolezankiporozmawiajmy)
 
 ## Miesięczne wsparcie
 

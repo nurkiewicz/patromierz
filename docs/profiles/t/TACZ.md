@@ -1,5 +1,5 @@
 ---
-title: TACZ | Patromierz
+title: "TACZ | Patromierz"
 permalink: /TACZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /TACZ
 <script type="text/javascript" src="data/t/TACZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TACZ](https://patronite.pl/TACZ)
+# [Krzysztof TACZ.pl Taczalski](https://patronite.pl/TACZ)
 
 ## Miesięczne wsparcie
 

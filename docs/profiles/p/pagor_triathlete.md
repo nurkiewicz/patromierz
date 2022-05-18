@@ -1,5 +1,5 @@
 ---
-title: pagor_triathlete | Patromierz
+title: "pagor_triathlete | Patromierz"
 permalink: /pagor_triathlete
 ---
 
@@ -7,7 +7,7 @@ permalink: /pagor_triathlete
 <script type="text/javascript" src="data/p/pagor_triathlete.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pagor_triathlete](https://patronite.pl/pagor_triathlete)
+# [Jakub Pagórski - Pagór Triathlete](https://patronite.pl/pagor_triathlete)
 
 ## Miesięczne wsparcie
 

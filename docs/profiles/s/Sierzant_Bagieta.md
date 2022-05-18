@@ -1,5 +1,5 @@
 ---
-title: Sierzant_Bagieta | Patromierz
+title: "Sierzant_Bagieta | Patromierz"
 permalink: /Sierzant_Bagieta
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sierzant_Bagieta
 <script type="text/javascript" src="data/s/Sierzant_Bagieta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sierzant_Bagieta](https://patronite.pl/Sierzant_Bagieta)
+# [Sierżant Bagieta](https://patronite.pl/Sierzant_Bagieta)
 
 ## Miesięczne wsparcie
 

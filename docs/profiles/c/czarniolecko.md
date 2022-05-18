@@ -1,5 +1,5 @@
 ---
-title: czarniolecko | Patromierz
+title: "czarniolecko | Patromierz"
 permalink: /czarniolecko
 ---
 
@@ -7,7 +7,7 @@ permalink: /czarniolecko
 <script type="text/javascript" src="data/c/czarniolecko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czarniolecko](https://patronite.pl/czarniolecko)
+# [MLKS Czarni Olecko](https://patronite.pl/czarniolecko)
 
 ## Miesięczne wsparcie
 

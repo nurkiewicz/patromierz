@@ -1,5 +1,5 @@
 ---
-title: FPM | Patromierz
+title: "FPM | Patromierz"
 permalink: /FPM
 ---
 
@@ -7,7 +7,7 @@ permalink: /FPM
 <script type="text/javascript" src="data/f/FPM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FPM](https://patronite.pl/FPM)
+# [Fundacja Przystań Medyczna](https://patronite.pl/FPM)
 
 ## Miesięczne wsparcie
 

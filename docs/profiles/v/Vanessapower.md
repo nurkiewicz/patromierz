@@ -1,5 +1,5 @@
 ---
-title: Vanessapower | Patromierz
+title: "Vanessapower | Patromierz"
 permalink: /Vanessapower
 ---
 
@@ -7,7 +7,7 @@ permalink: /Vanessapower
 <script type="text/javascript" src="data/v/Vanessapower.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Vanessapower](https://patronite.pl/Vanessapower)
+# [Vanessa Power Kujawiak](https://patronite.pl/Vanessapower)
 
 ## Miesięczne wsparcie
 

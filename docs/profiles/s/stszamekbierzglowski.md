@@ -1,5 +1,5 @@
 ---
-title: stszamekbierzglowski | Patromierz
+title: "stszamekbierzglowski | Patromierz"
 permalink: /stszamekbierzglowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /stszamekbierzglowski
 <script type="text/javascript" src="data/s/stszamekbierzglowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stszamekbierzglowski](https://patronite.pl/stszamekbierzglowski)
+# [StS Zamek Bierzgłowski](https://patronite.pl/stszamekbierzglowski)
 
 ## Miesięczne wsparcie
 

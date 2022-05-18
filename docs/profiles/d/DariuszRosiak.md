@@ -1,5 +1,5 @@
 ---
-title: DariuszRosiak | Patromierz
+title: "DariuszRosiak | Patromierz"
 permalink: /DariuszRosiak
 ---
 
@@ -7,7 +7,7 @@ permalink: /DariuszRosiak
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DariuszRosiak](https://patronite.pl/DariuszRosiak)
+# [Dariusz Rosiak](https://patronite.pl/DariuszRosiak)
 
 ## Miesięczne wsparcie
 

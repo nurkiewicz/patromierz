@@ -1,5 +1,5 @@
 ---
-title: poglebiarka | Patromierz
+title: "poglebiarka | Patromierz"
 permalink: /poglebiarka
 ---
 
@@ -7,7 +7,7 @@ permalink: /poglebiarka
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poglebiarka](https://patronite.pl/poglebiarka)
+# [Poglebiarka.pl](https://patronite.pl/poglebiarka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: WakacjeZaGrosze | Patromierz
+title: "WakacjeZaGrosze | Patromierz"
 permalink: /WakacjeZaGrosze
 ---
 

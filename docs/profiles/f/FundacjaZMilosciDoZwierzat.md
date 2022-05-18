@@ -1,5 +1,5 @@
 ---
-title: FundacjaZMilosciDoZwierzat | Patromierz
+title: "FundacjaZMilosciDoZwierzat | Patromierz"
 permalink: /FundacjaZMilosciDoZwierzat
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaZMilosciDoZwierzat
 <script type="text/javascript" src="data/f/FundacjaZMilosciDoZwierzat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaZMilosciDoZwierzat](https://patronite.pl/FundacjaZMilosciDoZwierzat)
+# [FUNDACJA Z MIŁOŚCI DO ZWIERZĄT](https://patronite.pl/FundacjaZMilosciDoZwierzat)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: papina | Patromierz
+title: "papina | Patromierz"
 permalink: /papina
 ---
 
@@ -7,7 +7,7 @@ permalink: /papina
 <script type="text/javascript" src="data/p/papina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [papina](https://patronite.pl/papina)
+# [Paweł Rupala](https://patronite.pl/papina)
 
 ## Miesięczne wsparcie
 

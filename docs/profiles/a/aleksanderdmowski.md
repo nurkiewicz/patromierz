@@ -1,5 +1,5 @@
 ---
-title: aleksanderdmowski | Patromierz
+title: "aleksanderdmowski | Patromierz"
 permalink: /aleksanderdmowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /aleksanderdmowski
 <script type="text/javascript" src="data/a/aleksanderdmowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aleksanderdmowski](https://patronite.pl/aleksanderdmowski)
+# [Aleksander Dmowski](https://patronite.pl/aleksanderdmowski)
 
 ## Miesięczne wsparcie
 

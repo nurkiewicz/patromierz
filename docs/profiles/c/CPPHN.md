@@ -1,5 +1,5 @@
 ---
-title: CPPHN | Patromierz
+title: "CPPHN | Patromierz"
 permalink: /CPPHN
 ---
 
@@ -7,7 +7,7 @@ permalink: /CPPHN
 <script type="text/javascript" src="data/c/CPPHN.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CPPHN](https://patronite.pl/CPPHN)
+# [Centrum Pomocy Prawnej im. Haliny Nieć ](https://patronite.pl/CPPHN)
 
 ## Miesięczne wsparcie
 

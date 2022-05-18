@@ -1,5 +1,5 @@
 ---
-title: magikdyspozytor | Patromierz
+title: "magikdyspozytor | Patromierz"
 permalink: /magikdyspozytor
 ---
 
@@ -7,7 +7,7 @@ permalink: /magikdyspozytor
 <script type="text/javascript" src="data/m/magikdyspozytor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magikdyspozytor](https://patronite.pl/magikdyspozytor)
+# [Magik Dyspozytor](https://patronite.pl/magikdyspozytor)
 
 ## Miesięczne wsparcie
 

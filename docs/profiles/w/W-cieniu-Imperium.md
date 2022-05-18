@@ -1,5 +1,5 @@
 ---
-title: W-cieniu-Imperium | Patromierz
+title: "W-cieniu-Imperium | Patromierz"
 permalink: /W-cieniu-Imperium
 ---
 
@@ -7,7 +7,7 @@ permalink: /W-cieniu-Imperium
 <script type="text/javascript" src="data/w/W-cieniu-Imperium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [W-cieniu-Imperium](https://patronite.pl/W-cieniu-Imperium)
+# [W cieniu Imperium](https://patronite.pl/W-cieniu-Imperium)
 
 ## Miesięczne wsparcie
 

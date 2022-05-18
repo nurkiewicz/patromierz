@@ -1,5 +1,5 @@
 ---
-title: GrotOrderly | Patromierz
+title: "GrotOrderly | Patromierz"
 permalink: /GrotOrderly
 ---
 
@@ -7,7 +7,7 @@ permalink: /GrotOrderly
 <script type="text/javascript" src="data/g/GrotOrderly.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GrotOrderly](https://patronite.pl/GrotOrderly)
+# [Grot Orderly](https://patronite.pl/GrotOrderly)
 
 ## Miesięczne wsparcie
 

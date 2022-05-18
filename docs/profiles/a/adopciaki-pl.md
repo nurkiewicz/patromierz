@@ -1,5 +1,5 @@
 ---
-title: adopciaki-pl | Patromierz
+title: "adopciaki-pl | Patromierz"
 permalink: /adopciaki-pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /adopciaki-pl
 <script type="text/javascript" src="data/a/adopciaki-pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adopciaki-pl](https://patronite.pl/adopciaki-pl)
+# [Adopciaki.pl - adopcje z domów tymczasowych](https://patronite.pl/adopciaki-pl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Piotrekwpodrozy | Patromierz
+title: "Piotrekwpodrozy | Patromierz"
 permalink: /Piotrekwpodrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /Piotrekwpodrozy
 <script type="text/javascript" src="data/p/Piotrekwpodrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Piotrekwpodrozy](https://patronite.pl/Piotrekwpodrozy)
+# [Piotrek W Podróży](https://patronite.pl/Piotrekwpodrozy)
 
 ## Miesięczne wsparcie
 

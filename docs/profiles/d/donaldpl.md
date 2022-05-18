@@ -1,5 +1,5 @@
 ---
-title: donaldpl | Patromierz
+title: "donaldpl | Patromierz"
 permalink: /donaldpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /donaldpl
 <script type="text/javascript" src="data/d/donaldpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [donaldpl](https://patronite.pl/donaldpl)
+# [Donald.pl](https://patronite.pl/donaldpl)
 
 ## Miesięczne wsparcie
 

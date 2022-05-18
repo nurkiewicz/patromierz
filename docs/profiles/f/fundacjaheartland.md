@@ -1,5 +1,5 @@
 ---
-title: fundacjaheartland | Patromierz
+title: "fundacjaheartland | Patromierz"
 permalink: /fundacjaheartland
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaheartland
 <script type="text/javascript" src="data/f/fundacjaheartland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaheartland](https://patronite.pl/fundacjaheartland)
+# [Fundacja Heartland](https://patronite.pl/fundacjaheartland)
 
 ## Miesięczne wsparcie
 

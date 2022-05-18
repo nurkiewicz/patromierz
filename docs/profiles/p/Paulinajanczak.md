@@ -1,5 +1,5 @@
 ---
-title: Paulinajanczak | Patromierz
+title: "Paulinajanczak | Patromierz"
 permalink: /Paulinajanczak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Paulinajanczak
 <script type="text/javascript" src="data/p/Paulinajanczak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Paulinajanczak](https://patronite.pl/Paulinajanczak)
+# [Paulina Janczak](https://patronite.pl/Paulinajanczak)
 
 ## Miesięczne wsparcie
 

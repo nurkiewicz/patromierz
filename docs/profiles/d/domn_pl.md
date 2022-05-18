@@ -1,5 +1,5 @@
 ---
-title: domn_pl | Patromierz
+title: "domn_pl | Patromierz"
 permalink: /domn_pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /domn_pl
 <script type="text/javascript" src="data/d/domn_pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domn_pl](https://patronite.pl/domn_pl)
+# [Zadaszone Parki i Ogródki Działkowe](https://patronite.pl/domn_pl)
 
 ## Miesięczne wsparcie
 

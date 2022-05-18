@@ -1,5 +1,5 @@
 ---
-title: smakksiazki | Patromierz
+title: "smakksiazki | Patromierz"
 permalink: /smakksiazki
 ---
 
@@ -7,7 +7,7 @@ permalink: /smakksiazki
 <script type="text/javascript" src="data/s/smakksiazki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smakksiazki](https://patronite.pl/smakksiazki)
+# [smakksiazki.pl](https://patronite.pl/smakksiazki)
 
 ## Miesięczne wsparcie
 

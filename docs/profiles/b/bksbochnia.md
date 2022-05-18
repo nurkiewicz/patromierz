@@ -1,5 +1,5 @@
 ---
-title: bksbochnia | Patromierz
+title: "bksbochnia | Patromierz"
 permalink: /bksbochnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /bksbochnia
 <script type="text/javascript" src="data/b/bksbochnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bksbochnia](https://patronite.pl/bksbochnia)
+# [BKS Bochnia](https://patronite.pl/bksbochnia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: OMZRIK | Patromierz
+title: "OMZRIK | Patromierz"
 permalink: /OMZRIK
 ---
 
@@ -7,7 +7,7 @@ permalink: /OMZRIK
 <script type="text/javascript" src="data/o/OMZRIK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OMZRIK](https://patronite.pl/OMZRIK)
+# [OMZRiK](https://patronite.pl/OMZRIK)
 
 ## Miesięczne wsparcie
 

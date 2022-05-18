@@ -1,5 +1,5 @@
 ---
-title: kinoamondo | Patromierz
+title: "kinoamondo | Patromierz"
 permalink: /kinoamondo
 ---
 
@@ -7,7 +7,7 @@ permalink: /kinoamondo
 <script type="text/javascript" src="data/k/kinoamondo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kinoamondo](https://patronite.pl/kinoamondo)
+# [Kino AMONDO](https://patronite.pl/kinoamondo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: gc | Patromierz
+title: "gc | Patromierz"
 permalink: /gc
 ---
 
@@ -7,7 +7,7 @@ permalink: /gc
 <script type="text/javascript" src="data/g/gc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gc](https://patronite.pl/gc)
+# [ Gentleman's Club Warszawa](https://patronite.pl/gc)
 
 ## Miesięczne wsparcie
 

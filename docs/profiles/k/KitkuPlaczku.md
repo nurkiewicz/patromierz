@@ -1,5 +1,5 @@
 ---
-title: KitkuPlaczku | Patromierz
+title: "KitkuPlaczku | Patromierz"
 permalink: /KitkuPlaczku
 ---
 
@@ -7,7 +7,7 @@ permalink: /KitkuPlaczku
 <script type="text/javascript" src="data/k/KitkuPlaczku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KitkuPlaczku](https://patronite.pl/KitkuPlaczku)
+# [Kitku Płaczku](https://patronite.pl/KitkuPlaczku)
 
 ## Miesięczne wsparcie
 

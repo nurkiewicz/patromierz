@@ -1,5 +1,5 @@
 ---
-title: zexcet | Patromierz
+title: "zexcet | Patromierz"
 permalink: /zexcet
 ---
 
@@ -7,7 +7,7 @@ permalink: /zexcet
 <script type="text/javascript" src="data/z/zexcet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zexcet](https://patronite.pl/zexcet)
+# [Zexcet ](https://patronite.pl/zexcet)
 
 ## Miesięczne wsparcie
 

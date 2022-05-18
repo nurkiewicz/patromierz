@@ -1,5 +1,5 @@
 ---
-title: DziewuchyDziewuchom | Patromierz
+title: "DziewuchyDziewuchom | Patromierz"
 permalink: /DziewuchyDziewuchom
 ---
 
@@ -7,7 +7,7 @@ permalink: /DziewuchyDziewuchom
 <script type="text/javascript" src="data/d/DziewuchyDziewuchom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DziewuchyDziewuchom](https://patronite.pl/DziewuchyDziewuchom)
+# [Fundacja Dziewuchy Dziewuchom](https://patronite.pl/DziewuchyDziewuchom)
 
 ## Miesięczne wsparcie
 

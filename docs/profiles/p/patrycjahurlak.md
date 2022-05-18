@@ -1,5 +1,5 @@
 ---
-title: patrycjahurlak | Patromierz
+title: "patrycjahurlak | Patromierz"
 permalink: /patrycjahurlak
 ---
 
@@ -7,7 +7,7 @@ permalink: /patrycjahurlak
 <script type="text/javascript" src="data/p/patrycjahurlak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patrycjahurlak](https://patronite.pl/patrycjahurlak)
+# [Patrycja Hurlak](https://patronite.pl/patrycjahurlak)
 
 ## Miesięczne wsparcie
 

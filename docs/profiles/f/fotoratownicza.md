@@ -1,5 +1,5 @@
 ---
-title: fotoratownicza | Patromierz
+title: "fotoratownicza | Patromierz"
 permalink: /fotoratownicza
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotoratownicza
 <script type="text/javascript" src="data/f/fotoratownicza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotoratownicza](https://patronite.pl/fotoratownicza)
+# [Fotografia Ratownicza Konrad Sikorski](https://patronite.pl/fotoratownicza)
 
 ## Miesięczne wsparcie
 

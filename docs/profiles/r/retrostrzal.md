@@ -1,5 +1,5 @@
 ---
-title: retrostrzal | Patromierz
+title: "retrostrzal | Patromierz"
 permalink: /retrostrzal
 ---
 
@@ -7,7 +7,7 @@ permalink: /retrostrzal
 <script type="text/javascript" src="data/r/retrostrzal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [retrostrzal](https://patronite.pl/retrostrzal)
+# [RETROSTRZAŁ](https://patronite.pl/retrostrzal)
 
 ## Miesięczne wsparcie
 

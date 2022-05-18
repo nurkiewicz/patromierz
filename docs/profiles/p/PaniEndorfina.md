@@ -1,5 +1,5 @@
 ---
-title: PaniEndorfina | Patromierz
+title: "PaniEndorfina | Patromierz"
 permalink: /PaniEndorfina
 ---
 
@@ -7,7 +7,7 @@ permalink: /PaniEndorfina
 <script type="text/javascript" src="data/p/PaniEndorfina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PaniEndorfina](https://patronite.pl/PaniEndorfina)
+# [Pani Endorfina](https://patronite.pl/PaniEndorfina)
 
 ## Miesięczne wsparcie
 

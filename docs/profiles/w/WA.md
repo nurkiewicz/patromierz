@@ -1,5 +1,5 @@
 ---
-title: WA | Patromierz
+title: "WA | Patromierz"
 permalink: /WA
 ---
 
@@ -7,7 +7,7 @@ permalink: /WA
 <script type="text/javascript" src="data/w/WA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WA](https://patronite.pl/WA)
+# [Wędkarski Amok](https://patronite.pl/WA)
 
 ## Miesięczne wsparcie
 

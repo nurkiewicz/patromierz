@@ -1,5 +1,5 @@
 ---
-title: zameknadaje | Patromierz
+title: "zameknadaje | Patromierz"
 permalink: /zameknadaje
 ---
 
@@ -7,7 +7,7 @@ permalink: /zameknadaje
 <script type="text/javascript" src="data/z/zameknadaje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zameknadaje](https://patronite.pl/zameknadaje)
+# [Radio Zamek Nadaje](https://patronite.pl/zameknadaje)
 
 ## Miesięczne wsparcie
 

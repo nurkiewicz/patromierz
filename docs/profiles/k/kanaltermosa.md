@@ -1,5 +1,5 @@
 ---
-title: kanaltermosa | Patromierz
+title: "kanaltermosa | Patromierz"
 permalink: /kanaltermosa
 ---
 
@@ -7,7 +7,7 @@ permalink: /kanaltermosa
 <script type="text/javascript" src="data/k/kanaltermosa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kanaltermosa](https://patronite.pl/kanaltermosa)
+# [Kanał Termosa](https://patronite.pl/kanaltermosa)
 
 ## Miesięczne wsparcie
 

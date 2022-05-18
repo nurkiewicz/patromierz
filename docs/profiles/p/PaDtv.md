@@ -1,5 +1,5 @@
 ---
-title: PaDtv | Patromierz
+title: "PaDtv | Patromierz"
 permalink: /PaDtv
 ---
 
@@ -7,7 +7,7 @@ permalink: /PaDtv
 <script type="text/javascript" src="data/p/PaDtv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PaDtv](https://patronite.pl/PaDtv)
+# [PaDtv - PADcast](https://patronite.pl/PaDtv)
 
 ## Miesięczne wsparcie
 

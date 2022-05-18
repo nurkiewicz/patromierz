@@ -1,5 +1,5 @@
 ---
-title: ObywatelIntruz | Patromierz
+title: "ObywatelIntruz | Patromierz"
 permalink: /ObywatelIntruz
 ---
 
@@ -7,7 +7,7 @@ permalink: /ObywatelIntruz
 <script type="text/javascript" src="data/o/ObywatelIntruz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ObywatelIntruz](https://patronite.pl/ObywatelIntruz)
+# [Obywatel Intruz](https://patronite.pl/ObywatelIntruz)
 
 ## Miesięczne wsparcie
 

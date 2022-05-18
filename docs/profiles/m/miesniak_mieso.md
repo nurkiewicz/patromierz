@@ -1,5 +1,5 @@
 ---
-title: miesniak_mieso | Patromierz
+title: "miesniak_mieso | Patromierz"
 permalink: /miesniak_mieso
 ---
 
@@ -7,7 +7,7 @@ permalink: /miesniak_mieso
 <script type="text/javascript" src="data/m/miesniak_mieso.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [miesniak_mieso](https://patronite.pl/miesniak_mieso)
+# [Mięśniak_Mięso](https://patronite.pl/miesniak_mieso)
 
 ## Miesięczne wsparcie
 

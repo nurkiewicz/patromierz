@@ -1,5 +1,5 @@
 ---
-title: antropozofia | Patromierz
+title: "antropozofia | Patromierz"
 permalink: /antropozofia
 ---
 
@@ -7,7 +7,7 @@ permalink: /antropozofia
 <script type="text/javascript" src="data/a/antropozofia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [antropozofia](https://patronite.pl/antropozofia)
+# [Antropozofia](https://patronite.pl/antropozofia)
 
 ## Miesięczne wsparcie
 

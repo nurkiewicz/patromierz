@@ -1,5 +1,5 @@
 ---
-title: japonskaprowincja | Patromierz
+title: "japonskaprowincja | Patromierz"
 permalink: /japonskaprowincja
 ---
 
@@ -7,7 +7,7 @@ permalink: /japonskaprowincja
 <script type="text/javascript" src="data/j/japonskaprowincja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [japonskaprowincja](https://patronite.pl/japonskaprowincja)
+# [JAPOŃSKA PROWINCJA ](https://patronite.pl/japonskaprowincja)
 
 ## Miesięczne wsparcie
 

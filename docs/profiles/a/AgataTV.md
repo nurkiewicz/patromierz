@@ -1,5 +1,5 @@
 ---
-title: AgataTV | Patromierz
+title: "AgataTV | Patromierz"
 permalink: /AgataTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgataTV
 <script type="text/javascript" src="data/a/AgataTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgataTV](https://patronite.pl/AgataTV)
+# [Agata](https://patronite.pl/AgataTV)
 
 ## Miesięczne wsparcie
 

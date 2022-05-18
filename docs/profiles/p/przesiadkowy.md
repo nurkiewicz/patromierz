@@ -1,5 +1,5 @@
 ---
-title: przesiadkowy | Patromierz
+title: "przesiadkowy | Patromierz"
 permalink: /przesiadkowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /przesiadkowy
 <script type="text/javascript" src="data/p/przesiadkowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przesiadkowy](https://patronite.pl/przesiadkowy)
+# [Węzeł przesiadkowy](https://patronite.pl/przesiadkowy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kamil-z-zielonej | Patromierz
+title: "kamil-z-zielonej | Patromierz"
 permalink: /kamil-z-zielonej
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamil-z-zielonej
 <script type="text/javascript" src="data/k/kamil-z-zielonej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamil-z-zielonej](https://patronite.pl/kamil-z-zielonej)
+# [Kamil Utrata](https://patronite.pl/kamil-z-zielonej)
 
 ## Miesięczne wsparcie
 

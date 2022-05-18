@@ -1,5 +1,5 @@
 ---
-title: syrach | Patromierz
+title: "syrach | Patromierz"
 permalink: /syrach
 ---
 
@@ -7,7 +7,7 @@ permalink: /syrach
 <script type="text/javascript" src="data/s/syrach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [syrach](https://patronite.pl/syrach)
+# [Syrach tv](https://patronite.pl/syrach)
 
 ## Miesięczne wsparcie
 

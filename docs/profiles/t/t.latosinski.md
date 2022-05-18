@@ -1,5 +1,5 @@
 ---
-title: t.latosinski | Patromierz
+title: "t.latosinski | Patromierz"
 permalink: /t.latosinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /t.latosinski
 <script type="text/javascript" src="data/t/t.latosinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [t.latosinski](https://patronite.pl/t.latosinski)
+# [Tomasz Latosiński](https://patronite.pl/t.latosinski)
 
 ## Miesięczne wsparcie
 

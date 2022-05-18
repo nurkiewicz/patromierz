@@ -1,5 +1,5 @@
 ---
-title: nieskonczone | Patromierz
+title: "nieskonczone | Patromierz"
 permalink: /nieskonczone
 ---
 
@@ -7,7 +7,7 @@ permalink: /nieskonczone
 <script type="text/javascript" src="data/n/nieskonczone.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nieskonczone](https://patronite.pl/nieskonczone)
+# [Nieskończone teksty](https://patronite.pl/nieskonczone)
 
 ## Miesięczne wsparcie
 

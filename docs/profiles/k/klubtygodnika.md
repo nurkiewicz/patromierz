@@ -1,5 +1,5 @@
 ---
-title: klubtygodnika | Patromierz
+title: "klubtygodnika | Patromierz"
 permalink: /klubtygodnika
 ---
 
@@ -7,7 +7,7 @@ permalink: /klubtygodnika
 <script type="text/javascript" src="data/k/klubtygodnika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klubtygodnika](https://patronite.pl/klubtygodnika)
+# [Kluby "Tygodnika Powszechnego"](https://patronite.pl/klubtygodnika)
 
 ## Miesięczne wsparcie
 

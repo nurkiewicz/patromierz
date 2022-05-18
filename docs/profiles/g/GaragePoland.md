@@ -1,5 +1,5 @@
 ---
-title: GaragePoland | Patromierz
+title: "GaragePoland | Patromierz"
 permalink: /GaragePoland
 ---
 

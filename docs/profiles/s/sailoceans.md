@@ -1,5 +1,5 @@
 ---
-title: sailoceans | Patromierz
+title: "sailoceans | Patromierz"
 permalink: /sailoceans
 ---
 
@@ -7,7 +7,7 @@ permalink: /sailoceans
 <script type="text/javascript" src="data/s/sailoceans.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sailoceans](https://patronite.pl/sailoceans)
+# [Jachtem przez Świat - SailOceans](https://patronite.pl/sailoceans)
 
 ## Miesięczne wsparcie
 

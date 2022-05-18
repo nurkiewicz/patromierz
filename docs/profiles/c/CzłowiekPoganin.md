@@ -1,5 +1,5 @@
 ---
-title: CzłowiekPoganin | Patromierz
+title: "CzłowiekPoganin | Patromierz"
 permalink: /CzłowiekPoganin
 ---
 
@@ -7,7 +7,7 @@ permalink: /CzłowiekPoganin
 <script type="text/javascript" src="data/c/CzłowiekPoganin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CzłowiekPoganin](https://patronite.pl/CzłowiekPoganin)
+# [Philip Flint](https://patronite.pl/CzłowiekPoganin)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: mewawlocie | Patromierz
+title: "mewawlocie | Patromierz"
 permalink: /mewawlocie
 ---
 
@@ -7,7 +7,7 @@ permalink: /mewawlocie
 <script type="text/javascript" src="data/m/mewawlocie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mewawlocie](https://patronite.pl/mewawlocie)
+# [Mewa w locie](https://patronite.pl/mewawlocie)
 
 ## Miesięczne wsparcie
 

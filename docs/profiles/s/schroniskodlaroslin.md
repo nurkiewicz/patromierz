@@ -1,5 +1,5 @@
 ---
-title: schroniskodlaroslin | Patromierz
+title: "schroniskodlaroslin | Patromierz"
 permalink: /schroniskodlaroslin
 ---
 
@@ -7,7 +7,7 @@ permalink: /schroniskodlaroslin
 <script type="text/javascript" src="data/s/schroniskodlaroslin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [schroniskodlaroslin](https://patronite.pl/schroniskodlaroslin)
+# [Fundacja Schronisko dla Roślin](https://patronite.pl/schroniskodlaroslin)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Marika | Patromierz
+title: "Marika | Patromierz"
 permalink: /Marika
 ---
 
@@ -7,7 +7,7 @@ permalink: /Marika
 <script type="text/javascript" src="data/m/Marika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Marika](https://patronite.pl/Marika)
+# [MARIKA](https://patronite.pl/Marika)
 
 ## Miesięczne wsparcie
 

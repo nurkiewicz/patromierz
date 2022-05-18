@@ -1,5 +1,5 @@
 ---
-title: tenpodcastfilmowy | Patromierz
+title: "tenpodcastfilmowy | Patromierz"
 permalink: /tenpodcastfilmowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /tenpodcastfilmowy
 <script type="text/javascript" src="data/t/tenpodcastfilmowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tenpodcastfilmowy](https://patronite.pl/tenpodcastfilmowy)
+# [ten Podcast Filmowy ](https://patronite.pl/tenpodcastfilmowy)
 
 ## Miesięczne wsparcie
 

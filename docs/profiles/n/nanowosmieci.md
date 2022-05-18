@@ -1,5 +1,5 @@
 ---
-title: nanowosmieci | Patromierz
+title: "nanowosmieci | Patromierz"
 permalink: /nanowosmieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /nanowosmieci
 <script type="text/javascript" src="data/n/nanowosmieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nanowosmieci](https://patronite.pl/nanowosmieci)
+# [Podcast "Co w tym kosz(yk)u"](https://patronite.pl/nanowosmieci)
 
 ## Miesięczne wsparcie
 

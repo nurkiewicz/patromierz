@@ -1,5 +1,5 @@
 ---
-title: rullaman | Patromierz
+title: "rullaman | Patromierz"
 permalink: /rullaman
 ---
 
@@ -7,7 +7,7 @@ permalink: /rullaman
 <script type="text/javascript" src="data/r/rullaman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rullaman](https://patronite.pl/rullaman)
+# [Rullaman - wózkiem przez świat](https://patronite.pl/rullaman)
 
 ## Miesięczne wsparcie
 

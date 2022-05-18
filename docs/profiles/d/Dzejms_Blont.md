@@ -1,5 +1,5 @@
 ---
-title: Dzejms_Blont | Patromierz
+title: "Dzejms_Blont | Patromierz"
 permalink: /Dzejms_Blont
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dzejms_Blont
 <script type="text/javascript" src="data/d/Dzejms_Blont.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dzejms_Blont](https://patronite.pl/Dzejms_Blont)
+# [Dżejms Błont](https://patronite.pl/Dzejms_Blont)
 
 ## Miesięczne wsparcie
 

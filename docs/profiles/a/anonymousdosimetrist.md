@@ -1,5 +1,5 @@
 ---
-title: anonymousdosimetrist | Patromierz
+title: "anonymousdosimetrist | Patromierz"
 permalink: /anonymousdosimetrist
 ---
 
@@ -7,7 +7,7 @@ permalink: /anonymousdosimetrist
 <script type="text/javascript" src="data/a/anonymousdosimetrist.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anonymousdosimetrist](https://patronite.pl/anonymousdosimetrist)
+# [Anonymous Dosimetrist](https://patronite.pl/anonymousdosimetrist)
 
 ## Miesięczne wsparcie
 

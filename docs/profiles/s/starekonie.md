@@ -1,5 +1,5 @@
 ---
-title: starekonie | Patromierz
+title: "starekonie | Patromierz"
 permalink: /starekonie
 ---
 
@@ -7,7 +7,7 @@ permalink: /starekonie
 <script type="text/javascript" src="data/s/starekonie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [starekonie](https://patronite.pl/starekonie)
+# [Stare Konie](https://patronite.pl/starekonie)
 
 ## Miesięczne wsparcie
 

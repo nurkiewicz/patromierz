@@ -1,5 +1,5 @@
 ---
-title: WegaFitness | Patromierz
+title: "WegaFitness | Patromierz"
 permalink: /WegaFitness
 ---
 

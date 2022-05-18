@@ -1,5 +1,5 @@
 ---
-title: wojenniktv | Patromierz
+title: "wojenniktv | Patromierz"
 permalink: /wojenniktv
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojenniktv
 <script type="text/javascript" src="data/w/wojenniktv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojenniktv](https://patronite.pl/wojenniktv)
+# [Wojennik TV - Gry Planszowe](https://patronite.pl/wojenniktv)
 
 ## Miesięczne wsparcie
 

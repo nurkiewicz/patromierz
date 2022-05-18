@@ -1,5 +1,5 @@
 ---
-title: nflblog | Patromierz
+title: "nflblog | Patromierz"
 permalink: /nflblog
 ---
 
@@ -7,7 +7,7 @@ permalink: /nflblog
 <script type="text/javascript" src="data/n/nflblog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nflblog](https://patronite.pl/nflblog)
+# [NFLBlog.pl](https://patronite.pl/nflblog)
 
 ## Miesięczne wsparcie
 

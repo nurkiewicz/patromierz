@@ -1,5 +1,5 @@
 ---
-title: Seatclub | Patromierz
+title: "Seatclub | Patromierz"
 permalink: /Seatclub
 ---
 
@@ -7,7 +7,7 @@ permalink: /Seatclub
 <script type="text/javascript" src="data/s/Seatclub.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Seatclub](https://patronite.pl/Seatclub)
+# [Seatclub.pl](https://patronite.pl/Seatclub)
 
 ## Miesięczne wsparcie
 

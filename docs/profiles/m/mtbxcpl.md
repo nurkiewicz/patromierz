@@ -1,5 +1,5 @@
 ---
-title: mtbxcpl | Patromierz
+title: "mtbxcpl | Patromierz"
 permalink: /mtbxcpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /mtbxcpl
 <script type="text/javascript" src="data/m/mtbxcpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mtbxcpl](https://patronite.pl/mtbxcpl)
+# [Portal kolarski #mtbxcpl](https://patronite.pl/mtbxcpl)
 
 ## Miesięczne wsparcie
 

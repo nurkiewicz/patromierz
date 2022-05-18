@@ -1,5 +1,5 @@
 ---
-title: stolarnia5m2 | Patromierz
+title: "stolarnia5m2 | Patromierz"
 permalink: /stolarnia5m2
 ---
 
@@ -7,7 +7,7 @@ permalink: /stolarnia5m2
 <script type="text/javascript" src="data/s/stolarnia5m2.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stolarnia5m2](https://patronite.pl/stolarnia5m2)
+# [Łukasz Giergasz](https://patronite.pl/stolarnia5m2)
 
 ## Miesięczne wsparcie
 

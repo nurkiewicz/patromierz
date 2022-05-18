@@ -1,5 +1,5 @@
 ---
-title: maciejorlos | Patromierz
+title: "maciejorlos | Patromierz"
 permalink: /maciejorlos
 ---
 
@@ -7,7 +7,7 @@ permalink: /maciejorlos
 <script type="text/javascript" src="data/m/maciejorlos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maciejorlos](https://patronite.pl/maciejorlos)
+# [Maciej Orłoś](https://patronite.pl/maciejorlos)
 
 ## Miesięczne wsparcie
 

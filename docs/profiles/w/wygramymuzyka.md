@@ -1,5 +1,5 @@
 ---
-title: wygramymuzyka | Patromierz
+title: "wygramymuzyka | Patromierz"
 permalink: /wygramymuzyka
 ---
 
@@ -7,7 +7,7 @@ permalink: /wygramymuzyka
 <script type="text/javascript" src="data/w/wygramymuzyka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wygramymuzyka](https://patronite.pl/wygramymuzyka)
+# [Wygramy Muzyką](https://patronite.pl/wygramymuzyka)
 
 ## Miesięczne wsparcie
 

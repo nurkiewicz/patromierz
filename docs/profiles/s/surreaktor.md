@@ -1,5 +1,5 @@
 ---
-title: surreaktor | Patromierz
+title: "surreaktor | Patromierz"
 permalink: /surreaktor
 ---
 
@@ -7,7 +7,7 @@ permalink: /surreaktor
 <script type="text/javascript" src="data/s/surreaktor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [surreaktor](https://patronite.pl/surreaktor)
+# [Surreaktor](https://patronite.pl/surreaktor)
 
 ## Miesięczne wsparcie
 

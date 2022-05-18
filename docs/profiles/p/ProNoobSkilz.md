@@ -1,5 +1,5 @@
 ---
-title: ProNoobSkilz | Patromierz
+title: "ProNoobSkilz | Patromierz"
 permalink: /ProNoobSkilz
 ---
 
@@ -7,7 +7,7 @@ permalink: /ProNoobSkilz
 <script type="text/javascript" src="data/p/ProNoobSkilz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ProNoobSkilz](https://patronite.pl/ProNoobSkilz)
+# [Krzysztof Tomczak](https://patronite.pl/ProNoobSkilz)
 
 ## Miesięczne wsparcie
 

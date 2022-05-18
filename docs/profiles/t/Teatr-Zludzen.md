@@ -1,5 +1,5 @@
 ---
-title: Teatr-Zludzen | Patromierz
+title: "Teatr-Zludzen | Patromierz"
 permalink: /Teatr-Zludzen
 ---
 
@@ -7,7 +7,7 @@ permalink: /Teatr-Zludzen
 <script type="text/javascript" src="data/t/Teatr-Zludzen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Teatr-Zludzen](https://patronite.pl/Teatr-Zludzen)
+# [Teatr Złudzeń prezentuje: IMP](https://patronite.pl/Teatr-Zludzen)
 
 ## Miesięczne wsparcie
 

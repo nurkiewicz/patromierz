@@ -1,5 +1,5 @@
 ---
-title: Urbex-exit | Patromierz
+title: "Urbex-exit | Patromierz"
 permalink: /Urbex-exit
 ---
 
@@ -7,7 +7,7 @@ permalink: /Urbex-exit
 <script type="text/javascript" src="data/u/Urbex-exit.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Urbex-exit](https://patronite.pl/Urbex-exit)
+# [Urbex exit](https://patronite.pl/Urbex-exit)
 
 ## Miesięczne wsparcie
 

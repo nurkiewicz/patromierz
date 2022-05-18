@@ -1,5 +1,5 @@
 ---
-title: stowarzyszenie-stukot | Patromierz
+title: "stowarzyszenie-stukot | Patromierz"
 permalink: /stowarzyszenie-stukot
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszenie-stukot
 <script type="text/javascript" src="data/s/stowarzyszenie-stukot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszenie-stukot](https://patronite.pl/stowarzyszenie-stukot)
+# [Stowarzyszenie Stukot](https://patronite.pl/stowarzyszenie-stukot)
 
 ## Miesięczne wsparcie
 

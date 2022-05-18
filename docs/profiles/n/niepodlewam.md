@@ -1,5 +1,5 @@
 ---
-title: niepodlewam | Patromierz
+title: "niepodlewam | Patromierz"
 permalink: /niepodlewam
 ---
 
@@ -7,7 +7,7 @@ permalink: /niepodlewam
 <script type="text/javascript" src="data/n/niepodlewam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niepodlewam](https://patronite.pl/niepodlewam)
+# [Niepodlewam.pl](https://patronite.pl/niepodlewam)
 
 ## Miesięczne wsparcie
 

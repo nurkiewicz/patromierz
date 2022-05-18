@@ -1,5 +1,5 @@
 ---
-title: treeofwisdom | Patromierz
+title: "treeofwisdom | Patromierz"
 permalink: /treeofwisdom
 ---
 
@@ -7,7 +7,7 @@ permalink: /treeofwisdom
 <script type="text/javascript" src="data/t/treeofwisdom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [treeofwisdom](https://patronite.pl/treeofwisdom)
+# [Wiedźma Kinga Oliwia Kujawa](https://patronite.pl/treeofwisdom)
 
 ## Miesięczne wsparcie
 

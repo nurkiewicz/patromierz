@@ -1,5 +1,5 @@
 ---
-title: mantyk | Patromierz
+title: "mantyk | Patromierz"
 permalink: /mantyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /mantyk
 <script type="text/javascript" src="data/m/mantyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mantyk](https://patronite.pl/mantyk)
+# [Od słowa do Słowa - br. Tomasz Mantyk](https://patronite.pl/mantyk)
 
 ## Miesięczne wsparcie
 

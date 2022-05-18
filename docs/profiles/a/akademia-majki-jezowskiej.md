@@ -1,5 +1,5 @@
 ---
-title: akademia-majki-jezowskiej | Patromierz
+title: "akademia-majki-jezowskiej | Patromierz"
 permalink: /akademia-majki-jezowskiej
 ---
 
@@ -7,7 +7,7 @@ permalink: /akademia-majki-jezowskiej
 <script type="text/javascript" src="data/a/akademia-majki-jezowskiej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akademia-majki-jezowskiej](https://patronite.pl/akademia-majki-jezowskiej)
+# [Akademia Edukacji i Rozwoju Majki Jeżowskiej](https://patronite.pl/akademia-majki-jezowskiej)
 
 ## Miesięczne wsparcie
 

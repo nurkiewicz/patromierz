@@ -1,5 +1,5 @@
 ---
-title: harcapp | Patromierz
+title: "harcapp | Patromierz"
 permalink: /harcapp
 ---
 
@@ -7,7 +7,7 @@ permalink: /harcapp
 <script type="text/javascript" src="data/h/harcapp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [harcapp](https://patronite.pl/harcapp)
+# [Daniel Iwanicki](https://patronite.pl/harcapp)
 
 ## Miesięczne wsparcie
 

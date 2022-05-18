@@ -1,5 +1,5 @@
 ---
-title: nwol | Patromierz
+title: "nwol | Patromierz"
 permalink: /nwol
 ---
 
@@ -7,7 +7,7 @@ permalink: /nwol
 <script type="text/javascript" src="data/n/nwol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nwol](https://patronite.pl/nwol)
+# [Hubert Dudek](https://patronite.pl/nwol)
 
 ## Miesięczne wsparcie
 

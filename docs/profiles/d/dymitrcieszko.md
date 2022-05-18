@@ -1,5 +1,5 @@
 ---
-title: dymitrcieszko | Patromierz
+title: "dymitrcieszko | Patromierz"
 permalink: /dymitrcieszko
 ---
 
@@ -7,7 +7,7 @@ permalink: /dymitrcieszko
 <script type="text/javascript" src="data/d/dymitrcieszko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dymitrcieszko](https://patronite.pl/dymitrcieszko)
+# [Dymitr Cieszko](https://patronite.pl/dymitrcieszko)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: AgnieszkaPiekarska | Patromierz
+title: "AgnieszkaPiekarska | Patromierz"
 permalink: /AgnieszkaPiekarska
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgnieszkaPiekarska
 <script type="text/javascript" src="data/a/AgnieszkaPiekarska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgnieszkaPiekarska](https://patronite.pl/AgnieszkaPiekarska)
+# [Agnieszka Piekarska](https://patronite.pl/AgnieszkaPiekarska)
 
 ## Miesięczne wsparcie
 

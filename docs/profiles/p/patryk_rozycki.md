@@ -1,5 +1,5 @@
 ---
-title: patryk_rozycki | Patromierz
+title: "patryk_rozycki | Patromierz"
 permalink: /patryk_rozycki
 ---
 
@@ -7,7 +7,7 @@ permalink: /patryk_rozycki
 <script type="text/javascript" src="data/p/patryk_rozycki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patryk_rozycki](https://patronite.pl/patryk_rozycki)
+# [Patryk Różycki](https://patronite.pl/patryk_rozycki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: grzegorzkulik | Patromierz
+title: "grzegorzkulik | Patromierz"
 permalink: /grzegorzkulik
 ---
 
@@ -7,7 +7,7 @@ permalink: /grzegorzkulik
 <script type="text/javascript" src="data/g/grzegorzkulik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grzegorzkulik](https://patronite.pl/grzegorzkulik)
+# [Grzegorz Kulik](https://patronite.pl/grzegorzkulik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: annaklosowska | Patromierz
+title: "annaklosowska | Patromierz"
 permalink: /annaklosowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /annaklosowska
 <script type="text/javascript" src="data/a/annaklosowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annaklosowska](https://patronite.pl/annaklosowska)
+# [Anna Kłosowska - Odmęty Absurdu](https://patronite.pl/annaklosowska)
 
 ## Miesięczne wsparcie
 

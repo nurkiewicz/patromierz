@@ -1,5 +1,5 @@
 ---
-title: MimiMinionka | Patromierz
+title: "MimiMinionka | Patromierz"
 permalink: /MimiMinionka
 ---
 
@@ -7,7 +7,7 @@ permalink: /MimiMinionka
 <script type="text/javascript" src="data/m/MimiMinionka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MimiMinionka](https://patronite.pl/MimiMinionka)
+# [FP MimiMinionka - Patryk Kosacki](https://patronite.pl/MimiMinionka)
 
 ## Miesięczne wsparcie
 

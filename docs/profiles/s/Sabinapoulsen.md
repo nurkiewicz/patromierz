@@ -1,5 +1,5 @@
 ---
-title: Sabinapoulsen | Patromierz
+title: "Sabinapoulsen | Patromierz"
 permalink: /Sabinapoulsen
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sabinapoulsen
 <script type="text/javascript" src="data/s/Sabinapoulsen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sabinapoulsen](https://patronite.pl/Sabinapoulsen)
+# [Sabina Poulsen ](https://patronite.pl/Sabinapoulsen)
 
 ## Miesięczne wsparcie
 

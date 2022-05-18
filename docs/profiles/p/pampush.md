@@ -1,5 +1,5 @@
 ---
-title: pampush | Patromierz
+title: "pampush | Patromierz"
 permalink: /pampush
 ---
 
@@ -7,7 +7,7 @@ permalink: /pampush
 <script type="text/javascript" src="data/p/pampush.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pampush](https://patronite.pl/pampush)
+# [Pampush](https://patronite.pl/pampush)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: OgrodMatyldy | Patromierz
+title: "OgrodMatyldy | Patromierz"
 permalink: /OgrodMatyldy
 ---
 
@@ -7,7 +7,7 @@ permalink: /OgrodMatyldy
 <script type="text/javascript" src="data/o/OgrodMatyldy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OgrodMatyldy](https://patronite.pl/OgrodMatyldy)
+# [Ogród Matyldy ](https://patronite.pl/OgrodMatyldy)
 
 ## Miesięczne wsparcie
 

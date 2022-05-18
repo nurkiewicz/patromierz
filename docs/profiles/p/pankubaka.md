@@ -1,5 +1,5 @@
 ---
-title: pankubaka | Patromierz
+title: "pankubaka | Patromierz"
 permalink: /pankubaka
 ---
 
@@ -7,7 +7,7 @@ permalink: /pankubaka
 <script type="text/javascript" src="data/p/pankubaka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pankubaka](https://patronite.pl/pankubaka)
+# [Pan KuBaka](https://patronite.pl/pankubaka)
 
 ## Miesięczne wsparcie
 

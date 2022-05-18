@@ -1,5 +1,5 @@
 ---
-title: Hallack | Patromierz
+title: "Hallack | Patromierz"
 permalink: /Hallack
 ---
 

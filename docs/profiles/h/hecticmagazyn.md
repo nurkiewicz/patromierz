@@ -1,5 +1,5 @@
 ---
-title: hecticmagazyn | Patromierz
+title: "hecticmagazyn | Patromierz"
 permalink: /hecticmagazyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /hecticmagazyn
 <script type="text/javascript" src="data/h/hecticmagazyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hecticmagazyn](https://patronite.pl/hecticmagazyn)
+# [Hectic Magazyn](https://patronite.pl/hecticmagazyn)
 
 ## Miesięczne wsparcie
 

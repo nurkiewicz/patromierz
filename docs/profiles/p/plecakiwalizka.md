@@ -1,5 +1,5 @@
 ---
-title: plecakiwalizka | Patromierz
+title: "plecakiwalizka | Patromierz"
 permalink: /plecakiwalizka
 ---
 
@@ -7,7 +7,7 @@ permalink: /plecakiwalizka
 <script type="text/javascript" src="data/p/plecakiwalizka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [plecakiwalizka](https://patronite.pl/plecakiwalizka)
+# [Plecak i walizka](https://patronite.pl/plecakiwalizka)
 
 ## Miesięczne wsparcie
 

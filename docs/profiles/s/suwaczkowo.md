@@ -1,5 +1,5 @@
 ---
-title: suwaczkowo | Patromierz
+title: "suwaczkowo | Patromierz"
 permalink: /suwaczkowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /suwaczkowo
 <script type="text/javascript" src="data/s/suwaczkowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [suwaczkowo](https://patronite.pl/suwaczkowo)
+# [Suwaczkowo](https://patronite.pl/suwaczkowo)
 
 ## Miesięczne wsparcie
 

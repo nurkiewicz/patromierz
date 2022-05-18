@@ -1,5 +1,5 @@
 ---
-title: trenerpodczaski | Patromierz
+title: "trenerpodczaski | Patromierz"
 permalink: /trenerpodczaski
 ---
 
@@ -7,7 +7,7 @@ permalink: /trenerpodczaski
 <script type="text/javascript" src="data/t/trenerpodczaski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [trenerpodczaski](https://patronite.pl/trenerpodczaski)
+# [Piotr Podczaski](https://patronite.pl/trenerpodczaski)
 
 ## Miesięczne wsparcie
 

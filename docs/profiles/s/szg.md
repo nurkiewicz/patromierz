@@ -1,5 +1,5 @@
 ---
-title: szg | Patromierz
+title: "szg | Patromierz"
 permalink: /szg
 ---
 
@@ -7,7 +7,7 @@ permalink: /szg
 <script type="text/javascript" src="data/s/szg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szg](https://patronite.pl/szg)
+# [Stary Znowu Gra](https://patronite.pl/szg)
 
 ## Miesięczne wsparcie
 

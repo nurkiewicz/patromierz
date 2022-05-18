@@ -1,5 +1,5 @@
 ---
-title: dixracingpl | Patromierz
+title: "dixracingpl | Patromierz"
 permalink: /dixracingpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /dixracingpl
 <script type="text/javascript" src="data/d/dixracingpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dixracingpl](https://patronite.pl/dixracingpl)
+# [Liga Dix-Racing.pl](https://patronite.pl/dixracingpl)
 
 ## Miesięczne wsparcie
 

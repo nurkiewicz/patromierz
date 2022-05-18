@@ -1,5 +1,5 @@
 ---
-title: blondynkanaautostopie-lauramar | Patromierz
+title: "blondynkanaautostopie-lauramar | Patromierz"
 permalink: /blondynkanaautostopie-lauramar
 ---
 
@@ -7,7 +7,7 @@ permalink: /blondynkanaautostopie-lauramar
 <script type="text/javascript" src="data/b/blondynkanaautostopie-lauramar.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blondynkanaautostopie-lauramar](https://patronite.pl/blondynkanaautostopie-lauramar)
+# [Blondynka na autostopie podcast/Laura Maria](https://patronite.pl/blondynkanaautostopie-lauramar)
 
 ## Miesięczne wsparcie
 

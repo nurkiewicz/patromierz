@@ -1,5 +1,5 @@
 ---
-title: HarmonyArt | Patromierz
+title: "HarmonyArt | Patromierz"
 permalink: /HarmonyArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /HarmonyArt
 <script type="text/javascript" src="data/h/HarmonyArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HarmonyArt](https://patronite.pl/HarmonyArt)
+# [Harmony Art](https://patronite.pl/HarmonyArt)
 
 ## Miesięczne wsparcie
 

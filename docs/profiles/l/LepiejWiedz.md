@@ -1,5 +1,5 @@
 ---
-title: LepiejWiedz | Patromierz
+title: "LepiejWiedz | Patromierz"
 permalink: /LepiejWiedz
 ---
 
@@ -7,7 +7,7 @@ permalink: /LepiejWiedz
 <script type="text/javascript" src="data/l/LepiejWiedz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LepiejWiedz](https://patronite.pl/LepiejWiedz)
+# [Lepiej Wiedzieć](https://patronite.pl/LepiejWiedz)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KaoriCosplayArt | Patromierz
+title: "KaoriCosplayArt | Patromierz"
 permalink: /KaoriCosplayArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /KaoriCosplayArt
 <script type="text/javascript" src="data/k/KaoriCosplayArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KaoriCosplayArt](https://patronite.pl/KaoriCosplayArt)
+# [Kaori CosplayArt](https://patronite.pl/KaoriCosplayArt)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: swojskapilka | Patromierz
+title: "swojskapilka | Patromierz"
 permalink: /swojskapilka
 ---
 
@@ -7,7 +7,7 @@ permalink: /swojskapilka
 <script type="text/javascript" src="data/s/swojskapilka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swojskapilka](https://patronite.pl/swojskapilka)
+# [Swojska Piłka](https://patronite.pl/swojskapilka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: debowa-chatka | Patromierz
+title: "debowa-chatka | Patromierz"
 permalink: /debowa-chatka
 ---
 
@@ -7,7 +7,7 @@ permalink: /debowa-chatka
 <script type="text/javascript" src="data/d/debowa-chatka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [debowa-chatka](https://patronite.pl/debowa-chatka)
+# [Damian D.](https://patronite.pl/debowa-chatka)
 
 ## Miesięczne wsparcie
 

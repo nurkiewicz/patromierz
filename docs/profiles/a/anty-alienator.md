@@ -1,5 +1,5 @@
 ---
-title: anty-alienator | Patromierz
+title: "anty-alienator | Patromierz"
 permalink: /anty-alienator
 ---
 
@@ -7,7 +7,7 @@ permalink: /anty-alienator
 <script type="text/javascript" src="data/a/anty-alienator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anty-alienator](https://patronite.pl/anty-alienator)
+# [Anty-Alienator](https://patronite.pl/anty-alienator)
 
 ## Miesięczne wsparcie
 

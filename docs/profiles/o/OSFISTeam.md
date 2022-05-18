@@ -1,5 +1,5 @@
 ---
-title: OSFISTeam | Patromierz
+title: "OSFISTeam | Patromierz"
 permalink: /OSFISTeam
 ---
 
@@ -7,7 +7,7 @@ permalink: /OSFISTeam
 <script type="text/javascript" src="data/o/OSFISTeam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OSFISTeam](https://patronite.pl/OSFISTeam)
+# [Stowarzyszenie OSFIS](https://patronite.pl/OSFISTeam)
 
 ## Miesięczne wsparcie
 

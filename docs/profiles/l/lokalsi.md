@@ -1,5 +1,5 @@
 ---
-title: lokalsi | Patromierz
+title: "lokalsi | Patromierz"
 permalink: /lokalsi
 ---
 
@@ -7,7 +7,7 @@ permalink: /lokalsi
 <script type="text/javascript" src="data/l/lokalsi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lokalsi](https://patronite.pl/lokalsi)
+# [Lokalsi.net](https://patronite.pl/lokalsi)
 
 ## Miesięczne wsparcie
 

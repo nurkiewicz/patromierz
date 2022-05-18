@@ -1,5 +1,5 @@
 ---
-title: PogodnyWalbrzych | Patromierz
+title: "PogodnyWalbrzych | Patromierz"
 permalink: /PogodnyWalbrzych
 ---
 
@@ -7,7 +7,7 @@ permalink: /PogodnyWalbrzych
 <script type="text/javascript" src="data/p/PogodnyWalbrzych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PogodnyWalbrzych](https://patronite.pl/PogodnyWalbrzych)
+# [Pogodny Wałbrzych](https://patronite.pl/PogodnyWalbrzych)
 
 ## Miesięczne wsparcie
 

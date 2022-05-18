@@ -1,5 +1,5 @@
 ---
-title: panika | Patromierz
+title: "panika | Patromierz"
 permalink: /panika
 ---
 
@@ -7,7 +7,7 @@ permalink: /panika
 <script type="text/javascript" src="data/p/panika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panika](https://patronite.pl/panika)
+# [Pani Ka](https://patronite.pl/panika)
 
 ## Miesięczne wsparcie
 

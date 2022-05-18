@@ -1,5 +1,5 @@
 ---
-title: gajapisze | Patromierz
+title: "gajapisze | Patromierz"
 permalink: /gajapisze
 ---
 
@@ -7,7 +7,7 @@ permalink: /gajapisze
 <script type="text/javascript" src="data/g/gajapisze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gajapisze](https://patronite.pl/gajapisze)
+# [Katarzyna Gajewska GajaPisze.pl](https://patronite.pl/gajapisze)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: calaprawda | Patromierz
+title: "calaprawda | Patromierz"
 permalink: /calaprawda
 ---
 
@@ -7,7 +7,7 @@ permalink: /calaprawda
 <script type="text/javascript" src="data/c/calaprawda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [calaprawda](https://patronite.pl/calaprawda)
+# [Cała Prawda](https://patronite.pl/calaprawda)
 
 ## Miesięczne wsparcie
 

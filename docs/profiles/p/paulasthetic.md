@@ -1,5 +1,5 @@
 ---
-title: paulasthetic | Patromierz
+title: "paulasthetic | Patromierz"
 permalink: /paulasthetic
 ---
 
@@ -7,7 +7,7 @@ permalink: /paulasthetic
 <script type="text/javascript" src="data/p/paulasthetic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paulasthetic](https://patronite.pl/paulasthetic)
+# [Paula ](https://patronite.pl/paulasthetic)
 
 ## Miesięczne wsparcie
 

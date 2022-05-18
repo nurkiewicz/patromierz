@@ -1,5 +1,5 @@
 ---
-title: AutomatycznyPodcast | Patromierz
+title: "AutomatycznyPodcast | Patromierz"
 permalink: /AutomatycznyPodcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /AutomatycznyPodcast
 <script type="text/javascript" src="data/a/AutomatycznyPodcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AutomatycznyPodcast](https://patronite.pl/AutomatycznyPodcast)
+# [Automatyczny Podcast](https://patronite.pl/AutomatycznyPodcast)
 
 ## Miesięczne wsparcie
 

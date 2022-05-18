@@ -1,5 +1,5 @@
 ---
-title: TomaszPiwecki | Patromierz
+title: "TomaszPiwecki | Patromierz"
 permalink: /TomaszPiwecki
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszPiwecki
 <script type="text/javascript" src="data/t/TomaszPiwecki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszPiwecki](https://patronite.pl/TomaszPiwecki)
+# [Tomasz Piwecki](https://patronite.pl/TomaszPiwecki)
 
 ## Miesięczne wsparcie
 

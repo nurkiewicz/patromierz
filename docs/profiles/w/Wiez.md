@@ -1,5 +1,5 @@
 ---
-title: Wiez | Patromierz
+title: "Wiez | Patromierz"
 permalink: /Wiez
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wiez
 <script type="text/javascript" src="data/w/Wiez.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wiez](https://patronite.pl/Wiez)
+# [Więź](https://patronite.pl/Wiez)
 
 ## Miesięczne wsparcie
 

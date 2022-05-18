@@ -1,5 +1,5 @@
 ---
-title: projektpandora | Patromierz
+title: "projektpandora | Patromierz"
 permalink: /projektpandora
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektpandora
 <script type="text/javascript" src="data/p/projektpandora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektpandora](https://patronite.pl/projektpandora)
+# [Projekt Pandora](https://patronite.pl/projektpandora)
 
 ## Miesięczne wsparcie
 

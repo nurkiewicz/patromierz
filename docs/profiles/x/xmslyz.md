@@ -1,5 +1,5 @@
 ---
-title: xmslyz | Patromierz
+title: "xmslyz | Patromierz"
 permalink: /xmslyz
 ---
 
@@ -7,7 +7,7 @@ permalink: /xmslyz
 <script type="text/javascript" src="data/x/xmslyz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [xmslyz](https://patronite.pl/xmslyz)
+# [ks. Maciej Słyż ](https://patronite.pl/xmslyz)
 
 ## Miesięczne wsparcie
 

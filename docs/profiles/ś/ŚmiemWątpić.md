@@ -1,5 +1,5 @@
 ---
-title: ŚmiemWątpić | Patromierz
+title: "ŚmiemWątpić | Patromierz"
 permalink: /ŚmiemWątpić
 ---
 
@@ -7,7 +7,7 @@ permalink: /ŚmiemWątpić
 <script type="text/javascript" src="data/ś/ŚmiemWątpić.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ŚmiemWątpić](https://patronite.pl/ŚmiemWątpić)
+# [Śmiem Wątpić](https://patronite.pl/ŚmiemWątpić)
 
 ## Miesięczne wsparcie
 

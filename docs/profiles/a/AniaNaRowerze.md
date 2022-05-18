@@ -1,5 +1,5 @@
 ---
-title: AniaNaRowerze | Patromierz
+title: "AniaNaRowerze | Patromierz"
 permalink: /AniaNaRowerze
 ---
 
@@ -7,7 +7,7 @@ permalink: /AniaNaRowerze
 <script type="text/javascript" src="data/a/AniaNaRowerze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AniaNaRowerze](https://patronite.pl/AniaNaRowerze)
+# [Ania na Rowerze](https://patronite.pl/AniaNaRowerze)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: defoliator | Patromierz
+title: "defoliator | Patromierz"
 permalink: /defoliator
 ---
 
@@ -7,7 +7,7 @@ permalink: /defoliator
 <script type="text/javascript" src="data/d/defoliator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [defoliator](https://patronite.pl/defoliator)
+# [Defoliator](https://patronite.pl/defoliator)
 
 ## Miesięczne wsparcie
 

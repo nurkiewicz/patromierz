@@ -1,5 +1,5 @@
 ---
-title: DwarfCrypt | Patromierz
+title: "DwarfCrypt | Patromierz"
 permalink: /DwarfCrypt
 ---
 
@@ -7,7 +7,7 @@ permalink: /DwarfCrypt
 <script type="text/javascript" src="data/d/DwarfCrypt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DwarfCrypt](https://patronite.pl/DwarfCrypt)
+# [Michał Kucharski](https://patronite.pl/DwarfCrypt)
 
 ## Miesięczne wsparcie
 

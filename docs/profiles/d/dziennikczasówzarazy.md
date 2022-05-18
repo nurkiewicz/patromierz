@@ -1,5 +1,5 @@
 ---
-title: dziennikczasówzarazy | Patromierz
+title: "dziennikczasówzarazy | Patromierz"
 permalink: /dziennikczasówzarazy
 ---
 
@@ -7,7 +7,7 @@ permalink: /dziennikczasówzarazy
 <script type="text/javascript" src="data/d/dziennikczasówzarazy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dziennikczasówzarazy](https://patronite.pl/dziennikczasówzarazy)
+# [Jakub Luczak](https://patronite.pl/dziennikczasówzarazy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BiznesBezStresu | Patromierz
+title: "BiznesBezStresu | Patromierz"
 permalink: /BiznesBezStresu
 ---
 
@@ -7,7 +7,7 @@ permalink: /BiznesBezStresu
 <script type="text/javascript" src="data/b/BiznesBezStresu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BiznesBezStresu](https://patronite.pl/BiznesBezStresu)
+# [Biznes Bez Stresu](https://patronite.pl/BiznesBezStresu)
 
 ## Miesięczne wsparcie
 

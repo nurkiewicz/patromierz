@@ -1,5 +1,5 @@
 ---
-title: ipaszynska | Patromierz
+title: "ipaszynska | Patromierz"
 permalink: /ipaszynska
 ---
 
@@ -7,7 +7,7 @@ permalink: /ipaszynska
 <script type="text/javascript" src="data/i/ipaszynska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ipaszynska](https://patronite.pl/ipaszynska)
+# [Iryna Pashyska](https://patronite.pl/ipaszynska)
 
 ## Miesięczne wsparcie
 

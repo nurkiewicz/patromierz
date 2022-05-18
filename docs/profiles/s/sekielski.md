@@ -1,5 +1,5 @@
 ---
-title: sekielski | Patromierz
+title: "sekielski | Patromierz"
 permalink: /sekielski
 ---
 
@@ -7,7 +7,7 @@ permalink: /sekielski
 <script type="text/javascript" src="data/s/sekielski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sekielski](https://patronite.pl/sekielski)
+# [Sekielski Brothers Studio](https://patronite.pl/sekielski)
 
 ## Miesięczne wsparcie
 

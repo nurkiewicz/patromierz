@@ -1,5 +1,5 @@
 ---
-title: VOCALOVE | Patromierz
+title: "VOCALOVE | Patromierz"
 permalink: /VOCALOVE
 ---
 
@@ -7,7 +7,7 @@ permalink: /VOCALOVE
 <script type="text/javascript" src="data/v/VOCALOVE.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VOCALOVE](https://patronite.pl/VOCALOVE)
+# [Zespół VOCALOVE](https://patronite.pl/VOCALOVE)
 
 ## Miesięczne wsparcie
 

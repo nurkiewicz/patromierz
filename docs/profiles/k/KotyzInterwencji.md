@@ -1,5 +1,5 @@
 ---
-title: KotyzInterwencji | Patromierz
+title: "KotyzInterwencji | Patromierz"
 permalink: /KotyzInterwencji
 ---
 
@@ -7,7 +7,7 @@ permalink: /KotyzInterwencji
 <script type="text/javascript" src="data/k/KotyzInterwencji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KotyzInterwencji](https://patronite.pl/KotyzInterwencji)
+# [Fundacja Kocięta Koty z Interwencji ](https://patronite.pl/KotyzInterwencji)
 
 ## Miesięczne wsparcie
 

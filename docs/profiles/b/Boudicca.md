@@ -1,5 +1,5 @@
 ---
-title: Boudicca | Patromierz
+title: "Boudicca | Patromierz"
 permalink: /Boudicca
 ---
 
@@ -7,7 +7,7 @@ permalink: /Boudicca
 <script type="text/javascript" src="data/b/Boudicca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Boudicca](https://patronite.pl/Boudicca)
+# [Okręt Boudicca](https://patronite.pl/Boudicca)
 
 ## Miesięczne wsparcie
 

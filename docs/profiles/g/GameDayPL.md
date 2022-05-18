@@ -1,5 +1,5 @@
 ---
-title: GameDayPL | Patromierz
+title: "GameDayPL | Patromierz"
 permalink: /GameDayPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /GameDayPL
 <script type="text/javascript" src="data/g/GameDayPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GameDayPL](https://patronite.pl/GameDayPL)
+# [GameDay.pl](https://patronite.pl/GameDayPL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: NTT | Patromierz
+title: "NTT | Patromierz"
 permalink: /NTT
 ---
 
@@ -7,7 +7,7 @@ permalink: /NTT
 <script type="text/javascript" src="data/n/NTT.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NTT](https://patronite.pl/NTT)
+# [Naukowe Towarzystwo Tomistyczne](https://patronite.pl/NTT)
 
 ## Miesięczne wsparcie
 

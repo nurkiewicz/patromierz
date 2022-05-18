@@ -1,5 +1,5 @@
 ---
-title: kisielle | Patromierz
+title: "kisielle | Patromierz"
 permalink: /kisielle
 ---
 
@@ -7,7 +7,7 @@ permalink: /kisielle
 <script type="text/javascript" src="data/k/kisielle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kisielle](https://patronite.pl/kisielle)
+# [Aleksandra Kisiel](https://patronite.pl/kisielle)
 
 ## Miesięczne wsparcie
 

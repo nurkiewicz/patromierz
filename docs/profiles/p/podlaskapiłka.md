@@ -1,5 +1,5 @@
 ---
-title: podlaskapiłka | Patromierz
+title: "podlaskapiłka | Patromierz"
 permalink: /podlaskapiłka
 ---
 
@@ -7,7 +7,7 @@ permalink: /podlaskapiłka
 <script type="text/javascript" src="data/p/podlaskapiłka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podlaskapiłka](https://patronite.pl/podlaskapiłka)
+# [Podlaska piłka](https://patronite.pl/podlaskapiłka)
 
 ## Miesięczne wsparcie
 

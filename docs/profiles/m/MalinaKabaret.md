@@ -1,5 +1,5 @@
 ---
-title: MalinaKabaret | Patromierz
+title: "MalinaKabaret | Patromierz"
 permalink: /MalinaKabaret
 ---
 
@@ -7,7 +7,7 @@ permalink: /MalinaKabaret
 <script type="text/javascript" src="data/m/MalinaKabaret.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MalinaKabaret](https://patronite.pl/MalinaKabaret)
+# [Kabaret Malina](https://patronite.pl/MalinaKabaret)
 
 ## Miesięczne wsparcie
 

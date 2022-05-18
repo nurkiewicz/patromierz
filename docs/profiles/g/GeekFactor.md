@@ -1,5 +1,5 @@
 ---
-title: GeekFactor | Patromierz
+title: "GeekFactor | Patromierz"
 permalink: /GeekFactor
 ---
 
@@ -7,7 +7,7 @@ permalink: /GeekFactor
 <script type="text/javascript" src="data/g/GeekFactor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GeekFactor](https://patronite.pl/GeekFactor)
+# [Geek Factor](https://patronite.pl/GeekFactor)
 
 ## Miesięczne wsparcie
 

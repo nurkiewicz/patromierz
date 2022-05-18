@@ -1,5 +1,5 @@
 ---
-title: szok-dietoterapia | Patromierz
+title: "szok-dietoterapia | Patromierz"
 permalink: /szok-dietoterapia
 ---
 
@@ -7,7 +7,7 @@ permalink: /szok-dietoterapia
 <script type="text/javascript" src="data/s/szok-dietoterapia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szok-dietoterapia](https://patronite.pl/szok-dietoterapia)
+# [SZOK dietoterapia](https://patronite.pl/szok-dietoterapia)
 
 ## Miesięczne wsparcie
 

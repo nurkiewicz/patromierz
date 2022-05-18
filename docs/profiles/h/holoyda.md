@@ -1,5 +1,5 @@
 ---
-title: holoyda | Patromierz
+title: "holoyda | Patromierz"
 permalink: /holoyda
 ---
 
@@ -7,7 +7,7 @@ permalink: /holoyda
 <script type="text/javascript" src="data/h/holoyda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [holoyda](https://patronite.pl/holoyda)
+# [Daniel Holoyda Snooker](https://patronite.pl/holoyda)
 
 ## Miesięczne wsparcie
 

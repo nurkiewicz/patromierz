@@ -1,5 +1,5 @@
 ---
-title: RybyMajaGlos | Patromierz
+title: "RybyMajaGlos | Patromierz"
 permalink: /RybyMajaGlos
 ---
 
@@ -7,7 +7,7 @@ permalink: /RybyMajaGlos
 <script type="text/javascript" src="data/r/RybyMajaGlos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RybyMajaGlos](https://patronite.pl/RybyMajaGlos)
+# [Ryby Mają Głos](https://patronite.pl/RybyMajaGlos)
 
 ## Miesięczne wsparcie
 

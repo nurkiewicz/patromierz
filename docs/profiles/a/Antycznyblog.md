@@ -1,5 +1,5 @@
 ---
-title: Antycznyblog | Patromierz
+title: "Antycznyblog | Patromierz"
 permalink: /Antycznyblog
 ---
 
@@ -7,7 +7,7 @@ permalink: /Antycznyblog
 <script type="text/javascript" src="data/a/Antycznyblog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Antycznyblog](https://patronite.pl/Antycznyblog)
+# [Antyczny.blog](https://patronite.pl/Antycznyblog)
 
 ## Miesięczne wsparcie
 

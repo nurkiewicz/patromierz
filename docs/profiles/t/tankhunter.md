@@ -1,5 +1,5 @@
 ---
-title: tankhunter | Patromierz
+title: "tankhunter | Patromierz"
 permalink: /tankhunter
 ---
 
@@ -7,7 +7,7 @@ permalink: /tankhunter
 <script type="text/javascript" src="data/t/tankhunter.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tankhunter](https://patronite.pl/tankhunter)
+# [TANK HUNTER](https://patronite.pl/tankhunter)
 
 ## Miesięczne wsparcie
 

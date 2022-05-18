@@ -1,5 +1,5 @@
 ---
-title: ksol | Patromierz
+title: "ksol | Patromierz"
 permalink: /ksol
 ---
 
@@ -7,7 +7,7 @@ permalink: /ksol
 <script type="text/javascript" src="data/k/ksol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ksol](https://patronite.pl/ksol)
+# [Kilka słów o Legii](https://patronite.pl/ksol)
 
 ## Miesięczne wsparcie
 

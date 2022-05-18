@@ -1,5 +1,5 @@
 ---
-title: gorzowmod | Patromierz
+title: "gorzowmod | Patromierz"
 permalink: /gorzowmod
 ---
 
@@ -7,7 +7,7 @@ permalink: /gorzowmod
 <script type="text/javascript" src="data/g/gorzowmod.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gorzowmod](https://patronite.pl/gorzowmod)
+# [Gorzów Modification](https://patronite.pl/gorzowmod)
 
 ## Miesięczne wsparcie
 

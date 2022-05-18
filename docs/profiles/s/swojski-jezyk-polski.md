@@ -1,5 +1,5 @@
 ---
-title: swojski-jezyk-polski | Patromierz
+title: "swojski-jezyk-polski | Patromierz"
 permalink: /swojski-jezyk-polski
 ---
 
@@ -7,7 +7,7 @@ permalink: /swojski-jezyk-polski
 <script type="text/javascript" src="data/s/swojski-jezyk-polski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swojski-jezyk-polski](https://patronite.pl/swojski-jezyk-polski)
+# [Swojski Język Polski](https://patronite.pl/swojski-jezyk-polski)
 
 ## Miesięczne wsparcie
 

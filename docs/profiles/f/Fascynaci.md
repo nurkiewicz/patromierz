@@ -1,5 +1,5 @@
 ---
-title: Fascynaci | Patromierz
+title: "Fascynaci | Patromierz"
 permalink: /Fascynaci
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fascynaci
 <script type="text/javascript" src="data/f/Fascynaci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fascynaci](https://patronite.pl/Fascynaci)
+# [Fascynaci - Twórczość i Wydania](https://patronite.pl/Fascynaci)
 
 ## Miesięczne wsparcie
 

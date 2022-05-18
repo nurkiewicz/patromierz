@@ -1,5 +1,5 @@
 ---
-title: adriansocha | Patromierz
+title: "adriansocha | Patromierz"
 permalink: /adriansocha
 ---
 
@@ -7,7 +7,7 @@ permalink: /adriansocha
 <script type="text/javascript" src="data/a/adriansocha.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adriansocha](https://patronite.pl/adriansocha)
+# [ADRIAN SOCHA](https://patronite.pl/adriansocha)
 
 ## Miesięczne wsparcie
 

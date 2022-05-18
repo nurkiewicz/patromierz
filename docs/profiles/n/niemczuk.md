@@ -1,5 +1,5 @@
 ---
-title: niemczuk | Patromierz
+title: "niemczuk | Patromierz"
 permalink: /niemczuk
 ---
 
@@ -7,7 +7,7 @@ permalink: /niemczuk
 <script type="text/javascript" src="data/n/niemczuk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niemczuk](https://patronite.pl/niemczuk)
+# [Grzegorz Niemczuk](https://patronite.pl/niemczuk)
 
 ## Miesięczne wsparcie
 

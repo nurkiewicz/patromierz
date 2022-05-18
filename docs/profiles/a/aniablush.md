@@ -1,5 +1,5 @@
 ---
-title: aniablush | Patromierz
+title: "aniablush | Patromierz"
 permalink: /aniablush
 ---
 
@@ -7,7 +7,7 @@ permalink: /aniablush
 <script type="text/javascript" src="data/a/aniablush.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aniablush](https://patronite.pl/aniablush)
+# [Ania Blush](https://patronite.pl/aniablush)
 
 ## Miesięczne wsparcie
 

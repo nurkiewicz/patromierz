@@ -1,5 +1,5 @@
 ---
-title: whyfrompoland | Patromierz
+title: "whyfrompoland | Patromierz"
 permalink: /whyfrompoland
 ---
 
@@ -7,7 +7,7 @@ permalink: /whyfrompoland
 <script type="text/javascript" src="data/w/whyfrompoland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [whyfrompoland](https://patronite.pl/whyfrompoland)
+# [Why](https://patronite.pl/whyfrompoland)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TomaszSlowinskiUSA | Patromierz
+title: "TomaszSlowinskiUSA | Patromierz"
 permalink: /TomaszSlowinskiUSA
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszSlowinskiUSA
 <script type="text/javascript" src="data/t/TomaszSlowinskiUSA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszSlowinskiUSA](https://patronite.pl/TomaszSlowinskiUSA)
+# [Tomasz Slowinski USA](https://patronite.pl/TomaszSlowinskiUSA)
 
 ## Miesięczne wsparcie
 

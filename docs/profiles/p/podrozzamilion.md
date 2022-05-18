@@ -1,5 +1,5 @@
 ---
-title: podrozzamilion | Patromierz
+title: "podrozzamilion | Patromierz"
 permalink: /podrozzamilion
 ---
 
@@ -7,7 +7,7 @@ permalink: /podrozzamilion
 <script type="text/javascript" src="data/p/podrozzamilion.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podrozzamilion](https://patronite.pl/podrozzamilion)
+# [Podróż Za Milion Zdjęć](https://patronite.pl/podrozzamilion)
 
 ## Miesięczne wsparcie
 

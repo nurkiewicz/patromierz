@@ -1,5 +1,5 @@
 ---
-title: Fojerman | Patromierz
+title: "Fojerman | Patromierz"
 permalink: /Fojerman
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fojerman
 <script type="text/javascript" src="data/f/Fojerman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fojerman](https://patronite.pl/Fojerman)
+# [Stanisław Neblik](https://patronite.pl/Fojerman)
 
 ## Miesięczne wsparcie
 

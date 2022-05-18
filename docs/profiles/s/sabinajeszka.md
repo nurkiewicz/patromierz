@@ -1,5 +1,5 @@
 ---
-title: sabinajeszka | Patromierz
+title: "sabinajeszka | Patromierz"
 permalink: /sabinajeszka
 ---
 
@@ -7,7 +7,7 @@ permalink: /sabinajeszka
 <script type="text/javascript" src="data/s/sabinajeszka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sabinajeszka](https://patronite.pl/sabinajeszka)
+# [Sabina Jeszka](https://patronite.pl/sabinajeszka)
 
 ## Miesięczne wsparcie
 

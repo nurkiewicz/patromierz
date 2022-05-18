@@ -1,5 +1,5 @@
 ---
-title: fundacja-loyola | Patromierz
+title: "fundacja-loyola | Patromierz"
 permalink: /fundacja-loyola
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja-loyola
 <script type="text/javascript" src="data/f/fundacja-loyola.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja-loyola](https://patronite.pl/fundacja-loyola)
+# [Fundacja im. św. Ignacego Loyoli](https://patronite.pl/fundacja-loyola)
 
 ## Miesięczne wsparcie
 

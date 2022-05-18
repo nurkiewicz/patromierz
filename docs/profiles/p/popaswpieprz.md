@@ -1,5 +1,5 @@
 ---
-title: popaswpieprz | Patromierz
+title: "popaswpieprz | Patromierz"
 permalink: /popaswpieprz
 ---
 
@@ -7,7 +7,7 @@ permalink: /popaswpieprz
 <script type="text/javascript" src="data/p/popaswpieprz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [popaswpieprz](https://patronite.pl/popaswpieprz)
+# [Po pas w pieprz. Kambodżańska odyseja.](https://patronite.pl/popaswpieprz)
 
 ## Miesięczne wsparcie
 

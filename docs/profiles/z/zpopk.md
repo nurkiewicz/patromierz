@@ -1,5 +1,5 @@
 ---
-title: zpopk | Patromierz
+title: "zpopk | Patromierz"
 permalink: /zpopk
 ---
 
@@ -7,7 +7,7 @@ permalink: /zpopk
 <script type="text/javascript" src="data/z/zpopk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zpopk](https://patronite.pl/zpopk)
+# [Zwierz popkulturalny](https://patronite.pl/zpopk)
 
 ## Miesięczne wsparcie
 

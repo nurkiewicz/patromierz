@@ -1,5 +1,5 @@
 ---
-title: ignacjanski | Patromierz
+title: "ignacjanski | Patromierz"
 permalink: /ignacjanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /ignacjanski
 <script type="text/javascript" src="data/i/ignacjanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ignacjanski](https://patronite.pl/ignacjanski)
+# [Ignacjański rachunek sumienia](https://patronite.pl/ignacjanski)
 
 ## Miesięczne wsparcie
 

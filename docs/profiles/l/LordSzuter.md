@@ -1,5 +1,5 @@
 ---
-title: LordSzuter | Patromierz
+title: "LordSzuter | Patromierz"
 permalink: /LordSzuter
 ---
 
@@ -7,7 +7,7 @@ permalink: /LordSzuter
 <script type="text/javascript" src="data/l/LordSzuter.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LordSzuter](https://patronite.pl/LordSzuter)
+# [Lord Szuter & Ubojnia Nudy](https://patronite.pl/LordSzuter)
 
 ## Miesięczne wsparcie
 

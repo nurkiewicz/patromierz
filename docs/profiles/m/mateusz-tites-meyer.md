@@ -1,5 +1,5 @@
 ---
-title: mateusz-tites-meyer | Patromierz
+title: "mateusz-tites-meyer | Patromierz"
 permalink: /mateusz-tites-meyer
 ---
 
@@ -7,7 +7,7 @@ permalink: /mateusz-tites-meyer
 <script type="text/javascript" src="data/m/mateusz-tites-meyer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mateusz-tites-meyer](https://patronite.pl/mateusz-tites-meyer)
+# [Mateùsz Titës Meyer](https://patronite.pl/mateusz-tites-meyer)
 
 ## Miesięczne wsparcie
 

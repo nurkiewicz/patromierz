@@ -1,5 +1,5 @@
 ---
-title: LUKASZLAMZA | Patromierz
+title: "LUKASZLAMZA | Patromierz"
 permalink: /LUKASZLAMZA
 ---
 
@@ -7,7 +7,7 @@ permalink: /LUKASZLAMZA
 <script type="text/javascript" src="data/l/LUKASZLAMZA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LUKASZLAMZA](https://patronite.pl/LUKASZLAMZA)
+# [Łukasz Lamża](https://patronite.pl/LUKASZLAMZA)
 
 ## Miesięczne wsparcie
 

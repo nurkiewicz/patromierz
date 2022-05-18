@@ -1,5 +1,5 @@
 ---
-title: DTF-Solutions | Patromierz
+title: "DTF-Solutions | Patromierz"
 permalink: /DTF-Solutions
 ---
 
@@ -7,7 +7,7 @@ permalink: /DTF-Solutions
 <script type="text/javascript" src="data/d/DTF-Solutions.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DTF-Solutions](https://patronite.pl/DTF-Solutions)
+# [DTF Solutions](https://patronite.pl/DTF-Solutions)
 
 ## Miesięczne wsparcie
 

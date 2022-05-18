@@ -1,5 +1,5 @@
 ---
-title: pawelzlublina | Patromierz
+title: "pawelzlublina | Patromierz"
 permalink: /pawelzlublina
 ---
 
@@ -7,7 +7,7 @@ permalink: /pawelzlublina
 <script type="text/javascript" src="data/p/pawelzlublina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pawelzlublina](https://patronite.pl/pawelzlublina)
+# [Pawel z Lublina](https://patronite.pl/pawelzlublina)
 
 ## Miesięczne wsparcie
 

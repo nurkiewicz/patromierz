@@ -1,5 +1,5 @@
 ---
-title: www.zen.pl | Patromierz
+title: "www.zen.pl | Patromierz"
 permalink: /www.zen.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.zen.pl
 <script type="text/javascript" src="data/w/www.zen.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.zen.pl](https://patronite.pl/www.zen.pl)
+# [Szkoła Zen Kwan Um](https://patronite.pl/www.zen.pl)
 
 ## Miesięczne wsparcie
 

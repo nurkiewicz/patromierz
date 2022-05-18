@@ -1,5 +1,5 @@
 ---
-title: BezSchematu | Patromierz
+title: "BezSchematu | Patromierz"
 permalink: /BezSchematu
 ---
 
@@ -7,7 +7,7 @@ permalink: /BezSchematu
 <script type="text/javascript" src="data/b/BezSchematu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BezSchematu](https://patronite.pl/BezSchematu)
+# [Bez/Schematu](https://patronite.pl/BezSchematu)
 
 ## Miesięczne wsparcie
 

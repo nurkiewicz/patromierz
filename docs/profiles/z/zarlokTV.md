@@ -1,5 +1,5 @@
 ---
-title: zarlokTV | Patromierz
+title: "zarlokTV | Patromierz"
 permalink: /zarlokTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /zarlokTV
 <script type="text/javascript" src="data/z/zarlokTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zarlokTV](https://patronite.pl/zarlokTV)
+# [ŻarłokTV](https://patronite.pl/zarlokTV)
 
 ## Miesięczne wsparcie
 

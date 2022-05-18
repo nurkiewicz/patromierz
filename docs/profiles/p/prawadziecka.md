@@ -1,5 +1,5 @@
 ---
-title: prawadziecka | Patromierz
+title: "prawadziecka | Patromierz"
 permalink: /prawadziecka
 ---
 
@@ -7,7 +7,7 @@ permalink: /prawadziecka
 <script type="text/javascript" src="data/p/prawadziecka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prawadziecka](https://patronite.pl/prawadziecka)
+# [Prawa dziecka / Fundacja Go'n'Act](https://patronite.pl/prawadziecka)
 
 ## Miesięczne wsparcie
 

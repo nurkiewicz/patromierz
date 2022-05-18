@@ -1,5 +1,5 @@
 ---
-title: bardonatropietajemnichistorii | Patromierz
+title: "bardonatropietajemnichistorii | Patromierz"
 permalink: /bardonatropietajemnichistorii
 ---
 
@@ -7,7 +7,7 @@ permalink: /bardonatropietajemnichistorii
 <script type="text/javascript" src="data/b/bardonatropietajemnichistorii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bardonatropietajemnichistorii](https://patronite.pl/bardonatropietajemnichistorii)
+# [Bardo - na tropie tajemnic historii](https://patronite.pl/bardonatropietajemnichistorii)
 
 ## Miesięczne wsparcie
 

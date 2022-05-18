@@ -1,5 +1,5 @@
 ---
-title: odwróconalekcja | Patromierz
+title: "odwróconalekcja | Patromierz"
 permalink: /odwróconalekcja
 ---
 
@@ -7,7 +7,7 @@ permalink: /odwróconalekcja
 <script type="text/javascript" src="data/o/odwróconalekcja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odwróconalekcja](https://patronite.pl/odwróconalekcja)
+# [Odwrócona Lekcja](https://patronite.pl/odwróconalekcja)
 
 ## Miesięczne wsparcie
 

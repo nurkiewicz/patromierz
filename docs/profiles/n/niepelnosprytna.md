@@ -1,5 +1,5 @@
 ---
-title: niepelnosprytna | Patromierz
+title: "niepelnosprytna | Patromierz"
 permalink: /niepelnosprytna
 ---
 
@@ -7,7 +7,7 @@ permalink: /niepelnosprytna
 <script type="text/javascript" src="data/n/niepelnosprytna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niepelnosprytna](https://patronite.pl/niepelnosprytna)
+# [Malwina Łapińska](https://patronite.pl/niepelnosprytna)
 
 ## Miesięczne wsparcie
 

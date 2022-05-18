@@ -1,5 +1,5 @@
 ---
-title: Bart-Networking | Patromierz
+title: "Bart-Networking | Patromierz"
 permalink: /Bart-Networking
 ---
 
@@ -7,7 +7,7 @@ permalink: /Bart-Networking
 <script type="text/javascript" src="data/b/Bart-Networking.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Bart-Networking](https://patronite.pl/Bart-Networking)
+# [Bart : Biz & Chill Networking biznesowy](https://patronite.pl/Bart-Networking)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Pacuk | Patromierz
+title: "Pacuk | Patromierz"
 permalink: /Pacuk
 ---
 

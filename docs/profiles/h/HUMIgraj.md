@@ -1,5 +1,5 @@
 ---
-title: HUMIgraj | Patromierz
+title: "HUMIgraj | Patromierz"
 permalink: /HUMIgraj
 ---
 
@@ -7,7 +7,7 @@ permalink: /HUMIgraj
 <script type="text/javascript" src="data/h/HUMIgraj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HUMIgraj](https://patronite.pl/HUMIgraj)
+# [HUMIGRAJ](https://patronite.pl/HUMIgraj)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: naszszydlowiec | Patromierz
+title: "naszszydlowiec | Patromierz"
 permalink: /naszszydlowiec
 ---
 
@@ -7,7 +7,7 @@ permalink: /naszszydlowiec
 <script type="text/javascript" src="data/n/naszszydlowiec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naszszydlowiec](https://patronite.pl/naszszydlowiec)
+# [Klub Przyjaciół portalu "Nasz Szydłowiec"](https://patronite.pl/naszszydlowiec)
 
 ## Miesięczne wsparcie
 

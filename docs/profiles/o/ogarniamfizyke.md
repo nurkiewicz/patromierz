@@ -1,5 +1,5 @@
 ---
-title: ogarniamfizyke | Patromierz
+title: "ogarniamfizyke | Patromierz"
 permalink: /ogarniamfizyke
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogarniamfizyke
 <script type="text/javascript" src="data/o/ogarniamfizyke.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogarniamfizyke](https://patronite.pl/ogarniamfizyke)
+# [Ogarniam Fizykę](https://patronite.pl/ogarniamfizyke)
 
 ## Miesięczne wsparcie
 

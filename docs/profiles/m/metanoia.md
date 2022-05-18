@@ -1,5 +1,5 @@
 ---
-title: metanoia | Patromierz
+title: "metanoia | Patromierz"
 permalink: /metanoia
 ---
 
@@ -7,7 +7,7 @@ permalink: /metanoia
 <script type="text/javascript" src="data/m/metanoia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [metanoia](https://patronite.pl/metanoia)
+# [Metanoia](https://patronite.pl/metanoia)
 
 ## Miesięczne wsparcie
 

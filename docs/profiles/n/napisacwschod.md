@@ -1,5 +1,5 @@
 ---
-title: napisacwschod | Patromierz
+title: "napisacwschod | Patromierz"
 permalink: /napisacwschod
 ---
 
@@ -7,7 +7,7 @@ permalink: /napisacwschod
 <script type="text/javascript" src="data/n/napisacwschod.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [napisacwschod](https://patronite.pl/napisacwschod)
+# [Napisać Wschód](https://patronite.pl/napisacwschod)
 
 ## Miesięczne wsparcie
 

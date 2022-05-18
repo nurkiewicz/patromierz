@@ -1,5 +1,5 @@
 ---
-title: matrik | Patromierz
+title: "matrik | Patromierz"
 permalink: /matrik
 ---
 
@@ -7,7 +7,7 @@ permalink: /matrik
 <script type="text/javascript" src="data/m/matrik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [matrik](https://patronite.pl/matrik)
+# [MATRIK](https://patronite.pl/matrik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: CobiExpert | Patromierz
+title: "CobiExpert | Patromierz"
 permalink: /CobiExpert
 ---
 
@@ -7,7 +7,7 @@ permalink: /CobiExpert
 <script type="text/javascript" src="data/c/CobiExpert.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CobiExpert](https://patronite.pl/CobiExpert)
+# [COBI Expert](https://patronite.pl/CobiExpert)
 
 ## Miesięczne wsparcie
 

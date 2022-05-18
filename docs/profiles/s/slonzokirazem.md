@@ -1,5 +1,5 @@
 ---
-title: slonzokirazem | Patromierz
+title: "slonzokirazem | Patromierz"
 permalink: /slonzokirazem
 ---
 
@@ -7,7 +7,7 @@ permalink: /slonzokirazem
 <script type="text/javascript" src="data/s/slonzokirazem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slonzokirazem](https://patronite.pl/slonzokirazem)
+# [Ślōnzŏki Razem - Młōdź](https://patronite.pl/slonzokirazem)
 
 ## Miesięczne wsparcie
 

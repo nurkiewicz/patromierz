@@ -1,5 +1,5 @@
 ---
-title: projektwzepolesila | Patromierz
+title: "projektwzepolesila | Patromierz"
 permalink: /projektwzepolesila
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektwzepolesila
 <script type="text/javascript" src="data/p/projektwzepolesila.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektwzepolesila](https://patronite.pl/projektwzepolesila)
+# [Projekt  W Zespole Siła ](https://patronite.pl/projektwzepolesila)
 
 ## Miesięczne wsparcie
 

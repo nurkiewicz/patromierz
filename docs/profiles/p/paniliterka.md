@@ -1,5 +1,5 @@
 ---
-title: paniliterka | Patromierz
+title: "paniliterka | Patromierz"
 permalink: /paniliterka
 ---
 
@@ -7,7 +7,7 @@ permalink: /paniliterka
 <script type="text/javascript" src="data/p/paniliterka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paniliterka](https://patronite.pl/paniliterka)
+# [pani.literka](https://patronite.pl/paniliterka)
 
 ## Miesięczne wsparcie
 

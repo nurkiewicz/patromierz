@@ -1,5 +1,5 @@
 ---
-title: pltutors | Patromierz
+title: "pltutors | Patromierz"
 permalink: /pltutors
 ---
 
@@ -7,7 +7,7 @@ permalink: /pltutors
 <script type="text/javascript" src="data/p/pltutors.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pltutors](https://patronite.pl/pltutors)
+# [PL Tutors ](https://patronite.pl/pltutors)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: tetmajer | Patromierz
+title: "tetmajer | Patromierz"
 permalink: /tetmajer
 ---
 
@@ -7,7 +7,7 @@ permalink: /tetmajer
 <script type="text/javascript" src="data/t/tetmajer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tetmajer](https://patronite.pl/tetmajer)
+# [Michał Przerwa-Tetmajer](https://patronite.pl/tetmajer)
 
 ## Miesięczne wsparcie
 

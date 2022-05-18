@@ -1,5 +1,5 @@
 ---
-title: wiolkaczurynska | Patromierz
+title: "wiolkaczurynska | Patromierz"
 permalink: /wiolkaczurynska
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiolkaczurynska
 <script type="text/javascript" src="data/w/wiolkaczurynska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiolkaczurynska](https://patronite.pl/wiolkaczurynska)
+# [Wiolka Czuryńska](https://patronite.pl/wiolkaczurynska)
 
 ## Miesięczne wsparcie
 

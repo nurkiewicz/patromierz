@@ -1,5 +1,5 @@
 ---
-title: imw | Patromierz
+title: "imw | Patromierz"
 permalink: /imw
 ---
 
@@ -7,7 +7,7 @@ permalink: /imw
 <script type="text/javascript" src="data/i/imw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [imw](https://patronite.pl/imw)
+# [Instytut Mieczysława Wajnberga](https://patronite.pl/imw)
 
 ## Miesięczne wsparcie
 

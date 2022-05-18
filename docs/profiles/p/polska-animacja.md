@@ -1,5 +1,5 @@
 ---
-title: polska-animacja | Patromierz
+title: "polska-animacja | Patromierz"
 permalink: /polska-animacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /polska-animacja
 <script type="text/javascript" src="data/p/polska-animacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polska-animacja](https://patronite.pl/polska-animacja)
+# [Piotr Kardas | Autorskie Festiwale Animacji: O!PLA, Rising of Lusitania](https://patronite.pl/polska-animacja)
 
 ## Miesięczne wsparcie
 

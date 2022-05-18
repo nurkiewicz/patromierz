@@ -1,5 +1,5 @@
 ---
-title: janauczyciel | Patromierz
+title: "janauczyciel | Patromierz"
 permalink: /janauczyciel
 ---
 
@@ -7,7 +7,7 @@ permalink: /janauczyciel
 <script type="text/javascript" src="data/j/janauczyciel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [janauczyciel](https://patronite.pl/janauczyciel)
+# [Fundacja Ja, Nauczyciel](https://patronite.pl/janauczyciel)
 
 ## Miesięczne wsparcie
 

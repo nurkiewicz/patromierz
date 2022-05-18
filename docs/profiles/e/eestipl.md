@@ -1,5 +1,5 @@
 ---
-title: eestipl | Patromierz
+title: "eestipl | Patromierz"
 permalink: /eestipl
 ---
 
@@ -7,7 +7,7 @@ permalink: /eestipl
 <script type="text/javascript" src="data/e/eestipl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eestipl](https://patronite.pl/eestipl)
+# [Portal estoński - Eesti.pl](https://patronite.pl/eestipl)
 
 ## Miesięczne wsparcie
 

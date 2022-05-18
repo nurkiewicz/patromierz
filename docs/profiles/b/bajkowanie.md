@@ -1,5 +1,5 @@
 ---
-title: bajkowanie | Patromierz
+title: "bajkowanie | Patromierz"
 permalink: /bajkowanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /bajkowanie
 <script type="text/javascript" src="data/b/bajkowanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bajkowanie](https://patronite.pl/bajkowanie)
+# [Bajkowanie](https://patronite.pl/bajkowanie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: rekografia | Patromierz
+title: "rekografia | Patromierz"
 permalink: /rekografia
 ---
 
@@ -7,7 +7,7 @@ permalink: /rekografia
 <script type="text/javascript" src="data/r/rekografia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rekografia](https://patronite.pl/rekografia)
+# [Rekografia](https://patronite.pl/rekografia)
 
 ## Miesięczne wsparcie
 

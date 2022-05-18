@@ -1,5 +1,5 @@
 ---
-title: BaldTV | Patromierz
+title: "BaldTV | Patromierz"
 permalink: /BaldTV
 ---
 

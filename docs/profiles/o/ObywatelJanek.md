@@ -1,5 +1,5 @@
 ---
-title: ObywatelJanek | Patromierz
+title: "ObywatelJanek | Patromierz"
 permalink: /ObywatelJanek
 ---
 
@@ -7,7 +7,7 @@ permalink: /ObywatelJanek
 <script type="text/javascript" src="data/o/ObywatelJanek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ObywatelJanek](https://patronite.pl/ObywatelJanek)
+# [Obywatel Janek](https://patronite.pl/ObywatelJanek)
 
 ## Miesięczne wsparcie
 

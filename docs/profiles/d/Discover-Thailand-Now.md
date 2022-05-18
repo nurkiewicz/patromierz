@@ -1,5 +1,5 @@
 ---
-title: Discover-Thailand-Now | Patromierz
+title: "Discover-Thailand-Now | Patromierz"
 permalink: /Discover-Thailand-Now
 ---
 
@@ -7,7 +7,7 @@ permalink: /Discover-Thailand-Now
 <script type="text/javascript" src="data/d/Discover-Thailand-Now.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Discover-Thailand-Now](https://patronite.pl/Discover-Thailand-Now)
+# [DISCOVER THAILAND NOW](https://patronite.pl/Discover-Thailand-Now)
 
 ## Miesięczne wsparcie
 

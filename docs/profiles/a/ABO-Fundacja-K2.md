@@ -1,5 +1,5 @@
 ---
-title: ABO-Fundacja-K2 | Patromierz
+title: "ABO-Fundacja-K2 | Patromierz"
 permalink: /ABO-Fundacja-K2
 ---
 
@@ -7,7 +7,7 @@ permalink: /ABO-Fundacja-K2
 <script type="text/javascript" src="data/a/ABO-Fundacja-K2.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ABO-Fundacja-K2](https://patronite.pl/ABO-Fundacja-K2)
+# [Akademia Bezpieczeństwa Osobistego](https://patronite.pl/ABO-Fundacja-K2)
 
 ## Miesięczne wsparcie
 

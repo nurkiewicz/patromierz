@@ -1,5 +1,5 @@
 ---
-title: TerazGoldap | Patromierz
+title: "TerazGoldap | Patromierz"
 permalink: /TerazGoldap
 ---
 
@@ -7,7 +7,7 @@ permalink: /TerazGoldap
 <script type="text/javascript" src="data/t/TerazGoldap.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TerazGoldap](https://patronite.pl/TerazGoldap)
+# [TerazGoldap.pl](https://patronite.pl/TerazGoldap)
 
 ## Miesięczne wsparcie
 

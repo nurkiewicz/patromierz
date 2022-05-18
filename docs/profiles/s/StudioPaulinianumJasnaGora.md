@@ -1,5 +1,5 @@
 ---
-title: StudioPaulinianumJasnaGora | Patromierz
+title: "StudioPaulinianumJasnaGora | Patromierz"
 permalink: /StudioPaulinianumJasnaGora
 ---
 
@@ -7,7 +7,7 @@ permalink: /StudioPaulinianumJasnaGora
 <script type="text/javascript" src="data/s/StudioPaulinianumJasnaGora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StudioPaulinianumJasnaGora](https://patronite.pl/StudioPaulinianumJasnaGora)
+# [Wydawnictwo i Studio Paulinianum z Jasnej Góry](https://patronite.pl/StudioPaulinianumJasnaGora)
 
 ## Miesięczne wsparcie
 

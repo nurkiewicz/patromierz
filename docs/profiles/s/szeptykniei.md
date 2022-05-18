@@ -1,5 +1,5 @@
 ---
-title: szeptykniei | Patromierz
+title: "szeptykniei | Patromierz"
 permalink: /szeptykniei
 ---
 
@@ -7,7 +7,7 @@ permalink: /szeptykniei
 <script type="text/javascript" src="data/s/szeptykniei.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szeptykniei](https://patronite.pl/szeptykniei)
+# [Sebastian Czeremcha](https://patronite.pl/szeptykniei)
 
 ## Miesięczne wsparcie
 

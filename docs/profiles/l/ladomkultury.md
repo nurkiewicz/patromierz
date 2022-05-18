@@ -1,5 +1,5 @@
 ---
-title: ladomkultury | Patromierz
+title: "ladomkultury | Patromierz"
 permalink: /ladomkultury
 ---
 
@@ -7,7 +7,7 @@ permalink: /ladomkultury
 <script type="text/javascript" src="data/l/ladomkultury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ladomkultury](https://patronite.pl/ladomkultury)
+# [Ladom Kultury](https://patronite.pl/ladomkultury)
 
 ## Miesięczne wsparcie
 

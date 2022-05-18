@@ -1,5 +1,5 @@
 ---
-title: zachiny | Patromierz
+title: "zachiny | Patromierz"
 permalink: /zachiny
 ---
 
@@ -7,7 +7,7 @@ permalink: /zachiny
 <script type="text/javascript" src="data/z/zachiny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zachiny](https://patronite.pl/zachiny)
+# [ZA CHINY & Damian Chen](https://patronite.pl/zachiny)
 
 ## Miesięczne wsparcie
 

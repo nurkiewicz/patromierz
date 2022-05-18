@@ -1,5 +1,5 @@
 ---
-title: Dredu | Patromierz
+title: "Dredu | Patromierz"
 permalink: /Dredu
 ---
 

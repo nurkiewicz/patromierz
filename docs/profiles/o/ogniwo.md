@@ -1,5 +1,5 @@
 ---
-title: ogniwo | Patromierz
+title: "ogniwo | Patromierz"
 permalink: /ogniwo
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogniwo
 <script type="text/javascript" src="data/o/ogniwo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogniwo](https://patronite.pl/ogniwo)
+# [Spółdzielnia Ogniwo ](https://patronite.pl/ogniwo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: waznepodcast | Patromierz
+title: "waznepodcast | Patromierz"
 permalink: /waznepodcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /waznepodcast
 <script type="text/javascript" src="data/w/waznepodcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [waznepodcast](https://patronite.pl/waznepodcast)
+# [Dominika Klimek - #ważne podcast](https://patronite.pl/waznepodcast)
 
 ## Miesięczne wsparcie
 

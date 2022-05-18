@@ -1,5 +1,5 @@
 ---
-title: marcinchmielowski | Patromierz
+title: "marcinchmielowski | Patromierz"
 permalink: /marcinchmielowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /marcinchmielowski
 <script type="text/javascript" src="data/m/marcinchmielowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marcinchmielowski](https://patronite.pl/marcinchmielowski)
+# [Przedsiębiorca idei. Podcast Marcina Chmielowskiego](https://patronite.pl/marcinchmielowski)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Mroux | Patromierz
+title: "Mroux | Patromierz"
 permalink: /Mroux
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mroux
 <script type="text/javascript" src="data/m/Mroux.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mroux](https://patronite.pl/Mroux)
+# [Mroux ](https://patronite.pl/Mroux)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: qwitu | Patromierz
+title: "qwitu | Patromierz"
 permalink: /qwitu
 ---
 
@@ -7,7 +7,7 @@ permalink: /qwitu
 <script type="text/javascript" src="data/q/qwitu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [qwitu](https://patronite.pl/qwitu)
+# [Psychiczne Pojednanie](https://patronite.pl/qwitu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: pozegnanie | Patromierz
+title: "pozegnanie | Patromierz"
 permalink: /pozegnanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /pozegnanie
 <script type="text/javascript" src="data/p/pozegnanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pozegnanie](https://patronite.pl/pozegnanie)
+# [Pożegnanie Białego Wilka](https://patronite.pl/pozegnanie)
 
 ## Miesięczne wsparcie
 

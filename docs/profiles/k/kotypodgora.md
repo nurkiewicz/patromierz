@@ -1,5 +1,5 @@
 ---
-title: kotypodgora | Patromierz
+title: "kotypodgora | Patromierz"
 permalink: /kotypodgora
 ---
 
@@ -7,7 +7,7 @@ permalink: /kotypodgora
 <script type="text/javascript" src="data/k/kotypodgora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kotypodgora](https://patronite.pl/kotypodgora)
+# [Koty pod Górą](https://patronite.pl/kotypodgora)
 
 ## Miesięczne wsparcie
 

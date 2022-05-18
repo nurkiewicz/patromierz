@@ -1,5 +1,5 @@
 ---
-title: ScienceWatchPolska | Patromierz
+title: "ScienceWatchPolska | Patromierz"
 permalink: /ScienceWatchPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /ScienceWatchPolska
 <script type="text/javascript" src="data/s/ScienceWatchPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ScienceWatchPolska](https://patronite.pl/ScienceWatchPolska)
+# [Fundacja Science Watch Polska](https://patronite.pl/ScienceWatchPolska)
 
 ## Miesięczne wsparcie
 

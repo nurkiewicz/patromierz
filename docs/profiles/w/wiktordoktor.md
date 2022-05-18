@@ -1,5 +1,5 @@
 ---
-title: wiktordoktor | Patromierz
+title: "wiktordoktor | Patromierz"
 permalink: /wiktordoktor
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiktordoktor
 <script type="text/javascript" src="data/w/wiktordoktor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiktordoktor](https://patronite.pl/wiktordoktor)
+# [Wiktor Doktór](https://patronite.pl/wiktordoktor)
 
 ## Miesięczne wsparcie
 

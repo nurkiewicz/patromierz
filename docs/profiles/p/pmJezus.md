@@ -1,5 +1,5 @@
 ---
-title: pmJezus | Patromierz
+title: "pmJezus | Patromierz"
 permalink: /pmJezus
 ---
 
@@ -7,7 +7,7 @@ permalink: /pmJezus
 <script type="text/javascript" src="data/p/pmJezus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pmJezus](https://patronite.pl/pmJezus)
+# [Robert Skassa Prowadzi Mnie Jezus](https://patronite.pl/pmJezus)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ASG-Olsztyn | Patromierz
+title: "ASG-Olsztyn | Patromierz"
 permalink: /ASG-Olsztyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /ASG-Olsztyn
 <script type="text/javascript" src="data/a/ASG-Olsztyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ASG-Olsztyn](https://patronite.pl/ASG-Olsztyn)
+# [Adam Ulatowski](https://patronite.pl/ASG-Olsztyn)
 
 ## Miesięczne wsparcie
 

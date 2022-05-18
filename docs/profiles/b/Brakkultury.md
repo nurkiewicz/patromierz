@@ -1,5 +1,5 @@
 ---
-title: Brakkultury | Patromierz
+title: "Brakkultury | Patromierz"
 permalink: /Brakkultury
 ---
 
@@ -7,7 +7,7 @@ permalink: /Brakkultury
 <script type="text/javascript" src="data/b/Brakkultury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Brakkultury](https://patronite.pl/Brakkultury)
+# [Brak Kultury by snp](https://patronite.pl/Brakkultury)
 
 ## Miesięczne wsparcie
 

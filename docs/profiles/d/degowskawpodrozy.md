@@ -1,5 +1,5 @@
 ---
-title: degowskawpodrozy | Patromierz
+title: "degowskawpodrozy | Patromierz"
 permalink: /degowskawpodrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /degowskawpodrozy
 <script type="text/javascript" src="data/d/degowskawpodrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [degowskawpodrozy](https://patronite.pl/degowskawpodrozy)
+# [Degowska w Podróży ](https://patronite.pl/degowskawpodrozy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ZewOceanu | Patromierz
+title: "ZewOceanu | Patromierz"
 permalink: /ZewOceanu
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZewOceanu
 <script type="text/javascript" src="data/z/ZewOceanu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZewOceanu](https://patronite.pl/ZewOceanu)
+# [Zew Oceanu - dookoła świata, raz jeszcze](https://patronite.pl/ZewOceanu)
 
 ## Miesięczne wsparcie
 

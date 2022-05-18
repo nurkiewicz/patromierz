@@ -1,5 +1,5 @@
 ---
-title: animacreate | Patromierz
+title: "animacreate | Patromierz"
 permalink: /animacreate
 ---
 
@@ -7,7 +7,7 @@ permalink: /animacreate
 <script type="text/javascript" src="data/a/animacreate.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [animacreate](https://patronite.pl/animacreate)
+# [Anima create](https://patronite.pl/animacreate)
 
 ## Miesięczne wsparcie
 

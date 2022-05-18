@@ -1,5 +1,5 @@
 ---
-title: piotrzylka | Patromierz
+title: "piotrzylka | Patromierz"
 permalink: /piotrzylka
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrzylka
 <script type="text/javascript" src="data/p/piotrzylka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrzylka](https://patronite.pl/piotrzylka)
+# [Piotr Żyłka](https://patronite.pl/piotrzylka)
 
 ## Miesięczne wsparcie
 

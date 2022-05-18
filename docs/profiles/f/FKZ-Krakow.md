@@ -1,5 +1,5 @@
 ---
-title: FKZ-Krakow | Patromierz
+title: "FKZ-Krakow | Patromierz"
 permalink: /FKZ-Krakow
 ---
 
@@ -7,7 +7,7 @@ permalink: /FKZ-Krakow
 <script type="text/javascript" src="data/f/FKZ-Krakow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FKZ-Krakow](https://patronite.pl/FKZ-Krakow)
+# [Festiwal Kultury Żydowskiej w Krakowie](https://patronite.pl/FKZ-Krakow)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zupanapietrynie | Patromierz
+title: "zupanapietrynie | Patromierz"
 permalink: /zupanapietrynie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zupanapietrynie
 <script type="text/javascript" src="data/z/zupanapietrynie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zupanapietrynie](https://patronite.pl/zupanapietrynie)
+# [Zupa Na Pietrynie](https://patronite.pl/zupanapietrynie)
 
 ## Miesięczne wsparcie
 

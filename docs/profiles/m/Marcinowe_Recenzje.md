@@ -1,5 +1,5 @@
 ---
-title: Marcinowe_Recenzje | Patromierz
+title: "Marcinowe_Recenzje | Patromierz"
 permalink: /Marcinowe_Recenzje
 ---
 
@@ -7,7 +7,7 @@ permalink: /Marcinowe_Recenzje
 <script type="text/javascript" src="data/m/Marcinowe_Recenzje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Marcinowe_Recenzje](https://patronite.pl/Marcinowe_Recenzje)
+# [Marcinowe Recenzje](https://patronite.pl/Marcinowe_Recenzje)
 
 ## Miesięczne wsparcie
 

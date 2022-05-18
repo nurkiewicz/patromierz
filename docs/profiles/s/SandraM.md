@@ -1,5 +1,5 @@
 ---
-title: SandraM | Patromierz
+title: "SandraM | Patromierz"
 permalink: /SandraM
 ---
 
@@ -7,7 +7,7 @@ permalink: /SandraM
 <script type="text/javascript" src="data/s/SandraM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SandraM](https://patronite.pl/SandraM)
+# [Sandra M](https://patronite.pl/SandraM)
 
 ## Miesięczne wsparcie
 

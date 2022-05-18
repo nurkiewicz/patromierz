@@ -1,5 +1,5 @@
 ---
-title: Magiaumyslu | Patromierz
+title: "Magiaumyslu | Patromierz"
 permalink: /Magiaumyslu
 ---
 
@@ -7,7 +7,7 @@ permalink: /Magiaumyslu
 <script type="text/javascript" src="data/m/Magiaumyslu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Magiaumyslu](https://patronite.pl/Magiaumyslu)
+# [Karolina Borowiec](https://patronite.pl/Magiaumyslu)
 
 ## Miesięczne wsparcie
 

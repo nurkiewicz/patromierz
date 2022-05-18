@@ -1,5 +1,5 @@
 ---
-title: jednymsercem | Patromierz
+title: "jednymsercem | Patromierz"
 permalink: /jednymsercem
 ---
 
@@ -7,7 +7,7 @@ permalink: /jednymsercem
 <script type="text/javascript" src="data/j/jednymsercem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jednymsercem](https://patronite.pl/jednymsercem)
+# [Jednym Sercem](https://patronite.pl/jednymsercem)
 
 ## Miesięczne wsparcie
 

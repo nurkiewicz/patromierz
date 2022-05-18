@@ -1,5 +1,5 @@
 ---
-title: ambasada | Patromierz
+title: "ambasada | Patromierz"
 permalink: /ambasada
 ---
 
@@ -7,7 +7,7 @@ permalink: /ambasada
 <script type="text/javascript" src="data/a/ambasada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ambasada](https://patronite.pl/ambasada)
+# [Ambasada Krakowian](https://patronite.pl/ambasada)
 
 ## Miesięczne wsparcie
 

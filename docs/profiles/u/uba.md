@@ -1,5 +1,5 @@
 ---
-title: uba | Patromierz
+title: "uba | Patromierz"
 permalink: /uba
 ---
 
@@ -7,7 +7,7 @@ permalink: /uba
 <script type="text/javascript" src="data/u/uba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [uba](https://patronite.pl/uba)
+# [Zaneta Uba](https://patronite.pl/uba)
 
 ## Miesięczne wsparcie
 

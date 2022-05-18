@@ -1,5 +1,5 @@
 ---
-title: kanaldarterski | Patromierz
+title: "kanaldarterski | Patromierz"
 permalink: /kanaldarterski
 ---
 
@@ -7,7 +7,7 @@ permalink: /kanaldarterski
 <script type="text/javascript" src="data/k/kanaldarterski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kanaldarterski](https://patronite.pl/kanaldarterski)
+# [KANAŁ DARTERSKI](https://patronite.pl/kanaldarterski)
 
 ## Miesięczne wsparcie
 

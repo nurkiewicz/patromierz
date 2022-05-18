@@ -1,5 +1,5 @@
 ---
-title: autostopowawrona | Patromierz
+title: "autostopowawrona | Patromierz"
 permalink: /autostopowawrona
 ---
 
@@ -7,7 +7,7 @@ permalink: /autostopowawrona
 <script type="text/javascript" src="data/a/autostopowawrona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [autostopowawrona](https://patronite.pl/autostopowawrona)
+# [Autostopowa Wrona](https://patronite.pl/autostopowawrona)
 
 ## Miesięczne wsparcie
 

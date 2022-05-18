@@ -1,5 +1,5 @@
 ---
-title: gravityrevolt | Patromierz
+title: "gravityrevolt | Patromierz"
 permalink: /gravityrevolt
 ---
 
@@ -7,7 +7,7 @@ permalink: /gravityrevolt
 <script type="text/javascript" src="data/g/gravityrevolt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gravityrevolt](https://patronite.pl/gravityrevolt)
+# [Gravity Revolt](https://patronite.pl/gravityrevolt)
 
 ## Miesięczne wsparcie
 

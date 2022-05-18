@@ -1,5 +1,5 @@
 ---
-title: lubomirwisniowa | Patromierz
+title: "lubomirwisniowa | Patromierz"
 permalink: /lubomirwisniowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /lubomirwisniowa
 <script type="text/javascript" src="data/l/lubomirwisniowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lubomirwisniowa](https://patronite.pl/lubomirwisniowa)
+# [Lubomir Wiśniowa - sekcja kobiet](https://patronite.pl/lubomirwisniowa)
 
 ## Miesięczne wsparcie
 

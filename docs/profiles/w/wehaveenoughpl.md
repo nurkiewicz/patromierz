@@ -1,5 +1,5 @@
 ---
-title: wehaveenoughpl | Patromierz
+title: "wehaveenoughpl | Patromierz"
 permalink: /wehaveenoughpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /wehaveenoughpl
 <script type="text/javascript" src="data/w/wehaveenoughpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wehaveenoughpl](https://patronite.pl/wehaveenoughpl)
+# [WE HAVE ENOUGH](https://patronite.pl/wehaveenoughpl)
 
 ## Miesięczne wsparcie
 

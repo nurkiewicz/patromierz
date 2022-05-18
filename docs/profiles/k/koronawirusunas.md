@@ -1,5 +1,5 @@
 ---
-title: koronawirusunas | Patromierz
+title: "koronawirusunas | Patromierz"
 permalink: /koronawirusunas
 ---
 
@@ -7,7 +7,7 @@ permalink: /koronawirusunas
 <script type="text/javascript" src="data/k/koronawirusunas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koronawirusunas](https://patronite.pl/koronawirusunas)
+# [Koronawirusunas.pl](https://patronite.pl/koronawirusunas)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BractwoMorza | Patromierz
+title: "BractwoMorza | Patromierz"
 permalink: /BractwoMorza
 ---
 
@@ -7,7 +7,7 @@ permalink: /BractwoMorza
 <script type="text/javascript" src="data/b/BractwoMorza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BractwoMorza](https://patronite.pl/BractwoMorza)
+# [Bractwo Morza](https://patronite.pl/BractwoMorza)
 
 ## Miesięczne wsparcie
 

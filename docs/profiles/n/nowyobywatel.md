@@ -1,5 +1,5 @@
 ---
-title: nowyobywatel | Patromierz
+title: "nowyobywatel | Patromierz"
 permalink: /nowyobywatel
 ---
 
@@ -7,7 +7,7 @@ permalink: /nowyobywatel
 <script type="text/javascript" src="data/n/nowyobywatel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nowyobywatel](https://patronite.pl/nowyobywatel)
+# [Kwartalnik „Nowy Obywatel” – pismo na rzecz sprawiedliwości społecznej](https://patronite.pl/nowyobywatel)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: tawerna-rpg | Patromierz
+title: "tawerna-rpg | Patromierz"
 permalink: /tawerna-rpg
 ---
 
@@ -7,7 +7,7 @@ permalink: /tawerna-rpg
 <script type="text/javascript" src="data/t/tawerna-rpg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tawerna-rpg](https://patronite.pl/tawerna-rpg)
+# [Tawerna Sesje RPG](https://patronite.pl/tawerna-rpg)
 
 ## Miesięczne wsparcie
 

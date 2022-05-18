@@ -1,5 +1,5 @@
 ---
-title: muzykaetniczna | Patromierz
+title: "muzykaetniczna | Patromierz"
 permalink: /muzykaetniczna
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzykaetniczna
 <script type="text/javascript" src="data/m/muzykaetniczna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzykaetniczna](https://patronite.pl/muzykaetniczna)
+# [Muzyka etniczna](https://patronite.pl/muzykaetniczna)
 
 ## Miesięczne wsparcie
 

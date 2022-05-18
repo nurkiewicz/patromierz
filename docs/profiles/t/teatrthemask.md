@@ -1,5 +1,5 @@
 ---
-title: teatrthemask | Patromierz
+title: "teatrthemask | Patromierz"
 permalink: /teatrthemask
 ---
 
@@ -7,7 +7,7 @@ permalink: /teatrthemask
 <script type="text/javascript" src="data/t/teatrthemask.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teatrthemask](https://patronite.pl/teatrthemask)
+# [Teatr The M.A.S.K.](https://patronite.pl/teatrthemask)
 
 ## Miesięczne wsparcie
 

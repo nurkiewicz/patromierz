@@ -1,5 +1,5 @@
 ---
-title: pisarz7 | Patromierz
+title: "pisarz7 | Patromierz"
 permalink: /pisarz7
 ---
 
@@ -7,7 +7,7 @@ permalink: /pisarz7
 <script type="text/javascript" src="data/p/pisarz7.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pisarz7](https://patronite.pl/pisarz7)
+# [Davey - Kryminalnie ](https://patronite.pl/pisarz7)
 
 ## Miesięczne wsparcie
 

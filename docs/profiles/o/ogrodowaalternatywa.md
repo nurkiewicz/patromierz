@@ -1,5 +1,5 @@
 ---
-title: ogrodowaalternatywa | Patromierz
+title: "ogrodowaalternatywa | Patromierz"
 permalink: /ogrodowaalternatywa
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogrodowaalternatywa
 <script type="text/javascript" src="data/o/ogrodowaalternatywa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogrodowaalternatywa](https://patronite.pl/ogrodowaalternatywa)
+# [Ogrodowa Alternatywa](https://patronite.pl/ogrodowaalternatywa)
 
 ## Miesięczne wsparcie
 

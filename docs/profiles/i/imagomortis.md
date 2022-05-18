@@ -1,5 +1,5 @@
 ---
-title: imagomortis | Patromierz
+title: "imagomortis | Patromierz"
 permalink: /imagomortis
 ---
 
@@ -7,7 +7,7 @@ permalink: /imagomortis
 <script type="text/javascript" src="data/i/imagomortis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [imagomortis](https://patronite.pl/imagomortis)
+# [Imago Mortis](https://patronite.pl/imagomortis)
 
 ## Miesięczne wsparcie
 

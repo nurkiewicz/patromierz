@@ -1,5 +1,5 @@
 ---
-title: MuzykaRelaksacyjna | Patromierz
+title: "MuzykaRelaksacyjna | Patromierz"
 permalink: /MuzykaRelaksacyjna
 ---
 
@@ -7,7 +7,7 @@ permalink: /MuzykaRelaksacyjna
 <script type="text/javascript" src="data/m/MuzykaRelaksacyjna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MuzykaRelaksacyjna](https://patronite.pl/MuzykaRelaksacyjna)
+# [Muzyka Relaksacyjna](https://patronite.pl/MuzykaRelaksacyjna)
 
 ## Miesięczne wsparcie
 

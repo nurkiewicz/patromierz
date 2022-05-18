@@ -1,5 +1,5 @@
 ---
-title: wcisnijstart | Patromierz
+title: "wcisnijstart | Patromierz"
 permalink: /wcisnijstart
 ---
 
@@ -7,7 +7,7 @@ permalink: /wcisnijstart
 <script type="text/javascript" src="data/w/wcisnijstart.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wcisnijstart](https://patronite.pl/wcisnijstart)
+# [Wciśnij Start](https://patronite.pl/wcisnijstart)
 
 ## Miesięczne wsparcie
 

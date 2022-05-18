@@ -1,5 +1,5 @@
 ---
-title: sbuturla | Patromierz
+title: "sbuturla | Patromierz"
 permalink: /sbuturla
 ---
 
@@ -7,7 +7,7 @@ permalink: /sbuturla
 <script type="text/javascript" src="data/s/sbuturla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sbuturla](https://patronite.pl/sbuturla)
+# [tyskiflesz.pl](https://patronite.pl/sbuturla)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kampermaniak | Patromierz
+title: "kampermaniak | Patromierz"
 permalink: /kampermaniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /kampermaniak
 <script type="text/javascript" src="data/k/kampermaniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kampermaniak](https://patronite.pl/kampermaniak)
+# [KamperManiak](https://patronite.pl/kampermaniak)
 
 ## Miesięczne wsparcie
 

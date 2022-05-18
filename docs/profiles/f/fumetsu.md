@@ -1,5 +1,5 @@
 ---
-title: fumetsu | Patromierz
+title: "fumetsu | Patromierz"
 permalink: /fumetsu
 ---
 
@@ -7,7 +7,7 @@ permalink: /fumetsu
 <script type="text/javascript" src="data/f/fumetsu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fumetsu](https://patronite.pl/fumetsu)
+# [Fumetsu Subs](https://patronite.pl/fumetsu)
 
 ## Miesięczne wsparcie
 

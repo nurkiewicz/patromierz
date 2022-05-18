@@ -1,5 +1,5 @@
 ---
-title: rapnau | Patromierz
+title: "rapnau | Patromierz"
 permalink: /rapnau
 ---
 
@@ -7,7 +7,7 @@ permalink: /rapnau
 <script type="text/javascript" src="data/r/rapnau.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rapnau](https://patronite.pl/rapnau)
+# [RAPNAU](https://patronite.pl/rapnau)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: proanima | Patromierz
+title: "proanima | Patromierz"
 permalink: /proanima
 ---
 
@@ -7,7 +7,7 @@ permalink: /proanima
 <script type="text/javascript" src="data/p/proanima.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [proanima](https://patronite.pl/proanima)
+# [Proanima.pl](https://patronite.pl/proanima)
 
 ## Miesięczne wsparcie
 

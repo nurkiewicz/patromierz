@@ -1,5 +1,5 @@
 ---
-title: agnieszkakowalska | Patromierz
+title: "agnieszkakowalska | Patromierz"
 permalink: /agnieszkakowalska
 ---
 
@@ -7,7 +7,7 @@ permalink: /agnieszkakowalska
 <script type="text/javascript" src="data/a/agnieszkakowalska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agnieszkakowalska](https://patronite.pl/agnieszkakowalska)
+# [Agnieszka Kowalska](https://patronite.pl/agnieszkakowalska)
 
 ## Miesięczne wsparcie
 

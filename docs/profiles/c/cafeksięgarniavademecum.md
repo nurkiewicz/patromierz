@@ -1,5 +1,5 @@
 ---
-title: cafeksięgarniavademecum | Patromierz
+title: "cafeksięgarniavademecum | Patromierz"
 permalink: /cafeksięgarniavademecum
 ---
 
@@ -7,7 +7,7 @@ permalink: /cafeksięgarniavademecum
 <script type="text/javascript" src="data/c/cafeksięgarniavademecum.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cafeksięgarniavademecum](https://patronite.pl/cafeksięgarniavademecum)
+# [Cafe Księgarnia Vademecum](https://patronite.pl/cafeksięgarniavademecum)
 
 ## Miesięczne wsparcie
 

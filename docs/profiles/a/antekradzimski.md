@@ -1,5 +1,5 @@
 ---
-title: antekradzimski | Patromierz
+title: "antekradzimski | Patromierz"
 permalink: /antekradzimski
 ---
 
@@ -7,7 +7,7 @@ permalink: /antekradzimski
 <script type="text/javascript" src="data/a/antekradzimski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [antekradzimski](https://patronite.pl/antekradzimski)
+# [Antek Radzimski](https://patronite.pl/antekradzimski)
 
 ## Miesięczne wsparcie
 

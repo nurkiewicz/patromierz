@@ -1,5 +1,5 @@
 ---
-title: pogodawstolicy | Patromierz
+title: "pogodawstolicy | Patromierz"
 permalink: /pogodawstolicy
 ---
 
@@ -7,7 +7,7 @@ permalink: /pogodawstolicy
 <script type="text/javascript" src="data/p/pogodawstolicy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pogodawstolicy](https://patronite.pl/pogodawstolicy)
+# [Krzysztof Piasecki](https://patronite.pl/pogodawstolicy)
 
 ## Miesięczne wsparcie
 

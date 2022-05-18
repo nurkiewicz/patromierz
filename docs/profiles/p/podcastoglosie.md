@@ -1,5 +1,5 @@
 ---
-title: podcastoglosie | Patromierz
+title: "podcastoglosie | Patromierz"
 permalink: /podcastoglosie
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastoglosie
 <script type="text/javascript" src="data/p/podcastoglosie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastoglosie](https://patronite.pl/podcastoglosie)
+# [Monika Adamska](https://patronite.pl/podcastoglosie)
 
 ## Miesięczne wsparcie
 

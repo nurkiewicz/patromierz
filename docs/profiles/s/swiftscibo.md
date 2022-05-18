@@ -1,5 +1,5 @@
 ---
-title: swiftscibo | Patromierz
+title: "swiftscibo | Patromierz"
 permalink: /swiftscibo
 ---
 
@@ -7,7 +7,7 @@ permalink: /swiftscibo
 <script type="text/javascript" src="data/s/swiftscibo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swiftscibo](https://patronite.pl/swiftscibo)
+# [Swiftscribo](https://patronite.pl/swiftscibo)
 
 ## Miesięczne wsparcie
 

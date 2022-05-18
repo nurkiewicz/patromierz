@@ -1,5 +1,5 @@
 ---
-title: KaizenMiracle | Patromierz
+title: "KaizenMiracle | Patromierz"
 permalink: /KaizenMiracle
 ---
 
@@ -7,7 +7,7 @@ permalink: /KaizenMiracle
 <script type="text/javascript" src="data/k/KaizenMiracle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KaizenMiracle](https://patronite.pl/KaizenMiracle)
+# [Podcast Kaizen Miracle](https://patronite.pl/KaizenMiracle)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SzeptyLasu | Patromierz
+title: "SzeptyLasu | Patromierz"
 permalink: /SzeptyLasu
 ---
 
@@ -7,7 +7,7 @@ permalink: /SzeptyLasu
 <script type="text/javascript" src="data/s/SzeptyLasu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SzeptyLasu](https://patronite.pl/SzeptyLasu)
+# [Szepty Lasu](https://patronite.pl/SzeptyLasu)
 
 ## Miesięczne wsparcie
 

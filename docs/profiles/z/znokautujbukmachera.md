@@ -1,5 +1,5 @@
 ---
-title: znokautujbukmachera | Patromierz
+title: "znokautujbukmachera | Patromierz"
 permalink: /znokautujbukmachera
 ---
 
@@ -7,7 +7,7 @@ permalink: /znokautujbukmachera
 <script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znokautujbukmachera](https://patronite.pl/znokautujbukmachera)
+# [Znokautuj bukmachera](https://patronite.pl/znokautujbukmachera)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: absurdalny | Patromierz
+title: "absurdalny | Patromierz"
 permalink: /absurdalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /absurdalny
 <script type="text/javascript" src="data/a/absurdalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [absurdalny](https://patronite.pl/absurdalny)
+# [Człowiek Absurdalny](https://patronite.pl/absurdalny)
 
 ## Miesięczne wsparcie
 

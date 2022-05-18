@@ -1,5 +1,5 @@
 ---
-title: annabudnik | Patromierz
+title: "annabudnik | Patromierz"
 permalink: /annabudnik
 ---
 
@@ -7,7 +7,7 @@ permalink: /annabudnik
 <script type="text/javascript" src="data/a/annabudnik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annabudnik](https://patronite.pl/annabudnik)
+# [czułostan - Psychodietetyka Anna Budnik](https://patronite.pl/annabudnik)
 
 ## Miesięczne wsparcie
 

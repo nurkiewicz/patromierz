@@ -1,5 +1,5 @@
 ---
-title: TardisTheToyRadgor182 | Patromierz
+title: "TardisTheToyRadgor182 | Patromierz"
 permalink: /TardisTheToyRadgor182
 ---
 
@@ -7,7 +7,7 @@ permalink: /TardisTheToyRadgor182
 <script type="text/javascript" src="data/t/TardisTheToyRadgor182.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TardisTheToyRadgor182](https://patronite.pl/TardisTheToyRadgor182)
+# [Radgor182/TARDIS the Toy](https://patronite.pl/TardisTheToyRadgor182)
 
 ## Miesięczne wsparcie
 

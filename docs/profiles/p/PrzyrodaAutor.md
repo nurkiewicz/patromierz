@@ -1,5 +1,5 @@
 ---
-title: PrzyrodaAutor | Patromierz
+title: "PrzyrodaAutor | Patromierz"
 permalink: /PrzyrodaAutor
 ---
 
@@ -7,7 +7,7 @@ permalink: /PrzyrodaAutor
 <script type="text/javascript" src="data/p/PrzyrodaAutor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PrzyrodaAutor](https://patronite.pl/PrzyrodaAutor)
+# [Leśny Kawaler](https://patronite.pl/PrzyrodaAutor)
 
 ## Miesięczne wsparcie
 

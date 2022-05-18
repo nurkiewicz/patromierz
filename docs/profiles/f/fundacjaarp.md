@@ -1,5 +1,5 @@
 ---
-title: fundacjaarp | Patromierz
+title: "fundacjaarp | Patromierz"
 permalink: /fundacjaarp
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaarp
 <script type="text/javascript" src="data/f/fundacjaarp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaarp](https://patronite.pl/fundacjaarp)
+# [Fundacja Animal Rescue Poland](https://patronite.pl/fundacjaarp)
 
 ## Miesięczne wsparcie
 

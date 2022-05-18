@@ -1,5 +1,5 @@
 ---
-title: wiedzmi_las | Patromierz
+title: "wiedzmi_las | Patromierz"
 permalink: /wiedzmi_las
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiedzmi_las
 <script type="text/javascript" src="data/w/wiedzmi_las.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiedzmi_las](https://patronite.pl/wiedzmi_las)
+# [Wiedźmi Las](https://patronite.pl/wiedzmi_las)
 
 ## Miesięczne wsparcie
 

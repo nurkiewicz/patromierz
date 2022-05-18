@@ -1,5 +1,5 @@
 ---
-title: joannajoasia | Patromierz
+title: "joannajoasia | Patromierz"
 permalink: /joannajoasia
 ---
 
@@ -7,7 +7,7 @@ permalink: /joannajoasia
 <script type="text/javascript" src="data/j/joannajoasia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [joannajoasia](https://patronite.pl/joannajoasia)
+# [Joanna Płonka - muzycznie](https://patronite.pl/joannajoasia)
 
 ## Miesięczne wsparcie
 

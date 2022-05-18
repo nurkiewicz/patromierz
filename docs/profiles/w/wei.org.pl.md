@@ -1,5 +1,5 @@
 ---
-title: wei.org.pl | Patromierz
+title: "wei.org.pl | Patromierz"
 permalink: /wei.org.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /wei.org.pl
 <script type="text/javascript" src="data/w/wei.org.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wei.org.pl](https://patronite.pl/wei.org.pl)
+# [Warsaw Enterprise Insitutue](https://patronite.pl/wei.org.pl)
 
 ## Miesięczne wsparcie
 

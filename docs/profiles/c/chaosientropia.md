@@ -1,5 +1,5 @@
 ---
-title: chaosientropia | Patromierz
+title: "chaosientropia | Patromierz"
 permalink: /chaosientropia
 ---
 
@@ -7,7 +7,7 @@ permalink: /chaosientropia
 <script type="text/javascript" src="data/c/chaosientropia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chaosientropia](https://patronite.pl/chaosientropia)
+# [Chaos i Entropia](https://patronite.pl/chaosientropia)
 
 ## Miesięczne wsparcie
 

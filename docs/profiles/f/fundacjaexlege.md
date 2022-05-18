@@ -1,5 +1,5 @@
 ---
-title: fundacjaexlege | Patromierz
+title: "fundacjaexlege | Patromierz"
 permalink: /fundacjaexlege
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaexlege
 <script type="text/javascript" src="data/f/fundacjaexlege.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaexlege](https://patronite.pl/fundacjaexlege)
+# [Fundacja EX LEGE](https://patronite.pl/fundacjaexlege)
 
 ## Miesięczne wsparcie
 

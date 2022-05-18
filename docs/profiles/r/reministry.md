@@ -1,5 +1,5 @@
 ---
-title: reministry | Patromierz
+title: "reministry | Patromierz"
 permalink: /reministry
 ---
 
@@ -7,7 +7,7 @@ permalink: /reministry
 <script type="text/javascript" src="data/r/reministry.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [reministry](https://patronite.pl/reministry)
+# [Radek i Ela Siewniak](https://patronite.pl/reministry)
 
 ## Miesięczne wsparcie
 

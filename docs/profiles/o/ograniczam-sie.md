@@ -1,5 +1,5 @@
 ---
-title: ograniczam-sie | Patromierz
+title: "ograniczam-sie | Patromierz"
 permalink: /ograniczam-sie
 ---
 
@@ -7,7 +7,7 @@ permalink: /ograniczam-sie
 <script type="text/javascript" src="data/o/ograniczam-sie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ograniczam-sie](https://patronite.pl/ograniczam-sie)
+# [Ograniczam Się Kasia Wągrowska](https://patronite.pl/ograniczam-sie)
 
 ## Miesięczne wsparcie
 

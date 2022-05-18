@@ -1,5 +1,5 @@
 ---
-title: vingardiumgrubiosa | Patromierz
+title: "vingardiumgrubiosa | Patromierz"
 permalink: /vingardiumgrubiosa
 ---
 
@@ -7,7 +7,7 @@ permalink: /vingardiumgrubiosa
 <script type="text/javascript" src="data/v/vingardiumgrubiosa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vingardiumgrubiosa](https://patronite.pl/vingardiumgrubiosa)
+# [Vingardium Grubiosa](https://patronite.pl/vingardiumgrubiosa)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: CzerwFantastyczny | Patromierz
+title: "CzerwFantastyczny | Patromierz"
 permalink: /CzerwFantastyczny
 ---
 
@@ -7,7 +7,7 @@ permalink: /CzerwFantastyczny
 <script type="text/javascript" src="data/c/CzerwFantastyczny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CzerwFantastyczny](https://patronite.pl/CzerwFantastyczny)
+# [Czerw Fantastyczny](https://patronite.pl/CzerwFantastyczny)
 
 ## Miesięczne wsparcie
 

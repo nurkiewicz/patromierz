@@ -1,5 +1,5 @@
 ---
-title: KataklizmyPLWR | Patromierz
+title: "KataklizmyPLWR | Patromierz"
 permalink: /KataklizmyPLWR
 ---
 
@@ -7,7 +7,7 @@ permalink: /KataklizmyPLWR
 <script type="text/javascript" src="data/k/KataklizmyPLWR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KataklizmyPLWR](https://patronite.pl/KataklizmyPLWR)
+# [Kataklizmy w Polsce i na świecie](https://patronite.pl/KataklizmyPLWR)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: nojracht-front | Patromierz
+title: "nojracht-front | Patromierz"
 permalink: /nojracht-front
 ---
 
@@ -7,7 +7,7 @@ permalink: /nojracht-front
 <script type="text/javascript" src="data/n/nojracht-front.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nojracht-front](https://patronite.pl/nojracht-front)
+# [NOJRACHT/ FRONT - REKONSTRUKCJA](https://patronite.pl/nojracht-front)
 
 ## Miesięczne wsparcie
 

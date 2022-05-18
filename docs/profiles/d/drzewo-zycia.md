@@ -1,5 +1,5 @@
 ---
-title: drzewo-zycia | Patromierz
+title: "drzewo-zycia | Patromierz"
 permalink: /drzewo-zycia
 ---
 
@@ -7,7 +7,7 @@ permalink: /drzewo-zycia
 <script type="text/javascript" src="data/d/drzewo-zycia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drzewo-zycia](https://patronite.pl/drzewo-zycia)
+# [Drzewo Życia - studio jogi i holistycznego zdrowia](https://patronite.pl/drzewo-zycia)
 
 ## Miesięczne wsparcie
 

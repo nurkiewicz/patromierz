@@ -1,5 +1,5 @@
 ---
-title: menudorotki | Patromierz
+title: "menudorotki | Patromierz"
 permalink: /menudorotki
 ---
 
@@ -7,7 +7,7 @@ permalink: /menudorotki
 <script type="text/javascript" src="data/m/menudorotki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [menudorotki](https://patronite.pl/menudorotki)
+# [MENU Dorotki](https://patronite.pl/menudorotki)
 
 ## Miesięczne wsparcie
 

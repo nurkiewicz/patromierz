@@ -1,5 +1,5 @@
 ---
-title: sierp | Patromierz
+title: "sierp | Patromierz"
 permalink: /sierp
 ---
 
@@ -7,7 +7,7 @@ permalink: /sierp
 <script type="text/javascript" src="data/s/sierp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sierp](https://patronite.pl/sierp)
+# [Jacek Sierpiński](https://patronite.pl/sierp)
 
 ## Miesięczne wsparcie
 

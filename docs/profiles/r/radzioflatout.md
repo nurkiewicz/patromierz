@@ -1,5 +1,5 @@
 ---
-title: radzioflatout | Patromierz
+title: "radzioflatout | Patromierz"
 permalink: /radzioflatout
 ---
 
@@ -7,7 +7,7 @@ permalink: /radzioflatout
 <script type="text/javascript" src="data/r/radzioflatout.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radzioflatout](https://patronite.pl/radzioflatout)
+# [radzio FLAT OUT](https://patronite.pl/radzioflatout)
 
 ## Miesięczne wsparcie
 

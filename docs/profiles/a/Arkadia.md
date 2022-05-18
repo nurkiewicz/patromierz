@@ -1,5 +1,5 @@
 ---
-title: Arkadia | Patromierz
+title: "Arkadia | Patromierz"
 permalink: /Arkadia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Arkadia
 <script type="text/javascript" src="data/a/Arkadia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Arkadia](https://patronite.pl/Arkadia)
+# [Fundacja  "Zwierzęca Arkadia"](https://patronite.pl/Arkadia)
 
 ## Miesięczne wsparcie
 

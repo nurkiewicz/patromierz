@@ -1,5 +1,5 @@
 ---
-title: wdzdla | Patromierz
+title: "wdzdla | Patromierz"
 permalink: /wdzdla
 ---
 
@@ -7,7 +7,7 @@ permalink: /wdzdla
 <script type="text/javascript" src="data/w/wdzdla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wdzdla](https://patronite.pl/wdzdla)
+# [WdŻ dla zaawansowanych](https://patronite.pl/wdzdla)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ewtn | Patromierz
+title: "ewtn | Patromierz"
 permalink: /ewtn
 ---
 
@@ -7,7 +7,7 @@ permalink: /ewtn
 <script type="text/javascript" src="data/e/ewtn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ewtn](https://patronite.pl/ewtn)
+# [EWTN Polska](https://patronite.pl/ewtn)
 
 ## Miesięczne wsparcie
 

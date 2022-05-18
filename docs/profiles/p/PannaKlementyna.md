@@ -1,5 +1,5 @@
 ---
-title: PannaKlementyna | Patromierz
+title: "PannaKlementyna | Patromierz"
 permalink: /PannaKlementyna
 ---
 
@@ -7,7 +7,7 @@ permalink: /PannaKlementyna
 <script type="text/javascript" src="data/p/PannaKlementyna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PannaKlementyna](https://patronite.pl/PannaKlementyna)
+# [Magdalena  Białasiewicz ](https://patronite.pl/PannaKlementyna)
 
 ## Miesięczne wsparcie
 

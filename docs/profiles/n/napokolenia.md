@@ -1,5 +1,5 @@
 ---
-title: napokolenia | Patromierz
+title: "napokolenia | Patromierz"
 permalink: /napokolenia
 ---
 
@@ -7,7 +7,7 @@ permalink: /napokolenia
 <script type="text/javascript" src="data/n/napokolenia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [napokolenia](https://patronite.pl/napokolenia)
+# [Dobrobyt na Pokolenia](https://patronite.pl/napokolenia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: LEŚNY-REKONESANS | Patromierz
+title: "LEŚNY-REKONESANS | Patromierz"
 permalink: /LEŚNY-REKONESANS
 ---
 
@@ -7,7 +7,7 @@ permalink: /LEŚNY-REKONESANS
 <script type="text/javascript" src="data/l/LEŚNY-REKONESANS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LEŚNY-REKONESANS](https://patronite.pl/LEŚNY-REKONESANS)
+# [LEŚNY REKONESANS](https://patronite.pl/LEŚNY-REKONESANS)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: applemuzeumpolska | Patromierz
+title: "applemuzeumpolska | Patromierz"
 permalink: /applemuzeumpolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /applemuzeumpolska
 <script type="text/javascript" src="data/a/applemuzeumpolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [applemuzeumpolska](https://patronite.pl/applemuzeumpolska)
+# [APPLE MUZEUM POLSKA](https://patronite.pl/applemuzeumpolska)
 
 ## Miesięczne wsparcie
 

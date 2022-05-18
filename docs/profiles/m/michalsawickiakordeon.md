@@ -1,5 +1,5 @@
 ---
-title: michalsawickiakordeon | Patromierz
+title: "michalsawickiakordeon | Patromierz"
 permalink: /michalsawickiakordeon
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalsawickiakordeon
 <script type="text/javascript" src="data/m/michalsawickiakordeon.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalsawickiakordeon](https://patronite.pl/michalsawickiakordeon)
+# [Michał Sawicki-śpiewający akordeonista](https://patronite.pl/michalsawickiakordeon)
 
 ## Miesięczne wsparcie
 

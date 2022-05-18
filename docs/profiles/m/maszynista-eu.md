@@ -1,5 +1,5 @@
 ---
-title: maszynista-eu | Patromierz
+title: "maszynista-eu | Patromierz"
 permalink: /maszynista-eu
 ---
 
@@ -7,7 +7,7 @@ permalink: /maszynista-eu
 <script type="text/javascript" src="data/m/maszynista-eu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maszynista-eu](https://patronite.pl/maszynista-eu)
+# [Maszynista.eu](https://patronite.pl/maszynista-eu)
 
 ## Miesięczne wsparcie
 

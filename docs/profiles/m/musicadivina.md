@@ -1,5 +1,5 @@
 ---
-title: musicadivina | Patromierz
+title: "musicadivina | Patromierz"
 permalink: /musicadivina
 ---
 
@@ -7,7 +7,7 @@ permalink: /musicadivina
 <script type="text/javascript" src="data/m/musicadivina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [musicadivina](https://patronite.pl/musicadivina)
+# [Festiwal Musica Divina](https://patronite.pl/musicadivina)
 
 ## Miesięczne wsparcie
 

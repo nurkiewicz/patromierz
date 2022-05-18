@@ -1,5 +1,5 @@
 ---
-title: Modzelewski | Patromierz
+title: "Modzelewski | Patromierz"
 permalink: /Modzelewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /Modzelewski
 <script type="text/javascript" src="data/m/Modzelewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Modzelewski](https://patronite.pl/Modzelewski)
+# [Karol Modzelewski](https://patronite.pl/Modzelewski)
 
 ## Miesięczne wsparcie
 

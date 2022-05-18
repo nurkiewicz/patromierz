@@ -1,5 +1,5 @@
 ---
-title: porozmawiajmyoit | Patromierz
+title: "porozmawiajmyoit | Patromierz"
 permalink: /porozmawiajmyoit
 ---
 
@@ -7,7 +7,7 @@ permalink: /porozmawiajmyoit
 <script type="text/javascript" src="data/p/porozmawiajmyoit.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [porozmawiajmyoit](https://patronite.pl/porozmawiajmyoit)
+# [Krzysztof Kempiński](https://patronite.pl/porozmawiajmyoit)
 
 ## Miesięczne wsparcie
 

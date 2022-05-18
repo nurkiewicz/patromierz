@@ -1,5 +1,5 @@
 ---
-title: rockserwisfm | Patromierz
+title: "rockserwisfm | Patromierz"
 permalink: /rockserwisfm
 ---
 
@@ -7,7 +7,7 @@ permalink: /rockserwisfm
 <script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rockserwisfm](https://patronite.pl/rockserwisfm)
+# [RADIO ROCKSERWIS FM](https://patronite.pl/rockserwisfm)
 
 ## Miesięczne wsparcie
 

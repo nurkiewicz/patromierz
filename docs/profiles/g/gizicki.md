@@ -1,5 +1,5 @@
 ---
-title: gizicki | Patromierz
+title: "gizicki | Patromierz"
 permalink: /gizicki
 ---
 
@@ -7,7 +7,7 @@ permalink: /gizicki
 <script type="text/javascript" src="data/g/gizicki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gizicki](https://patronite.pl/gizicki)
+# [KSIĄŻKA - "Współczesny polski komiks"](https://patronite.pl/gizicki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bonsaidiscovery | Patromierz
+title: "bonsaidiscovery | Patromierz"
 permalink: /bonsaidiscovery
 ---
 
@@ -7,7 +7,7 @@ permalink: /bonsaidiscovery
 <script type="text/javascript" src="data/b/bonsaidiscovery.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bonsaidiscovery](https://patronite.pl/bonsaidiscovery)
+# [Bonsai Discovery - Bartosz Warwas](https://patronite.pl/bonsaidiscovery)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: vincentvan | Patromierz
+title: "vincentvan | Patromierz"
 permalink: /vincentvan
 ---
 
@@ -7,7 +7,7 @@ permalink: /vincentvan
 <script type="text/javascript" src="data/v/vincentvan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vincentvan](https://patronite.pl/vincentvan)
+# [Vincent Van](https://patronite.pl/vincentvan)
 
 ## Miesięczne wsparcie
 

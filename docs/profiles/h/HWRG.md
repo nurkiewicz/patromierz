@@ -1,5 +1,5 @@
 ---
-title: HWRG | Patromierz
+title: "HWRG | Patromierz"
 permalink: /HWRG
 ---
 
@@ -7,7 +7,7 @@ permalink: /HWRG
 <script type="text/javascript" src="data/h/HWRG.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HWRG](https://patronite.pl/HWRG)
+# [Historia w roli głównej](https://patronite.pl/HWRG)
 
 ## Miesięczne wsparcie
 

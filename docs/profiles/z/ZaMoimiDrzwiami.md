@@ -1,5 +1,5 @@
 ---
-title: ZaMoimiDrzwiami | Patromierz
+title: "ZaMoimiDrzwiami | Patromierz"
 permalink: /ZaMoimiDrzwiami
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZaMoimiDrzwiami
 <script type="text/javascript" src="data/z/ZaMoimiDrzwiami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZaMoimiDrzwiami](https://patronite.pl/ZaMoimiDrzwiami)
+# [Za Moimi Drzwiami ](https://patronite.pl/ZaMoimiDrzwiami)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: arkadikuss | Patromierz
+title: "arkadikuss | Patromierz"
 permalink: /arkadikuss
 ---
 
@@ -7,7 +7,7 @@ permalink: /arkadikuss
 <script type="text/javascript" src="data/a/arkadikuss.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arkadikuss](https://patronite.pl/arkadikuss)
+# [Arkadikuss](https://patronite.pl/arkadikuss)
 
 ## Miesięczne wsparcie
 

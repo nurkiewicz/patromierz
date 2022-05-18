@@ -1,5 +1,5 @@
 ---
-title: kaftann | Patromierz
+title: "kaftann | Patromierz"
 permalink: /kaftann
 ---
 
@@ -7,7 +7,7 @@ permalink: /kaftann
 <script type="text/javascript" src="data/k/kaftann.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kaftann](https://patronite.pl/kaftann)
+# [Kaftann](https://patronite.pl/kaftann)
 
 ## Miesięczne wsparcie
 

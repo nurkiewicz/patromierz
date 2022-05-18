@@ -1,5 +1,5 @@
 ---
-title: hubcio | Patromierz
+title: "hubcio | Patromierz"
 permalink: /hubcio
 ---
 
@@ -7,7 +7,7 @@ permalink: /hubcio
 <script type="text/javascript" src="data/h/hubcio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hubcio](https://patronite.pl/hubcio)
+# [Podróżniczy Hubcio](https://patronite.pl/hubcio)
 
 ## Miesięczne wsparcie
 

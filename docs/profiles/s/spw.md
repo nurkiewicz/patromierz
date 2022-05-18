@@ -1,5 +1,5 @@
 ---
-title: spw | Patromierz
+title: "spw | Patromierz"
 permalink: /spw
 ---
 
@@ -7,7 +7,7 @@ permalink: /spw
 <script type="text/javascript" src="data/s/spw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spw](https://patronite.pl/spw)
+# [Spółdzielnia Praktyk Wywrotowych](https://patronite.pl/spw)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kobietyjakrakiety | Patromierz
+title: "kobietyjakrakiety | Patromierz"
 permalink: /kobietyjakrakiety
 ---
 
@@ -7,7 +7,7 @@ permalink: /kobietyjakrakiety
 <script type="text/javascript" src="data/k/kobietyjakrakiety.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kobietyjakrakiety](https://patronite.pl/kobietyjakrakiety)
+# [Kobiety jak Rakiety](https://patronite.pl/kobietyjakrakiety)
 
 ## Miesięczne wsparcie
 

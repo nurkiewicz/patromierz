@@ -1,5 +1,5 @@
 ---
-title: Jogisza | Patromierz
+title: "Jogisza | Patromierz"
 permalink: /Jogisza
 ---
 
@@ -7,7 +7,7 @@ permalink: /Jogisza
 <script type="text/javascript" src="data/j/Jogisza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Jogisza](https://patronite.pl/Jogisza)
+# [Katarzyna  Szymańska ](https://patronite.pl/Jogisza)
 
 ## Miesięczne wsparcie
 

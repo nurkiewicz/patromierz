@@ -1,5 +1,5 @@
 ---
-title: zydoteka | Patromierz
+title: "zydoteka | Patromierz"
 permalink: /zydoteka
 ---
 
@@ -7,7 +7,7 @@ permalink: /zydoteka
 <script type="text/javascript" src="data/z/zydoteka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zydoteka](https://patronite.pl/zydoteka)
+# [Żydoteka](https://patronite.pl/zydoteka)
 
 ## Miesięczne wsparcie
 

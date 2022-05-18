@@ -1,5 +1,5 @@
 ---
-title: lenaczerniawska | Patromierz
+title: "lenaczerniawska | Patromierz"
 permalink: /lenaczerniawska
 ---
 
@@ -7,7 +7,7 @@ permalink: /lenaczerniawska
 <script type="text/javascript" src="data/l/lenaczerniawska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lenaczerniawska](https://patronite.pl/lenaczerniawska)
+# [Lena  Czerniawska](https://patronite.pl/lenaczerniawska)
 
 ## Miesięczne wsparcie
 

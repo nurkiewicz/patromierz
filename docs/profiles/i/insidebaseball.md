@@ -1,5 +1,5 @@
 ---
-title: insidebaseball | Patromierz
+title: "insidebaseball | Patromierz"
 permalink: /insidebaseball
 ---
 
@@ -7,7 +7,7 @@ permalink: /insidebaseball
 <script type="text/javascript" src="data/i/insidebaseball.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [insidebaseball](https://patronite.pl/insidebaseball)
+# [Inside Baseball](https://patronite.pl/insidebaseball)
 
 ## Miesięczne wsparcie
 

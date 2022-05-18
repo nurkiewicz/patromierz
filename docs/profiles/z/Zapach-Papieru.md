@@ -1,5 +1,5 @@
 ---
-title: Zapach-Papieru | Patromierz
+title: "Zapach-Papieru | Patromierz"
 permalink: /Zapach-Papieru
 ---
 
@@ -7,7 +7,7 @@ permalink: /Zapach-Papieru
 <script type="text/javascript" src="data/z/Zapach-Papieru.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Zapach-Papieru](https://patronite.pl/Zapach-Papieru)
+# [Zapach Papieru](https://patronite.pl/Zapach-Papieru)
 
 ## Miesięczne wsparcie
 

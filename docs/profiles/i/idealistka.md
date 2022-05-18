@@ -1,5 +1,5 @@
 ---
-title: idealistka | Patromierz
+title: "idealistka | Patromierz"
 permalink: /idealistka
 ---
 
@@ -7,7 +7,7 @@ permalink: /idealistka
 <script type="text/javascript" src="data/i/idealistka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [idealistka](https://patronite.pl/idealistka)
+# [Idea Listka](https://patronite.pl/idealistka)
 
 ## Miesięczne wsparcie
 

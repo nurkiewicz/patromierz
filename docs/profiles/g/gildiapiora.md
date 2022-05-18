@@ -1,5 +1,5 @@
 ---
-title: gildiapiora | Patromierz
+title: "gildiapiora | Patromierz"
 permalink: /gildiapiora
 ---
 
@@ -7,7 +7,7 @@ permalink: /gildiapiora
 <script type="text/javascript" src="data/g/gildiapiora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gildiapiora](https://patronite.pl/gildiapiora)
+# [Gildia Pióra](https://patronite.pl/gildiapiora)
 
 ## Miesięczne wsparcie
 

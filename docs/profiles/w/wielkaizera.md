@@ -1,5 +1,5 @@
 ---
-title: wielkaizera | Patromierz
+title: "wielkaizera | Patromierz"
 permalink: /wielkaizera
 ---
 
@@ -7,7 +7,7 @@ permalink: /wielkaizera
 <script type="text/javascript" src="data/w/wielkaizera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wielkaizera](https://patronite.pl/wielkaizera)
+# [Wydawnictwo Wielka Izera](https://patronite.pl/wielkaizera)
 
 ## Miesięczne wsparcie
 

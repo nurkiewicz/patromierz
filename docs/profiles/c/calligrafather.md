@@ -1,5 +1,5 @@
 ---
-title: calligrafather | Patromierz
+title: "calligrafather | Patromierz"
 permalink: /calligrafather
 ---
 
@@ -7,7 +7,7 @@ permalink: /calligrafather
 <script type="text/javascript" src="data/c/calligrafather.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [calligrafather](https://patronite.pl/calligrafather)
+# [Calligrafather](https://patronite.pl/calligrafather)
 
 ## Miesięczne wsparcie
 

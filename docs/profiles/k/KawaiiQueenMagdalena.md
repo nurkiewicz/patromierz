@@ -1,5 +1,5 @@
 ---
-title: KawaiiQueenMagdalena | Patromierz
+title: "KawaiiQueenMagdalena | Patromierz"
 permalink: /KawaiiQueenMagdalena
 ---
 
@@ -7,7 +7,7 @@ permalink: /KawaiiQueenMagdalena
 <script type="text/javascript" src="data/k/KawaiiQueenMagdalena.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KawaiiQueenMagdalena](https://patronite.pl/KawaiiQueenMagdalena)
+# [Magdalena Organa](https://patronite.pl/KawaiiQueenMagdalena)
 
 ## Miesięczne wsparcie
 

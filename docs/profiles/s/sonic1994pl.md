@@ -1,5 +1,5 @@
 ---
-title: sonic1994pl | Patromierz
+title: "sonic1994pl | Patromierz"
 permalink: /sonic1994pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /sonic1994pl
 <script type="text/javascript" src="data/s/sonic1994pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sonic1994pl](https://patronite.pl/sonic1994pl)
+# [Granie Na Spontanie](https://patronite.pl/sonic1994pl)
 
 ## Miesięczne wsparcie
 

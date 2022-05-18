@@ -1,5 +1,5 @@
 ---
-title: przystanekswietlica | Patromierz
+title: "przystanekswietlica | Patromierz"
 permalink: /przystanekswietlica
 ---
 
@@ -7,7 +7,7 @@ permalink: /przystanekswietlica
 <script type="text/javascript" src="data/p/przystanekswietlica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przystanekswietlica](https://patronite.pl/przystanekswietlica)
+# [Przystanek Świetlica dla dzieci uchodźców](https://patronite.pl/przystanekswietlica)
 
 ## Miesięczne wsparcie
 

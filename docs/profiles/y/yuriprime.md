@@ -1,5 +1,5 @@
 ---
-title: yuriprime | Patromierz
+title: "yuriprime | Patromierz"
 permalink: /yuriprime
 ---
 
@@ -7,7 +7,7 @@ permalink: /yuriprime
 <script type="text/javascript" src="data/y/yuriprime.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [yuriprime](https://patronite.pl/yuriprime)
+# [YuriPRIME - Bitewny Biurokrata](https://patronite.pl/yuriprime)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: grynieznane | Patromierz
+title: "grynieznane | Patromierz"
 permalink: /grynieznane
 ---
 
@@ -7,7 +7,7 @@ permalink: /grynieznane
 <script type="text/javascript" src="data/g/grynieznane.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grynieznane](https://patronite.pl/grynieznane)
+# [Ciekawostki ze świata gier](https://patronite.pl/grynieznane)
 
 ## Miesięczne wsparcie
 

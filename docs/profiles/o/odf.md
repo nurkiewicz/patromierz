@@ -1,5 +1,5 @@
 ---
-title: odf | Patromierz
+title: "odf | Patromierz"
 permalink: /odf
 ---
 
@@ -7,7 +7,7 @@ permalink: /odf
 <script type="text/javascript" src="data/o/odf.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odf](https://patronite.pl/odf)
+# [Fundacja Otwarty Dialog](https://patronite.pl/odf)
 
 ## Miesięczne wsparcie
 

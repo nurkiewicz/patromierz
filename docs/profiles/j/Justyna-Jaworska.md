@@ -1,5 +1,5 @@
 ---
-title: Justyna-Jaworska | Patromierz
+title: "Justyna-Jaworska | Patromierz"
 permalink: /Justyna-Jaworska
 ---
 
@@ -7,7 +7,7 @@ permalink: /Justyna-Jaworska
 <script type="text/javascript" src="data/j/Justyna-Jaworska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Justyna-Jaworska](https://patronite.pl/Justyna-Jaworska)
+# [Justyna Jaworska](https://patronite.pl/Justyna-Jaworska)
 
 ## Miesięczne wsparcie
 

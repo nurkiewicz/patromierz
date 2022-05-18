@@ -1,5 +1,5 @@
 ---
-title: okonski-art | Patromierz
+title: "okonski-art | Patromierz"
 permalink: /okonski-art
 ---
 
@@ -7,7 +7,7 @@ permalink: /okonski-art
 <script type="text/javascript" src="data/o/okonski-art.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okonski-art](https://patronite.pl/okonski-art)
+# [okonski.art](https://patronite.pl/okonski-art)
 
 ## Miesięczne wsparcie
 

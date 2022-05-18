@@ -1,5 +1,5 @@
 ---
-title: Przestrzen | Patromierz
+title: "Przestrzen | Patromierz"
 permalink: /Przestrzen
 ---
 
@@ -7,7 +7,7 @@ permalink: /Przestrzen
 <script type="text/javascript" src="data/p/Przestrzen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Przestrzen](https://patronite.pl/Przestrzen)
+# [Grzegorz Krzeminski](https://patronite.pl/Przestrzen)
 
 ## Miesięczne wsparcie
 

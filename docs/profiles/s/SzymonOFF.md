@@ -1,5 +1,5 @@
 ---
-title: SzymonOFF | Patromierz
+title: "SzymonOFF | Patromierz"
 permalink: /SzymonOFF
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: blizejzwierzat | Patromierz
+title: "blizejzwierzat | Patromierz"
 permalink: /blizejzwierzat
 ---
 
@@ -7,7 +7,7 @@ permalink: /blizejzwierzat
 <script type="text/javascript" src="data/b/blizejzwierzat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blizejzwierzat](https://patronite.pl/blizejzwierzat)
+# [Bliżej Zwierząt](https://patronite.pl/blizejzwierzat)
 
 ## Miesięczne wsparcie
 

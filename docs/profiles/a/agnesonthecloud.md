@@ -1,5 +1,5 @@
 ---
-title: agnesonthecloud | Patromierz
+title: "agnesonthecloud | Patromierz"
 permalink: /agnesonthecloud
 ---
 
@@ -7,7 +7,7 @@ permalink: /agnesonthecloud
 <script type="text/javascript" src="data/a/agnesonthecloud.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agnesonthecloud](https://patronite.pl/agnesonthecloud)
+# [Agnes on the cloud.](https://patronite.pl/agnesonthecloud)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: politykazagraniczna | Patromierz
+title: "politykazagraniczna | Patromierz"
 permalink: /politykazagraniczna
 ---
 
@@ -7,7 +7,7 @@ permalink: /politykazagraniczna
 <script type="text/javascript" src="data/p/politykazagraniczna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [politykazagraniczna](https://patronite.pl/politykazagraniczna)
+# [Polityka Zagraniczna](https://patronite.pl/politykazagraniczna)
 
 ## Miesięczne wsparcie
 

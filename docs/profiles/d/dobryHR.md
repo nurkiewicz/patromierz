@@ -1,5 +1,5 @@
 ---
-title: dobryHR | Patromierz
+title: "dobryHR | Patromierz"
 permalink: /dobryHR
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobryHR
 <script type="text/javascript" src="data/d/dobryHR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobryHR](https://patronite.pl/dobryHR)
+# [Jakub Iciaszek](https://patronite.pl/dobryHR)
 
 ## Miesięczne wsparcie
 

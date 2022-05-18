@@ -1,5 +1,5 @@
 ---
-title: syrenkaCX | Patromierz
+title: "syrenkaCX | Patromierz"
 permalink: /syrenkaCX
 ---
 
@@ -7,7 +7,7 @@ permalink: /syrenkaCX
 <script type="text/javascript" src="data/s/syrenkaCX.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [syrenkaCX](https://patronite.pl/syrenkaCX)
+# [Syrenka CX - Cyclocross Warszawa](https://patronite.pl/syrenkaCX)
 
 ## Miesięczne wsparcie
 

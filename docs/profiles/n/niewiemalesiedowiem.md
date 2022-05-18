@@ -1,5 +1,5 @@
 ---
-title: niewiemalesiedowiem | Patromierz
+title: "niewiemalesiedowiem | Patromierz"
 permalink: /niewiemalesiedowiem
 ---
 
@@ -7,7 +7,7 @@ permalink: /niewiemalesiedowiem
 <script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niewiemalesiedowiem](https://patronite.pl/niewiemalesiedowiem)
+# [Nie wiem, ale się dowiem!](https://patronite.pl/niewiemalesiedowiem)
 
 ## Miesięczne wsparcie
 

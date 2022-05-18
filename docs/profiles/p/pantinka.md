@@ -1,5 +1,5 @@
 ---
-title: pantinka | Patromierz
+title: "pantinka | Patromierz"
 permalink: /pantinka
 ---
 
@@ -7,7 +7,7 @@ permalink: /pantinka
 <script type="text/javascript" src="data/p/pantinka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pantinka](https://patronite.pl/pantinka)
+# [Pantinka](https://patronite.pl/pantinka)
 
 ## Miesięczne wsparcie
 

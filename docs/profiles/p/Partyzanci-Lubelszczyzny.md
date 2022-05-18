@@ -1,5 +1,5 @@
 ---
-title: Partyzanci-Lubelszczyzny | Patromierz
+title: "Partyzanci-Lubelszczyzny | Patromierz"
 permalink: /Partyzanci-Lubelszczyzny
 ---
 
@@ -7,7 +7,7 @@ permalink: /Partyzanci-Lubelszczyzny
 <script type="text/javascript" src="data/p/Partyzanci-Lubelszczyzny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Partyzanci-Lubelszczyzny](https://patronite.pl/Partyzanci-Lubelszczyzny)
+# [Partyzanci Lubelszczyzny ](https://patronite.pl/Partyzanci-Lubelszczyzny)
 
 ## Miesięczne wsparcie
 

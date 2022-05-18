@@ -1,5 +1,5 @@
 ---
-title: bayka | Patromierz
+title: "bayka | Patromierz"
 permalink: /bayka
 ---
 
@@ -7,7 +7,7 @@ permalink: /bayka
 <script type="text/javascript" src="data/b/bayka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bayka](https://patronite.pl/bayka)
+# [Bayka](https://patronite.pl/bayka)
 
 ## Miesięczne wsparcie
 

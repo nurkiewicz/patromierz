@@ -1,5 +1,5 @@
 ---
-title: Korabita | Patromierz
+title: "Korabita | Patromierz"
 permalink: /Korabita
 ---
 
@@ -7,7 +7,7 @@ permalink: /Korabita
 <script type="text/javascript" src="data/k/Korabita.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Korabita](https://patronite.pl/Korabita)
+# [Jacek Korabita Kowalski](https://patronite.pl/Korabita)
 
 ## Miesięczne wsparcie
 

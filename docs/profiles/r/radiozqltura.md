@@ -1,5 +1,5 @@
 ---
-title: radiozqltura | Patromierz
+title: "radiozqltura | Patromierz"
 permalink: /radiozqltura
 ---
 
@@ -7,7 +7,7 @@ permalink: /radiozqltura
 <script type="text/javascript" src="data/r/radiozqltura.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radiozqltura](https://patronite.pl/radiozqltura)
+# [Radio z QLTURĄ](https://patronite.pl/radiozqltura)
 
 ## Miesięczne wsparcie
 

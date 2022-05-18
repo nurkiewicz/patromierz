@@ -1,5 +1,5 @@
 ---
-title: dyaltaracreatrice | Patromierz
+title: "dyaltaracreatrice | Patromierz"
 permalink: /dyaltaracreatrice
 ---
 
@@ -7,7 +7,7 @@ permalink: /dyaltaracreatrice
 <script type="text/javascript" src="data/d/dyaltaracreatrice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dyaltaracreatrice](https://patronite.pl/dyaltaracreatrice)
+# [Dyal Tara Creatrice - Uzdrawiająca Wibracja Mantr](https://patronite.pl/dyaltaracreatrice)
 
 ## Miesięczne wsparcie
 

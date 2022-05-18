@@ -1,5 +1,5 @@
 ---
-title: DomoZielonychProgach | Patromierz
+title: "DomoZielonychProgach | Patromierz"
 permalink: /DomoZielonychProgach
 ---
 
@@ -7,7 +7,7 @@ permalink: /DomoZielonychProgach
 <script type="text/javascript" src="data/d/DomoZielonychProgach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DomoZielonychProgach](https://patronite.pl/DomoZielonychProgach)
+# [Wojciech Szymański - Dom o Zielonych Progach](https://patronite.pl/DomoZielonychProgach)
 
 ## Miesięczne wsparcie
 

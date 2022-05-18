@@ -1,5 +1,5 @@
 ---
-title: drpiotrnapierala | Patromierz
+title: "drpiotrnapierala | Patromierz"
 permalink: /drpiotrnapierala
 ---
 
@@ -7,7 +7,7 @@ permalink: /drpiotrnapierala
 <script type="text/javascript" src="data/d/drpiotrnapierala.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drpiotrnapierala](https://patronite.pl/drpiotrnapierala)
+# [Piotr Napierała](https://patronite.pl/drpiotrnapierala)
 
 ## Miesięczne wsparcie
 

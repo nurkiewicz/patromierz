@@ -1,5 +1,5 @@
 ---
-title: wearegoingsomewhere | Patromierz
+title: "wearegoingsomewhere | Patromierz"
 permalink: /wearegoingsomewhere
 ---
 
@@ -7,7 +7,7 @@ permalink: /wearegoingsomewhere
 <script type="text/javascript" src="data/w/wearegoingsomewhere.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wearegoingsomewhere](https://patronite.pl/wearegoingsomewhere)
+# [DavidM (WeAreGoingSomewhere)](https://patronite.pl/wearegoingsomewhere)
 
 ## Miesięczne wsparcie
 

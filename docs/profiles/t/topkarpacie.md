@@ -1,5 +1,5 @@
 ---
-title: topkarpacie | Patromierz
+title: "topkarpacie | Patromierz"
 permalink: /topkarpacie
 ---
 
@@ -7,7 +7,7 @@ permalink: /topkarpacie
 <script type="text/javascript" src="data/t/topkarpacie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [topkarpacie](https://patronite.pl/topkarpacie)
+# [TopKarpacie](https://patronite.pl/topkarpacie)
 
 ## Miesięczne wsparcie
 

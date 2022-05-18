@@ -1,5 +1,5 @@
 ---
-title: annasokolska | Patromierz
+title: "annasokolska | Patromierz"
 permalink: /annasokolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /annasokolska
 <script type="text/javascript" src="data/a/annasokolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annasokolska](https://patronite.pl/annasokolska)
+# [Anna Sokólska](https://patronite.pl/annasokolska)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TriGapa | Patromierz
+title: "TriGapa | Patromierz"
 permalink: /TriGapa
 ---
 

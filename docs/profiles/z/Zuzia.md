@@ -1,5 +1,5 @@
 ---
-title: Zuzia | Patromierz
+title: "Zuzia | Patromierz"
 permalink: /Zuzia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Zuzia
 <script type="text/javascript" src="data/z/Zuzia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Zuzia](https://patronite.pl/Zuzia)
+# [Zuzanna Pawlikowska](https://patronite.pl/Zuzia)
 
 ## Miesięczne wsparcie
 

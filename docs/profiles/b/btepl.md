@@ -1,5 +1,5 @@
 ---
-title: btepl | Patromierz
+title: "btepl | Patromierz"
 permalink: /btepl
 ---
 
@@ -7,7 +7,7 @@ permalink: /btepl
 <script type="text/javascript" src="data/b/btepl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [btepl](https://patronite.pl/btepl)
+# [BackToEden.pl](https://patronite.pl/btepl)
 
 ## Miesięczne wsparcie
 

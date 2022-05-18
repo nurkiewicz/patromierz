@@ -1,5 +1,5 @@
 ---
-title: namyslowska.pl | Patromierz
+title: "namyslowska.pl | Patromierz"
 permalink: /namyslowska.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /namyslowska.pl
 <script type="text/javascript" src="data/n/namyslowska.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [namyslowska.pl](https://patronite.pl/namyslowska.pl)
+# [Namysłowska.pl](https://patronite.pl/namyslowska.pl)
 
 ## Miesięczne wsparcie
 

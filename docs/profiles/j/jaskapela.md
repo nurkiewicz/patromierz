@@ -1,5 +1,5 @@
 ---
-title: jaskapela | Patromierz
+title: "jaskapela | Patromierz"
 permalink: /jaskapela
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaskapela
 <script type="text/javascript" src="data/j/jaskapela.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaskapela](https://patronite.pl/jaskapela)
+# [Jaś Kapela](https://patronite.pl/jaskapela)
 
 ## Miesięczne wsparcie
 

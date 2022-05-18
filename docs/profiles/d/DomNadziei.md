@@ -1,5 +1,5 @@
 ---
-title: DomNadziei | Patromierz
+title: "DomNadziei | Patromierz"
 permalink: /DomNadziei
 ---
 

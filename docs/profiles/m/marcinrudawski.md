@@ -1,5 +1,5 @@
 ---
-title: marcinrudawski | Patromierz
+title: "marcinrudawski | Patromierz"
 permalink: /marcinrudawski
 ---
 
@@ -7,7 +7,7 @@ permalink: /marcinrudawski
 <script type="text/javascript" src="data/m/marcinrudawski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marcinrudawski](https://patronite.pl/marcinrudawski)
+# [Marcin Rudawski](https://patronite.pl/marcinrudawski)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: hallourbex | Patromierz
+title: "hallourbex | Patromierz"
 permalink: /hallourbex
 ---
 
@@ -7,7 +7,7 @@ permalink: /hallourbex
 <script type="text/javascript" src="data/h/hallourbex.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hallourbex](https://patronite.pl/hallourbex)
+# [Hallo Urbex](https://patronite.pl/hallourbex)
 
 ## Miesięczne wsparcie
 

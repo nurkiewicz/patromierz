@@ -1,5 +1,5 @@
 ---
-title: czterylapyzychlin | Patromierz
+title: "czterylapyzychlin | Patromierz"
 permalink: /czterylapyzychlin
 ---
 
@@ -7,7 +7,7 @@ permalink: /czterylapyzychlin
 <script type="text/javascript" src="data/c/czterylapyzychlin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czterylapyzychlin](https://patronite.pl/czterylapyzychlin)
+# [Cztery Łapy Żychlin](https://patronite.pl/czterylapyzychlin)
 
 ## Miesięczne wsparcie
 

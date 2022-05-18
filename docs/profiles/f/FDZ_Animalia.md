@@ -1,5 +1,5 @@
 ---
-title: FDZ_Animalia | Patromierz
+title: "FDZ_Animalia | Patromierz"
 permalink: /FDZ_Animalia
 ---
 
@@ -7,7 +7,7 @@ permalink: /FDZ_Animalia
 <script type="text/javascript" src="data/f/FDZ_Animalia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FDZ_Animalia](https://patronite.pl/FDZ_Animalia)
+# [Fundacja dla Zwierząt Animalia](https://patronite.pl/FDZ_Animalia)
 
 ## Miesięczne wsparcie
 

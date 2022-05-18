@@ -1,5 +1,5 @@
 ---
-title: wawrzyncem | Patromierz
+title: "wawrzyncem | Patromierz"
 permalink: /wawrzyncem
 ---
 
@@ -7,7 +7,7 @@ permalink: /wawrzyncem
 <script type="text/javascript" src="data/w/wawrzyncem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wawrzyncem](https://patronite.pl/wawrzyncem)
+# [Wawrzyńcem](https://patronite.pl/wawrzyncem)
 
 ## Miesięczne wsparcie
 

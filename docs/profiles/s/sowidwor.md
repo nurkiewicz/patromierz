@@ -1,5 +1,5 @@
 ---
-title: sowidwor | Patromierz
+title: "sowidwor | Patromierz"
 permalink: /sowidwor
 ---
 
@@ -7,7 +7,7 @@ permalink: /sowidwor
 <script type="text/javascript" src="data/s/sowidwor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sowidwor](https://patronite.pl/sowidwor)
+# [Sowi Dwór](https://patronite.pl/sowidwor)
 
 ## Miesięczne wsparcie
 

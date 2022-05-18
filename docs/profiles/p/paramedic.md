@@ -1,5 +1,5 @@
 ---
-title: paramedic | Patromierz
+title: "paramedic | Patromierz"
 permalink: /paramedic
 ---
 
@@ -7,7 +7,7 @@ permalink: /paramedic
 <script type="text/javascript" src="data/p/paramedic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paramedic](https://patronite.pl/paramedic)
+# [SGR PARAMEDIC/ GPR KOŁOBRZEG](https://patronite.pl/paramedic)
 
 ## Miesięczne wsparcie
 

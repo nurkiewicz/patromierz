@@ -1,5 +1,5 @@
 ---
-title: Patronite-Lala-ASMR | Patromierz
+title: "Patronite-Lala-ASMR | Patromierz"
 permalink: /Patronite-Lala-ASMR
 ---
 
@@ -7,7 +7,7 @@ permalink: /Patronite-Lala-ASMR
 <script type="text/javascript" src="data/p/Patronite-Lala-ASMR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Patronite-Lala-ASMR](https://patronite.pl/Patronite-Lala-ASMR)
+# [Lala  ASMR ](https://patronite.pl/Patronite-Lala-ASMR)
 
 ## Miesięczne wsparcie
 

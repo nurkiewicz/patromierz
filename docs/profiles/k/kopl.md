@@ -1,5 +1,5 @@
 ---
-title: kopl | Patromierz
+title: "kopl | Patromierz"
 permalink: /kopl
 ---
 
@@ -7,7 +7,7 @@ permalink: /kopl
 <script type="text/javascript" src="data/k/kopl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kopl](https://patronite.pl/kopl)
+# [Zenobia Żaczek](https://patronite.pl/kopl)
 
 ## Miesięczne wsparcie
 

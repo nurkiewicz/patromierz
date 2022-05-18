@@ -1,5 +1,5 @@
 ---
-title: Exxan | Patromierz
+title: "Exxan | Patromierz"
 permalink: /Exxan
 ---
 
@@ -7,7 +7,7 @@ permalink: /Exxan
 <script type="text/javascript" src="data/e/Exxan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Exxan](https://patronite.pl/Exxan)
+# [Tomasz Szewczyk](https://patronite.pl/Exxan)
 
 ## Miesięczne wsparcie
 

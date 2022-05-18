@@ -1,5 +1,5 @@
 ---
-title: DobreMedia | Patromierz
+title: "DobreMedia | Patromierz"
 permalink: /DobreMedia
 ---
 
@@ -7,7 +7,7 @@ permalink: /DobreMedia
 <script type="text/javascript" src="data/d/DobreMedia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DobreMedia](https://patronite.pl/DobreMedia)
+# [Fundacja "Dobre Media"](https://patronite.pl/DobreMedia)
 
 ## Miesięczne wsparcie
 

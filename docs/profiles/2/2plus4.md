@@ -1,5 +1,5 @@
 ---
-title: 2plus4 | Patromierz
+title: "2plus4 | Patromierz"
 permalink: /2plus4
 ---
 

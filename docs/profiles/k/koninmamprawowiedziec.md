@@ -1,5 +1,5 @@
 ---
-title: koninmamprawowiedziec | Patromierz
+title: "koninmamprawowiedziec | Patromierz"
 permalink: /koninmamprawowiedziec
 ---
 
@@ -7,7 +7,7 @@ permalink: /koninmamprawowiedziec
 <script type="text/javascript" src="data/k/koninmamprawowiedziec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koninmamprawowiedziec](https://patronite.pl/koninmamprawowiedziec)
+# [Konin. Mam Prawo Wiedzieć](https://patronite.pl/koninmamprawowiedziec)
 
 ## Miesięczne wsparcie
 

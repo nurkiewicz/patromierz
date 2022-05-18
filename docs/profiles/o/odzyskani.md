@@ -1,5 +1,5 @@
 ---
-title: odzyskani | Patromierz
+title: "odzyskani | Patromierz"
 permalink: /odzyskani
 ---
 
@@ -7,7 +7,7 @@ permalink: /odzyskani
 <script type="text/javascript" src="data/o/odzyskani.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odzyskani](https://patronite.pl/odzyskani)
+# [Odzyskani](https://patronite.pl/odzyskani)
 
 ## Miesięczne wsparcie
 

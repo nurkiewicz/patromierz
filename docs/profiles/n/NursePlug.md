@@ -1,5 +1,5 @@
 ---
-title: NursePlug | Patromierz
+title: "NursePlug | Patromierz"
 permalink: /NursePlug
 ---
 
@@ -7,7 +7,7 @@ permalink: /NursePlug
 <script type="text/javascript" src="data/n/NursePlug.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NursePlug](https://patronite.pl/NursePlug)
+# [Nurse Plug](https://patronite.pl/NursePlug)
 
 ## Miesięczne wsparcie
 

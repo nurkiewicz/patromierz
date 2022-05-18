@@ -1,5 +1,5 @@
 ---
-title: szymkiewicz_majordonacyjny | Patromierz
+title: "szymkiewicz_majordonacyjny | Patromierz"
 permalink: /szymkiewicz_majordonacyjny
 ---
 
@@ -7,7 +7,7 @@ permalink: /szymkiewicz_majordonacyjny
 <script type="text/javascript" src="data/s/szymkiewicz_majordonacyjny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szymkiewicz_majordonacyjny](https://patronite.pl/szymkiewicz_majordonacyjny)
+# [Szymkiewicz Współdzielnia](https://patronite.pl/szymkiewicz_majordonacyjny)
 
 ## Miesięczne wsparcie
 

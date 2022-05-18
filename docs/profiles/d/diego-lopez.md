@@ -1,5 +1,5 @@
 ---
-title: diego-lopez | Patromierz
+title: "diego-lopez | Patromierz"
 permalink: /diego-lopez
 ---
 
@@ -7,7 +7,7 @@ permalink: /diego-lopez
 <script type="text/javascript" src="data/d/diego-lopez.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [diego-lopez](https://patronite.pl/diego-lopez)
+# [Diego Lopez – Sztuka Argumentacji](https://patronite.pl/diego-lopez)
 
 ## Miesięczne wsparcie
 

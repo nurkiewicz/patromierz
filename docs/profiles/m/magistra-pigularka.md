@@ -1,5 +1,5 @@
 ---
-title: magistra-pigularka | Patromierz
+title: "magistra-pigularka | Patromierz"
 permalink: /magistra-pigularka
 ---
 
@@ -7,7 +7,7 @@ permalink: /magistra-pigularka
 <script type="text/javascript" src="data/m/magistra-pigularka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magistra-pigularka](https://patronite.pl/magistra-pigularka)
+# [Magistra Pigularka](https://patronite.pl/magistra-pigularka)
 
 ## Miesięczne wsparcie
 

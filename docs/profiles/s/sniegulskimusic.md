@@ -1,5 +1,5 @@
 ---
-title: sniegulskimusic | Patromierz
+title: "sniegulskimusic | Patromierz"
 permalink: /sniegulskimusic
 ---
 
@@ -7,7 +7,7 @@ permalink: /sniegulskimusic
 <script type="text/javascript" src="data/s/sniegulskimusic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sniegulskimusic](https://patronite.pl/sniegulskimusic)
+# [Mariusz Śniegulski](https://patronite.pl/sniegulskimusic)
 
 ## Miesięczne wsparcie
 

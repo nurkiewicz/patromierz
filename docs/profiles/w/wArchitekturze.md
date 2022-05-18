@@ -1,5 +1,5 @@
 ---
-title: wArchitekturze | Patromierz
+title: "wArchitekturze | Patromierz"
 permalink: /wArchitekturze
 ---
 
@@ -7,7 +7,7 @@ permalink: /wArchitekturze
 <script type="text/javascript" src="data/w/wArchitekturze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wArchitekturze](https://patronite.pl/wArchitekturze)
+# [W Architekturze](https://patronite.pl/wArchitekturze)
 
 ## Miesięczne wsparcie
 

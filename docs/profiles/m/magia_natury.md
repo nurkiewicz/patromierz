@@ -1,5 +1,5 @@
 ---
-title: magia_natury | Patromierz
+title: "magia_natury | Patromierz"
 permalink: /magia_natury
 ---
 
@@ -7,7 +7,7 @@ permalink: /magia_natury
 <script type="text/javascript" src="data/m/magia_natury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magia_natury](https://patronite.pl/magia_natury)
+# [Magia Natury](https://patronite.pl/magia_natury)
 
 ## Miesięczne wsparcie
 

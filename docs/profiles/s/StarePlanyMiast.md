@@ -1,5 +1,5 @@
 ---
-title: StarePlanyMiast | Patromierz
+title: "StarePlanyMiast | Patromierz"
 permalink: /StarePlanyMiast
 ---
 
@@ -7,7 +7,7 @@ permalink: /StarePlanyMiast
 <script type="text/javascript" src="data/s/StarePlanyMiast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StarePlanyMiast](https://patronite.pl/StarePlanyMiast)
+# [Stare Plany Miast](https://patronite.pl/StarePlanyMiast)
 
 ## Miesięczne wsparcie
 

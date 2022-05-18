@@ -1,5 +1,5 @@
 ---
-title: christone-bartener | Patromierz
+title: "christone-bartener | Patromierz"
 permalink: /christone-bartener
 ---
 
@@ -7,7 +7,7 @@ permalink: /christone-bartener
 <script type="text/javascript" src="data/c/christone-bartener.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [christone-bartener](https://patronite.pl/christone-bartener)
+# [Christone Bartener](https://patronite.pl/christone-bartener)
 
 ## Miesięczne wsparcie
 

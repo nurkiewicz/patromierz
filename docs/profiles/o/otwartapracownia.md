@@ -1,5 +1,5 @@
 ---
-title: otwartapracownia | Patromierz
+title: "otwartapracownia | Patromierz"
 permalink: /otwartapracownia
 ---
 
@@ -7,7 +7,7 @@ permalink: /otwartapracownia
 <script type="text/javascript" src="data/o/otwartapracownia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otwartapracownia](https://patronite.pl/otwartapracownia)
+# [Otwarta Pracownia Jazdów](https://patronite.pl/otwartapracownia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: likonic | Patromierz
+title: "likonic | Patromierz"
 permalink: /likonic
 ---
 
@@ -7,7 +7,7 @@ permalink: /likonic
 <script type="text/javascript" src="data/l/likonic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [likonic](https://patronite.pl/likonic)
+# [Likonic_carnuthub](https://patronite.pl/likonic)
 
 ## Miesięczne wsparcie
 

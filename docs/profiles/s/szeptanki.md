@@ -1,5 +1,5 @@
 ---
-title: szeptanki | Patromierz
+title: "szeptanki | Patromierz"
 permalink: /szeptanki
 ---
 
@@ -7,7 +7,7 @@ permalink: /szeptanki
 <script type="text/javascript" src="data/s/szeptanki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szeptanki](https://patronite.pl/szeptanki)
+# [Szeptanki](https://patronite.pl/szeptanki)
 
 ## Miesięczne wsparcie
 

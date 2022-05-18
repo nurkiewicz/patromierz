@@ -1,5 +1,5 @@
 ---
-title: baumgartner.store | Patromierz
+title: "baumgartner.store | Patromierz"
 permalink: /baumgartner.store
 ---
 
@@ -7,7 +7,7 @@ permalink: /baumgartner.store
 <script type="text/javascript" src="data/b/baumgartner.store.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [baumgartner.store](https://patronite.pl/baumgartner.store)
+# [Joanna Baumgartner](https://patronite.pl/baumgartner.store)
 
 ## Miesięczne wsparcie
 

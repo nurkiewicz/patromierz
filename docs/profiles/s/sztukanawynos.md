@@ -1,5 +1,5 @@
 ---
-title: sztukanawynos | Patromierz
+title: "sztukanawynos | Patromierz"
 permalink: /sztukanawynos
 ---
 
@@ -7,7 +7,7 @@ permalink: /sztukanawynos
 <script type="text/javascript" src="data/s/sztukanawynos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sztukanawynos](https://patronite.pl/sztukanawynos)
+# [sztuka na wynos](https://patronite.pl/sztukanawynos)
 
 ## Miesięczne wsparcie
 

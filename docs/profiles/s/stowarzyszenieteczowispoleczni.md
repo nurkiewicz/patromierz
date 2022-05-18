@@ -1,5 +1,5 @@
 ---
-title: stowarzyszenieteczowispoleczni | Patromierz
+title: "stowarzyszenieteczowispoleczni | Patromierz"
 permalink: /stowarzyszenieteczowispoleczni
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszenieteczowispoleczni
 <script type="text/javascript" src="data/s/stowarzyszenieteczowispoleczni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszenieteczowispoleczni](https://patronite.pl/stowarzyszenieteczowispoleczni)
+# [Stowarzyszenie Tęczowi Społecznicy](https://patronite.pl/stowarzyszenieteczowispoleczni)
 
 ## Miesięczne wsparcie
 

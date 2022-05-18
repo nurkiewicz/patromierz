@@ -1,5 +1,5 @@
 ---
-title: toomacz | Patromierz
+title: "toomacz | Patromierz"
 permalink: /toomacz
 ---
 

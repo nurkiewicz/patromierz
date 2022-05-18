@@ -1,5 +1,5 @@
 ---
-title: kkocieba | Patromierz
+title: "kkocieba | Patromierz"
 permalink: /kkocieba
 ---
 
@@ -7,7 +7,7 @@ permalink: /kkocieba
 <script type="text/javascript" src="data/k/kkocieba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kkocieba](https://patronite.pl/kkocieba)
+# [Kuba Kocięba](https://patronite.pl/kkocieba)
 
 ## Miesięczne wsparcie
 

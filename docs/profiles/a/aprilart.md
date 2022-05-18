@@ -1,5 +1,5 @@
 ---
-title: aprilart | Patromierz
+title: "aprilart | Patromierz"
 permalink: /aprilart
 ---
 
@@ -7,7 +7,7 @@ permalink: /aprilart
 <script type="text/javascript" src="data/a/aprilart.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aprilart](https://patronite.pl/aprilart)
+# [ApriL ArtAnimation](https://patronite.pl/aprilart)
 
 ## Miesięczne wsparcie
 

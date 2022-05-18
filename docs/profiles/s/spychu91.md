@@ -1,5 +1,5 @@
 ---
-title: spychu91 | Patromierz
+title: "spychu91 | Patromierz"
 permalink: /spychu91
 ---
 
@@ -7,7 +7,7 @@ permalink: /spychu91
 <script type="text/javascript" src="data/s/spychu91.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spychu91](https://patronite.pl/spychu91)
+# [Wojciech Spychalski](https://patronite.pl/spychu91)
 
 ## Miesięczne wsparcie
 

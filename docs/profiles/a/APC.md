@@ -1,5 +1,5 @@
 ---
-title: APC | Patromierz
+title: "APC | Patromierz"
 permalink: /APC
 ---
 
@@ -7,7 +7,7 @@ permalink: /APC
 <script type="text/javascript" src="data/a/APC.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [APC](https://patronite.pl/APC)
+# [Akcja dla Kolarstwa](https://patronite.pl/APC)
 
 ## Miesięczne wsparcie
 

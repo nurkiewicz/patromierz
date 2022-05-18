@@ -1,5 +1,5 @@
 ---
-title: nasetke | Patromierz
+title: "nasetke | Patromierz"
 permalink: /nasetke
 ---
 
@@ -7,7 +7,7 @@ permalink: /nasetke
 <script type="text/javascript" src="data/n/nasetke.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nasetke](https://patronite.pl/nasetke)
+# [Na Setkę](https://patronite.pl/nasetke)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: staszek | Patromierz
+title: "staszek | Patromierz"
 permalink: /staszek
 ---
 
@@ -7,7 +7,7 @@ permalink: /staszek
 <script type="text/javascript" src="data/s/staszek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [staszek](https://patronite.pl/staszek)
+# [Staszek iGRAszkowski](https://patronite.pl/staszek)
 
 ## Miesięczne wsparcie
 

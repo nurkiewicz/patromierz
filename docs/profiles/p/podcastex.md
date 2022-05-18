@@ -1,5 +1,5 @@
 ---
-title: podcastex | Patromierz
+title: "podcastex | Patromierz"
 permalink: /podcastex
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastex
 <script type="text/javascript" src="data/p/podcastex.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastex](https://patronite.pl/podcastex)
+# [Podcastex](https://patronite.pl/podcastex)
 
 ## Miesięczne wsparcie
 

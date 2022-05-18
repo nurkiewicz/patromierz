@@ -1,5 +1,5 @@
 ---
-title: splendidsound | Patromierz
+title: "splendidsound | Patromierz"
 permalink: /splendidsound
 ---
 
@@ -7,7 +7,7 @@ permalink: /splendidsound
 <script type="text/javascript" src="data/s/splendidsound.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [splendidsound](https://patronite.pl/splendidsound)
+# [Splendid Sound](https://patronite.pl/splendidsound)
 
 ## Miesięczne wsparcie
 

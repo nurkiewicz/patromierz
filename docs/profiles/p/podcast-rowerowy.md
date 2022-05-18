@@ -1,5 +1,5 @@
 ---
-title: podcast-rowerowy | Patromierz
+title: "podcast-rowerowy | Patromierz"
 permalink: /podcast-rowerowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcast-rowerowy
 <script type="text/javascript" src="data/p/podcast-rowerowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcast-rowerowy](https://patronite.pl/podcast-rowerowy)
+# [Podcast Rowerowy](https://patronite.pl/podcast-rowerowy)
 
 ## Miesięczne wsparcie
 

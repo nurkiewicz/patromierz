@@ -1,5 +1,5 @@
 ---
-title: ogien-przebudzenia | Patromierz
+title: "ogien-przebudzenia | Patromierz"
 permalink: /ogien-przebudzenia
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogien-przebudzenia
 <script type="text/javascript" src="data/o/ogien-przebudzenia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogien-przebudzenia](https://patronite.pl/ogien-przebudzenia)
+# [Tomasz Dorożała - Służba Apostolska "Ogień Przebudzenia"](https://patronite.pl/ogien-przebudzenia)
 
 ## Miesięczne wsparcie
 

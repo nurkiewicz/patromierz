@@ -1,5 +1,5 @@
 ---
-title: fly-consulting | Patromierz
+title: "fly-consulting | Patromierz"
 permalink: /fly-consulting
 ---
 
@@ -7,7 +7,7 @@ permalink: /fly-consulting
 <script type="text/javascript" src="data/f/fly-consulting.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fly-consulting](https://patronite.pl/fly-consulting)
+# [Fly-Consulting](https://patronite.pl/fly-consulting)
 
 ## Miesięczne wsparcie
 

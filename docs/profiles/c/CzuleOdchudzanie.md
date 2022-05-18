@@ -1,5 +1,5 @@
 ---
-title: CzuleOdchudzanie | Patromierz
+title: "CzuleOdchudzanie | Patromierz"
 permalink: /CzuleOdchudzanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /CzuleOdchudzanie
 <script type="text/javascript" src="data/c/CzuleOdchudzanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CzuleOdchudzanie](https://patronite.pl/CzuleOdchudzanie)
+# [Czułe Odchudzanie. Bez nienawiści do jedzenia! :: zdrowie.je](https://patronite.pl/CzuleOdchudzanie)
 
 ## Miesięczne wsparcie
 

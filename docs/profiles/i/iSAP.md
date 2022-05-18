@@ -1,5 +1,5 @@
 ---
-title: iSAP | Patromierz
+title: "iSAP | Patromierz"
 permalink: /iSAP
 ---
 
@@ -7,7 +7,7 @@ permalink: /iSAP
 <script type="text/javascript" src="data/i/iSAP.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [iSAP](https://patronite.pl/iSAP)
+# [iSAP Słowiańska Agencja Prasowa](https://patronite.pl/iSAP)
 
 ## Miesięczne wsparcie
 

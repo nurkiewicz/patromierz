@@ -1,5 +1,5 @@
 ---
-title: sensownieosamochodach | Patromierz
+title: "sensownieosamochodach | Patromierz"
 permalink: /sensownieosamochodach
 ---
 
@@ -7,7 +7,7 @@ permalink: /sensownieosamochodach
 <script type="text/javascript" src="data/s/sensownieosamochodach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sensownieosamochodach](https://patronite.pl/sensownieosamochodach)
+# [Marek Narkiewicz](https://patronite.pl/sensownieosamochodach)
 
 ## Miesięczne wsparcie
 

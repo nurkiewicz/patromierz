@@ -1,5 +1,5 @@
 ---
-title: widzialnalapa | Patromierz
+title: "widzialnalapa | Patromierz"
 permalink: /widzialnalapa
 ---
 
@@ -7,7 +7,7 @@ permalink: /widzialnalapa
 <script type="text/javascript" src="data/w/widzialnalapa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [widzialnalapa](https://patronite.pl/widzialnalapa)
+# [Widzialna Łapa](https://patronite.pl/widzialnalapa)
 
 ## Miesięczne wsparcie
 

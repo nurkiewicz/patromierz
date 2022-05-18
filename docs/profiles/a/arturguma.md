@@ -1,5 +1,5 @@
 ---
-title: arturguma | Patromierz
+title: "arturguma | Patromierz"
 permalink: /arturguma
 ---
 
@@ -7,7 +7,7 @@ permalink: /arturguma
 <script type="text/javascript" src="data/a/arturguma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arturguma](https://patronite.pl/arturguma)
+# [Artur Pierzchniak-Guma](https://patronite.pl/arturguma)
 
 ## Miesięczne wsparcie
 

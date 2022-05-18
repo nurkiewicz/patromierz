@@ -1,5 +1,5 @@
 ---
-title: fotografwterenie | Patromierz
+title: "fotografwterenie | Patromierz"
 permalink: /fotografwterenie
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotografwterenie
 <script type="text/javascript" src="data/f/fotografwterenie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotografwterenie](https://patronite.pl/fotografwterenie)
+# [Fotograf w Terenie](https://patronite.pl/fotografwterenie)
 
 ## Miesięczne wsparcie
 

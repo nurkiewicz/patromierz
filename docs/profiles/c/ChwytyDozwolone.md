@@ -1,5 +1,5 @@
 ---
-title: ChwytyDozwolone | Patromierz
+title: "ChwytyDozwolone | Patromierz"
 permalink: /ChwytyDozwolone
 ---
 
@@ -7,7 +7,7 @@ permalink: /ChwytyDozwolone
 <script type="text/javascript" src="data/c/ChwytyDozwolone.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ChwytyDozwolone](https://patronite.pl/ChwytyDozwolone)
+# [CHWYTY DOZWOLONE](https://patronite.pl/ChwytyDozwolone)
 
 ## Miesięczne wsparcie
 

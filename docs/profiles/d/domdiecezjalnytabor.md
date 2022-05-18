@@ -1,5 +1,5 @@
 ---
-title: domdiecezjalnytabor | Patromierz
+title: "domdiecezjalnytabor | Patromierz"
 permalink: /domdiecezjalnytabor
 ---
 
@@ -7,7 +7,7 @@ permalink: /domdiecezjalnytabor
 <script type="text/javascript" src="data/d/domdiecezjalnytabor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domdiecezjalnytabor](https://patronite.pl/domdiecezjalnytabor)
+# [Dom Diecezjalny TABOR](https://patronite.pl/domdiecezjalnytabor)
 
 ## Miesięczne wsparcie
 

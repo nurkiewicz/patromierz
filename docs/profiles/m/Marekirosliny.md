@@ -1,5 +1,5 @@
 ---
-title: Marekirosliny | Patromierz
+title: "Marekirosliny | Patromierz"
 permalink: /Marekirosliny
 ---
 
@@ -7,7 +7,7 @@ permalink: /Marekirosliny
 <script type="text/javascript" src="data/m/Marekirosliny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Marekirosliny](https://patronite.pl/Marekirosliny)
+# [Marek i rośliny](https://patronite.pl/Marekirosliny)
 
 ## Miesięczne wsparcie
 

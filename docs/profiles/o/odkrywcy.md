@@ -1,5 +1,5 @@
 ---
-title: odkrywcy | Patromierz
+title: "odkrywcy | Patromierz"
 permalink: /odkrywcy
 ---
 
@@ -7,7 +7,7 @@ permalink: /odkrywcy
 <script type="text/javascript" src="data/o/odkrywcy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odkrywcy](https://patronite.pl/odkrywcy)
+# [Odkrywcy Miasta](https://patronite.pl/odkrywcy)
 
 ## Miesięczne wsparcie
 

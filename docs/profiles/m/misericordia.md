@@ -1,5 +1,5 @@
 ---
-title: misericordia | Patromierz
+title: "misericordia | Patromierz"
 permalink: /misericordia
 ---
 
@@ -7,7 +7,7 @@ permalink: /misericordia
 <script type="text/javascript" src="data/m/misericordia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [misericordia](https://patronite.pl/misericordia)
+# [Pallotyńska Grupa Medialna](https://patronite.pl/misericordia)
 
 ## Miesięczne wsparcie
 

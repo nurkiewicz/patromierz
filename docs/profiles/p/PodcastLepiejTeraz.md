@@ -1,5 +1,5 @@
 ---
-title: PodcastLepiejTeraz | Patromierz
+title: "PodcastLepiejTeraz | Patromierz"
 permalink: /PodcastLepiejTeraz
 ---
 
@@ -7,7 +7,7 @@ permalink: /PodcastLepiejTeraz
 <script type="text/javascript" src="data/p/PodcastLepiejTeraz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PodcastLepiejTeraz](https://patronite.pl/PodcastLepiejTeraz)
+# [Radosław Budnicki](https://patronite.pl/PodcastLepiejTeraz)
 
 ## Miesięczne wsparcie
 

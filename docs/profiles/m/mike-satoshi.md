@@ -1,5 +1,5 @@
 ---
-title: mike-satoshi | Patromierz
+title: "mike-satoshi | Patromierz"
 permalink: /mike-satoshi
 ---
 
@@ -7,7 +7,7 @@ permalink: /mike-satoshi
 <script type="text/javascript" src="data/m/mike-satoshi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mike-satoshi](https://patronite.pl/mike-satoshi)
+# [Mike Satoshi](https://patronite.pl/mike-satoshi)
 
 ## Miesięczne wsparcie
 

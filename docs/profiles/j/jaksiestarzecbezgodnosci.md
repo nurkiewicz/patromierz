@@ -1,5 +1,5 @@
 ---
-title: jaksiestarzecbezgodnosci | Patromierz
+title: "jaksiestarzecbezgodnosci | Patromierz"
 permalink: /jaksiestarzecbezgodnosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaksiestarzecbezgodnosci
 <script type="text/javascript" src="data/j/jaksiestarzecbezgodnosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaksiestarzecbezgodnosci](https://patronite.pl/jaksiestarzecbezgodnosci)
+# [Jak się starzeć bez godności](https://patronite.pl/jaksiestarzecbezgodnosci)
 
 ## Miesięczne wsparcie
 

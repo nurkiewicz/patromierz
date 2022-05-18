@@ -1,5 +1,5 @@
 ---
-title: staremaniowy | Patromierz
+title: "staremaniowy | Patromierz"
 permalink: /staremaniowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /staremaniowy
 <script type="text/javascript" src="data/s/staremaniowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [staremaniowy](https://patronite.pl/staremaniowy)
+# [StareManiowy.pl](https://patronite.pl/staremaniowy)
 
 ## Miesięczne wsparcie
 

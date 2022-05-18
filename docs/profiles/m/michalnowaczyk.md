@@ -1,5 +1,5 @@
 ---
-title: michalnowaczyk | Patromierz
+title: "michalnowaczyk | Patromierz"
 permalink: /michalnowaczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalnowaczyk
 <script type="text/javascript" src="data/m/michalnowaczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalnowaczyk](https://patronite.pl/michalnowaczyk)
+# [Michał Nowaczyk snowboarder](https://patronite.pl/michalnowaczyk)
 
 ## Miesięczne wsparcie
 

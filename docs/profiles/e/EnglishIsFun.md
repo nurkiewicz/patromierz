@@ -1,5 +1,5 @@
 ---
-title: EnglishIsFun | Patromierz
+title: "EnglishIsFun | Patromierz"
 permalink: /EnglishIsFun
 ---
 
@@ -7,7 +7,7 @@ permalink: /EnglishIsFun
 <script type="text/javascript" src="data/e/EnglishIsFun.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EnglishIsFun](https://patronite.pl/EnglishIsFun)
+# [English is FUN](https://patronite.pl/EnglishIsFun)
 
 ## Miesięczne wsparcie
 

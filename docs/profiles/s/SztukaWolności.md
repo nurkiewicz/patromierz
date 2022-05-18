@@ -1,5 +1,5 @@
 ---
-title: SztukaWolności | Patromierz
+title: "SztukaWolności | Patromierz"
 permalink: /SztukaWolności
 ---
 
@@ -7,7 +7,7 @@ permalink: /SztukaWolności
 <script type="text/javascript" src="data/s/SztukaWolności.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SztukaWolności](https://patronite.pl/SztukaWolności)
+# [Fundacja Sztuka Wolności](https://patronite.pl/SztukaWolności)
 
 ## Miesięczne wsparcie
 

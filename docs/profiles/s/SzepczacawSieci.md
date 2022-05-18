@@ -1,5 +1,5 @@
 ---
-title: SzepczacawSieci | Patromierz
+title: "SzepczacawSieci | Patromierz"
 permalink: /SzepczacawSieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /SzepczacawSieci
 <script type="text/javascript" src="data/s/SzepczacawSieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SzepczacawSieci](https://patronite.pl/SzepczacawSieci)
+# [Szepcząca w Sieci ASMR](https://patronite.pl/SzepczacawSieci)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: niskopodlogowiec | Patromierz
+title: "niskopodlogowiec | Patromierz"
 permalink: /niskopodlogowiec
 ---
 
@@ -7,7 +7,7 @@ permalink: /niskopodlogowiec
 <script type="text/javascript" src="data/n/niskopodlogowiec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niskopodlogowiec](https://patronite.pl/niskopodlogowiec)
+# [Niskopodłogowiec](https://patronite.pl/niskopodlogowiec)
 
 ## Miesięczne wsparcie
 

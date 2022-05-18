@@ -1,5 +1,5 @@
 ---
-title: Lukaszek | Patromierz
+title: "Lukaszek | Patromierz"
 permalink: /Lukaszek
 ---
 
@@ -7,7 +7,7 @@ permalink: /Lukaszek
 <script type="text/javascript" src="data/l/Lukaszek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Lukaszek](https://patronite.pl/Lukaszek)
+# [Łukasz "Król" Spociński](https://patronite.pl/Lukaszek)
 
 ## Miesięczne wsparcie
 

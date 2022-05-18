@@ -1,5 +1,5 @@
 ---
-title: insanim | Patromierz
+title: "insanim | Patromierz"
 permalink: /insanim
 ---
 
@@ -7,7 +7,7 @@ permalink: /insanim
 <script type="text/javascript" src="data/i/insanim.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [insanim](https://patronite.pl/insanim)
+# [INS Anim](https://patronite.pl/insanim)
 
 ## Miesięczne wsparcie
 

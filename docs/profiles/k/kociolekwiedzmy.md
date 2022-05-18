@@ -1,5 +1,5 @@
 ---
-title: kociolekwiedzmy | Patromierz
+title: "kociolekwiedzmy | Patromierz"
 permalink: /kociolekwiedzmy
 ---
 
@@ -7,7 +7,7 @@ permalink: /kociolekwiedzmy
 <script type="text/javascript" src="data/k/kociolekwiedzmy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kociolekwiedzmy](https://patronite.pl/kociolekwiedzmy)
+# [Kociołek Wiedźmy - Agnieszka Waszak](https://patronite.pl/kociolekwiedzmy)
 
 ## Miesięczne wsparcie
 

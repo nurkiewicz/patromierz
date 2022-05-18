@@ -1,5 +1,5 @@
 ---
-title: ruslan-poland | Patromierz
+title: "ruslan-poland | Patromierz"
 permalink: /ruslan-poland
 ---
 
@@ -7,7 +7,7 @@ permalink: /ruslan-poland
 <script type="text/javascript" src="data/r/ruslan-poland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ruslan-poland](https://patronite.pl/ruslan-poland)
+# [Ruslan Poland](https://patronite.pl/ruslan-poland)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: StowarzyszeniePakaDlaZwierzaka | Patromierz
+title: "StowarzyszeniePakaDlaZwierzaka | Patromierz"
 permalink: /StowarzyszeniePakaDlaZwierzaka
 ---
 
@@ -7,7 +7,7 @@ permalink: /StowarzyszeniePakaDlaZwierzaka
 <script type="text/javascript" src="data/s/StowarzyszeniePakaDlaZwierzaka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StowarzyszeniePakaDlaZwierzaka](https://patronite.pl/StowarzyszeniePakaDlaZwierzaka)
+# [Stowarzyszenie Paka dla Zwierzaka](https://patronite.pl/StowarzyszeniePakaDlaZwierzaka)
 
 ## Miesięczne wsparcie
 

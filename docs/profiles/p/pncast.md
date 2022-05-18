@@ -1,5 +1,5 @@
 ---
-title: pncast | Patromierz
+title: "pncast | Patromierz"
 permalink: /pncast
 ---
 
@@ -7,7 +7,7 @@ permalink: /pncast
 <script type="text/javascript" src="data/p/pncast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pncast](https://patronite.pl/pncast)
+# [Pod Nominał Cast](https://patronite.pl/pncast)
 
 ## Miesięczne wsparcie
 

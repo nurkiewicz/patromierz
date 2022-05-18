@@ -1,5 +1,5 @@
 ---
-title: adamstachowiak | Patromierz
+title: "adamstachowiak | Patromierz"
 permalink: /adamstachowiak
 ---
 
@@ -7,7 +7,7 @@ permalink: /adamstachowiak
 <script type="text/javascript" src="data/a/adamstachowiak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adamstachowiak](https://patronite.pl/adamstachowiak)
+# [Adam Stachowiak](https://patronite.pl/adamstachowiak)
 
 ## Miesięczne wsparcie
 

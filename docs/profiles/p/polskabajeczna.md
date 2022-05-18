@@ -1,5 +1,5 @@
 ---
-title: polskabajeczna | Patromierz
+title: "polskabajeczna | Patromierz"
 permalink: /polskabajeczna
 ---
 
@@ -7,7 +7,7 @@ permalink: /polskabajeczna
 <script type="text/javascript" src="data/p/polskabajeczna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polskabajeczna](https://patronite.pl/polskabajeczna)
+# [Polska Bajeczna](https://patronite.pl/polskabajeczna)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BabskaKorba | Patromierz
+title: "BabskaKorba | Patromierz"
 permalink: /BabskaKorba
 ---
 
@@ -7,7 +7,7 @@ permalink: /BabskaKorba
 <script type="text/javascript" src="data/b/BabskaKorba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BabskaKorba](https://patronite.pl/BabskaKorba)
+# [BABSKA KORBA](https://patronite.pl/BabskaKorba)
 
 ## Miesięczne wsparcie
 

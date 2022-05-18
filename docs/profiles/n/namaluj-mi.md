@@ -1,5 +1,5 @@
 ---
-title: namaluj-mi | Patromierz
+title: "namaluj-mi | Patromierz"
 permalink: /namaluj-mi
 ---
 
@@ -7,7 +7,7 @@ permalink: /namaluj-mi
 <script type="text/javascript" src="data/n/namaluj-mi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [namaluj-mi](https://patronite.pl/namaluj-mi)
+# [Karola Kułaga](https://patronite.pl/namaluj-mi)
 
 ## Miesięczne wsparcie
 

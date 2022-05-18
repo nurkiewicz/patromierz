@@ -1,5 +1,5 @@
 ---
-title: trickboxproject | Patromierz
+title: "trickboxproject | Patromierz"
 permalink: /trickboxproject
 ---
 
@@ -7,7 +7,7 @@ permalink: /trickboxproject
 <script type="text/javascript" src="data/t/trickboxproject.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [trickboxproject](https://patronite.pl/trickboxproject)
+# [Trickbox.Project - Paweł Kowalczyk ](https://patronite.pl/trickboxproject)
 
 ## Miesięczne wsparcie
 

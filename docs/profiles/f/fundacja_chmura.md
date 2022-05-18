@@ -1,5 +1,5 @@
 ---
-title: fundacja_chmura | Patromierz
+title: "fundacja_chmura | Patromierz"
 permalink: /fundacja_chmura
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja_chmura
 <script type="text/javascript" src="data/f/fundacja_chmura.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja_chmura](https://patronite.pl/fundacja_chmura)
+# [Fundacja Kultury Wizualnej CHMURA](https://patronite.pl/fundacja_chmura)
 
 ## Miesięczne wsparcie
 

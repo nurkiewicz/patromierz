@@ -1,5 +1,5 @@
 ---
-title: psiemielone | Patromierz
+title: "psiemielone | Patromierz"
 permalink: /psiemielone
 ---
 
@@ -7,7 +7,7 @@ permalink: /psiemielone
 <script type="text/javascript" src="data/p/psiemielone.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psiemielone](https://patronite.pl/psiemielone)
+# [Psiemielony podcast](https://patronite.pl/psiemielone)
 
 ## Miesięczne wsparcie
 

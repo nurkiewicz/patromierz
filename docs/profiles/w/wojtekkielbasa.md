@@ -1,5 +1,5 @@
 ---
-title: wojtekkielbasa | Patromierz
+title: "wojtekkielbasa | Patromierz"
 permalink: /wojtekkielbasa
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojtekkielbasa
 <script type="text/javascript" src="data/w/wojtekkielbasa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojtekkielbasa](https://patronite.pl/wojtekkielbasa)
+# [Wojtek Kiełbasa](https://patronite.pl/wojtekkielbasa)
 
 ## Miesięczne wsparcie
 

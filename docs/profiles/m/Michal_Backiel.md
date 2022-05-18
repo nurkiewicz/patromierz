@@ -1,5 +1,5 @@
 ---
-title: Michal_Backiel | Patromierz
+title: "Michal_Backiel | Patromierz"
 permalink: /Michal_Backiel
 ---
 
@@ -7,7 +7,7 @@ permalink: /Michal_Backiel
 <script type="text/javascript" src="data/m/Michal_Backiel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Michal_Backiel](https://patronite.pl/Michal_Backiel)
+# [Michał Backiel](https://patronite.pl/Michal_Backiel)
 
 ## Miesięczne wsparcie
 

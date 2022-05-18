@@ -1,5 +1,5 @@
 ---
-title: akugitara | Patromierz
+title: "akugitara | Patromierz"
 permalink: /akugitara
 ---
 
@@ -7,7 +7,7 @@ permalink: /akugitara
 <script type="text/javascript" src="data/a/akugitara.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akugitara](https://patronite.pl/akugitara)
+# [AkuGitara](https://patronite.pl/akugitara)
 
 ## Miesięczne wsparcie
 

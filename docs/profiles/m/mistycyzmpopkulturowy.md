@@ -1,5 +1,5 @@
 ---
-title: mistycyzmpopkulturowy | Patromierz
+title: "mistycyzmpopkulturowy | Patromierz"
 permalink: /mistycyzmpopkulturowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /mistycyzmpopkulturowy
 <script type="text/javascript" src="data/m/mistycyzmpopkulturowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mistycyzmpopkulturowy](https://patronite.pl/mistycyzmpopkulturowy)
+# [Mistycyzm Popkulturowy](https://patronite.pl/mistycyzmpopkulturowy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wolnawisla | Patromierz
+title: "wolnawisla | Patromierz"
 permalink: /wolnawisla
 ---
 
@@ -7,7 +7,7 @@ permalink: /wolnawisla
 <script type="text/javascript" src="data/w/wolnawisla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wolnawisla](https://patronite.pl/wolnawisla)
+# [Fundacja Wolna Wisła](https://patronite.pl/wolnawisla)
 
 ## Miesięczne wsparcie
 

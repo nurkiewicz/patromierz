@@ -1,5 +1,5 @@
 ---
-title: shappiworkshop | Patromierz
+title: "shappiworkshop | Patromierz"
 permalink: /shappiworkshop
 ---
 
@@ -7,7 +7,7 @@ permalink: /shappiworkshop
 <script type="text/javascript" src="data/s/shappiworkshop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [shappiworkshop](https://patronite.pl/shappiworkshop)
+# [Shappi Workshop](https://patronite.pl/shappiworkshop)
 
 ## Miesięczne wsparcie
 

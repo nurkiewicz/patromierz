@@ -1,5 +1,5 @@
 ---
-title: porady | Patromierz
+title: "porady | Patromierz"
 permalink: /porady
 ---
 
@@ -7,7 +7,7 @@ permalink: /porady
 <script type="text/javascript" src="data/p/porady.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [porady](https://patronite.pl/porady)
+# [Porady  Medyczne Rzetelna i Wiarygodna wiedza On line](https://patronite.pl/porady)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ZojaHawrylo | Patromierz
+title: "ZojaHawrylo | Patromierz"
 permalink: /ZojaHawrylo
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZojaHawrylo
 <script type="text/javascript" src="data/z/ZojaHawrylo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZojaHawrylo](https://patronite.pl/ZojaHawrylo)
+# [Zoja Hawryło](https://patronite.pl/ZojaHawrylo)
 
 ## Miesięczne wsparcie
 

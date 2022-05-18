@@ -1,5 +1,5 @@
 ---
-title: MuzykaSeniora | Patromierz
+title: "MuzykaSeniora | Patromierz"
 permalink: /MuzykaSeniora
 ---
 
@@ -7,7 +7,7 @@ permalink: /MuzykaSeniora
 <script type="text/javascript" src="data/m/MuzykaSeniora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MuzykaSeniora](https://patronite.pl/MuzykaSeniora)
+# [Eugeniusz Tiemnikow (Żenia)](https://patronite.pl/MuzykaSeniora)
 
 ## Miesięczne wsparcie
 

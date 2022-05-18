@@ -1,5 +1,5 @@
 ---
-title: znowodronach | Patromierz
+title: "znowodronach | Patromierz"
 permalink: /znowodronach
 ---
 
@@ -7,7 +7,7 @@ permalink: /znowodronach
 <script type="text/javascript" src="data/z/znowodronach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znowodronach](https://patronite.pl/znowodronach)
+# [A TEN ZNÓW O DRONACH!](https://patronite.pl/znowodronach)
 
 ## Miesięczne wsparcie
 

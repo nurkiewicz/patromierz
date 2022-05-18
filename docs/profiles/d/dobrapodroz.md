@@ -1,5 +1,5 @@
 ---
-title: dobrapodroz | Patromierz
+title: "dobrapodroz | Patromierz"
 permalink: /dobrapodroz
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobrapodroz
 <script type="text/javascript" src="data/d/dobrapodroz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobrapodroz](https://patronite.pl/dobrapodroz)
+# [Dobra Podróż](https://patronite.pl/dobrapodroz)
 
 ## Miesięczne wsparcie
 

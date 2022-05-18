@@ -1,5 +1,5 @@
 ---
-title: Dominika_Bienias | Patromierz
+title: "Dominika_Bienias | Patromierz"
 permalink: /Dominika_Bienias
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dominika_Bienias
 <script type="text/javascript" src="data/d/Dominika_Bienias.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dominika_Bienias](https://patronite.pl/Dominika_Bienias)
+# [Dominika Bienias](https://patronite.pl/Dominika_Bienias)
 
 ## Miesięczne wsparcie
 

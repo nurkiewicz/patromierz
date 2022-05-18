@@ -1,5 +1,5 @@
 ---
-title: waclawjan | Patromierz
+title: "waclawjan | Patromierz"
 permalink: /waclawjan
 ---
 
@@ -7,7 +7,7 @@ permalink: /waclawjan
 <script type="text/javascript" src="data/w/waclawjan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [waclawjan](https://patronite.pl/waclawjan)
+# [Waclaw Jan Kroczek](https://patronite.pl/waclawjan)
 
 ## Miesięczne wsparcie
 

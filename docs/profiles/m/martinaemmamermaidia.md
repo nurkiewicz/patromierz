@@ -1,5 +1,5 @@
 ---
-title: martinaemmamermaidia | Patromierz
+title: "martinaemmamermaidia | Patromierz"
 permalink: /martinaemmamermaidia
 ---
 
@@ -7,7 +7,7 @@ permalink: /martinaemmamermaidia
 <script type="text/javascript" src="data/m/martinaemmamermaidia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [martinaemmamermaidia](https://patronite.pl/martinaemmamermaidia)
+# [Martina Emma Mermaidia](https://patronite.pl/martinaemmamermaidia)
 
 ## Miesięczne wsparcie
 

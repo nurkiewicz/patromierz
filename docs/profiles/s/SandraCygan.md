@@ -1,5 +1,5 @@
 ---
-title: SandraCygan | Patromierz
+title: "SandraCygan | Patromierz"
 permalink: /SandraCygan
 ---
 
@@ -7,7 +7,7 @@ permalink: /SandraCygan
 <script type="text/javascript" src="data/s/SandraCygan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SandraCygan](https://patronite.pl/SandraCygan)
+# [Sandra Cygan](https://patronite.pl/SandraCygan)
 
 ## Miesięczne wsparcie
 

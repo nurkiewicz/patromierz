@@ -1,5 +1,5 @@
 ---
-title: jantar.elblag | Patromierz
+title: "jantar.elblag | Patromierz"
 permalink: /jantar.elblag
 ---
 
@@ -7,7 +7,7 @@ permalink: /jantar.elblag
 <script type="text/javascript" src="data/j/jantar.elblag.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jantar.elblag](https://patronite.pl/jantar.elblag)
+# [JANTAR Elbląg Standard Formation Team - Formacja JANTAR](https://patronite.pl/jantar.elblag)
 
 ## Miesięczne wsparcie
 

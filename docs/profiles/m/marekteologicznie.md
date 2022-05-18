@@ -1,5 +1,5 @@
 ---
-title: marekteologicznie | Patromierz
+title: "marekteologicznie | Patromierz"
 permalink: /marekteologicznie
 ---
 
@@ -7,7 +7,7 @@ permalink: /marekteologicznie
 <script type="text/javascript" src="data/m/marekteologicznie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marekteologicznie](https://patronite.pl/marekteologicznie)
+# [Marek Teologicznie](https://patronite.pl/marekteologicznie)
 
 ## Miesięczne wsparcie
 

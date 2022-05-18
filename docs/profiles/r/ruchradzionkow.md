@@ -1,5 +1,5 @@
 ---
-title: ruchradzionkow | Patromierz
+title: "ruchradzionkow | Patromierz"
 permalink: /ruchradzionkow
 ---
 
@@ -7,7 +7,7 @@ permalink: /ruchradzionkow
 <script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ruchradzionkow](https://patronite.pl/ruchradzionkow)
+# [Ruch Radzionków](https://patronite.pl/ruchradzionkow)
 
 ## Miesięczne wsparcie
 

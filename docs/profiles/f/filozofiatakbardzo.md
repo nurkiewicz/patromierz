@@ -1,5 +1,5 @@
 ---
-title: filozofiatakbardzo | Patromierz
+title: "filozofiatakbardzo | Patromierz"
 permalink: /filozofiatakbardzo
 ---
 
@@ -7,7 +7,7 @@ permalink: /filozofiatakbardzo
 <script type="text/javascript" src="data/f/filozofiatakbardzo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filozofiatakbardzo](https://patronite.pl/filozofiatakbardzo)
+# [Filozofia tak bardzo](https://patronite.pl/filozofiatakbardzo)
 
 ## Miesięczne wsparcie
 

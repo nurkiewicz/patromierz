@@ -1,5 +1,5 @@
 ---
-title: KociŁapci | Patromierz
+title: "KociŁapci | Patromierz"
 permalink: /KociŁapci
 ---
 
@@ -7,7 +7,7 @@ permalink: /KociŁapci
 <script type="text/javascript" src="data/k/KociŁapci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KociŁapci](https://patronite.pl/KociŁapci)
+# [Przystań dla Kociąt "Koci Łapci"](https://patronite.pl/KociŁapci)
 
 ## Miesięczne wsparcie
 

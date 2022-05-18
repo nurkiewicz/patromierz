@@ -1,5 +1,5 @@
 ---
-title: obliczaxxwieku | Patromierz
+title: "obliczaxxwieku | Patromierz"
 permalink: /obliczaxxwieku
 ---
 
@@ -7,7 +7,7 @@ permalink: /obliczaxxwieku
 <script type="text/javascript" src="data/o/obliczaxxwieku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [obliczaxxwieku](https://patronite.pl/obliczaxxwieku)
+# [Oblicza XX Wieku](https://patronite.pl/obliczaxxwieku)
 
 ## Miesięczne wsparcie
 

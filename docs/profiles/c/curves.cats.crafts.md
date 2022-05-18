@@ -1,5 +1,5 @@
 ---
-title: curves.cats.crafts | Patromierz
+title: "curves.cats.crafts | Patromierz"
 permalink: /curves.cats.crafts
 ---
 
@@ -7,7 +7,7 @@ permalink: /curves.cats.crafts
 <script type="text/javascript" src="data/c/curves.cats.crafts.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [curves.cats.crafts](https://patronite.pl/curves.cats.crafts)
+# [Curves Cats Crafts](https://patronite.pl/curves.cats.crafts)
 
 ## Miesięczne wsparcie
 

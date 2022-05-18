@@ -1,5 +1,5 @@
 ---
-title: pawelszymanski | Patromierz
+title: "pawelszymanski | Patromierz"
 permalink: /pawelszymanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /pawelszymanski
 <script type="text/javascript" src="data/p/pawelszymanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pawelszymanski](https://patronite.pl/pawelszymanski)
+# [Paweł Szymański](https://patronite.pl/pawelszymanski)
 
 ## Miesięczne wsparcie
 

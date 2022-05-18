@@ -1,5 +1,5 @@
 ---
-title: MuzeumSkarbNarodu | Patromierz
+title: "MuzeumSkarbNarodu | Patromierz"
 permalink: /MuzeumSkarbNarodu
 ---
 
@@ -7,7 +7,7 @@ permalink: /MuzeumSkarbNarodu
 <script type="text/javascript" src="data/m/MuzeumSkarbNarodu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MuzeumSkarbNarodu](https://patronite.pl/MuzeumSkarbNarodu)
+# [Muzeum Skarb Narodu](https://patronite.pl/MuzeumSkarbNarodu)
 
 ## Miesięczne wsparcie
 

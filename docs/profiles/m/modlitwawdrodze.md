@@ -1,5 +1,5 @@
 ---
-title: modlitwawdrodze | Patromierz
+title: "modlitwawdrodze | Patromierz"
 permalink: /modlitwawdrodze
 ---
 
@@ -7,7 +7,7 @@ permalink: /modlitwawdrodze
 <script type="text/javascript" src="data/m/modlitwawdrodze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [modlitwawdrodze](https://patronite.pl/modlitwawdrodze)
+# [Modlitwa w drodze](https://patronite.pl/modlitwawdrodze)
 
 ## Miesięczne wsparcie
 

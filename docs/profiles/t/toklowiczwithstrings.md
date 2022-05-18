@@ -1,5 +1,5 @@
 ---
-title: toklowiczwithstrings | Patromierz
+title: "toklowiczwithstrings | Patromierz"
 permalink: /toklowiczwithstrings
 ---
 
@@ -7,7 +7,7 @@ permalink: /toklowiczwithstrings
 <script type="text/javascript" src="data/t/toklowiczwithstrings.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [toklowiczwithstrings](https://patronite.pl/toklowiczwithstrings)
+# [Tokłowicz with strings  ](https://patronite.pl/toklowiczwithstrings)
 
 ## Miesięczne wsparcie
 

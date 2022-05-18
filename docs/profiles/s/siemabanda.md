@@ -1,5 +1,5 @@
 ---
-title: siemabanda | Patromierz
+title: "siemabanda | Patromierz"
 permalink: /siemabanda
 ---
 
@@ -7,7 +7,7 @@ permalink: /siemabanda
 <script type="text/javascript" src="data/s/siemabanda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [siemabanda](https://patronite.pl/siemabanda)
+# [Siema Banda](https://patronite.pl/siemabanda)
 
 ## Miesięczne wsparcie
 

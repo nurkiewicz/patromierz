@@ -1,5 +1,5 @@
 ---
-title: Izrealia | Patromierz
+title: "Izrealia | Patromierz"
 permalink: /Izrealia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Izrealia
 <script type="text/javascript" src="data/i/Izrealia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Izrealia](https://patronite.pl/Izrealia)
+# [Izrealia - Agata Tarnowska](https://patronite.pl/Izrealia)
 
 ## Miesięczne wsparcie
 

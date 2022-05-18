@@ -1,5 +1,5 @@
 ---
-title: SmallTalking | Patromierz
+title: "SmallTalking | Patromierz"
 permalink: /SmallTalking
 ---
 
@@ -7,7 +7,7 @@ permalink: /SmallTalking
 <script type="text/javascript" src="data/s/SmallTalking.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SmallTalking](https://patronite.pl/SmallTalking)
+# [Small Talking](https://patronite.pl/SmallTalking)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: devmode | Patromierz
+title: "devmode | Patromierz"
 permalink: /devmode
 ---
 
@@ -7,7 +7,7 @@ permalink: /devmode
 <script type="text/javascript" src="data/d/devmode.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [devmode](https://patronite.pl/devmode)
+# [Devmode](https://patronite.pl/devmode)
 
 ## Miesięczne wsparcie
 

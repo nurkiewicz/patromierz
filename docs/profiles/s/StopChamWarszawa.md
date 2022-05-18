@@ -1,5 +1,5 @@
 ---
-title: StopChamWarszawa | Patromierz
+title: "StopChamWarszawa | Patromierz"
 permalink: /StopChamWarszawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /StopChamWarszawa
 <script type="text/javascript" src="data/s/StopChamWarszawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StopChamWarszawa](https://patronite.pl/StopChamWarszawa)
+# [Stop Cham Warszawa](https://patronite.pl/StopChamWarszawa)
 
 ## Miesięczne wsparcie
 

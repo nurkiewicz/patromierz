@@ -1,5 +1,5 @@
 ---
-title: Las-Na-Zawsze | Patromierz
+title: "Las-Na-Zawsze | Patromierz"
 permalink: /Las-Na-Zawsze
 ---
 
@@ -7,7 +7,7 @@ permalink: /Las-Na-Zawsze
 <script type="text/javascript" src="data/l/Las-Na-Zawsze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Las-Na-Zawsze](https://patronite.pl/Las-Na-Zawsze)
+# [Las Na Zawsze | Fundacja](https://patronite.pl/Las-Na-Zawsze)
 
 ## Miesięczne wsparcie
 

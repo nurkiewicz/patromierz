@@ -1,5 +1,5 @@
 ---
-title: PoProstuWschód | Patromierz
+title: "PoProstuWschód | Patromierz"
 permalink: /PoProstuWschód
 ---
 
@@ -7,7 +7,7 @@ permalink: /PoProstuWschód
 <script type="text/javascript" src="data/p/PoProstuWschód.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PoProstuWschód](https://patronite.pl/PoProstuWschód)
+# [Piotr Pogorzelski](https://patronite.pl/PoProstuWschód)
 
 ## Miesięczne wsparcie
 

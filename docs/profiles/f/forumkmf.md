@@ -1,5 +1,5 @@
 ---
-title: forumkmf | Patromierz
+title: "forumkmf | Patromierz"
 permalink: /forumkmf
 ---
 
@@ -7,7 +7,7 @@ permalink: /forumkmf
 <script type="text/javascript" src="data/f/forumkmf.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [forumkmf](https://patronite.pl/forumkmf)
+# [Forum KMF](https://patronite.pl/forumkmf)
 
 ## Miesięczne wsparcie
 

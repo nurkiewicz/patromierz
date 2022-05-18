@@ -1,5 +1,5 @@
 ---
-title: sonaryimapy | Patromierz
+title: "sonaryimapy | Patromierz"
 permalink: /sonaryimapy
 ---
 
@@ -7,7 +7,7 @@ permalink: /sonaryimapy
 <script type="text/javascript" src="data/s/sonaryimapy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sonaryimapy](https://patronite.pl/sonaryimapy)
+# [Sonary i mapy](https://patronite.pl/sonaryimapy)
 
 ## Miesięczne wsparcie
 

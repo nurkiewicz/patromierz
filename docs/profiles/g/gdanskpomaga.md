@@ -1,5 +1,5 @@
 ---
-title: gdanskpomaga | Patromierz
+title: "gdanskpomaga | Patromierz"
 permalink: /gdanskpomaga
 ---
 
@@ -7,7 +7,7 @@ permalink: /gdanskpomaga
 <script type="text/javascript" src="data/g/gdanskpomaga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gdanskpomaga](https://patronite.pl/gdanskpomaga)
+# [Gdańsk Pomaga](https://patronite.pl/gdanskpomaga)
 
 ## Miesięczne wsparcie
 

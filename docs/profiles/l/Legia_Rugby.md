@@ -1,5 +1,5 @@
 ---
-title: Legia_Rugby | Patromierz
+title: "Legia_Rugby | Patromierz"
 permalink: /Legia_Rugby
 ---
 
@@ -7,7 +7,7 @@ permalink: /Legia_Rugby
 <script type="text/javascript" src="data/l/Legia_Rugby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Legia_Rugby](https://patronite.pl/Legia_Rugby)
+# [Legia Rugby](https://patronite.pl/Legia_Rugby)
 
 ## Miesięczne wsparcie
 

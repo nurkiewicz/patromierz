@@ -1,5 +1,5 @@
 ---
-title: ajgorignacy | Patromierz
+title: "ajgorignacy | Patromierz"
 permalink: /ajgorignacy
 ---
 
@@ -7,7 +7,7 @@ permalink: /ajgorignacy
 <script type="text/javascript" src="data/a/ajgorignacy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ajgorignacy](https://patronite.pl/ajgorignacy)
+# [Ajgor Ignacy](https://patronite.pl/ajgorignacy)
 
 ## Miesięczne wsparcie
 

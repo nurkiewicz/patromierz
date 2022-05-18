@@ -1,5 +1,5 @@
 ---
-title: noseynosey | Patromierz
+title: "noseynosey | Patromierz"
 permalink: /noseynosey
 ---
 
@@ -7,7 +7,7 @@ permalink: /noseynosey
 <script type="text/javascript" src="data/n/noseynosey.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [noseynosey](https://patronite.pl/noseynosey)
+# [Nosey Nosey](https://patronite.pl/noseynosey)
 
 ## Miesięczne wsparcie
 

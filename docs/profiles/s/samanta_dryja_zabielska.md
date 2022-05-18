@@ -1,5 +1,5 @@
 ---
-title: samanta_dryja_zabielska | Patromierz
+title: "samanta_dryja_zabielska | Patromierz"
 permalink: /samanta_dryja_zabielska
 ---
 
@@ -7,7 +7,7 @@ permalink: /samanta_dryja_zabielska
 <script type="text/javascript" src="data/s/samanta_dryja_zabielska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [samanta_dryja_zabielska](https://patronite.pl/samanta_dryja_zabielska)
+# [Samanta Dryja-Zabielska (Edukacja z pasją)](https://patronite.pl/samanta_dryja_zabielska)
 
 ## Miesięczne wsparcie
 

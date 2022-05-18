@@ -1,5 +1,5 @@
 ---
-title: DominikMaluje | Patromierz
+title: "DominikMaluje | Patromierz"
 permalink: /DominikMaluje
 ---
 
@@ -7,7 +7,7 @@ permalink: /DominikMaluje
 <script type="text/javascript" src="data/d/DominikMaluje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DominikMaluje](https://patronite.pl/DominikMaluje)
+# [DOMINIK MALUJE](https://patronite.pl/DominikMaluje)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Motylarnia | Patromierz
+title: "Motylarnia | Patromierz"
 permalink: /Motylarnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Motylarnia
 <script type="text/javascript" src="data/m/Motylarnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Motylarnia](https://patronite.pl/Motylarnia)
+# [Motylarnia w Czaplach Wielkich](https://patronite.pl/Motylarnia)
 
 ## Miesięczne wsparcie
 

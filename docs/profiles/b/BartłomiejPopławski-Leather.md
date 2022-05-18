@@ -1,5 +1,5 @@
 ---
-title: BartłomiejPopławski-Leather | Patromierz
+title: "BartłomiejPopławski-Leather | Patromierz"
 permalink: /BartłomiejPopławski-Leather
 ---
 
@@ -7,7 +7,7 @@ permalink: /BartłomiejPopławski-Leather
 <script type="text/javascript" src="data/b/BartłomiejPopławski-Leather.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BartłomiejPopławski-Leather](https://patronite.pl/BartłomiejPopławski-Leather)
+# [Bartłomiej Popławski-Leatherworks](https://patronite.pl/BartłomiejPopławski-Leather)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ptasiastrefa | Patromierz
+title: "ptasiastrefa | Patromierz"
 permalink: /ptasiastrefa
 ---
 
@@ -7,7 +7,7 @@ permalink: /ptasiastrefa
 <script type="text/javascript" src="data/p/ptasiastrefa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ptasiastrefa](https://patronite.pl/ptasiastrefa)
+# [Ptasia Strefa](https://patronite.pl/ptasiastrefa)
 
 ## Miesięczne wsparcie
 

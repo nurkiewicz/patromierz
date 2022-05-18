@@ -1,5 +1,5 @@
 ---
-title: ŚwiatWody | Patromierz
+title: "ŚwiatWody | Patromierz"
 permalink: /ŚwiatWody
 ---
 
@@ -7,7 +7,7 @@ permalink: /ŚwiatWody
 <script type="text/javascript" src="data/ś/ŚwiatWody.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ŚwiatWody](https://patronite.pl/ŚwiatWody)
+# [Świat Wody](https://patronite.pl/ŚwiatWody)
 
 ## Miesięczne wsparcie
 

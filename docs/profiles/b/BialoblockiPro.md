@@ -1,5 +1,5 @@
 ---
-title: BialoblockiPro | Patromierz
+title: "BialoblockiPro | Patromierz"
 permalink: /BialoblockiPro
 ---
 
@@ -7,7 +7,7 @@ permalink: /BialoblockiPro
 <script type="text/javascript" src="data/b/BialoblockiPro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BialoblockiPro](https://patronite.pl/BialoblockiPro)
+# [BIALOBLOCKI PRO COACHING TEAM](https://patronite.pl/BialoblockiPro)
 
 ## Miesięczne wsparcie
 

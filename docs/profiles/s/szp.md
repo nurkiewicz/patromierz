@@ -1,5 +1,5 @@
 ---
-title: szp | Patromierz
+title: "szp | Patromierz"
 permalink: /szp
 ---
 
@@ -7,7 +7,7 @@ permalink: /szp
 <script type="text/javascript" src="data/s/szp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szp](https://patronite.pl/szp)
+# [Stowarzyszenie Żywych Poetów](https://patronite.pl/szp)
 
 ## Miesięczne wsparcie
 

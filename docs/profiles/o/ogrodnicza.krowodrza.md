@@ -1,5 +1,5 @@
 ---
-title: ogrodnicza.krowodrza | Patromierz
+title: "ogrodnicza.krowodrza | Patromierz"
 permalink: /ogrodnicza.krowodrza
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogrodnicza.krowodrza
 <script type="text/javascript" src="data/o/ogrodnicza.krowodrza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogrodnicza.krowodrza](https://patronite.pl/ogrodnicza.krowodrza)
+# [Ogrodnicza Krowodrza](https://patronite.pl/ogrodnicza.krowodrza)
 
 ## Miesięczne wsparcie
 

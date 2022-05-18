@@ -1,5 +1,5 @@
 ---
-title: SiatkarskiePodroze | Patromierz
+title: "SiatkarskiePodroze | Patromierz"
 permalink: /SiatkarskiePodroze
 ---
 
@@ -7,7 +7,7 @@ permalink: /SiatkarskiePodroze
 <script type="text/javascript" src="data/s/SiatkarskiePodroze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SiatkarskiePodroze](https://patronite.pl/SiatkarskiePodroze)
+# [Siatkarskie Podróże](https://patronite.pl/SiatkarskiePodroze)
 
 ## Miesięczne wsparcie
 

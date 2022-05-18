@@ -1,5 +1,5 @@
 ---
-title: simekrysuje | Patromierz
+title: "simekrysuje | Patromierz"
 permalink: /simekrysuje
 ---
 
@@ -7,7 +7,7 @@ permalink: /simekrysuje
 <script type="text/javascript" src="data/s/simekrysuje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [simekrysuje](https://patronite.pl/simekrysuje)
+# [Simek Art](https://patronite.pl/simekrysuje)
 
 ## Miesięczne wsparcie
 

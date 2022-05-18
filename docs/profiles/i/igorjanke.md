@@ -1,5 +1,5 @@
 ---
-title: igorjanke | Patromierz
+title: "igorjanke | Patromierz"
 permalink: /igorjanke
 ---
 
@@ -7,7 +7,7 @@ permalink: /igorjanke
 <script type="text/javascript" src="data/i/igorjanke.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [igorjanke](https://patronite.pl/igorjanke)
+# [Igor Janke. Układ otwarty](https://patronite.pl/igorjanke)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: RadekKobialkoNadaje | Patromierz
+title: "RadekKobialkoNadaje | Patromierz"
 permalink: /RadekKobialkoNadaje
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadekKobialkoNadaje
 <script type="text/javascript" src="data/r/RadekKobialkoNadaje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadekKobialkoNadaje](https://patronite.pl/RadekKobialkoNadaje)
+# [Radek Kobiałko Nadaje](https://patronite.pl/RadekKobialkoNadaje)
 
 ## Miesięczne wsparcie
 

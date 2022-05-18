@@ -1,5 +1,5 @@
 ---
-title: mariesomarie | Patromierz
+title: "mariesomarie | Patromierz"
 permalink: /mariesomarie
 ---
 
@@ -7,7 +7,7 @@ permalink: /mariesomarie
 <script type="text/javascript" src="data/m/mariesomarie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mariesomarie](https://patronite.pl/mariesomarie)
+# [Marie](https://patronite.pl/mariesomarie)
 
 ## Miesięczne wsparcie
 

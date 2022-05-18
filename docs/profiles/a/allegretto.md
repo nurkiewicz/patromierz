@@ -1,5 +1,5 @@
 ---
-title: allegretto | Patromierz
+title: "allegretto | Patromierz"
 permalink: /allegretto
 ---
 
@@ -7,7 +7,7 @@ permalink: /allegretto
 <script type="text/javascript" src="data/a/allegretto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [allegretto](https://patronite.pl/allegretto)
+# [ALLEGRETTO Autorska Szkoła Muzyki](https://patronite.pl/allegretto)
 
 ## Miesięczne wsparcie
 

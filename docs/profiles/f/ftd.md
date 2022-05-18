@@ -1,5 +1,5 @@
 ---
-title: ftd | Patromierz
+title: "ftd | Patromierz"
 permalink: /ftd
 ---
 
@@ -7,7 +7,7 @@ permalink: /ftd
 <script type="text/javascript" src="data/f/ftd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ftd](https://patronite.pl/ftd)
+# [Fundacja Twoje Dziedzictwo](https://patronite.pl/ftd)
 
 ## Miesięczne wsparcie
 

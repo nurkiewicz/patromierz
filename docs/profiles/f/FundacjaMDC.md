@@ -1,5 +1,5 @@
 ---
-title: FundacjaMDC | Patromierz
+title: "FundacjaMDC | Patromierz"
 permalink: /FundacjaMDC
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaMDC
 <script type="text/javascript" src="data/f/FundacjaMDC.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaMDC](https://patronite.pl/FundacjaMDC)
+# [Fundacja Mały Duży Człowiek ](https://patronite.pl/FundacjaMDC)
 
 ## Miesięczne wsparcie
 

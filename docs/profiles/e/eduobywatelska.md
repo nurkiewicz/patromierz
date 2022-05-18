@@ -1,5 +1,5 @@
 ---
-title: eduobywatelska | Patromierz
+title: "eduobywatelska | Patromierz"
 permalink: /eduobywatelska
 ---
 
@@ -7,7 +7,7 @@ permalink: /eduobywatelska
 <script type="text/javascript" src="data/e/eduobywatelska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eduobywatelska](https://patronite.pl/eduobywatelska)
+# [Fundacja Edukacji Obywatelskiej](https://patronite.pl/eduobywatelska)
 
 ## Miesięczne wsparcie
 

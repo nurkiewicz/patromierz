@@ -1,5 +1,5 @@
 ---
-title: chejuventus | Patromierz
+title: "chejuventus | Patromierz"
 permalink: /chejuventus
 ---
 
@@ -7,7 +7,7 @@ permalink: /chejuventus
 <script type="text/javascript" src="data/c/chejuventus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chejuventus](https://patronite.pl/chejuventus)
+# [Che Juventus](https://patronite.pl/chejuventus)
 
 ## Miesięczne wsparcie
 

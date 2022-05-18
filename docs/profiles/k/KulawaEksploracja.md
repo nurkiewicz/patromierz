@@ -1,5 +1,5 @@
 ---
-title: KulawaEksploracja | Patromierz
+title: "KulawaEksploracja | Patromierz"
 permalink: /KulawaEksploracja
 ---
 
@@ -7,7 +7,7 @@ permalink: /KulawaEksploracja
 <script type="text/javascript" src="data/k/KulawaEksploracja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KulawaEksploracja](https://patronite.pl/KulawaEksploracja)
+# [Kulawa Eksploracja](https://patronite.pl/KulawaEksploracja)
 
 ## Miesięczne wsparcie
 

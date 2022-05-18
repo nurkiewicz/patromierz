@@ -1,5 +1,5 @@
 ---
-title: arturgalaktyka | Patromierz
+title: "arturgalaktyka | Patromierz"
 permalink: /arturgalaktyka
 ---
 
@@ -7,7 +7,7 @@ permalink: /arturgalaktyka
 <script type="text/javascript" src="data/a/arturgalaktyka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arturgalaktyka](https://patronite.pl/arturgalaktyka)
+# [Artur Galaktyka](https://patronite.pl/arturgalaktyka)
 
 ## Miesięczne wsparcie
 

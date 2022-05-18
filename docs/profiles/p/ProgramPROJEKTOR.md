@@ -1,5 +1,5 @@
 ---
-title: ProgramPROJEKTOR | Patromierz
+title: "ProgramPROJEKTOR | Patromierz"
 permalink: /ProgramPROJEKTOR
 ---
 
@@ -7,7 +7,7 @@ permalink: /ProgramPROJEKTOR
 <script type="text/javascript" src="data/p/ProgramPROJEKTOR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ProgramPROJEKTOR](https://patronite.pl/ProgramPROJEKTOR)
+# [Program PROJEKTOR](https://patronite.pl/ProgramPROJEKTOR)
 
 ## Miesięczne wsparcie
 

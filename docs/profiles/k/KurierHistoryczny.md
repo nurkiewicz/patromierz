@@ -1,5 +1,5 @@
 ---
-title: KurierHistoryczny | Patromierz
+title: "KurierHistoryczny | Patromierz"
 permalink: /KurierHistoryczny
 ---
 
@@ -7,7 +7,7 @@ permalink: /KurierHistoryczny
 <script type="text/javascript" src="data/k/KurierHistoryczny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KurierHistoryczny](https://patronite.pl/KurierHistoryczny)
+# [Kurier Historyczny](https://patronite.pl/KurierHistoryczny)
 
 ## Miesięczne wsparcie
 

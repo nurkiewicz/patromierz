@@ -1,5 +1,5 @@
 ---
-title: kubazaborski | Patromierz
+title: "kubazaborski | Patromierz"
 permalink: /kubazaborski
 ---
 
@@ -7,7 +7,7 @@ permalink: /kubazaborski
 <script type="text/javascript" src="data/k/kubazaborski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kubazaborski](https://patronite.pl/kubazaborski)
+# [Kuba Zaborski](https://patronite.pl/kubazaborski)
 
 ## Miesięczne wsparcie
 

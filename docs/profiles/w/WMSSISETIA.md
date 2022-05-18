@@ -1,5 +1,5 @@
 ---
-title: WMSSISETIA | Patromierz
+title: "WMSSISETIA | Patromierz"
 permalink: /WMSSISETIA
 ---
 
@@ -7,7 +7,7 @@ permalink: /WMSSISETIA
 <script type="text/javascript" src="data/w/WMSSISETIA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WMSSISETIA](https://patronite.pl/WMSSISETIA)
+# [WMSS ISETIA](https://patronite.pl/WMSSISETIA)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: majaklemp | Patromierz
+title: "majaklemp | Patromierz"
 permalink: /majaklemp
 ---
 
@@ -7,7 +7,7 @@ permalink: /majaklemp
 <script type="text/javascript" src="data/m/majaklemp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [majaklemp](https://patronite.pl/majaklemp)
+# [Maja Klemp](https://patronite.pl/majaklemp)
 
 ## Miesięczne wsparcie
 

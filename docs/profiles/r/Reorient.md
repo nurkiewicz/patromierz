@@ -1,5 +1,5 @@
 ---
-title: Reorient | Patromierz
+title: "Reorient | Patromierz"
 permalink: /Reorient
 ---
 
@@ -7,7 +7,7 @@ permalink: /Reorient
 <script type="text/javascript" src="data/r/Reorient.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Reorient](https://patronite.pl/Reorient)
+# [Reorient: kultura i nauka](https://patronite.pl/Reorient)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: stacja-ateizm | Patromierz
+title: "stacja-ateizm | Patromierz"
 permalink: /stacja-ateizm
 ---
 
@@ -7,7 +7,7 @@ permalink: /stacja-ateizm
 <script type="text/javascript" src="data/s/stacja-ateizm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stacja-ateizm](https://patronite.pl/stacja-ateizm)
+# [Stacja Ateizm](https://patronite.pl/stacja-ateizm)
 
 ## Miesięczne wsparcie
 

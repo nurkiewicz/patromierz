@@ -1,5 +1,5 @@
 ---
-title: mirekk36 | Patromierz
+title: "mirekk36 | Patromierz"
 permalink: /mirekk36
 ---
 
@@ -7,7 +7,7 @@ permalink: /mirekk36
 <script type="text/javascript" src="data/m/mirekk36.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mirekk36](https://patronite.pl/mirekk36)
+# [Mirosław Kardaś](https://patronite.pl/mirekk36)
 
 ## Miesięczne wsparcie
 

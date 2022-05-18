@@ -1,5 +1,5 @@
 ---
-title: whiskyzcola | Patromierz
+title: "whiskyzcola | Patromierz"
 permalink: /whiskyzcola
 ---
 
@@ -7,7 +7,7 @@ permalink: /whiskyzcola
 <script type="text/javascript" src="data/w/whiskyzcola.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [whiskyzcola](https://patronite.pl/whiskyzcola)
+# [Whisky z Colą](https://patronite.pl/whiskyzcola)
 
 ## Miesięczne wsparcie
 

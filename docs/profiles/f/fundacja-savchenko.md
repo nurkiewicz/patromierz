@@ -1,5 +1,5 @@
 ---
-title: fundacja-savchenko | Patromierz
+title: "fundacja-savchenko | Patromierz"
 permalink: /fundacja-savchenko
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja-savchenko
 <script type="text/javascript" src="data/f/fundacja-savchenko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja-savchenko](https://patronite.pl/fundacja-savchenko)
+# [Fundacja Savchenko](https://patronite.pl/fundacja-savchenko)
 
 ## Miesięczne wsparcie
 

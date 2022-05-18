@@ -1,5 +1,5 @@
 ---
-title: areowski | Patromierz
+title: "areowski | Patromierz"
 permalink: /areowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /areowski
 <script type="text/javascript" src="data/a/areowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [areowski](https://patronite.pl/areowski)
+# [Areowski](https://patronite.pl/areowski)
 
 ## Miesięczne wsparcie
 

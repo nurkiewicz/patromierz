@@ -1,5 +1,5 @@
 ---
-title: steiger | Patromierz
+title: "steiger | Patromierz"
 permalink: /steiger
 ---
 
@@ -7,7 +7,7 @@ permalink: /steiger
 <script type="text/javascript" src="data/s/steiger.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [steiger](https://patronite.pl/steiger)
+# [Steiger Polska](https://patronite.pl/steiger)
 
 ## Miesięczne wsparcie
 

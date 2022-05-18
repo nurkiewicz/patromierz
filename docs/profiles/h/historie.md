@@ -1,5 +1,5 @@
 ---
-title: historie | Patromierz
+title: "historie | Patromierz"
 permalink: /historie
 ---
 
@@ -7,7 +7,7 @@ permalink: /historie
 <script type="text/javascript" src="data/h/historie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historie](https://patronite.pl/historie)
+# [HISTORIE](https://patronite.pl/historie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: azylkurzalapka | Patromierz
+title: "azylkurzalapka | Patromierz"
 permalink: /azylkurzalapka
 ---
 
@@ -7,7 +7,7 @@ permalink: /azylkurzalapka
 <script type="text/javascript" src="data/a/azylkurzalapka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [azylkurzalapka](https://patronite.pl/azylkurzalapka)
+# [Azyl Kurza Łapka ](https://patronite.pl/azylkurzalapka)
 
 ## Miesięczne wsparcie
 

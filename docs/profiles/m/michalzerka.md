@@ -1,5 +1,5 @@
 ---
-title: michalzerka | Patromierz
+title: "michalzerka | Patromierz"
 permalink: /michalzerka
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalzerka
 <script type="text/javascript" src="data/m/michalzerka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalzerka](https://patronite.pl/michalzerka)
+# [Michał Zerka](https://patronite.pl/michalzerka)
 
 ## Miesięczne wsparcie
 

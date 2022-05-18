@@ -1,5 +1,5 @@
 ---
-title: facecje | Patromierz
+title: "facecje | Patromierz"
 permalink: /facecje
 ---
 
@@ -7,7 +7,7 @@ permalink: /facecje
 <script type="text/javascript" src="data/f/facecje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [facecje](https://patronite.pl/facecje)
+# [Facecje](https://patronite.pl/facecje)
 
 ## Miesięczne wsparcie
 

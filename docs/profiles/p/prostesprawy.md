@@ -1,5 +1,5 @@
 ---
-title: prostesprawy | Patromierz
+title: "prostesprawy | Patromierz"
 permalink: /prostesprawy
 ---
 
@@ -7,7 +7,7 @@ permalink: /prostesprawy
 <script type="text/javascript" src="data/p/prostesprawy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prostesprawy](https://patronite.pl/prostesprawy)
+# [Proste Sprawy](https://patronite.pl/prostesprawy)
 
 ## Miesięczne wsparcie
 

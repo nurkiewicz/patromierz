@@ -1,5 +1,5 @@
 ---
-title: CiezkieMajki | Patromierz
+title: "CiezkieMajki | Patromierz"
 permalink: /CiezkieMajki
 ---
 
@@ -7,7 +7,7 @@ permalink: /CiezkieMajki
 <script type="text/javascript" src="data/c/CiezkieMajki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CiezkieMajki](https://patronite.pl/CiezkieMajki)
+# [Ciężkie Majki Podcast](https://patronite.pl/CiezkieMajki)
 
 ## Miesięczne wsparcie
 

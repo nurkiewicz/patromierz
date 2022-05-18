@@ -1,5 +1,5 @@
 ---
-title: StrefaKonfliktu | Patromierz
+title: "StrefaKonfliktu | Patromierz"
 permalink: /StrefaKonfliktu
 ---
 
@@ -7,7 +7,7 @@ permalink: /StrefaKonfliktu
 <script type="text/javascript" src="data/s/StrefaKonfliktu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StrefaKonfliktu](https://patronite.pl/StrefaKonfliktu)
+# [#StrefaKonfliktu](https://patronite.pl/StrefaKonfliktu)
 
 ## Miesięczne wsparcie
 

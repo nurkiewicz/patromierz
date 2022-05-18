@@ -1,5 +1,5 @@
 ---
-title: wPunkt | Patromierz
+title: "wPunkt | Patromierz"
 permalink: /wPunkt
 ---
 

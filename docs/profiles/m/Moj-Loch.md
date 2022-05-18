@@ -1,5 +1,5 @@
 ---
-title: Moj-Loch | Patromierz
+title: "Moj-Loch | Patromierz"
 permalink: /Moj-Loch
 ---
 
@@ -7,7 +7,7 @@ permalink: /Moj-Loch
 <script type="text/javascript" src="data/m/Moj-Loch.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Moj-Loch](https://patronite.pl/Moj-Loch)
+# [Mój Loch](https://patronite.pl/Moj-Loch)
 
 ## Miesięczne wsparcie
 

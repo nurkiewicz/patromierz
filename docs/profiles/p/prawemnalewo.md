@@ -1,5 +1,5 @@
 ---
-title: prawemnalewo | Patromierz
+title: "prawemnalewo | Patromierz"
 permalink: /prawemnalewo
 ---
 
@@ -7,7 +7,7 @@ permalink: /prawemnalewo
 <script type="text/javascript" src="data/p/prawemnalewo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prawemnalewo](https://patronite.pl/prawemnalewo)
+# [Prawem Na Lewo](https://patronite.pl/prawemnalewo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: cichobosieniewgra | Patromierz
+title: "cichobosieniewgra | Patromierz"
 permalink: /cichobosieniewgra
 ---
 
@@ -7,7 +7,7 @@ permalink: /cichobosieniewgra
 <script type="text/javascript" src="data/c/cichobosieniewgra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cichobosieniewgra](https://patronite.pl/cichobosieniewgra)
+# [Cicho, bo się nie wgra!](https://patronite.pl/cichobosieniewgra)
 
 ## Miesięczne wsparcie
 

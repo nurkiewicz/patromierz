@@ -1,5 +1,5 @@
 ---
-title: polaczekasmr | Patromierz
+title: "polaczekasmr | Patromierz"
 permalink: /polaczekasmr
 ---
 
@@ -7,7 +7,7 @@ permalink: /polaczekasmr
 <script type="text/javascript" src="data/p/polaczekasmr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polaczekasmr](https://patronite.pl/polaczekasmr)
+# [Polaczek ASMR](https://patronite.pl/polaczekasmr)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: sylwiabanasik-smulska | Patromierz
+title: "sylwiabanasik-smulska | Patromierz"
 permalink: /sylwiabanasik-smulska
 ---
 
@@ -7,7 +7,7 @@ permalink: /sylwiabanasik-smulska
 <script type="text/javascript" src="data/s/sylwiabanasik-smulska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sylwiabanasik-smulska](https://patronite.pl/sylwiabanasik-smulska)
+# [Sylwia Banasik- Smulska](https://patronite.pl/sylwiabanasik-smulska)
 
 ## Miesięczne wsparcie
 

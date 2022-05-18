@@ -1,5 +1,5 @@
 ---
-title: KopalniaIgnacy | Patromierz
+title: "KopalniaIgnacy | Patromierz"
 permalink: /KopalniaIgnacy
 ---
 
@@ -7,7 +7,7 @@ permalink: /KopalniaIgnacy
 <script type="text/javascript" src="data/k/KopalniaIgnacy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KopalniaIgnacy](https://patronite.pl/KopalniaIgnacy)
+# [Zabytkowa Kopalnia Ignacy](https://patronite.pl/KopalniaIgnacy)
 
 ## Miesięczne wsparcie
 

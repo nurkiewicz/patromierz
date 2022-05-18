@@ -1,5 +1,5 @@
 ---
-title: fundacjakapucynska | Patromierz
+title: "fundacjakapucynska | Patromierz"
 permalink: /fundacjakapucynska
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjakapucynska
 <script type="text/javascript" src="data/f/fundacjakapucynska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjakapucynska](https://patronite.pl/fundacjakapucynska)
+# [Fundacja Kapucyńska im. bł. Aniceta Koplińskiego](https://patronite.pl/fundacjakapucynska)
 
 ## Miesięczne wsparcie
 

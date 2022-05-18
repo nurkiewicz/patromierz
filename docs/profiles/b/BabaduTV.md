@@ -1,5 +1,5 @@
 ---
-title: BabaduTV | Patromierz
+title: "BabaduTV | Patromierz"
 permalink: /BabaduTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /BabaduTV
 <script type="text/javascript" src="data/b/BabaduTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BabaduTV](https://patronite.pl/BabaduTV)
+# [Babadu TV - Piosenki dla dzieci](https://patronite.pl/BabaduTV)
 
 ## Miesięczne wsparcie
 

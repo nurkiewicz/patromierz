@@ -1,5 +1,5 @@
 ---
-title: psiglos | Patromierz
+title: "psiglos | Patromierz"
 permalink: /psiglos
 ---
 
@@ -7,7 +7,7 @@ permalink: /psiglos
 <script type="text/javascript" src="data/p/psiglos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psiglos](https://patronite.pl/psiglos)
+# [Stowarzyszenie Psi Głos](https://patronite.pl/psiglos)
 
 ## Miesięczne wsparcie
 

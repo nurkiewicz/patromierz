@@ -1,5 +1,5 @@
 ---
-title: Steeped | Patromierz
+title: "Steeped | Patromierz"
 permalink: /Steeped
 ---
 
@@ -7,7 +7,7 @@ permalink: /Steeped
 <script type="text/javascript" src="data/s/Steeped.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Steeped](https://patronite.pl/Steeped)
+# [STEEPED](https://patronite.pl/Steeped)
 
 ## Miesięczne wsparcie
 

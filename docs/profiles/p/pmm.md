@@ -1,5 +1,5 @@
 ---
-title: pmm | Patromierz
+title: "pmm | Patromierz"
 permalink: /pmm
 ---
 
@@ -7,7 +7,7 @@ permalink: /pmm
 <script type="text/javascript" src="data/p/pmm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pmm](https://patronite.pl/pmm)
+# [Polska Misja Medyczna i Radio 357](https://patronite.pl/pmm)
 
 ## Miesięczne wsparcie
 

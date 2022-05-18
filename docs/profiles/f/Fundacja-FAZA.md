@@ -1,5 +1,5 @@
 ---
-title: Fundacja-FAZA | Patromierz
+title: "Fundacja-FAZA | Patromierz"
 permalink: /Fundacja-FAZA
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja-FAZA
 <script type="text/javascript" src="data/f/Fundacja-FAZA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja-FAZA](https://patronite.pl/Fundacja-FAZA)
+# [Fundacja FAZA](https://patronite.pl/Fundacja-FAZA)
 
 ## Miesięczne wsparcie
 

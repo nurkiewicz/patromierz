@@ -1,5 +1,5 @@
 ---
-title: Kruszyna | Patromierz
+title: "Kruszyna | Patromierz"
 permalink: /Kruszyna
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kruszyna
 <script type="text/javascript" src="data/k/Kruszyna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kruszyna](https://patronite.pl/Kruszyna)
+# [Bartłomiej KRUSZYNA  Bielas](https://patronite.pl/Kruszyna)
 
 ## Miesięczne wsparcie
 

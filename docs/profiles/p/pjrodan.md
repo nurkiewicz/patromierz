@@ -1,5 +1,5 @@
 ---
-title: pjrodan | Patromierz
+title: "pjrodan | Patromierz"
 permalink: /pjrodan
 ---
 
@@ -7,7 +7,7 @@ permalink: /pjrodan
 <script type="text/javascript" src="data/p/pjrodan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pjrodan](https://patronite.pl/pjrodan)
+# [Notatnik Reżysera by Paweł J. Rodan](https://patronite.pl/pjrodan)
 
 ## Miesięczne wsparcie
 

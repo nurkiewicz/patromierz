@@ -1,5 +1,5 @@
 ---
-title: pilkarzyki | Patromierz
+title: "pilkarzyki | Patromierz"
 permalink: /pilkarzyki
 ---
 
@@ -7,7 +7,7 @@ permalink: /pilkarzyki
 <script type="text/javascript" src="data/p/pilkarzyki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pilkarzyki](https://patronite.pl/pilkarzyki)
+# [Piłkarzyki](https://patronite.pl/pilkarzyki)
 
 ## Miesięczne wsparcie
 

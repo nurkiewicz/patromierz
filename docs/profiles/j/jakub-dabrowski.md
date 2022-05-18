@@ -1,5 +1,5 @@
 ---
-title: jakub-dabrowski | Patromierz
+title: "jakub-dabrowski | Patromierz"
 permalink: /jakub-dabrowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jakub-dabrowski
 <script type="text/javascript" src="data/j/jakub-dabrowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jakub-dabrowski](https://patronite.pl/jakub-dabrowski)
+# [Jakub Dabrowski](https://patronite.pl/jakub-dabrowski)
 
 ## Miesięczne wsparcie
 

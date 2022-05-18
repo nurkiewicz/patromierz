@@ -1,5 +1,5 @@
 ---
-title: stowarzyszenie-cnr | Patromierz
+title: "stowarzyszenie-cnr | Patromierz"
 permalink: /stowarzyszenie-cnr
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszenie-cnr
 <script type="text/javascript" src="data/s/stowarzyszenie-cnr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszenie-cnr](https://patronite.pl/stowarzyszenie-cnr)
+# [Stowarzyszenie CHODŹMY NA ROWER](https://patronite.pl/stowarzyszenie-cnr)
 
 ## Miesięczne wsparcie
 

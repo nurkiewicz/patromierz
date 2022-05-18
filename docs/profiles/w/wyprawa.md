@@ -1,5 +1,5 @@
 ---
-title: wyprawa | Patromierz
+title: "wyprawa | Patromierz"
 permalink: /wyprawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /wyprawa
 <script type="text/javascript" src="data/w/wyprawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wyprawa](https://patronite.pl/wyprawa)
+# [Wyprawa na koniec życia](https://patronite.pl/wyprawa)
 
 ## Miesięczne wsparcie
 

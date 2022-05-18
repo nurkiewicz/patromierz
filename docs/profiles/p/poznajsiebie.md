@@ -1,5 +1,5 @@
 ---
-title: poznajsiebie | Patromierz
+title: "poznajsiebie | Patromierz"
 permalink: /poznajsiebie
 ---
 
@@ -7,7 +7,7 @@ permalink: /poznajsiebie
 <script type="text/javascript" src="data/p/poznajsiebie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poznajsiebie](https://patronite.pl/poznajsiebie)
+# [Poznaj Siebie](https://patronite.pl/poznajsiebie)
 
 ## Miesięczne wsparcie
 

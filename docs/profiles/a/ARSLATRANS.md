@@ -1,5 +1,5 @@
 ---
-title: ARSLATRANS | Patromierz
+title: "ARSLATRANS | Patromierz"
 permalink: /ARSLATRANS
 ---
 
@@ -7,7 +7,7 @@ permalink: /ARSLATRANS
 <script type="text/javascript" src="data/a/ARSLATRANS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ARSLATRANS](https://patronite.pl/ARSLATRANS)
+# [ARS  LATRANS](https://patronite.pl/ARSLATRANS)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KobietydlaSwiata | Patromierz
+title: "KobietydlaSwiata | Patromierz"
 permalink: /KobietydlaSwiata
 ---
 
@@ -7,7 +7,7 @@ permalink: /KobietydlaSwiata
 <script type="text/javascript" src="data/k/KobietydlaSwiata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KobietydlaSwiata](https://patronite.pl/KobietydlaSwiata)
+# [Kobiety dla Świata Siostrzana Pomoc](https://patronite.pl/KobietydlaSwiata)
 
 ## Miesięczne wsparcie
 

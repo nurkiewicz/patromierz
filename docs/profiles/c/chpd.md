@@ -1,5 +1,5 @@
 ---
-title: chpd | Patromierz
+title: "chpd | Patromierz"
 permalink: /chpd
 ---
 
@@ -7,7 +7,7 @@ permalink: /chpd
 <script type="text/javascript" src="data/c/chpd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chpd](https://patronite.pl/chpd)
+# [Chujowa Pani Domu ](https://patronite.pl/chpd)
 
 ## Miesięczne wsparcie
 

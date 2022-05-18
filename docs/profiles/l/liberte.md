@@ -1,5 +1,5 @@
 ---
-title: liberte | Patromierz
+title: "liberte | Patromierz"
 permalink: /liberte
 ---
 
@@ -7,7 +7,7 @@ permalink: /liberte
 <script type="text/javascript" src="data/l/liberte.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [liberte](https://patronite.pl/liberte)
+# [ Liberté!](https://patronite.pl/liberte)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: www.zurnalista.pl | Patromierz
+title: "www.zurnalista.pl | Patromierz"
 permalink: /www.zurnalista.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.zurnalista.pl
 <script type="text/javascript" src="data/w/www.zurnalista.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.zurnalista.pl](https://patronite.pl/www.zurnalista.pl)
+# [Żurnalista](https://patronite.pl/www.zurnalista.pl)
 
 ## Miesięczne wsparcie
 

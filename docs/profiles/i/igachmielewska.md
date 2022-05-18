@@ -1,5 +1,5 @@
 ---
-title: igachmielewska | Patromierz
+title: "igachmielewska | Patromierz"
 permalink: /igachmielewska
 ---
 
@@ -7,7 +7,7 @@ permalink: /igachmielewska
 <script type="text/javascript" src="data/i/igachmielewska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [igachmielewska](https://patronite.pl/igachmielewska)
+# [Iga Chmielewska](https://patronite.pl/igachmielewska)
 
 ## Miesięczne wsparcie
 

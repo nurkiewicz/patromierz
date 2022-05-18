@@ -1,5 +1,5 @@
 ---
-title: zbigniewsyc-sztuki-walki | Patromierz
+title: "zbigniewsyc-sztuki-walki | Patromierz"
 permalink: /zbigniewsyc-sztuki-walki
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbigniewsyc-sztuki-walki
 <script type="text/javascript" src="data/z/zbigniewsyc-sztuki-walki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbigniewsyc-sztuki-walki](https://patronite.pl/zbigniewsyc-sztuki-walki)
+# [Zbigniew Syc - Sztuki Walki](https://patronite.pl/zbigniewsyc-sztuki-walki)
 
 ## Miesięczne wsparcie
 

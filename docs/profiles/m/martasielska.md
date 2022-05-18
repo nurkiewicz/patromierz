@@ -1,5 +1,5 @@
 ---
-title: martasielska | Patromierz
+title: "martasielska | Patromierz"
 permalink: /martasielska
 ---
 
@@ -7,7 +7,7 @@ permalink: /martasielska
 <script type="text/javascript" src="data/m/martasielska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [martasielska](https://patronite.pl/martasielska)
+# [Marta Sielska](https://patronite.pl/martasielska)
 
 ## Miesięczne wsparcie
 

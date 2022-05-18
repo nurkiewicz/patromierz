@@ -1,5 +1,5 @@
 ---
-title: agata-wilam-whybluesky | Patromierz
+title: "agata-wilam-whybluesky | Patromierz"
 permalink: /agata-wilam-whybluesky
 ---
 
@@ -7,7 +7,7 @@ permalink: /agata-wilam-whybluesky
 <script type="text/javascript" src="data/a/agata-wilam-whybluesky.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agata-wilam-whybluesky](https://patronite.pl/agata-wilam-whybluesky)
+# [WhyBlueSky](https://patronite.pl/agata-wilam-whybluesky)
 
 ## Miesięczne wsparcie
 

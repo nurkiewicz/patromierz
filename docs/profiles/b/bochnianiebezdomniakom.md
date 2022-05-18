@@ -1,5 +1,5 @@
 ---
-title: bochnianiebezdomniakom | Patromierz
+title: "bochnianiebezdomniakom | Patromierz"
 permalink: /bochnianiebezdomniakom
 ---
 
@@ -7,7 +7,7 @@ permalink: /bochnianiebezdomniakom
 <script type="text/javascript" src="data/b/bochnianiebezdomniakom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bochnianiebezdomniakom](https://patronite.pl/bochnianiebezdomniakom)
+# [STOWARZYSZENIE "BOCHNIANIE BEZDOMNIAKOM"](https://patronite.pl/bochnianiebezdomniakom)
 
 ## Miesięczne wsparcie
 

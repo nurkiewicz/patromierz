@@ -1,5 +1,5 @@
 ---
-title: drogaswiadomosci | Patromierz
+title: "drogaswiadomosci | Patromierz"
 permalink: /drogaswiadomosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /drogaswiadomosci
 <script type="text/javascript" src="data/d/drogaswiadomosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drogaswiadomosci](https://patronite.pl/drogaswiadomosci)
+# [Droga Świadomości](https://patronite.pl/drogaswiadomosci)
 
 ## Miesięczne wsparcie
 

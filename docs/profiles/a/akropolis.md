@@ -1,5 +1,5 @@
 ---
-title: akropolis | Patromierz
+title: "akropolis | Patromierz"
 permalink: /akropolis
 ---
 
@@ -7,7 +7,7 @@ permalink: /akropolis
 <script type="text/javascript" src="data/a/akropolis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akropolis](https://patronite.pl/akropolis)
+# [Nowa Akropolis](https://patronite.pl/akropolis)
 
 ## Miesięczne wsparcie
 

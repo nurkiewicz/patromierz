@@ -1,5 +1,5 @@
 ---
-title: 5minut | Patromierz
+title: "5minut | Patromierz"
 permalink: /5minut
 ---
 
@@ -7,7 +7,7 @@ permalink: /5minut
 <script type="text/javascript" src="data/5/5minut.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [5minut](https://patronite.pl/5minut)
+# [5 MINUT (Billie Sparrow i Hania Es)](https://patronite.pl/5minut)
 
 ## Miesięczne wsparcie
 

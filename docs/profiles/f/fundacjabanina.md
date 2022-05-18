@@ -1,5 +1,5 @@
 ---
-title: fundacjabanina | Patromierz
+title: "fundacjabanina | Patromierz"
 permalink: /fundacjabanina
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjabanina
 <script type="text/javascript" src="data/f/fundacjabanina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjabanina](https://patronite.pl/fundacjabanina)
+# [Fundacja Banina](https://patronite.pl/fundacjabanina)
 
 ## Miesięczne wsparcie
 

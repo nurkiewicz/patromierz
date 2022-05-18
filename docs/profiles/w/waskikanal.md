@@ -1,5 +1,5 @@
 ---
-title: waskikanal | Patromierz
+title: "waskikanal | Patromierz"
 permalink: /waskikanal
 ---
 
@@ -7,7 +7,7 @@ permalink: /waskikanal
 <script type="text/javascript" src="data/w/waskikanal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [waskikanal](https://patronite.pl/waskikanal)
+# [Wąski Kanał](https://patronite.pl/waskikanal)
 
 ## Miesięczne wsparcie
 

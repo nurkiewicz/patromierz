@@ -1,5 +1,5 @@
 ---
-title: kotytozlo | Patromierz
+title: "kotytozlo | Patromierz"
 permalink: /kotytozlo
 ---
 
@@ -7,7 +7,7 @@ permalink: /kotytozlo
 <script type="text/javascript" src="data/k/kotytozlo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kotytozlo](https://patronite.pl/kotytozlo)
+# [Pracownia Cioci Kot](https://patronite.pl/kotytozlo)
 
 ## Miesięczne wsparcie
 

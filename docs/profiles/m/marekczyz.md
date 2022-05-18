@@ -1,5 +1,5 @@
 ---
-title: marekczyz | Patromierz
+title: "marekczyz | Patromierz"
 permalink: /marekczyz
 ---
 
@@ -7,7 +7,7 @@ permalink: /marekczyz
 <script type="text/javascript" src="data/m/marekczyz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marekczyz](https://patronite.pl/marekczyz)
+# [Marek Czyż](https://patronite.pl/marekczyz)
 
 ## Miesięczne wsparcie
 

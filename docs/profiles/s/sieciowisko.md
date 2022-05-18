@@ -1,5 +1,5 @@
 ---
-title: sieciowisko | Patromierz
+title: "sieciowisko | Patromierz"
 permalink: /sieciowisko
 ---
 
@@ -7,7 +7,7 @@ permalink: /sieciowisko
 <script type="text/javascript" src="data/s/sieciowisko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sieciowisko](https://patronite.pl/sieciowisko)
+# [Wojciech Rubin](https://patronite.pl/sieciowisko)
 
 ## Miesięczne wsparcie
 

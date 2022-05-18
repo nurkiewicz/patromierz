@@ -1,5 +1,5 @@
 ---
-title: DAStUdnia | Patromierz
+title: "DAStUdnia | Patromierz"
 permalink: /DAStUdnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /DAStUdnia
 <script type="text/javascript" src="data/d/DAStUdnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DAStUdnia](https://patronite.pl/DAStUdnia)
+# [DDA StUdnia](https://patronite.pl/DAStUdnia)
 
 ## Miesięczne wsparcie
 

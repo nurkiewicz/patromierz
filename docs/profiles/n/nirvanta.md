@@ -1,5 +1,5 @@
 ---
-title: nirvanta | Patromierz
+title: "nirvanta | Patromierz"
 permalink: /nirvanta
 ---
 
@@ -7,7 +7,7 @@ permalink: /nirvanta
 <script type="text/javascript" src="data/n/nirvanta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nirvanta](https://patronite.pl/nirvanta)
+# [Nirvanta](https://patronite.pl/nirvanta)
 
 ## Miesięczne wsparcie
 

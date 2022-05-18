@@ -1,5 +1,5 @@
 ---
-title: marlenadumin | Patromierz
+title: "marlenadumin | Patromierz"
 permalink: /marlenadumin
 ---
 
@@ -7,7 +7,7 @@ permalink: /marlenadumin
 <script type="text/javascript" src="data/m/marlenadumin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marlenadumin](https://patronite.pl/marlenadumin)
+# [marlena dumin](https://patronite.pl/marlenadumin)
 
 ## Miesięczne wsparcie
 

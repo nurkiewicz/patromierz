@@ -1,5 +1,5 @@
 ---
-title: lodzdlaludzi | Patromierz
+title: "lodzdlaludzi | Patromierz"
 permalink: /lodzdlaludzi
 ---
 
@@ -7,7 +7,7 @@ permalink: /lodzdlaludzi
 <script type="text/javascript" src="data/l/lodzdlaludzi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lodzdlaludzi](https://patronite.pl/lodzdlaludzi)
+# [Łódź dla ludzi](https://patronite.pl/lodzdlaludzi)
 
 ## Miesięczne wsparcie
 

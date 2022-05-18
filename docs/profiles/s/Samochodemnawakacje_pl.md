@@ -1,5 +1,5 @@
 ---
-title: Samochodemnawakacje_pl | Patromierz
+title: "Samochodemnawakacje_pl | Patromierz"
 permalink: /Samochodemnawakacje_pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /Samochodemnawakacje_pl
 <script type="text/javascript" src="data/s/Samochodemnawakacje_pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Samochodemnawakacje_pl](https://patronite.pl/Samochodemnawakacje_pl)
+# [Samochodem na wakacje.pl](https://patronite.pl/Samochodemnawakacje_pl)
 
 ## Miesięczne wsparcie
 

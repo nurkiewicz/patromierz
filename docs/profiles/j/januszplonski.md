@@ -1,5 +1,5 @@
 ---
-title: januszplonski | Patromierz
+title: "januszplonski | Patromierz"
 permalink: /januszplonski
 ---
 
@@ -7,7 +7,7 @@ permalink: /januszplonski
 <script type="text/javascript" src="data/j/januszplonski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [januszplonski](https://patronite.pl/januszplonski)
+# [Janusz Płoński](https://patronite.pl/januszplonski)
 
 ## Miesięczne wsparcie
 

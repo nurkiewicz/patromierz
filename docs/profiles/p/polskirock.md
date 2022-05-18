@@ -1,5 +1,5 @@
 ---
-title: polskirock | Patromierz
+title: "polskirock | Patromierz"
 permalink: /polskirock
 ---
 
@@ -7,7 +7,7 @@ permalink: /polskirock
 <script type="text/javascript" src="data/p/polskirock.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polskirock](https://patronite.pl/polskirock)
+# [Archiwum Polskiego Rocka - Polski Rock w najlepszym wydaniu](https://patronite.pl/polskirock)
 
 ## Miesięczne wsparcie
 

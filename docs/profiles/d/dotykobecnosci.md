@@ -1,5 +1,5 @@
 ---
-title: dotykobecnosci | Patromierz
+title: "dotykobecnosci | Patromierz"
 permalink: /dotykobecnosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /dotykobecnosci
 <script type="text/javascript" src="data/d/dotykobecnosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dotykobecnosci](https://patronite.pl/dotykobecnosci)
+# [Dotyk Obecności](https://patronite.pl/dotykobecnosci)
 
 ## Miesięczne wsparcie
 

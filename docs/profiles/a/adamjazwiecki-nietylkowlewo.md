@@ -1,5 +1,5 @@
 ---
-title: adamjazwiecki-nietylkowlewo | Patromierz
+title: "adamjazwiecki-nietylkowlewo | Patromierz"
 permalink: /adamjazwiecki-nietylkowlewo
 ---
 
@@ -7,7 +7,7 @@ permalink: /adamjazwiecki-nietylkowlewo
 <script type="text/javascript" src="data/a/adamjazwiecki-nietylkowlewo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adamjazwiecki-nietylkowlewo](https://patronite.pl/adamjazwiecki-nietylkowlewo)
+# [ADAM JAZWIECKI](https://patronite.pl/adamjazwiecki-nietylkowlewo)
 
 ## Miesięczne wsparcie
 

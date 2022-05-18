@@ -1,5 +1,5 @@
 ---
-title: MuzykaMorz | Patromierz
+title: "MuzykaMorz | Patromierz"
 permalink: /MuzykaMorz
 ---
 
@@ -7,7 +7,7 @@ permalink: /MuzykaMorz
 <script type="text/javascript" src="data/m/MuzykaMorz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MuzykaMorz](https://patronite.pl/MuzykaMorz)
+# [Marek Szurawski Muzyka Mórz i Oceanów](https://patronite.pl/MuzykaMorz)
 
 ## Miesięczne wsparcie
 

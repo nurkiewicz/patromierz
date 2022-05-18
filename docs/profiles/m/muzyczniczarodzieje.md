@@ -1,5 +1,5 @@
 ---
-title: muzyczniczarodzieje | Patromierz
+title: "muzyczniczarodzieje | Patromierz"
 permalink: /muzyczniczarodzieje
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzyczniczarodzieje
 <script type="text/javascript" src="data/m/muzyczniczarodzieje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzyczniczarodzieje](https://patronite.pl/muzyczniczarodzieje)
+# [Fundacja Muzyczni Czarodzieje](https://patronite.pl/muzyczniczarodzieje)
 
 ## Miesięczne wsparcie
 

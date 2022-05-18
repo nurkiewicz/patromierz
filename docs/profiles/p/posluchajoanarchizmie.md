@@ -1,5 +1,5 @@
 ---
-title: posluchajoanarchizmie | Patromierz
+title: "posluchajoanarchizmie | Patromierz"
 permalink: /posluchajoanarchizmie
 ---
 
@@ -7,7 +7,7 @@ permalink: /posluchajoanarchizmie
 <script type="text/javascript" src="data/p/posluchajoanarchizmie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [posluchajoanarchizmie](https://patronite.pl/posluchajoanarchizmie)
+# [Posłuchaj o Anarchizmie](https://patronite.pl/posluchajoanarchizmie)
 
 ## Miesięczne wsparcie
 

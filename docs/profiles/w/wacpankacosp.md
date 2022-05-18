@@ -1,5 +1,5 @@
 ---
-title: wacpankacosp | Patromierz
+title: "wacpankacosp | Patromierz"
 permalink: /wacpankacosp
 ---
 
@@ -7,7 +7,7 @@ permalink: /wacpankacosp
 <script type="text/javascript" src="data/w/wacpankacosp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wacpankacosp](https://patronite.pl/wacpankacosp)
+# [Waćpanna Cosplay](https://patronite.pl/wacpankacosp)
 
 ## Miesięczne wsparcie
 

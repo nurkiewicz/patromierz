@@ -1,5 +1,5 @@
 ---
-title: filiżankaempatii | Patromierz
+title: "filiżankaempatii | Patromierz"
 permalink: /filiżankaempatii
 ---
 
@@ -7,7 +7,7 @@ permalink: /filiżankaempatii
 <script type="text/javascript" src="data/f/filiżankaempatii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filiżankaempatii](https://patronite.pl/filiżankaempatii)
+# [Filiżanka Empatii](https://patronite.pl/filiżankaempatii)
 
 ## Miesięczne wsparcie
 

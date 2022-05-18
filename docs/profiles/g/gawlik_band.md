@@ -1,5 +1,5 @@
 ---
-title: gawlik_band | Patromierz
+title: "gawlik_band | Patromierz"
 permalink: /gawlik_band
 ---
 
@@ -7,7 +7,7 @@ permalink: /gawlik_band
 <script type="text/javascript" src="data/g/gawlik_band.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gawlik_band](https://patronite.pl/gawlik_band)
+# [Gawlik](https://patronite.pl/gawlik_band)
 
 ## Miesięczne wsparcie
 

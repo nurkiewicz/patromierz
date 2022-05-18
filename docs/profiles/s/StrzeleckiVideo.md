@@ -1,5 +1,5 @@
 ---
-title: StrzeleckiVideo | Patromierz
+title: "StrzeleckiVideo | Patromierz"
 permalink: /StrzeleckiVideo
 ---
 
@@ -7,7 +7,7 @@ permalink: /StrzeleckiVideo
 <script type="text/javascript" src="data/s/StrzeleckiVideo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StrzeleckiVideo](https://patronite.pl/StrzeleckiVideo)
+# [Adam Strzelecki](https://patronite.pl/StrzeleckiVideo)
 
 ## Miesięczne wsparcie
 

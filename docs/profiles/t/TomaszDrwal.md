@@ -1,5 +1,5 @@
 ---
-title: TomaszDrwal | Patromierz
+title: "TomaszDrwal | Patromierz"
 permalink: /TomaszDrwal
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszDrwal
 <script type="text/javascript" src="data/t/TomaszDrwal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszDrwal](https://patronite.pl/TomaszDrwal)
+# [Tomasz Drwal ](https://patronite.pl/TomaszDrwal)
 
 ## Miesięczne wsparcie
 

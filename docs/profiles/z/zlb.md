@@ -1,5 +1,5 @@
 ---
-title: zlb | Patromierz
+title: "zlb | Patromierz"
 permalink: /zlb
 ---
 
@@ -7,7 +7,7 @@ permalink: /zlb
 <script type="text/javascript" src="data/z/zlb.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zlb](https://patronite.pl/zlb)
+# [Zachodniopomorscy Łowcy Burz](https://patronite.pl/zlb)
 
 ## Miesięczne wsparcie
 

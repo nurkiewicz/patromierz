@@ -1,5 +1,5 @@
 ---
-title: kipisz | Patromierz
+title: "kipisz | Patromierz"
 permalink: /kipisz
 ---
 
@@ -7,7 +7,7 @@ permalink: /kipisz
 <script type="text/javascript" src="data/k/kipisz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kipisz](https://patronite.pl/kipisz)
+# [KIPISZ](https://patronite.pl/kipisz)
 
 ## Miesięczne wsparcie
 

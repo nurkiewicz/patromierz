@@ -1,5 +1,5 @@
 ---
-title: guitarstories | Patromierz
+title: "guitarstories | Patromierz"
 permalink: /guitarstories
 ---
 
@@ -7,7 +7,7 @@ permalink: /guitarstories
 <script type="text/javascript" src="data/g/guitarstories.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [guitarstories](https://patronite.pl/guitarstories)
+# [GUITAR STORIES](https://patronite.pl/guitarstories)
 
 ## Miesięczne wsparcie
 

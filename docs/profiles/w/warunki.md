@@ -1,5 +1,5 @@
 ---
-title: warunki | Patromierz
+title: "warunki | Patromierz"
 permalink: /warunki
 ---
 
@@ -7,7 +7,7 @@ permalink: /warunki
 <script type="text/javascript" src="data/w/warunki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warunki](https://patronite.pl/warunki)
+# [Aktualne Warunki w Górach](https://patronite.pl/warunki)
 
 ## Miesięczne wsparcie
 

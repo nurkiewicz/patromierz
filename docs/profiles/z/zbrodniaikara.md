@@ -1,5 +1,5 @@
 ---
-title: zbrodniaikara | Patromierz
+title: "zbrodniaikara | Patromierz"
 permalink: /zbrodniaikara
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbrodniaikara
 <script type="text/javascript" src="data/z/zbrodniaikara.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbrodniaikara](https://patronite.pl/zbrodniaikara)
+# [Zbrodnia Ikara](https://patronite.pl/zbrodniaikara)
 
 ## Miesięczne wsparcie
 

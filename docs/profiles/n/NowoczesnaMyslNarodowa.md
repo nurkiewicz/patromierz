@@ -1,5 +1,5 @@
 ---
-title: NowoczesnaMyslNarodowa | Patromierz
+title: "NowoczesnaMyslNarodowa | Patromierz"
 permalink: /NowoczesnaMyslNarodowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /NowoczesnaMyslNarodowa
 <script type="text/javascript" src="data/n/NowoczesnaMyslNarodowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NowoczesnaMyslNarodowa](https://patronite.pl/NowoczesnaMyslNarodowa)
+# [Nowoczesna Myśl Narodowa](https://patronite.pl/NowoczesnaMyslNarodowa)
 
 ## Miesięczne wsparcie
 

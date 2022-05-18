@@ -1,5 +1,5 @@
 ---
-title: bluelilly1313 | Patromierz
+title: "bluelilly1313 | Patromierz"
 permalink: /bluelilly1313
 ---
 
@@ -7,7 +7,7 @@ permalink: /bluelilly1313
 <script type="text/javascript" src="data/b/bluelilly1313.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bluelilly1313](https://patronite.pl/bluelilly1313)
+# [BlueLilly1313](https://patronite.pl/bluelilly1313)
 
 ## Miesięczne wsparcie
 

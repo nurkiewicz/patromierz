@@ -1,5 +1,5 @@
 ---
-title: makeupbyutnicka | Patromierz
+title: "makeupbyutnicka | Patromierz"
 permalink: /makeupbyutnicka
 ---
 
@@ -7,7 +7,7 @@ permalink: /makeupbyutnicka
 <script type="text/javascript" src="data/m/makeupbyutnicka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [makeupbyutnicka](https://patronite.pl/makeupbyutnicka)
+# [Make Up By Utnicka](https://patronite.pl/makeupbyutnicka)
 
 ## Miesięczne wsparcie
 

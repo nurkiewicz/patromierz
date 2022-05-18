@@ -1,5 +1,5 @@
 ---
-title: hardkorowahistoria | Patromierz
+title: "hardkorowahistoria | Patromierz"
 permalink: /hardkorowahistoria
 ---
 
@@ -7,7 +7,7 @@ permalink: /hardkorowahistoria
 <script type="text/javascript" src="data/h/hardkorowahistoria.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hardkorowahistoria](https://patronite.pl/hardkorowahistoria)
+# [Hardkorowa Historia](https://patronite.pl/hardkorowahistoria)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: otwieramyoczy | Patromierz
+title: "otwieramyoczy | Patromierz"
 permalink: /otwieramyoczy
 ---
 
@@ -7,7 +7,7 @@ permalink: /otwieramyoczy
 <script type="text/javascript" src="data/o/otwieramyoczy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otwieramyoczy](https://patronite.pl/otwieramyoczy)
+# [Otwieramy Oczy](https://patronite.pl/otwieramyoczy)
 
 ## Miesięczne wsparcie
 

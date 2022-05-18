@@ -1,5 +1,5 @@
 ---
-title: gospel | Patromierz
+title: "gospel | Patromierz"
 permalink: /gospel
 ---
 
@@ -7,7 +7,7 @@ permalink: /gospel
 <script type="text/javascript" src="data/g/gospel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gospel](https://patronite.pl/gospel)
+# [Stowarzyszenie Gospel Nad Rabą](https://patronite.pl/gospel)
 
 ## Miesięczne wsparcie
 

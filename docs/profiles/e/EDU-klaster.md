@@ -1,5 +1,5 @@
 ---
-title: EDU-klaster | Patromierz
+title: "EDU-klaster | Patromierz"
 permalink: /EDU-klaster
 ---
 

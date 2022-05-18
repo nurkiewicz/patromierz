@@ -1,5 +1,5 @@
 ---
-title: projektwrzesnia | Patromierz
+title: "projektwrzesnia | Patromierz"
 permalink: /projektwrzesnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektwrzesnia
 <script type="text/javascript" src="data/p/projektwrzesnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektwrzesnia](https://patronite.pl/projektwrzesnia)
+# [Projekt Września](https://patronite.pl/projektwrzesnia)
 
 ## Miesięczne wsparcie
 

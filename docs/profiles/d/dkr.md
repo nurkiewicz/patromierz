@@ -1,5 +1,5 @@
 ---
-title: dkr | Patromierz
+title: "dkr | Patromierz"
 permalink: /dkr
 ---
 
@@ -7,7 +7,7 @@ permalink: /dkr
 <script type="text/javascript" src="data/d/dkr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dkr](https://patronite.pl/dkr)
+# [Dariusz Klejnowski-Różycki](https://patronite.pl/dkr)
 
 ## Miesięczne wsparcie
 

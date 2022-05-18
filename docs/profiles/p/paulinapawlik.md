@@ -1,5 +1,5 @@
 ---
-title: paulinapawlik | Patromierz
+title: "paulinapawlik | Patromierz"
 permalink: /paulinapawlik
 ---
 
@@ -7,7 +7,7 @@ permalink: /paulinapawlik
 <script type="text/javascript" src="data/p/paulinapawlik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paulinapawlik](https://patronite.pl/paulinapawlik)
+# [Paulina Pawlik](https://patronite.pl/paulinapawlik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: anielskimlyncieszyn | Patromierz
+title: "anielskimlyncieszyn | Patromierz"
 permalink: /anielskimlyncieszyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /anielskimlyncieszyn
 <script type="text/javascript" src="data/a/anielskimlyncieszyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anielskimlyncieszyn](https://patronite.pl/anielskimlyncieszyn)
+# [Klub muzyczny Anielski Młyn](https://patronite.pl/anielskimlyncieszyn)
 
 ## Miesięczne wsparcie
 

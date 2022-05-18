@@ -1,5 +1,5 @@
 ---
-title: LoveExplore | Patromierz
+title: "LoveExplore | Patromierz"
 permalink: /LoveExplore
 ---
 
@@ -7,7 +7,7 @@ permalink: /LoveExplore
 <script type="text/javascript" src="data/l/LoveExplore.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LoveExplore](https://patronite.pl/LoveExplore)
+# [Love Explore](https://patronite.pl/LoveExplore)
 
 ## Miesięczne wsparcie
 

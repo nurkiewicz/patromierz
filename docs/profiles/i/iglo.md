@@ -1,5 +1,5 @@
 ---
-title: iglo | Patromierz
+title: "iglo | Patromierz"
 permalink: /iglo
 ---
 
@@ -7,7 +7,7 @@ permalink: /iglo
 <script type="text/javascript" src="data/i/iglo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [iglo](https://patronite.pl/iglo)
+# [Internetowa Liga Go](https://patronite.pl/iglo)
 
 ## Miesięczne wsparcie
 

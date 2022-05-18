@@ -1,5 +1,5 @@
 ---
-title: dobranowina | Patromierz
+title: "dobranowina | Patromierz"
 permalink: /dobranowina
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobranowina
 <script type="text/javascript" src="data/d/dobranowina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobranowina](https://patronite.pl/dobranowina)
+# [DobraNowina.net](https://patronite.pl/dobranowina)
 
 ## Miesięczne wsparcie
 

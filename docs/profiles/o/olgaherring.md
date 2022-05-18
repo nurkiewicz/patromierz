@@ -1,5 +1,5 @@
 ---
-title: olgaherring | Patromierz
+title: "olgaherring | Patromierz"
 permalink: /olgaherring
 ---
 
@@ -7,7 +7,7 @@ permalink: /olgaherring
 <script type="text/javascript" src="data/o/olgaherring.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [olgaherring](https://patronite.pl/olgaherring)
+# [Olga Herring](https://patronite.pl/olgaherring)
 
 ## Miesięczne wsparcie
 

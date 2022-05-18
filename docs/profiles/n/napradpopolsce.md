@@ -1,5 +1,5 @@
 ---
-title: napradpopolsce | Patromierz
+title: "napradpopolsce | Patromierz"
 permalink: /napradpopolsce
 ---
 
@@ -7,7 +7,7 @@ permalink: /napradpopolsce
 <script type="text/javascript" src="data/n/napradpopolsce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [napradpopolsce](https://patronite.pl/napradpopolsce)
+# [Na prąd po Polsce ](https://patronite.pl/napradpopolsce)
 
 ## Miesięczne wsparcie
 

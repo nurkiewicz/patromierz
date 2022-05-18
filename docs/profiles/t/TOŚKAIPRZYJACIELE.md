@@ -1,5 +1,5 @@
 ---
-title: TOŚKAIPRZYJACIELE | Patromierz
+title: "TOŚKAIPRZYJACIELE | Patromierz"
 permalink: /TOŚKAIPRZYJACIELE
 ---
 
@@ -7,7 +7,7 @@ permalink: /TOŚKAIPRZYJACIELE
 <script type="text/javascript" src="data/t/TOŚKAIPRZYJACIELE.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TOŚKAIPRZYJACIELE](https://patronite.pl/TOŚKAIPRZYJACIELE)
+# [FUNDACJA TOŚKA I PRZYJACIELE](https://patronite.pl/TOŚKAIPRZYJACIELE)
 
 ## Miesięczne wsparcie
 

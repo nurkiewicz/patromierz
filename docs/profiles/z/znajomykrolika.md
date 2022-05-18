@@ -1,5 +1,5 @@
 ---
-title: znajomykrolika | Patromierz
+title: "znajomykrolika | Patromierz"
 permalink: /znajomykrolika
 ---
 
@@ -7,7 +7,7 @@ permalink: /znajomykrolika
 <script type="text/javascript" src="data/z/znajomykrolika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znajomykrolika](https://patronite.pl/znajomykrolika)
+# [ZnajomyKRoLIKA](https://patronite.pl/znajomykrolika)
 
 ## Miesięczne wsparcie
 

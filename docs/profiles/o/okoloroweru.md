@@ -1,5 +1,5 @@
 ---
-title: okoloroweru | Patromierz
+title: "okoloroweru | Patromierz"
 permalink: /okoloroweru
 ---
 
@@ -7,7 +7,7 @@ permalink: /okoloroweru
 <script type="text/javascript" src="data/o/okoloroweru.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okoloroweru](https://patronite.pl/okoloroweru)
+# [Kamil Ariel Mąkosza](https://patronite.pl/okoloroweru)
 
 ## Miesięczne wsparcie
 

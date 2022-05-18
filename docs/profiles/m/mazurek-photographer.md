@@ -1,5 +1,5 @@
 ---
-title: mazurek-photographer | Patromierz
+title: "mazurek-photographer | Patromierz"
 permalink: /mazurek-photographer
 ---
 
@@ -7,7 +7,7 @@ permalink: /mazurek-photographer
 <script type="text/javascript" src="data/m/mazurek-photographer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mazurek-photographer](https://patronite.pl/mazurek-photographer)
+# [Mazurek Photographer](https://patronite.pl/mazurek-photographer)
 
 ## Miesięczne wsparcie
 

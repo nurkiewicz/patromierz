@@ -1,5 +1,5 @@
 ---
-title: DziennikEurowizyjny | Patromierz
+title: "DziennikEurowizyjny | Patromierz"
 permalink: /DziennikEurowizyjny
 ---
 
@@ -7,7 +7,7 @@ permalink: /DziennikEurowizyjny
 <script type="text/javascript" src="data/d/DziennikEurowizyjny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DziennikEurowizyjny](https://patronite.pl/DziennikEurowizyjny)
+# [Maciej Tomasz Błażewicz](https://patronite.pl/DziennikEurowizyjny)
 
 ## Miesięczne wsparcie
 

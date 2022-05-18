@@ -1,5 +1,5 @@
 ---
-title: grycharytatywne | Patromierz
+title: "grycharytatywne | Patromierz"
 permalink: /grycharytatywne
 ---
 
@@ -7,7 +7,7 @@ permalink: /grycharytatywne
 <script type="text/javascript" src="data/g/grycharytatywne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grycharytatywne](https://patronite.pl/grycharytatywne)
+# [#GryCharytatywne](https://patronite.pl/grycharytatywne)
 
 ## Miesięczne wsparcie
 

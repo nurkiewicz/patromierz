@@ -1,5 +1,5 @@
 ---
-title: smok_tajwanski | Patromierz
+title: "smok_tajwanski | Patromierz"
 permalink: /smok_tajwanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /smok_tajwanski
 <script type="text/javascript" src="data/s/smok_tajwanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smok_tajwanski](https://patronite.pl/smok_tajwanski)
+# [smok tajwański 台灣龍](https://patronite.pl/smok_tajwanski)
 
 ## Miesięczne wsparcie
 

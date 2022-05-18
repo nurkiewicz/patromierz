@@ -1,5 +1,5 @@
 ---
-title: StaryKloc | Patromierz
+title: "StaryKloc | Patromierz"
 permalink: /StaryKloc
 ---
 
@@ -7,7 +7,7 @@ permalink: /StaryKloc
 <script type="text/javascript" src="data/s/StaryKloc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StaryKloc](https://patronite.pl/StaryKloc)
+# [Stary Kloc](https://patronite.pl/StaryKloc)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: geozakrecona | Patromierz
+title: "geozakrecona | Patromierz"
 permalink: /geozakrecona
 ---
 
@@ -7,7 +7,7 @@ permalink: /geozakrecona
 <script type="text/javascript" src="data/g/geozakrecona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [geozakrecona](https://patronite.pl/geozakrecona)
+# [Monika Karlińska](https://patronite.pl/geozakrecona)
 
 ## Miesięczne wsparcie
 

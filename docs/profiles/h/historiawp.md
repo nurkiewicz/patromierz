@@ -1,5 +1,5 @@
 ---
-title: historiawp | Patromierz
+title: "historiawp | Patromierz"
 permalink: /historiawp
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiawp
 <script type="text/javascript" src="data/h/historiawp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiawp](https://patronite.pl/historiawp)
+# [Przemysław Zieliński](https://patronite.pl/historiawp)
 
 ## Miesięczne wsparcie
 

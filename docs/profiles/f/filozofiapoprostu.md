@@ -1,5 +1,5 @@
 ---
-title: filozofiapoprostu | Patromierz
+title: "filozofiapoprostu | Patromierz"
 permalink: /filozofiapoprostu
 ---
 
@@ -7,7 +7,7 @@ permalink: /filozofiapoprostu
 <script type="text/javascript" src="data/f/filozofiapoprostu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filozofiapoprostu](https://patronite.pl/filozofiapoprostu)
+# [Filozofia Po Prostu](https://patronite.pl/filozofiapoprostu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: autorAndrzejStepanow | Patromierz
+title: "autorAndrzejStepanow | Patromierz"
 permalink: /autorAndrzejStepanow
 ---
 
@@ -7,7 +7,7 @@ permalink: /autorAndrzejStepanow
 <script type="text/javascript" src="data/a/autorAndrzejStepanow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [autorAndrzejStepanow](https://patronite.pl/autorAndrzejStepanow)
+# [Andrzej Stepanow](https://patronite.pl/autorAndrzejStepanow)
 
 ## Miesięczne wsparcie
 

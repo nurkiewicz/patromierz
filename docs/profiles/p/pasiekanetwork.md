@@ -1,5 +1,5 @@
 ---
-title: pasiekanetwork | Patromierz
+title: "pasiekanetwork | Patromierz"
 permalink: /pasiekanetwork
 ---
 
@@ -7,7 +7,7 @@ permalink: /pasiekanetwork
 <script type="text/javascript" src="data/p/pasiekanetwork.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pasiekanetwork](https://patronite.pl/pasiekanetwork)
+# [pasieka.network](https://patronite.pl/pasiekanetwork)
 
 ## Miesięczne wsparcie
 

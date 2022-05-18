@@ -1,5 +1,5 @@
 ---
-title: Białogród | Patromierz
+title: "Białogród | Patromierz"
 permalink: /Białogród
 ---
 
@@ -7,7 +7,7 @@ permalink: /Białogród
 <script type="text/javascript" src="data/b/Białogród.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Białogród](https://patronite.pl/Białogród)
+# [Białogród - osada warowna z X w.](https://patronite.pl/Białogród)
 
 ## Miesięczne wsparcie
 

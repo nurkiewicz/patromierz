@@ -1,5 +1,5 @@
 ---
-title: crystaltarot | Patromierz
+title: "crystaltarot | Patromierz"
 permalink: /crystaltarot
 ---
 
@@ -7,7 +7,7 @@ permalink: /crystaltarot
 <script type="text/javascript" src="data/c/crystaltarot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [crystaltarot](https://patronite.pl/crystaltarot)
+# [Crystal Tarot](https://patronite.pl/crystaltarot)
 
 ## Miesięczne wsparcie
 

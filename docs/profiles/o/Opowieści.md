@@ -1,5 +1,5 @@
 ---
-title: Opowieści | Patromierz
+title: "Opowieści | Patromierz"
 permalink: /Opowieści
 ---
 
@@ -7,7 +7,7 @@ permalink: /Opowieści
 <script type="text/javascript" src="data/o/Opowieści.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Opowieści](https://patronite.pl/Opowieści)
+# [Agencja autorska Opowieści](https://patronite.pl/Opowieści)
 
 ## Miesięczne wsparcie
 

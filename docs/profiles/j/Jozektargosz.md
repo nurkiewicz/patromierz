@@ -1,5 +1,5 @@
 ---
-title: Jozektargosz | Patromierz
+title: "Jozektargosz | Patromierz"
 permalink: /Jozektargosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Jozektargosz
 <script type="text/javascript" src="data/j/Jozektargosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Jozektargosz](https://patronite.pl/Jozektargosz)
+# [O rany, Józek!](https://patronite.pl/Jozektargosz)
 
 ## Miesięczne wsparcie
 

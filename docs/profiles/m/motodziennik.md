@@ -1,5 +1,5 @@
 ---
-title: motodziennik | Patromierz
+title: "motodziennik | Patromierz"
 permalink: /motodziennik
 ---
 
@@ -7,7 +7,7 @@ permalink: /motodziennik
 <script type="text/javascript" src="data/m/motodziennik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [motodziennik](https://patronite.pl/motodziennik)
+# [MotoDziennik ](https://patronite.pl/motodziennik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: yorika | Patromierz
+title: "yorika | Patromierz"
 permalink: /yorika
 ---
 
@@ -7,7 +7,7 @@ permalink: /yorika
 <script type="text/javascript" src="data/y/yorika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [yorika](https://patronite.pl/yorika)
+# [Jolka Rebejko](https://patronite.pl/yorika)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SoSpecial | Patromierz
+title: "SoSpecial | Patromierz"
 permalink: /SoSpecial
 ---
 
@@ -7,7 +7,7 @@ permalink: /SoSpecial
 <script type="text/javascript" src="data/s/SoSpecial.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SoSpecial](https://patronite.pl/SoSpecial)
+# [SoSpecial ](https://patronite.pl/SoSpecial)
 
 ## Miesięczne wsparcie
 

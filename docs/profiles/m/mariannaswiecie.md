@@ -1,5 +1,5 @@
 ---
-title: mariannaswiecie | Patromierz
+title: "mariannaswiecie | Patromierz"
 permalink: /mariannaswiecie
 ---
 
@@ -7,7 +7,7 @@ permalink: /mariannaswiecie
 <script type="text/javascript" src="data/m/mariannaswiecie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mariannaswiecie](https://patronite.pl/mariannaswiecie)
+# [Marian na Świecie](https://patronite.pl/mariannaswiecie)
 
 ## Miesięczne wsparcie
 

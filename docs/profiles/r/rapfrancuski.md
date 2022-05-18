@@ -1,5 +1,5 @@
 ---
-title: rapfrancuski | Patromierz
+title: "rapfrancuski | Patromierz"
 permalink: /rapfrancuski
 ---
 
@@ -7,7 +7,7 @@ permalink: /rapfrancuski
 <script type="text/javascript" src="data/r/rapfrancuski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rapfrancuski](https://patronite.pl/rapfrancuski)
+# [RapFrancuski.pl](https://patronite.pl/rapfrancuski)
 
 ## Miesięczne wsparcie
 

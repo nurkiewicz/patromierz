@@ -1,5 +1,5 @@
 ---
-title: kreskowkast | Patromierz
+title: "kreskowkast | Patromierz"
 permalink: /kreskowkast
 ---
 
@@ -7,7 +7,7 @@ permalink: /kreskowkast
 <script type="text/javascript" src="data/k/kreskowkast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kreskowkast](https://patronite.pl/kreskowkast)
+# [Kreskówkast](https://patronite.pl/kreskowkast)
 
 ## Miesięczne wsparcie
 

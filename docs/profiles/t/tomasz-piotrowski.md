@@ -1,5 +1,5 @@
 ---
-title: tomasz-piotrowski | Patromierz
+title: "tomasz-piotrowski | Patromierz"
 permalink: /tomasz-piotrowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomasz-piotrowski
 <script type="text/javascript" src="data/t/tomasz-piotrowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomasz-piotrowski](https://patronite.pl/tomasz-piotrowski)
+# [Tomasz Piotrowski](https://patronite.pl/tomasz-piotrowski)
 
 ## Miesięczne wsparcie
 

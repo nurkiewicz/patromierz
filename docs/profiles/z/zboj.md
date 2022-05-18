@@ -1,5 +1,5 @@
 ---
-title: zboj | Patromierz
+title: "zboj | Patromierz"
 permalink: /zboj
 ---
 
@@ -7,7 +7,7 @@ permalink: /zboj
 <script type="text/javascript" src="data/z/zboj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zboj](https://patronite.pl/zboj)
+# [Monika Laprus-Wierzejska](https://patronite.pl/zboj)
 
 ## Miesięczne wsparcie
 

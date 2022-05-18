@@ -1,5 +1,5 @@
 ---
-title: wojowniczka | Patromierz
+title: "wojowniczka | Patromierz"
 permalink: /wojowniczka
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojowniczka
 <script type="text/javascript" src="data/w/wojowniczka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojowniczka](https://patronite.pl/wojowniczka)
+# [Anna Antoniak](https://patronite.pl/wojowniczka)
 
 ## Miesięczne wsparcie
 

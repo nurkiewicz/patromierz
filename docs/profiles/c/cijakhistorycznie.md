@@ -1,5 +1,5 @@
 ---
-title: cijakhistorycznie | Patromierz
+title: "cijakhistorycznie | Patromierz"
 permalink: /cijakhistorycznie
 ---
 
@@ -7,7 +7,7 @@ permalink: /cijakhistorycznie
 <script type="text/javascript" src="data/c/cijakhistorycznie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cijakhistorycznie](https://patronite.pl/cijakhistorycznie)
+# [Cijak Historycznie](https://patronite.pl/cijakhistorycznie)
 
 ## Miesięczne wsparcie
 

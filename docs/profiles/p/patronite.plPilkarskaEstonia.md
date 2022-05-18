@@ -1,5 +1,5 @@
 ---
-title: patronite.plPilkarskaEstonia | Patromierz
+title: "patronite.plPilkarskaEstonia | Patromierz"
 permalink: /patronite.plPilkarskaEstonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /patronite.plPilkarskaEstonia
 <script type="text/javascript" src="data/p/patronite.plPilkarskaEstonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patronite.plPilkarskaEstonia](https://patronite.pl/patronite.plPilkarskaEstonia)
+# [Piłkarska Estonia](https://patronite.pl/patronite.plPilkarskaEstonia)
 
 ## Miesięczne wsparcie
 

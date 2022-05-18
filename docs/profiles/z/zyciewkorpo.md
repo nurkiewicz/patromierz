@@ -1,5 +1,5 @@
 ---
-title: zyciewkorpo | Patromierz
+title: "zyciewkorpo | Patromierz"
 permalink: /zyciewkorpo
 ---
 
@@ -7,7 +7,7 @@ permalink: /zyciewkorpo
 <script type="text/javascript" src="data/z/zyciewkorpo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zyciewkorpo](https://patronite.pl/zyciewkorpo)
+# [Życie w korpo](https://patronite.pl/zyciewkorpo)
 
 ## Miesięczne wsparcie
 

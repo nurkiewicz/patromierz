@@ -1,5 +1,5 @@
 ---
-title: drfranc | Patromierz
+title: "drfranc | Patromierz"
 permalink: /drfranc
 ---
 
@@ -7,7 +7,7 @@ permalink: /drfranc
 <script type="text/javascript" src="data/d/drfranc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drfranc](https://patronite.pl/drfranc)
+# [Franc Zalewski](https://patronite.pl/drfranc)
 
 ## Miesięczne wsparcie
 

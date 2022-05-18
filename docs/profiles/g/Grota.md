@@ -1,5 +1,5 @@
 ---
-title: Grota | Patromierz
+title: "Grota | Patromierz"
 permalink: /Grota
 ---
 
@@ -7,7 +7,7 @@ permalink: /Grota
 <script type="text/javascript" src="data/g/Grota.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Grota](https://patronite.pl/Grota)
+# [Stowarzyszenie Grota](https://patronite.pl/Grota)
 
 ## Miesięczne wsparcie
 

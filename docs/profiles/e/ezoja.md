@@ -1,5 +1,5 @@
 ---
-title: ezoja | Patromierz
+title: "ezoja | Patromierz"
 permalink: /ezoja
 ---
 
@@ -7,7 +7,7 @@ permalink: /ezoja
 <script type="text/javascript" src="data/e/ezoja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ezoja](https://patronite.pl/ezoja)
+# [eZoja Anna Jabłońska](https://patronite.pl/ezoja)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Legionovia | Patromierz
+title: "Legionovia | Patromierz"
 permalink: /Legionovia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Legionovia
 <script type="text/javascript" src="data/l/Legionovia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Legionovia](https://patronite.pl/Legionovia)
+# [IŁ Capital Legionovia Legionowo](https://patronite.pl/Legionovia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ilenik | Patromierz
+title: "ilenik | Patromierz"
 permalink: /ilenik
 ---
 
@@ -7,7 +7,7 @@ permalink: /ilenik
 <script type="text/javascript" src="data/i/ilenik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ilenik](https://patronite.pl/ilenik)
+# [Ilona Lenik](https://patronite.pl/ilenik)
 
 ## Miesięczne wsparcie
 

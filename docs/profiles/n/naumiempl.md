@@ -1,5 +1,5 @@
 ---
-title: naumiempl | Patromierz
+title: "naumiempl | Patromierz"
 permalink: /naumiempl
 ---
 
@@ -7,7 +7,7 @@ permalink: /naumiempl
 <script type="text/javascript" src="data/n/naumiempl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naumiempl](https://patronite.pl/naumiempl)
+# [naumiem.pl](https://patronite.pl/naumiempl)
 
 ## Miesięczne wsparcie
 

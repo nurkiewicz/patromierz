@@ -1,5 +1,5 @@
 ---
-title: domeq | Patromierz
+title: "domeq | Patromierz"
 permalink: /domeq
 ---
 
@@ -7,7 +7,7 @@ permalink: /domeq
 <script type="text/javascript" src="data/d/domeq.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domeq](https://patronite.pl/domeq)
+# [DOM EQ - Krakowskie Centrum Równości](https://patronite.pl/domeq)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: pptv | Patromierz
+title: "pptv | Patromierz"
 permalink: /pptv
 ---
 
@@ -7,7 +7,7 @@ permalink: /pptv
 <script type="text/javascript" src="data/p/pptv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pptv](https://patronite.pl/pptv)
+# [Polish Paranormal  TV](https://patronite.pl/pptv)
 
 ## Miesięczne wsparcie
 

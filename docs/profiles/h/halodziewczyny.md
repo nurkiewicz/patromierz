@@ -1,5 +1,5 @@
 ---
-title: halodziewczyny | Patromierz
+title: "halodziewczyny | Patromierz"
 permalink: /halodziewczyny
 ---
 
@@ -7,7 +7,7 @@ permalink: /halodziewczyny
 <script type="text/javascript" src="data/h/halodziewczyny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [halodziewczyny](https://patronite.pl/halodziewczyny)
+# [Halo, Dziewczyny!](https://patronite.pl/halodziewczyny)
 
 ## Miesięczne wsparcie
 

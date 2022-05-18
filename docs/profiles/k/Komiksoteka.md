@@ -1,5 +1,5 @@
 ---
-title: Komiksoteka | Patromierz
+title: "Komiksoteka | Patromierz"
 permalink: /Komiksoteka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Komiksoteka
 <script type="text/javascript" src="data/k/Komiksoteka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Komiksoteka](https://patronite.pl/Komiksoteka)
+# [Komiksoteka w szkole](https://patronite.pl/Komiksoteka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TomekJurekWlazło | Patromierz
+title: "TomekJurekWlazło | Patromierz"
 permalink: /TomekJurekWlazło
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomekJurekWlazło
 <script type="text/javascript" src="data/t/TomekJurekWlazło.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomekJurekWlazło](https://patronite.pl/TomekJurekWlazło)
+# [Tomek Jurek Wlazło](https://patronite.pl/TomekJurekWlazło)
 
 ## Miesięczne wsparcie
 

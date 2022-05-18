@@ -1,5 +1,5 @@
 ---
-title: Mariuszysko | Patromierz
+title: "Mariuszysko | Patromierz"
 permalink: /Mariuszysko
 ---
 

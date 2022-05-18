@@ -1,5 +1,5 @@
 ---
-title: dolinamodlitwy | Patromierz
+title: "dolinamodlitwy | Patromierz"
 permalink: /dolinamodlitwy
 ---
 
@@ -7,7 +7,7 @@ permalink: /dolinamodlitwy
 <script type="text/javascript" src="data/d/dolinamodlitwy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dolinamodlitwy](https://patronite.pl/dolinamodlitwy)
+# [Dolina Modlitwy](https://patronite.pl/dolinamodlitwy)
 
 ## Miesięczne wsparcie
 

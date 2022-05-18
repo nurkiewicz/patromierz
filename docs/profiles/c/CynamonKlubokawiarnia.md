@@ -1,5 +1,5 @@
 ---
-title: CynamonKlubokawiarnia | Patromierz
+title: "CynamonKlubokawiarnia | Patromierz"
 permalink: /CynamonKlubokawiarnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /CynamonKlubokawiarnia
 <script type="text/javascript" src="data/c/CynamonKlubokawiarnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CynamonKlubokawiarnia](https://patronite.pl/CynamonKlubokawiarnia)
+# [Klubokawiarnia Cynamon](https://patronite.pl/CynamonKlubokawiarnia)
 
 ## Miesięczne wsparcie
 

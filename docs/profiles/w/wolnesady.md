@@ -1,5 +1,5 @@
 ---
-title: wolnesady | Patromierz
+title: "wolnesady | Patromierz"
 permalink: /wolnesady
 ---
 
@@ -7,7 +7,7 @@ permalink: /wolnesady
 <script type="text/javascript" src="data/w/wolnesady.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wolnesady](https://patronite.pl/wolnesady)
+# [Fundacja Wolne Sądy](https://patronite.pl/wolnesady)
 
 ## Miesięczne wsparcie
 

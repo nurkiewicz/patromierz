@@ -1,5 +1,5 @@
 ---
-title: kochamnarty | Patromierz
+title: "kochamnarty | Patromierz"
 permalink: /kochamnarty
 ---
 
@@ -7,7 +7,7 @@ permalink: /kochamnarty
 <script type="text/javascript" src="data/k/kochamnarty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kochamnarty](https://patronite.pl/kochamnarty)
+# [Forum Narciarskie KochamNarty.pl ](https://patronite.pl/kochamnarty)
 
 ## Miesięczne wsparcie
 

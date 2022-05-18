@@ -1,5 +1,5 @@
 ---
-title: fundacjaeudajmonia | Patromierz
+title: "fundacjaeudajmonia | Patromierz"
 permalink: /fundacjaeudajmonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaeudajmonia
 <script type="text/javascript" src="data/f/fundacjaeudajmonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaeudajmonia](https://patronite.pl/fundacjaeudajmonia)
+# [Fundacja Eudajmonia](https://patronite.pl/fundacjaeudajmonia)
 
 ## Miesięczne wsparcie
 

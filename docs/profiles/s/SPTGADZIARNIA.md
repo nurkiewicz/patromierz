@@ -1,5 +1,5 @@
 ---
-title: SPTGADZIARNIA | Patromierz
+title: "SPTGADZIARNIA | Patromierz"
 permalink: /SPTGADZIARNIA
 ---
 
@@ -7,7 +7,7 @@ permalink: /SPTGADZIARNIA
 <script type="text/javascript" src="data/s/SPTGADZIARNIA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SPTGADZIARNIA](https://patronite.pl/SPTGADZIARNIA)
+# [GADZIARNIA](https://patronite.pl/SPTGADZIARNIA)
 
 ## Miesięczne wsparcie
 

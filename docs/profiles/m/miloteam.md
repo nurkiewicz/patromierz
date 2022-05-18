@@ -1,5 +1,5 @@
 ---
-title: miloteam | Patromierz
+title: "miloteam | Patromierz"
 permalink: /miloteam
 ---
 
@@ -7,7 +7,7 @@ permalink: /miloteam
 <script type="text/javascript" src="data/m/miloteam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [miloteam](https://patronite.pl/miloteam)
+# [Miłosz Sowiński](https://patronite.pl/miloteam)
 
 ## Miesięczne wsparcie
 

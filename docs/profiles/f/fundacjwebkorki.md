@@ -1,5 +1,5 @@
 ---
-title: fundacjwebkorki | Patromierz
+title: "fundacjwebkorki | Patromierz"
 permalink: /fundacjwebkorki
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjwebkorki
 <script type="text/javascript" src="data/f/fundacjwebkorki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjwebkorki](https://patronite.pl/fundacjwebkorki)
+# [Fundacja WEB-KORKI](https://patronite.pl/fundacjwebkorki)
 
 ## Miesięczne wsparcie
 

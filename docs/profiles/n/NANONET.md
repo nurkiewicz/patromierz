@@ -1,5 +1,5 @@
 ---
-title: NANONET | Patromierz
+title: "NANONET | Patromierz"
 permalink: /NANONET
 ---
 
@@ -7,7 +7,7 @@ permalink: /NANONET
 <script type="text/javascript" src="data/n/NANONET.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NANONET](https://patronite.pl/NANONET)
+# [Fundacja NANONET](https://patronite.pl/NANONET)
 
 ## Miesięczne wsparcie
 

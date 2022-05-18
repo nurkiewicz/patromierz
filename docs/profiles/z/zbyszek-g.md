@@ -1,5 +1,5 @@
 ---
-title: zbyszek-g | Patromierz
+title: "zbyszek-g | Patromierz"
 permalink: /zbyszek-g
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbyszek-g
 <script type="text/javascript" src="data/z/zbyszek-g.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbyszek-g](https://patronite.pl/zbyszek-g)
+# [Zbyszek G](https://patronite.pl/zbyszek-g)
 
 ## Miesięczne wsparcie
 

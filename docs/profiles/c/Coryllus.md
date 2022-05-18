@@ -1,5 +1,5 @@
 ---
-title: Coryllus | Patromierz
+title: "Coryllus | Patromierz"
 permalink: /Coryllus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Coryllus
 <script type="text/javascript" src="data/c/Coryllus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Coryllus](https://patronite.pl/Coryllus)
+# [Gabriel Maciejewski](https://patronite.pl/Coryllus)
 
 ## Miesięczne wsparcie
 

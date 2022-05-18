@@ -1,5 +1,5 @@
 ---
-title: Percival | Patromierz
+title: "Percival | Patromierz"
 permalink: /Percival
 ---
 
@@ -7,7 +7,7 @@ permalink: /Percival
 <script type="text/javascript" src="data/p/Percival.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Percival](https://patronite.pl/Percival)
+# [PERCIVAL SCHUTTENBACH](https://patronite.pl/Percival)
 
 ## Miesięczne wsparcie
 

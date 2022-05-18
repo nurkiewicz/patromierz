@@ -1,5 +1,5 @@
 ---
-title: czasnakwas | Patromierz
+title: "czasnakwas | Patromierz"
 permalink: /czasnakwas
 ---
 
@@ -7,7 +7,7 @@ permalink: /czasnakwas
 <script type="text/javascript" src="data/c/czasnakwas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czasnakwas](https://patronite.pl/czasnakwas)
+# [Czas Na Kwas](https://patronite.pl/czasnakwas)
 
 ## Miesięczne wsparcie
 

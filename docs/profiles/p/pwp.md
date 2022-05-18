@@ -1,5 +1,5 @@
 ---
-title: pwp | Patromierz
+title: "pwp | Patromierz"
 permalink: /pwp
 ---
 
@@ -7,7 +7,7 @@ permalink: /pwp
 <script type="text/javascript" src="data/p/pwp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pwp](https://patronite.pl/pwp)
+# [Polish Women Photographers](https://patronite.pl/pwp)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: RozWojownicy | Patromierz
+title: "RozWojownicy | Patromierz"
 permalink: /RozWojownicy
 ---
 
@@ -7,7 +7,7 @@ permalink: /RozWojownicy
 <script type="text/javascript" src="data/r/RozWojownicy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RozWojownicy](https://patronite.pl/RozWojownicy)
+# [RozWojownicy ](https://patronite.pl/RozWojownicy)
 
 ## Miesięczne wsparcie
 

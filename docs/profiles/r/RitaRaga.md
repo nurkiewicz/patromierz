@@ -1,5 +1,5 @@
 ---
-title: RitaRaga | Patromierz
+title: "RitaRaga | Patromierz"
 permalink: /RitaRaga
 ---
 
@@ -7,7 +7,7 @@ permalink: /RitaRaga
 <script type="text/javascript" src="data/r/RitaRaga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RitaRaga](https://patronite.pl/RitaRaga)
+# [Rita Raga](https://patronite.pl/RitaRaga)
 
 ## Miesięczne wsparcie
 

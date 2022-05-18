@@ -1,5 +1,5 @@
 ---
-title: Spotted-Szczecinek | Patromierz
+title: "Spotted-Szczecinek | Patromierz"
 permalink: /Spotted-Szczecinek
 ---
 
@@ -7,7 +7,7 @@ permalink: /Spotted-Szczecinek
 <script type="text/javascript" src="data/s/Spotted-Szczecinek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Spotted-Szczecinek](https://patronite.pl/Spotted-Szczecinek)
+# [Spotted Szczecinek](https://patronite.pl/Spotted-Szczecinek)
 
 ## Miesięczne wsparcie
 

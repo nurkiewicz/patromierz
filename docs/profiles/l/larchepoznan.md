@@ -1,5 +1,5 @@
 ---
-title: larchepoznan | Patromierz
+title: "larchepoznan | Patromierz"
 permalink: /larchepoznan
 ---
 
@@ -7,7 +7,7 @@ permalink: /larchepoznan
 <script type="text/javascript" src="data/l/larchepoznan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [larchepoznan](https://patronite.pl/larchepoznan)
+# [L'Arche Poznań](https://patronite.pl/larchepoznan)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ZGlowaWGwiazdach | Patromierz
+title: "ZGlowaWGwiazdach | Patromierz"
 permalink: /ZGlowaWGwiazdach
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZGlowaWGwiazdach
 <script type="text/javascript" src="data/z/ZGlowaWGwiazdach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZGlowaWGwiazdach](https://patronite.pl/ZGlowaWGwiazdach)
+# [Karol Wójcicki | Z głową w gwiazdach](https://patronite.pl/ZGlowaWGwiazdach)
 
 ## Miesięczne wsparcie
 

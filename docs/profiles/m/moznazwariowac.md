@@ -1,5 +1,5 @@
 ---
-title: moznazwariowac | Patromierz
+title: "moznazwariowac | Patromierz"
 permalink: /moznazwariowac
 ---
 
@@ -7,7 +7,7 @@ permalink: /moznazwariowac
 <script type="text/javascript" src="data/m/moznazwariowac.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [moznazwariowac](https://patronite.pl/moznazwariowac)
+# [Podcast Można Zwariować](https://patronite.pl/moznazwariowac)
 
 ## Miesięczne wsparcie
 

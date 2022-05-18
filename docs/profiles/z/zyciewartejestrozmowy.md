@@ -1,5 +1,5 @@
 ---
-title: zyciewartejestrozmowy | Patromierz
+title: "zyciewartejestrozmowy | Patromierz"
 permalink: /zyciewartejestrozmowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /zyciewartejestrozmowy
 <script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zyciewartejestrozmowy](https://patronite.pl/zyciewartejestrozmowy)
+# [życie warte jest rozmowy](https://patronite.pl/zyciewartejestrozmowy)
 
 ## Miesięczne wsparcie
 

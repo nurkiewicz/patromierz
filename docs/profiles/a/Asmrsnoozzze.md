@@ -1,5 +1,5 @@
 ---
-title: Asmrsnoozzze | Patromierz
+title: "Asmrsnoozzze | Patromierz"
 permalink: /Asmrsnoozzze
 ---
 
@@ -7,7 +7,7 @@ permalink: /Asmrsnoozzze
 <script type="text/javascript" src="data/a/Asmrsnoozzze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Asmrsnoozzze](https://patronite.pl/Asmrsnoozzze)
+# [Monika Przybył](https://patronite.pl/Asmrsnoozzze)
 
 ## Miesięczne wsparcie
 

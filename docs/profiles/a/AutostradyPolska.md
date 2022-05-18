@@ -1,5 +1,5 @@
 ---
-title: AutostradyPolska | Patromierz
+title: "AutostradyPolska | Patromierz"
 permalink: /AutostradyPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /AutostradyPolska
 <script type="text/javascript" src="data/a/AutostradyPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AutostradyPolska](https://patronite.pl/AutostradyPolska)
+# [Autostrady Polska](https://patronite.pl/AutostradyPolska)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: carpigiani | Patromierz
+title: "carpigiani | Patromierz"
 permalink: /carpigiani
 ---
 
@@ -7,7 +7,7 @@ permalink: /carpigiani
 <script type="text/javascript" src="data/c/carpigiani.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [carpigiani](https://patronite.pl/carpigiani)
+# [Lista Carpigiani](https://patronite.pl/carpigiani)
 
 ## Miesięczne wsparcie
 

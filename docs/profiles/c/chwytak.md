@@ -1,5 +1,5 @@
 ---
-title: chwytak | Patromierz
+title: "chwytak | Patromierz"
 permalink: /chwytak
 ---
 
@@ -7,7 +7,7 @@ permalink: /chwytak
 <script type="text/javascript" src="data/c/chwytak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chwytak](https://patronite.pl/chwytak)
+# [The Chwytak](https://patronite.pl/chwytak)
 
 ## Miesięczne wsparcie
 

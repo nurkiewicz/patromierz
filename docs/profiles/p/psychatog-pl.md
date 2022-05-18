@@ -1,5 +1,5 @@
 ---
-title: psychatog-pl | Patromierz
+title: "psychatog-pl | Patromierz"
 permalink: /psychatog-pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /psychatog-pl
 <script type="text/javascript" src="data/p/psychatog-pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psychatog-pl](https://patronite.pl/psychatog-pl)
+# [Psychatog.pl](https://patronite.pl/psychatog-pl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: jwesolowski | Patromierz
+title: "jwesolowski | Patromierz"
 permalink: /jwesolowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jwesolowski
 <script type="text/javascript" src="data/j/jwesolowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jwesolowski](https://patronite.pl/jwesolowski)
+# [Jacek Wesołowski](https://patronite.pl/jwesolowski)
 
 ## Miesięczne wsparcie
 

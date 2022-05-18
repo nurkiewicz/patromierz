@@ -1,5 +1,5 @@
 ---
-title: bochniacy | Patromierz
+title: "bochniacy | Patromierz"
 permalink: /bochniacy
 ---
 
@@ -7,7 +7,7 @@ permalink: /bochniacy
 <script type="text/javascript" src="data/b/bochniacy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bochniacy](https://patronite.pl/bochniacy)
+# [Stowarzyszenie Bochniaków i Miłośników Ziemi Bocheńskiej](https://patronite.pl/bochniacy)
 
 ## Miesięczne wsparcie
 

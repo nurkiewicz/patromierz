@@ -1,5 +1,5 @@
 ---
-title: uzpol | Patromierz
+title: "uzpol | Patromierz"
 permalink: /uzpol
 ---
 
@@ -7,7 +7,7 @@ permalink: /uzpol
 <script type="text/javascript" src="data/u/uzpol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [uzpol](https://patronite.pl/uzpol)
+# [UZPOLproduction](https://patronite.pl/uzpol)
 
 ## Miesięczne wsparcie
 

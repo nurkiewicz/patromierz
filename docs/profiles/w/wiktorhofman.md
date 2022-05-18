@@ -1,5 +1,5 @@
 ---
-title: wiktorhofman | Patromierz
+title: "wiktorhofman | Patromierz"
 permalink: /wiktorhofman
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiktorhofman
 <script type="text/javascript" src="data/w/wiktorhofman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiktorhofman](https://patronite.pl/wiktorhofman)
+# [Wiktor Hofman](https://patronite.pl/wiktorhofman)
 
 ## Miesięczne wsparcie
 

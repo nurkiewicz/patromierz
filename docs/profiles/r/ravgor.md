@@ -1,5 +1,5 @@
 ---
-title: ravgor | Patromierz
+title: "ravgor | Patromierz"
 permalink: /ravgor
 ---
 
@@ -7,7 +7,7 @@ permalink: /ravgor
 <script type="text/javascript" src="data/r/ravgor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ravgor](https://patronite.pl/ravgor)
+# [Ravgor](https://patronite.pl/ravgor)
 
 ## Miesięczne wsparcie
 

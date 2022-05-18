@@ -1,5 +1,5 @@
 ---
-title: radioparanormalium | Patromierz
+title: "radioparanormalium | Patromierz"
 permalink: /radioparanormalium
 ---
 
@@ -7,7 +7,7 @@ permalink: /radioparanormalium
 <script type="text/javascript" src="data/r/radioparanormalium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radioparanormalium](https://patronite.pl/radioparanormalium)
+# [Radio Paranormalium](https://patronite.pl/radioparanormalium)
 
 ## Miesięczne wsparcie
 

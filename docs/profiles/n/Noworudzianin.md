@@ -1,5 +1,5 @@
 ---
-title: Noworudzianin | Patromierz
+title: "Noworudzianin | Patromierz"
 permalink: /Noworudzianin
 ---
 
@@ -7,7 +7,7 @@ permalink: /Noworudzianin
 <script type="text/javascript" src="data/n/Noworudzianin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Noworudzianin](https://patronite.pl/Noworudzianin)
+# [NoworudzianiN](https://patronite.pl/Noworudzianin)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Kajakiem_Tu_i_Tam | Patromierz
+title: "Kajakiem_Tu_i_Tam | Patromierz"
 permalink: /Kajakiem_Tu_i_Tam
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kajakiem_Tu_i_Tam
 <script type="text/javascript" src="data/k/Kajakiem_Tu_i_Tam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kajakiem_Tu_i_Tam](https://patronite.pl/Kajakiem_Tu_i_Tam)
+# [Kajakiem Tu i Tam](https://patronite.pl/Kajakiem_Tu_i_Tam)
 
 ## Miesięczne wsparcie
 

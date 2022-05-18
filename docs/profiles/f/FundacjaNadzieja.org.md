@@ -1,5 +1,5 @@
 ---
-title: FundacjaNadzieja.org | Patromierz
+title: "FundacjaNadzieja.org | Patromierz"
 permalink: /FundacjaNadzieja.org
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaNadzieja.org
 <script type="text/javascript" src="data/f/FundacjaNadzieja.org.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaNadzieja.org](https://patronite.pl/FundacjaNadzieja.org)
+# [Fundacja Służby Rodzinie "Nadzieja"](https://patronite.pl/FundacjaNadzieja.org)
 
 ## Miesięczne wsparcie
 

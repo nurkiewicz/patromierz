@@ -1,5 +1,5 @@
 ---
-title: kresy | Patromierz
+title: "kresy | Patromierz"
 permalink: /kresy
 ---
 
@@ -7,7 +7,7 @@ permalink: /kresy
 <script type="text/javascript" src="data/k/kresy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kresy](https://patronite.pl/kresy)
+# [Kresy.pl](https://patronite.pl/kresy)
 
 ## Miesięczne wsparcie
 

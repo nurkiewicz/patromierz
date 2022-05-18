@@ -1,5 +1,5 @@
 ---
-title: drewnianekwiaty | Patromierz
+title: "drewnianekwiaty | Patromierz"
 permalink: /drewnianekwiaty
 ---
 
@@ -7,7 +7,7 @@ permalink: /drewnianekwiaty
 <script type="text/javascript" src="data/d/drewnianekwiaty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drewnianekwiaty](https://patronite.pl/drewnianekwiaty)
+# [Drewniane Kwiaty](https://patronite.pl/drewnianekwiaty)
 
 ## Miesięczne wsparcie
 

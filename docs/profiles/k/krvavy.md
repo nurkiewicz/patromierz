@@ -1,5 +1,5 @@
 ---
-title: krvavy | Patromierz
+title: "krvavy | Patromierz"
 permalink: /krvavy
 ---
 
@@ -7,7 +7,7 @@ permalink: /krvavy
 <script type="text/javascript" src="data/k/krvavy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [krvavy](https://patronite.pl/krvavy)
+# [Krvavy](https://patronite.pl/krvavy)
 
 ## Miesięczne wsparcie
 

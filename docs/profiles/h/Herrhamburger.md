@@ -1,5 +1,5 @@
 ---
-title: Herrhamburger | Patromierz
+title: "Herrhamburger | Patromierz"
 permalink: /Herrhamburger
 ---
 
@@ -7,7 +7,7 @@ permalink: /Herrhamburger
 <script type="text/javascript" src="data/h/Herrhamburger.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Herrhamburger](https://patronite.pl/Herrhamburger)
+# [Herr Hamburger ](https://patronite.pl/Herrhamburger)
 
 ## Miesięczne wsparcie
 

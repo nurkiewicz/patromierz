@@ -1,5 +1,5 @@
 ---
-title: jestemalpha | Patromierz
+title: "jestemalpha | Patromierz"
 permalink: /jestemalpha
 ---
 
@@ -7,7 +7,7 @@ permalink: /jestemalpha
 <script type="text/javascript" src="data/j/jestemalpha.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jestemalpha](https://patronite.pl/jestemalpha)
+# [jestemAlpha.](https://patronite.pl/jestemalpha)
 
 ## Miesięczne wsparcie
 

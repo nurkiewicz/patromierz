@@ -1,5 +1,5 @@
 ---
-title: DorotaFreitag | Patromierz
+title: "DorotaFreitag | Patromierz"
 permalink: /DorotaFreitag
 ---
 
@@ -7,7 +7,7 @@ permalink: /DorotaFreitag
 <script type="text/javascript" src="data/d/DorotaFreitag.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DorotaFreitag](https://patronite.pl/DorotaFreitag)
+# [Dorota Freitag](https://patronite.pl/DorotaFreitag)
 
 ## Miesięczne wsparcie
 

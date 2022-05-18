@@ -1,5 +1,5 @@
 ---
-title: annlove | Patromierz
+title: "annlove | Patromierz"
 permalink: /annlove
 ---
 
@@ -7,7 +7,7 @@ permalink: /annlove
 <script type="text/javascript" src="data/a/annlove.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annlove](https://patronite.pl/annlove)
+# [Szczerze o relacjach i gotowaniu ](https://patronite.pl/annlove)
 
 ## Miesięczne wsparcie
 

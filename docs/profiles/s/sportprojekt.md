@@ -1,5 +1,5 @@
 ---
-title: sportprojekt | Patromierz
+title: "sportprojekt | Patromierz"
 permalink: /sportprojekt
 ---
 
@@ -7,7 +7,7 @@ permalink: /sportprojekt
 <script type="text/javascript" src="data/s/sportprojekt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sportprojekt](https://patronite.pl/sportprojekt)
+# [Wojtek Pawlak](https://patronite.pl/sportprojekt)
 
 ## Miesięczne wsparcie
 

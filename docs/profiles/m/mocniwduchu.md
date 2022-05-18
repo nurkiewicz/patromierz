@@ -1,5 +1,5 @@
 ---
-title: mocniwduchu | Patromierz
+title: "mocniwduchu | Patromierz"
 permalink: /mocniwduchu
 ---
 
@@ -7,7 +7,7 @@ permalink: /mocniwduchu
 <script type="text/javascript" src="data/m/mocniwduchu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mocniwduchu](https://patronite.pl/mocniwduchu)
+# [Mocni w Duchu](https://patronite.pl/mocniwduchu)
 
 ## Miesięczne wsparcie
 

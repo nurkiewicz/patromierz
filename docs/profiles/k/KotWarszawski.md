@@ -1,5 +1,5 @@
 ---
-title: KotWarszawski | Patromierz
+title: "KotWarszawski | Patromierz"
 permalink: /KotWarszawski
 ---
 
@@ -7,7 +7,7 @@ permalink: /KotWarszawski
 <script type="text/javascript" src="data/k/KotWarszawski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KotWarszawski](https://patronite.pl/KotWarszawski)
+# [Kot Warszawski](https://patronite.pl/KotWarszawski)
 
 ## Miesięczne wsparcie
 

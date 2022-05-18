@@ -1,5 +1,5 @@
 ---
-title: nadia_la_chiquetita | Patromierz
+title: "nadia_la_chiquetita | Patromierz"
 permalink: /nadia_la_chiquetita
 ---
 
@@ -7,7 +7,7 @@ permalink: /nadia_la_chiquetita
 <script type="text/javascript" src="data/n/nadia_la_chiquetita.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nadia_la_chiquetita](https://patronite.pl/nadia_la_chiquetita)
+# [Nadia La Chiquetita](https://patronite.pl/nadia_la_chiquetita)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: mamcialo-podcast | Patromierz
+title: "mamcialo-podcast | Patromierz"
 permalink: /mamcialo-podcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /mamcialo-podcast
 <script type="text/javascript" src="data/m/mamcialo-podcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mamcialo-podcast](https://patronite.pl/mamcialo-podcast)
+# [Mam ciało - i co dalej?](https://patronite.pl/mamcialo-podcast)
 
 ## Miesięczne wsparcie
 

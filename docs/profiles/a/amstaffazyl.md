@@ -1,5 +1,5 @@
 ---
-title: amstaffazyl | Patromierz
+title: "amstaffazyl | Patromierz"
 permalink: /amstaffazyl
 ---
 
@@ -7,7 +7,7 @@ permalink: /amstaffazyl
 <script type="text/javascript" src="data/a/amstaffazyl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [amstaffazyl](https://patronite.pl/amstaffazyl)
+# [Fundacja Amstaff Azyl](https://patronite.pl/amstaffazyl)
 
 ## Miesięczne wsparcie
 

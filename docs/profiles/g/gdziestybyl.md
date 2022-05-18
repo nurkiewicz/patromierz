@@ -1,5 +1,5 @@
 ---
-title: gdziestybyl | Patromierz
+title: "gdziestybyl | Patromierz"
 permalink: /gdziestybyl
 ---
 
@@ -7,7 +7,7 @@ permalink: /gdziestybyl
 <script type="text/javascript" src="data/g/gdziestybyl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gdziestybyl](https://patronite.pl/gdziestybyl)
+# [GdzieśTyBył](https://patronite.pl/gdziestybyl)
 
 ## Miesięczne wsparcie
 

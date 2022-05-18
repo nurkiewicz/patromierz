@@ -1,5 +1,5 @@
 ---
-title: otwartyjazdow | Patromierz
+title: "otwartyjazdow | Patromierz"
 permalink: /otwartyjazdow
 ---
 
@@ -7,7 +7,7 @@ permalink: /otwartyjazdow
 <script type="text/javascript" src="data/o/otwartyjazdow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otwartyjazdow](https://patronite.pl/otwartyjazdow)
+# [Otwarty Jazdów](https://patronite.pl/otwartyjazdow)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: DSRCzarnaOwca | Patromierz
+title: "DSRCzarnaOwca | Patromierz"
 permalink: /DSRCzarnaOwca
 ---
 
@@ -7,7 +7,7 @@ permalink: /DSRCzarnaOwca
 <script type="text/javascript" src="data/d/DSRCzarnaOwca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DSRCzarnaOwca](https://patronite.pl/DSRCzarnaOwca)
+# [DSR Czarna Owca](https://patronite.pl/DSRCzarnaOwca)
 
 ## Miesięczne wsparcie
 

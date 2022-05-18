@@ -1,5 +1,5 @@
 ---
-title: Astronomia | Patromierz
+title: "Astronomia | Patromierz"
 permalink: /Astronomia
 ---
 

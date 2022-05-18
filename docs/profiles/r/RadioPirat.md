@@ -1,5 +1,5 @@
 ---
-title: RadioPirat | Patromierz
+title: "RadioPirat | Patromierz"
 permalink: /RadioPirat
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioPirat
 <script type="text/javascript" src="data/r/RadioPirat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioPirat](https://patronite.pl/RadioPirat)
+# [Radio Pirat](https://patronite.pl/RadioPirat)
 
 ## Miesięczne wsparcie
 

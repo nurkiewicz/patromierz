@@ -1,5 +1,5 @@
 ---
-title: MarekOpowiada | Patromierz
+title: "MarekOpowiada | Patromierz"
 permalink: /MarekOpowiada
 ---
 
@@ -7,7 +7,7 @@ permalink: /MarekOpowiada
 <script type="text/javascript" src="data/m/MarekOpowiada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MarekOpowiada](https://patronite.pl/MarekOpowiada)
+# [Marek Rocki](https://patronite.pl/MarekOpowiada)
 
 ## Miesięczne wsparcie
 

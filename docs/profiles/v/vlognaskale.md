@@ -1,5 +1,5 @@
 ---
-title: vlognaskale | Patromierz
+title: "vlognaskale | Patromierz"
 permalink: /vlognaskale
 ---
 
@@ -7,7 +7,7 @@ permalink: /vlognaskale
 <script type="text/javascript" src="data/v/vlognaskale.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vlognaskale](https://patronite.pl/vlognaskale)
+# [Vlog na Skale / Sacerdos.pl](https://patronite.pl/vlognaskale)
 
 ## Miesięczne wsparcie
 

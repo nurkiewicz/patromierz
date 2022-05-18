@@ -1,5 +1,5 @@
 ---
-title: T-Urbaniec91 | Patromierz
+title: "T-Urbaniec91 | Patromierz"
 permalink: /T-Urbaniec91
 ---
 
@@ -7,7 +7,7 @@ permalink: /T-Urbaniec91
 <script type="text/javascript" src="data/t/T-Urbaniec91.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [T-Urbaniec91](https://patronite.pl/T-Urbaniec91)
+# [Tomasz Urbaniec WCHZ](https://patronite.pl/T-Urbaniec91)
 
 ## Miesięczne wsparcie
 

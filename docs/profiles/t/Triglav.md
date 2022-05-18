@@ -1,5 +1,5 @@
 ---
-title: Triglav | Patromierz
+title: "Triglav | Patromierz"
 permalink: /Triglav
 ---
 
@@ -7,7 +7,7 @@ permalink: /Triglav
 <script type="text/javascript" src="data/t/Triglav.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Triglav](https://patronite.pl/Triglav)
+# [Stowarzyszenie Historyczno - Badawcze TRIGLAV](https://patronite.pl/Triglav)
 
 ## Miesięczne wsparcie
 

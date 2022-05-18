@@ -1,5 +1,5 @@
 ---
-title: ZeroZalamki | Patromierz
+title: "ZeroZalamki | Patromierz"
 permalink: /ZeroZalamki
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZeroZalamki
 <script type="text/javascript" src="data/z/ZeroZalamki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZeroZalamki](https://patronite.pl/ZeroZalamki)
+# [Zero Załamki - road to Paralympics](https://patronite.pl/ZeroZalamki)
 
 ## Miesięczne wsparcie
 

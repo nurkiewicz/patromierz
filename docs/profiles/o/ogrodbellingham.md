@@ -1,5 +1,5 @@
 ---
-title: ogrodbellingham | Patromierz
+title: "ogrodbellingham | Patromierz"
 permalink: /ogrodbellingham
 ---
 
@@ -7,7 +7,7 @@ permalink: /ogrodbellingham
 <script type="text/javascript" src="data/o/ogrodbellingham.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ogrodbellingham](https://patronite.pl/ogrodbellingham)
+# [Katarzyna Bellingham  OGRÓD, VLOG, PODCAST, TV](https://patronite.pl/ogrodbellingham)
 
 ## Miesięczne wsparcie
 

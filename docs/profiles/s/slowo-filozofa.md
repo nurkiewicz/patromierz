@@ -1,5 +1,5 @@
 ---
-title: slowo-filozofa | Patromierz
+title: "slowo-filozofa | Patromierz"
 permalink: /slowo-filozofa
 ---
 
@@ -7,7 +7,7 @@ permalink: /slowo-filozofa
 <script type="text/javascript" src="data/s/slowo-filozofa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slowo-filozofa](https://patronite.pl/slowo-filozofa)
+# [SŁOWO FILOZOFA](https://patronite.pl/slowo-filozofa)
 
 ## Miesięczne wsparcie
 

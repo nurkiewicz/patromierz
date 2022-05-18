@@ -1,5 +1,5 @@
 ---
-title: fundacjabarnaby | Patromierz
+title: "fundacjabarnaby | Patromierz"
 permalink: /fundacjabarnaby
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjabarnaby
 <script type="text/javascript" src="data/f/fundacjabarnaby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjabarnaby](https://patronite.pl/fundacjabarnaby)
+# [Fundacja Barnaby](https://patronite.pl/fundacjabarnaby)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bsfbochnia | Patromierz
+title: "bsfbochnia | Patromierz"
 permalink: /bsfbochnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /bsfbochnia
 <script type="text/javascript" src="data/b/bsfbochnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bsfbochnia](https://patronite.pl/bsfbochnia)
+# [BSF Bochnia](https://patronite.pl/bsfbochnia)
 
 ## Miesięczne wsparcie
 

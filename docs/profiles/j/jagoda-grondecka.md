@@ -1,5 +1,5 @@
 ---
-title: jagoda-grondecka | Patromierz
+title: "jagoda-grondecka | Patromierz"
 permalink: /jagoda-grondecka
 ---
 
@@ -7,7 +7,7 @@ permalink: /jagoda-grondecka
 <script type="text/javascript" src="data/j/jagoda-grondecka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jagoda-grondecka](https://patronite.pl/jagoda-grondecka)
+# [Jagoda Grondecka](https://patronite.pl/jagoda-grondecka)
 
 ## Miesięczne wsparcie
 

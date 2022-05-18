@@ -1,5 +1,5 @@
 ---
-title: MGRMAJKI | Patromierz
+title: "MGRMAJKI | Patromierz"
 permalink: /MGRMAJKI
 ---
 
@@ -7,7 +7,7 @@ permalink: /MGRMAJKI
 <script type="text/javascript" src="data/m/MGRMAJKI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MGRMAJKI](https://patronite.pl/MGRMAJKI)
+# [MGR.MAJKI](https://patronite.pl/MGRMAJKI)
 
 ## Miesięczne wsparcie
 

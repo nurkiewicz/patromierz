@@ -1,5 +1,5 @@
 ---
-title: motozagwozdki | Patromierz
+title: "motozagwozdki | Patromierz"
 permalink: /motozagwozdki
 ---
 
@@ -7,7 +7,7 @@ permalink: /motozagwozdki
 <script type="text/javascript" src="data/m/motozagwozdki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [motozagwozdki](https://patronite.pl/motozagwozdki)
+# [Moto Zagwozdki](https://patronite.pl/motozagwozdki)
 
 ## Miesięczne wsparcie
 

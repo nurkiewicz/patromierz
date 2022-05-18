@@ -1,5 +1,5 @@
 ---
-title: historiawdrodze | Patromierz
+title: "historiawdrodze | Patromierz"
 permalink: /historiawdrodze
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiawdrodze
 <script type="text/javascript" src="data/h/historiawdrodze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiawdrodze](https://patronite.pl/historiawdrodze)
+# [Historia w Drodze](https://patronite.pl/historiawdrodze)
 
 ## Miesięczne wsparcie
 

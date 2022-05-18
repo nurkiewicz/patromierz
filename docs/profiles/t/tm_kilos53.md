@@ -1,5 +1,5 @@
 ---
-title: tm_kilos53 | Patromierz
+title: "tm_kilos53 | Patromierz"
 permalink: /tm_kilos53
 ---
 
@@ -7,7 +7,7 @@ permalink: /tm_kilos53
 <script type="text/javascript" src="data/t/tm_kilos53.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tm_kilos53](https://patronite.pl/tm_kilos53)
+# [Teatr Młody im. Kilosa53](https://patronite.pl/tm_kilos53)
 
 ## Miesięczne wsparcie
 

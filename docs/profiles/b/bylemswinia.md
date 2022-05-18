@@ -1,5 +1,5 @@
 ---
-title: bylemswinia | Patromierz
+title: "bylemswinia | Patromierz"
 permalink: /bylemswinia
 ---
 
@@ -7,7 +7,7 @@ permalink: /bylemswinia
 <script type="text/javascript" src="data/b/bylemswinia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bylemswinia](https://patronite.pl/bylemswinia)
+# [Michał Birecki](https://patronite.pl/bylemswinia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: przymierzemilosierdzia | Patromierz
+title: "przymierzemilosierdzia | Patromierz"
 permalink: /przymierzemilosierdzia
 ---
 
@@ -7,7 +7,7 @@ permalink: /przymierzemilosierdzia
 <script type="text/javascript" src="data/p/przymierzemilosierdzia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przymierzemilosierdzia](https://patronite.pl/przymierzemilosierdzia)
+# [Przymierze Miłosierdzia](https://patronite.pl/przymierzemilosierdzia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: URBEXprojekt36 | Patromierz
+title: "URBEXprojekt36 | Patromierz"
 permalink: /URBEXprojekt36
 ---
 
@@ -7,7 +7,7 @@ permalink: /URBEXprojekt36
 <script type="text/javascript" src="data/u/URBEXprojekt36.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [URBEXprojekt36](https://patronite.pl/URBEXprojekt36)
+# [URBEXprojekt ](https://patronite.pl/URBEXprojekt36)
 
 ## Miesięczne wsparcie
 

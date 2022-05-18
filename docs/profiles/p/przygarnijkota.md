@@ -1,5 +1,5 @@
 ---
-title: przygarnijkota | Patromierz
+title: "przygarnijkota | Patromierz"
 permalink: /przygarnijkota
 ---
 
@@ -7,7 +7,7 @@ permalink: /przygarnijkota
 <script type="text/javascript" src="data/p/przygarnijkota.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przygarnijkota](https://patronite.pl/przygarnijkota)
+# [Przygarnij Kota](https://patronite.pl/przygarnijkota)
 
 ## Miesięczne wsparcie
 

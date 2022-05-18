@@ -1,5 +1,5 @@
 ---
-title: radomskieklasyki | Patromierz
+title: "radomskieklasyki | Patromierz"
 permalink: /radomskieklasyki
 ---
 
@@ -7,7 +7,7 @@ permalink: /radomskieklasyki
 <script type="text/javascript" src="data/r/radomskieklasyki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radomskieklasyki](https://patronite.pl/radomskieklasyki)
+# [Radomskie Klasyki](https://patronite.pl/radomskieklasyki)
 
 ## Miesięczne wsparcie
 

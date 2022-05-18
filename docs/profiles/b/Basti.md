@@ -1,5 +1,5 @@
 ---
-title: Basti | Patromierz
+title: "Basti | Patromierz"
 permalink: /Basti
 ---
 
@@ -7,7 +7,7 @@ permalink: /Basti
 <script type="text/javascript" src="data/b/Basti.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Basti](https://patronite.pl/Basti)
+# [BASTI](https://patronite.pl/Basti)
 
 ## Miesięczne wsparcie
 

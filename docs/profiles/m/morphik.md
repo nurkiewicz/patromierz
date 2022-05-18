@@ -1,5 +1,5 @@
 ---
-title: morphik | Patromierz
+title: "morphik | Patromierz"
 permalink: /morphik
 ---
 
@@ -7,7 +7,7 @@ permalink: /morphik
 <script type="text/javascript" src="data/m/morphik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [morphik](https://patronite.pl/morphik)
+# [MORPHIK](https://patronite.pl/morphik)
 
 ## Miesięczne wsparcie
 

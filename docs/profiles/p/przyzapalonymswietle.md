@@ -1,5 +1,5 @@
 ---
-title: przyzapalonymswietle | Patromierz
+title: "przyzapalonymswietle | Patromierz"
 permalink: /przyzapalonymswietle
 ---
 
@@ -7,7 +7,7 @@ permalink: /przyzapalonymswietle
 <script type="text/javascript" src="data/p/przyzapalonymswietle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przyzapalonymswietle](https://patronite.pl/przyzapalonymswietle)
+# [Przy zapalonym świetle – podcast](https://patronite.pl/przyzapalonymswietle)
 
 ## Miesięczne wsparcie
 

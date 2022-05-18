@@ -1,5 +1,5 @@
 ---
-title: pch24tv | Patromierz
+title: "pch24tv | Patromierz"
 permalink: /pch24tv
 ---
 
@@ -7,7 +7,7 @@ permalink: /pch24tv
 <script type="text/javascript" src="data/p/pch24tv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pch24tv](https://patronite.pl/pch24tv)
+# [PCh24TV](https://patronite.pl/pch24tv)
 
 ## Miesięczne wsparcie
 

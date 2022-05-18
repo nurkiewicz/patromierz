@@ -1,5 +1,5 @@
 ---
-title: muminekcodzienny | Patromierz
+title: "muminekcodzienny | Patromierz"
 permalink: /muminekcodzienny
 ---
 
@@ -7,7 +7,7 @@ permalink: /muminekcodzienny
 <script type="text/javascript" src="data/m/muminekcodzienny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muminekcodzienny](https://patronite.pl/muminekcodzienny)
+# [Muminek Codzienny](https://patronite.pl/muminekcodzienny)
 
 ## Miesięczne wsparcie
 

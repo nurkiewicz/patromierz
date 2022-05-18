@@ -1,5 +1,5 @@
 ---
-title: RadioPasjaTanca | Patromierz
+title: "RadioPasjaTanca | Patromierz"
 permalink: /RadioPasjaTanca
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioPasjaTanca
 <script type="text/javascript" src="data/r/RadioPasjaTanca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioPasjaTanca](https://patronite.pl/RadioPasjaTanca)
+# [Radio Pasja Tańca](https://patronite.pl/RadioPasjaTanca)
 
 ## Miesięczne wsparcie
 

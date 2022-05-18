@@ -1,5 +1,5 @@
 ---
-title: radiokapital | Patromierz
+title: "radiokapital | Patromierz"
 permalink: /radiokapital
 ---
 
@@ -7,7 +7,7 @@ permalink: /radiokapital
 <script type="text/javascript" src="data/r/radiokapital.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radiokapital](https://patronite.pl/radiokapital)
+# [Radio Kapitał](https://patronite.pl/radiokapital)
 
 ## Miesięczne wsparcie
 

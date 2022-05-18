@@ -1,5 +1,5 @@
 ---
-title: orkiestrazdrojowa | Patromierz
+title: "orkiestrazdrojowa | Patromierz"
 permalink: /orkiestrazdrojowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /orkiestrazdrojowa
 <script type="text/javascript" src="data/o/orkiestrazdrojowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [orkiestrazdrojowa](https://patronite.pl/orkiestrazdrojowa)
+# [Krynicka Orkiestra  Zdrojowa im. Adama Wrońskiego](https://patronite.pl/orkiestrazdrojowa)
 
 ## Miesięczne wsparcie
 

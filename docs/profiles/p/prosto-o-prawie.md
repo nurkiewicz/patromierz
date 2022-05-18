@@ -1,5 +1,5 @@
 ---
-title: prosto-o-prawie | Patromierz
+title: "prosto-o-prawie | Patromierz"
 permalink: /prosto-o-prawie
 ---
 
@@ -7,7 +7,7 @@ permalink: /prosto-o-prawie
 <script type="text/javascript" src="data/p/prosto-o-prawie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prosto-o-prawie](https://patronite.pl/prosto-o-prawie)
+# [Prosto o Prawie](https://patronite.pl/prosto-o-prawie)
 
 ## Miesięczne wsparcie
 

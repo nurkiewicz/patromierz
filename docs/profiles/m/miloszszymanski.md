@@ -1,5 +1,5 @@
 ---
-title: miloszszymanski | Patromierz
+title: "miloszszymanski | Patromierz"
 permalink: /miloszszymanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /miloszszymanski
 <script type="text/javascript" src="data/m/miloszszymanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [miloszszymanski](https://patronite.pl/miloszszymanski)
+# [Miłosz Szymański](https://patronite.pl/miloszszymanski)
 
 ## Miesięczne wsparcie
 

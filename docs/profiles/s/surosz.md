@@ -1,5 +1,5 @@
 ---
-title: surosz | Patromierz
+title: "surosz | Patromierz"
 permalink: /surosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /surosz
 <script type="text/javascript" src="data/s/surosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [surosz](https://patronite.pl/surosz)
+# [Mariusz Surosz](https://patronite.pl/surosz)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ciekawostkiteatralne | Patromierz
+title: "ciekawostkiteatralne | Patromierz"
 permalink: /ciekawostkiteatralne
 ---
 
@@ -7,7 +7,7 @@ permalink: /ciekawostkiteatralne
 <script type="text/javascript" src="data/c/ciekawostkiteatralne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ciekawostkiteatralne](https://patronite.pl/ciekawostkiteatralne)
+# [Ciekawostki teatralne](https://patronite.pl/ciekawostkiteatralne)
 
 ## Miesięczne wsparcie
 

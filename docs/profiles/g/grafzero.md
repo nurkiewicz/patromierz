@@ -1,5 +1,5 @@
 ---
-title: grafzero | Patromierz
+title: "grafzero | Patromierz"
 permalink: /grafzero
 ---
 
@@ -7,7 +7,7 @@ permalink: /grafzero
 <script type="text/javascript" src="data/g/grafzero.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grafzero](https://patronite.pl/grafzero)
+# [Grafzero vlog literacki](https://patronite.pl/grafzero)
 
 ## Miesięczne wsparcie
 

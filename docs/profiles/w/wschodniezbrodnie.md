@@ -1,5 +1,5 @@
 ---
-title: wschodniezbrodnie | Patromierz
+title: "wschodniezbrodnie | Patromierz"
 permalink: /wschodniezbrodnie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wschodniezbrodnie
 <script type="text/javascript" src="data/w/wschodniezbrodnie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wschodniezbrodnie](https://patronite.pl/wschodniezbrodnie)
+# [Wschodnie Zbrodnie](https://patronite.pl/wschodniezbrodnie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: PutinowaPolska | Patromierz
+title: "PutinowaPolska | Patromierz"
 permalink: /PutinowaPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /PutinowaPolska
 <script type="text/javascript" src="data/p/PutinowaPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PutinowaPolska](https://patronite.pl/PutinowaPolska)
+# [Doniesienia z putinowskiej Polski](https://patronite.pl/PutinowaPolska)
 
 ## Miesięczne wsparcie
 

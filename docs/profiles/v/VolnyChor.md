@@ -1,5 +1,5 @@
 ---
-title: VolnyChor | Patromierz
+title: "VolnyChor | Patromierz"
 permalink: /VolnyChor
 ---
 
@@ -7,7 +7,7 @@ permalink: /VolnyChor
 <script type="text/javascript" src="data/v/VolnyChor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VolnyChor](https://patronite.pl/VolnyChor)
+# [Volny Chor](https://patronite.pl/VolnyChor)
 
 ## Miesięczne wsparcie
 

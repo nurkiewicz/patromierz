@@ -1,5 +1,5 @@
 ---
-title: MojaAstronomia | Patromierz
+title: "MojaAstronomia | Patromierz"
 permalink: /MojaAstronomia
 ---
 
@@ -7,7 +7,7 @@ permalink: /MojaAstronomia
 <script type="text/javascript" src="data/m/MojaAstronomia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MojaAstronomia](https://patronite.pl/MojaAstronomia)
+# [MojaAstronomiaPL](https://patronite.pl/MojaAstronomia)
 
 ## Miesięczne wsparcie
 

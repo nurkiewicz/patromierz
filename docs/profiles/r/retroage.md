@@ -1,5 +1,5 @@
 ---
-title: retroage | Patromierz
+title: "retroage | Patromierz"
 permalink: /retroage
 ---
 
@@ -7,7 +7,7 @@ permalink: /retroage
 <script type="text/javascript" src="data/r/retroage.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [retroage](https://patronite.pl/retroage)
+# [RetroAge](https://patronite.pl/retroage)
 
 ## Miesięczne wsparcie
 

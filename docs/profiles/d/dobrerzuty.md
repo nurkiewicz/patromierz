@@ -1,5 +1,5 @@
 ---
-title: dobrerzuty | Patromierz
+title: "dobrerzuty | Patromierz"
 permalink: /dobrerzuty
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobrerzuty
 <script type="text/javascript" src="data/d/dobrerzuty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobrerzuty](https://patronite.pl/dobrerzuty)
+# [Dobre Rzuty](https://patronite.pl/dobrerzuty)
 
 ## Miesięczne wsparcie
 

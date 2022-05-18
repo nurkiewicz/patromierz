@@ -1,5 +1,5 @@
 ---
-title: sambudujedom | Patromierz
+title: "sambudujedom | Patromierz"
 permalink: /sambudujedom
 ---
 
@@ -7,7 +7,7 @@ permalink: /sambudujedom
 <script type="text/javascript" src="data/s/sambudujedom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sambudujedom](https://patronite.pl/sambudujedom)
+# [Sam buduję dom - bez kredytu](https://patronite.pl/sambudujedom)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: michalhorbaczek | Patromierz
+title: "michalhorbaczek | Patromierz"
 permalink: /michalhorbaczek
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalhorbaczek
 <script type="text/javascript" src="data/m/michalhorbaczek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalhorbaczek](https://patronite.pl/michalhorbaczek)
+# [Michał Horbaczek](https://patronite.pl/michalhorbaczek)
 
 ## Miesięczne wsparcie
 

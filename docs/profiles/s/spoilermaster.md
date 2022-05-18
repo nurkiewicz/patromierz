@@ -1,5 +1,5 @@
 ---
-title: spoilermaster | Patromierz
+title: "spoilermaster | Patromierz"
 permalink: /spoilermaster
 ---
 
@@ -7,7 +7,7 @@ permalink: /spoilermaster
 <script type="text/javascript" src="data/s/spoilermaster.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spoilermaster](https://patronite.pl/spoilermaster)
+# [SpoilerMaster](https://patronite.pl/spoilermaster)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: przesluchaniamordercow | Patromierz
+title: "przesluchaniamordercow | Patromierz"
 permalink: /przesluchaniamordercow
 ---
 
@@ -7,7 +7,7 @@ permalink: /przesluchaniamordercow
 <script type="text/javascript" src="data/p/przesluchaniamordercow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przesluchaniamordercow](https://patronite.pl/przesluchaniamordercow)
+# [Przesłuchania Morderców](https://patronite.pl/przesluchaniamordercow)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: historia-nie-jest-nudna | Patromierz
+title: "historia-nie-jest-nudna | Patromierz"
 permalink: /historia-nie-jest-nudna
 ---
 
@@ -7,7 +7,7 @@ permalink: /historia-nie-jest-nudna
 <script type="text/javascript" src="data/h/historia-nie-jest-nudna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historia-nie-jest-nudna](https://patronite.pl/historia-nie-jest-nudna)
+# [Historia nie jest nudna](https://patronite.pl/historia-nie-jest-nudna)
 
 ## Miesięczne wsparcie
 

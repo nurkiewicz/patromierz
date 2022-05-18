@@ -1,5 +1,5 @@
 ---
-title: fundacjaTipTop | Patromierz
+title: "fundacjaTipTop | Patromierz"
 permalink: /fundacjaTipTop
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaTipTop
 <script type="text/javascript" src="data/f/fundacjaTipTop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaTipTop](https://patronite.pl/fundacjaTipTop)
+# [Fundacja TIPTOP](https://patronite.pl/fundacjaTipTop)
 
 ## Miesięczne wsparcie
 

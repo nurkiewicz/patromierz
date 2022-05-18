@@ -1,5 +1,5 @@
 ---
-title: niewyparzonapudernica | Patromierz
+title: "niewyparzonapudernica | Patromierz"
 permalink: /niewyparzonapudernica
 ---
 
@@ -7,7 +7,7 @@ permalink: /niewyparzonapudernica
 <script type="text/javascript" src="data/n/niewyparzonapudernica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niewyparzonapudernica](https://patronite.pl/niewyparzonapudernica)
+# [Niewyparzona Pudernica](https://patronite.pl/niewyparzonapudernica)
 
 ## Miesięczne wsparcie
 

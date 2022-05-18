@@ -1,5 +1,5 @@
 ---
-title: PlanszowniaGrodzisk | Patromierz
+title: "PlanszowniaGrodzisk | Patromierz"
 permalink: /PlanszowniaGrodzisk
 ---
 
@@ -7,7 +7,7 @@ permalink: /PlanszowniaGrodzisk
 <script type="text/javascript" src="data/p/PlanszowniaGrodzisk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PlanszowniaGrodzisk](https://patronite.pl/PlanszowniaGrodzisk)
+# [Planszownia Grodzisk](https://patronite.pl/PlanszowniaGrodzisk)
 
 ## Miesięczne wsparcie
 

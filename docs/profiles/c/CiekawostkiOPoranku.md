@@ -1,5 +1,5 @@
 ---
-title: CiekawostkiOPoranku | Patromierz
+title: "CiekawostkiOPoranku | Patromierz"
 permalink: /CiekawostkiOPoranku
 ---
 
@@ -7,7 +7,7 @@ permalink: /CiekawostkiOPoranku
 <script type="text/javascript" src="data/c/CiekawostkiOPoranku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CiekawostkiOPoranku](https://patronite.pl/CiekawostkiOPoranku)
+# [Ciekawostki o Poranku](https://patronite.pl/CiekawostkiOPoranku)
 
 ## Miesięczne wsparcie
 

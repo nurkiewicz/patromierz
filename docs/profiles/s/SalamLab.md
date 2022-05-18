@@ -1,5 +1,5 @@
 ---
-title: SalamLab | Patromierz
+title: "SalamLab | Patromierz"
 permalink: /SalamLab
 ---
 
@@ -7,7 +7,7 @@ permalink: /SalamLab
 <script type="text/javascript" src="data/s/SalamLab.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SalamLab](https://patronite.pl/SalamLab)
+# [SalamLab.pl](https://patronite.pl/SalamLab)
 
 ## Miesięczne wsparcie
 

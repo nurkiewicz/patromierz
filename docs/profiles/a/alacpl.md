@@ -1,5 +1,5 @@
 ---
-title: alacpl | Patromierz
+title: "alacpl | Patromierz"
 permalink: /alacpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /alacpl
 <script type="text/javascript" src="data/a/alacpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alacpl](https://patronite.pl/alacpl)
+# [ALAC - Amatorska Liga Assetto Corsa](https://patronite.pl/alacpl)
 
 ## Miesięczne wsparcie
 

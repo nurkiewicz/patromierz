@@ -1,5 +1,5 @@
 ---
-title: podcast-religioznawczy | Patromierz
+title: "podcast-religioznawczy | Patromierz"
 permalink: /podcast-religioznawczy
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcast-religioznawczy
 <script type="text/javascript" src="data/p/podcast-religioznawczy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcast-religioznawczy](https://patronite.pl/podcast-religioznawczy)
+# [Podcast Religioznawczy](https://patronite.pl/podcast-religioznawczy)
 
 ## Miesięczne wsparcie
 

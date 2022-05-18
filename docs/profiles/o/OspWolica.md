@@ -1,5 +1,5 @@
 ---
-title: OspWolica | Patromierz
+title: "OspWolica | Patromierz"
 permalink: /OspWolica
 ---
 
@@ -7,7 +7,7 @@ permalink: /OspWolica
 <script type="text/javascript" src="data/o/OspWolica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OspWolica](https://patronite.pl/OspWolica)
+# [OSP Wolica](https://patronite.pl/OspWolica)
 
 ## Miesięczne wsparcie
 

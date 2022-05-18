@@ -1,5 +1,5 @@
 ---
-title: patrycjaproszynska | Patromierz
+title: "patrycjaproszynska | Patromierz"
 permalink: /patrycjaproszynska
 ---
 
@@ -7,7 +7,7 @@ permalink: /patrycjaproszynska
 <script type="text/javascript" src="data/p/patrycjaproszynska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patrycjaproszynska](https://patronite.pl/patrycjaproszynska)
+# [Patrycja Prószyńska](https://patronite.pl/patrycjaproszynska)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BioGamerka | Patromierz
+title: "BioGamerka | Patromierz"
 permalink: /BioGamerka
 ---
 
@@ -7,7 +7,7 @@ permalink: /BioGamerka
 <script type="text/javascript" src="data/b/BioGamerka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BioGamerka](https://patronite.pl/BioGamerka)
+# [BioGamerka ](https://patronite.pl/BioGamerka)
 
 ## Miesięczne wsparcie
 

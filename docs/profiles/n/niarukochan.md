@@ -1,5 +1,5 @@
 ---
-title: niarukochan | Patromierz
+title: "niarukochan | Patromierz"
 permalink: /niarukochan
 ---
 
@@ -7,7 +7,7 @@ permalink: /niarukochan
 <script type="text/javascript" src="data/n/niarukochan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niarukochan](https://patronite.pl/niarukochan)
+# [Niaruko_chan](https://patronite.pl/niarukochan)
 
 ## Miesięczne wsparcie
 

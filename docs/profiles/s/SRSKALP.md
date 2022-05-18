@@ -1,5 +1,5 @@
 ---
-title: SRSKALP | Patromierz
+title: "SRSKALP | Patromierz"
 permalink: /SRSKALP
 ---
 
@@ -7,7 +7,7 @@ permalink: /SRSKALP
 <script type="text/javascript" src="data/s/SRSKALP.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SRSKALP](https://patronite.pl/SRSKALP)
+# [Stowarzyszenie Robotyków SKALP](https://patronite.pl/SRSKALP)
 
 ## Miesięczne wsparcie
 

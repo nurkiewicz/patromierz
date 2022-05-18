@@ -1,5 +1,5 @@
 ---
-title: DanielGrzyb | Patromierz
+title: "DanielGrzyb | Patromierz"
 permalink: /DanielGrzyb
 ---
 
@@ -7,7 +7,7 @@ permalink: /DanielGrzyb
 <script type="text/javascript" src="data/d/DanielGrzyb.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DanielGrzyb](https://patronite.pl/DanielGrzyb)
+# [Daniel Grzyb](https://patronite.pl/DanielGrzyb)
 
 ## Miesięczne wsparcie
 

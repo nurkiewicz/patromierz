@@ -1,5 +1,5 @@
 ---
-title: RadioKoncao | Patromierz
+title: "RadioKoncao | Patromierz"
 permalink: /RadioKoncao
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioKoncao
 <script type="text/javascript" src="data/r/RadioKoncao.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioKoncao](https://patronite.pl/RadioKoncao)
+# [Tomek Konca - Radio Koncao](https://patronite.pl/RadioKoncao)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: olgguuu | Patromierz
+title: "olgguuu | Patromierz"
 permalink: /olgguuu
 ---
 
@@ -7,7 +7,7 @@ permalink: /olgguuu
 <script type="text/javascript" src="data/o/olgguuu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [olgguuu](https://patronite.pl/olgguuu)
+# [Olga Guz](https://patronite.pl/olgguuu)
 
 ## Miesięczne wsparcie
 

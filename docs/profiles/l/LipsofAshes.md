@@ -1,5 +1,5 @@
 ---
-title: LipsofAshes | Patromierz
+title: "LipsofAshes | Patromierz"
 permalink: /LipsofAshes
 ---
 
@@ -7,7 +7,7 @@ permalink: /LipsofAshes
 <script type="text/javascript" src="data/l/LipsofAshes.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LipsofAshes](https://patronite.pl/LipsofAshes)
+# [Lips of Ashes band](https://patronite.pl/LipsofAshes)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: martindesimmons | Patromierz
+title: "martindesimmons | Patromierz"
 permalink: /martindesimmons
 ---
 
@@ -7,7 +7,7 @@ permalink: /martindesimmons
 <script type="text/javascript" src="data/m/martindesimmons.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [martindesimmons](https://patronite.pl/martindesimmons)
+# [Martin de Simmons](https://patronite.pl/martindesimmons)
 
 ## Miesięczne wsparcie
 

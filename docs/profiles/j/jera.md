@@ -1,5 +1,5 @@
 ---
-title: jera | Patromierz
+title: "jera | Patromierz"
 permalink: /jera
 ---
 
@@ -7,7 +7,7 @@ permalink: /jera
 <script type="text/javascript" src="data/j/jera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jera](https://patronite.pl/jera)
+# [Marta Jermaczek-Sitak](https://patronite.pl/jera)
 
 ## Miesięczne wsparcie
 

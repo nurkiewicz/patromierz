@@ -1,5 +1,5 @@
 ---
-title: VenomousArt | Patromierz
+title: "VenomousArt | Patromierz"
 permalink: /VenomousArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /VenomousArt
 <script type="text/javascript" src="data/v/VenomousArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VenomousArt](https://patronite.pl/VenomousArt)
+# [Venomous Art](https://patronite.pl/VenomousArt)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bakhurmikele | Patromierz
+title: "bakhurmikele | Patromierz"
 permalink: /bakhurmikele
 ---
 
@@ -7,7 +7,7 @@ permalink: /bakhurmikele
 <script type="text/javascript" src="data/b/bakhurmikele.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bakhurmikele](https://patronite.pl/bakhurmikele)
+# [Николай Бахур  • Объективно о Польше](https://patronite.pl/bakhurmikele)
 
 ## Miesięczne wsparcie
 

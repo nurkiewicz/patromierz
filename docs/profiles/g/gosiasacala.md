@@ -1,5 +1,5 @@
 ---
-title: gosiasacala | Patromierz
+title: "gosiasacala | Patromierz"
 permalink: /gosiasacala
 ---
 
@@ -7,7 +7,7 @@ permalink: /gosiasacala
 <script type="text/javascript" src="data/g/gosiasacala.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gosiasacala](https://patronite.pl/gosiasacala)
+# [Gosia Sacała jedzie do Etiopii!](https://patronite.pl/gosiasacala)
 
 ## Miesięczne wsparcie
 

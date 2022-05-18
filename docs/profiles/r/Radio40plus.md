@@ -1,5 +1,5 @@
 ---
-title: Radio40plus | Patromierz
+title: "Radio40plus | Patromierz"
 permalink: /Radio40plus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Radio40plus
 <script type="text/javascript" src="data/r/Radio40plus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Radio40plus](https://patronite.pl/Radio40plus)
+# [Radio FortyPlus ](https://patronite.pl/Radio40plus)
 
 ## Miesięczne wsparcie
 

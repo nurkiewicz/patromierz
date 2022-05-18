@@ -1,5 +1,5 @@
 ---
-title: drugiezyciebulla | Patromierz
+title: "drugiezyciebulla | Patromierz"
 permalink: /drugiezyciebulla
 ---
 
@@ -7,7 +7,7 @@ permalink: /drugiezyciebulla
 <script type="text/javascript" src="data/d/drugiezyciebulla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drugiezyciebulla](https://patronite.pl/drugiezyciebulla)
+# [Drugie Życie Bulla](https://patronite.pl/drugiezyciebulla)
 
 ## Miesięczne wsparcie
 

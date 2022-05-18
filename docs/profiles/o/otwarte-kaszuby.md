@@ -1,5 +1,5 @@
 ---
-title: otwarte-kaszuby | Patromierz
+title: "otwarte-kaszuby | Patromierz"
 permalink: /otwarte-kaszuby
 ---
 
@@ -7,7 +7,7 @@ permalink: /otwarte-kaszuby
 <script type="text/javascript" src="data/o/otwarte-kaszuby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otwarte-kaszuby](https://patronite.pl/otwarte-kaszuby)
+# [Stowarzyszenie Otwarte Kaszuby](https://patronite.pl/otwarte-kaszuby)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ZupaNaGlownym | Patromierz
+title: "ZupaNaGlownym | Patromierz"
 permalink: /ZupaNaGlownym
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZupaNaGlownym
 <script type="text/javascript" src="data/z/ZupaNaGlownym.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZupaNaGlownym](https://patronite.pl/ZupaNaGlownym)
+# [Zupa na Głównym](https://patronite.pl/ZupaNaGlownym)
 
 ## Miesięczne wsparcie
 

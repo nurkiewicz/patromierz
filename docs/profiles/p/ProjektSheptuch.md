@@ -1,5 +1,5 @@
 ---
-title: ProjektSheptuch | Patromierz
+title: "ProjektSheptuch | Patromierz"
 permalink: /ProjektSheptuch
 ---
 
@@ -7,7 +7,7 @@ permalink: /ProjektSheptuch
 <script type="text/javascript" src="data/p/ProjektSheptuch.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ProjektSheptuch](https://patronite.pl/ProjektSheptuch)
+# [Projekt Sheptuch](https://patronite.pl/ProjektSheptuch)
 
 ## Miesięczne wsparcie
 

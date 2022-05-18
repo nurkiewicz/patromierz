@@ -1,5 +1,5 @@
 ---
-title: mietekszczesniak | Patromierz
+title: "mietekszczesniak | Patromierz"
 permalink: /mietekszczesniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /mietekszczesniak
 <script type="text/javascript" src="data/m/mietekszczesniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mietekszczesniak](https://patronite.pl/mietekszczesniak)
+# [Mietek  Szcześniak](https://patronite.pl/mietekszczesniak)
 
 ## Miesięczne wsparcie
 

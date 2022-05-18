@@ -1,5 +1,5 @@
 ---
-title: bouasmr | Patromierz
+title: "bouasmr | Patromierz"
 permalink: /bouasmr
 ---
 
@@ -7,7 +7,7 @@ permalink: /bouasmr
 <script type="text/javascript" src="data/b/bouasmr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bouasmr](https://patronite.pl/bouasmr)
+# [Bou ASMR](https://patronite.pl/bouasmr)
 
 ## Miesięczne wsparcie
 

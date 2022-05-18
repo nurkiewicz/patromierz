@@ -1,5 +1,5 @@
 ---
-title: sosposzukiwacze | Patromierz
+title: "sosposzukiwacze | Patromierz"
 permalink: /sosposzukiwacze
 ---
 
@@ -7,7 +7,7 @@ permalink: /sosposzukiwacze
 <script type="text/javascript" src="data/s/sosposzukiwacze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sosposzukiwacze](https://patronite.pl/sosposzukiwacze)
+# [Piotr Druzd](https://patronite.pl/sosposzukiwacze)
 
 ## Miesięczne wsparcie
 

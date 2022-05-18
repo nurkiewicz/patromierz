@@ -1,5 +1,5 @@
 ---
-title: strefaczytacza | Patromierz
+title: "strefaczytacza | Patromierz"
 permalink: /strefaczytacza
 ---
 
@@ -7,7 +7,7 @@ permalink: /strefaczytacza
 <script type="text/javascript" src="data/s/strefaczytacza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strefaczytacza](https://patronite.pl/strefaczytacza)
+# [Strefa Czytacza](https://patronite.pl/strefaczytacza)
 
 ## Miesięczne wsparcie
 

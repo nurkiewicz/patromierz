@@ -1,5 +1,5 @@
 ---
-title: GMPakleza | Patromierz
+title: "GMPakleza | Patromierz"
 permalink: /GMPakleza
 ---
 
@@ -7,7 +7,7 @@ permalink: /GMPakleza
 <script type="text/javascript" src="data/g/GMPakleza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GMPakleza](https://patronite.pl/GMPakleza)
+# [Zbigniew Pakleza](https://patronite.pl/GMPakleza)
 
 ## Miesięczne wsparcie
 

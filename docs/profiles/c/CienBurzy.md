@@ -1,5 +1,5 @@
 ---
-title: CienBurzy | Patromierz
+title: "CienBurzy | Patromierz"
 permalink: /CienBurzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /CienBurzy
 <script type="text/javascript" src="data/c/CienBurzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CienBurzy](https://patronite.pl/CienBurzy)
+# [Piotr Dudek](https://patronite.pl/CienBurzy)
 
 ## Miesięczne wsparcie
 

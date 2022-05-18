@@ -1,5 +1,5 @@
 ---
-title: PaprykoweFilmy | Patromierz
+title: "PaprykoweFilmy | Patromierz"
 permalink: /PaprykoweFilmy
 ---
 
@@ -7,7 +7,7 @@ permalink: /PaprykoweFilmy
 <script type="text/javascript" src="data/p/PaprykoweFilmy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PaprykoweFilmy](https://patronite.pl/PaprykoweFilmy)
+# [Patryk Kotlewski](https://patronite.pl/PaprykoweFilmy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: MariuszKulaArt | Patromierz
+title: "MariuszKulaArt | Patromierz"
 permalink: /MariuszKulaArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /MariuszKulaArt
 <script type="text/javascript" src="data/m/MariuszKulaArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MariuszKulaArt](https://patronite.pl/MariuszKulaArt)
+# [Mariusz Kula Art](https://patronite.pl/MariuszKulaArt)
 
 ## Miesięczne wsparcie
 

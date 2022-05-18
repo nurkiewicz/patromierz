@@ -1,5 +1,5 @@
 ---
-title: głogowski | Patromierz
+title: "głogowski | Patromierz"
 permalink: /głogowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /głogowski
 <script type="text/javascript" src="data/g/głogowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [głogowski](https://patronite.pl/głogowski)
+# [Wojciech Głogowski](https://patronite.pl/głogowski)
 
 ## Miesięczne wsparcie
 

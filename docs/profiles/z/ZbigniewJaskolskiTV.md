@@ -1,5 +1,5 @@
 ---
-title: ZbigniewJaskolskiTV | Patromierz
+title: "ZbigniewJaskolskiTV | Patromierz"
 permalink: /ZbigniewJaskolskiTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZbigniewJaskolskiTV
 <script type="text/javascript" src="data/z/ZbigniewJaskolskiTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZbigniewJaskolskiTV](https://patronite.pl/ZbigniewJaskolskiTV)
+# [Zbigniew Jaskólski](https://patronite.pl/ZbigniewJaskolskiTV)
 
 ## Miesięczne wsparcie
 

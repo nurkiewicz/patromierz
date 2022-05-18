@@ -1,5 +1,5 @@
 ---
-title: strefawodza | Patromierz
+title: "strefawodza | Patromierz"
 permalink: /strefawodza
 ---
 
@@ -7,7 +7,7 @@ permalink: /strefawodza
 <script type="text/javascript" src="data/s/strefawodza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strefawodza](https://patronite.pl/strefawodza)
+# [Strefa Wodza](https://patronite.pl/strefawodza)
 
 ## Miesięczne wsparcie
 

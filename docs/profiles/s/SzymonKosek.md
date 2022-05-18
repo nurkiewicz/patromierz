@@ -1,5 +1,5 @@
 ---
-title: SzymonKosek | Patromierz
+title: "SzymonKosek | Patromierz"
 permalink: /SzymonKosek
 ---
 
@@ -7,7 +7,7 @@ permalink: /SzymonKosek
 <script type="text/javascript" src="data/s/SzymonKosek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SzymonKosek](https://patronite.pl/SzymonKosek)
+# [Szymon Kosek](https://patronite.pl/SzymonKosek)
 
 ## Miesięczne wsparcie
 

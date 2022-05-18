@@ -1,5 +1,5 @@
 ---
-title: BooksJarkaHoldena | Patromierz
+title: "BooksJarkaHoldena | Patromierz"
 permalink: /BooksJarkaHoldena
 ---
 
@@ -7,7 +7,7 @@ permalink: /BooksJarkaHoldena
 <script type="text/javascript" src="data/b/BooksJarkaHoldena.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BooksJarkaHoldena](https://patronite.pl/BooksJarkaHoldena)
+# [Jarek Holden](https://patronite.pl/BooksJarkaHoldena)
 
 ## Miesięczne wsparcie
 

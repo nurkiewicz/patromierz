@@ -1,5 +1,5 @@
 ---
-title: zainspirowany | Patromierz
+title: "zainspirowany | Patromierz"
 permalink: /zainspirowany
 ---
 

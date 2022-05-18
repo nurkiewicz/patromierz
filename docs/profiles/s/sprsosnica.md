@@ -1,5 +1,5 @@
 ---
-title: sprsosnica | Patromierz
+title: "sprsosnica | Patromierz"
 permalink: /sprsosnica
 ---
 
@@ -7,7 +7,7 @@ permalink: /sprsosnica
 <script type="text/javascript" src="data/s/sprsosnica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sprsosnica](https://patronite.pl/sprsosnica)
+# [SPR Sośnica Gliwice](https://patronite.pl/sprsosnica)
 
 ## Miesięczne wsparcie
 

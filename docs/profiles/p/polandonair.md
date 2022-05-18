@@ -1,5 +1,5 @@
 ---
-title: polandonair | Patromierz
+title: "polandonair | Patromierz"
 permalink: /polandonair
 ---
 
@@ -7,7 +7,7 @@ permalink: /polandonair
 <script type="text/javascript" src="data/p/polandonair.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polandonair](https://patronite.pl/polandonair)
+# [Poland On Air](https://patronite.pl/polandonair)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: poza-ciałem-fizycznym | Patromierz
+title: "poza-ciałem-fizycznym | Patromierz"
 permalink: /poza-ciałem-fizycznym
 ---
 
@@ -7,7 +7,7 @@ permalink: /poza-ciałem-fizycznym
 <script type="text/javascript" src="data/p/poza-ciałem-fizycznym.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poza-ciałem-fizycznym](https://patronite.pl/poza-ciałem-fizycznym)
+# [Rafał Nieradzik](https://patronite.pl/poza-ciałem-fizycznym)
 
 ## Miesięczne wsparcie
 

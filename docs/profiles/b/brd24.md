@@ -1,5 +1,5 @@
 ---
-title: brd24 | Patromierz
+title: "brd24 | Patromierz"
 permalink: /brd24
 ---
 
@@ -7,7 +7,7 @@ permalink: /brd24
 <script type="text/javascript" src="data/b/brd24.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brd24](https://patronite.pl/brd24)
+# [BRD24.pl](https://patronite.pl/brd24)
 
 ## Miesięczne wsparcie
 

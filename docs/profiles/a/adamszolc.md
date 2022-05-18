@@ -1,5 +1,5 @@
 ---
-title: adamszolc | Patromierz
+title: "adamszolc | Patromierz"
 permalink: /adamszolc
 ---
 
@@ -7,7 +7,7 @@ permalink: /adamszolc
 <script type="text/javascript" src="data/a/adamszolc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adamszolc](https://patronite.pl/adamszolc)
+# [Adam Szolc](https://patronite.pl/adamszolc)
 
 ## Miesięczne wsparcie
 

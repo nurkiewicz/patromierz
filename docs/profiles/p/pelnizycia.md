@@ -1,5 +1,5 @@
 ---
-title: pelnizycia | Patromierz
+title: "pelnizycia | Patromierz"
 permalink: /pelnizycia
 ---
 
@@ -7,7 +7,7 @@ permalink: /pelnizycia
 <script type="text/javascript" src="data/p/pelnizycia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pelnizycia](https://patronite.pl/pelnizycia)
+# [Dom Pełni Życia Gliwice](https://patronite.pl/pelnizycia)
 
 ## Miesięczne wsparcie
 

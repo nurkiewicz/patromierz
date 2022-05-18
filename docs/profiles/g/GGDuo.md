@@ -1,5 +1,5 @@
 ---
-title: GGDuo | Patromierz
+title: "GGDuo | Patromierz"
 permalink: /GGDuo
 ---
 
@@ -7,7 +7,7 @@ permalink: /GGDuo
 <script type="text/javascript" src="data/g/GGDuo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GGDuo](https://patronite.pl/GGDuo)
+# [Gabi i Wojciech Gąsior](https://patronite.pl/GGDuo)
 
 ## Miesięczne wsparcie
 

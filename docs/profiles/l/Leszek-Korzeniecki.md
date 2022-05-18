@@ -1,5 +1,5 @@
 ---
-title: Leszek-Korzeniecki | Patromierz
+title: "Leszek-Korzeniecki | Patromierz"
 permalink: /Leszek-Korzeniecki
 ---
 
@@ -7,7 +7,7 @@ permalink: /Leszek-Korzeniecki
 <script type="text/javascript" src="data/l/Leszek-Korzeniecki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Leszek-Korzeniecki](https://patronite.pl/Leszek-Korzeniecki)
+# [Leszek Korzeniecki](https://patronite.pl/Leszek-Korzeniecki)
 
 ## Miesięczne wsparcie
 

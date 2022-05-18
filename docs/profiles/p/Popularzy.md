@@ -1,5 +1,5 @@
 ---
-title: Popularzy | Patromierz
+title: "Popularzy | Patromierz"
 permalink: /Popularzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /Popularzy
 <script type="text/javascript" src="data/p/Popularzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Popularzy](https://patronite.pl/Popularzy)
+# [Stronnictwo Popularów](https://patronite.pl/Popularzy)
 
 ## Miesięczne wsparcie
 

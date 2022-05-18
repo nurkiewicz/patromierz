@@ -1,5 +1,5 @@
 ---
-title: kinoteka | Patromierz
+title: "kinoteka | Patromierz"
 permalink: /kinoteka
 ---
 
@@ -7,7 +7,7 @@ permalink: /kinoteka
 <script type="text/javascript" src="data/k/kinoteka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kinoteka](https://patronite.pl/kinoteka)
+# [Kinoteka](https://patronite.pl/kinoteka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: whistlerek | Patromierz
+title: "whistlerek | Patromierz"
 permalink: /whistlerek
 ---
 
@@ -7,7 +7,7 @@ permalink: /whistlerek
 <script type="text/javascript" src="data/w/whistlerek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [whistlerek](https://patronite.pl/whistlerek)
+# [Whistlerek](https://patronite.pl/whistlerek)
 
 ## Miesięczne wsparcie
 

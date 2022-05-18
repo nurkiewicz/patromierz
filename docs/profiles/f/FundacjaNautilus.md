@@ -1,5 +1,5 @@
 ---
-title: FundacjaNautilus | Patromierz
+title: "FundacjaNautilus | Patromierz"
 permalink: /FundacjaNautilus
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaNautilus
 <script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaNautilus](https://patronite.pl/FundacjaNautilus)
+# [Fundacja Nautilus](https://patronite.pl/FundacjaNautilus)
 
 ## Miesięczne wsparcie
 

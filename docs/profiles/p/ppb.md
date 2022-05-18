@@ -1,5 +1,5 @@
 ---
-title: ppb | Patromierz
+title: "ppb | Patromierz"
 permalink: /ppb
 ---
 
@@ -7,7 +7,7 @@ permalink: /ppb
 <script type="text/javascript" src="data/p/ppb.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ppb](https://patronite.pl/ppb)
+# [Stowarzyszenie Pieszo przez Bory](https://patronite.pl/ppb)
 
 ## Miesięczne wsparcie
 

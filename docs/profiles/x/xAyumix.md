@@ -1,5 +1,5 @@
 ---
-title: xAyumix | Patromierz
+title: "xAyumix | Patromierz"
 permalink: /xAyumix
 ---
 
@@ -7,7 +7,7 @@ permalink: /xAyumix
 <script type="text/javascript" src="data/x/xAyumix.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [xAyumix](https://patronite.pl/xAyumix)
+# [Natalia D. - Ayumi.](https://patronite.pl/xAyumix)
 
 ## Miesięczne wsparcie
 

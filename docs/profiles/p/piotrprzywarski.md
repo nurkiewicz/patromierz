@@ -1,5 +1,5 @@
 ---
-title: piotrprzywarski | Patromierz
+title: "piotrprzywarski | Patromierz"
 permalink: /piotrprzywarski
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrprzywarski
 <script type="text/javascript" src="data/p/piotrprzywarski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrprzywarski](https://patronite.pl/piotrprzywarski)
+# [Piotr POLO Przywarski](https://patronite.pl/piotrprzywarski)
 
 ## Miesięczne wsparcie
 

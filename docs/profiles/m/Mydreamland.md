@@ -1,5 +1,5 @@
 ---
-title: Mydreamland | Patromierz
+title: "Mydreamland | Patromierz"
 permalink: /Mydreamland
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mydreamland
 <script type="text/javascript" src="data/m/Mydreamland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mydreamland](https://patronite.pl/Mydreamland)
+# [MyDreamland](https://patronite.pl/Mydreamland)
 
 ## Miesięczne wsparcie
 

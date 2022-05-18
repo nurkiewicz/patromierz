@@ -1,5 +1,5 @@
 ---
-title: Getek | Patromierz
+title: "Getek | Patromierz"
 permalink: /Getek
 ---
 
@@ -7,7 +7,7 @@ permalink: /Getek
 <script type="text/javascript" src="data/g/Getek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Getek](https://patronite.pl/Getek)
+# [Marcin Getek - nagrania z Fizyki na YT](https://patronite.pl/Getek)
 
 ## Miesięczne wsparcie
 

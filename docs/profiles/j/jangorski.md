@@ -1,5 +1,5 @@
 ---
-title: jangorski | Patromierz
+title: "jangorski | Patromierz"
 permalink: /jangorski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jangorski
 <script type="text/javascript" src="data/j/jangorski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jangorski](https://patronite.pl/jangorski)
+# [antistorm.eu](https://patronite.pl/jangorski)
 
 ## Miesięczne wsparcie
 

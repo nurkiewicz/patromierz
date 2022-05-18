@@ -1,5 +1,5 @@
 ---
-title: helloyogi | Patromierz
+title: "helloyogi | Patromierz"
 permalink: /helloyogi
 ---
 
@@ -7,7 +7,7 @@ permalink: /helloyogi
 <script type="text/javascript" src="data/h/helloyogi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [helloyogi](https://patronite.pl/helloyogi)
+# [Hello Yogi](https://patronite.pl/helloyogi)
 
 ## Miesięczne wsparcie
 

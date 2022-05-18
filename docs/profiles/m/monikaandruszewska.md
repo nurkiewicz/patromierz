@@ -1,5 +1,5 @@
 ---
-title: monikaandruszewska | Patromierz
+title: "monikaandruszewska | Patromierz"
 permalink: /monikaandruszewska
 ---
 
@@ -7,7 +7,7 @@ permalink: /monikaandruszewska
 <script type="text/javascript" src="data/m/monikaandruszewska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [monikaandruszewska](https://patronite.pl/monikaandruszewska)
+# [Monika Andruszewska - wojenny korespondent](https://patronite.pl/monikaandruszewska)
 
 ## Miesięczne wsparcie
 

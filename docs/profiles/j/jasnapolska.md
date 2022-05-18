@@ -1,5 +1,5 @@
 ---
-title: jasnapolska | Patromierz
+title: "jasnapolska | Patromierz"
 permalink: /jasnapolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /jasnapolska
 <script type="text/javascript" src="data/j/jasnapolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jasnapolska](https://patronite.pl/jasnapolska)
+# [Jasna Polska](https://patronite.pl/jasnapolska)
 
 ## Miesięczne wsparcie
 

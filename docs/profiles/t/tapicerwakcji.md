@@ -1,5 +1,5 @@
 ---
-title: tapicerwakcji | Patromierz
+title: "tapicerwakcji | Patromierz"
 permalink: /tapicerwakcji
 ---
 
@@ -7,7 +7,7 @@ permalink: /tapicerwakcji
 <script type="text/javascript" src="data/t/tapicerwakcji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tapicerwakcji](https://patronite.pl/tapicerwakcji)
+# [Aleksander Kądziela ](https://patronite.pl/tapicerwakcji)
 
 ## Miesięczne wsparcie
 

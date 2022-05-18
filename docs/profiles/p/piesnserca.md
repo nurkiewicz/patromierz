@@ -1,5 +1,5 @@
 ---
-title: piesnserca | Patromierz
+title: "piesnserca | Patromierz"
 permalink: /piesnserca
 ---
 
@@ -7,7 +7,7 @@ permalink: /piesnserca
 <script type="text/javascript" src="data/p/piesnserca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piesnserca](https://patronite.pl/piesnserca)
+# [Ol.ka Pieśń Serca](https://patronite.pl/piesnserca)
 
 ## Miesięczne wsparcie
 

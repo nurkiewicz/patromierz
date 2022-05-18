@@ -1,5 +1,5 @@
 ---
-title: Kowalko | Patromierz
+title: "Kowalko | Patromierz"
 permalink: /Kowalko
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kowalko
 <script type="text/javascript" src="data/k/Kowalko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kowalko](https://patronite.pl/Kowalko)
+# [Pawel Kowalko [Kowal] ](https://patronite.pl/Kowalko)
 
 ## Miesięczne wsparcie
 

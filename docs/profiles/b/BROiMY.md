@@ -1,5 +1,5 @@
 ---
-title: BROiMY | Patromierz
+title: "BROiMY | Patromierz"
 permalink: /BROiMY
 ---
 
@@ -7,7 +7,7 @@ permalink: /BROiMY
 <script type="text/javascript" src="data/b/BROiMY.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BROiMY](https://patronite.pl/BROiMY)
+# [#BROiMYmusic | dla muzyki ](https://patronite.pl/BROiMY)
 
 ## Miesięczne wsparcie
 

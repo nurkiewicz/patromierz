@@ -1,5 +1,5 @@
 ---
-title: wodniczka | Patromierz
+title: "wodniczka | Patromierz"
 permalink: /wodniczka
 ---
 
@@ -7,7 +7,7 @@ permalink: /wodniczka
 <script type="text/javascript" src="data/w/wodniczka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wodniczka](https://patronite.pl/wodniczka)
+# [OTOP](https://patronite.pl/wodniczka)
 
 ## Miesięczne wsparcie
 

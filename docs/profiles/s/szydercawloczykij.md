@@ -1,5 +1,5 @@
 ---
-title: szydercawloczykij | Patromierz
+title: "szydercawloczykij | Patromierz"
 permalink: /szydercawloczykij
 ---
 
@@ -7,7 +7,7 @@ permalink: /szydercawloczykij
 <script type="text/javascript" src="data/s/szydercawloczykij.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szydercawloczykij](https://patronite.pl/szydercawloczykij)
+# [Szyderczy Włóczykij](https://patronite.pl/szydercawloczykij)
 
 ## Miesięczne wsparcie
 

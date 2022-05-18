@@ -1,5 +1,5 @@
 ---
-title: KotulniaAnKa | Patromierz
+title: "KotulniaAnKa | Patromierz"
 permalink: /KotulniaAnKa
 ---
 
@@ -7,7 +7,7 @@ permalink: /KotulniaAnKa
 <script type="text/javascript" src="data/k/KotulniaAnKa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KotulniaAnKa](https://patronite.pl/KotulniaAnKa)
+# [Kotulnia AnKa](https://patronite.pl/KotulniaAnKa)
 
 ## Miesięczne wsparcie
 

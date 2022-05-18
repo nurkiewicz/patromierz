@@ -1,5 +1,5 @@
 ---
-title: irmi.wol | Patromierz
+title: "irmi.wol | Patromierz"
 permalink: /irmi.wol
 ---
 
@@ -7,7 +7,7 @@ permalink: /irmi.wol
 <script type="text/javascript" src="data/i/irmi.wol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [irmi.wol](https://patronite.pl/irmi.wol)
+# [Irmina Wolniak](https://patronite.pl/irmi.wol)
 
 ## Miesięczne wsparcie
 

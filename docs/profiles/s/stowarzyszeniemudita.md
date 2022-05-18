@@ -1,5 +1,5 @@
 ---
-title: stowarzyszeniemudita | Patromierz
+title: "stowarzyszeniemudita | Patromierz"
 permalink: /stowarzyszeniemudita
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszeniemudita
 <script type="text/javascript" src="data/s/stowarzyszeniemudita.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszeniemudita](https://patronite.pl/stowarzyszeniemudita)
+# [Stowarzyszenie Mudita. Spa dla mam](https://patronite.pl/stowarzyszeniemudita)
 
 ## Miesięczne wsparcie
 

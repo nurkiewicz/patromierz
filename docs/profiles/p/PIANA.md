@@ -1,5 +1,5 @@
 ---
-title: PIANA | Patromierz
+title: "PIANA | Patromierz"
 permalink: /PIANA
 ---
 
@@ -7,7 +7,7 @@ permalink: /PIANA
 <script type="text/javascript" src="data/p/PIANA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PIANA](https://patronite.pl/PIANA)
+# [Galeria Piana](https://patronite.pl/PIANA)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Dziemian | Patromierz
+title: "Dziemian | Patromierz"
 permalink: /Dziemian
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dziemian
 <script type="text/javascript" src="data/d/Dziemian.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dziemian](https://patronite.pl/Dziemian)
+# [The Dziemians](https://patronite.pl/Dziemian)
 
 ## Miesięczne wsparcie
 

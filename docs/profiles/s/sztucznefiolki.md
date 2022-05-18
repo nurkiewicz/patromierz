@@ -1,5 +1,5 @@
 ---
-title: sztucznefiolki | Patromierz
+title: "sztucznefiolki | Patromierz"
 permalink: /sztucznefiolki
 ---
 
@@ -7,7 +7,7 @@ permalink: /sztucznefiolki
 <script type="text/javascript" src="data/s/sztucznefiolki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sztucznefiolki](https://patronite.pl/sztucznefiolki)
+# [Sztuczne Fiołki](https://patronite.pl/sztucznefiolki)
 
 ## Miesięczne wsparcie
 

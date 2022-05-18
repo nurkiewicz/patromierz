@@ -1,5 +1,5 @@
 ---
-title: polishglots | Patromierz
+title: "polishglots | Patromierz"
 permalink: /polishglots
 ---
 
@@ -7,7 +7,7 @@ permalink: /polishglots
 <script type="text/javascript" src="data/p/polishglots.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polishglots](https://patronite.pl/polishglots)
+# [Polishglots](https://patronite.pl/polishglots)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjadzieciompomagaj | Patromierz
+title: "fundacjadzieciompomagaj | Patromierz"
 permalink: /fundacjadzieciompomagaj
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjadzieciompomagaj
 <script type="text/javascript" src="data/f/fundacjadzieciompomagaj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjadzieciompomagaj](https://patronite.pl/fundacjadzieciompomagaj)
+# [Fundacja Dzieciom POMAGAJ](https://patronite.pl/fundacjadzieciompomagaj)
 
 ## Miesięczne wsparcie
 

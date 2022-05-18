@@ -1,5 +1,5 @@
 ---
-title: pietniewicz | Patromierz
+title: "pietniewicz | Patromierz"
 permalink: /pietniewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /pietniewicz
 <script type="text/javascript" src="data/p/pietniewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pietniewicz](https://patronite.pl/pietniewicz)
+# [Michał Piętniewicz](https://patronite.pl/pietniewicz)
 
 ## Miesięczne wsparcie
 

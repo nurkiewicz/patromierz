@@ -1,5 +1,5 @@
 ---
-title: StrategiaMarkiPelnosprawnej | Patromierz
+title: "StrategiaMarkiPelnosprawnej | Patromierz"
 permalink: /StrategiaMarkiPelnosprawnej
 ---
 
@@ -7,7 +7,7 @@ permalink: /StrategiaMarkiPelnosprawnej
 <script type="text/javascript" src="data/s/StrategiaMarkiPelnosprawnej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StrategiaMarkiPelnosprawnej](https://patronite.pl/StrategiaMarkiPelnosprawnej)
+# [Strategia Marki Pełnosprawnej](https://patronite.pl/StrategiaMarkiPelnosprawnej)
 
 ## Miesięczne wsparcie
 

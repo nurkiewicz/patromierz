@@ -1,5 +1,5 @@
 ---
-title: KAPITANLISOWSKI | Patromierz
+title: "KAPITANLISOWSKI | Patromierz"
 permalink: /KAPITANLISOWSKI
 ---
 
@@ -7,7 +7,7 @@ permalink: /KAPITANLISOWSKI
 <script type="text/javascript" src="data/k/KAPITANLISOWSKI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KAPITANLISOWSKI](https://patronite.pl/KAPITANLISOWSKI)
+# [KAPITAN LISOWSKI 🇵🇱](https://patronite.pl/KAPITANLISOWSKI)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: FucksFashion | Patromierz
+title: "FucksFashion | Patromierz"
 permalink: /FucksFashion
 ---
 
@@ -7,7 +7,7 @@ permalink: /FucksFashion
 <script type="text/javascript" src="data/f/FucksFashion.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FucksFashion](https://patronite.pl/FucksFashion)
+# [Aleksandra Miernik](https://patronite.pl/FucksFashion)
 
 ## Miesięczne wsparcie
 

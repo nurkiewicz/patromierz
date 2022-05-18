@@ -1,5 +1,5 @@
 ---
-title: freska | Patromierz
+title: "freska | Patromierz"
 permalink: /freska
 ---
 
@@ -7,7 +7,7 @@ permalink: /freska
 <script type="text/javascript" src="data/f/freska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [freska](https://patronite.pl/freska)
+# [Freska](https://patronite.pl/freska)
 
 ## Miesięczne wsparcie
 

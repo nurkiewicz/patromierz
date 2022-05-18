@@ -1,5 +1,5 @@
 ---
-title: nitya | Patromierz
+title: "nitya | Patromierz"
 permalink: /nitya
 ---
 
@@ -7,7 +7,7 @@ permalink: /nitya
 <script type="text/javascript" src="data/n/nitya.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nitya](https://patronite.pl/nitya)
+# [Nitya Patrycja Pruchnik](https://patronite.pl/nitya)
 
 ## Miesięczne wsparcie
 

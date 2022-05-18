@@ -1,5 +1,5 @@
 ---
-title: IntuicjanaTarot | Patromierz
+title: "IntuicjanaTarot | Patromierz"
 permalink: /IntuicjanaTarot
 ---
 
@@ -7,7 +7,7 @@ permalink: /IntuicjanaTarot
 <script type="text/javascript" src="data/i/IntuicjanaTarot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IntuicjanaTarot](https://patronite.pl/IntuicjanaTarot)
+# [Intuicjana Inti Tarot](https://patronite.pl/IntuicjanaTarot)
 
 ## Miesięczne wsparcie
 

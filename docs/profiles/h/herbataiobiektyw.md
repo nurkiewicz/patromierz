@@ -1,5 +1,5 @@
 ---
-title: herbataiobiektyw | Patromierz
+title: "herbataiobiektyw | Patromierz"
 permalink: /herbataiobiektyw
 ---
 
@@ -7,7 +7,7 @@ permalink: /herbataiobiektyw
 <script type="text/javascript" src="data/h/herbataiobiektyw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [herbataiobiektyw](https://patronite.pl/herbataiobiektyw)
+# [Herbata i Obiektyw](https://patronite.pl/herbataiobiektyw)
 
 ## Miesięczne wsparcie
 

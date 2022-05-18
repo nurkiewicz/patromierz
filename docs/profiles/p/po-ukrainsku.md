@@ -1,5 +1,5 @@
 ---
-title: po-ukrainsku | Patromierz
+title: "po-ukrainsku | Patromierz"
 permalink: /po-ukrainsku
 ---
 
@@ -7,7 +7,7 @@ permalink: /po-ukrainsku
 <script type="text/javascript" src="data/p/po-ukrainsku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [po-ukrainsku](https://patronite.pl/po-ukrainsku)
+# [Po ukraińsku - По-українськи](https://patronite.pl/po-ukrainsku)
 
 ## Miesięczne wsparcie
 

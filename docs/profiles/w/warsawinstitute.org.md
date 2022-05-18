@@ -1,5 +1,5 @@
 ---
-title: warsawinstitute.org | Patromierz
+title: "warsawinstitute.org | Patromierz"
 permalink: /warsawinstitute.org
 ---
 
@@ -7,7 +7,7 @@ permalink: /warsawinstitute.org
 <script type="text/javascript" src="data/w/warsawinstitute.org.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warsawinstitute.org](https://patronite.pl/warsawinstitute.org)
+# [Warsaw Institute](https://patronite.pl/warsawinstitute.org)
 
 ## Miesięczne wsparcie
 

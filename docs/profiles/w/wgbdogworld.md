@@ -1,5 +1,5 @@
 ---
-title: wgbdogworld | Patromierz
+title: "wgbdogworld | Patromierz"
 permalink: /wgbdogworld
 ---
 
@@ -7,7 +7,7 @@ permalink: /wgbdogworld
 <script type="text/javascript" src="data/w/wgbdogworld.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wgbdogworld](https://patronite.pl/wgbdogworld)
+# [WGB DOG WORLD](https://patronite.pl/wgbdogworld)
 
 ## Miesięczne wsparcie
 

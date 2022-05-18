@@ -1,5 +1,5 @@
 ---
-title: natalia.sosin.krosnowska | Patromierz
+title: "natalia.sosin.krosnowska | Patromierz"
 permalink: /natalia.sosin.krosnowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /natalia.sosin.krosnowska
 <script type="text/javascript" src="data/n/natalia.sosin.krosnowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [natalia.sosin.krosnowska](https://patronite.pl/natalia.sosin.krosnowska)
+# [Natalia Sosin-Krosnowska](https://patronite.pl/natalia.sosin.krosnowska)
 
 ## Miesięczne wsparcie
 

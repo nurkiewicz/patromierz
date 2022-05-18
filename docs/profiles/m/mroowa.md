@@ -1,5 +1,5 @@
 ---
-title: mroowa | Patromierz
+title: "mroowa | Patromierz"
 permalink: /mroowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /mroowa
 <script type="text/javascript" src="data/m/mroowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mroowa](https://patronite.pl/mroowa)
+# [Adam Antolski](https://patronite.pl/mroowa)
 
 ## Miesięczne wsparcie
 

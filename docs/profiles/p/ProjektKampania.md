@@ -1,5 +1,5 @@
 ---
-title: ProjektKampania | Patromierz
+title: "ProjektKampania | Patromierz"
 permalink: /ProjektKampania
 ---
 
@@ -7,7 +7,7 @@ permalink: /ProjektKampania
 <script type="text/javascript" src="data/p/ProjektKampania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ProjektKampania](https://patronite.pl/ProjektKampania)
+# [Projekt Kampania](https://patronite.pl/ProjektKampania)
 
 ## Miesięczne wsparcie
 

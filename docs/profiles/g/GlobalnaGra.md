@@ -1,5 +1,5 @@
 ---
-title: GlobalnaGra | Patromierz
+title: "GlobalnaGra | Patromierz"
 permalink: /GlobalnaGra
 ---
 
@@ -7,7 +7,7 @@ permalink: /GlobalnaGra
 <script type="text/javascript" src="data/g/GlobalnaGra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GlobalnaGra](https://patronite.pl/GlobalnaGra)
+# [Globalna Gra](https://patronite.pl/GlobalnaGra)
 
 ## Miesięczne wsparcie
 

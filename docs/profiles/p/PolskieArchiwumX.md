@@ -1,5 +1,5 @@
 ---
-title: PolskieArchiwumX | Patromierz
+title: "PolskieArchiwumX | Patromierz"
 permalink: /PolskieArchiwumX
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolskieArchiwumX
 <script type="text/javascript" src="data/p/PolskieArchiwumX.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolskieArchiwumX](https://patronite.pl/PolskieArchiwumX)
+# [Polskie Archiwum X](https://patronite.pl/PolskieArchiwumX)
 
 ## Miesięczne wsparcie
 

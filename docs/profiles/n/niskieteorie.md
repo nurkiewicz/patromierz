@@ -1,5 +1,5 @@
 ---
-title: niskieteorie | Patromierz
+title: "niskieteorie | Patromierz"
 permalink: /niskieteorie
 ---
 
@@ -7,7 +7,7 @@ permalink: /niskieteorie
 <script type="text/javascript" src="data/n/niskieteorie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niskieteorie](https://patronite.pl/niskieteorie)
+# [niskie teorie](https://patronite.pl/niskieteorie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: dlapragi | Patromierz
+title: "dlapragi | Patromierz"
 permalink: /dlapragi
 ---
 
@@ -7,7 +7,7 @@ permalink: /dlapragi
 <script type="text/javascript" src="data/d/dlapragi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dlapragi](https://patronite.pl/dlapragi)
+# [Porozumienie dla Pragi](https://patronite.pl/dlapragi)
 
 ## Miesięczne wsparcie
 

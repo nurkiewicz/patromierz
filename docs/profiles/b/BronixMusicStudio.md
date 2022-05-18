@@ -1,5 +1,5 @@
 ---
-title: BronixMusicStudio | Patromierz
+title: "BronixMusicStudio | Patromierz"
 permalink: /BronixMusicStudio
 ---
 
@@ -7,7 +7,7 @@ permalink: /BronixMusicStudio
 <script type="text/javascript" src="data/b/BronixMusicStudio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BronixMusicStudio](https://patronite.pl/BronixMusicStudio)
+# [Bronix Music Studio](https://patronite.pl/BronixMusicStudio)
 
 ## Miesięczne wsparcie
 

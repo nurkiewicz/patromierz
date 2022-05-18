@@ -1,5 +1,5 @@
 ---
-title: djswiru | Patromierz
+title: "djswiru | Patromierz"
 permalink: /djswiru
 ---
 
@@ -7,7 +7,7 @@ permalink: /djswiru
 <script type="text/javascript" src="data/d/djswiru.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [djswiru](https://patronite.pl/djswiru)
+# [DJ ŚWIRU](https://patronite.pl/djswiru)
 
 ## Miesięczne wsparcie
 

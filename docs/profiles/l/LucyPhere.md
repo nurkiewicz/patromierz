@@ -1,5 +1,5 @@
 ---
-title: LucyPhere | Patromierz
+title: "LucyPhere | Patromierz"
 permalink: /LucyPhere
 ---
 
@@ -7,7 +7,7 @@ permalink: /LucyPhere
 <script type="text/javascript" src="data/l/LucyPhere.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LucyPhere](https://patronite.pl/LucyPhere)
+# [Lucy Phere](https://patronite.pl/LucyPhere)
 
 ## Miesięczne wsparcie
 

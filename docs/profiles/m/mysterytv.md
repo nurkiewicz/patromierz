@@ -1,5 +1,5 @@
 ---
-title: mysterytv | Patromierz
+title: "mysterytv | Patromierz"
 permalink: /mysterytv
 ---
 
@@ -7,7 +7,7 @@ permalink: /mysterytv
 <script type="text/javascript" src="data/m/mysterytv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mysterytv](https://patronite.pl/mysterytv)
+# [MysteryTV](https://patronite.pl/mysterytv)
 
 ## Miesięczne wsparcie
 

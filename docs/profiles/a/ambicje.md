@@ -1,5 +1,5 @@
 ---
-title: ambicje | Patromierz
+title: "ambicje | Patromierz"
 permalink: /ambicje
 ---
 
@@ -7,7 +7,7 @@ permalink: /ambicje
 <script type="text/javascript" src="data/a/ambicje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ambicje](https://patronite.pl/ambicje)
+# [Adam Sornek & Fundacja Ambicje.org ](https://patronite.pl/ambicje)
 
 ## Miesięczne wsparcie
 

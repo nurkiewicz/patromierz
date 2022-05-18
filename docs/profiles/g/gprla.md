@@ -1,5 +1,5 @@
 ---
-title: gprla | Patromierz
+title: "gprla | Patromierz"
 permalink: /gprla
 ---
 
@@ -7,7 +7,7 @@ permalink: /gprla
 <script type="text/javascript" src="data/g/gprla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gprla](https://patronite.pl/gprla)
+# [Grupa Poszukiwawczo Ratownicza Legii Akademickiej](https://patronite.pl/gprla)
 
 ## Miesięczne wsparcie
 

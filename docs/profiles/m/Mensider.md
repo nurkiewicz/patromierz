@@ -1,5 +1,5 @@
 ---
-title: Mensider | Patromierz
+title: "Mensider | Patromierz"
 permalink: /Mensider
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mensider
 <script type="text/javascript" src="data/m/Mensider.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mensider](https://patronite.pl/Mensider)
+# [Mensider Magazine](https://patronite.pl/Mensider)
 
 ## Miesięczne wsparcie
 

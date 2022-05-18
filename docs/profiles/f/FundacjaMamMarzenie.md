@@ -1,5 +1,5 @@
 ---
-title: FundacjaMamMarzenie | Patromierz
+title: "FundacjaMamMarzenie | Patromierz"
 permalink: /FundacjaMamMarzenie
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaMamMarzenie
 <script type="text/javascript" src="data/f/FundacjaMamMarzenie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaMamMarzenie](https://patronite.pl/FundacjaMamMarzenie)
+# [Fundacja Mam Marzenie](https://patronite.pl/FundacjaMamMarzenie)
 
 ## Miesięczne wsparcie
 

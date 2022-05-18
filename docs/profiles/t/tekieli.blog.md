@@ -1,5 +1,5 @@
 ---
-title: tekieli.blog | Patromierz
+title: "tekieli.blog | Patromierz"
 permalink: /tekieli.blog
 ---
 
@@ -7,7 +7,7 @@ permalink: /tekieli.blog
 <script type="text/javascript" src="data/t/tekieli.blog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tekieli.blog](https://patronite.pl/tekieli.blog)
+# [ROBERT TEKIELI                           Wielka Encyklopedia Manipulacji](https://patronite.pl/tekieli.blog)
 
 ## Miesięczne wsparcie
 

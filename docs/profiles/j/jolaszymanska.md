@@ -1,5 +1,5 @@
 ---
-title: jolaszymanska | Patromierz
+title: "jolaszymanska | Patromierz"
 permalink: /jolaszymanska
 ---
 
@@ -7,7 +7,7 @@ permalink: /jolaszymanska
 <script type="text/javascript" src="data/j/jolaszymanska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jolaszymanska](https://patronite.pl/jolaszymanska)
+# [Jola Szymańska](https://patronite.pl/jolaszymanska)
 
 ## Miesięczne wsparcie
 

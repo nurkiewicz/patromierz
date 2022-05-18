@@ -1,5 +1,5 @@
 ---
-title: schodowski | Patromierz
+title: "schodowski | Patromierz"
 permalink: /schodowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /schodowski
 <script type="text/javascript" src="data/s/schodowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [schodowski](https://patronite.pl/schodowski)
+# [Krzysztof Schodowski](https://patronite.pl/schodowski)
 
 ## Miesięczne wsparcie
 

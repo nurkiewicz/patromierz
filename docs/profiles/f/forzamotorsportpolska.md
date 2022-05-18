@@ -1,5 +1,5 @@
 ---
-title: forzamotorsportpolska | Patromierz
+title: "forzamotorsportpolska | Patromierz"
 permalink: /forzamotorsportpolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /forzamotorsportpolska
 <script type="text/javascript" src="data/f/forzamotorsportpolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [forzamotorsportpolska](https://patronite.pl/forzamotorsportpolska)
+# [Forza Motorsport Polska](https://patronite.pl/forzamotorsportpolska)
 
 ## Miesięczne wsparcie
 

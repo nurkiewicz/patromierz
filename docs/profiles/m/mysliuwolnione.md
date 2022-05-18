@@ -1,5 +1,5 @@
 ---
-title: mysliuwolnione | Patromierz
+title: "mysliuwolnione | Patromierz"
 permalink: /mysliuwolnione
 ---
 
@@ -7,7 +7,7 @@ permalink: /mysliuwolnione
 <script type="text/javascript" src="data/m/mysliuwolnione.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mysliuwolnione](https://patronite.pl/mysliuwolnione)
+# [Myśli Uwolnione](https://patronite.pl/mysliuwolnione)
 
 ## Miesięczne wsparcie
 

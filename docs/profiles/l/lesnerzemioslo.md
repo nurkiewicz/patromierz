@@ -1,5 +1,5 @@
 ---
-title: lesnerzemioslo | Patromierz
+title: "lesnerzemioslo | Patromierz"
 permalink: /lesnerzemioslo
 ---
 
@@ -7,7 +7,7 @@ permalink: /lesnerzemioslo
 <script type="text/javascript" src="data/l/lesnerzemioslo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lesnerzemioslo](https://patronite.pl/lesnerzemioslo)
+# [Leśne Rzemiosło](https://patronite.pl/lesnerzemioslo)
 
 ## Miesięczne wsparcie
 

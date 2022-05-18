@@ -1,5 +1,5 @@
 ---
-title: rocker | Patromierz
+title: "rocker | Patromierz"
 permalink: /rocker
 ---
 
@@ -7,7 +7,7 @@ permalink: /rocker
 <script type="text/javascript" src="data/r/rocker.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rocker](https://patronite.pl/rocker)
+# [Rocker](https://patronite.pl/rocker)
 
 ## Miesięczne wsparcie
 

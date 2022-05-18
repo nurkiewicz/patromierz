@@ -1,5 +1,5 @@
 ---
-title: OkiemChemika | Patromierz
+title: "OkiemChemika | Patromierz"
 permalink: /OkiemChemika
 ---
 
@@ -7,7 +7,7 @@ permalink: /OkiemChemika
 <script type="text/javascript" src="data/o/OkiemChemika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OkiemChemika](https://patronite.pl/OkiemChemika)
+# [Okiem Chemika](https://patronite.pl/OkiemChemika)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: banasiewiczblog | Patromierz
+title: "banasiewiczblog | Patromierz"
 permalink: /banasiewiczblog
 ---
 
@@ -7,7 +7,7 @@ permalink: /banasiewiczblog
 <script type="text/javascript" src="data/b/banasiewiczblog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [banasiewiczblog](https://patronite.pl/banasiewiczblog)
+# [Banasiewicz Blog](https://patronite.pl/banasiewiczblog)
 
 ## Miesięczne wsparcie
 

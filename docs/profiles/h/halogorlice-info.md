@@ -1,5 +1,5 @@
 ---
-title: halogorlice-info | Patromierz
+title: "halogorlice-info | Patromierz"
 permalink: /halogorlice-info
 ---
 
@@ -7,7 +7,7 @@ permalink: /halogorlice-info
 <script type="text/javascript" src="data/h/halogorlice-info.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [halogorlice-info](https://patronite.pl/halogorlice-info)
+# [Informacyjny Portal Internetowy halogorlice.info ](https://patronite.pl/halogorlice-info)
 
 ## Miesięczne wsparcie
 

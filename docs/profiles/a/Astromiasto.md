@@ -1,5 +1,5 @@
 ---
-title: Astromiasto | Patromierz
+title: "Astromiasto | Patromierz"
 permalink: /Astromiasto
 ---
 
@@ -7,7 +7,7 @@ permalink: /Astromiasto
 <script type="text/javascript" src="data/a/Astromiasto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Astromiasto](https://patronite.pl/Astromiasto)
+# [AstroMiasto](https://patronite.pl/Astromiasto)
 
 ## Miesięczne wsparcie
 

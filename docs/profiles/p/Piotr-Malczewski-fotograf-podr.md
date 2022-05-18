@@ -1,5 +1,5 @@
 ---
-title: Piotr-Malczewski-fotograf-podr | Patromierz
+title: "Piotr-Malczewski-fotograf-podr | Patromierz"
 permalink: /Piotr-Malczewski-fotograf-podr
 ---
 
@@ -7,7 +7,7 @@ permalink: /Piotr-Malczewski-fotograf-podr
 <script type="text/javascript" src="data/p/Piotr-Malczewski-fotograf-podr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Piotr-Malczewski-fotograf-podr](https://patronite.pl/Piotr-Malczewski-fotograf-podr)
+# [Piotr Malczewski](https://patronite.pl/Piotr-Malczewski-fotograf-podr)
 
 ## Miesięczne wsparcie
 

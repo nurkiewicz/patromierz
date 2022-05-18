@@ -1,5 +1,5 @@
 ---
-title: kobikowski | Patromierz
+title: "kobikowski | Patromierz"
 permalink: /kobikowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /kobikowski
 <script type="text/javascript" src="data/k/kobikowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kobikowski](https://patronite.pl/kobikowski)
+# [Kobikowski](https://patronite.pl/kobikowski)
 
 ## Miesięczne wsparcie
 

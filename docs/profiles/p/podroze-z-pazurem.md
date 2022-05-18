@@ -1,5 +1,5 @@
 ---
-title: podroze-z-pazurem | Patromierz
+title: "podroze-z-pazurem | Patromierz"
 permalink: /podroze-z-pazurem
 ---
 
@@ -7,7 +7,7 @@ permalink: /podroze-z-pazurem
 <script type="text/javascript" src="data/p/podroze-z-pazurem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podroze-z-pazurem](https://patronite.pl/podroze-z-pazurem)
+# [Podróże z Pazurem](https://patronite.pl/podroze-z-pazurem)
 
 ## Miesięczne wsparcie
 

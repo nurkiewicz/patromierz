@@ -1,5 +1,5 @@
 ---
-title: RzeczJasna | Patromierz
+title: "RzeczJasna | Patromierz"
 permalink: /RzeczJasna
 ---
 
@@ -7,7 +7,7 @@ permalink: /RzeczJasna
 <script type="text/javascript" src="data/r/RzeczJasna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RzeczJasna](https://patronite.pl/RzeczJasna)
+# [Telewizja RzeczJasna](https://patronite.pl/RzeczJasna)
 
 ## Miesięczne wsparcie
 

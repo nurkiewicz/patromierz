@@ -1,5 +1,5 @@
 ---
-title: tomaszslodki | Patromierz
+title: "tomaszslodki | Patromierz"
 permalink: /tomaszslodki
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomaszslodki
 <script type="text/javascript" src="data/t/tomaszslodki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomaszslodki](https://patronite.pl/tomaszslodki)
+# [Tomasz Słodki](https://patronite.pl/tomaszslodki)
 
 ## Miesięczne wsparcie
 

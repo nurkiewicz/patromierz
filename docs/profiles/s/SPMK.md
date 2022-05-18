@@ -1,5 +1,5 @@
 ---
-title: SPMK | Patromierz
+title: "SPMK | Patromierz"
 permalink: /SPMK
 ---
 
@@ -7,7 +7,7 @@ permalink: /SPMK
 <script type="text/javascript" src="data/s/SPMK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SPMK](https://patronite.pl/SPMK)
+# [Stowarzyszenie Polskich Muzyków Kameralistów](https://patronite.pl/SPMK)
 
 ## Miesięczne wsparcie
 

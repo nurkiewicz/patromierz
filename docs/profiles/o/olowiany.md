@@ -1,5 +1,5 @@
 ---
-title: olowiany | Patromierz
+title: "olowiany | Patromierz"
 permalink: /olowiany
 ---
 
@@ -7,7 +7,7 @@ permalink: /olowiany
 <script type="text/javascript" src="data/o/olowiany.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [olowiany](https://patronite.pl/olowiany)
+# [Ołowiany Podcast / Gunpoint TV](https://patronite.pl/olowiany)
 
 ## Miesięczne wsparcie
 

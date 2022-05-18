@@ -1,5 +1,5 @@
 ---
-title: sciezkalucznicza | Patromierz
+title: "sciezkalucznicza | Patromierz"
 permalink: /sciezkalucznicza
 ---
 
@@ -7,7 +7,7 @@ permalink: /sciezkalucznicza
 <script type="text/javascript" src="data/s/sciezkalucznicza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sciezkalucznicza](https://patronite.pl/sciezkalucznicza)
+# [Ścieżka Łucznicza    ](https://patronite.pl/sciezkalucznicza)
 
 ## Miesięczne wsparcie
 

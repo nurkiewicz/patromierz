@@ -1,5 +1,5 @@
 ---
-title: rpgowa-alchemia | Patromierz
+title: "rpgowa-alchemia | Patromierz"
 permalink: /rpgowa-alchemia
 ---
 
@@ -7,7 +7,7 @@ permalink: /rpgowa-alchemia
 <script type="text/javascript" src="data/r/rpgowa-alchemia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rpgowa-alchemia](https://patronite.pl/rpgowa-alchemia)
+# [RPGowa Alchemia](https://patronite.pl/rpgowa-alchemia)
 
 ## Miesięczne wsparcie
 

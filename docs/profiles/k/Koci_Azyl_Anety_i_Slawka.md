@@ -1,5 +1,5 @@
 ---
-title: Koci_Azyl_Anety_i_Slawka | Patromierz
+title: "Koci_Azyl_Anety_i_Slawka | Patromierz"
 permalink: /Koci_Azyl_Anety_i_Slawka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Koci_Azyl_Anety_i_Slawka
 <script type="text/javascript" src="data/k/Koci_Azyl_Anety_i_Slawka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Koci_Azyl_Anety_i_Slawka](https://patronite.pl/Koci_Azyl_Anety_i_Slawka)
+# [Koci Azyl Anety i Sławka](https://patronite.pl/Koci_Azyl_Anety_i_Slawka)
 
 ## Miesięczne wsparcie
 

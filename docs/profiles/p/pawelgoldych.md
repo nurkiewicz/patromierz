@@ -1,5 +1,5 @@
 ---
-title: pawelgoldych | Patromierz
+title: "pawelgoldych | Patromierz"
 permalink: /pawelgoldych
 ---
 
@@ -7,7 +7,7 @@ permalink: /pawelgoldych
 <script type="text/javascript" src="data/p/pawelgoldych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pawelgoldych](https://patronite.pl/pawelgoldych)
+# [Paweł Gołdych](https://patronite.pl/pawelgoldych)
 
 ## Miesięczne wsparcie
 

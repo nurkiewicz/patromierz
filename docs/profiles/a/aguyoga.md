@@ -1,5 +1,5 @@
 ---
-title: aguyoga | Patromierz
+title: "aguyoga | Patromierz"
 permalink: /aguyoga
 ---
 
@@ -7,7 +7,7 @@ permalink: /aguyoga
 <script type="text/javascript" src="data/a/aguyoga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aguyoga](https://patronite.pl/aguyoga)
+# [aguYoga](https://patronite.pl/aguyoga)
 
 ## Miesięczne wsparcie
 

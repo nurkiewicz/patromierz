@@ -1,5 +1,5 @@
 ---
-title: boklazec | Patromierz
+title: "boklazec | Patromierz"
 permalink: /boklazec
 ---
 
@@ -7,7 +7,7 @@ permalink: /boklazec
 <script type="text/javascript" src="data/b/boklazec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [boklazec](https://patronite.pl/boklazec)
+# [Jerzy Bokłażec](https://patronite.pl/boklazec)
 
 ## Miesięczne wsparcie
 

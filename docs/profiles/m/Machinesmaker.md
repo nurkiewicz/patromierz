@@ -1,5 +1,5 @@
 ---
-title: Machinesmaker | Patromierz
+title: "Machinesmaker | Patromierz"
 permalink: /Machinesmaker
 ---
 
@@ -7,7 +7,7 @@ permalink: /Machinesmaker
 <script type="text/javascript" src="data/m/Machinesmaker.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Machinesmaker](https://patronite.pl/Machinesmaker)
+# [Adam Maszynotwór](https://patronite.pl/Machinesmaker)
 
 ## Miesięczne wsparcie
 

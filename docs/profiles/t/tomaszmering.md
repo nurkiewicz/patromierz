@@ -1,5 +1,5 @@
 ---
-title: tomaszmering | Patromierz
+title: "tomaszmering | Patromierz"
 permalink: /tomaszmering
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomaszmering
 <script type="text/javascript" src="data/t/tomaszmering.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomaszmering](https://patronite.pl/tomaszmering)
+# [Tomasz Mering](https://patronite.pl/tomaszmering)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: postaw-na-siebie | Patromierz
+title: "postaw-na-siebie | Patromierz"
 permalink: /postaw-na-siebie
 ---
 
@@ -7,7 +7,7 @@ permalink: /postaw-na-siebie
 <script type="text/javascript" src="data/p/postaw-na-siebie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [postaw-na-siebie](https://patronite.pl/postaw-na-siebie)
+# [Postaw na siebie!](https://patronite.pl/postaw-na-siebie)
 
 ## Miesięczne wsparcie
 

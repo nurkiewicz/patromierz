@@ -1,5 +1,5 @@
 ---
-title: LEGENDMAKE | Patromierz
+title: "LEGENDMAKE | Patromierz"
 permalink: /LEGENDMAKE
 ---
 

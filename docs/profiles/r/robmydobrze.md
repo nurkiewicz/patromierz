@@ -1,5 +1,5 @@
 ---
-title: robmydobrze | Patromierz
+title: "robmydobrze | Patromierz"
 permalink: /robmydobrze
 ---
 
@@ -7,7 +7,7 @@ permalink: /robmydobrze
 <script type="text/javascript" src="data/r/robmydobrze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [robmydobrze](https://patronite.pl/robmydobrze)
+# [Róbmy Dobrze](https://patronite.pl/robmydobrze)
 
 ## Miesięczne wsparcie
 

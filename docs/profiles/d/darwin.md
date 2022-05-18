@@ -1,5 +1,5 @@
 ---
-title: darwin | Patromierz
+title: "darwin | Patromierz"
 permalink: /darwin
 ---
 
@@ -7,7 +7,7 @@ permalink: /darwin
 <script type="text/javascript" src="data/d/darwin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [darwin](https://patronite.pl/darwin)
+# [Grupa Filmowa Darwin ](https://patronite.pl/darwin)
 
 ## Miesięczne wsparcie
 

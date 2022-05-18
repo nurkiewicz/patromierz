@@ -1,5 +1,5 @@
 ---
-title: babskiegusla | Patromierz
+title: "babskiegusla | Patromierz"
 permalink: /babskiegusla
 ---
 
@@ -7,7 +7,7 @@ permalink: /babskiegusla
 <script type="text/javascript" src="data/b/babskiegusla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [babskiegusla](https://patronite.pl/babskiegusla)
+# [Babskie Gusła](https://patronite.pl/babskiegusla)
 
 ## Miesięczne wsparcie
 

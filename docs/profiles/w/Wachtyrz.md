@@ -1,5 +1,5 @@
 ---
-title: Wachtyrz | Patromierz
+title: "Wachtyrz | Patromierz"
 permalink: /Wachtyrz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wachtyrz
 <script type="text/javascript" src="data/w/Wachtyrz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wachtyrz](https://patronite.pl/Wachtyrz)
+# [Wachtyrz.eu](https://patronite.pl/Wachtyrz)
 
 ## Miesięczne wsparcie
 

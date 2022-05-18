@@ -1,5 +1,5 @@
 ---
-title: napiasku | Patromierz
+title: "napiasku | Patromierz"
 permalink: /napiasku
 ---
 
@@ -7,7 +7,7 @@ permalink: /napiasku
 <script type="text/javascript" src="data/n/napiasku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [napiasku](https://patronite.pl/napiasku)
+# [Na Piasku](https://patronite.pl/napiasku)
 
 ## Miesięczne wsparcie
 

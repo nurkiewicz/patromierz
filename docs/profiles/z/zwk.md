@@ -1,5 +1,5 @@
 ---
-title: zwk | Patromierz
+title: "zwk | Patromierz"
 permalink: /zwk
 ---
 
@@ -7,7 +7,7 @@ permalink: /zwk
 <script type="text/javascript" src="data/z/zwk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zwk](https://patronite.pl/zwk)
+# [Inicjatywa "Zranieni w Kościele"](https://patronite.pl/zwk)
 
 ## Miesięczne wsparcie
 

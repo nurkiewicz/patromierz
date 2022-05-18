@@ -1,5 +1,5 @@
 ---
-title: wizna1939 | Patromierz
+title: "wizna1939 | Patromierz"
 permalink: /wizna1939
 ---
 
@@ -7,7 +7,7 @@ permalink: /wizna1939
 <script type="text/javascript" src="data/w/wizna1939.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wizna1939](https://patronite.pl/wizna1939)
+# [Stowarzyszenie "Wizna 1939"](https://patronite.pl/wizna1939)
 
 ## Miesięczne wsparcie
 

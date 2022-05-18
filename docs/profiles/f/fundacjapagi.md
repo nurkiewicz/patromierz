@@ -1,5 +1,5 @@
 ---
-title: fundacjapagi | Patromierz
+title: "fundacjapagi | Patromierz"
 permalink: /fundacjapagi
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjapagi
 <script type="text/javascript" src="data/f/fundacjapagi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjapagi](https://patronite.pl/fundacjapagi)
+# [Fundacja Pagi](https://patronite.pl/fundacjapagi)
 
 ## Miesięczne wsparcie
 

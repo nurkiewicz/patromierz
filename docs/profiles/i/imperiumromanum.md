@@ -1,5 +1,5 @@
 ---
-title: imperiumromanum | Patromierz
+title: "imperiumromanum | Patromierz"
 permalink: /imperiumromanum
 ---
 
@@ -7,7 +7,7 @@ permalink: /imperiumromanum
 <script type="text/javascript" src="data/i/imperiumromanum.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [imperiumromanum](https://patronite.pl/imperiumromanum)
+# [IMPERIUM ROMANUM](https://patronite.pl/imperiumromanum)
 
 ## Miesięczne wsparcie
 

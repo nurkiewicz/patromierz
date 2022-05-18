@@ -1,5 +1,5 @@
 ---
-title: nataliabrand | Patromierz
+title: "nataliabrand | Patromierz"
 permalink: /nataliabrand
 ---
 
@@ -7,7 +7,7 @@ permalink: /nataliabrand
 <script type="text/javascript" src="data/n/nataliabrand.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nataliabrand](https://patronite.pl/nataliabrand)
+# [Historie Osób Zaginionych ](https://patronite.pl/nataliabrand)
 
 ## Miesięczne wsparcie
 

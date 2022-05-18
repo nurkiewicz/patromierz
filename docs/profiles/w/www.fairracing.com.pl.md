@@ -1,5 +1,5 @@
 ---
-title: www.fairracing.com.pl | Patromierz
+title: "www.fairracing.com.pl | Patromierz"
 permalink: /www.fairracing.com.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.fairracing.com.pl
 <script type="text/javascript" src="data/w/www.fairracing.com.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.fairracing.com.pl](https://patronite.pl/www.fairracing.com.pl)
+# [Fair Racing](https://patronite.pl/www.fairracing.com.pl)
 
 ## Miesięczne wsparcie
 

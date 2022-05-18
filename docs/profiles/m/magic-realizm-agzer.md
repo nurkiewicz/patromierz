@@ -1,5 +1,5 @@
 ---
-title: magic-realizm-agzer | Patromierz
+title: "magic-realizm-agzer | Patromierz"
 permalink: /magic-realizm-agzer
 ---
 
@@ -7,7 +7,7 @@ permalink: /magic-realizm-agzer
 <script type="text/javascript" src="data/m/magic-realizm-agzer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magic-realizm-agzer](https://patronite.pl/magic-realizm-agzer)
+# [Ag Żer](https://patronite.pl/magic-realizm-agzer)
 
 ## Miesięczne wsparcie
 

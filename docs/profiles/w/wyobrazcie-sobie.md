@@ -1,5 +1,5 @@
 ---
-title: wyobrazcie-sobie | Patromierz
+title: "wyobrazcie-sobie | Patromierz"
 permalink: /wyobrazcie-sobie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wyobrazcie-sobie
 <script type="text/javascript" src="data/w/wyobrazcie-sobie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wyobrazcie-sobie](https://patronite.pl/wyobrazcie-sobie)
+# [Wyobraźcie Sobie](https://patronite.pl/wyobrazcie-sobie)
 
 ## Miesięczne wsparcie
 

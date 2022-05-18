@@ -1,5 +1,5 @@
 ---
-title: dom-milosierdzia | Patromierz
+title: "dom-milosierdzia | Patromierz"
 permalink: /dom-milosierdzia
 ---
 
@@ -7,7 +7,7 @@ permalink: /dom-milosierdzia
 <script type="text/javascript" src="data/d/dom-milosierdzia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dom-milosierdzia](https://patronite.pl/dom-milosierdzia)
+# [Dom Miłosierdzia w Otmuchowie](https://patronite.pl/dom-milosierdzia)
 
 ## Miesięczne wsparcie
 

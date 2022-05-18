@@ -1,5 +1,5 @@
 ---
-title: kupidura | Patromierz
+title: "kupidura | Patromierz"
 permalink: /kupidura
 ---
 
@@ -7,7 +7,7 @@ permalink: /kupidura
 <script type="text/javascript" src="data/k/kupidura.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kupidura](https://patronite.pl/kupidura)
+# [Przemysław Kupidura](https://patronite.pl/kupidura)
 
 ## Miesięczne wsparcie
 

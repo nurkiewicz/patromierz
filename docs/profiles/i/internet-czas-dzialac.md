@@ -1,5 +1,5 @@
 ---
-title: internet-czas-dzialac | Patromierz
+title: "internet-czas-dzialac | Patromierz"
 permalink: /internet-czas-dzialac
 ---
 
@@ -7,7 +7,7 @@ permalink: /internet-czas-dzialac
 <script type="text/javascript" src="data/i/internet-czas-dzialac.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [internet-czas-dzialac](https://patronite.pl/internet-czas-dzialac)
+# [Internet. Czas działać!](https://patronite.pl/internet-czas-dzialac)
 
 ## Miesięczne wsparcie
 

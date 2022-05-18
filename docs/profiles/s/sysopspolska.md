@@ -1,5 +1,5 @@
 ---
-title: sysopspolska | Patromierz
+title: "sysopspolska | Patromierz"
 permalink: /sysopspolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /sysopspolska
 <script type="text/javascript" src="data/s/sysopspolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sysopspolska](https://patronite.pl/sysopspolska)
+# [Fundacja SysOps / DevOps Polska](https://patronite.pl/sysopspolska)
 
 ## Miesięczne wsparcie
 

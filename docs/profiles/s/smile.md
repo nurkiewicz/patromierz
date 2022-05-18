@@ -1,5 +1,5 @@
 ---
-title: smile | Patromierz
+title: "smile | Patromierz"
 permalink: /smile
 ---
 
@@ -7,7 +7,7 @@ permalink: /smile
 <script type="text/javascript" src="data/s/smile.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smile](https://patronite.pl/smile)
+# [Fundacja Smile Together](https://patronite.pl/smile)
 
 ## Miesięczne wsparcie
 

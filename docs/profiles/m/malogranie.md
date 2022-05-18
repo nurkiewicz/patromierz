@@ -1,5 +1,5 @@
 ---
-title: malogranie | Patromierz
+title: "malogranie | Patromierz"
 permalink: /malogranie
 ---
 
@@ -7,7 +7,7 @@ permalink: /malogranie
 <script type="text/javascript" src="data/m/malogranie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [malogranie](https://patronite.pl/malogranie)
+# [MaloGranie ](https://patronite.pl/malogranie)
 
 ## Miesięczne wsparcie
 

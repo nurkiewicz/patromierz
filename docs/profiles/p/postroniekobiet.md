@@ -1,5 +1,5 @@
 ---
-title: postroniekobiet | Patromierz
+title: "postroniekobiet | Patromierz"
 permalink: /postroniekobiet
 ---
 
@@ -7,7 +7,7 @@ permalink: /postroniekobiet
 <script type="text/javascript" src="data/p/postroniekobiet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [postroniekobiet](https://patronite.pl/postroniekobiet)
+# [Po stronie kobiet](https://patronite.pl/postroniekobiet)
 
 ## Miesięczne wsparcie
 

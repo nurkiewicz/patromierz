@@ -1,5 +1,5 @@
 ---
-title: nie-mam-czasu-na-szkole | Patromierz
+title: "nie-mam-czasu-na-szkole | Patromierz"
 permalink: /nie-mam-czasu-na-szkole
 ---
 
@@ -7,7 +7,7 @@ permalink: /nie-mam-czasu-na-szkole
 <script type="text/javascript" src="data/n/nie-mam-czasu-na-szkole.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nie-mam-czasu-na-szkole](https://patronite.pl/nie-mam-czasu-na-szkole)
+# [Edukacja Domowa - nie mam czasu na szkołę](https://patronite.pl/nie-mam-czasu-na-szkole)
 
 ## Miesięczne wsparcie
 

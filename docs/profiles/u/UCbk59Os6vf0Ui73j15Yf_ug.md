@@ -1,5 +1,5 @@
 ---
-title: UCbk59Os6vf0Ui73j15Yf_ug | Patromierz
+title: "UCbk59Os6vf0Ui73j15Yf_ug | Patromierz"
 permalink: /UCbk59Os6vf0Ui73j15Yf_ug
 ---
 
@@ -7,7 +7,7 @@ permalink: /UCbk59Os6vf0Ui73j15Yf_ug
 <script type="text/javascript" src="data/u/UCbk59Os6vf0Ui73j15Yf_ug.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [UCbk59Os6vf0Ui73j15Yf_ug](https://patronite.pl/UCbk59Os6vf0Ui73j15Yf_ug)
+# [Tarka W Drodze](https://patronite.pl/UCbk59Os6vf0Ui73j15Yf_ug)
 
 ## Miesięczne wsparcie
 

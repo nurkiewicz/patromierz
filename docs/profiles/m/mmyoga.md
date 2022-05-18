@@ -1,5 +1,5 @@
 ---
-title: mmyoga | Patromierz
+title: "mmyoga | Patromierz"
 permalink: /mmyoga
 ---
 
@@ -7,7 +7,7 @@ permalink: /mmyoga
 <script type="text/javascript" src="data/m/mmyoga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mmyoga](https://patronite.pl/mmyoga)
+# [Małgorzata Mostowska](https://patronite.pl/mmyoga)
 
 ## Miesięczne wsparcie
 

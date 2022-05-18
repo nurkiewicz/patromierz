@@ -1,5 +1,5 @@
 ---
-title: tomasz-dziurko | Patromierz
+title: "tomasz-dziurko | Patromierz"
 permalink: /tomasz-dziurko
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomasz-dziurko
 <script type="text/javascript" src="data/t/tomasz-dziurko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomasz-dziurko](https://patronite.pl/tomasz-dziurko)
+# [Tomasz Dziurko](https://patronite.pl/tomasz-dziurko)
 
 ## Miesięczne wsparcie
 

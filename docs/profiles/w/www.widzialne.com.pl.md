@@ -1,5 +1,5 @@
 ---
-title: www.widzialne.com.pl | Patromierz
+title: "www.widzialne.com.pl | Patromierz"
 permalink: /www.widzialne.com.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.widzialne.com.pl
 <script type="text/javascript" src="data/w/www.widzialne.com.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.widzialne.com.pl](https://patronite.pl/www.widzialne.com.pl)
+# [Fundacja Widzialne - Zmiana jest Kobietą](https://patronite.pl/www.widzialne.com.pl)
 
 ## Miesięczne wsparcie
 

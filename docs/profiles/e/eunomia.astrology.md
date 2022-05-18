@@ -1,5 +1,5 @@
 ---
-title: eunomia.astrology | Patromierz
+title: "eunomia.astrology | Patromierz"
 permalink: /eunomia.astrology
 ---
 
@@ -7,7 +7,7 @@ permalink: /eunomia.astrology
 <script type="text/javascript" src="data/e/eunomia.astrology.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eunomia.astrology](https://patronite.pl/eunomia.astrology)
+# [Eunomia](https://patronite.pl/eunomia.astrology)
 
 ## Miesięczne wsparcie
 

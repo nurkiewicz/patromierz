@@ -1,5 +1,5 @@
 ---
-title: aranaq | Patromierz
+title: "aranaq | Patromierz"
 permalink: /aranaq
 ---
 
@@ -7,7 +7,7 @@ permalink: /aranaq
 <script type="text/javascript" src="data/a/aranaq.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aranaq](https://patronite.pl/aranaq)
+# [Prezydentka Internetu](https://patronite.pl/aranaq)
 
 ## Miesięczne wsparcie
 

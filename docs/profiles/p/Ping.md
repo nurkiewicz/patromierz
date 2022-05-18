@@ -1,5 +1,5 @@
 ---
-title: Ping | Patromierz
+title: "Ping | Patromierz"
 permalink: /Ping
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ping
 <script type="text/javascript" src="data/p/Ping.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ping](https://patronite.pl/Ping)
+# [Jankowski Norbert](https://patronite.pl/Ping)
 
 ## Miesięczne wsparcie
 

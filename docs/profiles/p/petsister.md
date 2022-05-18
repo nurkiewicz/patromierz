@@ -1,5 +1,5 @@
 ---
-title: petsister | Patromierz
+title: "petsister | Patromierz"
 permalink: /petsister
 ---
 
@@ -7,7 +7,7 @@ permalink: /petsister
 <script type="text/javascript" src="data/p/petsister.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [petsister](https://patronite.pl/petsister)
+# [PetSister](https://patronite.pl/petsister)
 
 ## Miesięczne wsparcie
 

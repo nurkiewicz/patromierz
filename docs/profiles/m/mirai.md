@@ -1,5 +1,5 @@
 ---
-title: mirai | Patromierz
+title: "mirai | Patromierz"
 permalink: /mirai
 ---
 
@@ -7,7 +7,7 @@ permalink: /mirai
 <script type="text/javascript" src="data/m/mirai.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mirai](https://patronite.pl/mirai)
+# [Grupa Mirai](https://patronite.pl/mirai)
 
 ## Miesięczne wsparcie
 

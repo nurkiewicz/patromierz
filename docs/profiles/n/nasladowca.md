@@ -1,5 +1,5 @@
 ---
-title: nasladowca | Patromierz
+title: "nasladowca | Patromierz"
 permalink: /nasladowca
 ---
 
@@ -7,7 +7,7 @@ permalink: /nasladowca
 <script type="text/javascript" src="data/n/nasladowca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nasladowca](https://patronite.pl/nasladowca)
+# [Naśladowca](https://patronite.pl/nasladowca)
 
 ## Miesięczne wsparcie
 

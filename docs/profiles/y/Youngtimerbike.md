@@ -1,5 +1,5 @@
 ---
-title: Youngtimerbike | Patromierz
+title: "Youngtimerbike | Patromierz"
 permalink: /Youngtimerbike
 ---
 
@@ -7,7 +7,7 @@ permalink: /Youngtimerbike
 <script type="text/javascript" src="data/y/Youngtimerbike.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Youngtimerbike](https://patronite.pl/Youngtimerbike)
+# [Youngtimerbike.pl ](https://patronite.pl/Youngtimerbike)
 
 ## Miesięczne wsparcie
 

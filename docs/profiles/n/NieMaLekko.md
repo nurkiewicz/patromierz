@@ -1,5 +1,5 @@
 ---
-title: NieMaLekko | Patromierz
+title: "NieMaLekko | Patromierz"
 permalink: /NieMaLekko
 ---
 
@@ -7,7 +7,7 @@ permalink: /NieMaLekko
 <script type="text/javascript" src="data/n/NieMaLekko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NieMaLekko](https://patronite.pl/NieMaLekko)
+# [Nie Ma Lekko Kornel Pęksa](https://patronite.pl/NieMaLekko)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: prostowkanal | Patromierz
+title: "prostowkanal | Patromierz"
 permalink: /prostowkanal
 ---
 
@@ -7,7 +7,7 @@ permalink: /prostowkanal
 <script type="text/javascript" src="data/p/prostowkanal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prostowkanal](https://patronite.pl/prostowkanal)
+# [PROSTO W KANAŁ](https://patronite.pl/prostowkanal)
 
 ## Miesięczne wsparcie
 

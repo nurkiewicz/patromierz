@@ -1,5 +1,5 @@
 ---
-title: historia-dla-dzieci | Patromierz
+title: "historia-dla-dzieci | Patromierz"
 permalink: /historia-dla-dzieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /historia-dla-dzieci
 <script type="text/javascript" src="data/h/historia-dla-dzieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historia-dla-dzieci](https://patronite.pl/historia-dla-dzieci)
+# [Piotr Borowski](https://patronite.pl/historia-dla-dzieci)
 
 ## Miesięczne wsparcie
 

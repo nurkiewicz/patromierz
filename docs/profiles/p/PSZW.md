@@ -1,5 +1,5 @@
 ---
-title: PSZW | Patromierz
+title: "PSZW | Patromierz"
 permalink: /PSZW
 ---
 
@@ -7,7 +7,7 @@ permalink: /PSZW
 <script type="text/javascript" src="data/p/PSZW.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PSZW](https://patronite.pl/PSZW)
+# [Polskie Stowarzyszenie Zero Waste  ](https://patronite.pl/PSZW)
 
 ## Miesięczne wsparcie
 

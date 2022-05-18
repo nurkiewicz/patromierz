@@ -1,5 +1,5 @@
 ---
-title: RodzinnePodróże | Patromierz
+title: "RodzinnePodróże | Patromierz"
 permalink: /RodzinnePodróże
 ---
 
@@ -7,7 +7,7 @@ permalink: /RodzinnePodróże
 <script type="text/javascript" src="data/r/RodzinnePodróże.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RodzinnePodróże](https://patronite.pl/RodzinnePodróże)
+# [Rodzinne Podróże ](https://patronite.pl/RodzinnePodróże)
 
 ## Miesięczne wsparcie
 

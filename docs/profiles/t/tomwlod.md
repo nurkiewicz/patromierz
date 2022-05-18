@@ -1,5 +1,5 @@
 ---
-title: tomwlod | Patromierz
+title: "tomwlod | Patromierz"
 permalink: /tomwlod
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomwlod
 <script type="text/javascript" src="data/t/tomwlod.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomwlod](https://patronite.pl/tomwlod)
+# [Tom Wlod](https://patronite.pl/tomwlod)
 
 ## Miesięczne wsparcie
 

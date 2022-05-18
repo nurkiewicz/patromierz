@@ -1,5 +1,5 @@
 ---
-title: BeataKlimek | Patromierz
+title: "BeataKlimek | Patromierz"
 permalink: /BeataKlimek
 ---
 
@@ -7,7 +7,7 @@ permalink: /BeataKlimek
 <script type="text/javascript" src="data/b/BeataKlimek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BeataKlimek](https://patronite.pl/BeataKlimek)
+# [Beata Klimek](https://patronite.pl/BeataKlimek)
 
 ## Miesięczne wsparcie
 

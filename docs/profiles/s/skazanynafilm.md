@@ -1,5 +1,5 @@
 ---
-title: skazanynafilm | Patromierz
+title: "skazanynafilm | Patromierz"
 permalink: /skazanynafilm
 ---
 
@@ -7,7 +7,7 @@ permalink: /skazanynafilm
 <script type="text/javascript" src="data/s/skazanynafilm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skazanynafilm](https://patronite.pl/skazanynafilm)
+# [Skazany na film](https://patronite.pl/skazanynafilm)
 
 ## Miesięczne wsparcie
 

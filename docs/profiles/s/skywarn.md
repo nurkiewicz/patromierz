@@ -1,5 +1,5 @@
 ---
-title: skywarn | Patromierz
+title: "skywarn | Patromierz"
 permalink: /skywarn
 ---
 
@@ -7,7 +7,7 @@ permalink: /skywarn
 <script type="text/javascript" src="data/s/skywarn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skywarn](https://patronite.pl/skywarn)
+# [Skywarn Polska (Polscy Łowcy Burz)](https://patronite.pl/skywarn)
 
 ## Miesięczne wsparcie
 

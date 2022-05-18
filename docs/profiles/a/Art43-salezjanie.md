@@ -1,5 +1,5 @@
 ---
-title: Art43-salezjanie | Patromierz
+title: "Art43-salezjanie | Patromierz"
 permalink: /Art43-salezjanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /Art43-salezjanie
 <script type="text/javascript" src="data/a/Art43-salezjanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Art43-salezjanie](https://patronite.pl/Art43-salezjanie)
+# [Art. 43](https://patronite.pl/Art43-salezjanie)
 
 ## Miesięczne wsparcie
 

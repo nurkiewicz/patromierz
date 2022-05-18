@@ -1,5 +1,5 @@
 ---
-title: instahiszpanski | Patromierz
+title: "instahiszpanski | Patromierz"
 permalink: /instahiszpanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /instahiszpanski
 <script type="text/javascript" src="data/i/instahiszpanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [instahiszpanski](https://patronite.pl/instahiszpanski)
+# [Akademia Instahiszpański](https://patronite.pl/instahiszpanski)
 
 ## Miesięczne wsparcie
 

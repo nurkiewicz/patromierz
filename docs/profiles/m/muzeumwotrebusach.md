@@ -1,5 +1,5 @@
 ---
-title: muzeumwotrebusach | Patromierz
+title: "muzeumwotrebusach | Patromierz"
 permalink: /muzeumwotrebusach
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzeumwotrebusach
 <script type="text/javascript" src="data/m/muzeumwotrebusach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzeumwotrebusach](https://patronite.pl/muzeumwotrebusach)
+# [Muzeum Motoryzacji i Techniki w Otrębusach](https://patronite.pl/muzeumwotrebusach)
 
 ## Miesięczne wsparcie
 

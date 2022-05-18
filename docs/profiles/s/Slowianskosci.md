@@ -1,5 +1,5 @@
 ---
-title: Slowianskosci | Patromierz
+title: "Slowianskosci | Patromierz"
 permalink: /Slowianskosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /Slowianskosci
 <script type="text/javascript" src="data/s/Slowianskosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Slowianskosci](https://patronite.pl/Slowianskosci)
+# [Słowiańskości | Natalia Kościńska](https://patronite.pl/Slowianskosci)
 
 ## Miesięczne wsparcie
 

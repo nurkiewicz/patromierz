@@ -1,5 +1,5 @@
 ---
-title: mateuszrajski | Patromierz
+title: "mateuszrajski | Patromierz"
 permalink: /mateuszrajski
 ---
 
@@ -7,7 +7,7 @@ permalink: /mateuszrajski
 <script type="text/javascript" src="data/m/mateuszrajski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mateuszrajski](https://patronite.pl/mateuszrajski)
+# [Mateusz Rajski](https://patronite.pl/mateuszrajski)
 
 ## Miesięczne wsparcie
 

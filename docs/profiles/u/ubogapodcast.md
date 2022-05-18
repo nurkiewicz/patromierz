@@ -1,5 +1,5 @@
 ---
-title: ubogapodcast | Patromierz
+title: "ubogapodcast | Patromierz"
 permalink: /ubogapodcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /ubogapodcast
 <script type="text/javascript" src="data/u/ubogapodcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ubogapodcast](https://patronite.pl/ubogapodcast)
+# [UBoga. Podcast z Ducha strony](https://patronite.pl/ubogapodcast)
 
 ## Miesięczne wsparcie
 

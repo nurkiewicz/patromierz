@@ -1,5 +1,5 @@
 ---
-title: zagi | Patromierz
+title: "zagi | Patromierz"
 permalink: /zagi
 ---
 
@@ -7,7 +7,7 @@ permalink: /zagi
 <script type="text/javascript" src="data/z/zagi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zagi](https://patronite.pl/zagi)
+# [Zagi](https://patronite.pl/zagi)
 
 ## Miesięczne wsparcie
 

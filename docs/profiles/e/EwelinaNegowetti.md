@@ -1,5 +1,5 @@
 ---
-title: EwelinaNegowetti | Patromierz
+title: "EwelinaNegowetti | Patromierz"
 permalink: /EwelinaNegowetti
 ---
 
@@ -7,7 +7,7 @@ permalink: /EwelinaNegowetti
 <script type="text/javascript" src="data/e/EwelinaNegowetti.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EwelinaNegowetti](https://patronite.pl/EwelinaNegowetti)
+# [Ewelina Negowetti](https://patronite.pl/EwelinaNegowetti)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: koziguar | Patromierz
+title: "koziguar | Patromierz"
 permalink: /koziguar
 ---
 
@@ -7,7 +7,7 @@ permalink: /koziguar
 <script type="text/javascript" src="data/k/koziguar.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koziguar](https://patronite.pl/koziguar)
+# [Koziguar](https://patronite.pl/koziguar)
 
 ## Miesięczne wsparcie
 

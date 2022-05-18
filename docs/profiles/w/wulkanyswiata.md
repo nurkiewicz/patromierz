@@ -1,5 +1,5 @@
 ---
-title: wulkanyswiata | Patromierz
+title: "wulkanyswiata | Patromierz"
 permalink: /wulkanyswiata
 ---
 
@@ -7,7 +7,7 @@ permalink: /wulkanyswiata
 <script type="text/javascript" src="data/w/wulkanyswiata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wulkanyswiata](https://patronite.pl/wulkanyswiata)
+# [Wulkany świata](https://patronite.pl/wulkanyswiata)
 
 ## Miesięczne wsparcie
 

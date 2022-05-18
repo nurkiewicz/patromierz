@@ -1,5 +1,5 @@
 ---
-title: kultowe.stopiatki | Patromierz
+title: "kultowe.stopiatki | Patromierz"
 permalink: /kultowe.stopiatki
 ---
 
@@ -7,7 +7,7 @@ permalink: /kultowe.stopiatki
 <script type="text/javascript" src="data/k/kultowe.stopiatki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kultowe.stopiatki](https://patronite.pl/kultowe.stopiatki)
+# [Łukasz Kuczewski](https://patronite.pl/kultowe.stopiatki)
 
 ## Miesięczne wsparcie
 

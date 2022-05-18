@@ -1,5 +1,5 @@
 ---
-title: sudety.pro | Patromierz
+title: "sudety.pro | Patromierz"
 permalink: /sudety.pro
 ---
 
@@ -7,7 +7,7 @@ permalink: /sudety.pro
 <script type="text/javascript" src="data/s/sudety.pro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sudety.pro](https://patronite.pl/sudety.pro)
+# [Sudety.pro](https://patronite.pl/sudety.pro)
 
 ## Miesięczne wsparcie
 

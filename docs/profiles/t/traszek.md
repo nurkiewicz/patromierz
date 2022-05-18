@@ -1,5 +1,5 @@
 ---
-title: traszek | Patromierz
+title: "traszek | Patromierz"
 permalink: /traszek
 ---
 
@@ -7,7 +7,7 @@ permalink: /traszek
 <script type="text/javascript" src="data/t/traszek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [traszek](https://patronite.pl/traszek)
+# [Traszek](https://patronite.pl/traszek)
 
 ## Miesięczne wsparcie
 

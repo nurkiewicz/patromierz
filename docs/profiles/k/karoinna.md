@@ -1,5 +1,5 @@
 ---
-title: karoinna | Patromierz
+title: "karoinna | Patromierz"
 permalink: /karoinna
 ---
 
@@ -7,7 +7,7 @@ permalink: /karoinna
 <script type="text/javascript" src="data/k/karoinna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karoinna](https://patronite.pl/karoinna)
+# [Karoinna](https://patronite.pl/karoinna)
 
 ## Miesięczne wsparcie
 

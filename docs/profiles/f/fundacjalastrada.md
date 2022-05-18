@@ -1,5 +1,5 @@
 ---
-title: fundacjalastrada | Patromierz
+title: "fundacjalastrada | Patromierz"
 permalink: /fundacjalastrada
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjalastrada
 <script type="text/javascript" src="data/f/fundacjalastrada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjalastrada](https://patronite.pl/fundacjalastrada)
+# [Fundacja La Strada](https://patronite.pl/fundacjalastrada)
 
 ## Miesięczne wsparcie
 

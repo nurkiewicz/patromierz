@@ -1,5 +1,5 @@
 ---
-title: paniewelina | Patromierz
+title: "paniewelina | Patromierz"
 permalink: /paniewelina
 ---
 
@@ -7,7 +7,7 @@ permalink: /paniewelina
 <script type="text/javascript" src="data/p/paniewelina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paniewelina](https://patronite.pl/paniewelina)
+# [Pani Ewelina](https://patronite.pl/paniewelina)
 
 ## Miesięczne wsparcie
 

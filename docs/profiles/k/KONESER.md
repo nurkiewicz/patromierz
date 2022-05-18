@@ -1,5 +1,5 @@
 ---
-title: KONESER | Patromierz
+title: "KONESER | Patromierz"
 permalink: /KONESER
 ---
 
@@ -7,7 +7,7 @@ permalink: /KONESER
 <script type="text/javascript" src="data/k/KONESER.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KONESER](https://patronite.pl/KONESER)
+# [KONESER ](https://patronite.pl/KONESER)
 
 ## Miesięczne wsparcie
 

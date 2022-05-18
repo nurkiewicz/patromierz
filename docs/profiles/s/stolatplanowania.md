@@ -1,5 +1,5 @@
 ---
-title: stolatplanowania | Patromierz
+title: "stolatplanowania | Patromierz"
 permalink: /stolatplanowania
 ---
 
@@ -7,7 +7,7 @@ permalink: /stolatplanowania
 <script type="text/javascript" src="data/s/stolatplanowania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stolatplanowania](https://patronite.pl/stolatplanowania)
+# [Sto Lat Planowania](https://patronite.pl/stolatplanowania)
 
 ## Miesięczne wsparcie
 

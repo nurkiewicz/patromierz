@@ -1,5 +1,5 @@
 ---
-title: wizje | Patromierz
+title: "wizje | Patromierz"
 permalink: /wizje
 ---
 
@@ -7,7 +7,7 @@ permalink: /wizje
 <script type="text/javascript" src="data/w/wizje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wizje](https://patronite.pl/wizje)
+# [Magazyn Wizje](https://patronite.pl/wizje)
 
 ## Miesięczne wsparcie
 

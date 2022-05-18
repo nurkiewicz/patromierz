@@ -1,5 +1,5 @@
 ---
-title: rapriver | Patromierz
+title: "rapriver | Patromierz"
 permalink: /rapriver
 ---
 
@@ -7,7 +7,7 @@ permalink: /rapriver
 <script type="text/javascript" src="data/r/rapriver.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rapriver](https://patronite.pl/rapriver)
+# [RapRiver](https://patronite.pl/rapriver)
 
 ## Miesięczne wsparcie
 

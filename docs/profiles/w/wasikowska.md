@@ -1,5 +1,5 @@
 ---
-title: wasikowska | Patromierz
+title: "wasikowska | Patromierz"
 permalink: /wasikowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /wasikowska
 <script type="text/javascript" src="data/w/wasikowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wasikowska](https://patronite.pl/wasikowska)
+# [EWA WĄSIKOWSKA-TOMCZYŃSKA](https://patronite.pl/wasikowska)
 
 ## Miesięczne wsparcie
 

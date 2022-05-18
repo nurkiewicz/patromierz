@@ -1,5 +1,5 @@
 ---
-title: WR | Patromierz
+title: "WR | Patromierz"
 permalink: /WR
 ---
 
@@ -7,7 +7,7 @@ permalink: /WR
 <script type="text/javascript" src="data/w/WR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WR](https://patronite.pl/WR)
+# [Wydział Remontowy](https://patronite.pl/WR)
 
 ## Miesięczne wsparcie
 

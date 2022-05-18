@@ -1,5 +1,5 @@
 ---
-title: RugbyPL | Patromierz
+title: "RugbyPL | Patromierz"
 permalink: /RugbyPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /RugbyPL
 <script type="text/javascript" src="data/r/RugbyPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RugbyPL](https://patronite.pl/RugbyPL)
+# [RugbyPL ](https://patronite.pl/RugbyPL)
 
 ## Miesięczne wsparcie
 

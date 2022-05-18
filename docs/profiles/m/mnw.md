@@ -1,5 +1,5 @@
 ---
-title: mnw | Patromierz
+title: "mnw | Patromierz"
 permalink: /mnw
 ---
 
@@ -7,7 +7,7 @@ permalink: /mnw
 <script type="text/javascript" src="data/m/mnw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mnw](https://patronite.pl/mnw)
+# [Miłość Nie Wyklucza](https://patronite.pl/mnw)
 
 ## Miesięczne wsparcie
 

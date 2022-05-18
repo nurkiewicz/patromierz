@@ -1,5 +1,5 @@
 ---
-title: fotografowani | Patromierz
+title: "fotografowani | Patromierz"
 permalink: /fotografowani
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotografowani
 <script type="text/javascript" src="data/f/fotografowani.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotografowani](https://patronite.pl/fotografowani)
+# [Fotografowani](https://patronite.pl/fotografowani)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Profesorchris | Patromierz
+title: "Profesorchris | Patromierz"
 permalink: /Profesorchris
 ---
 
@@ -7,7 +7,7 @@ permalink: /Profesorchris
 <script type="text/javascript" src="data/p/Profesorchris.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Profesorchris](https://patronite.pl/Profesorchris)
+# [Profesor Chris](https://patronite.pl/Profesorchris)
 
 ## Miesięczne wsparcie
 

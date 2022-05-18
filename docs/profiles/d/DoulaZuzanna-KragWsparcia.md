@@ -1,5 +1,5 @@
 ---
-title: DoulaZuzanna-KragWsparcia | Patromierz
+title: "DoulaZuzanna-KragWsparcia | Patromierz"
 permalink: /DoulaZuzanna-KragWsparcia
 ---
 
@@ -7,7 +7,7 @@ permalink: /DoulaZuzanna-KragWsparcia
 <script type="text/javascript" src="data/d/DoulaZuzanna-KragWsparcia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DoulaZuzanna-KragWsparcia](https://patronite.pl/DoulaZuzanna-KragWsparcia)
+# [Zuzanna Kołacz-Kordzińska](https://patronite.pl/DoulaZuzanna-KragWsparcia)
 
 ## Miesięczne wsparcie
 

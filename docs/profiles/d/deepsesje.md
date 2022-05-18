@@ -1,5 +1,5 @@
 ---
-title: deepsesje | Patromierz
+title: "deepsesje | Patromierz"
 permalink: /deepsesje
 ---
 
@@ -7,7 +7,7 @@ permalink: /deepsesje
 <script type="text/javascript" src="data/d/deepsesje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [deepsesje](https://patronite.pl/deepsesje)
+# [Deep Sesje ](https://patronite.pl/deepsesje)
 
 ## Miesięczne wsparcie
 

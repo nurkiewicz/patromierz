@@ -1,5 +1,5 @@
 ---
-title: tajnekomplety | Patromierz
+title: "tajnekomplety | Patromierz"
 permalink: /tajnekomplety
 ---
 
@@ -7,7 +7,7 @@ permalink: /tajnekomplety
 <script type="text/javascript" src="data/t/tajnekomplety.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tajnekomplety](https://patronite.pl/tajnekomplety)
+# [Cafe Księgarnia Tajne Komplety](https://patronite.pl/tajnekomplety)
 
 ## Miesięczne wsparcie
 

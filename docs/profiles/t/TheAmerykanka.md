@@ -1,5 +1,5 @@
 ---
-title: TheAmerykanka | Patromierz
+title: "TheAmerykanka | Patromierz"
 permalink: /TheAmerykanka
 ---
 
@@ -7,7 +7,7 @@ permalink: /TheAmerykanka
 <script type="text/javascript" src="data/t/TheAmerykanka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TheAmerykanka](https://patronite.pl/TheAmerykanka)
+# [The Amerykanka](https://patronite.pl/TheAmerykanka)
 
 ## Miesięczne wsparcie
 

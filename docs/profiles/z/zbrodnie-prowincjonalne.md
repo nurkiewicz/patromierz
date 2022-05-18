@@ -1,5 +1,5 @@
 ---
-title: zbrodnie-prowincjonalne | Patromierz
+title: "zbrodnie-prowincjonalne | Patromierz"
 permalink: /zbrodnie-prowincjonalne
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbrodnie-prowincjonalne
 <script type="text/javascript" src="data/z/zbrodnie-prowincjonalne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbrodnie-prowincjonalne](https://patronite.pl/zbrodnie-prowincjonalne)
+# [Zbrodnie Prowincjonalne](https://patronite.pl/zbrodnie-prowincjonalne)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: andrzejwlusek | Patromierz
+title: "andrzejwlusek | Patromierz"
 permalink: /andrzejwlusek
 ---
 
@@ -7,7 +7,7 @@ permalink: /andrzejwlusek
 <script type="text/javascript" src="data/a/andrzejwlusek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [andrzejwlusek](https://patronite.pl/andrzejwlusek)
+# [Andrzej Włusek - Historia poza horyzont ](https://patronite.pl/andrzejwlusek)
 
 ## Miesięczne wsparcie
 

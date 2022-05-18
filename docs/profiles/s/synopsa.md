@@ -1,5 +1,5 @@
 ---
-title: synopsa | Patromierz
+title: "synopsa | Patromierz"
 permalink: /synopsa
 ---
 
@@ -7,7 +7,7 @@ permalink: /synopsa
 <script type="text/javascript" src="data/s/synopsa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [synopsa](https://patronite.pl/synopsa)
+# [synopsa.pl](https://patronite.pl/synopsa)
 
 ## Miesięczne wsparcie
 

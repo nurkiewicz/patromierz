@@ -1,5 +1,5 @@
 ---
-title: kamilwronski1 | Patromierz
+title: "kamilwronski1 | Patromierz"
 permalink: /kamilwronski1
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilwronski1
 <script type="text/javascript" src="data/k/kamilwronski1.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilwronski1](https://patronite.pl/kamilwronski1)
+# [Kamil Wroński - nastoletni student](https://patronite.pl/kamilwronski1)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: inka.music | Patromierz
+title: "inka.music | Patromierz"
 permalink: /inka.music
 ---
 
@@ -7,7 +7,7 @@ permalink: /inka.music
 <script type="text/javascript" src="data/i/inka.music.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [inka.music](https://patronite.pl/inka.music)
+# [Inka](https://patronite.pl/inka.music)
 
 ## Miesięczne wsparcie
 

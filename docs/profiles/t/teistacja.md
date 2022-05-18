@@ -1,5 +1,5 @@
 ---
-title: teistacja | Patromierz
+title: "teistacja | Patromierz"
 permalink: /teistacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /teistacja
 <script type="text/javascript" src="data/t/teistacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teistacja](https://patronite.pl/teistacja)
+# [TeiStacja](https://patronite.pl/teistacja)
 
 ## Miesięczne wsparcie
 

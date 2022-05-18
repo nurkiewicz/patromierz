@@ -1,5 +1,5 @@
 ---
-title: firmazzasadami | Patromierz
+title: "firmazzasadami | Patromierz"
 permalink: /firmazzasadami
 ---
 
@@ -7,7 +7,7 @@ permalink: /firmazzasadami
 <script type="text/javascript" src="data/f/firmazzasadami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [firmazzasadami](https://patronite.pl/firmazzasadami)
+# [Firma z zasadami](https://patronite.pl/firmazzasadami)
 
 ## Miesięczne wsparcie
 

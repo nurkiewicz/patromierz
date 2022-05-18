@@ -1,5 +1,5 @@
 ---
-title: kotyzmlocin | Patromierz
+title: "kotyzmlocin | Patromierz"
 permalink: /kotyzmlocin
 ---
 
@@ -7,7 +7,7 @@ permalink: /kotyzmlocin
 <script type="text/javascript" src="data/k/kotyzmlocin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kotyzmlocin](https://patronite.pl/kotyzmlocin)
+# [Koty z Młocin](https://patronite.pl/kotyzmlocin)
 
 ## Miesięczne wsparcie
 

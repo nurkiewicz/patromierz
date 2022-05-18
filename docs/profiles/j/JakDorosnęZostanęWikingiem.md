@@ -1,5 +1,5 @@
 ---
-title: JakDorosnęZostanęWikingiem | Patromierz
+title: "JakDorosnęZostanęWikingiem | Patromierz"
 permalink: /JakDorosnęZostanęWikingiem
 ---
 
@@ -7,7 +7,7 @@ permalink: /JakDorosnęZostanęWikingiem
 <script type="text/javascript" src="data/j/JakDorosnęZostanęWikingiem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JakDorosnęZostanęWikingiem](https://patronite.pl/JakDorosnęZostanęWikingiem)
+# [Jak dorosnę, zostanę wikingiem](https://patronite.pl/JakDorosnęZostanęWikingiem)
 
 ## Miesięczne wsparcie
 

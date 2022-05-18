@@ -1,5 +1,5 @@
 ---
-title: Piknik-na-skraju-głupoty | Patromierz
+title: "Piknik-na-skraju-głupoty | Patromierz"
 permalink: /Piknik-na-skraju-głupoty
 ---
 
@@ -7,7 +7,7 @@ permalink: /Piknik-na-skraju-głupoty
 <script type="text/javascript" src="data/p/Piknik-na-skraju-głupoty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Piknik-na-skraju-głupoty](https://patronite.pl/Piknik-na-skraju-głupoty)
+# [Piknik na skraju głupoty](https://patronite.pl/Piknik-na-skraju-głupoty)
 
 ## Miesięczne wsparcie
 

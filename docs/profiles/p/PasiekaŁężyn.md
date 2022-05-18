@@ -1,5 +1,5 @@
 ---
-title: PasiekaŁężyn | Patromierz
+title: "PasiekaŁężyn | Patromierz"
 permalink: /PasiekaŁężyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /PasiekaŁężyn
 <script type="text/javascript" src="data/p/PasiekaŁężyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PasiekaŁężyn](https://patronite.pl/PasiekaŁężyn)
+# [Pasieka Łężyn](https://patronite.pl/PasiekaŁężyn)
 
 ## Miesięczne wsparcie
 

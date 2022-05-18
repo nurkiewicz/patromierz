@@ -1,5 +1,5 @@
 ---
-title: MDShooting | Patromierz
+title: "MDShooting | Patromierz"
 permalink: /MDShooting
 ---
 
@@ -7,7 +7,7 @@ permalink: /MDShooting
 <script type="text/javascript" src="data/m/MDShooting.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MDShooting](https://patronite.pl/MDShooting)
+# [M.D. Shooting](https://patronite.pl/MDShooting)
 
 ## Miesięczne wsparcie
 

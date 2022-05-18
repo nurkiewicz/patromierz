@@ -1,5 +1,5 @@
 ---
-title: milos | Patromierz
+title: "milos | Patromierz"
 permalink: /milos
 ---
 
@@ -7,7 +7,7 @@ permalink: /milos
 <script type="text/javascript" src="data/m/milos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [milos](https://patronite.pl/milos)
+# [Milos](https://patronite.pl/milos)
 
 ## Miesięczne wsparcie
 

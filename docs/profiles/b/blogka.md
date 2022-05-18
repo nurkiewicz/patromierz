@@ -1,5 +1,5 @@
 ---
-title: blogka | Patromierz
+title: "blogka | Patromierz"
 permalink: /blogka
 ---
 
@@ -7,7 +7,7 @@ permalink: /blogka
 <script type="text/javascript" src="data/b/blogka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blogka](https://patronite.pl/blogka)
+# [Ka – Transpłciowa Dziewczyna](https://patronite.pl/blogka)
 
 ## Miesięczne wsparcie
 

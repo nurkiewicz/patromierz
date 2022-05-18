@@ -1,5 +1,5 @@
 ---
-title: LM | Patromierz
+title: "LM | Patromierz"
 permalink: /LM
 ---
 
@@ -7,7 +7,7 @@ permalink: /LM
 <script type="text/javascript" src="data/l/LM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LM](https://patronite.pl/LM)
+# [Lans Macabre](https://patronite.pl/LM)
 
 ## Miesięczne wsparcie
 

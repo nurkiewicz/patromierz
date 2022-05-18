@@ -1,5 +1,5 @@
 ---
-title: odwyk | Patromierz
+title: "odwyk | Patromierz"
 permalink: /odwyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /odwyk
 <script type="text/javascript" src="data/o/odwyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odwyk](https://patronite.pl/odwyk)
+# [Martin Lechowicz](https://patronite.pl/odwyk)
 
 ## Miesięczne wsparcie
 

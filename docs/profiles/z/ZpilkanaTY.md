@@ -1,5 +1,5 @@
 ---
-title: ZpilkanaTY | Patromierz
+title: "ZpilkanaTY | Patromierz"
 permalink: /ZpilkanaTY
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZpilkanaTY
 <script type="text/javascript" src="data/z/ZpilkanaTY.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZpilkanaTY](https://patronite.pl/ZpilkanaTY)
+# [Z piłką na Ty](https://patronite.pl/ZpilkanaTY)
 
 ## Miesięczne wsparcie
 

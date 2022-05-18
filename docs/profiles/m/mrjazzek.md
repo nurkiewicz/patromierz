@@ -1,5 +1,5 @@
 ---
-title: mrjazzek | Patromierz
+title: "mrjazzek | Patromierz"
 permalink: /mrjazzek
 ---
 
@@ -7,7 +7,7 @@ permalink: /mrjazzek
 <script type="text/javascript" src="data/m/mrjazzek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mrjazzek](https://patronite.pl/mrjazzek)
+# [Mr. Jazzek ](https://patronite.pl/mrjazzek)
 
 ## Miesięczne wsparcie
 

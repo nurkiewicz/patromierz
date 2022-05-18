@@ -1,5 +1,5 @@
 ---
-title: empatyczne-stany | Patromierz
+title: "empatyczne-stany | Patromierz"
 permalink: /empatyczne-stany
 ---
 
@@ -7,7 +7,7 @@ permalink: /empatyczne-stany
 <script type="text/javascript" src="data/e/empatyczne-stany.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [empatyczne-stany](https://patronite.pl/empatyczne-stany)
+# [Empatyczne Stany Świadomości](https://patronite.pl/empatyczne-stany)
 
 ## Miesięczne wsparcie
 

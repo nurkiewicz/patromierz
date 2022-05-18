@@ -1,5 +1,5 @@
 ---
-title: resetobywatelski | Patromierz
+title: "resetobywatelski | Patromierz"
 permalink: /resetobywatelski
 ---
 
@@ -7,7 +7,7 @@ permalink: /resetobywatelski
 <script type="text/javascript" src="data/r/resetobywatelski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [resetobywatelski](https://patronite.pl/resetobywatelski)
+# [Reset Obywatelski](https://patronite.pl/resetobywatelski)
 
 ## Miesięczne wsparcie
 

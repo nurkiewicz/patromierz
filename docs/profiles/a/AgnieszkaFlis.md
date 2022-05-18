@@ -1,5 +1,5 @@
 ---
-title: AgnieszkaFlis | Patromierz
+title: "AgnieszkaFlis | Patromierz"
 permalink: /AgnieszkaFlis
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgnieszkaFlis
 <script type="text/javascript" src="data/a/AgnieszkaFlis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgnieszkaFlis](https://patronite.pl/AgnieszkaFlis)
+# [Agnieszka  Flis / Agnes Violin](https://patronite.pl/AgnieszkaFlis)
 
 ## Miesięczne wsparcie
 

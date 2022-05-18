@@ -1,5 +1,5 @@
 ---
-title: Po-Dzielnia | Patromierz
+title: "Po-Dzielnia | Patromierz"
 permalink: /Po-Dzielnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Po-Dzielnia
 <script type="text/javascript" src="data/p/Po-Dzielnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Po-Dzielnia](https://patronite.pl/Po-Dzielnia)
+# [Po-Dzielnia ](https://patronite.pl/Po-Dzielnia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ScholaDomineJesu | Patromierz
+title: "ScholaDomineJesu | Patromierz"
 permalink: /ScholaDomineJesu
 ---
 
@@ -7,7 +7,7 @@ permalink: /ScholaDomineJesu
 <script type="text/javascript" src="data/s/ScholaDomineJesu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ScholaDomineJesu](https://patronite.pl/ScholaDomineJesu)
+# [Schola  liturgiczna "Domine Jesu"](https://patronite.pl/ScholaDomineJesu)
 
 ## Miesięczne wsparcie
 

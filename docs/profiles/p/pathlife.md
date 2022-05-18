@@ -1,5 +1,5 @@
 ---
-title: pathlife | Patromierz
+title: "pathlife | Patromierz"
 permalink: /pathlife
 ---
 
@@ -7,7 +7,7 @@ permalink: /pathlife
 <script type="text/javascript" src="data/p/pathlife.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pathlife](https://patronite.pl/pathlife)
+# [Pathlife muzyka](https://patronite.pl/pathlife)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: planjanusza | Patromierz
+title: "planjanusza | Patromierz"
 permalink: /planjanusza
 ---
 
@@ -7,7 +7,7 @@ permalink: /planjanusza
 <script type="text/javascript" src="data/p/planjanusza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [planjanusza](https://patronite.pl/planjanusza)
+# [Plan Janusza](https://patronite.pl/planjanusza)
 
 ## Miesięczne wsparcie
 

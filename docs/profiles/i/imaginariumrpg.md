@@ -1,5 +1,5 @@
 ---
-title: imaginariumrpg | Patromierz
+title: "imaginariumrpg | Patromierz"
 permalink: /imaginariumrpg
 ---
 
@@ -7,7 +7,7 @@ permalink: /imaginariumrpg
 <script type="text/javascript" src="data/i/imaginariumrpg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [imaginariumrpg](https://patronite.pl/imaginariumrpg)
+# [Imaginarium RPG](https://patronite.pl/imaginariumrpg)
 
 ## Miesięczne wsparcie
 

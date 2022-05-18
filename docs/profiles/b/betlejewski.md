@@ -1,5 +1,5 @@
 ---
-title: betlejewski | Patromierz
+title: "betlejewski | Patromierz"
 permalink: /betlejewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /betlejewski
 <script type="text/javascript" src="data/b/betlejewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [betlejewski](https://patronite.pl/betlejewski)
+# [Rafał Betlejewski](https://patronite.pl/betlejewski)
 
 ## Miesięczne wsparcie
 

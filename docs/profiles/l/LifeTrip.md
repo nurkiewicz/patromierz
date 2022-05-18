@@ -1,5 +1,5 @@
 ---
-title: LifeTrip | Patromierz
+title: "LifeTrip | Patromierz"
 permalink: /LifeTrip
 ---
 
@@ -7,7 +7,7 @@ permalink: /LifeTrip
 <script type="text/javascript" src="data/l/LifeTrip.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LifeTrip](https://patronite.pl/LifeTrip)
+# [LifeTrip - Survival & Bushcraft](https://patronite.pl/LifeTrip)
 
 ## Miesięczne wsparcie
 

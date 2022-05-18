@@ -1,5 +1,5 @@
 ---
-title: u_janoszuk | Patromierz
+title: "u_janoszuk | Patromierz"
 permalink: /u_janoszuk
 ---
 
@@ -7,7 +7,7 @@ permalink: /u_janoszuk
 <script type="text/javascript" src="data/u/u_janoszuk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [u_janoszuk](https://patronite.pl/u_janoszuk)
+# [Kreatywnie U Janoszuk](https://patronite.pl/u_janoszuk)
 
 ## Miesięczne wsparcie
 

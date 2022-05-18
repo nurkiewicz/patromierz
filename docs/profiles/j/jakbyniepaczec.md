@@ -1,5 +1,5 @@
 ---
-title: jakbyniepaczec | Patromierz
+title: "jakbyniepaczec | Patromierz"
 permalink: /jakbyniepaczec
 ---
 
@@ -7,7 +7,7 @@ permalink: /jakbyniepaczec
 <script type="text/javascript" src="data/j/jakbyniepaczec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jakbyniepaczec](https://patronite.pl/jakbyniepaczec)
+# [Jakbyniepaczeć](https://patronite.pl/jakbyniepaczec)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Fundacjatheosis | Patromierz
+title: "Fundacjatheosis | Patromierz"
 permalink: /Fundacjatheosis
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacjatheosis
 <script type="text/javascript" src="data/f/Fundacjatheosis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacjatheosis](https://patronite.pl/Fundacjatheosis)
+# [Fundacja Theosis](https://patronite.pl/Fundacjatheosis)
 
 ## Miesięczne wsparcie
 

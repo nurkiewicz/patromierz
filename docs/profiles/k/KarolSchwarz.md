@@ -1,5 +1,5 @@
 ---
-title: KarolSchwarz | Patromierz
+title: "KarolSchwarz | Patromierz"
 permalink: /KarolSchwarz
 ---
 
@@ -7,7 +7,7 @@ permalink: /KarolSchwarz
 <script type="text/javascript" src="data/k/KarolSchwarz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KarolSchwarz](https://patronite.pl/KarolSchwarz)
+# [Karol Schwarz](https://patronite.pl/KarolSchwarz)
 
 ## Miesięczne wsparcie
 

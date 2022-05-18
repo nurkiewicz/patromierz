@@ -1,5 +1,5 @@
 ---
-title: rapmatters | Patromierz
+title: "rapmatters | Patromierz"
 permalink: /rapmatters
 ---
 
@@ -7,7 +7,7 @@ permalink: /rapmatters
 <script type="text/javascript" src="data/r/rapmatters.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rapmatters](https://patronite.pl/rapmatters)
+# [Rap MATTers](https://patronite.pl/rapmatters)
 
 ## Miesięczne wsparcie
 

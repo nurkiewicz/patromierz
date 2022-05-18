@@ -1,5 +1,5 @@
 ---
-title: ens | Patromierz
+title: "ens | Patromierz"
 permalink: /ens
 ---
 
@@ -7,7 +7,7 @@ permalink: /ens
 <script type="text/javascript" src="data/e/ens.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ens](https://patronite.pl/ens)
+# [Era Nowej Starości](https://patronite.pl/ens)
 
 ## Miesięczne wsparcie
 

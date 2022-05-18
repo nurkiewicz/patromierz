@@ -1,5 +1,5 @@
 ---
-title: kiedymsza | Patromierz
+title: "kiedymsza | Patromierz"
 permalink: /kiedymsza
 ---
 
@@ -7,7 +7,7 @@ permalink: /kiedymsza
 <script type="text/javascript" src="data/k/kiedymsza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kiedymsza](https://patronite.pl/kiedymsza)
+# [KiedyMsza.PL - Piotr Podstawski](https://patronite.pl/kiedymsza)
 
 ## Miesięczne wsparcie
 

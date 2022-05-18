@@ -1,5 +1,5 @@
 ---
-title: Leśnelichofotografia | Patromierz
+title: "Leśnelichofotografia | Patromierz"
 permalink: /Leśnelichofotografia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Leśnelichofotografia
 <script type="text/javascript" src="data/l/Leśnelichofotografia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Leśnelichofotografia](https://patronite.pl/Leśnelichofotografia)
+# [leśne licho fotografia](https://patronite.pl/Leśnelichofotografia)
 
 ## Miesięczne wsparcie
 

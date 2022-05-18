@@ -1,5 +1,5 @@
 ---
-title: OG | Patromierz
+title: "OG | Patromierz"
 permalink: /OG
 ---
 
@@ -7,7 +7,7 @@ permalink: /OG
 <script type="text/javascript" src="data/o/OG.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OG](https://patronite.pl/OG)
+# [Obserwator Gospodarczy](https://patronite.pl/OG)
 
 ## Miesięczne wsparcie
 

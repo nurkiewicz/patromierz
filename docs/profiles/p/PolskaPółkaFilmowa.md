@@ -1,5 +1,5 @@
 ---
-title: PolskaPółkaFilmowa | Patromierz
+title: "PolskaPółkaFilmowa | Patromierz"
 permalink: /PolskaPółkaFilmowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolskaPółkaFilmowa
 <script type="text/javascript" src="data/p/PolskaPółkaFilmowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolskaPółkaFilmowa](https://patronite.pl/PolskaPółkaFilmowa)
+# [Polska Półka Filmowa](https://patronite.pl/PolskaPółkaFilmowa)
 
 ## Miesięczne wsparcie
 

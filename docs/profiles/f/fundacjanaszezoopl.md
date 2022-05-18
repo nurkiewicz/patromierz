@@ -1,5 +1,5 @@
 ---
-title: fundacjanaszezoopl | Patromierz
+title: "fundacjanaszezoopl | Patromierz"
 permalink: /fundacjanaszezoopl
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjanaszezoopl
 <script type="text/javascript" src="data/f/fundacjanaszezoopl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjanaszezoopl](https://patronite.pl/fundacjanaszezoopl)
+# [Fundacja NaszeZoo.pl](https://patronite.pl/fundacjanaszezoopl)
 
 ## Miesięczne wsparcie
 

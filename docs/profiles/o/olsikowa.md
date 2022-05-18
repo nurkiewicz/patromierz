@@ -1,5 +1,5 @@
 ---
-title: olsikowa | Patromierz
+title: "olsikowa | Patromierz"
 permalink: /olsikowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /olsikowa
 <script type="text/javascript" src="data/o/olsikowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [olsikowa](https://patronite.pl/olsikowa)
+# [Olsikowa](https://patronite.pl/olsikowa)
 
 ## Miesięczne wsparcie
 

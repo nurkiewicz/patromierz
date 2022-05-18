@@ -1,5 +1,5 @@
 ---
-title: djsalis | Patromierz
+title: "djsalis | Patromierz"
 permalink: /djsalis
 ---
 
@@ -7,7 +7,7 @@ permalink: /djsalis
 <script type="text/javascript" src="data/d/djsalis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [djsalis](https://patronite.pl/djsalis)
+# [DJ Salis](https://patronite.pl/djsalis)
 
 ## Miesięczne wsparcie
 

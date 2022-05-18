@@ -1,5 +1,5 @@
 ---
-title: quaz | Patromierz
+title: "quaz | Patromierz"
 permalink: /quaz
 ---
 
@@ -7,7 +7,7 @@ permalink: /quaz
 <script type="text/javascript" src="data/q/quaz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [quaz](https://patronite.pl/quaz)
+# [Tomasz Drabik](https://patronite.pl/quaz)
 
 ## Miesięczne wsparcie
 

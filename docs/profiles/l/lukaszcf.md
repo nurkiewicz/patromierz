@@ -1,5 +1,5 @@
 ---
-title: lukaszcf | Patromierz
+title: "lukaszcf | Patromierz"
 permalink: /lukaszcf
 ---
 
@@ -7,7 +7,7 @@ permalink: /lukaszcf
 <script type="text/javascript" src="data/l/lukaszcf.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lukaszcf](https://patronite.pl/lukaszcf)
+# [Łukasz  Szetela ](https://patronite.pl/lukaszcf)
 
 ## Miesięczne wsparcie
 

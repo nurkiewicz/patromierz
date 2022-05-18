@@ -1,5 +1,5 @@
 ---
-title: stettin3d | Patromierz
+title: "stettin3d | Patromierz"
 permalink: /stettin3d
 ---
 
@@ -7,7 +7,7 @@ permalink: /stettin3d
 <script type="text/javascript" src="data/s/stettin3d.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stettin3d](https://patronite.pl/stettin3d)
+# [Stettin 3d](https://patronite.pl/stettin3d)
 
 ## Miesięczne wsparcie
 

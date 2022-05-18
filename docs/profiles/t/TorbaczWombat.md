@@ -1,5 +1,5 @@
 ---
-title: TorbaczWombat | Patromierz
+title: "TorbaczWombat | Patromierz"
 permalink: /TorbaczWombat
 ---
 
@@ -7,7 +7,7 @@ permalink: /TorbaczWombat
 <script type="text/javascript" src="data/t/TorbaczWombat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TorbaczWombat](https://patronite.pl/TorbaczWombat)
+# [Torbacz Wombat](https://patronite.pl/TorbaczWombat)
 
 ## Miesięczne wsparcie
 

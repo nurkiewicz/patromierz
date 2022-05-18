@@ -1,5 +1,5 @@
 ---
-title: AUTOJTL | Patromierz
+title: "AUTOJTL | Patromierz"
 permalink: /AUTOJTL
 ---
 
@@ -7,7 +7,7 @@ permalink: /AUTOJTL
 <script type="text/javascript" src="data/a/AUTOJTL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AUTOJTL](https://patronite.pl/AUTOJTL)
+# [AUTO JAK TA LALA](https://patronite.pl/AUTOJTL)
 
 ## Miesięczne wsparcie
 

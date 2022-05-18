@@ -1,5 +1,5 @@
 ---
-title: tolivetotravel | Patromierz
+title: "tolivetotravel | Patromierz"
 permalink: /tolivetotravel
 ---
 
@@ -7,7 +7,7 @@ permalink: /tolivetotravel
 <script type="text/javascript" src="data/t/tolivetotravel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tolivetotravel](https://patronite.pl/tolivetotravel)
+# [Marta Misztal](https://patronite.pl/tolivetotravel)
 
 ## Miesięczne wsparcie
 

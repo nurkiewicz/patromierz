@@ -1,5 +1,5 @@
 ---
-title: swider | Patromierz
+title: "swider | Patromierz"
 permalink: /swider
 ---
 
@@ -7,7 +7,7 @@ permalink: /swider
 <script type="text/javascript" src="data/s/swider.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swider](https://patronite.pl/swider)
+# [Wojciech Świder - ekonomia, inwestycje](https://patronite.pl/swider)
 
 ## Miesięczne wsparcie
 

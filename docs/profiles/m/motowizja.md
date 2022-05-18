@@ -1,5 +1,5 @@
 ---
-title: motowizja | Patromierz
+title: "motowizja | Patromierz"
 permalink: /motowizja
 ---
 
@@ -7,7 +7,7 @@ permalink: /motowizja
 <script type="text/javascript" src="data/m/motowizja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [motowizja](https://patronite.pl/motowizja)
+# [Motowizja ](https://patronite.pl/motowizja)
 
 ## Miesięczne wsparcie
 

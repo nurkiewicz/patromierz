@@ -1,5 +1,5 @@
 ---
-title: annamaruszeczko | Patromierz
+title: "annamaruszeczko | Patromierz"
 permalink: /annamaruszeczko
 ---
 
@@ -7,7 +7,7 @@ permalink: /annamaruszeczko
 <script type="text/javascript" src="data/a/annamaruszeczko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annamaruszeczko](https://patronite.pl/annamaruszeczko)
+# [Anna Maruszeczko](https://patronite.pl/annamaruszeczko)
 
 ## Miesięczne wsparcie
 

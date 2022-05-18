@@ -1,5 +1,5 @@
 ---
-title: zalewianka | Patromierz
+title: "zalewianka | Patromierz"
 permalink: /zalewianka
 ---
 
@@ -7,7 +7,7 @@ permalink: /zalewianka
 <script type="text/javascript" src="data/z/zalewianka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zalewianka](https://patronite.pl/zalewianka)
+# [Zalewianka](https://patronite.pl/zalewianka)
 
 ## Miesięczne wsparcie
 

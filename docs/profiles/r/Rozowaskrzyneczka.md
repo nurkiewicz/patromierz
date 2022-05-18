@@ -1,5 +1,5 @@
 ---
-title: Rozowaskrzyneczka | Patromierz
+title: "Rozowaskrzyneczka | Patromierz"
 permalink: /Rozowaskrzyneczka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Rozowaskrzyneczka
 <script type="text/javascript" src="data/r/Rozowaskrzyneczka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Rozowaskrzyneczka](https://patronite.pl/Rozowaskrzyneczka)
+# [Fundacja Różowa Skrzyneczka](https://patronite.pl/Rozowaskrzyneczka)
 
 ## Miesięczne wsparcie
 

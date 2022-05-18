@@ -1,5 +1,5 @@
 ---
-title: HarcerskaAfryka | Patromierz
+title: "HarcerskaAfryka | Patromierz"
 permalink: /HarcerskaAfryka
 ---
 
@@ -7,7 +7,7 @@ permalink: /HarcerskaAfryka
 <script type="text/javascript" src="data/h/HarcerskaAfryka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HarcerskaAfryka](https://patronite.pl/HarcerskaAfryka)
+# [Harcerska Afryka](https://patronite.pl/HarcerskaAfryka)
 
 ## Miesięczne wsparcie
 

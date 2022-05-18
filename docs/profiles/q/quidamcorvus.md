@@ -1,5 +1,5 @@
 ---
-title: quidamcorvus | Patromierz
+title: "quidamcorvus | Patromierz"
 permalink: /quidamcorvus
 ---
 
@@ -7,7 +7,7 @@ permalink: /quidamcorvus
 <script type="text/javascript" src="data/q/quidamcorvus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [quidamcorvus](https://patronite.pl/quidamcorvus)
+# [Warheim FS](https://patronite.pl/quidamcorvus)
 
 ## Miesięczne wsparcie
 

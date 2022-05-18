@@ -1,5 +1,5 @@
 ---
-title: rouler | Patromierz
+title: "rouler | Patromierz"
 permalink: /rouler
 ---
 
@@ -7,7 +7,7 @@ permalink: /rouler
 <script type="text/javascript" src="data/r/rouler.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rouler](https://patronite.pl/rouler)
+# [Rouler](https://patronite.pl/rouler)
 
 ## Miesięczne wsparcie
 

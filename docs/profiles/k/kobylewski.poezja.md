@@ -1,5 +1,5 @@
 ---
-title: kobylewski.poezja | Patromierz
+title: "kobylewski.poezja | Patromierz"
 permalink: /kobylewski.poezja
 ---
 
@@ -7,7 +7,7 @@ permalink: /kobylewski.poezja
 <script type="text/javascript" src="data/k/kobylewski.poezja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kobylewski.poezja](https://patronite.pl/kobylewski.poezja)
+# [Paweł Kobylewski](https://patronite.pl/kobylewski.poezja)
 
 ## Miesięczne wsparcie
 

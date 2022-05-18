@@ -1,5 +1,5 @@
 ---
-title: strefakolekcjonowania | Patromierz
+title: "strefakolekcjonowania | Patromierz"
 permalink: /strefakolekcjonowania
 ---
 
@@ -7,7 +7,7 @@ permalink: /strefakolekcjonowania
 <script type="text/javascript" src="data/s/strefakolekcjonowania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strefakolekcjonowania](https://patronite.pl/strefakolekcjonowania)
+# [Strefa kolekcjonowania](https://patronite.pl/strefakolekcjonowania)
 
 ## Miesięczne wsparcie
 

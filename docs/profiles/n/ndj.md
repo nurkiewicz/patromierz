@@ -1,5 +1,5 @@
 ---
-title: ndj | Patromierz
+title: "ndj | Patromierz"
 permalink: /ndj
 ---
 
@@ -7,7 +7,7 @@ permalink: /ndj
 <script type="text/javascript" src="data/n/ndj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ndj](https://patronite.pl/ndj)
+# [Należeć do Jezusa](https://patronite.pl/ndj)
 
 ## Miesięczne wsparcie
 

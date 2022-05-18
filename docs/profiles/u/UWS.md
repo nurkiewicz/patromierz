@@ -1,5 +1,5 @@
 ---
-title: UWS | Patromierz
+title: "UWS | Patromierz"
 permalink: /UWS
 ---
 
@@ -7,7 +7,7 @@ permalink: /UWS
 <script type="text/javascript" src="data/u/UWS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [UWS](https://patronite.pl/UWS)
+# [Wolny Mingau](https://patronite.pl/UWS)
 
 ## Miesięczne wsparcie
 

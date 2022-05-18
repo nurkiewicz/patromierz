@@ -1,5 +1,5 @@
 ---
-title: JanekGada | Patromierz
+title: "JanekGada | Patromierz"
 permalink: /JanekGada
 ---
 
@@ -7,7 +7,7 @@ permalink: /JanekGada
 <script type="text/javascript" src="data/j/JanekGada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JanekGada](https://patronite.pl/JanekGada)
+# [Janek Gada](https://patronite.pl/JanekGada)
 
 ## Miesięczne wsparcie
 

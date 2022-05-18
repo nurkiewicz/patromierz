@@ -1,5 +1,5 @@
 ---
-title: RODK | Patromierz
+title: "RODK | Patromierz"
 permalink: /RODK
 ---
 
@@ -7,7 +7,7 @@ permalink: /RODK
 <script type="text/javascript" src="data/r/RODK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RODK](https://patronite.pl/RODK)
+# [Wojciech Strózik](https://patronite.pl/RODK)
 
 ## Miesięczne wsparcie
 

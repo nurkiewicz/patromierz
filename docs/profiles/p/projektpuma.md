@@ -1,5 +1,5 @@
 ---
-title: projektpuma | Patromierz
+title: "projektpuma | Patromierz"
 permalink: /projektpuma
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektpuma
 <script type="text/javascript" src="data/p/projektpuma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektpuma](https://patronite.pl/projektpuma)
+# [Projekt Puma](https://patronite.pl/projektpuma)
 
 ## Miesięczne wsparcie
 

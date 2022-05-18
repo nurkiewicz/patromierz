@@ -1,5 +1,5 @@
 ---
-title: adminakademia | Patromierz
+title: "adminakademia | Patromierz"
 permalink: /adminakademia
 ---
 
@@ -7,7 +7,7 @@ permalink: /adminakademia
 <script type="text/javascript" src="data/a/adminakademia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adminakademia](https://patronite.pl/adminakademia)
+# [AdminAkademia](https://patronite.pl/adminakademia)
 
 ## Miesięczne wsparcie
 

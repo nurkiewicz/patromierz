@@ -1,5 +1,5 @@
 ---
-title: urbexhistory | Patromierz
+title: "urbexhistory | Patromierz"
 permalink: /urbexhistory
 ---
 
@@ -7,7 +7,7 @@ permalink: /urbexhistory
 <script type="text/javascript" src="data/u/urbexhistory.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [urbexhistory](https://patronite.pl/urbexhistory)
+# [Urbex History](https://patronite.pl/urbexhistory)
 
 ## Miesięczne wsparcie
 

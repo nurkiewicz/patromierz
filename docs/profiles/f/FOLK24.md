@@ -1,5 +1,5 @@
 ---
-title: FOLK24 | Patromierz
+title: "FOLK24 | Patromierz"
 permalink: /FOLK24
 ---
 
@@ -7,7 +7,7 @@ permalink: /FOLK24
 <script type="text/javascript" src="data/f/FOLK24.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FOLK24](https://patronite.pl/FOLK24)
+# [FOLK24 Magazyn](https://patronite.pl/FOLK24)
 
 ## Miesięczne wsparcie
 

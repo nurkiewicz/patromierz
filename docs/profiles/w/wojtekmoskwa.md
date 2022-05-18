@@ -1,5 +1,5 @@
 ---
-title: wojtekmoskwa | Patromierz
+title: "wojtekmoskwa | Patromierz"
 permalink: /wojtekmoskwa
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojtekmoskwa
 <script type="text/javascript" src="data/w/wojtekmoskwa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojtekmoskwa](https://patronite.pl/wojtekmoskwa)
+# [Wojtek Moskwa](https://patronite.pl/wojtekmoskwa)
 
 ## Miesięczne wsparcie
 

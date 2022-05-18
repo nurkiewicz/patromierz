@@ -1,5 +1,5 @@
 ---
-title: adventurer | Patromierz
+title: "adventurer | Patromierz"
 permalink: /adventurer
 ---
 
@@ -7,7 +7,7 @@ permalink: /adventurer
 <script type="text/javascript" src="data/a/adventurer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adventurer](https://patronite.pl/adventurer)
+# [ADVENTURER Kajetan Wilczyński](https://patronite.pl/adventurer)
 
 ## Miesięczne wsparcie
 

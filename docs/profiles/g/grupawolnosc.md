@@ -1,5 +1,5 @@
 ---
-title: grupawolnosc | Patromierz
+title: "grupawolnosc | Patromierz"
 permalink: /grupawolnosc
 ---
 
@@ -7,7 +7,7 @@ permalink: /grupawolnosc
 <script type="text/javascript" src="data/g/grupawolnosc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grupawolnosc](https://patronite.pl/grupawolnosc)
+# [Grupa Wolność](https://patronite.pl/grupawolnosc)
 
 ## Miesięczne wsparcie
 

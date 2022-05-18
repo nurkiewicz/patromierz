@@ -1,5 +1,5 @@
 ---
-title: madamemonday | Patromierz
+title: "madamemonday | Patromierz"
 permalink: /madamemonday
 ---
 
@@ -7,7 +7,7 @@ permalink: /madamemonday
 <script type="text/javascript" src="data/m/madamemonday.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [madamemonday](https://patronite.pl/madamemonday)
+# [Joanna Flis](https://patronite.pl/madamemonday)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: muzeumpc | Patromierz
+title: "muzeumpc | Patromierz"
 permalink: /muzeumpc
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzeumpc
 <script type="text/javascript" src="data/m/muzeumpc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzeumpc](https://patronite.pl/muzeumpc)
+# [Muzeum Komputerów Osobistych](https://patronite.pl/muzeumpc)
 
 ## Miesięczne wsparcie
 

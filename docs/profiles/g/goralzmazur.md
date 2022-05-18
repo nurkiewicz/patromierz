@@ -1,5 +1,5 @@
 ---
-title: goralzmazur | Patromierz
+title: "goralzmazur | Patromierz"
 permalink: /goralzmazur
 ---
 
@@ -7,7 +7,7 @@ permalink: /goralzmazur
 <script type="text/javascript" src="data/g/goralzmazur.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [goralzmazur](https://patronite.pl/goralzmazur)
+# [Góral z Mazur - Rafał Kot](https://patronite.pl/goralzmazur)
 
 ## Miesięczne wsparcie
 

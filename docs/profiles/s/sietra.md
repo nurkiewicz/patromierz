@@ -1,5 +1,5 @@
 ---
-title: sietra | Patromierz
+title: "sietra | Patromierz"
 permalink: /sietra
 ---
 
@@ -7,7 +7,7 @@ permalink: /sietra
 <script type="text/javascript" src="data/s/sietra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sietra](https://patronite.pl/sietra)
+# [Sietra](https://patronite.pl/sietra)
 
 ## Miesięczne wsparcie
 

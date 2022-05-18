@@ -1,5 +1,5 @@
 ---
-title: fikoty | Patromierz
+title: "fikoty | Patromierz"
 permalink: /fikoty
 ---
 
@@ -7,7 +7,7 @@ permalink: /fikoty
 <script type="text/javascript" src="data/f/fikoty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fikoty](https://patronite.pl/fikoty)
+# [Fikoty](https://patronite.pl/fikoty)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: artkoval | Patromierz
+title: "artkoval | Patromierz"
 permalink: /artkoval
 ---
 
@@ -7,7 +7,7 @@ permalink: /artkoval
 <script type="text/javascript" src="data/a/artkoval.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [artkoval](https://patronite.pl/artkoval)
+# [ArtKoval](https://patronite.pl/artkoval)
 
 ## Miesięczne wsparcie
 

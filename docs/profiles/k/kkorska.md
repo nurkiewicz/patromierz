@@ -1,5 +1,5 @@
 ---
-title: kkorska | Patromierz
+title: "kkorska | Patromierz"
 permalink: /kkorska
 ---
 
@@ -7,7 +7,7 @@ permalink: /kkorska
 <script type="text/javascript" src="data/k/kkorska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kkorska](https://patronite.pl/kkorska)
+# [Kinga Korska](https://patronite.pl/kkorska)
 
 ## Miesięczne wsparcie
 

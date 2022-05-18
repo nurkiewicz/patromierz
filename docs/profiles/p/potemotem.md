@@ -1,5 +1,5 @@
 ---
-title: potemotem | Patromierz
+title: "potemotem | Patromierz"
 permalink: /potemotem
 ---
 
@@ -7,7 +7,7 @@ permalink: /potemotem
 <script type="text/javascript" src="data/p/potemotem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [potemotem](https://patronite.pl/potemotem)
+# [Potem-o-tem ](https://patronite.pl/potemotem)
 
 ## Miesięczne wsparcie
 

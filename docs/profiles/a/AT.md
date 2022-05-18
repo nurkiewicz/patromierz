@@ -1,5 +1,5 @@
 ---
-title: AT | Patromierz
+title: "AT | Patromierz"
 permalink: /AT
 ---
 
@@ -7,7 +7,7 @@ permalink: /AT
 <script type="text/javascript" src="data/a/AT.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AT](https://patronite.pl/AT)
+# [Alpha Team](https://patronite.pl/AT)
 
 ## Miesięczne wsparcie
 

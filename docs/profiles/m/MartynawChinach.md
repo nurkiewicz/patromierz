@@ -1,5 +1,5 @@
 ---
-title: MartynawChinach | Patromierz
+title: "MartynawChinach | Patromierz"
 permalink: /MartynawChinach
 ---
 
@@ -7,7 +7,7 @@ permalink: /MartynawChinach
 <script type="text/javascript" src="data/m/MartynawChinach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MartynawChinach](https://patronite.pl/MartynawChinach)
+# [Martyna Krystek](https://patronite.pl/MartynawChinach)
 
 ## Miesięczne wsparcie
 

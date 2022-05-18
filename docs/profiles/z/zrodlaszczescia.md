@@ -1,5 +1,5 @@
 ---
-title: zrodlaszczescia | Patromierz
+title: "zrodlaszczescia | Patromierz"
 permalink: /zrodlaszczescia
 ---
 
@@ -7,7 +7,7 @@ permalink: /zrodlaszczescia
 <script type="text/javascript" src="data/z/zrodlaszczescia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zrodlaszczescia](https://patronite.pl/zrodlaszczescia)
+# [Źródła Szczęścia - według Chmielewskiego](https://patronite.pl/zrodlaszczescia)
 
 ## Miesięczne wsparcie
 

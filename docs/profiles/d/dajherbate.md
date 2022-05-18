@@ -1,5 +1,5 @@
 ---
-title: dajherbate | Patromierz
+title: "dajherbate | Patromierz"
 permalink: /dajherbate
 ---
 
@@ -7,7 +7,7 @@ permalink: /dajherbate
 <script type="text/javascript" src="data/d/dajherbate.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dajherbate](https://patronite.pl/dajherbate)
+# [Fundacja DAJ HERBATĘ](https://patronite.pl/dajherbate)
 
 ## Miesięczne wsparcie
 

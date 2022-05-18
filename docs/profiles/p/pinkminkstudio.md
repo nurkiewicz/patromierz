@@ -1,5 +1,5 @@
 ---
-title: pinkminkstudio | Patromierz
+title: "pinkminkstudio | Patromierz"
 permalink: /pinkminkstudio
 ---
 
@@ -7,7 +7,7 @@ permalink: /pinkminkstudio
 <script type="text/javascript" src="data/p/pinkminkstudio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pinkminkstudio](https://patronite.pl/pinkminkstudio)
+# [Kasia - PINK MINK Studio](https://patronite.pl/pinkminkstudio)
 
 ## Miesięczne wsparcie
 

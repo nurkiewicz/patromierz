@@ -1,5 +1,5 @@
 ---
-title: BikeparkKazoora | Patromierz
+title: "BikeparkKazoora | Patromierz"
 permalink: /BikeparkKazoora
 ---
 
@@ -7,7 +7,7 @@ permalink: /BikeparkKazoora
 <script type="text/javascript" src="data/b/BikeparkKazoora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BikeparkKazoora](https://patronite.pl/BikeparkKazoora)
+# [Bikepark Kazoora ](https://patronite.pl/BikeparkKazoora)
 
 ## Miesięczne wsparcie
 

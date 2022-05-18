@@ -1,5 +1,5 @@
 ---
-title: fotograficznierzeczbiorac | Patromierz
+title: "fotograficznierzeczbiorac | Patromierz"
 permalink: /fotograficznierzeczbiorac
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotograficznierzeczbiorac
 <script type="text/javascript" src="data/f/fotograficznierzeczbiorac.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotograficznierzeczbiorac](https://patronite.pl/fotograficznierzeczbiorac)
+# [Fotograficznie Rzecz Biorąc](https://patronite.pl/fotograficznierzeczbiorac)
 
 ## Miesięczne wsparcie
 

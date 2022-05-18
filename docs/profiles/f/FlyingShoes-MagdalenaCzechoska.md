@@ -1,5 +1,5 @@
 ---
-title: FlyingShoes-MagdalenaCzechoska | Patromierz
+title: "FlyingShoes-MagdalenaCzechoska | Patromierz"
 permalink: /FlyingShoes-MagdalenaCzechoska
 ---
 
@@ -7,7 +7,7 @@ permalink: /FlyingShoes-MagdalenaCzechoska
 <script type="text/javascript" src="data/f/FlyingShoes-MagdalenaCzechoska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FlyingShoes-MagdalenaCzechoska](https://patronite.pl/FlyingShoes-MagdalenaCzechoska)
+# [Magdalena Czechoska](https://patronite.pl/FlyingShoes-MagdalenaCzechoska)
 
 ## Miesięczne wsparcie
 

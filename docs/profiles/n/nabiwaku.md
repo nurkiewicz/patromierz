@@ -1,5 +1,5 @@
 ---
-title: nabiwaku | Patromierz
+title: "nabiwaku | Patromierz"
 permalink: /nabiwaku
 ---
 
@@ -7,7 +7,7 @@ permalink: /nabiwaku
 <script type="text/javascript" src="data/n/nabiwaku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nabiwaku](https://patronite.pl/nabiwaku)
+# [NaBiwaku.eu](https://patronite.pl/nabiwaku)
 
 ## Miesięczne wsparcie
 

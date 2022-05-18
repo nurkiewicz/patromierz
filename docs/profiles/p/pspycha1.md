@@ -1,5 +1,5 @@
 ---
-title: pspycha1 | Patromierz
+title: "pspycha1 | Patromierz"
 permalink: /pspycha1
 ---
 
@@ -7,7 +7,7 @@ permalink: /pspycha1
 <script type="text/javascript" src="data/p/pspycha1.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pspycha1](https://patronite.pl/pspycha1)
+# [Paulina Spychała](https://patronite.pl/pspycha1)
 
 ## Miesięczne wsparcie
 

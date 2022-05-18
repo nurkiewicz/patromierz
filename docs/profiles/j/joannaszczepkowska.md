@@ -1,5 +1,5 @@
 ---
-title: joannaszczepkowska | Patromierz
+title: "joannaszczepkowska | Patromierz"
 permalink: /joannaszczepkowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /joannaszczepkowska
 <script type="text/javascript" src="data/j/joannaszczepkowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [joannaszczepkowska](https://patronite.pl/joannaszczepkowska)
+# [Joanna Szczepkowska](https://patronite.pl/joannaszczepkowska)
 
 ## Miesięczne wsparcie
 

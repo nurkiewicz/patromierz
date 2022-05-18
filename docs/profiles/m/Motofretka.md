@@ -1,5 +1,5 @@
 ---
-title: Motofretka | Patromierz
+title: "Motofretka | Patromierz"
 permalink: /Motofretka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Motofretka
 <script type="text/javascript" src="data/m/Motofretka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Motofretka](https://patronite.pl/Motofretka)
+# [Kamila Pałka](https://patronite.pl/Motofretka)
 
 ## Miesięczne wsparcie
 

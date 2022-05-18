@@ -1,5 +1,5 @@
 ---
-title: plateau | Patromierz
+title: "plateau | Patromierz"
 permalink: /plateau
 ---
 
@@ -7,7 +7,7 @@ permalink: /plateau
 <script type="text/javascript" src="data/p/plateau.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [plateau](https://patronite.pl/plateau)
+# [PLATEAU](https://patronite.pl/plateau)
 
 ## Miesięczne wsparcie
 

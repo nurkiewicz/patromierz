@@ -1,5 +1,5 @@
 ---
-title: mikrowyprawy | Patromierz
+title: "mikrowyprawy | Patromierz"
 permalink: /mikrowyprawy
 ---
 
@@ -7,7 +7,7 @@ permalink: /mikrowyprawy
 <script type="text/javascript" src="data/m/mikrowyprawy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mikrowyprawy](https://patronite.pl/mikrowyprawy)
+# [Mikrowyprawy](https://patronite.pl/mikrowyprawy)
 
 ## Miesięczne wsparcie
 

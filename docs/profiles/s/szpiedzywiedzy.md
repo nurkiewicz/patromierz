@@ -1,5 +1,5 @@
 ---
-title: szpiedzywiedzy | Patromierz
+title: "szpiedzywiedzy | Patromierz"
 permalink: /szpiedzywiedzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /szpiedzywiedzy
 <script type="text/javascript" src="data/s/szpiedzywiedzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szpiedzywiedzy](https://patronite.pl/szpiedzywiedzy)
+# [SzpiedzyWiedzy.pl](https://patronite.pl/szpiedzywiedzy)
 
 ## Miesięczne wsparcie
 

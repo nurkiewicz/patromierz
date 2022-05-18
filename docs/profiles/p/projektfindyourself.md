@@ -1,5 +1,5 @@
 ---
-title: projektfindyourself | Patromierz
+title: "projektfindyourself | Patromierz"
 permalink: /projektfindyourself
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektfindyourself
 <script type="text/javascript" src="data/p/projektfindyourself.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektfindyourself](https://patronite.pl/projektfindyourself)
+# [Damian Sobański](https://patronite.pl/projektfindyourself)
 
 ## Miesięczne wsparcie
 

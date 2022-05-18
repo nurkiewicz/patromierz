@@ -1,5 +1,5 @@
 ---
-title: klub_muzyczny_bogart | Patromierz
+title: "klub_muzyczny_bogart | Patromierz"
 permalink: /klub_muzyczny_bogart
 ---
 
@@ -7,7 +7,7 @@ permalink: /klub_muzyczny_bogart
 <script type="text/javascript" src="data/k/klub_muzyczny_bogart.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klub_muzyczny_bogart](https://patronite.pl/klub_muzyczny_bogart)
+# [Klub Muzyczny Bogart](https://patronite.pl/klub_muzyczny_bogart)
 
 ## Miesięczne wsparcie
 

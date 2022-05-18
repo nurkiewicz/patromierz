@@ -1,5 +1,5 @@
 ---
-title: MIŁOŚNICY | Patromierz
+title: "MIŁOŚNICY | Patromierz"
 permalink: /MIŁOŚNICY
 ---
 

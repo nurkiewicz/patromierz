@@ -1,5 +1,5 @@
 ---
-title: wrocpp | Patromierz
+title: "wrocpp | Patromierz"
 permalink: /wrocpp
 ---
 
@@ -7,7 +7,7 @@ permalink: /wrocpp
 <script type="text/javascript" src="data/w/wrocpp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wrocpp](https://patronite.pl/wrocpp)
+# [Wro.cpp](https://patronite.pl/wrocpp)
 
 ## Miesięczne wsparcie
 

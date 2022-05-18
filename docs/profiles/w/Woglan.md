@@ -1,5 +1,5 @@
 ---
-title: Woglan | Patromierz
+title: "Woglan | Patromierz"
 permalink: /Woglan
 ---
 
@@ -7,7 +7,7 @@ permalink: /Woglan
 <script type="text/javascript" src="data/w/Woglan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Woglan](https://patronite.pl/Woglan)
+# [Cham i Prostak](https://patronite.pl/Woglan)
 
 ## Miesięczne wsparcie
 

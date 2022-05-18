@@ -1,5 +1,5 @@
 ---
-title: Muzeum-Zydow-Bialystok | Patromierz
+title: "Muzeum-Zydow-Bialystok | Patromierz"
 permalink: /Muzeum-Zydow-Bialystok
 ---
 
@@ -7,7 +7,7 @@ permalink: /Muzeum-Zydow-Bialystok
 <script type="text/javascript" src="data/m/Muzeum-Zydow-Bialystok.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Muzeum-Zydow-Bialystok](https://patronite.pl/Muzeum-Zydow-Bialystok)
+# [JewishBialystok.pl](https://patronite.pl/Muzeum-Zydow-Bialystok)
 
 ## Miesięczne wsparcie
 

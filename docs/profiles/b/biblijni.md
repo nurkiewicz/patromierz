@@ -1,5 +1,5 @@
 ---
-title: biblijni | Patromierz
+title: "biblijni | Patromierz"
 permalink: /biblijni
 ---
 
@@ -7,7 +7,7 @@ permalink: /biblijni
 <script type="text/javascript" src="data/b/biblijni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [biblijni](https://patronite.pl/biblijni)
+# [Biblijni.pl](https://patronite.pl/biblijni)
 
 ## Miesięczne wsparcie
 

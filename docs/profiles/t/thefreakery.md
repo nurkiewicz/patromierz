@@ -1,5 +1,5 @@
 ---
-title: thefreakery | Patromierz
+title: "thefreakery | Patromierz"
 permalink: /thefreakery
 ---
 
@@ -7,7 +7,7 @@ permalink: /thefreakery
 <script type="text/javascript" src="data/t/thefreakery.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [thefreakery](https://patronite.pl/thefreakery)
+# [Freakery](https://patronite.pl/thefreakery)
 
 ## Miesięczne wsparcie
 

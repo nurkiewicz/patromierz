@@ -1,5 +1,5 @@
 ---
-title: MarcinMizgalski | Patromierz
+title: "MarcinMizgalski | Patromierz"
 permalink: /MarcinMizgalski
 ---
 
@@ -7,7 +7,7 @@ permalink: /MarcinMizgalski
 <script type="text/javascript" src="data/m/MarcinMizgalski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MarcinMizgalski](https://patronite.pl/MarcinMizgalski)
+# [Marcin Mizgalski](https://patronite.pl/MarcinMizgalski)
 
 ## Miesięczne wsparcie
 

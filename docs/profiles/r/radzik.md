@@ -1,5 +1,5 @@
 ---
-title: radzik | Patromierz
+title: "radzik | Patromierz"
 permalink: /radzik
 ---
 
@@ -7,7 +7,7 @@ permalink: /radzik
 <script type="text/javascript" src="data/r/radzik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radzik](https://patronite.pl/radzik)
+# [Krzysztof Radzikowski](https://patronite.pl/radzik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: strajk | Patromierz
+title: "strajk | Patromierz"
 permalink: /strajk
 ---
 
@@ -7,7 +7,7 @@ permalink: /strajk
 <script type="text/javascript" src="data/s/strajk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strajk](https://patronite.pl/strajk)
+# [strajk.eu](https://patronite.pl/strajk)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: pokazwirusa | Patromierz
+title: "pokazwirusa | Patromierz"
 permalink: /pokazwirusa
 ---
 
@@ -7,7 +7,7 @@ permalink: /pokazwirusa
 <script type="text/javascript" src="data/p/pokazwirusa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pokazwirusa](https://patronite.pl/pokazwirusa)
+# [pokazwirusa.pl](https://patronite.pl/pokazwirusa)
 
 ## Miesięczne wsparcie
 

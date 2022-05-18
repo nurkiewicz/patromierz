@@ -1,5 +1,5 @@
 ---
-title: BogatyzWyboru | Patromierz
+title: "BogatyzWyboru | Patromierz"
 permalink: /BogatyzWyboru
 ---
 
@@ -7,7 +7,7 @@ permalink: /BogatyzWyboru
 <script type="text/javascript" src="data/b/BogatyzWyboru.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BogatyzWyboru](https://patronite.pl/BogatyzWyboru)
+# [Rafał Walaszek](https://patronite.pl/BogatyzWyboru)
 
 ## Miesięczne wsparcie
 

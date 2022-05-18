@@ -1,5 +1,5 @@
 ---
-title: partyzantka | Patromierz
+title: "partyzantka | Patromierz"
 permalink: /partyzantka
 ---
 
@@ -7,7 +7,7 @@ permalink: /partyzantka
 <script type="text/javascript" src="data/p/partyzantka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [partyzantka](https://patronite.pl/partyzantka)
+# [Miejska Partyzantka Ogrodnicza](https://patronite.pl/partyzantka)
 
 ## Miesięczne wsparcie
 

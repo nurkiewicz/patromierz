@@ -1,5 +1,5 @@
 ---
-title: WędkarskieDylematy | Patromierz
+title: "WędkarskieDylematy | Patromierz"
 permalink: /WędkarskieDylematy
 ---
 
@@ -7,7 +7,7 @@ permalink: /WędkarskieDylematy
 <script type="text/javascript" src="data/w/WędkarskieDylematy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WędkarskieDylematy](https://patronite.pl/WędkarskieDylematy)
+# [Wędkarskie Dylematy](https://patronite.pl/WędkarskieDylematy)
 
 ## Miesięczne wsparcie
 

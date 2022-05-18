@@ -1,5 +1,5 @@
 ---
-title: Okropny | Patromierz
+title: "Okropny | Patromierz"
 permalink: /Okropny
 ---
 

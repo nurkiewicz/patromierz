@@ -1,5 +1,5 @@
 ---
-title: hellozos | Patromierz
+title: "hellozos | Patromierz"
 permalink: /hellozos
 ---
 
@@ -7,7 +7,7 @@ permalink: /hellozos
 <script type="text/javascript" src="data/h/hellozos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hellozos](https://patronite.pl/hellozos)
+# [Hello, Zoś](https://patronite.pl/hellozos)
 
 ## Miesięczne wsparcie
 

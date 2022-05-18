@@ -1,5 +1,5 @@
 ---
-title: samoloty | Patromierz
+title: "samoloty | Patromierz"
 permalink: /samoloty
 ---
 
@@ -7,7 +7,7 @@ permalink: /samoloty
 <script type="text/javascript" src="data/s/samoloty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [samoloty](https://patronite.pl/samoloty)
+# [Samoloty](https://patronite.pl/samoloty)
 
 ## Miesięczne wsparcie
 

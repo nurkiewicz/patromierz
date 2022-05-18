@@ -1,5 +1,5 @@
 ---
-title: bartoszzalewskinieoficjalny | Patromierz
+title: "bartoszzalewskinieoficjalny | Patromierz"
 permalink: /bartoszzalewskinieoficjalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /bartoszzalewskinieoficjalny
 <script type="text/javascript" src="data/b/bartoszzalewskinieoficjalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bartoszzalewskinieoficjalny](https://patronite.pl/bartoszzalewskinieoficjalny)
+# [Bartosz Zalewski Nieoficjalny](https://patronite.pl/bartoszzalewskinieoficjalny)
 
 ## Miesięczne wsparcie
 

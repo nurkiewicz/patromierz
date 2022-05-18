@@ -1,5 +1,5 @@
 ---
-title: agarojek | Patromierz
+title: "agarojek | Patromierz"
 permalink: /agarojek
 ---
 
@@ -7,7 +7,7 @@ permalink: /agarojek
 <script type="text/javascript" src="data/a/agarojek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agarojek](https://patronite.pl/agarojek)
+# [Aga Rojek](https://patronite.pl/agarojek)
 
 ## Miesięczne wsparcie
 

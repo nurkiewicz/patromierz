@@ -1,5 +1,5 @@
 ---
-title: jerkbait | Patromierz
+title: "jerkbait | Patromierz"
 permalink: /jerkbait
 ---
 
@@ -7,7 +7,7 @@ permalink: /jerkbait
 <script type="text/javascript" src="data/j/jerkbait.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jerkbait](https://patronite.pl/jerkbait)
+# [jerkbait.pl](https://patronite.pl/jerkbait)
 
 ## Miesięczne wsparcie
 

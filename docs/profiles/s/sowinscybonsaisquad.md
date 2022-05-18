@@ -1,5 +1,5 @@
 ---
-title: sowinscybonsaisquad | Patromierz
+title: "sowinscybonsaisquad | Patromierz"
 permalink: /sowinscybonsaisquad
 ---
 
@@ -7,7 +7,7 @@ permalink: /sowinscybonsaisquad
 <script type="text/javascript" src="data/s/sowinscybonsaisquad.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sowinscybonsaisquad](https://patronite.pl/sowinscybonsaisquad)
+# [Sowińscy Bonsai Squad](https://patronite.pl/sowinscybonsaisquad)
 
 ## Miesięczne wsparcie
 

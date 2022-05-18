@@ -1,5 +1,5 @@
 ---
-title: pgprgryf | Patromierz
+title: "pgprgryf | Patromierz"
 permalink: /pgprgryf
 ---
 
@@ -7,7 +7,7 @@ permalink: /pgprgryf
 <script type="text/javascript" src="data/p/pgprgryf.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pgprgryf](https://patronite.pl/pgprgryf)
+# [Pomorska Grupa Poszukiwawczo-Ratownicza GRYF](https://patronite.pl/pgprgryf)
 
 ## Miesięczne wsparcie
 

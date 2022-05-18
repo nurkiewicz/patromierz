@@ -1,5 +1,5 @@
 ---
-title: Guzikówka | Patromierz
+title: "Guzikówka | Patromierz"
 permalink: /Guzikówka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Guzikówka
 <script type="text/javascript" src="data/g/Guzikówka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Guzikówka](https://patronite.pl/Guzikówka)
+# [Guzikówka Krosno/Koniczynka Krosno](https://patronite.pl/Guzikówka)
 
 ## Miesięczne wsparcie
 

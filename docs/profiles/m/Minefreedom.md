@@ -1,5 +1,5 @@
 ---
-title: Minefreedom | Patromierz
+title: "Minefreedom | Patromierz"
 permalink: /Minefreedom
 ---
 
@@ -7,7 +7,7 @@ permalink: /Minefreedom
 <script type="text/javascript" src="data/m/Minefreedom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Minefreedom](https://patronite.pl/Minefreedom)
+# [Eryk Skrzypczak](https://patronite.pl/Minefreedom)
 
 ## Miesięczne wsparcie
 

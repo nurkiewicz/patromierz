@@ -1,5 +1,5 @@
 ---
-title: ARTernatywa | Patromierz
+title: "ARTernatywa | Patromierz"
 permalink: /ARTernatywa
 ---
 
@@ -7,7 +7,7 @@ permalink: /ARTernatywa
 <script type="text/javascript" src="data/a/ARTernatywa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ARTernatywa](https://patronite.pl/ARTernatywa)
+# [Fundacja ARTernatywa](https://patronite.pl/ARTernatywa)
 
 ## Miesięczne wsparcie
 

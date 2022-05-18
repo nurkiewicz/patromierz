@@ -1,5 +1,5 @@
 ---
-title: fitontrip | Patromierz
+title: "fitontrip | Patromierz"
 permalink: /fitontrip
 ---
 
@@ -7,7 +7,7 @@ permalink: /fitontrip
 <script type="text/javascript" src="data/f/fitontrip.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fitontrip](https://patronite.pl/fitontrip)
+# [Jakub Kotuła](https://patronite.pl/fitontrip)
 
 ## Miesięczne wsparcie
 

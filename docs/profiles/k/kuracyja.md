@@ -1,5 +1,5 @@
 ---
-title: kuracyja | Patromierz
+title: "kuracyja | Patromierz"
 permalink: /kuracyja
 ---
 
@@ -7,7 +7,7 @@ permalink: /kuracyja
 <script type="text/javascript" src="data/k/kuracyja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kuracyja](https://patronite.pl/kuracyja)
+# [Kuracyja](https://patronite.pl/kuracyja)
 
 ## Miesięczne wsparcie
 

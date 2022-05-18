@@ -1,5 +1,5 @@
 ---
-title: poszlakontra | Patromierz
+title: "poszlakontra | Patromierz"
 permalink: /poszlakontra
 ---
 
@@ -7,7 +7,7 @@ permalink: /poszlakontra
 <script type="text/javascript" src="data/p/poszlakontra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poszlakontra](https://patronite.pl/poszlakontra)
+# [Poszła Kontra](https://patronite.pl/poszlakontra)
 
 ## Miesięczne wsparcie
 

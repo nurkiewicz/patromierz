@@ -1,5 +1,5 @@
 ---
-title: kajaziomek | Patromierz
+title: "kajaziomek | Patromierz"
 permalink: /kajaziomek
 ---
 
@@ -7,7 +7,7 @@ permalink: /kajaziomek
 <script type="text/javascript" src="data/k/kajaziomek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kajaziomek](https://patronite.pl/kajaziomek)
+# [Kaja Ziomek](https://patronite.pl/kajaziomek)
 
 ## Miesięczne wsparcie
 

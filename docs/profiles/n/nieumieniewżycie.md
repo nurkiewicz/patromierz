@@ -1,5 +1,5 @@
 ---
-title: nieumieniewżycie | Patromierz
+title: "nieumieniewżycie | Patromierz"
 permalink: /nieumieniewżycie
 ---
 
@@ -7,7 +7,7 @@ permalink: /nieumieniewżycie
 <script type="text/javascript" src="data/n/nieumieniewżycie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nieumieniewżycie](https://patronite.pl/nieumieniewżycie)
+# [Nieumienie w życie](https://patronite.pl/nieumieniewżycie)
 
 ## Miesięczne wsparcie
 

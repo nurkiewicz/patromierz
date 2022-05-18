@@ -1,5 +1,5 @@
 ---
-title: Fundacja-Wlaczeni | Patromierz
+title: "Fundacja-Wlaczeni | Patromierz"
 permalink: /Fundacja-Wlaczeni
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja-Wlaczeni
 <script type="text/javascript" src="data/f/Fundacja-Wlaczeni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja-Wlaczeni](https://patronite.pl/Fundacja-Wlaczeni)
+# [Fundacja Włączeni](https://patronite.pl/Fundacja-Wlaczeni)
 
 ## Miesięczne wsparcie
 

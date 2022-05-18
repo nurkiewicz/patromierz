@@ -1,5 +1,5 @@
 ---
-title: strefachanasa | Patromierz
+title: "strefachanasa | Patromierz"
 permalink: /strefachanasa
 ---
 
@@ -7,7 +7,7 @@ permalink: /strefachanasa
 <script type="text/javascript" src="data/s/strefachanasa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strefachanasa](https://patronite.pl/strefachanasa)
+# [Strefa Chanasa](https://patronite.pl/strefachanasa)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Elektronika_Układy_FPGA | Patromierz
+title: "Elektronika_Układy_FPGA | Patromierz"
 permalink: /Elektronika_Układy_FPGA
 ---
 
@@ -7,7 +7,7 @@ permalink: /Elektronika_Układy_FPGA
 <script type="text/javascript" src="data/e/Elektronika_Układy_FPGA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Elektronika_Układy_FPGA](https://patronite.pl/Elektronika_Układy_FPGA)
+# [Elektronika, Układy FPGA](https://patronite.pl/Elektronika_Układy_FPGA)
 
 ## Miesięczne wsparcie
 

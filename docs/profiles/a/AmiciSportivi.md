@@ -1,5 +1,5 @@
 ---
-title: AmiciSportivi | Patromierz
+title: "AmiciSportivi | Patromierz"
 permalink: /AmiciSportivi
 ---
 
@@ -7,7 +7,7 @@ permalink: /AmiciSportivi
 <script type="text/javascript" src="data/a/AmiciSportivi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AmiciSportivi](https://patronite.pl/AmiciSportivi)
+# [Amici Sportivi](https://patronite.pl/AmiciSportivi)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: alphadogz | Patromierz
+title: "alphadogz | Patromierz"
 permalink: /alphadogz
 ---
 
@@ -7,7 +7,7 @@ permalink: /alphadogz
 <script type="text/javascript" src="data/a/alphadogz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alphadogz](https://patronite.pl/alphadogz)
+# [Alpha Dogz Monika Rakowska](https://patronite.pl/alphadogz)
 
 ## Miesięczne wsparcie
 

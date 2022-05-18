@@ -1,5 +1,5 @@
 ---
-title: fundacjamm | Patromierz
+title: "fundacjamm | Patromierz"
 permalink: /fundacjamm
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjamm
 <script type="text/javascript" src="data/f/fundacjamm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjamm](https://patronite.pl/fundacjamm)
+# [Fundacja Maria Magdalena ](https://patronite.pl/fundacjamm)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: waginybezspiny | Patromierz
+title: "waginybezspiny | Patromierz"
 permalink: /waginybezspiny
 ---
 
@@ -7,7 +7,7 @@ permalink: /waginybezspiny
 <script type="text/javascript" src="data/w/waginybezspiny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [waginybezspiny](https://patronite.pl/waginybezspiny)
+# [Waginy Bez Spiny](https://patronite.pl/waginybezspiny)
 
 ## Miesięczne wsparcie
 

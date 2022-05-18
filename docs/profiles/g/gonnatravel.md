@@ -1,5 +1,5 @@
 ---
-title: gonnatravel | Patromierz
+title: "gonnatravel | Patromierz"
 permalink: /gonnatravel
 ---
 
@@ -7,7 +7,7 @@ permalink: /gonnatravel
 <script type="text/javascript" src="data/g/gonnatravel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gonnatravel](https://patronite.pl/gonnatravel)
+# [Gonna Travel](https://patronite.pl/gonnatravel)
 
 ## Miesięczne wsparcie
 

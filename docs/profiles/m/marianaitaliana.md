@@ -1,5 +1,5 @@
 ---
-title: marianaitaliana | Patromierz
+title: "marianaitaliana | Patromierz"
 permalink: /marianaitaliana
 ---
 
@@ -7,7 +7,7 @@ permalink: /marianaitaliana
 <script type="text/javascript" src="data/m/marianaitaliana.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marianaitaliana](https://patronite.pl/marianaitaliana)
+# [Marianaitaliana](https://patronite.pl/marianaitaliana)
 
 ## Miesięczne wsparcie
 

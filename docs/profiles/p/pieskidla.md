@@ -1,5 +1,5 @@
 ---
-title: pieskidla | Patromierz
+title: "pieskidla | Patromierz"
 permalink: /pieskidla
 ---
 
@@ -7,7 +7,7 @@ permalink: /pieskidla
 <script type="text/javascript" src="data/p/pieskidla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pieskidla](https://patronite.pl/pieskidla)
+# [PieskiDla](https://patronite.pl/pieskidla)
 
 ## Miesięczne wsparcie
 

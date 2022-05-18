@@ -1,5 +1,5 @@
 ---
-title: Kucykowo | Patromierz
+title: "Kucykowo | Patromierz"
 permalink: /Kucykowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kucykowo
 <script type="text/javascript" src="data/k/Kucykowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kucykowo](https://patronite.pl/Kucykowo)
+# [Fundacja Azyl dla Koni Kucykowo](https://patronite.pl/Kucykowo)
 
 ## Miesięczne wsparcie
 

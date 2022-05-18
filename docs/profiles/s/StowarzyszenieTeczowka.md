@@ -1,5 +1,5 @@
 ---
-title: StowarzyszenieTeczowka | Patromierz
+title: "StowarzyszenieTeczowka | Patromierz"
 permalink: /StowarzyszenieTeczowka
 ---
 
@@ -7,7 +7,7 @@ permalink: /StowarzyszenieTeczowka
 <script type="text/javascript" src="data/s/StowarzyszenieTeczowka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StowarzyszenieTeczowka](https://patronite.pl/StowarzyszenieTeczowka)
+# [Stowarzyszenie Tęczówka](https://patronite.pl/StowarzyszenieTeczowka)
 
 ## Miesięczne wsparcie
 

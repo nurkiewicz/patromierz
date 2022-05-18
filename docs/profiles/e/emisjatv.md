@@ -1,5 +1,5 @@
 ---
-title: emisjatv | Patromierz
+title: "emisjatv | Patromierz"
 permalink: /emisjatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /emisjatv
 <script type="text/javascript" src="data/e/emisjatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [emisjatv](https://patronite.pl/emisjatv)
+# [eMisjaTv](https://patronite.pl/emisjatv)
 
 ## Miesięczne wsparcie
 

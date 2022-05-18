@@ -1,5 +1,5 @@
 ---
-title: konopny_recenzent | Patromierz
+title: "konopny_recenzent | Patromierz"
 permalink: /konopny_recenzent
 ---
 

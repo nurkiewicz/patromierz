@@ -1,5 +1,5 @@
 ---
-title: RetroNostalgie | Patromierz
+title: "RetroNostalgie | Patromierz"
 permalink: /RetroNostalgie
 ---
 
@@ -7,7 +7,7 @@ permalink: /RetroNostalgie
 <script type="text/javascript" src="data/r/RetroNostalgie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RetroNostalgie](https://patronite.pl/RetroNostalgie)
+# [Retro Nostalgie](https://patronite.pl/RetroNostalgie)
 
 ## Miesięczne wsparcie
 

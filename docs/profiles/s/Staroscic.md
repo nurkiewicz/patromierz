@@ -1,5 +1,5 @@
 ---
-title: Staroscic | Patromierz
+title: "Staroscic | Patromierz"
 permalink: /Staroscic
 ---
 
@@ -7,7 +7,7 @@ permalink: /Staroscic
 <script type="text/javascript" src="data/s/Staroscic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Staroscic](https://patronite.pl/Staroscic)
+# [Piotr Starościc](https://patronite.pl/Staroscic)
 
 ## Miesięczne wsparcie
 

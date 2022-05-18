@@ -1,5 +1,5 @@
 ---
-title: ZabytkiNieba | Patromierz
+title: "ZabytkiNieba | Patromierz"
 permalink: /ZabytkiNieba
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZabytkiNieba
 <script type="text/javascript" src="data/z/ZabytkiNieba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZabytkiNieba](https://patronite.pl/ZabytkiNieba)
+# [Zabytki Nieba](https://patronite.pl/ZabytkiNieba)
 
 ## Miesięczne wsparcie
 

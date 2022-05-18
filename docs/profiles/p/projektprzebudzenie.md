@@ -1,5 +1,5 @@
 ---
-title: projektprzebudzenie | Patromierz
+title: "projektprzebudzenie | Patromierz"
 permalink: /projektprzebudzenie
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektprzebudzenie
 <script type="text/javascript" src="data/p/projektprzebudzenie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektprzebudzenie](https://patronite.pl/projektprzebudzenie)
+# [ Projekt Przebudzenie](https://patronite.pl/projektprzebudzenie)
 
 ## Miesięczne wsparcie
 

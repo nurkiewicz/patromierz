@@ -1,5 +1,5 @@
 ---
-title: apmtlimanowa | Patromierz
+title: "apmtlimanowa | Patromierz"
 permalink: /apmtlimanowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /apmtlimanowa
 <script type="text/javascript" src="data/a/apmtlimanowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [apmtlimanowa](https://patronite.pl/apmtlimanowa)
+# [FUNDACJA AKADEMIA PIŁKARSKA MAM TALENT LIMANOWA](https://patronite.pl/apmtlimanowa)
 
 ## Miesięczne wsparcie
 

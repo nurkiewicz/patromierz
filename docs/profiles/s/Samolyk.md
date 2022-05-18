@@ -1,5 +1,5 @@
 ---
-title: Samolyk | Patromierz
+title: "Samolyk | Patromierz"
 permalink: /Samolyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /Samolyk
 <script type="text/javascript" src="data/s/Samolyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Samolyk](https://patronite.pl/Samolyk)
+# [Tomasz Samołyk](https://patronite.pl/Samolyk)
 
 ## Miesięczne wsparcie
 

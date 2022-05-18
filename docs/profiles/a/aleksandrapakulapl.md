@@ -1,5 +1,5 @@
 ---
-title: aleksandrapakulapl | Patromierz
+title: "aleksandrapakulapl | Patromierz"
 permalink: /aleksandrapakulapl
 ---
 
@@ -7,7 +7,7 @@ permalink: /aleksandrapakulapl
 <script type="text/javascript" src="data/a/aleksandrapakulapl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aleksandrapakulapl](https://patronite.pl/aleksandrapakulapl)
+# [Aleksandra Pakuła](https://patronite.pl/aleksandrapakulapl)
 
 ## Miesięczne wsparcie
 

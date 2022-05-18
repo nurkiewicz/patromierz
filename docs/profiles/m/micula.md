@@ -1,5 +1,5 @@
 ---
-title: micula | Patromierz
+title: "micula | Patromierz"
 permalink: /micula
 ---
 
@@ -7,7 +7,7 @@ permalink: /micula
 <script type="text/javascript" src="data/m/micula.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [micula](https://patronite.pl/micula)
+# [MICUŁA](https://patronite.pl/micula)
 
 ## Miesięczne wsparcie
 

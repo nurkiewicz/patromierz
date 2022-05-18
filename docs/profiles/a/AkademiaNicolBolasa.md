@@ -1,5 +1,5 @@
 ---
-title: AkademiaNicolBolasa | Patromierz
+title: "AkademiaNicolBolasa | Patromierz"
 permalink: /AkademiaNicolBolasa
 ---
 
@@ -7,7 +7,7 @@ permalink: /AkademiaNicolBolasa
 <script type="text/javascript" src="data/a/AkademiaNicolBolasa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AkademiaNicolBolasa](https://patronite.pl/AkademiaNicolBolasa)
+# [Akademia Nicol Bolasa](https://patronite.pl/AkademiaNicolBolasa)
 
 ## Miesięczne wsparcie
 

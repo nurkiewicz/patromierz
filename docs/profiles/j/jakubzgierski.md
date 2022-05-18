@@ -1,5 +1,5 @@
 ---
-title: jakubzgierski | Patromierz
+title: "jakubzgierski | Patromierz"
 permalink: /jakubzgierski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jakubzgierski
 <script type="text/javascript" src="data/j/jakubzgierski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jakubzgierski](https://patronite.pl/jakubzgierski)
+# [Jakub Zgierski](https://patronite.pl/jakubzgierski)
 
 ## Miesięczne wsparcie
 

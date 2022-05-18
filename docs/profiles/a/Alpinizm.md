@@ -1,5 +1,5 @@
 ---
-title: Alpinizm | Patromierz
+title: "Alpinizm | Patromierz"
 permalink: /Alpinizm
 ---
 
@@ -7,7 +7,7 @@ permalink: /Alpinizm
 <script type="text/javascript" src="data/a/Alpinizm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Alpinizm](https://patronite.pl/Alpinizm)
+# [Bartek Wnęk](https://patronite.pl/Alpinizm)
 
 ## Miesięczne wsparcie
 

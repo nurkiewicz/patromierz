@@ -1,5 +1,5 @@
 ---
-title: weterynarztezczlowiek | Patromierz
+title: "weterynarztezczlowiek | Patromierz"
 permalink: /weterynarztezczlowiek
 ---
 
@@ -7,7 +7,7 @@ permalink: /weterynarztezczlowiek
 <script type="text/javascript" src="data/w/weterynarztezczlowiek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [weterynarztezczlowiek](https://patronite.pl/weterynarztezczlowiek)
+# [weterynarz.tez.czlowiek - M.Firlej-Oliwa](https://patronite.pl/weterynarztezczlowiek)
 
 ## Miesięczne wsparcie
 

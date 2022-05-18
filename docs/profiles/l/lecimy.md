@@ -1,5 +1,5 @@
 ---
-title: lecimy | Patromierz
+title: "lecimy | Patromierz"
 permalink: /lecimy
 ---
 
@@ -7,7 +7,7 @@ permalink: /lecimy
 <script type="text/javascript" src="data/l/lecimy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lecimy](https://patronite.pl/lecimy)
+# [Lecimy.org](https://patronite.pl/lecimy)
 
 ## Miesięczne wsparcie
 

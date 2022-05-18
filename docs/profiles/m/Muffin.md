@@ -1,5 +1,5 @@
 ---
-title: Muffin | Patromierz
+title: "Muffin | Patromierz"
 permalink: /Muffin
 ---
 

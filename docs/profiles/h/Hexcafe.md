@@ -1,5 +1,5 @@
 ---
-title: Hexcafe | Patromierz
+title: "Hexcafe | Patromierz"
 permalink: /Hexcafe
 ---
 
@@ -7,7 +7,7 @@ permalink: /Hexcafe
 <script type="text/javascript" src="data/h/Hexcafe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Hexcafe](https://patronite.pl/Hexcafe)
+# [Hex Cafe](https://patronite.pl/Hexcafe)
 
 ## Miesięczne wsparcie
 

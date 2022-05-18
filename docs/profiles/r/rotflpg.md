@@ -1,5 +1,5 @@
 ---
-title: rotflpg | Patromierz
+title: "rotflpg | Patromierz"
 permalink: /rotflpg
 ---
 
@@ -7,7 +7,7 @@ permalink: /rotflpg
 <script type="text/javascript" src="data/r/rotflpg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rotflpg](https://patronite.pl/rotflpg)
+# [Rotfl Playing Games - RPGowy komiks internetowy](https://patronite.pl/rotflpg)
 
 ## Miesięczne wsparcie
 

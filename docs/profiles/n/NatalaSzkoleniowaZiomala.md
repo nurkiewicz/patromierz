@@ -1,5 +1,5 @@
 ---
-title: NatalaSzkoleniowaZiomala | Patromierz
+title: "NatalaSzkoleniowaZiomala | Patromierz"
 permalink: /NatalaSzkoleniowaZiomala
 ---
 
@@ -7,7 +7,7 @@ permalink: /NatalaSzkoleniowaZiomala
 <script type="text/javascript" src="data/n/NatalaSzkoleniowaZiomala.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NatalaSzkoleniowaZiomala](https://patronite.pl/NatalaSzkoleniowaZiomala)
+# [Natala Szkoleniowa Ziomala](https://patronite.pl/NatalaSzkoleniowaZiomala)
 
 ## Miesięczne wsparcie
 

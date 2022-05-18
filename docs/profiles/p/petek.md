@@ -1,5 +1,5 @@
 ---
-title: petek | Patromierz
+title: "petek | Patromierz"
 permalink: /petek
 ---
 
@@ -7,7 +7,7 @@ permalink: /petek
 <script type="text/javascript" src="data/p/petek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [petek](https://patronite.pl/petek)
+# [Krzysztof Petek](https://patronite.pl/petek)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: anizelka | Patromierz
+title: "anizelka | Patromierz"
 permalink: /anizelka
 ---
 
@@ -7,7 +7,7 @@ permalink: /anizelka
 <script type="text/javascript" src="data/a/anizelka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anizelka](https://patronite.pl/anizelka)
+# [Ani Żelka](https://patronite.pl/anizelka)
 
 ## Miesięczne wsparcie
 

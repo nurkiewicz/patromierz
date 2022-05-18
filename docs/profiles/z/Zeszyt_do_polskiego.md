@@ -1,5 +1,5 @@
 ---
-title: Zeszyt_do_polskiego | Patromierz
+title: "Zeszyt_do_polskiego | Patromierz"
 permalink: /Zeszyt_do_polskiego
 ---
 
@@ -7,7 +7,7 @@ permalink: /Zeszyt_do_polskiego
 <script type="text/javascript" src="data/z/Zeszyt_do_polskiego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Zeszyt_do_polskiego](https://patronite.pl/Zeszyt_do_polskiego)
+# [Zeszyt do polskiego](https://patronite.pl/Zeszyt_do_polskiego)
 
 ## Miesięczne wsparcie
 

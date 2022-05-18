@@ -1,5 +1,5 @@
 ---
-title: nastykusieci | Patromierz
+title: "nastykusieci | Patromierz"
 permalink: /nastykusieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /nastykusieci
 <script type="text/javascript" src="data/n/nastykusieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nastykusieci](https://patronite.pl/nastykusieci)
+# [Na Styku Sieci](https://patronite.pl/nastykusieci)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: MilenaWisniewskaArt | Patromierz
+title: "MilenaWisniewskaArt | Patromierz"
 permalink: /MilenaWisniewskaArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /MilenaWisniewskaArt
 <script type="text/javascript" src="data/m/MilenaWisniewskaArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MilenaWisniewskaArt](https://patronite.pl/MilenaWisniewskaArt)
+# [Milena Wiśniewska](https://patronite.pl/MilenaWisniewskaArt)
 
 ## Miesięczne wsparcie
 

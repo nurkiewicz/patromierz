@@ -1,5 +1,5 @@
 ---
-title: naislandii | Patromierz
+title: "naislandii | Patromierz"
 permalink: /naislandii
 ---
 
@@ -7,7 +7,7 @@ permalink: /naislandii
 <script type="text/javascript" src="data/n/naislandii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naislandii](https://patronite.pl/naislandii)
+# [Ewelina Gąciarska](https://patronite.pl/naislandii)
 
 ## Miesięczne wsparcie
 

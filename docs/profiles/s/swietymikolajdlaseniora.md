@@ -1,5 +1,5 @@
 ---
-title: swietymikolajdlaseniora | Patromierz
+title: "swietymikolajdlaseniora | Patromierz"
 permalink: /swietymikolajdlaseniora
 ---
 
@@ -7,7 +7,7 @@ permalink: /swietymikolajdlaseniora
 <script type="text/javascript" src="data/s/swietymikolajdlaseniora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swietymikolajdlaseniora](https://patronite.pl/swietymikolajdlaseniora)
+# [Święty Mikołaj dla Seniora ](https://patronite.pl/swietymikolajdlaseniora)
 
 ## Miesięczne wsparcie
 

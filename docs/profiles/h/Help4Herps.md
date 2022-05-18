@@ -1,5 +1,5 @@
 ---
-title: Help4Herps | Patromierz
+title: "Help4Herps | Patromierz"
 permalink: /Help4Herps
 ---
 
@@ -7,7 +7,7 @@ permalink: /Help4Herps
 <script type="text/javascript" src="data/h/Help4Herps.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Help4Herps](https://patronite.pl/Help4Herps)
+# [Fundacja Help4Herps](https://patronite.pl/Help4Herps)
 
 ## Miesięczne wsparcie
 

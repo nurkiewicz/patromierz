@@ -1,5 +1,5 @@
 ---
-title: projektmuzyka | Patromierz
+title: "projektmuzyka | Patromierz"
 permalink: /projektmuzyka
 ---
 
@@ -7,7 +7,7 @@ permalink: /projektmuzyka
 <script type="text/javascript" src="data/p/projektmuzyka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projektmuzyka](https://patronite.pl/projektmuzyka)
+# [Projekt Muzyka](https://patronite.pl/projektmuzyka)
 
 ## Miesięczne wsparcie
 

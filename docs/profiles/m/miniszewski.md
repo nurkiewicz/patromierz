@@ -1,5 +1,5 @@
 ---
-title: miniszewski | Patromierz
+title: "miniszewski | Patromierz"
 permalink: /miniszewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /miniszewski
 <script type="text/javascript" src="data/m/miniszewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [miniszewski](https://patronite.pl/miniszewski)
+# [Mirosław Miniszewski](https://patronite.pl/miniszewski)
 
 ## Miesięczne wsparcie
 

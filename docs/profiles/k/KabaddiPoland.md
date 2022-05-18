@@ -1,5 +1,5 @@
 ---
-title: KabaddiPoland | Patromierz
+title: "KabaddiPoland | Patromierz"
 permalink: /KabaddiPoland
 ---
 
@@ -7,7 +7,7 @@ permalink: /KabaddiPoland
 <script type="text/javascript" src="data/k/KabaddiPoland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KabaddiPoland](https://patronite.pl/KabaddiPoland)
+# [Polska Federacja Kabaddi](https://patronite.pl/KabaddiPoland)
 
 ## Miesięczne wsparcie
 

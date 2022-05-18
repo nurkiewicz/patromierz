@@ -1,5 +1,5 @@
 ---
-title: MaciejSwiety | Patromierz
+title: "MaciejSwiety | Patromierz"
 permalink: /MaciejSwiety
 ---
 
@@ -7,7 +7,7 @@ permalink: /MaciejSwiety
 <script type="text/javascript" src="data/m/MaciejSwiety.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MaciejSwiety](https://patronite.pl/MaciejSwiety)
+# [Maciej  "Święty"Jankowski](https://patronite.pl/MaciejSwiety)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: UC1k7SfaHLkx2OYQOsLzyCQA | Patromierz
+title: "UC1k7SfaHLkx2OYQOsLzyCQA | Patromierz"
 permalink: /UC1k7SfaHLkx2OYQOsLzyCQA
 ---
 
@@ -7,7 +7,7 @@ permalink: /UC1k7SfaHLkx2OYQOsLzyCQA
 <script type="text/javascript" src="data/u/UC1k7SfaHLkx2OYQOsLzyCQA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [UC1k7SfaHLkx2OYQOsLzyCQA](https://patronite.pl/UC1k7SfaHLkx2OYQOsLzyCQA)
+# [SPOWIEDŹ U HERETYKA](https://patronite.pl/UC1k7SfaHLkx2OYQOsLzyCQA)
 
 ## Miesięczne wsparcie
 

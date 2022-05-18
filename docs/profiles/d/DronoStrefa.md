@@ -1,5 +1,5 @@
 ---
-title: DronoStrefa | Patromierz
+title: "DronoStrefa | Patromierz"
 permalink: /DronoStrefa
 ---
 
@@ -7,7 +7,7 @@ permalink: /DronoStrefa
 <script type="text/javascript" src="data/d/DronoStrefa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DronoStrefa](https://patronite.pl/DronoStrefa)
+# [Drono Strefa](https://patronite.pl/DronoStrefa)
 
 ## Miesięczne wsparcie
 

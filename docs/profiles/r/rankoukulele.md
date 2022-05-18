@@ -1,5 +1,5 @@
 ---
-title: rankoukulele | Patromierz
+title: "rankoukulele | Patromierz"
 permalink: /rankoukulele
 ---
 
@@ -7,7 +7,7 @@ permalink: /rankoukulele
 <script type="text/javascript" src="data/r/rankoukulele.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rankoukulele](https://patronite.pl/rankoukulele)
+# [Ranko Ukulele](https://patronite.pl/rankoukulele)
 
 ## Miesięczne wsparcie
 

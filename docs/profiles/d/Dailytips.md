@@ -1,5 +1,5 @@
 ---
-title: Dailytips | Patromierz
+title: "Dailytips | Patromierz"
 permalink: /Dailytips
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dailytips
 <script type="text/javascript" src="data/d/Dailytips.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dailytips](https://patronite.pl/Dailytips)
+# [Dailytips.pl](https://patronite.pl/Dailytips)
 
 ## Miesięczne wsparcie
 

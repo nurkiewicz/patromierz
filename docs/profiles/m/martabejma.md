@@ -1,5 +1,5 @@
 ---
-title: martabejma | Patromierz
+title: "martabejma | Patromierz"
 permalink: /martabejma
 ---
 
@@ -7,7 +7,7 @@ permalink: /martabejma
 <script type="text/javascript" src="data/m/martabejma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [martabejma](https://patronite.pl/martabejma)
+# [Marta Bejma](https://patronite.pl/martabejma)
 
 ## Miesięczne wsparcie
 

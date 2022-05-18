@@ -1,5 +1,5 @@
 ---
-title: glowarzadzi | Patromierz
+title: "glowarzadzi | Patromierz"
 permalink: /glowarzadzi
 ---
 
@@ -7,7 +7,7 @@ permalink: /glowarzadzi
 <script type="text/javascript" src="data/g/glowarzadzi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [glowarzadzi](https://patronite.pl/glowarzadzi)
+# [Grzegorz Więcław | Głowa Rządzi](https://patronite.pl/glowarzadzi)
 
 ## Miesięczne wsparcie
 

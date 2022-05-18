@@ -1,5 +1,5 @@
 ---
-title: dpapierska | Patromierz
+title: "dpapierska | Patromierz"
 permalink: /dpapierska
 ---
 
@@ -7,7 +7,7 @@ permalink: /dpapierska
 <script type="text/javascript" src="data/d/dpapierska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dpapierska](https://patronite.pl/dpapierska)
+# [Papierki || Sketchbook](https://patronite.pl/dpapierska)
 
 ## Miesięczne wsparcie
 

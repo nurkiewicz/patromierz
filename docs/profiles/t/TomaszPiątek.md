@@ -1,5 +1,5 @@
 ---
-title: TomaszPiątek | Patromierz
+title: "TomaszPiątek | Patromierz"
 permalink: /TomaszPiątek
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszPiątek
 <script type="text/javascript" src="data/t/TomaszPiątek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszPiątek](https://patronite.pl/TomaszPiątek)
+# [Tomasz Piątek](https://patronite.pl/TomaszPiątek)
 
 ## Miesięczne wsparcie
 

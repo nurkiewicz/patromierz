@@ -1,5 +1,5 @@
 ---
-title: lysyzmarvela | Patromierz
+title: "lysyzmarvela | Patromierz"
 permalink: /lysyzmarvela
 ---
 
@@ -7,7 +7,7 @@ permalink: /lysyzmarvela
 <script type="text/javascript" src="data/l/lysyzmarvela.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lysyzmarvela](https://patronite.pl/lysyzmarvela)
+# [Łysy z Marvela](https://patronite.pl/lysyzmarvela)
 
 ## Miesięczne wsparcie
 

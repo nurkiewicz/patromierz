@@ -1,5 +1,5 @@
 ---
-title: KuchniaMartySawickiej | Patromierz
+title: "KuchniaMartySawickiej | Patromierz"
 permalink: /KuchniaMartySawickiej
 ---
 
@@ -7,7 +7,7 @@ permalink: /KuchniaMartySawickiej
 <script type="text/javascript" src="data/k/KuchniaMartySawickiej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KuchniaMartySawickiej](https://patronite.pl/KuchniaMartySawickiej)
+# [Kuchnia dla ubogich Marty Sawickiej](https://patronite.pl/KuchniaMartySawickiej)
 
 ## Miesięczne wsparcie
 

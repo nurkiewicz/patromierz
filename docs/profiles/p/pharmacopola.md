@@ -1,5 +1,5 @@
 ---
-title: pharmacopola | Patromierz
+title: "pharmacopola | Patromierz"
 permalink: /pharmacopola
 ---
 
@@ -7,7 +7,7 @@ permalink: /pharmacopola
 <script type="text/javascript" src="data/p/pharmacopola.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pharmacopola](https://patronite.pl/pharmacopola)
+# [Pharmacopola](https://patronite.pl/pharmacopola)
 
 ## Miesięczne wsparcie
 

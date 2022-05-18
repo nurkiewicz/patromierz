@@ -1,5 +1,5 @@
 ---
-title: koduj24 | Patromierz
+title: "koduj24 | Patromierz"
 permalink: /koduj24
 ---
 
@@ -7,7 +7,7 @@ permalink: /koduj24
 <script type="text/javascript" src="data/k/koduj24.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koduj24](https://patronite.pl/koduj24)
+# [koduj24.pl](https://patronite.pl/koduj24)
 
 ## Miesięczne wsparcie
 

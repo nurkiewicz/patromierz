@@ -1,5 +1,5 @@
 ---
-title: SowiaDusza | Patromierz
+title: "SowiaDusza | Patromierz"
 permalink: /SowiaDusza
 ---
 
@@ -7,7 +7,7 @@ permalink: /SowiaDusza
 <script type="text/javascript" src="data/s/SowiaDusza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SowiaDusza](https://patronite.pl/SowiaDusza)
+# [Sowia Dusza](https://patronite.pl/SowiaDusza)
 
 ## Miesięczne wsparcie
 

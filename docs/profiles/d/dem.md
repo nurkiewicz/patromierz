@@ -1,5 +1,5 @@
 ---
-title: dem | Patromierz
+title: "dem | Patromierz"
 permalink: /dem
 ---
 
@@ -7,7 +7,7 @@ permalink: /dem
 <script type="text/javascript" src="data/d/dem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dem](https://patronite.pl/dem)
+# [Dem](https://patronite.pl/dem)
 
 ## Miesięczne wsparcie
 

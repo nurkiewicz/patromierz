@@ -1,5 +1,5 @@
 ---
-title: krakofonia | Patromierz
+title: "krakofonia | Patromierz"
 permalink: /krakofonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /krakofonia
 <script type="text/javascript" src="data/k/krakofonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [krakofonia](https://patronite.pl/krakofonia)
+# [Krakofonia Chór](https://patronite.pl/krakofonia)
 
 ## Miesięczne wsparcie
 

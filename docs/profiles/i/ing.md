@@ -1,5 +1,5 @@
 ---
-title: ing | Patromierz
+title: "ing | Patromierz"
 permalink: /ing
 ---
 
@@ -7,7 +7,7 @@ permalink: /ing
 <script type="text/javascript" src="data/i/ing.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ing](https://patronite.pl/ing)
+# [Johan Ingeborg - Gothicowe filmy animowane](https://patronite.pl/ing)
 
 ## Miesięczne wsparcie
 

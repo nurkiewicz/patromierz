@@ -1,5 +1,5 @@
 ---
-title: goodvibefestival | Patromierz
+title: "goodvibefestival | Patromierz"
 permalink: /goodvibefestival
 ---
 
@@ -7,7 +7,7 @@ permalink: /goodvibefestival
 <script type="text/javascript" src="data/g/goodvibefestival.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [goodvibefestival](https://patronite.pl/goodvibefestival)
+# [Good Vibe Festival](https://patronite.pl/goodvibefestival)
 
 ## Miesięczne wsparcie
 

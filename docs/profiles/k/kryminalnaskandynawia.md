@@ -1,5 +1,5 @@
 ---
-title: kryminalnaskandynawia | Patromierz
+title: "kryminalnaskandynawia | Patromierz"
 permalink: /kryminalnaskandynawia
 ---
 
@@ -7,7 +7,7 @@ permalink: /kryminalnaskandynawia
 <script type="text/javascript" src="data/k/kryminalnaskandynawia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kryminalnaskandynawia](https://patronite.pl/kryminalnaskandynawia)
+# [Kryminalna Skandynawia Podcast](https://patronite.pl/kryminalnaskandynawia)
 
 ## Miesięczne wsparcie
 

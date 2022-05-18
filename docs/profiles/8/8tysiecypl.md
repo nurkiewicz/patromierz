@@ -1,5 +1,5 @@
 ---
-title: 8tysiecypl | Patromierz
+title: "8tysiecypl | Patromierz"
 permalink: /8tysiecypl
 ---
 
@@ -7,7 +7,7 @@ permalink: /8tysiecypl
 <script type="text/javascript" src="data/8/8tysiecypl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [8tysiecypl](https://patronite.pl/8tysiecypl)
+# [8tysiecy.pl](https://patronite.pl/8tysiecypl)
 
 ## Miesięczne wsparcie
 

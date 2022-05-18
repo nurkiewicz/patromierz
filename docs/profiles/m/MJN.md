@@ -1,5 +1,5 @@
 ---
-title: MJN | Patromierz
+title: "MJN | Patromierz"
 permalink: /MJN
 ---
 
@@ -7,7 +7,7 @@ permalink: /MJN
 <script type="text/javascript" src="data/m/MJN.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MJN](https://patronite.pl/MJN)
+# [Miasto Jest Nasze](https://patronite.pl/MJN)
 
 ## Miesięczne wsparcie
 

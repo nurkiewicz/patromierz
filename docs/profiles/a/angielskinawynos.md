@@ -1,5 +1,5 @@
 ---
-title: angielskinawynos | Patromierz
+title: "angielskinawynos | Patromierz"
 permalink: /angielskinawynos
 ---
 
@@ -7,7 +7,7 @@ permalink: /angielskinawynos
 <script type="text/javascript" src="data/a/angielskinawynos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [angielskinawynos](https://patronite.pl/angielskinawynos)
+# [Angielski na wynos](https://patronite.pl/angielskinawynos)
 
 ## Miesięczne wsparcie
 

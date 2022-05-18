@@ -1,5 +1,5 @@
 ---
-title: palhajstv | Patromierz
+title: "palhajstv | Patromierz"
 permalink: /palhajstv
 ---
 
@@ -7,7 +7,7 @@ permalink: /palhajstv
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [palhajstv](https://patronite.pl/palhajstv)
+# [Pal Hajs TV](https://patronite.pl/palhajstv)
 
 ## Miesięczne wsparcie
 

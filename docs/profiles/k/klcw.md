@@ -1,5 +1,5 @@
 ---
-title: klcw | Patromierz
+title: "klcw | Patromierz"
 permalink: /klcw
 ---
 
@@ -7,7 +7,7 @@ permalink: /klcw
 <script type="text/javascript" src="data/k/klcw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klcw](https://patronite.pl/klcw)
+# [Hanna Maria Giza](https://patronite.pl/klcw)
 
 ## Miesięczne wsparcie
 

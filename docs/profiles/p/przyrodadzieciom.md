@@ -1,5 +1,5 @@
 ---
-title: przyrodadzieciom | Patromierz
+title: "przyrodadzieciom | Patromierz"
 permalink: /przyrodadzieciom
 ---
 
@@ -7,7 +7,7 @@ permalink: /przyrodadzieciom
 <script type="text/javascript" src="data/p/przyrodadzieciom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przyrodadzieciom](https://patronite.pl/przyrodadzieciom)
+# [Przyroda Dzieciom](https://patronite.pl/przyrodadzieciom)
 
 ## Miesięczne wsparcie
 

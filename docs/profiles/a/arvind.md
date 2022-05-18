@@ -1,5 +1,5 @@
 ---
-title: arvind | Patromierz
+title: "arvind | Patromierz"
 permalink: /arvind
 ---
 
@@ -7,7 +7,7 @@ permalink: /arvind
 <script type="text/javascript" src="data/a/arvind.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arvind](https://patronite.pl/arvind)
+# [Arvind Juneja](https://patronite.pl/arvind)
 
 ## Miesięczne wsparcie
 

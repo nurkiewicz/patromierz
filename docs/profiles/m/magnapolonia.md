@@ -1,5 +1,5 @@
 ---
-title: magnapolonia | Patromierz
+title: "magnapolonia | Patromierz"
 permalink: /magnapolonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /magnapolonia
 <script type="text/javascript" src="data/m/magnapolonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magnapolonia](https://patronite.pl/magnapolonia)
+# [Magna Polonia](https://patronite.pl/magnapolonia)
 
 ## Miesięczne wsparcie
 

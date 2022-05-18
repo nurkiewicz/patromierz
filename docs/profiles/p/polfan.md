@@ -1,5 +1,5 @@
 ---
-title: polfan | Patromierz
+title: "polfan | Patromierz"
 permalink: /polfan
 ---
 
@@ -7,7 +7,7 @@ permalink: /polfan
 <script type="text/javascript" src="data/p/polfan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polfan](https://patronite.pl/polfan)
+# [Polfan.pl](https://patronite.pl/polfan)
 
 ## Miesięczne wsparcie
 

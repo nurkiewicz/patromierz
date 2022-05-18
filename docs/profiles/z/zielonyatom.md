@@ -1,5 +1,5 @@
 ---
-title: zielonyatom | Patromierz
+title: "zielonyatom | Patromierz"
 permalink: /zielonyatom
 ---
 
@@ -7,7 +7,7 @@ permalink: /zielonyatom
 <script type="text/javascript" src="data/z/zielonyatom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zielonyatom](https://patronite.pl/zielonyatom)
+# [Zielony Atom](https://patronite.pl/zielonyatom)
 
 ## Miesięczne wsparcie
 

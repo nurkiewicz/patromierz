@@ -1,5 +1,5 @@
 ---
-title: kompaniajonatana | Patromierz
+title: "kompaniajonatana | Patromierz"
 permalink: /kompaniajonatana
 ---
 
@@ -7,7 +7,7 @@ permalink: /kompaniajonatana
 <script type="text/javascript" src="data/k/kompaniajonatana.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kompaniajonatana](https://patronite.pl/kompaniajonatana)
+# [Kompania Jonatana](https://patronite.pl/kompaniajonatana)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ewokracja | Patromierz
+title: "ewokracja | Patromierz"
 permalink: /ewokracja
 ---
 
@@ -7,7 +7,7 @@ permalink: /ewokracja
 <script type="text/javascript" src="data/e/ewokracja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ewokracja](https://patronite.pl/ewokracja)
+# [Ewokracja](https://patronite.pl/ewokracja)
 
 ## Miesięczne wsparcie
 

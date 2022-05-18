@@ -1,5 +1,5 @@
 ---
-title: graff.omania | Patromierz
+title: "graff.omania | Patromierz"
 permalink: /graff.omania
 ---
 
@@ -7,7 +7,7 @@ permalink: /graff.omania
 <script type="text/javascript" src="data/g/graff.omania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [graff.omania](https://patronite.pl/graff.omania)
+# [Grafiki Graff.omania](https://patronite.pl/graff.omania)
 
 ## Miesięczne wsparcie
 

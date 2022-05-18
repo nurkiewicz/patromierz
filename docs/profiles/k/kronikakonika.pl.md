@@ -1,5 +1,5 @@
 ---
-title: kronikakonika.pl | Patromierz
+title: "kronikakonika.pl | Patromierz"
 permalink: /kronikakonika.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /kronikakonika.pl
 <script type="text/javascript" src="data/k/kronikakonika.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kronikakonika.pl](https://patronite.pl/kronikakonika.pl)
+# [Kronika Konika](https://patronite.pl/kronikakonika.pl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bajanienascianie | Patromierz
+title: "bajanienascianie | Patromierz"
 permalink: /bajanienascianie
 ---
 
@@ -7,7 +7,7 @@ permalink: /bajanienascianie
 <script type="text/javascript" src="data/b/bajanienascianie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bajanienascianie](https://patronite.pl/bajanienascianie)
+# [Bajanie na ścianie](https://patronite.pl/bajanienascianie)
 
 ## Miesięczne wsparcie
 

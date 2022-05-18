@@ -1,5 +1,5 @@
 ---
-title: haft-artystyczny | Patromierz
+title: "haft-artystyczny | Patromierz"
 permalink: /haft-artystyczny
 ---
 
@@ -7,7 +7,7 @@ permalink: /haft-artystyczny
 <script type="text/javascript" src="data/h/haft-artystyczny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [haft-artystyczny](https://patronite.pl/haft-artystyczny)
+# [Izabela_BO](https://patronite.pl/haft-artystyczny)
 
 ## Miesięczne wsparcie
 

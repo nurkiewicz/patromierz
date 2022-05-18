@@ -1,5 +1,5 @@
 ---
-title: kai | Patromierz
+title: "kai | Patromierz"
 permalink: /kai
 ---
 
@@ -7,7 +7,7 @@ permalink: /kai
 <script type="text/javascript" src="data/k/kai.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kai](https://patronite.pl/kai)
+# [Katolicka Agencja Informacyjna KAI](https://patronite.pl/kai)
 
 ## Miesięczne wsparcie
 

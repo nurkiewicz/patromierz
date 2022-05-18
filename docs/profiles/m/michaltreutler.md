@@ -1,5 +1,5 @@
 ---
-title: michaltreutler | Patromierz
+title: "michaltreutler | Patromierz"
 permalink: /michaltreutler
 ---
 
@@ -7,7 +7,7 @@ permalink: /michaltreutler
 <script type="text/javascript" src="data/m/michaltreutler.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michaltreutler](https://patronite.pl/michaltreutler)
+# [Fotograf Michał Treutler](https://patronite.pl/michaltreutler)
 
 ## Miesięczne wsparcie
 

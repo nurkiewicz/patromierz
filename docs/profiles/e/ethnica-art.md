@@ -1,5 +1,5 @@
 ---
-title: ethnica-art | Patromierz
+title: "ethnica-art | Patromierz"
 permalink: /ethnica-art
 ---
 
@@ -7,7 +7,7 @@ permalink: /ethnica-art
 <script type="text/javascript" src="data/e/ethnica-art.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ethnica-art](https://patronite.pl/ethnica-art)
+# [Ethnica-Art Janusz Czarnecki](https://patronite.pl/ethnica-art)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: AdrianKostera | Patromierz
+title: "AdrianKostera | Patromierz"
 permalink: /AdrianKostera
 ---
 
@@ -7,7 +7,7 @@ permalink: /AdrianKostera
 <script type="text/javascript" src="data/a/AdrianKostera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AdrianKostera](https://patronite.pl/AdrianKostera)
+# [Adrian Kostera](https://patronite.pl/AdrianKostera)
 
 ## Miesięczne wsparcie
 

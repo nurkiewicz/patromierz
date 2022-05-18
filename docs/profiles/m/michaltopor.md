@@ -1,5 +1,5 @@
 ---
-title: michaltopor | Patromierz
+title: "michaltopor | Patromierz"
 permalink: /michaltopor
 ---
 
@@ -7,7 +7,7 @@ permalink: /michaltopor
 <script type="text/javascript" src="data/m/michaltopor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michaltopor](https://patronite.pl/michaltopor)
+# [Michał Topór](https://patronite.pl/michaltopor)
 
 ## Miesięczne wsparcie
 

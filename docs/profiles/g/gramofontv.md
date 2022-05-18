@@ -1,5 +1,5 @@
 ---
-title: gramofontv | Patromierz
+title: "gramofontv | Patromierz"
 permalink: /gramofontv
 ---
 
@@ -7,7 +7,7 @@ permalink: /gramofontv
 <script type="text/javascript" src="data/g/gramofontv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gramofontv](https://patronite.pl/gramofontv)
+# [Maxior](https://patronite.pl/gramofontv)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: OriATVRiders | Patromierz
+title: "OriATVRiders | Patromierz"
 permalink: /OriATVRiders
 ---
 
@@ -7,7 +7,7 @@ permalink: /OriATVRiders
 <script type="text/javascript" src="data/o/OriATVRiders.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OriATVRiders](https://patronite.pl/OriATVRiders)
+# [Ori ATV Riders](https://patronite.pl/OriATVRiders)
 
 ## Miesięczne wsparcie
 

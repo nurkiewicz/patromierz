@@ -1,5 +1,5 @@
 ---
-title: okupowanapolska | Patromierz
+title: "okupowanapolska | Patromierz"
 permalink: /okupowanapolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /okupowanapolska
 <script type="text/javascript" src="data/o/okupowanapolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okupowanapolska](https://patronite.pl/okupowanapolska)
+# [Okupowana Polska](https://patronite.pl/okupowanapolska)
 
 ## Miesięczne wsparcie
 

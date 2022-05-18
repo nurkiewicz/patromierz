@@ -1,5 +1,5 @@
 ---
-title: chelmskiecentrumewangelizacji | Patromierz
+title: "chelmskiecentrumewangelizacji | Patromierz"
 permalink: /chelmskiecentrumewangelizacji
 ---
 
@@ -7,7 +7,7 @@ permalink: /chelmskiecentrumewangelizacji
 <script type="text/javascript" src="data/c/chelmskiecentrumewangelizacji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chelmskiecentrumewangelizacji](https://patronite.pl/chelmskiecentrumewangelizacji)
+# [Chełmskie Centrum Ewangelizacji](https://patronite.pl/chelmskiecentrumewangelizacji)
 
 ## Miesięczne wsparcie
 

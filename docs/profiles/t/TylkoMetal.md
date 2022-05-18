@@ -1,5 +1,5 @@
 ---
-title: TylkoMetal | Patromierz
+title: "TylkoMetal | Patromierz"
 permalink: /TylkoMetal
 ---
 
@@ -7,7 +7,7 @@ permalink: /TylkoMetal
 <script type="text/javascript" src="data/t/TylkoMetal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TylkoMetal](https://patronite.pl/TylkoMetal)
+# [Tylko Metal](https://patronite.pl/TylkoMetal)
 
 ## Miesięczne wsparcie
 

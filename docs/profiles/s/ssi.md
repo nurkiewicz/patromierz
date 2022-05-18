@@ -1,5 +1,5 @@
 ---
-title: ssi | Patromierz
+title: "ssi | Patromierz"
 permalink: /ssi
 ---
 
@@ -7,7 +7,7 @@ permalink: /ssi
 <script type="text/javascript" src="data/s/ssi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ssi](https://patronite.pl/ssi)
+# [Śląska Szkoła Ikonograficzna](https://patronite.pl/ssi)
 
 ## Miesięczne wsparcie
 

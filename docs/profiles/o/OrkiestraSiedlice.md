@@ -1,5 +1,5 @@
 ---
-title: OrkiestraSiedlice | Patromierz
+title: "OrkiestraSiedlice | Patromierz"
 permalink: /OrkiestraSiedlice
 ---
 
@@ -7,7 +7,7 @@ permalink: /OrkiestraSiedlice
 <script type="text/javascript" src="data/o/OrkiestraSiedlice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OrkiestraSiedlice](https://patronite.pl/OrkiestraSiedlice)
+# [Orkiestra Siedlice](https://patronite.pl/OrkiestraSiedlice)
 
 ## Miesięczne wsparcie
 

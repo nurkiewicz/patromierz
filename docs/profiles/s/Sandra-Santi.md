@@ -1,5 +1,5 @@
 ---
-title: Sandra-Santi | Patromierz
+title: "Sandra-Santi | Patromierz"
 permalink: /Sandra-Santi
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sandra-Santi
 <script type="text/javascript" src="data/s/Sandra-Santi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sandra-Santi](https://patronite.pl/Sandra-Santi)
+# [Sandra Santi](https://patronite.pl/Sandra-Santi)
 
 ## Miesięczne wsparcie
 

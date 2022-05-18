@@ -1,5 +1,5 @@
 ---
-title: SłużbaOgieńMiełości | Patromierz
+title: "SłużbaOgieńMiełości | Patromierz"
 permalink: /SłużbaOgieńMiełości
 ---
 
@@ -7,7 +7,7 @@ permalink: /SłużbaOgieńMiełości
 <script type="text/javascript" src="data/s/SłużbaOgieńMiełości.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SłużbaOgieńMiełości](https://patronite.pl/SłużbaOgieńMiełości)
+# [Grzegorz Miecznikowski](https://patronite.pl/SłużbaOgieńMiełości)
 
 ## Miesięczne wsparcie
 

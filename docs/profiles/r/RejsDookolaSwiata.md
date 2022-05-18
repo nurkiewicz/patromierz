@@ -1,5 +1,5 @@
 ---
-title: RejsDookolaSwiata | Patromierz
+title: "RejsDookolaSwiata | Patromierz"
 permalink: /RejsDookolaSwiata
 ---
 
@@ -7,7 +7,7 @@ permalink: /RejsDookolaSwiata
 <script type="text/javascript" src="data/r/RejsDookolaSwiata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RejsDookolaSwiata](https://patronite.pl/RejsDookolaSwiata)
+# [Rejs Dookoła Świata - SV Crystal](https://patronite.pl/RejsDookolaSwiata)
 
 ## Miesięczne wsparcie
 

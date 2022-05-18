@@ -1,5 +1,5 @@
 ---
-title: OczamiBezdomnegoPsa | Patromierz
+title: "OczamiBezdomnegoPsa | Patromierz"
 permalink: /OczamiBezdomnegoPsa
 ---
 
@@ -7,7 +7,7 @@ permalink: /OczamiBezdomnegoPsa
 <script type="text/javascript" src="data/o/OczamiBezdomnegoPsa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OczamiBezdomnegoPsa](https://patronite.pl/OczamiBezdomnegoPsa)
+# [Oczami Bezdomnego Psa](https://patronite.pl/OczamiBezdomnegoPsa)
 
 ## Miesięczne wsparcie
 

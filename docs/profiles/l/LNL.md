@@ -1,5 +1,5 @@
 ---
-title: LNL | Patromierz
+title: "LNL | Patromierz"
 permalink: /LNL
 ---
 
@@ -7,7 +7,7 @@ permalink: /LNL
 <script type="text/javascript" src="data/l/LNL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LNL](https://patronite.pl/LNL)
+# [Dariusz Popiela](https://patronite.pl/LNL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KamikazeLDZ | Patromierz
+title: "KamikazeLDZ | Patromierz"
 permalink: /KamikazeLDZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /KamikazeLDZ
 <script type="text/javascript" src="data/k/KamikazeLDZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KamikazeLDZ](https://patronite.pl/KamikazeLDZ)
+# [Kamikaze / NRGeek](https://patronite.pl/KamikazeLDZ)
 
 ## Miesięczne wsparcie
 

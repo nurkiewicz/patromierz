@@ -1,5 +1,5 @@
 ---
-title: 12kamieni | Patromierz
+title: "12kamieni | Patromierz"
 permalink: /12kamieni
 ---
 
@@ -7,7 +7,7 @@ permalink: /12kamieni
 <script type="text/javascript" src="data/1/12kamieni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [12kamieni](https://patronite.pl/12kamieni)
+# [12 kamieni](https://patronite.pl/12kamieni)
 
 ## Miesięczne wsparcie
 

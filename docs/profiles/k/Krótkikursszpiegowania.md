@@ -1,5 +1,5 @@
 ---
-title: Krótkikursszpiegowania | Patromierz
+title: "Krótkikursszpiegowania | Patromierz"
 permalink: /Krótkikursszpiegowania
 ---
 
@@ -7,7 +7,7 @@ permalink: /Krótkikursszpiegowania
 <script type="text/javascript" src="data/k/Krótkikursszpiegowania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Krótkikursszpiegowania](https://patronite.pl/Krótkikursszpiegowania)
+# ["Krótki kurs szpiegowania" - Piotr Niemczyk](https://patronite.pl/Krótkikursszpiegowania)
 
 ## Miesięczne wsparcie
 

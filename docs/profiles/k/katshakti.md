@@ -1,5 +1,5 @@
 ---
-title: katshakti | Patromierz
+title: "katshakti | Patromierz"
 permalink: /katshakti
 ---
 
@@ -7,7 +7,7 @@ permalink: /katshakti
 <script type="text/javascript" src="data/k/katshakti.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [katshakti](https://patronite.pl/katshakti)
+# [Kat Shakti](https://patronite.pl/katshakti)
 
 ## Miesięczne wsparcie
 

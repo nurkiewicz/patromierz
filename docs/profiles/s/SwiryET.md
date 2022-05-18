@@ -1,5 +1,5 @@
 ---
-title: SwiryET | Patromierz
+title: "SwiryET | Patromierz"
 permalink: /SwiryET
 ---
 
@@ -7,7 +7,7 @@ permalink: /SwiryET
 <script type="text/javascript" src="data/s/SwiryET.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SwiryET](https://patronite.pl/SwiryET)
+# [=|PoLSkIE|SwirY|=](https://patronite.pl/SwiryET)
 
 ## Miesięczne wsparcie
 

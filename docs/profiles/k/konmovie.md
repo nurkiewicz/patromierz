@@ -1,5 +1,5 @@
 ---
-title: konmovie | Patromierz
+title: "konmovie | Patromierz"
 permalink: /konmovie
 ---
 
@@ -7,7 +7,7 @@ permalink: /konmovie
 <script type="text/javascript" src="data/k/konmovie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [konmovie](https://patronite.pl/konmovie)
+# [Koń Movie - filmy, seriale](https://patronite.pl/konmovie)
 
 ## Miesięczne wsparcie
 

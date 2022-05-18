@@ -1,5 +1,5 @@
 ---
-title: fundacja-ekologicznie | Patromierz
+title: "fundacja-ekologicznie | Patromierz"
 permalink: /fundacja-ekologicznie
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja-ekologicznie
 <script type="text/javascript" src="data/f/fundacja-ekologicznie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja-ekologicznie](https://patronite.pl/fundacja-ekologicznie)
+# [Fundacja EkoLogicznie](https://patronite.pl/fundacja-ekologicznie)
 
 ## Miesięczne wsparcie
 

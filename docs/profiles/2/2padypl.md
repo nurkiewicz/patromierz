@@ -1,5 +1,5 @@
 ---
-title: 2padypl | Patromierz
+title: "2padypl | Patromierz"
 permalink: /2padypl
 ---
 
@@ -7,7 +7,7 @@ permalink: /2padypl
 <script type="text/javascript" src="data/2/2padypl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [2padypl](https://patronite.pl/2padypl)
+# [Podcast 2pady.pl](https://patronite.pl/2padypl)
 
 ## Miesięczne wsparcie
 

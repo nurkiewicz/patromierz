@@ -1,5 +1,5 @@
 ---
-title: proecclesia-media | Patromierz
+title: "proecclesia-media | Patromierz"
 permalink: /proecclesia-media
 ---
 
@@ -7,7 +7,7 @@ permalink: /proecclesia-media
 <script type="text/javascript" src="data/p/proecclesia-media.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [proecclesia-media](https://patronite.pl/proecclesia-media)
+# [proecclesia media](https://patronite.pl/proecclesia-media)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: EdwardSłowianin | Patromierz
+title: "EdwardSłowianin | Patromierz"
 permalink: /EdwardSłowianin
 ---
 
@@ -7,7 +7,7 @@ permalink: /EdwardSłowianin
 <script type="text/javascript" src="data/e/EdwardSłowianin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EdwardSłowianin](https://patronite.pl/EdwardSłowianin)
+# [Edward Słowianin Leh](https://patronite.pl/EdwardSłowianin)
 
 ## Miesięczne wsparcie
 

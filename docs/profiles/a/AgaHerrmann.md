@@ -1,5 +1,5 @@
 ---
-title: AgaHerrmann | Patromierz
+title: "AgaHerrmann | Patromierz"
 permalink: /AgaHerrmann
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgaHerrmann
 <script type="text/javascript" src="data/a/AgaHerrmann.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgaHerrmann](https://patronite.pl/AgaHerrmann)
+# [Agnieszka Herrmann ](https://patronite.pl/AgaHerrmann)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: radekpatlewicz | Patromierz
+title: "radekpatlewicz | Patromierz"
 permalink: /radekpatlewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /radekpatlewicz
 <script type="text/javascript" src="data/r/radekpatlewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radekpatlewicz](https://patronite.pl/radekpatlewicz)
+# [Radosław Patlewicz](https://patronite.pl/radekpatlewicz)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wrapstermateuszpopow | Patromierz
+title: "wrapstermateuszpopow | Patromierz"
 permalink: /wrapstermateuszpopow
 ---
 
@@ -7,7 +7,7 @@ permalink: /wrapstermateuszpopow
 <script type="text/javascript" src="data/w/wrapstermateuszpopow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wrapstermateuszpopow](https://patronite.pl/wrapstermateuszpopow)
+# [Wrapster | Mateusz Popow](https://patronite.pl/wrapstermateuszpopow)
 
 ## Miesięczne wsparcie
 

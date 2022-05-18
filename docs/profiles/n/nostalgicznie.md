@@ -1,5 +1,5 @@
 ---
-title: nostalgicznie | Patromierz
+title: "nostalgicznie | Patromierz"
 permalink: /nostalgicznie
 ---
 
@@ -7,7 +7,7 @@ permalink: /nostalgicznie
 <script type="text/javascript" src="data/n/nostalgicznie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nostalgicznie](https://patronite.pl/nostalgicznie)
+# [Nasze Radio 92,1 FM... nostalgicznie](https://patronite.pl/nostalgicznie)
 
 ## Miesięczne wsparcie
 

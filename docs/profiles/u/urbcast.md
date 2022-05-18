@@ -1,5 +1,5 @@
 ---
-title: urbcast | Patromierz
+title: "urbcast | Patromierz"
 permalink: /urbcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /urbcast
 <script type="text/javascript" src="data/u/urbcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [urbcast](https://patronite.pl/urbcast)
+# [Urbcast - podcast o miastach](https://patronite.pl/urbcast)
 
 ## Miesięczne wsparcie
 

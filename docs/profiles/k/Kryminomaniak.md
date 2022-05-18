@@ -1,5 +1,5 @@
 ---
-title: Kryminomaniak | Patromierz
+title: "Kryminomaniak | Patromierz"
 permalink: /Kryminomaniak
 ---
 

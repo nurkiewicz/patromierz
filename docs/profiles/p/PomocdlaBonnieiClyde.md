@@ -1,5 +1,5 @@
 ---
-title: PomocdlaBonnieiClyde | Patromierz
+title: "PomocdlaBonnieiClyde | Patromierz"
 permalink: /PomocdlaBonnieiClyde
 ---
 
@@ -7,7 +7,7 @@ permalink: /PomocdlaBonnieiClyde
 <script type="text/javascript" src="data/p/PomocdlaBonnieiClyde.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PomocdlaBonnieiClyde](https://patronite.pl/PomocdlaBonnieiClyde)
+# [Pomoc dla Bonnie & Clyde](https://patronite.pl/PomocdlaBonnieiClyde)
 
 ## Miesięczne wsparcie
 

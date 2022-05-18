@@ -1,5 +1,5 @@
 ---
-title: DOMANproject | Patromierz
+title: "DOMANproject | Patromierz"
 permalink: /DOMANproject
 ---
 
@@ -7,7 +7,7 @@ permalink: /DOMANproject
 <script type="text/javascript" src="data/d/DOMANproject.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DOMANproject](https://patronite.pl/DOMANproject)
+# [DOMAN project - blacharstwo samochodowe bez fikcji](https://patronite.pl/DOMANproject)
 
 ## Miesięczne wsparcie
 

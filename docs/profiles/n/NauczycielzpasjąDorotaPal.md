@@ -1,5 +1,5 @@
 ---
-title: NauczycielzpasjąDorotaPal | Patromierz
+title: "NauczycielzpasjąDorotaPal | Patromierz"
 permalink: /NauczycielzpasjąDorotaPal
 ---
 
@@ -7,7 +7,7 @@ permalink: /NauczycielzpasjąDorotaPal
 <script type="text/javascript" src="data/n/NauczycielzpasjąDorotaPal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NauczycielzpasjąDorotaPal](https://patronite.pl/NauczycielzpasjąDorotaPal)
+# [Dorota Pal](https://patronite.pl/NauczycielzpasjąDorotaPal)
 
 ## Miesięczne wsparcie
 

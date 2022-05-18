@@ -1,5 +1,5 @@
 ---
-title: HejMama | Patromierz
+title: "HejMama | Patromierz"
 permalink: /HejMama
 ---
 
@@ -7,7 +7,7 @@ permalink: /HejMama
 <script type="text/javascript" src="data/h/HejMama.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HejMama](https://patronite.pl/HejMama)
+# [Hej Mama](https://patronite.pl/HejMama)
 
 ## Miesięczne wsparcie
 

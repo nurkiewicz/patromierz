@@ -1,5 +1,5 @@
 ---
-title: sqrczybyk | Patromierz
+title: "sqrczybyk | Patromierz"
 permalink: /sqrczybyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /sqrczybyk
 <script type="text/javascript" src="data/s/sqrczybyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sqrczybyk](https://patronite.pl/sqrczybyk)
+# [SQrczybyk](https://patronite.pl/sqrczybyk)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: rugbyszczecin | Patromierz
+title: "rugbyszczecin | Patromierz"
 permalink: /rugbyszczecin
 ---
 
@@ -7,7 +7,7 @@ permalink: /rugbyszczecin
 <script type="text/javascript" src="data/r/rugbyszczecin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rugbyszczecin](https://patronite.pl/rugbyszczecin)
+# [Kaskada Szczecin Rugby Klub](https://patronite.pl/rugbyszczecin)
 
 ## Miesięczne wsparcie
 

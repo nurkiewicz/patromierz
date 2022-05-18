@@ -1,5 +1,5 @@
 ---
-title: Sylwia_K | Patromierz
+title: "Sylwia_K | Patromierz"
 permalink: /Sylwia_K
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sylwia_K
 <script type="text/javascript" src="data/s/Sylwia_K.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sylwia_K](https://patronite.pl/Sylwia_K)
+# [Sylwia K_Podróże](https://patronite.pl/Sylwia_K)
 
 ## Miesięczne wsparcie
 

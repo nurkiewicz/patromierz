@@ -1,5 +1,5 @@
 ---
-title: BLUESCHOJNACKI | Patromierz
+title: "BLUESCHOJNACKI | Patromierz"
 permalink: /BLUESCHOJNACKI
 ---
 
@@ -7,7 +7,7 @@ permalink: /BLUESCHOJNACKI
 <script type="text/javascript" src="data/b/BLUESCHOJNACKI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BLUESCHOJNACKI](https://patronite.pl/BLUESCHOJNACKI)
+# [Jan Chojnacki](https://patronite.pl/BLUESCHOJNACKI)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: idzpodprad | Patromierz
+title: "idzpodprad | Patromierz"
 permalink: /idzpodprad
 ---
 
@@ -7,7 +7,7 @@ permalink: /idzpodprad
 <script type="text/javascript" src="data/i/idzpodprad.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [idzpodprad](https://patronite.pl/idzpodprad)
+# [Telewizja Idź Pod Prąd](https://patronite.pl/idzpodprad)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SudeckaOstoja | Patromierz
+title: "SudeckaOstoja | Patromierz"
 permalink: /SudeckaOstoja
 ---
 
@@ -7,7 +7,7 @@ permalink: /SudeckaOstoja
 <script type="text/javascript" src="data/s/SudeckaOstoja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SudeckaOstoja](https://patronite.pl/SudeckaOstoja)
+# [Sudecka Ostoja](https://patronite.pl/SudeckaOstoja)
 
 ## Miesięczne wsparcie
 

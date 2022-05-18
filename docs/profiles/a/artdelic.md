@@ -1,5 +1,5 @@
 ---
-title: artdelic | Patromierz
+title: "artdelic | Patromierz"
 permalink: /artdelic
 ---
 
@@ -7,7 +7,7 @@ permalink: /artdelic
 <script type="text/javascript" src="data/a/artdelic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [artdelic](https://patronite.pl/artdelic)
+# [Fundacja Artdelic](https://patronite.pl/artdelic)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ajkaminimalistka | Patromierz
+title: "ajkaminimalistka | Patromierz"
 permalink: /ajkaminimalistka
 ---
 
@@ -7,7 +7,7 @@ permalink: /ajkaminimalistka
 <script type="text/javascript" src="data/a/ajkaminimalistka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ajkaminimalistka](https://patronite.pl/ajkaminimalistka)
+# [Anna Mularczyk-Meyer](https://patronite.pl/ajkaminimalistka)
 
 ## Miesięczne wsparcie
 

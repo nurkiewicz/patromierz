@@ -1,5 +1,5 @@
 ---
-title: koniki_ursza | Patromierz
+title: "koniki_ursza | Patromierz"
 permalink: /koniki_ursza
 ---
 
@@ -7,7 +7,7 @@ permalink: /koniki_ursza
 <script type="text/javascript" src="data/k/koniki_ursza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koniki_ursza](https://patronite.pl/koniki_ursza)
+# [Koniki Ursza](https://patronite.pl/koniki_ursza)
 
 ## Miesięczne wsparcie
 

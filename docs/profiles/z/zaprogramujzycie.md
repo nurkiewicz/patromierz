@@ -1,5 +1,5 @@
 ---
-title: zaprogramujzycie | Patromierz
+title: "zaprogramujzycie | Patromierz"
 permalink: /zaprogramujzycie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zaprogramujzycie
 <script type="text/javascript" src="data/z/zaprogramujzycie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zaprogramujzycie](https://patronite.pl/zaprogramujzycie)
+# [Zaprogramuj Życie](https://patronite.pl/zaprogramujzycie)
 
 ## Miesięczne wsparcie
 

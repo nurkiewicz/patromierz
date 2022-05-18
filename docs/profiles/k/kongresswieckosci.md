@@ -1,5 +1,5 @@
 ---
-title: kongresswieckosci | Patromierz
+title: "kongresswieckosci | Patromierz"
 permalink: /kongresswieckosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /kongresswieckosci
 <script type="text/javascript" src="data/k/kongresswieckosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kongresswieckosci](https://patronite.pl/kongresswieckosci)
+# [Kongres Świeckości](https://patronite.pl/kongresswieckosci)
 
 ## Miesięczne wsparcie
 

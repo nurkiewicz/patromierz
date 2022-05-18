@@ -1,5 +1,5 @@
 ---
-title: DrAMNESTIA | Patromierz
+title: "DrAMNESTIA | Patromierz"
 permalink: /DrAMNESTIA
 ---
 

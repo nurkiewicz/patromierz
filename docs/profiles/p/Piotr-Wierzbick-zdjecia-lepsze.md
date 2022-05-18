@@ -1,5 +1,5 @@
 ---
-title: Piotr-Wierzbick-zdjecia-lepsze | Patromierz
+title: "Piotr-Wierzbick-zdjecia-lepsze | Patromierz"
 permalink: /Piotr-Wierzbick-zdjecia-lepsze
 ---
 
@@ -7,7 +7,7 @@ permalink: /Piotr-Wierzbick-zdjecia-lepsze
 <script type="text/javascript" src="data/p/Piotr-Wierzbick-zdjecia-lepsze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Piotr-Wierzbick-zdjecia-lepsze](https://patronite.pl/Piotr-Wierzbick-zdjecia-lepsze)
+# [Piotr Wierzbicki](https://patronite.pl/Piotr-Wierzbick-zdjecia-lepsze)
 
 ## Miesięczne wsparcie
 

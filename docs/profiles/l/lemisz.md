@@ -1,5 +1,5 @@
 ---
-title: lemisz | Patromierz
+title: "lemisz | Patromierz"
 permalink: /lemisz
 ---
 
@@ -7,7 +7,7 @@ permalink: /lemisz
 <script type="text/javascript" src="data/l/lemisz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lemisz](https://patronite.pl/lemisz)
+# [Jakub Lemiszewski](https://patronite.pl/lemisz)
 
 ## Miesięczne wsparcie
 

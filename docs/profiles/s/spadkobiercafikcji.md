@@ -1,5 +1,5 @@
 ---
-title: spadkobiercafikcji | Patromierz
+title: "spadkobiercafikcji | Patromierz"
 permalink: /spadkobiercafikcji
 ---
 
@@ -7,7 +7,7 @@ permalink: /spadkobiercafikcji
 <script type="text/javascript" src="data/s/spadkobiercafikcji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spadkobiercafikcji](https://patronite.pl/spadkobiercafikcji)
+# [Michał Rain](https://patronite.pl/spadkobiercafikcji)
 
 ## Miesięczne wsparcie
 

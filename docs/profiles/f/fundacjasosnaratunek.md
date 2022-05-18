@@ -1,5 +1,5 @@
 ---
-title: fundacjasosnaratunek | Patromierz
+title: "fundacjasosnaratunek | Patromierz"
 permalink: /fundacjasosnaratunek
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjasosnaratunek
 <script type="text/javascript" src="data/f/fundacjasosnaratunek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjasosnaratunek](https://patronite.pl/fundacjasosnaratunek)
+# [Fundacja SOS - na Ratunek](https://patronite.pl/fundacjasosnaratunek)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: radionaukowe | Patromierz
+title: "radionaukowe | Patromierz"
 permalink: /radionaukowe
 ---
 
@@ -7,7 +7,7 @@ permalink: /radionaukowe
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radionaukowe](https://patronite.pl/radionaukowe)
+# [Radio Naukowe - podcast Karoliny Głowackiej](https://patronite.pl/radionaukowe)
 
 ## Miesięczne wsparcie
 

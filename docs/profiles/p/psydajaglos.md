@@ -1,5 +1,5 @@
 ---
-title: psydajaglos | Patromierz
+title: "psydajaglos | Patromierz"
 permalink: /psydajaglos
 ---
 
@@ -7,7 +7,7 @@ permalink: /psydajaglos
 <script type="text/javascript" src="data/p/psydajaglos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psydajaglos](https://patronite.pl/psydajaglos)
+# [Psy Dają Głos](https://patronite.pl/psydajaglos)
 
 ## Miesięczne wsparcie
 

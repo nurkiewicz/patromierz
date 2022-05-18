@@ -1,5 +1,5 @@
 ---
-title: Sieje_Dobro | Patromierz
+title: "Sieje_Dobro | Patromierz"
 permalink: /Sieje_Dobro
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sieje_Dobro
 <script type="text/javascript" src="data/s/Sieje_Dobro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sieje_Dobro](https://patronite.pl/Sieje_Dobro)
+# [Paulina Białek](https://patronite.pl/Sieje_Dobro)
 
 ## Miesięczne wsparcie
 

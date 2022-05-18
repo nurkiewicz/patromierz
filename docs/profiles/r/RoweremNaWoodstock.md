@@ -1,5 +1,5 @@
 ---
-title: RoweremNaWoodstock | Patromierz
+title: "RoweremNaWoodstock | Patromierz"
 permalink: /RoweremNaWoodstock
 ---
 
@@ -7,7 +7,7 @@ permalink: /RoweremNaWoodstock
 <script type="text/javascript" src="data/r/RoweremNaWoodstock.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RoweremNaWoodstock](https://patronite.pl/RoweremNaWoodstock)
+# [Rafał Babiński](https://patronite.pl/RoweremNaWoodstock)
 
 ## Miesięczne wsparcie
 

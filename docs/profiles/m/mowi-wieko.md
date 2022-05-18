@@ -1,5 +1,5 @@
 ---
-title: mowi-wieko | Patromierz
+title: "mowi-wieko | Patromierz"
 permalink: /mowi-wieko
 ---
 
@@ -7,7 +7,7 @@ permalink: /mowi-wieko
 <script type="text/javascript" src="data/m/mowi-wieko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mowi-wieko](https://patronite.pl/mowi-wieko)
+# [Mówi Wieko](https://patronite.pl/mowi-wieko)
 
 ## Miesięczne wsparcie
 

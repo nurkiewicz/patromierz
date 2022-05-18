@@ -1,5 +1,5 @@
 ---
-title: darwininchaneldress | Patromierz
+title: "darwininchaneldress | Patromierz"
 permalink: /darwininchaneldress
 ---
 
@@ -7,7 +7,7 @@ permalink: /darwininchaneldress
 <script type="text/javascript" src="data/d/darwininchaneldress.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [darwininchaneldress](https://patronite.pl/darwininchaneldress)
+# [Dorota Komar](https://patronite.pl/darwininchaneldress)
 
 ## Miesięczne wsparcie
 

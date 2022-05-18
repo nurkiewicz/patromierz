@@ -1,5 +1,5 @@
 ---
-title: vhshell | Patromierz
+title: "vhshell | Patromierz"
 permalink: /vhshell
 ---
 
@@ -7,7 +7,7 @@ permalink: /vhshell
 <script type="text/javascript" src="data/v/vhshell.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vhshell](https://patronite.pl/vhshell)
+# [VHS HELL](https://patronite.pl/vhshell)
 
 ## Miesięczne wsparcie
 

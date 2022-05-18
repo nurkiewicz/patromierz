@@ -1,5 +1,5 @@
 ---
-title: debski | Patromierz
+title: "debski | Patromierz"
 permalink: /debski
 ---
 
@@ -7,7 +7,7 @@ permalink: /debski
 <script type="text/javascript" src="data/d/debski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [debski](https://patronite.pl/debski)
+# [Bartłomiej Dębski](https://patronite.pl/debski)
 
 ## Miesięczne wsparcie
 

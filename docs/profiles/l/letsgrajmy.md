@@ -1,5 +1,5 @@
 ---
-title: letsgrajmy | Patromierz
+title: "letsgrajmy | Patromierz"
 permalink: /letsgrajmy
 ---
 
@@ -7,7 +7,7 @@ permalink: /letsgrajmy
 <script type="text/javascript" src="data/l/letsgrajmy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [letsgrajmy](https://patronite.pl/letsgrajmy)
+# [Let's Grajmy](https://patronite.pl/letsgrajmy)
 
 ## Miesięczne wsparcie
 

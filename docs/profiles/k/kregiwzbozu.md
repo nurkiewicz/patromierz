@@ -1,5 +1,5 @@
 ---
-title: kregiwzbozu | Patromierz
+title: "kregiwzbozu | Patromierz"
 permalink: /kregiwzbozu
 ---
 
@@ -7,7 +7,7 @@ permalink: /kregiwzbozu
 <script type="text/javascript" src="data/k/kregiwzbozu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kregiwzbozu](https://patronite.pl/kregiwzbozu)
+# [Kręgi w zbożu](https://patronite.pl/kregiwzbozu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ThisIsThailand | Patromierz
+title: "ThisIsThailand | Patromierz"
 permalink: /ThisIsThailand
 ---
 
@@ -7,7 +7,7 @@ permalink: /ThisIsThailand
 <script type="text/javascript" src="data/t/ThisIsThailand.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ThisIsThailand](https://patronite.pl/ThisIsThailand)
+# [This is Thailand - rodzinka w Tajlandii ](https://patronite.pl/ThisIsThailand)
 
 ## Miesięczne wsparcie
 

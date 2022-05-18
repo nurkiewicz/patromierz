@@ -1,5 +1,5 @@
 ---
-title: mezczyznaspelniony | Patromierz
+title: "mezczyznaspelniony | Patromierz"
 permalink: /mezczyznaspelniony
 ---
 
@@ -7,7 +7,7 @@ permalink: /mezczyznaspelniony
 <script type="text/javascript" src="data/m/mezczyznaspelniony.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mezczyznaspelniony](https://patronite.pl/mezczyznaspelniony)
+# [Mężczyzna spełniony](https://patronite.pl/mezczyznaspelniony)
 
 ## Miesięczne wsparcie
 

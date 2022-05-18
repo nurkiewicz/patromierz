@@ -1,5 +1,5 @@
 ---
-title: Catowice | Patromierz
+title: "Catowice | Patromierz"
 permalink: /Catowice
 ---
 
@@ -7,7 +7,7 @@ permalink: /Catowice
 <script type="text/javascript" src="data/c/Catowice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Catowice](https://patronite.pl/Catowice)
+# [Piotr Gierwatowski](https://patronite.pl/Catowice)
 
 ## Miesięczne wsparcie
 

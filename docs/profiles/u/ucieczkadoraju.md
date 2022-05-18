@@ -1,5 +1,5 @@
 ---
-title: ucieczkadoraju | Patromierz
+title: "ucieczkadoraju | Patromierz"
 permalink: /ucieczkadoraju
 ---
 
@@ -7,7 +7,7 @@ permalink: /ucieczkadoraju
 <script type="text/javascript" src="data/u/ucieczkadoraju.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ucieczkadoraju](https://patronite.pl/ucieczkadoraju)
+# [Damian Drazek](https://patronite.pl/ucieczkadoraju)
 
 ## Miesięczne wsparcie
 

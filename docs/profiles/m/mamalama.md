@@ -1,5 +1,5 @@
 ---
-title: mamalama | Patromierz
+title: "mamalama | Patromierz"
 permalink: /mamalama
 ---
 
@@ -7,7 +7,7 @@ permalink: /mamalama
 <script type="text/javascript" src="data/m/mamalama.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mamalama](https://patronite.pl/mamalama)
+# [Mama Lama](https://patronite.pl/mamalama)
 
 ## Miesięczne wsparcie
 

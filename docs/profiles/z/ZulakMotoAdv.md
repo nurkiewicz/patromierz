@@ -1,5 +1,5 @@
 ---
-title: ZulakMotoAdv | Patromierz
+title: "ZulakMotoAdv | Patromierz"
 permalink: /ZulakMotoAdv
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZulakMotoAdv
 <script type="text/javascript" src="data/z/ZulakMotoAdv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZulakMotoAdv](https://patronite.pl/ZulakMotoAdv)
+# [Zulak MotoAdv](https://patronite.pl/ZulakMotoAdv)
 
 ## Miesięczne wsparcie
 

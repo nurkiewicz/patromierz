@@ -1,5 +1,5 @@
 ---
-title: stenogramyzbrodni | Patromierz
+title: "stenogramyzbrodni | Patromierz"
 permalink: /stenogramyzbrodni
 ---
 
@@ -7,7 +7,7 @@ permalink: /stenogramyzbrodni
 <script type="text/javascript" src="data/s/stenogramyzbrodni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stenogramyzbrodni](https://patronite.pl/stenogramyzbrodni)
+# [Stenogramy zbrodni](https://patronite.pl/stenogramyzbrodni)
 
 ## Miesięczne wsparcie
 

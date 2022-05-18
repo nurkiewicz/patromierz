@@ -1,5 +1,5 @@
 ---
-title: ZagrajnikTV | Patromierz
+title: "ZagrajnikTV | Patromierz"
 permalink: /ZagrajnikTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZagrajnikTV
 <script type="text/javascript" src="data/z/ZagrajnikTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZagrajnikTV](https://patronite.pl/ZagrajnikTV)
+# [Jędrzej Szweda - ZagrajnikTV](https://patronite.pl/ZagrajnikTV)
 
 ## Miesięczne wsparcie
 

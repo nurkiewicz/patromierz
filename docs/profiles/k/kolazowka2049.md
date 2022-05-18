@@ -1,5 +1,5 @@
 ---
-title: kolazowka2049 | Patromierz
+title: "kolazowka2049 | Patromierz"
 permalink: /kolazowka2049
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolazowka2049
 <script type="text/javascript" src="data/k/kolazowka2049.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolazowka2049](https://patronite.pl/kolazowka2049)
+# [kolażówka2049](https://patronite.pl/kolazowka2049)
 
 ## Miesięczne wsparcie
 

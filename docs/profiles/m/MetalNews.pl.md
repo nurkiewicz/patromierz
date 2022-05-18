@@ -1,5 +1,5 @@
 ---
-title: MetalNews.pl | Patromierz
+title: "MetalNews.pl | Patromierz"
 permalink: /MetalNews.pl
 ---
 

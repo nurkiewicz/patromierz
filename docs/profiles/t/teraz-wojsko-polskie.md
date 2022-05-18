@@ -1,5 +1,5 @@
 ---
-title: teraz-wojsko-polskie | Patromierz
+title: "teraz-wojsko-polskie | Patromierz"
 permalink: /teraz-wojsko-polskie
 ---
 
@@ -7,7 +7,7 @@ permalink: /teraz-wojsko-polskie
 <script type="text/javascript" src="data/t/teraz-wojsko-polskie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teraz-wojsko-polskie](https://patronite.pl/teraz-wojsko-polskie)
+# [Fundacja Teraz Wojsko Polskie](https://patronite.pl/teraz-wojsko-polskie)
 
 ## Miesięczne wsparcie
 

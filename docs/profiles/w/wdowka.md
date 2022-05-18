@@ -1,5 +1,5 @@
 ---
-title: wdowka | Patromierz
+title: "wdowka | Patromierz"
 permalink: /wdowka
 ---
 
@@ -7,7 +7,7 @@ permalink: /wdowka
 <script type="text/javascript" src="data/w/wdowka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wdowka](https://patronite.pl/wdowka)
+# [Piotr Wdowka](https://patronite.pl/wdowka)
 
 ## Miesięczne wsparcie
 

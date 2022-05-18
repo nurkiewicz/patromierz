@@ -1,5 +1,5 @@
 ---
-title: sylwiahazboun | Patromierz
+title: "sylwiahazboun | Patromierz"
 permalink: /sylwiahazboun
 ---
 
@@ -7,7 +7,7 @@ permalink: /sylwiahazboun
 <script type="text/javascript" src="data/s/sylwiahazboun.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sylwiahazboun](https://patronite.pl/sylwiahazboun)
+# [Sylwia Hazboun - Dzisiaj w Betlejem](https://patronite.pl/sylwiahazboun)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: oratowski | Patromierz
+title: "oratowski | Patromierz"
 permalink: /oratowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /oratowski
 <script type="text/javascript" src="data/o/oratowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oratowski](https://patronite.pl/oratowski)
+# [Adrian Oratowski](https://patronite.pl/oratowski)
 
 ## Miesięczne wsparcie
 

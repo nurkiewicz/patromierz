@@ -1,5 +1,5 @@
 ---
-title: niekryty | Patromierz
+title: "niekryty | Patromierz"
 permalink: /niekryty
 ---
 
@@ -7,7 +7,7 @@ permalink: /niekryty
 <script type="text/javascript" src="data/n/niekryty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niekryty](https://patronite.pl/niekryty)
+# [Niekryty Krytyk](https://patronite.pl/niekryty)
 
 ## Miesięczne wsparcie
 

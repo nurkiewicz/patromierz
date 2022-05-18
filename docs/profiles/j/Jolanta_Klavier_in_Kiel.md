@@ -1,5 +1,5 @@
 ---
-title: Jolanta_Klavier_in_Kiel | Patromierz
+title: "Jolanta_Klavier_in_Kiel | Patromierz"
 permalink: /Jolanta_Klavier_in_Kiel
 ---
 
@@ -7,7 +7,7 @@ permalink: /Jolanta_Klavier_in_Kiel
 <script type="text/javascript" src="data/j/Jolanta_Klavier_in_Kiel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Jolanta_Klavier_in_Kiel](https://patronite.pl/Jolanta_Klavier_in_Kiel)
+# [Jolanta Klavier_in_Kiel](https://patronite.pl/Jolanta_Klavier_in_Kiel)
 
 ## Miesięczne wsparcie
 

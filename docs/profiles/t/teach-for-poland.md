@@ -1,5 +1,5 @@
 ---
-title: teach-for-poland | Patromierz
+title: "teach-for-poland | Patromierz"
 permalink: /teach-for-poland
 ---
 
@@ -7,7 +7,7 @@ permalink: /teach-for-poland
 <script type="text/javascript" src="data/t/teach-for-poland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teach-for-poland](https://patronite.pl/teach-for-poland)
+# [Teach for Poland](https://patronite.pl/teach-for-poland)
 
 ## Miesięczne wsparcie
 

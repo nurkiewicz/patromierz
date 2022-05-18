@@ -1,5 +1,5 @@
 ---
-title: psycho-logiczne-rozmowy | Patromierz
+title: "psycho-logiczne-rozmowy | Patromierz"
 permalink: /psycho-logiczne-rozmowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /psycho-logiczne-rozmowy
 <script type="text/javascript" src="data/p/psycho-logiczne-rozmowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psycho-logiczne-rozmowy](https://patronite.pl/psycho-logiczne-rozmowy)
+# [Psycho-logiczne rozmowy](https://patronite.pl/psycho-logiczne-rozmowy)
 
 ## Miesięczne wsparcie
 

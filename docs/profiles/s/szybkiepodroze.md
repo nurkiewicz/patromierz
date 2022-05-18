@@ -1,5 +1,5 @@
 ---
-title: szybkiepodroze | Patromierz
+title: "szybkiepodroze | Patromierz"
 permalink: /szybkiepodroze
 ---
 
@@ -7,7 +7,7 @@ permalink: /szybkiepodroze
 <script type="text/javascript" src="data/s/szybkiepodroze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szybkiepodroze](https://patronite.pl/szybkiepodroze)
+# [Szybkie Podróże](https://patronite.pl/szybkiepodroze)
 
 ## Miesięczne wsparcie
 

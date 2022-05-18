@@ -1,5 +1,5 @@
 ---
-title: anjunafamilypoland | Patromierz
+title: "anjunafamilypoland | Patromierz"
 permalink: /anjunafamilypoland
 ---
 
@@ -7,7 +7,7 @@ permalink: /anjunafamilypoland
 <script type="text/javascript" src="data/a/anjunafamilypoland.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anjunafamilypoland](https://patronite.pl/anjunafamilypoland)
+# [Anjunafamily Poland](https://patronite.pl/anjunafamilypoland)
 
 ## Miesięczne wsparcie
 

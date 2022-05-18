@@ -1,5 +1,5 @@
 ---
-title: fundacja-weblex | Patromierz
+title: "fundacja-weblex | Patromierz"
 permalink: /fundacja-weblex
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja-weblex
 <script type="text/javascript" src="data/f/fundacja-weblex.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja-weblex](https://patronite.pl/fundacja-weblex)
+# [Fundacja web.lex](https://patronite.pl/fundacja-weblex)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: HistorieNaFaktach | Patromierz
+title: "HistorieNaFaktach | Patromierz"
 permalink: /HistorieNaFaktach
 ---
 
@@ -7,7 +7,7 @@ permalink: /HistorieNaFaktach
 <script type="text/javascript" src="data/h/HistorieNaFaktach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HistorieNaFaktach](https://patronite.pl/HistorieNaFaktach)
+# [Historie na Faktach](https://patronite.pl/HistorieNaFaktach)
 
 ## Miesięczne wsparcie
 

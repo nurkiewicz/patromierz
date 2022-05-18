@@ -1,5 +1,5 @@
 ---
-title: Autor-NorbertKosciesza | Patromierz
+title: "Autor-NorbertKosciesza | Patromierz"
 permalink: /Autor-NorbertKosciesza
 ---
 
@@ -7,7 +7,7 @@ permalink: /Autor-NorbertKosciesza
 <script type="text/javascript" src="data/a/Autor-NorbertKosciesza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Autor-NorbertKosciesza](https://patronite.pl/Autor-NorbertKosciesza)
+# [Norbert Grzegorz Kościesza](https://patronite.pl/Autor-NorbertKosciesza)
 
 ## Miesięczne wsparcie
 

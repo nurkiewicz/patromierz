@@ -1,5 +1,5 @@
 ---
-title: Knebelstudio | Patromierz
+title: "Knebelstudio | Patromierz"
 permalink: /Knebelstudio
 ---
 
@@ -7,7 +7,7 @@ permalink: /Knebelstudio
 <script type="text/javascript" src="data/k/Knebelstudio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Knebelstudio](https://patronite.pl/Knebelstudio)
+# [Knebel studio Makleros](https://patronite.pl/Knebelstudio)
 
 ## Miesięczne wsparcie
 

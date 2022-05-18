@@ -1,5 +1,5 @@
 ---
-title: wioskakobiet | Patromierz
+title: "wioskakobiet | Patromierz"
 permalink: /wioskakobiet
 ---
 
@@ -7,7 +7,7 @@ permalink: /wioskakobiet
 <script type="text/javascript" src="data/w/wioskakobiet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wioskakobiet](https://patronite.pl/wioskakobiet)
+# [Wioska Kobiet](https://patronite.pl/wioskakobiet)
 
 ## Miesięczne wsparcie
 

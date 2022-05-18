@@ -1,5 +1,5 @@
 ---
-title: SejmLog | Patromierz
+title: "SejmLog | Patromierz"
 permalink: /SejmLog
 ---
 
@@ -7,7 +7,7 @@ permalink: /SejmLog
 <script type="text/javascript" src="data/s/SejmLog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SejmLog](https://patronite.pl/SejmLog)
+# [Fundacja SejmLog](https://patronite.pl/SejmLog)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: podrozmusicalowa | Patromierz
+title: "podrozmusicalowa | Patromierz"
 permalink: /podrozmusicalowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /podrozmusicalowa
 <script type="text/javascript" src="data/p/podrozmusicalowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podrozmusicalowa](https://patronite.pl/podrozmusicalowa)
+# [Podróż Musicalowa](https://patronite.pl/podrozmusicalowa)
 
 ## Miesięczne wsparcie
 

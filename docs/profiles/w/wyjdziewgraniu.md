@@ -1,5 +1,5 @@
 ---
-title: wyjdziewgraniu | Patromierz
+title: "wyjdziewgraniu | Patromierz"
 permalink: /wyjdziewgraniu
 ---
 
@@ -7,7 +7,7 @@ permalink: /wyjdziewgraniu
 <script type="text/javascript" src="data/w/wyjdziewgraniu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wyjdziewgraniu](https://patronite.pl/wyjdziewgraniu)
+# [Wyjdzie w Graniu](https://patronite.pl/wyjdziewgraniu)
 
 ## Miesięczne wsparcie
 

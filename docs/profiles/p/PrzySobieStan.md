@@ -1,5 +1,5 @@
 ---
-title: PrzySobieStan | Patromierz
+title: "PrzySobieStan | Patromierz"
 permalink: /PrzySobieStan
 ---
 
@@ -7,7 +7,7 @@ permalink: /PrzySobieStan
 <script type="text/javascript" src="data/p/PrzySobieStan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PrzySobieStan](https://patronite.pl/PrzySobieStan)
+# [PrzySobieStań](https://patronite.pl/PrzySobieStan)
 
 ## Miesięczne wsparcie
 

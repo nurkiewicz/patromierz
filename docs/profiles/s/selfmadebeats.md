@@ -1,5 +1,5 @@
 ---
-title: selfmadebeats | Patromierz
+title: "selfmadebeats | Patromierz"
 permalink: /selfmadebeats
 ---
 
@@ -7,7 +7,7 @@ permalink: /selfmadebeats
 <script type="text/javascript" src="data/s/selfmadebeats.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [selfmadebeats](https://patronite.pl/selfmadebeats)
+# [Self Made Beats](https://patronite.pl/selfmadebeats)
 
 ## Miesięczne wsparcie
 

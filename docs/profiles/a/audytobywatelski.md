@@ -1,5 +1,5 @@
 ---
-title: audytobywatelski | Patromierz
+title: "audytobywatelski | Patromierz"
 permalink: /audytobywatelski
 ---
 
@@ -7,7 +7,7 @@ permalink: /audytobywatelski
 <script type="text/javascript" src="data/a/audytobywatelski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [audytobywatelski](https://patronite.pl/audytobywatelski)
+# [audyt obywatelski](https://patronite.pl/audytobywatelski)
 
 ## Miesięczne wsparcie
 

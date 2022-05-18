@@ -1,5 +1,5 @@
 ---
-title: meiqpl | Patromierz
+title: "meiqpl | Patromierz"
 permalink: /meiqpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /meiqpl
 <script type="text/javascript" src="data/m/meiqpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [meiqpl](https://patronite.pl/meiqpl)
+# [MeiQ](https://patronite.pl/meiqpl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: czescdziewczyny | Patromierz
+title: "czescdziewczyny | Patromierz"
 permalink: /czescdziewczyny
 ---
 
@@ -7,7 +7,7 @@ permalink: /czescdziewczyny
 <script type="text/javascript" src="data/c/czescdziewczyny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czescdziewczyny](https://patronite.pl/czescdziewczyny)
+# [Cześć Dziewczyny!](https://patronite.pl/czescdziewczyny)
 
 ## Miesięczne wsparcie
 

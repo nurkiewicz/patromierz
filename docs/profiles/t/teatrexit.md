@@ -1,5 +1,5 @@
 ---
-title: teatrexit | Patromierz
+title: "teatrexit | Patromierz"
 permalink: /teatrexit
 ---
 
@@ -7,7 +7,7 @@ permalink: /teatrexit
 <script type="text/javascript" src="data/t/teatrexit.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teatrexit](https://patronite.pl/teatrexit)
+# [TeatrEXIT](https://patronite.pl/teatrexit)
 
 ## Miesięczne wsparcie
 

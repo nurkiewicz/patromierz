@@ -1,5 +1,5 @@
 ---
-title: ReCyclingRider | Patromierz
+title: "ReCyclingRider | Patromierz"
 permalink: /ReCyclingRider
 ---
 
@@ -7,7 +7,7 @@ permalink: /ReCyclingRider
 <script type="text/javascript" src="data/r/ReCyclingRider.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ReCyclingRider](https://patronite.pl/ReCyclingRider)
+# [Przemek Gierczak](https://patronite.pl/ReCyclingRider)
 
 ## Miesięczne wsparcie
 

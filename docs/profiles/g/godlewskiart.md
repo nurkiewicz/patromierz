@@ -1,5 +1,5 @@
 ---
-title: godlewskiart | Patromierz
+title: "godlewskiart | Patromierz"
 permalink: /godlewskiart
 ---
 
@@ -7,7 +7,7 @@ permalink: /godlewskiart
 <script type="text/javascript" src="data/g/godlewskiart.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [godlewskiart](https://patronite.pl/godlewskiart)
+# [Łukasz Godlewski](https://patronite.pl/godlewskiart)
 
 ## Miesięczne wsparcie
 

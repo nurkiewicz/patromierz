@@ -1,5 +1,5 @@
 ---
-title: konradgadzina | Patromierz
+title: "konradgadzina | Patromierz"
 permalink: /konradgadzina
 ---
 
@@ -7,7 +7,7 @@ permalink: /konradgadzina
 <script type="text/javascript" src="data/k/konradgadzina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [konradgadzina](https://patronite.pl/konradgadzina)
+# [Konrad Gadzina](https://patronite.pl/konradgadzina)
 
 ## Miesięczne wsparcie
 

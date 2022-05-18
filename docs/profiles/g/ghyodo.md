@@ -1,5 +1,5 @@
 ---
-title: ghyodo | Patromierz
+title: "ghyodo | Patromierz"
 permalink: /ghyodo
 ---
 
@@ -7,7 +7,7 @@ permalink: /ghyodo
 <script type="text/javascript" src="data/g/ghyodo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ghyodo](https://patronite.pl/ghyodo)
+# [Gabriel Hyodo](https://patronite.pl/ghyodo)
 
 ## Miesięczne wsparcie
 

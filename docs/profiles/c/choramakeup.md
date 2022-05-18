@@ -1,5 +1,5 @@
 ---
-title: choramakeup | Patromierz
+title: "choramakeup | Patromierz"
 permalink: /choramakeup
 ---
 
@@ -7,7 +7,7 @@ permalink: /choramakeup
 <script type="text/javascript" src="data/c/choramakeup.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [choramakeup](https://patronite.pl/choramakeup)
+# [Małgorzata Mięsiak](https://patronite.pl/choramakeup)
 
 ## Miesięczne wsparcie
 

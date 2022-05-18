@@ -1,5 +1,5 @@
 ---
-title: JulitaIlczyszyn | Patromierz
+title: "JulitaIlczyszyn | Patromierz"
 permalink: /JulitaIlczyszyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /JulitaIlczyszyn
 <script type="text/javascript" src="data/j/JulitaIlczyszyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JulitaIlczyszyn](https://patronite.pl/JulitaIlczyszyn)
+# [Julita Ilczyszyn](https://patronite.pl/JulitaIlczyszyn)
 
 ## Miesięczne wsparcie
 

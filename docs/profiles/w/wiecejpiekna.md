@@ -1,5 +1,5 @@
 ---
-title: wiecejpiekna | Patromierz
+title: "wiecejpiekna | Patromierz"
 permalink: /wiecejpiekna
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiecejpiekna
 <script type="text/javascript" src="data/w/wiecejpiekna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiecejpiekna](https://patronite.pl/wiecejpiekna)
+# [Czułe Punkty // Sylwia "Nikko" Biernacka ](https://patronite.pl/wiecejpiekna)
 
 ## Miesięczne wsparcie
 

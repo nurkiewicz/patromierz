@@ -1,5 +1,5 @@
 ---
-title: balet-krynica | Patromierz
+title: "balet-krynica | Patromierz"
 permalink: /balet-krynica
 ---
 
@@ -7,7 +7,7 @@ permalink: /balet-krynica
 <script type="text/javascript" src="data/b/balet-krynica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [balet-krynica](https://patronite.pl/balet-krynica)
+# [Krynickie Studio Baletowe im. Władysława Szlęka](https://patronite.pl/balet-krynica)
 
 ## Miesięczne wsparcie
 

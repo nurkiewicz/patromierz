@@ -1,5 +1,5 @@
 ---
-title: myvimu | Patromierz
+title: "myvimu | Patromierz"
 permalink: /myvimu
 ---
 
@@ -7,7 +7,7 @@ permalink: /myvimu
 <script type="text/javascript" src="data/m/myvimu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [myvimu](https://patronite.pl/myvimu)
+# [MyViMu - Moje Wirtualne Muzeum](https://patronite.pl/myvimu)
 
 ## Miesięczne wsparcie
 

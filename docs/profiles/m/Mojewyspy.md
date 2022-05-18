@@ -1,5 +1,5 @@
 ---
-title: Mojewyspy | Patromierz
+title: "Mojewyspy | Patromierz"
 permalink: /Mojewyspy
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mojewyspy
 <script type="text/javascript" src="data/m/Mojewyspy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mojewyspy](https://patronite.pl/Mojewyspy)
+# [Moje wyspy](https://patronite.pl/Mojewyspy)
 
 ## Miesięczne wsparcie
 

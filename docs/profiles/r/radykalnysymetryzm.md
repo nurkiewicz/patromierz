@@ -1,5 +1,5 @@
 ---
-title: radykalnysymetryzm | Patromierz
+title: "radykalnysymetryzm | Patromierz"
 permalink: /radykalnysymetryzm
 ---
 
@@ -7,7 +7,7 @@ permalink: /radykalnysymetryzm
 <script type="text/javascript" src="data/r/radykalnysymetryzm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radykalnysymetryzm](https://patronite.pl/radykalnysymetryzm)
+# [Radykalny symetryzm](https://patronite.pl/radykalnysymetryzm)
 
 ## Miesięczne wsparcie
 

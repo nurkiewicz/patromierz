@@ -1,5 +1,5 @@
 ---
-title: Sirenes | Patromierz
+title: "Sirenes | Patromierz"
 permalink: /Sirenes
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sirenes
 <script type="text/javascript" src="data/s/Sirenes.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sirenes](https://patronite.pl/Sirenes)
+# [Chór Kameralny Sirenes](https://patronite.pl/Sirenes)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: juztlumacze | Patromierz
+title: "juztlumacze | Patromierz"
 permalink: /juztlumacze
 ---
 
@@ -7,7 +7,7 @@ permalink: /juztlumacze
 <script type="text/javascript" src="data/j/juztlumacze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [juztlumacze](https://patronite.pl/juztlumacze)
+# [Już tłumaczę - podkast o książkach](https://patronite.pl/juztlumacze)
 
 ## Miesięczne wsparcie
 

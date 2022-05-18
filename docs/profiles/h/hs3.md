@@ -1,5 +1,5 @@
 ---
-title: hs3 | Patromierz
+title: "hs3 | Patromierz"
 permalink: /hs3
 ---
 
@@ -7,7 +7,7 @@ permalink: /hs3
 <script type="text/javascript" src="data/h/hs3.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hs3](https://patronite.pl/hs3)
+# [Hackerspace Trójmiasto](https://patronite.pl/hs3)
 
 ## Miesięczne wsparcie
 

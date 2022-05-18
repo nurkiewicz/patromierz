@@ -1,5 +1,5 @@
 ---
-title: metalurgia | Patromierz
+title: "metalurgia | Patromierz"
 permalink: /metalurgia
 ---
 
@@ -7,7 +7,7 @@ permalink: /metalurgia
 <script type="text/javascript" src="data/m/metalurgia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [metalurgia](https://patronite.pl/metalurgia)
+# [Metalurgia](https://patronite.pl/metalurgia)
 
 ## Miesięczne wsparcie
 

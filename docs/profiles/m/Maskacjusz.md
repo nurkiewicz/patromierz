@@ -1,5 +1,5 @@
 ---
-title: Maskacjusz | Patromierz
+title: "Maskacjusz | Patromierz"
 permalink: /Maskacjusz
 ---
 

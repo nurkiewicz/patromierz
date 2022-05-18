@@ -1,5 +1,5 @@
 ---
-title: BrokenMindzRadio | Patromierz
+title: "BrokenMindzRadio | Patromierz"
 permalink: /BrokenMindzRadio
 ---
 
@@ -7,7 +7,7 @@ permalink: /BrokenMindzRadio
 <script type="text/javascript" src="data/b/BrokenMindzRadio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BrokenMindzRadio](https://patronite.pl/BrokenMindzRadio)
+# [Broken Mindz](https://patronite.pl/BrokenMindzRadio)
 
 ## Miesięczne wsparcie
 

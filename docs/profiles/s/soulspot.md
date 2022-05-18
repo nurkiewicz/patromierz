@@ -1,5 +1,5 @@
 ---
-title: soulspot | Patromierz
+title: "soulspot | Patromierz"
 permalink: /soulspot
 ---
 
@@ -7,7 +7,7 @@ permalink: /soulspot
 <script type="text/javascript" src="data/s/soulspot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [soulspot](https://patronite.pl/soulspot)
+# [Soulspot](https://patronite.pl/soulspot)
 
 ## Miesięczne wsparcie
 

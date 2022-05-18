@@ -1,5 +1,5 @@
 ---
-title: kristinkagaming | Patromierz
+title: "kristinkagaming | Patromierz"
 permalink: /kristinkagaming
 ---
 
@@ -7,7 +7,7 @@ permalink: /kristinkagaming
 <script type="text/javascript" src="data/k/kristinkagaming.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kristinkagaming](https://patronite.pl/kristinkagaming)
+# [Kris-Tinka Gaming](https://patronite.pl/kristinkagaming)
 
 ## Miesięczne wsparcie
 

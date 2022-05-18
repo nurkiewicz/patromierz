@@ -1,5 +1,5 @@
 ---
-title: feliksiaki | Patromierz
+title: "feliksiaki | Patromierz"
 permalink: /feliksiaki
 ---
 
@@ -7,7 +7,7 @@ permalink: /feliksiaki
 <script type="text/javascript" src="data/f/feliksiaki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [feliksiaki](https://patronite.pl/feliksiaki)
+# [Fundacja Feliksiaki](https://patronite.pl/feliksiaki)
 
 ## Miesięczne wsparcie
 

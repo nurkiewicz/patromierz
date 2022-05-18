@@ -1,5 +1,5 @@
 ---
-title: Dokurviator | Patromierz
+title: "Dokurviator | Patromierz"
 permalink: /Dokurviator
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dokurviator
 <script type="text/javascript" src="data/d/Dokurviator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dokurviator](https://patronite.pl/Dokurviator)
+# [Dokurviator-Drift&Rally](https://patronite.pl/Dokurviator)
 
 ## Miesięczne wsparcie
 

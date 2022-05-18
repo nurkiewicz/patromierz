@@ -1,5 +1,5 @@
 ---
-title: naszachoszczowka | Patromierz
+title: "naszachoszczowka | Patromierz"
 permalink: /naszachoszczowka
 ---
 
@@ -7,7 +7,7 @@ permalink: /naszachoszczowka
 <script type="text/javascript" src="data/n/naszachoszczowka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naszachoszczowka](https://patronite.pl/naszachoszczowka)
+# [Nasza Choszczówka](https://patronite.pl/naszachoszczowka)
 
 ## Miesięczne wsparcie
 

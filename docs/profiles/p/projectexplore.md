@@ -1,5 +1,5 @@
 ---
-title: projectexplore | Patromierz
+title: "projectexplore | Patromierz"
 permalink: /projectexplore
 ---
 
@@ -7,7 +7,7 @@ permalink: /projectexplore
 <script type="text/javascript" src="data/p/projectexplore.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [projectexplore](https://patronite.pl/projectexplore)
+# [Project Explore](https://patronite.pl/projectexplore)
 
 ## Miesięczne wsparcie
 

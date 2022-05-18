@@ -1,5 +1,5 @@
 ---
-title: ocalona.podcast | Patromierz
+title: "ocalona.podcast | Patromierz"
 permalink: /ocalona.podcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /ocalona.podcast
 <script type="text/javascript" src="data/o/ocalona.podcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ocalona.podcast](https://patronite.pl/ocalona.podcast)
+# [Ocalona Podcast](https://patronite.pl/ocalona.podcast)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: tyniec_wydawnictwo | Patromierz
+title: "tyniec_wydawnictwo | Patromierz"
 permalink: /tyniec_wydawnictwo
 ---
 
@@ -7,7 +7,7 @@ permalink: /tyniec_wydawnictwo
 <script type="text/javascript" src="data/t/tyniec_wydawnictwo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tyniec_wydawnictwo](https://patronite.pl/tyniec_wydawnictwo)
+# [Tyniec Wydawnictwo Benedyktynów](https://patronite.pl/tyniec_wydawnictwo)
 
 ## Miesięczne wsparcie
 

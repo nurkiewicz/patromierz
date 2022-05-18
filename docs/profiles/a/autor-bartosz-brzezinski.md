@@ -1,5 +1,5 @@
 ---
-title: autor-bartosz-brzezinski | Patromierz
+title: "autor-bartosz-brzezinski | Patromierz"
 permalink: /autor-bartosz-brzezinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /autor-bartosz-brzezinski
 <script type="text/javascript" src="data/a/autor-bartosz-brzezinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [autor-bartosz-brzezinski](https://patronite.pl/autor-bartosz-brzezinski)
+# [Bartosz Brzeziński](https://patronite.pl/autor-bartosz-brzezinski)
 
 ## Miesięczne wsparcie
 

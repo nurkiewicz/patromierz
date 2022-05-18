@@ -1,5 +1,5 @@
 ---
-title: filozofiazycia | Patromierz
+title: "filozofiazycia | Patromierz"
 permalink: /filozofiazycia
 ---
 
@@ -7,7 +7,7 @@ permalink: /filozofiazycia
 <script type="text/javascript" src="data/f/filozofiazycia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filozofiazycia](https://patronite.pl/filozofiazycia)
+# [Filozofia Życia - Zosia Wilk](https://patronite.pl/filozofiazycia)
 
 ## Miesięczne wsparcie
 

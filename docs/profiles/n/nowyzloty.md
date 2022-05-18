@@ -1,5 +1,5 @@
 ---
-title: nowyzloty | Patromierz
+title: "nowyzloty | Patromierz"
 permalink: /nowyzloty
 ---
 
@@ -7,7 +7,7 @@ permalink: /nowyzloty
 <script type="text/javascript" src="data/n/nowyzloty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nowyzloty](https://patronite.pl/nowyzloty)
+# [NOWY ZŁOTY](https://patronite.pl/nowyzloty)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kasiasmialek | Patromierz
+title: "kasiasmialek | Patromierz"
 permalink: /kasiasmialek
 ---
 
@@ -7,7 +7,7 @@ permalink: /kasiasmialek
 <script type="text/javascript" src="data/k/kasiasmialek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kasiasmialek](https://patronite.pl/kasiasmialek)
+# [Kasia Śmiałek](https://patronite.pl/kasiasmialek)
 
 ## Miesięczne wsparcie
 

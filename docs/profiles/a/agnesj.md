@@ -1,5 +1,5 @@
 ---
-title: agnesj | Patromierz
+title: "agnesj | Patromierz"
 permalink: /agnesj
 ---
 
@@ -7,7 +7,7 @@ permalink: /agnesj
 <script type="text/javascript" src="data/a/agnesj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agnesj](https://patronite.pl/agnesj)
+# [Agnieszka Juszczyk](https://patronite.pl/agnesj)
 
 ## Miesięczne wsparcie
 

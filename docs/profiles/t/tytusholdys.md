@@ -1,5 +1,5 @@
 ---
-title: tytusholdys | Patromierz
+title: "tytusholdys | Patromierz"
 permalink: /tytusholdys
 ---
 
@@ -7,7 +7,7 @@ permalink: /tytusholdys
 <script type="text/javascript" src="data/t/tytusholdys.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tytusholdys](https://patronite.pl/tytusholdys)
+# [Tytus Hołdys ](https://patronite.pl/tytusholdys)
 
 ## Miesięczne wsparcie
 

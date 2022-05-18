@@ -1,5 +1,5 @@
 ---
-title: radiokuropatwa | Patromierz
+title: "radiokuropatwa | Patromierz"
 permalink: /radiokuropatwa
 ---
 
@@ -7,7 +7,7 @@ permalink: /radiokuropatwa
 <script type="text/javascript" src="data/r/radiokuropatwa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radiokuropatwa](https://patronite.pl/radiokuropatwa)
+# [Radio Kuropatwa ](https://patronite.pl/radiokuropatwa)
 
 ## Miesięczne wsparcie
 

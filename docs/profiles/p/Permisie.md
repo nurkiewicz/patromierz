@@ -1,5 +1,5 @@
 ---
-title: Permisie | Patromierz
+title: "Permisie | Patromierz"
 permalink: /Permisie
 ---
 
@@ -7,7 +7,7 @@ permalink: /Permisie
 <script type="text/javascript" src="data/p/Permisie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Permisie](https://patronite.pl/Permisie)
+# [Wojciech Górny Permisie.pl](https://patronite.pl/Permisie)
 
 ## Miesięczne wsparcie
 

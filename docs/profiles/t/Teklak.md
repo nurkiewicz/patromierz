@@ -1,5 +1,5 @@
 ---
-title: Teklak | Patromierz
+title: "Teklak | Patromierz"
 permalink: /Teklak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Teklak
 <script type="text/javascript" src="data/t/Teklak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Teklak](https://patronite.pl/Teklak)
+# [Radek Teklak](https://patronite.pl/Teklak)
 
 ## Miesięczne wsparcie
 

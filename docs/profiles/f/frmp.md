@@ -1,5 +1,5 @@
 ---
-title: frmp | Patromierz
+title: "frmp | Patromierz"
 permalink: /frmp
 ---
 
@@ -7,7 +7,7 @@ permalink: /frmp
 <script type="text/javascript" src="data/f/frmp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [frmp](https://patronite.pl/frmp)
+# [Fundacja Ratownictwo Motocyklowe Polska ](https://patronite.pl/frmp)
 
 ## Miesięczne wsparcie
 

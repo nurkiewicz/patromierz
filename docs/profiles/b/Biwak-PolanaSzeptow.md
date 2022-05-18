@@ -1,5 +1,5 @@
 ---
-title: Biwak-PolanaSzeptow | Patromierz
+title: "Biwak-PolanaSzeptow | Patromierz"
 permalink: /Biwak-PolanaSzeptow
 ---
 
@@ -7,7 +7,7 @@ permalink: /Biwak-PolanaSzeptow
 <script type="text/javascript" src="data/b/Biwak-PolanaSzeptow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Biwak-PolanaSzeptow](https://patronite.pl/Biwak-PolanaSzeptow)
+# [Biwak-Polana Szeptow](https://patronite.pl/Biwak-PolanaSzeptow)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: psychologpisze | Patromierz
+title: "psychologpisze | Patromierz"
 permalink: /psychologpisze
 ---
 
@@ -7,7 +7,7 @@ permalink: /psychologpisze
 <script type="text/javascript" src="data/p/psychologpisze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psychologpisze](https://patronite.pl/psychologpisze)
+# [Psycholog Pisze](https://patronite.pl/psychologpisze)
 
 ## Miesięczne wsparcie
 

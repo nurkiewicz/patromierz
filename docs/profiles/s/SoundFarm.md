@@ -1,5 +1,5 @@
 ---
-title: SoundFarm | Patromierz
+title: "SoundFarm | Patromierz"
 permalink: /SoundFarm
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: marfish | Patromierz
+title: "marfish | Patromierz"
 permalink: /marfish
 ---
 
@@ -7,7 +7,7 @@ permalink: /marfish
 <script type="text/javascript" src="data/m/marfish.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marfish](https://patronite.pl/marfish)
+# [Marek Malman](https://patronite.pl/marfish)
 
 ## Miesięczne wsparcie
 

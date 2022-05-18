@@ -1,5 +1,5 @@
 ---
-title: kolektywkult | Patromierz
+title: "kolektywkult | Patromierz"
 permalink: /kolektywkult
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolektywkult
 <script type="text/javascript" src="data/k/kolektywkult.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolektywkult](https://patronite.pl/kolektywkult)
+# [Kolektyw Kult](https://patronite.pl/kolektywkult)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: starodawneprzepisy | Patromierz
+title: "starodawneprzepisy | Patromierz"
 permalink: /starodawneprzepisy
 ---
 
@@ -7,7 +7,7 @@ permalink: /starodawneprzepisy
 <script type="text/javascript" src="data/s/starodawneprzepisy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [starodawneprzepisy](https://patronite.pl/starodawneprzepisy)
+# [Starodawne Przepisy](https://patronite.pl/starodawneprzepisy)
 
 ## Miesięczne wsparcie
 

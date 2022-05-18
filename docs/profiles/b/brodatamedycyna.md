@@ -1,5 +1,5 @@
 ---
-title: brodatamedycyna | Patromierz
+title: "brodatamedycyna | Patromierz"
 permalink: /brodatamedycyna
 ---
 
@@ -7,7 +7,7 @@ permalink: /brodatamedycyna
 <script type="text/javascript" src="data/b/brodatamedycyna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brodatamedycyna](https://patronite.pl/brodatamedycyna)
+# [Brodata Medycyna](https://patronite.pl/brodatamedycyna)
 
 ## Miesięczne wsparcie
 

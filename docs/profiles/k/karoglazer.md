@@ -1,5 +1,5 @@
 ---
-title: karoglazer | Patromierz
+title: "karoglazer | Patromierz"
 permalink: /karoglazer
 ---
 
@@ -7,7 +7,7 @@ permalink: /karoglazer
 <script type="text/javascript" src="data/k/karoglazer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karoglazer](https://patronite.pl/karoglazer)
+# [Karo Glazer](https://patronite.pl/karoglazer)
 
 ## Miesięczne wsparcie
 

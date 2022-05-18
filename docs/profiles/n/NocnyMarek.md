@@ -1,5 +1,5 @@
 ---
-title: NocnyMarek | Patromierz
+title: "NocnyMarek | Patromierz"
 permalink: /NocnyMarek
 ---
 
@@ -7,7 +7,7 @@ permalink: /NocnyMarek
 <script type="text/javascript" src="data/n/NocnyMarek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NocnyMarek](https://patronite.pl/NocnyMarek)
+# [Nocny Marek](https://patronite.pl/NocnyMarek)
 
 ## Miesięczne wsparcie
 

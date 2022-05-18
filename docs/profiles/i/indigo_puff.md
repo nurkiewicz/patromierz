@@ -1,5 +1,5 @@
 ---
-title: indigo_puff | Patromierz
+title: "indigo_puff | Patromierz"
 permalink: /indigo_puff
 ---
 
@@ -7,7 +7,7 @@ permalink: /indigo_puff
 <script type="text/javascript" src="data/i/indigo_puff.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [indigo_puff](https://patronite.pl/indigo_puff)
+# [Indigo Puff](https://patronite.pl/indigo_puff)
 
 ## Miesięczne wsparcie
 

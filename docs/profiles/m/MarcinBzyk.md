@@ -1,5 +1,5 @@
 ---
-title: MarcinBzyk | Patromierz
+title: "MarcinBzyk | Patromierz"
 permalink: /MarcinBzyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /MarcinBzyk
 <script type="text/javascript" src="data/m/MarcinBzyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MarcinBzyk](https://patronite.pl/MarcinBzyk)
+# [Marcin Bzyk](https://patronite.pl/MarcinBzyk)
 
 ## Miesięczne wsparcie
 

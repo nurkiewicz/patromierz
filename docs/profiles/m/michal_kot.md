@@ -1,5 +1,5 @@
 ---
-title: michal_kot | Patromierz
+title: "michal_kot | Patromierz"
 permalink: /michal_kot
 ---
 
@@ -7,7 +7,7 @@ permalink: /michal_kot
 <script type="text/javascript" src="data/m/michal_kot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michal_kot](https://patronite.pl/michal_kot)
+# [Michał Kot](https://patronite.pl/michal_kot)
 
 ## Miesięczne wsparcie
 

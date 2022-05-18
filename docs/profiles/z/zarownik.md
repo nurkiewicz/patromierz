@@ -1,5 +1,5 @@
 ---
-title: zarownik | Patromierz
+title: "zarownik | Patromierz"
 permalink: /zarownik
 ---
 
@@ -7,7 +7,7 @@ permalink: /zarownik
 <script type="text/javascript" src="data/z/zarownik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zarownik](https://patronite.pl/zarownik)
+# [ZARÓWNIK](https://patronite.pl/zarownik)
 
 ## Miesięczne wsparcie
 

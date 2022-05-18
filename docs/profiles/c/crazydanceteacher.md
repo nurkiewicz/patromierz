@@ -1,5 +1,5 @@
 ---
-title: crazydanceteacher | Patromierz
+title: "crazydanceteacher | Patromierz"
 permalink: /crazydanceteacher
 ---
 
@@ -7,7 +7,7 @@ permalink: /crazydanceteacher
 <script type="text/javascript" src="data/c/crazydanceteacher.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [crazydanceteacher](https://patronite.pl/crazydanceteacher)
+# [Crazy Dance Teacher](https://patronite.pl/crazydanceteacher)
 
 ## Miesięczne wsparcie
 

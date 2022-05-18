@@ -1,5 +1,5 @@
 ---
-title: lotsokoła | Patromierz
+title: "lotsokoła | Patromierz"
 permalink: /lotsokoła
 ---
 
@@ -7,7 +7,7 @@ permalink: /lotsokoła
 <script type="text/javascript" src="data/l/lotsokoła.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lotsokoła](https://patronite.pl/lotsokoła)
+# [Lot Sokoła](https://patronite.pl/lotsokoła)
 
 ## Miesięczne wsparcie
 

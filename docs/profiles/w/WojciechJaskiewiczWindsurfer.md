@@ -1,5 +1,5 @@
 ---
-title: WojciechJaskiewiczWindsurfer | Patromierz
+title: "WojciechJaskiewiczWindsurfer | Patromierz"
 permalink: /WojciechJaskiewiczWindsurfer
 ---
 
@@ -7,7 +7,7 @@ permalink: /WojciechJaskiewiczWindsurfer
 <script type="text/javascript" src="data/w/WojciechJaskiewiczWindsurfer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WojciechJaskiewiczWindsurfer](https://patronite.pl/WojciechJaskiewiczWindsurfer)
+# [Wojciech  Jaśkiewicz](https://patronite.pl/WojciechJaskiewiczWindsurfer)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Vegereggae | Patromierz
+title: "Vegereggae | Patromierz"
 permalink: /Vegereggae
 ---
 
@@ -7,7 +7,7 @@ permalink: /Vegereggae
 <script type="text/javascript" src="data/v/Vegereggae.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Vegereggae](https://patronite.pl/Vegereggae)
+# [Rafał Vegereggae](https://patronite.pl/Vegereggae)
 
 ## Miesięczne wsparcie
 

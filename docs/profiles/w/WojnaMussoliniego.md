@@ -1,5 +1,5 @@
 ---
-title: WojnaMussoliniego | Patromierz
+title: "WojnaMussoliniego | Patromierz"
 permalink: /WojnaMussoliniego
 ---
 
@@ -7,7 +7,7 @@ permalink: /WojnaMussoliniego
 <script type="text/javascript" src="data/w/WojnaMussoliniego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WojnaMussoliniego](https://patronite.pl/WojnaMussoliniego)
+# [Wojna Mussoliniego](https://patronite.pl/WojnaMussoliniego)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: psychowiedza | Patromierz
+title: "psychowiedza | Patromierz"
 permalink: /psychowiedza
 ---
 
@@ -7,7 +7,7 @@ permalink: /psychowiedza
 <script type="text/javascript" src="data/p/psychowiedza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psychowiedza](https://patronite.pl/psychowiedza)
+# [Psychowiedza](https://patronite.pl/psychowiedza)
 
 ## Miesięczne wsparcie
 

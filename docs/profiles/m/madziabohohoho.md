@@ -1,5 +1,5 @@
 ---
-title: madziabohohoho | Patromierz
+title: "madziabohohoho | Patromierz"
 permalink: /madziabohohoho
 ---
 
@@ -7,7 +7,7 @@ permalink: /madziabohohoho
 <script type="text/javascript" src="data/m/madziabohohoho.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [madziabohohoho](https://patronite.pl/madziabohohoho)
+# [Madzia Boho hoho](https://patronite.pl/madziabohohoho)
 
 ## Miesięczne wsparcie
 

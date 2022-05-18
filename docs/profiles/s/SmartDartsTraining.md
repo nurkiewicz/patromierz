@@ -1,5 +1,5 @@
 ---
-title: SmartDartsTraining | Patromierz
+title: "SmartDartsTraining | Patromierz"
 permalink: /SmartDartsTraining
 ---
 
@@ -7,7 +7,7 @@ permalink: /SmartDartsTraining
 <script type="text/javascript" src="data/s/SmartDartsTraining.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SmartDartsTraining](https://patronite.pl/SmartDartsTraining)
+# [Łukasz Wacławski](https://patronite.pl/SmartDartsTraining)
 
 ## Miesięczne wsparcie
 

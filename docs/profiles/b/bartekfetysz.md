@@ -1,5 +1,5 @@
 ---
-title: bartekfetysz | Patromierz
+title: "bartekfetysz | Patromierz"
 permalink: /bartekfetysz
 ---
 
@@ -7,7 +7,7 @@ permalink: /bartekfetysz
 <script type="text/javascript" src="data/b/bartekfetysz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bartekfetysz](https://patronite.pl/bartekfetysz)
+# [Bartek Fetysz](https://patronite.pl/bartekfetysz)
 
 ## Miesięczne wsparcie
 

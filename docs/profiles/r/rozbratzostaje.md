@@ -1,5 +1,5 @@
 ---
-title: rozbratzostaje | Patromierz
+title: "rozbratzostaje | Patromierz"
 permalink: /rozbratzostaje
 ---
 
@@ -7,7 +7,7 @@ permalink: /rozbratzostaje
 <script type="text/javascript" src="data/r/rozbratzostaje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rozbratzostaje](https://patronite.pl/rozbratzostaje)
+# [Rozbrat](https://patronite.pl/rozbratzostaje)
 
 ## Miesięczne wsparcie
 

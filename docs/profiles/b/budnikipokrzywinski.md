@@ -1,5 +1,5 @@
 ---
-title: budnikipokrzywinski | Patromierz
+title: "budnikipokrzywinski | Patromierz"
 permalink: /budnikipokrzywinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /budnikipokrzywinski
 <script type="text/javascript" src="data/b/budnikipokrzywinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [budnikipokrzywinski](https://patronite.pl/budnikipokrzywinski)
+# [Budnik i Pokrzywiński](https://patronite.pl/budnikipokrzywinski)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zwierzofochy | Patromierz
+title: "zwierzofochy | Patromierz"
 permalink: /zwierzofochy
 ---
 
@@ -7,7 +7,7 @@ permalink: /zwierzofochy
 <script type="text/javascript" src="data/z/zwierzofochy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zwierzofochy](https://patronite.pl/zwierzofochy)
+# [Zwierzofochy](https://patronite.pl/zwierzofochy)
 
 ## Miesięczne wsparcie
 

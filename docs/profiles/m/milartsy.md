@@ -1,5 +1,5 @@
 ---
-title: milartsy | Patromierz
+title: "milartsy | Patromierz"
 permalink: /milartsy
 ---
 
@@ -7,7 +7,7 @@ permalink: /milartsy
 <script type="text/javascript" src="data/m/milartsy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [milartsy](https://patronite.pl/milartsy)
+# [Mila Starzyńska](https://patronite.pl/milartsy)
 
 ## Miesięczne wsparcie
 

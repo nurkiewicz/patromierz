@@ -1,5 +1,5 @@
 ---
-title: tomaszkostecki | Patromierz
+title: "tomaszkostecki | Patromierz"
 permalink: /tomaszkostecki
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomaszkostecki
 <script type="text/javascript" src="data/t/tomaszkostecki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomaszkostecki](https://patronite.pl/tomaszkostecki)
+# [Fundacja DDC](https://patronite.pl/tomaszkostecki)
 
 ## Miesięczne wsparcie
 

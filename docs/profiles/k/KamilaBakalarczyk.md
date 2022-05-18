@@ -1,5 +1,5 @@
 ---
-title: KamilaBakalarczyk | Patromierz
+title: "KamilaBakalarczyk | Patromierz"
 permalink: /KamilaBakalarczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /KamilaBakalarczyk
 <script type="text/javascript" src="data/k/KamilaBakalarczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KamilaBakalarczyk](https://patronite.pl/KamilaBakalarczyk)
+# [Kamila Bakalarczyk](https://patronite.pl/KamilaBakalarczyk)
 
 ## Miesięczne wsparcie
 

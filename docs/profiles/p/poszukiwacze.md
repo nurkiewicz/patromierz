@@ -1,5 +1,5 @@
 ---
-title: poszukiwacze | Patromierz
+title: "poszukiwacze | Patromierz"
 permalink: /poszukiwacze
 ---
 
@@ -7,7 +7,7 @@ permalink: /poszukiwacze
 <script type="text/javascript" src="data/p/poszukiwacze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poszukiwacze](https://patronite.pl/poszukiwacze)
+# [Tropiciele Zbrodni](https://patronite.pl/poszukiwacze)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: teatrperformer | Patromierz
+title: "teatrperformer | Patromierz"
 permalink: /teatrperformer
 ---
 
@@ -7,7 +7,7 @@ permalink: /teatrperformer
 <script type="text/javascript" src="data/t/teatrperformer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teatrperformer](https://patronite.pl/teatrperformer)
+# [Paweł Dudziński](https://patronite.pl/teatrperformer)
 
 ## Miesięczne wsparcie
 

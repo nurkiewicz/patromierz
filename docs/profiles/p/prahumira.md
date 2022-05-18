@@ -1,5 +1,5 @@
 ---
-title: prahumira | Patromierz
+title: "prahumira | Patromierz"
 permalink: /prahumira
 ---
 
@@ -7,7 +7,7 @@ permalink: /prahumira
 <script type="text/javascript" src="data/p/prahumira.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prahumira](https://patronite.pl/prahumira)
+# [Prahumira](https://patronite.pl/prahumira)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: klubalternatywa | Patromierz
+title: "klubalternatywa | Patromierz"
 permalink: /klubalternatywa
 ---
 
@@ -7,7 +7,7 @@ permalink: /klubalternatywa
 <script type="text/javascript" src="data/k/klubalternatywa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klubalternatywa](https://patronite.pl/klubalternatywa)
+# [Klub Młodzieżowy "Alternatywa"](https://patronite.pl/klubalternatywa)
 
 ## Miesięczne wsparcie
 

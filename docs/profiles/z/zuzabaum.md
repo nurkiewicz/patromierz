@@ -1,5 +1,5 @@
 ---
-title: zuzabaum | Patromierz
+title: "zuzabaum | Patromierz"
 permalink: /zuzabaum
 ---
 
@@ -7,7 +7,7 @@ permalink: /zuzabaum
 <script type="text/javascript" src="data/z/zuzabaum.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zuzabaum](https://patronite.pl/zuzabaum)
+# [ZUZA BAUM](https://patronite.pl/zuzabaum)
 
 ## Miesięczne wsparcie
 

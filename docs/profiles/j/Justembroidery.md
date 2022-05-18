@@ -1,5 +1,5 @@
 ---
-title: Justembroidery | Patromierz
+title: "Justembroidery | Patromierz"
 permalink: /Justembroidery
 ---
 
@@ -7,7 +7,7 @@ permalink: /Justembroidery
 <script type="text/javascript" src="data/j/Justembroidery.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Justembroidery](https://patronite.pl/Justembroidery)
+# [Justyna Kuligowska](https://patronite.pl/Justembroidery)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: flyingbag | Patromierz
+title: "flyingbag | Patromierz"
 permalink: /flyingbag
 ---
 
@@ -7,7 +7,7 @@ permalink: /flyingbag
 <script type="text/javascript" src="data/f/flyingbag.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [flyingbag](https://patronite.pl/flyingbag)
+# [Kira Sukhoboichenko](https://patronite.pl/flyingbag)
 
 ## Miesięczne wsparcie
 

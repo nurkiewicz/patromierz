@@ -1,5 +1,5 @@
 ---
-title: Natalia_Gebert | Patromierz
+title: "Natalia_Gebert | Patromierz"
 permalink: /Natalia_Gebert
 ---
 
@@ -7,7 +7,7 @@ permalink: /Natalia_Gebert
 <script type="text/javascript" src="data/n/Natalia_Gebert.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Natalia_Gebert](https://patronite.pl/Natalia_Gebert)
+# [Natalia Gebert](https://patronite.pl/Natalia_Gebert)
 
 ## Miesięczne wsparcie
 

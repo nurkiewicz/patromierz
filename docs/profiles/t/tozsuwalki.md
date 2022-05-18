@@ -1,5 +1,5 @@
 ---
-title: tozsuwalki | Patromierz
+title: "tozsuwalki | Patromierz"
 permalink: /tozsuwalki
 ---
 
@@ -7,7 +7,7 @@ permalink: /tozsuwalki
 <script type="text/javascript" src="data/t/tozsuwalki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tozsuwalki](https://patronite.pl/tozsuwalki)
+# [Towarzystwo Opieki nad Zwierzętami w Polsce Oddział w Suwałkach](https://patronite.pl/tozsuwalki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: polnischestheaterberlin | Patromierz
+title: "polnischestheaterberlin | Patromierz"
 permalink: /polnischestheaterberlin
 ---
 
@@ -7,7 +7,7 @@ permalink: /polnischestheaterberlin
 <script type="text/javascript" src="data/p/polnischestheaterberlin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polnischestheaterberlin](https://patronite.pl/polnischestheaterberlin)
+# [Polnisches Theater Berlin](https://patronite.pl/polnischestheaterberlin)
 
 ## Miesięczne wsparcie
 

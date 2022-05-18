@@ -1,5 +1,5 @@
 ---
-title: polki | Patromierz
+title: "polki | Patromierz"
 permalink: /polki
 ---
 
@@ -7,7 +7,7 @@ permalink: /polki
 <script type="text/javascript" src="data/p/polki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polki](https://patronite.pl/polki)
+# [Polki na Obczyźnie](https://patronite.pl/polki)
 
 ## Miesięczne wsparcie
 

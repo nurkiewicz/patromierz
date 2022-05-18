@@ -1,5 +1,5 @@
 ---
-title: 3DStudioByBUSER | Patromierz
+title: "3DStudioByBUSER | Patromierz"
 permalink: /3DStudioByBUSER
 ---
 
@@ -7,7 +7,7 @@ permalink: /3DStudioByBUSER
 <script type="text/javascript" src="data/3/3DStudioByBUSER.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [3DStudioByBUSER](https://patronite.pl/3DStudioByBUSER)
+# [3D Studio by Buser](https://patronite.pl/3DStudioByBUSER)
 
 ## Miesięczne wsparcie
 

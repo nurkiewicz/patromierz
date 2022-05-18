@@ -1,5 +1,5 @@
 ---
-title: szczecińskiruchmiejski | Patromierz
+title: "szczecińskiruchmiejski | Patromierz"
 permalink: /szczecińskiruchmiejski
 ---
 
@@ -7,7 +7,7 @@ permalink: /szczecińskiruchmiejski
 <script type="text/javascript" src="data/s/szczecińskiruchmiejski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szczecińskiruchmiejski](https://patronite.pl/szczecińskiruchmiejski)
+# [Szczeciński Ruch Miejski](https://patronite.pl/szczecińskiruchmiejski)
 
 ## Miesięczne wsparcie
 

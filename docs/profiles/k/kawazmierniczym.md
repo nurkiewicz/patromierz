@@ -1,5 +1,5 @@
 ---
-title: kawazmierniczym | Patromierz
+title: "kawazmierniczym | Patromierz"
 permalink: /kawazmierniczym
 ---
 
@@ -7,7 +7,7 @@ permalink: /kawazmierniczym
 <script type="text/javascript" src="data/k/kawazmierniczym.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kawazmierniczym](https://patronite.pl/kawazmierniczym)
+# [#kawazmierniczym](https://patronite.pl/kawazmierniczym)
 
 ## Miesięczne wsparcie
 

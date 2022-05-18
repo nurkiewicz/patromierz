@@ -1,5 +1,5 @@
 ---
-title: JanekSpiewak | Patromierz
+title: "JanekSpiewak | Patromierz"
 permalink: /JanekSpiewak
 ---
 
@@ -7,7 +7,7 @@ permalink: /JanekSpiewak
 <script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JanekSpiewak](https://patronite.pl/JanekSpiewak)
+# [Jan Śpiewak](https://patronite.pl/JanekSpiewak)
 
 ## Miesięczne wsparcie
 

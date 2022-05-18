@@ -1,5 +1,5 @@
 ---
-title: fotazdrona | Patromierz
+title: "fotazdrona | Patromierz"
 permalink: /fotazdrona
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotazdrona
 <script type="text/javascript" src="data/f/fotazdrona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotazdrona](https://patronite.pl/fotazdrona)
+# [Fotazdrona](https://patronite.pl/fotazdrona)
 
 ## Miesięczne wsparcie
 

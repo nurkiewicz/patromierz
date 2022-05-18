@@ -1,5 +1,5 @@
 ---
-title: MaszWybór | Patromierz
+title: "MaszWybór | Patromierz"
 permalink: /MaszWybór
 ---
 
@@ -7,7 +7,7 @@ permalink: /MaszWybór
 <script type="text/javascript" src="data/m/MaszWybór.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MaszWybór](https://patronite.pl/MaszWybór)
+# [Wydawnictwo Wielokrotnego Wyboru](https://patronite.pl/MaszWybór)
 
 ## Miesięczne wsparcie
 

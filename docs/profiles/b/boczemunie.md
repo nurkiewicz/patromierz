@@ -1,5 +1,5 @@
 ---
-title: boczemunie | Patromierz
+title: "boczemunie | Patromierz"
 permalink: /boczemunie
 ---
 
@@ -7,7 +7,7 @@ permalink: /boczemunie
 <script type="text/javascript" src="data/b/boczemunie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [boczemunie](https://patronite.pl/boczemunie)
+# [Podcast „Bo czemu nie?”](https://patronite.pl/boczemunie)
 
 ## Miesięczne wsparcie
 

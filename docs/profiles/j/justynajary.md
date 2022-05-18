@@ -1,5 +1,5 @@
 ---
-title: justynajary | Patromierz
+title: "justynajary | Patromierz"
 permalink: /justynajary
 ---
 
@@ -7,7 +7,7 @@ permalink: /justynajary
 <script type="text/javascript" src="data/j/justynajary.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [justynajary](https://patronite.pl/justynajary)
+# [Justyna Jary](https://patronite.pl/justynajary)
 
 ## Miesięczne wsparcie
 

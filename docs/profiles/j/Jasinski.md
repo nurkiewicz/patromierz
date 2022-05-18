@@ -1,5 +1,5 @@
 ---
-title: Jasinski | Patromierz
+title: "Jasinski | Patromierz"
 permalink: /Jasinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /Jasinski
 <script type="text/javascript" src="data/j/Jasinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Jasinski](https://patronite.pl/Jasinski)
+# [Marcin Jasiński Fotografia](https://patronite.pl/Jasinski)
 
 ## Miesięczne wsparcie
 

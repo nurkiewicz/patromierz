@@ -1,5 +1,5 @@
 ---
-title: Psiakowopodlasem | Patromierz
+title: "Psiakowopodlasem | Patromierz"
 permalink: /Psiakowopodlasem
 ---
 
@@ -7,7 +7,7 @@ permalink: /Psiakowopodlasem
 <script type="text/javascript" src="data/p/Psiakowopodlasem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Psiakowopodlasem](https://patronite.pl/Psiakowopodlasem)
+# [Fundacja Psiakowo pod lasem](https://patronite.pl/Psiakowopodlasem)
 
 ## Miesięczne wsparcie
 

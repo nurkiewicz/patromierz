@@ -1,5 +1,5 @@
 ---
-title: pelnialiteratury | Patromierz
+title: "pelnialiteratury | Patromierz"
 permalink: /pelnialiteratury
 ---
 
@@ -7,7 +7,7 @@ permalink: /pelnialiteratury
 <script type="text/javascript" src="data/p/pelnialiteratury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pelnialiteratury](https://patronite.pl/pelnialiteratury)
+# [Pełnia Literatury. Nocny podcast literacki](https://patronite.pl/pelnialiteratury)
 
 ## Miesięczne wsparcie
 

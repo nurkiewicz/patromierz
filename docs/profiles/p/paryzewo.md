@@ -1,5 +1,5 @@
 ---
-title: paryzewo | Patromierz
+title: "paryzewo | Patromierz"
 permalink: /paryzewo
 ---
 
@@ -7,7 +7,7 @@ permalink: /paryzewo
 <script type="text/javascript" src="data/p/paryzewo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paryzewo](https://patronite.pl/paryzewo)
+# [Paryżewo](https://patronite.pl/paryzewo)
 
 ## Miesięczne wsparcie
 

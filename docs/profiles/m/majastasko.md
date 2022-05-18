@@ -1,5 +1,5 @@
 ---
-title: majastasko | Patromierz
+title: "majastasko | Patromierz"
 permalink: /majastasko
 ---
 
@@ -7,7 +7,7 @@ permalink: /majastasko
 <script type="text/javascript" src="data/m/majastasko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [majastasko](https://patronite.pl/majastasko)
+# [Maja Staśko](https://patronite.pl/majastasko)
 
 ## Miesięczne wsparcie
 

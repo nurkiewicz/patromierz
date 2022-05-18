@@ -1,5 +1,5 @@
 ---
-title: osrodekrehabilitacji | Patromierz
+title: "osrodekrehabilitacji | Patromierz"
 permalink: /osrodekrehabilitacji
 ---
 
@@ -7,7 +7,7 @@ permalink: /osrodekrehabilitacji
 <script type="text/javascript" src="data/o/osrodekrehabilitacji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [osrodekrehabilitacji](https://patronite.pl/osrodekrehabilitacji)
+# [Ośrodek Rehabilitacji Zwierząt Chronionych](https://patronite.pl/osrodekrehabilitacji)
 
 ## Miesięczne wsparcie
 

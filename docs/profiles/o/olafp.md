@@ -1,5 +1,5 @@
 ---
-title: olafp | Patromierz
+title: "olafp | Patromierz"
 permalink: /olafp
 ---
 
@@ -7,7 +7,7 @@ permalink: /olafp
 <script type="text/javascript" src="data/o/olafp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [olafp](https://patronite.pl/olafp)
+# [Olaf Popkiewicz](https://patronite.pl/olafp)
 
 ## Miesięczne wsparcie
 

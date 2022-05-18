@@ -1,5 +1,5 @@
 ---
-title: szop | Patromierz
+title: "szop | Patromierz"
 permalink: /szop
 ---
 
@@ -7,7 +7,7 @@ permalink: /szop
 <script type="text/javascript" src="data/s/szop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szop](https://patronite.pl/szop)
+# [SzopDemaskuje](https://patronite.pl/szop)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kartingraport | Patromierz
+title: "kartingraport | Patromierz"
 permalink: /kartingraport
 ---
 
@@ -7,7 +7,7 @@ permalink: /kartingraport
 <script type="text/javascript" src="data/k/kartingraport.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kartingraport](https://patronite.pl/kartingraport)
+# [Karting Raport](https://patronite.pl/kartingraport)
 
 ## Miesięczne wsparcie
 

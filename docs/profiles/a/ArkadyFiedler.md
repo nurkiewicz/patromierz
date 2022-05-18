@@ -1,5 +1,5 @@
 ---
-title: ArkadyFiedler | Patromierz
+title: "ArkadyFiedler | Patromierz"
 permalink: /ArkadyFiedler
 ---
 
@@ -7,7 +7,7 @@ permalink: /ArkadyFiedler
 <script type="text/javascript" src="data/a/ArkadyFiedler.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ArkadyFiedler](https://patronite.pl/ArkadyFiedler)
+# [Arkady P. Fiedler](https://patronite.pl/ArkadyFiedler)
 
 ## Miesięczne wsparcie
 

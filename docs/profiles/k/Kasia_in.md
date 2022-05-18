@@ -1,5 +1,5 @@
 ---
-title: Kasia_in | Patromierz
+title: "Kasia_in | Patromierz"
 permalink: /Kasia_in
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kasia_in
 <script type="text/javascript" src="data/k/Kasia_in.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kasia_in](https://patronite.pl/Kasia_in)
+# [Kasia.in](https://patronite.pl/Kasia_in)
 
 ## Miesięczne wsparcie
 

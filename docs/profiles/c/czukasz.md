@@ -1,5 +1,5 @@
 ---
-title: czukasz | Patromierz
+title: "czukasz | Patromierz"
 permalink: /czukasz
 ---
 
@@ -7,7 +7,7 @@ permalink: /czukasz
 <script type="text/javascript" src="data/c/czukasz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czukasz](https://patronite.pl/czukasz)
+# [Czukasz](https://patronite.pl/czukasz)
 
 ## Miesięczne wsparcie
 

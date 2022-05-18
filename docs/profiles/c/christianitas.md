@@ -1,5 +1,5 @@
 ---
-title: christianitas | Patromierz
+title: "christianitas | Patromierz"
 permalink: /christianitas
 ---
 
@@ -7,7 +7,7 @@ permalink: /christianitas
 <script type="text/javascript" src="data/c/christianitas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [christianitas](https://patronite.pl/christianitas)
+# [Christianitas](https://patronite.pl/christianitas)
 
 ## Miesięczne wsparcie
 

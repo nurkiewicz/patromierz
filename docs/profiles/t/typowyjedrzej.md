@@ -1,5 +1,5 @@
 ---
-title: typowyjedrzej | Patromierz
+title: "typowyjedrzej | Patromierz"
 permalink: /typowyjedrzej
 ---
 
@@ -7,7 +7,7 @@ permalink: /typowyjedrzej
 <script type="text/javascript" src="data/t/typowyjedrzej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [typowyjedrzej](https://patronite.pl/typowyjedrzej)
+# [Typowy Jędrzej](https://patronite.pl/typowyjedrzej)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ShiftHigher | Patromierz
+title: "ShiftHigher | Patromierz"
 permalink: /ShiftHigher
 ---
 
@@ -7,7 +7,7 @@ permalink: /ShiftHigher
 <script type="text/javascript" src="data/s/ShiftHigher.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ShiftHigher](https://patronite.pl/ShiftHigher)
+# [Shift Higher](https://patronite.pl/ShiftHigher)
 
 ## Miesięczne wsparcie
 

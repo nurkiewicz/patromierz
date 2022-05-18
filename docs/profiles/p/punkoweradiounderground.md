@@ -1,5 +1,5 @@
 ---
-title: punkoweradiounderground | Patromierz
+title: "punkoweradiounderground | Patromierz"
 permalink: /punkoweradiounderground
 ---
 
@@ -7,7 +7,7 @@ permalink: /punkoweradiounderground
 <script type="text/javascript" src="data/p/punkoweradiounderground.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [punkoweradiounderground](https://patronite.pl/punkoweradiounderground)
+# [Punkowe Radio Underground](https://patronite.pl/punkoweradiounderground)
 
 ## Miesięczne wsparcie
 

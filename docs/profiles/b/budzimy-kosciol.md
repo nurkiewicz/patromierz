@@ -1,5 +1,5 @@
 ---
-title: budzimy-kosciol | Patromierz
+title: "budzimy-kosciol | Patromierz"
 permalink: /budzimy-kosciol
 ---
 
@@ -7,7 +7,7 @@ permalink: /budzimy-kosciol
 <script type="text/javascript" src="data/b/budzimy-kosciol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [budzimy-kosciol](https://patronite.pl/budzimy-kosciol)
+# [Fundacja Nowa Pięćdziesiątnica](https://patronite.pl/budzimy-kosciol)
 
 ## Miesięczne wsparcie
 

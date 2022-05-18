@@ -1,5 +1,5 @@
 ---
-title: extratimepro | Patromierz
+title: "extratimepro | Patromierz"
 permalink: /extratimepro
 ---
 
@@ -7,7 +7,7 @@ permalink: /extratimepro
 <script type="text/javascript" src="data/e/extratimepro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [extratimepro](https://patronite.pl/extratimepro)
+# [EXTRA TIME - PRO ](https://patronite.pl/extratimepro)
 
 ## Miesięczne wsparcie
 

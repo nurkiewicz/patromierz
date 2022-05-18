@@ -1,5 +1,5 @@
 ---
-title: lightkeeper | Patromierz
+title: "lightkeeper | Patromierz"
 permalink: /lightkeeper
 ---
 
@@ -7,7 +7,7 @@ permalink: /lightkeeper
 <script type="text/javascript" src="data/l/lightkeeper.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lightkeeper](https://patronite.pl/lightkeeper)
+# [Light Keeper](https://patronite.pl/lightkeeper)
 
 ## Miesięczne wsparcie
 

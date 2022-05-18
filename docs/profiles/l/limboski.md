@@ -1,5 +1,5 @@
 ---
-title: limboski | Patromierz
+title: "limboski | Patromierz"
 permalink: /limboski
 ---
 
@@ -7,7 +7,7 @@ permalink: /limboski
 <script type="text/javascript" src="data/l/limboski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [limboski](https://patronite.pl/limboski)
+# [LIMBOSKI](https://patronite.pl/limboski)
 
 ## Miesięczne wsparcie
 

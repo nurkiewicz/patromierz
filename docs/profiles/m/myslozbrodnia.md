@@ -1,5 +1,5 @@
 ---
-title: myslozbrodnia | Patromierz
+title: "myslozbrodnia | Patromierz"
 permalink: /myslozbrodnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /myslozbrodnia
 <script type="text/javascript" src="data/m/myslozbrodnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [myslozbrodnia](https://patronite.pl/myslozbrodnia)
+# [Myślozbrodnia](https://patronite.pl/myslozbrodnia)
 
 ## Miesięczne wsparcie
 

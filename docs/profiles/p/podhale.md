@@ -1,5 +1,5 @@
 ---
-title: podhale | Patromierz
+title: "podhale | Patromierz"
 permalink: /podhale
 ---
 
@@ -7,7 +7,7 @@ permalink: /podhale
 <script type="text/javascript" src="data/p/podhale.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podhale](https://patronite.pl/podhale)
+# [Marian Gromala ](https://patronite.pl/podhale)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KonradJeremus | Patromierz
+title: "KonradJeremus | Patromierz"
 permalink: /KonradJeremus
 ---
 
@@ -7,7 +7,7 @@ permalink: /KonradJeremus
 <script type="text/javascript" src="data/k/KonradJeremus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KonradJeremus](https://patronite.pl/KonradJeremus)
+# [Konrad Jeremus](https://patronite.pl/KonradJeremus)
 
 ## Miesięczne wsparcie
 

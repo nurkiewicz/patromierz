@@ -1,5 +1,5 @@
 ---
-title: medianarodowe | Patromierz
+title: "medianarodowe | Patromierz"
 permalink: /medianarodowe
 ---
 
@@ -7,7 +7,7 @@ permalink: /medianarodowe
 <script type="text/javascript" src="data/m/medianarodowe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [medianarodowe](https://patronite.pl/medianarodowe)
+# [Media Narodowe](https://patronite.pl/medianarodowe)
 
 ## Miesięczne wsparcie
 

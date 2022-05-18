@@ -1,5 +1,5 @@
 ---
-title: lifeonwheelz | Patromierz
+title: "lifeonwheelz | Patromierz"
 permalink: /lifeonwheelz
 ---
 
@@ -7,7 +7,7 @@ permalink: /lifeonwheelz
 <script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lifeonwheelz](https://patronite.pl/lifeonwheelz)
+# [Life On Wheelz](https://patronite.pl/lifeonwheelz)
 
 ## Miesięczne wsparcie
 

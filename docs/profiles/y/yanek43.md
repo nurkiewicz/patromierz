@@ -1,5 +1,5 @@
 ---
-title: yanek43 | Patromierz
+title: "yanek43 | Patromierz"
 permalink: /yanek43
 ---
 
@@ -7,7 +7,7 @@ permalink: /yanek43
 <script type="text/javascript" src="data/y/yanek43.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [yanek43](https://patronite.pl/yanek43)
+# [Yanek43](https://patronite.pl/yanek43)
 
 ## Miesięczne wsparcie
 

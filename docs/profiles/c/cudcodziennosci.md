@@ -1,5 +1,5 @@
 ---
-title: cudcodziennosci | Patromierz
+title: "cudcodziennosci | Patromierz"
 permalink: /cudcodziennosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /cudcodziennosci
 <script type="text/javascript" src="data/c/cudcodziennosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cudcodziennosci](https://patronite.pl/cudcodziennosci)
+# [Cud Codzienności](https://patronite.pl/cudcodziennosci)
 
 ## Miesięczne wsparcie
 

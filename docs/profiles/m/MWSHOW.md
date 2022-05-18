@@ -1,5 +1,5 @@
 ---
-title: MWSHOW | Patromierz
+title: "MWSHOW | Patromierz"
 permalink: /MWSHOW
 ---
 
@@ -7,7 +7,7 @@ permalink: /MWSHOW
 <script type="text/javascript" src="data/m/MWSHOW.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MWSHOW](https://patronite.pl/MWSHOW)
+# [Michał Witkowski SHOW](https://patronite.pl/MWSHOW)
 
 ## Miesięczne wsparcie
 

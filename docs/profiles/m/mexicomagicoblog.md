@@ -1,5 +1,5 @@
 ---
-title: mexicomagicoblog | Patromierz
+title: "mexicomagicoblog | Patromierz"
 permalink: /mexicomagicoblog
 ---
 
@@ -7,7 +7,7 @@ permalink: /mexicomagicoblog
 <script type="text/javascript" src="data/m/mexicomagicoblog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mexicomagicoblog](https://patronite.pl/mexicomagicoblog)
+# [Mexico Magico Blog](https://patronite.pl/mexicomagicoblog)
 
 ## Miesięczne wsparcie
 

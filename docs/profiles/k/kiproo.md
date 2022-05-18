@@ -1,5 +1,5 @@
 ---
-title: kiproo | Patromierz
+title: "kiproo | Patromierz"
 permalink: /kiproo
 ---
 
@@ -7,7 +7,7 @@ permalink: /kiproo
 <script type="text/javascript" src="data/k/kiproo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kiproo](https://patronite.pl/kiproo)
+# [Dominika Kiprowska](https://patronite.pl/kiproo)
 
 ## Miesięczne wsparcie
 

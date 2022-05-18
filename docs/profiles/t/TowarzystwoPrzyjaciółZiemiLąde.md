@@ -1,5 +1,5 @@
 ---
-title: TowarzystwoPrzyjaciółZiemiLąde | Patromierz
+title: "TowarzystwoPrzyjaciółZiemiLąde | Patromierz"
 permalink: /TowarzystwoPrzyjaciółZiemiLąde
 ---
 
@@ -7,7 +7,7 @@ permalink: /TowarzystwoPrzyjaciółZiemiLąde
 <script type="text/javascript" src="data/t/TowarzystwoPrzyjaciółZiemiLąde.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TowarzystwoPrzyjaciółZiemiLąde](https://patronite.pl/TowarzystwoPrzyjaciółZiemiLąde)
+# [Towarzystwo Przyjaciół Ziemi Lądeckiej ](https://patronite.pl/TowarzystwoPrzyjaciółZiemiLąde)
 
 ## Miesięczne wsparcie
 

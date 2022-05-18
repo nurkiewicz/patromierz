@@ -1,5 +1,5 @@
 ---
-title: portaldominikanie | Patromierz
+title: "portaldominikanie | Patromierz"
 permalink: /portaldominikanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /portaldominikanie
 <script type="text/javascript" src="data/p/portaldominikanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [portaldominikanie](https://patronite.pl/portaldominikanie)
+# [Dominikanie.pl](https://patronite.pl/portaldominikanie)
 
 ## Miesięczne wsparcie
 

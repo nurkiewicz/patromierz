@@ -1,5 +1,5 @@
 ---
-title: klejbor-na-kresach-swiata | Patromierz
+title: "klejbor-na-kresach-swiata | Patromierz"
 permalink: /klejbor-na-kresach-swiata
 ---
 
@@ -7,7 +7,7 @@ permalink: /klejbor-na-kresach-swiata
 <script type="text/javascript" src="data/k/klejbor-na-kresach-swiata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klejbor-na-kresach-swiata](https://patronite.pl/klejbor-na-kresach-swiata)
+# [Klejbor na Kresach Świata](https://patronite.pl/klejbor-na-kresach-swiata)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: LukaszRybarskiYES | Patromierz
+title: "LukaszRybarskiYES | Patromierz"
 permalink: /LukaszRybarskiYES
 ---
 
@@ -7,7 +7,7 @@ permalink: /LukaszRybarskiYES
 <script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LukaszRybarskiYES](https://patronite.pl/LukaszRybarskiYES)
+# [Łukasz Rybarski YES:)](https://patronite.pl/LukaszRybarskiYES)
 
 ## Miesięczne wsparcie
 

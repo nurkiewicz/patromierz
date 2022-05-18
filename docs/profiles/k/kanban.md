@@ -1,5 +1,5 @@
 ---
-title: kanban | Patromierz
+title: "kanban | Patromierz"
 permalink: /kanban
 ---
 
@@ -7,7 +7,7 @@ permalink: /kanban
 <script type="text/javascript" src="data/k/kanban.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kanban](https://patronite.pl/kanban)
+# [Kanban przy kawie](https://patronite.pl/kanban)
 
 ## Miesięczne wsparcie
 

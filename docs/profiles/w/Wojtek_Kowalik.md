@@ -1,5 +1,5 @@
 ---
-title: Wojtek_Kowalik | Patromierz
+title: "Wojtek_Kowalik | Patromierz"
 permalink: /Wojtek_Kowalik
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wojtek_Kowalik
 <script type="text/javascript" src="data/w/Wojtek_Kowalik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wojtek_Kowalik](https://patronite.pl/Wojtek_Kowalik)
+# [Wojciech Kowalik eventing](https://patronite.pl/Wojtek_Kowalik)
 
 ## Miesięczne wsparcie
 

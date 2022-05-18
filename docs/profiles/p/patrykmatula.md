@@ -1,5 +1,5 @@
 ---
-title: patrykmatula | Patromierz
+title: "patrykmatula | Patromierz"
 permalink: /patrykmatula
 ---
 
@@ -7,7 +7,7 @@ permalink: /patrykmatula
 <script type="text/javascript" src="data/p/patrykmatula.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patrykmatula](https://patronite.pl/patrykmatula)
+# [Patryk Matuła](https://patronite.pl/patrykmatula)
 
 ## Miesięczne wsparcie
 

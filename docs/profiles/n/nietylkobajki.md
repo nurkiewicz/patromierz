@@ -1,5 +1,5 @@
 ---
-title: nietylkobajki | Patromierz
+title: "nietylkobajki | Patromierz"
 permalink: /nietylkobajki
 ---
 
@@ -7,7 +7,7 @@ permalink: /nietylkobajki
 <script type="text/javascript" src="data/n/nietylkobajki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nietylkobajki](https://patronite.pl/nietylkobajki)
+# [Nie Tylko Bajki](https://patronite.pl/nietylkobajki)
 
 ## Miesięczne wsparcie
 

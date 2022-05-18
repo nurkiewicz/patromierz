@@ -1,5 +1,5 @@
 ---
-title: UsłyszećNaCzas | Patromierz
+title: "UsłyszećNaCzas | Patromierz"
 permalink: /UsłyszećNaCzas
 ---
 
@@ -7,7 +7,7 @@ permalink: /UsłyszećNaCzas
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [UsłyszećNaCzas](https://patronite.pl/UsłyszećNaCzas)
+# [Usłyszeć Na Czas](https://patronite.pl/UsłyszećNaCzas)
 
 ## Miesięczne wsparcie
 

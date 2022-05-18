@@ -1,5 +1,5 @@
 ---
-title: idz.ze.swoja.sila | Patromierz
+title: "idz.ze.swoja.sila | Patromierz"
 permalink: /idz.ze.swoja.sila
 ---
 
@@ -7,7 +7,7 @@ permalink: /idz.ze.swoja.sila
 <script type="text/javascript" src="data/i/idz.ze.swoja.sila.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [idz.ze.swoja.sila](https://patronite.pl/idz.ze.swoja.sila)
+# [Idź ze swoją siłą! - Magdalena Czech](https://patronite.pl/idz.ze.swoja.sila)
 
 ## Miesięczne wsparcie
 

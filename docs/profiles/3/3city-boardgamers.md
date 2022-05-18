@@ -1,5 +1,5 @@
 ---
-title: 3city-boardgamers | Patromierz
+title: "3city-boardgamers | Patromierz"
 permalink: /3city-boardgamers
 ---
 
@@ -7,7 +7,7 @@ permalink: /3city-boardgamers
 <script type="text/javascript" src="data/3/3city-boardgamers.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [3city-boardgamers](https://patronite.pl/3city-boardgamers)
+# [3city Boardgamers](https://patronite.pl/3city-boardgamers)
 
 ## Miesięczne wsparcie
 

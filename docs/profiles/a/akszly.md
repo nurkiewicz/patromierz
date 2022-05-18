@@ -1,5 +1,5 @@
 ---
-title: akszly | Patromierz
+title: "akszly | Patromierz"
 permalink: /akszly
 ---
 
@@ -7,7 +7,7 @@ permalink: /akszly
 <script type="text/javascript" src="data/a/akszly.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akszly](https://patronite.pl/akszly)
+# [AKS ZŁY - klub sportowy w modelu społecznościowym](https://patronite.pl/akszly)
 
 ## Miesięczne wsparcie
 

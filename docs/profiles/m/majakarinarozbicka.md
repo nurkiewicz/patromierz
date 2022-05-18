@@ -1,5 +1,5 @@
 ---
-title: majakarinarozbicka | Patromierz
+title: "majakarinarozbicka | Patromierz"
 permalink: /majakarinarozbicka
 ---
 
@@ -7,7 +7,7 @@ permalink: /majakarinarozbicka
 <script type="text/javascript" src="data/m/majakarinarozbicka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [majakarinarozbicka](https://patronite.pl/majakarinarozbicka)
+# [Maja Karina Rozbicka](https://patronite.pl/majakarinarozbicka)
 
 ## Miesięczne wsparcie
 

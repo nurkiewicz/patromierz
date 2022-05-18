@@ -1,5 +1,5 @@
 ---
-title: histmag | Patromierz
+title: "histmag | Patromierz"
 permalink: /histmag
 ---
 
@@ -7,7 +7,7 @@ permalink: /histmag
 <script type="text/javascript" src="data/h/histmag.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [histmag](https://patronite.pl/histmag)
+# [Histmag.org](https://patronite.pl/histmag)
 
 ## Miesięczne wsparcie
 

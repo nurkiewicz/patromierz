@@ -1,5 +1,5 @@
 ---
-title: PodcastProNGO | Patromierz
+title: "PodcastProNGO | Patromierz"
 permalink: /PodcastProNGO
 ---
 
@@ -7,7 +7,7 @@ permalink: /PodcastProNGO
 <script type="text/javascript" src="data/p/PodcastProNGO.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PodcastProNGO](https://patronite.pl/PodcastProNGO)
+# [Grzegorz Ludwin](https://patronite.pl/PodcastProNGO)
 
 ## Miesięczne wsparcie
 

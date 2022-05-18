@@ -1,5 +1,5 @@
 ---
-title: akademiakeyboardu | Patromierz
+title: "akademiakeyboardu | Patromierz"
 permalink: /akademiakeyboardu
 ---
 
@@ -7,7 +7,7 @@ permalink: /akademiakeyboardu
 <script type="text/javascript" src="data/a/akademiakeyboardu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akademiakeyboardu](https://patronite.pl/akademiakeyboardu)
+# [Akademia Keyboardu KeyboardWay](https://patronite.pl/akademiakeyboardu)
 
 ## Miesięczne wsparcie
 

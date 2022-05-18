@@ -1,5 +1,5 @@
 ---
-title: militarnajazda | Patromierz
+title: "militarnajazda | Patromierz"
 permalink: /militarnajazda
 ---
 
@@ -7,7 +7,7 @@ permalink: /militarnajazda
 <script type="text/javascript" src="data/m/militarnajazda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [militarnajazda](https://patronite.pl/militarnajazda)
+# [Militarnajazda - Przewodnik po Atrakcjach Militarnych Polski](https://patronite.pl/militarnajazda)
 
 ## Miesięczne wsparcie
 

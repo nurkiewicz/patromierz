@@ -1,5 +1,5 @@
 ---
-title: monikajaruzelska | Patromierz
+title: "monikajaruzelska | Patromierz"
 permalink: /monikajaruzelska
 ---
 
@@ -7,7 +7,7 @@ permalink: /monikajaruzelska
 <script type="text/javascript" src="data/m/monikajaruzelska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [monikajaruzelska](https://patronite.pl/monikajaruzelska)
+# [Monika Jaruzelska](https://patronite.pl/monikajaruzelska)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: chlopaki | Patromierz
+title: "chlopaki | Patromierz"
 permalink: /chlopaki
 ---
 
@@ -7,7 +7,7 @@ permalink: /chlopaki
 <script type="text/javascript" src="data/c/chlopaki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chlopaki](https://patronite.pl/chlopaki)
+# [Grupa Performatywna Chłopaki](https://patronite.pl/chlopaki)
 
 ## Miesięczne wsparcie
 

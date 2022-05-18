@@ -1,5 +1,5 @@
 ---
-title: RadioOborniki | Patromierz
+title: "RadioOborniki | Patromierz"
 permalink: /RadioOborniki
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioOborniki
 <script type="text/javascript" src="data/r/RadioOborniki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioOborniki](https://patronite.pl/RadioOborniki)
+# [Radio Oborniki](https://patronite.pl/RadioOborniki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: dondrake | Patromierz
+title: "dondrake | Patromierz"
 permalink: /dondrake
 ---
 
@@ -7,7 +7,7 @@ permalink: /dondrake
 <script type="text/javascript" src="data/d/dondrake.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dondrake](https://patronite.pl/dondrake)
+# [Don Drake](https://patronite.pl/dondrake)
 
 ## Miesięczne wsparcie
 

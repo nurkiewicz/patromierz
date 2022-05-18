@@ -1,5 +1,5 @@
 ---
-title: freeflow | Patromierz
+title: "freeflow | Patromierz"
 permalink: /freeflow
 ---
 
@@ -7,7 +7,7 @@ permalink: /freeflow
 <script type="text/javascript" src="data/f/freeflow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [freeflow](https://patronite.pl/freeflow)
+# [Free Flow Energy](https://patronite.pl/freeflow)
 
 ## Miesięczne wsparcie
 

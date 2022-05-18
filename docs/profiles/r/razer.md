@@ -1,5 +1,5 @@
 ---
-title: razer | Patromierz
+title: "razer | Patromierz"
 permalink: /razer
 ---
 
@@ -7,7 +7,7 @@ permalink: /razer
 <script type="text/javascript" src="data/r/razer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [razer](https://patronite.pl/razer)
+# [Razer](https://patronite.pl/razer)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kgonciarz | Patromierz
+title: "kgonciarz | Patromierz"
 permalink: /kgonciarz
 ---
 
@@ -7,7 +7,7 @@ permalink: /kgonciarz
 <script type="text/javascript" src="data/k/kgonciarz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kgonciarz](https://patronite.pl/kgonciarz)
+# [Krzysztof Gonciarz](https://patronite.pl/kgonciarz)
 
 ## Miesięczne wsparcie
 

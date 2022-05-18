@@ -1,5 +1,5 @@
 ---
-title: Gitarowanie | Patromierz
+title: "Gitarowanie | Patromierz"
 permalink: /Gitarowanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /Gitarowanie
 <script type="text/javascript" src="data/g/Gitarowanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Gitarowanie](https://patronite.pl/Gitarowanie)
+# [StivO Gitarowanie](https://patronite.pl/Gitarowanie)
 
 ## Miesięczne wsparcie
 

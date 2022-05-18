@@ -1,5 +1,5 @@
 ---
-title: warthunderwspolnegranie | Patromierz
+title: "warthunderwspolnegranie | Patromierz"
 permalink: /warthunderwspolnegranie
 ---
 
@@ -7,7 +7,7 @@ permalink: /warthunderwspolnegranie
 <script type="text/javascript" src="data/w/warthunderwspolnegranie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warthunderwspolnegranie](https://patronite.pl/warthunderwspolnegranie)
+# [War Thunder - Wspólne Granie](https://patronite.pl/warthunderwspolnegranie)
 
 ## Miesięczne wsparcie
 

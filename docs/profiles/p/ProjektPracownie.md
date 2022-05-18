@@ -1,5 +1,5 @@
 ---
-title: ProjektPracownie | Patromierz
+title: "ProjektPracownie | Patromierz"
 permalink: /ProjektPracownie
 ---
 
@@ -7,7 +7,7 @@ permalink: /ProjektPracownie
 <script type="text/javascript" src="data/p/ProjektPracownie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ProjektPracownie](https://patronite.pl/ProjektPracownie)
+# [Projekt Pracownie](https://patronite.pl/ProjektPracownie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BezChaosowania | Patromierz
+title: "BezChaosowania | Patromierz"
 permalink: /BezChaosowania
 ---
 

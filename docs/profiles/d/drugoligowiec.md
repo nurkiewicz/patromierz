@@ -1,5 +1,5 @@
 ---
-title: drugoligowiec | Patromierz
+title: "drugoligowiec | Patromierz"
 permalink: /drugoligowiec
 ---
 
@@ -7,7 +7,7 @@ permalink: /drugoligowiec
 <script type="text/javascript" src="data/d/drugoligowiec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drugoligowiec](https://patronite.pl/drugoligowiec)
+# [Drugoligowiec](https://patronite.pl/drugoligowiec)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: osom | Patromierz
+title: "osom | Patromierz"
 permalink: /osom
 ---
 
@@ -7,7 +7,7 @@ permalink: /osom
 <script type="text/javascript" src="data/o/osom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [osom](https://patronite.pl/osom)
+# [OSOM](https://patronite.pl/osom)
 
 ## Miesięczne wsparcie
 

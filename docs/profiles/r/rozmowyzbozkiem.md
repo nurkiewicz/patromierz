@@ -1,5 +1,5 @@
 ---
-title: rozmowyzbozkiem | Patromierz
+title: "rozmowyzbozkiem | Patromierz"
 permalink: /rozmowyzbozkiem
 ---
 
@@ -7,7 +7,7 @@ permalink: /rozmowyzbozkiem
 <script type="text/javascript" src="data/r/rozmowyzbozkiem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rozmowyzbozkiem](https://patronite.pl/rozmowyzbozkiem)
+# [Rozmowy z Bożkiem](https://patronite.pl/rozmowyzbozkiem)
 
 ## Miesięczne wsparcie
 

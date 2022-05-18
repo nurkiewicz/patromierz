@@ -1,5 +1,5 @@
 ---
-title: queerstorie | Patromierz
+title: "queerstorie | Patromierz"
 permalink: /queerstorie
 ---
 
@@ -7,7 +7,7 @@ permalink: /queerstorie
 <script type="text/javascript" src="data/q/queerstorie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [queerstorie](https://patronite.pl/queerstorie)
+# [Queerstorie_podcast](https://patronite.pl/queerstorie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: CzarneOwce | Patromierz
+title: "CzarneOwce | Patromierz"
 permalink: /CzarneOwce
 ---
 
@@ -7,7 +7,7 @@ permalink: /CzarneOwce
 <script type="text/javascript" src="data/c/CzarneOwce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CzarneOwce](https://patronite.pl/CzarneOwce)
+# [Czarne Owce](https://patronite.pl/CzarneOwce)
 
 ## Miesięczne wsparcie
 

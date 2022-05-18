@@ -1,5 +1,5 @@
 ---
-title: lgrzybowski | Patromierz
+title: "lgrzybowski | Patromierz"
 permalink: /lgrzybowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /lgrzybowski
 <script type="text/javascript" src="data/l/lgrzybowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lgrzybowski](https://patronite.pl/lgrzybowski)
+# [Wszystko o Warszawie](https://patronite.pl/lgrzybowski)
 
 ## Miesięczne wsparcie
 

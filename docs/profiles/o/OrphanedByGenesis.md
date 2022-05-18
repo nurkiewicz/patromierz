@@ -1,5 +1,5 @@
 ---
-title: OrphanedByGenesis | Patromierz
+title: "OrphanedByGenesis | Patromierz"
 permalink: /OrphanedByGenesis
 ---
 
@@ -7,7 +7,7 @@ permalink: /OrphanedByGenesis
 <script type="text/javascript" src="data/o/OrphanedByGenesis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OrphanedByGenesis](https://patronite.pl/OrphanedByGenesis)
+# [Orphaned By Genesis](https://patronite.pl/OrphanedByGenesis)
 
 ## Miesięczne wsparcie
 

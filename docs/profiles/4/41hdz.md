@@ -1,5 +1,5 @@
 ---
-title: 41hdz | Patromierz
+title: "41hdz | Patromierz"
 permalink: /41hdz
 ---
 
@@ -7,7 +7,7 @@ permalink: /41hdz
 <script type="text/javascript" src="data/4/41hdz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [41hdz](https://patronite.pl/41hdz)
+# [41 Harcerska Drużyna Żeglarska im. Władysława Wagnera](https://patronite.pl/41hdz)
 
 ## Miesięczne wsparcie
 

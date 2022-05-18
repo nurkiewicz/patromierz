@@ -1,5 +1,5 @@
 ---
-title: Euforis | Patromierz
+title: "Euforis | Patromierz"
 permalink: /Euforis
 ---
 
@@ -7,7 +7,7 @@ permalink: /Euforis
 <script type="text/javascript" src="data/e/Euforis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Euforis](https://patronite.pl/Euforis)
+# [Stowarzyszenie Artystów Euforis](https://patronite.pl/Euforis)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ffr | Patromierz
+title: "ffr | Patromierz"
 permalink: /ffr
 ---
 
@@ -7,7 +7,7 @@ permalink: /ffr
 <script type="text/javascript" src="data/f/ffr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ffr](https://patronite.pl/ffr)
+# [Fundacja First Responder](https://patronite.pl/ffr)
 
 ## Miesięczne wsparcie
 

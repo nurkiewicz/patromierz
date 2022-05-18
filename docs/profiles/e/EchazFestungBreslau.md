@@ -1,5 +1,5 @@
 ---
-title: EchazFestungBreslau | Patromierz
+title: "EchazFestungBreslau | Patromierz"
 permalink: /EchazFestungBreslau
 ---
 
@@ -7,7 +7,7 @@ permalink: /EchazFestungBreslau
 <script type="text/javascript" src="data/e/EchazFestungBreslau.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EchazFestungBreslau](https://patronite.pl/EchazFestungBreslau)
+# [Echa z Festung Breslau](https://patronite.pl/EchazFestungBreslau)
 
 ## Miesięczne wsparcie
 

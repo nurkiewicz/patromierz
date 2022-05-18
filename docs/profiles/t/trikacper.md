@@ -1,5 +1,5 @@
 ---
-title: trikacper | Patromierz
+title: "trikacper | Patromierz"
 permalink: /trikacper
 ---
 
@@ -7,7 +7,7 @@ permalink: /trikacper
 <script type="text/javascript" src="data/t/trikacper.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [trikacper](https://patronite.pl/trikacper)
+# [Kacper Kurzydło](https://patronite.pl/trikacper)
 
 ## Miesięczne wsparcie
 

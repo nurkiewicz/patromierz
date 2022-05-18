@@ -1,5 +1,5 @@
 ---
-title: ukidi | Patromierz
+title: "ukidi | Patromierz"
 permalink: /ukidi
 ---
 
@@ -7,7 +7,7 @@ permalink: /ukidi
 <script type="text/javascript" src="data/u/ukidi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ukidi](https://patronite.pl/ukidi)
+# [ukidi - Video blog - rośliny tropikalne](https://patronite.pl/ukidi)
 
 ## Miesięczne wsparcie
 

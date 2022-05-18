@@ -1,5 +1,5 @@
 ---
-title: mieczyslaw_lusiak | Patromierz
+title: "mieczyslaw_lusiak | Patromierz"
 permalink: /mieczyslaw_lusiak
 ---
 
@@ -7,7 +7,7 @@ permalink: /mieczyslaw_lusiak
 <script type="text/javascript" src="data/m/mieczyslaw_lusiak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mieczyslaw_lusiak](https://patronite.pl/mieczyslaw_lusiak)
+# [Mieczysław Łusiak SJ](https://patronite.pl/mieczyslaw_lusiak)
 
 ## Miesięczne wsparcie
 

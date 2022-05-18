@@ -1,5 +1,5 @@
 ---
-title: MichalWlodarczyk | Patromierz
+title: "MichalWlodarczyk | Patromierz"
 permalink: /MichalWlodarczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /MichalWlodarczyk
 <script type="text/javascript" src="data/m/MichalWlodarczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MichalWlodarczyk](https://patronite.pl/MichalWlodarczyk)
+# [Michał Włodarczyk](https://patronite.pl/MichalWlodarczyk)
 
 ## Miesięczne wsparcie
 

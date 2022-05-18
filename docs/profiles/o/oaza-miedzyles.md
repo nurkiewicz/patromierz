@@ -1,5 +1,5 @@
 ---
-title: oaza-miedzyles | Patromierz
+title: "oaza-miedzyles | Patromierz"
 permalink: /oaza-miedzyles
 ---
 
@@ -7,7 +7,7 @@ permalink: /oaza-miedzyles
 <script type="text/javascript" src="data/o/oaza-miedzyles.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oaza-miedzyles](https://patronite.pl/oaza-miedzyles)
+# [Oaza „Międzyleś” ](https://patronite.pl/oaza-miedzyles)
 
 ## Miesięczne wsparcie
 

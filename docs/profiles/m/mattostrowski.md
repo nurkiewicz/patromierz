@@ -1,5 +1,5 @@
 ---
-title: mattostrowski | Patromierz
+title: "mattostrowski | Patromierz"
 permalink: /mattostrowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /mattostrowski
 <script type="text/javascript" src="data/m/mattostrowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mattostrowski](https://patronite.pl/mattostrowski)
+# [Matt Ostrowski](https://patronite.pl/mattostrowski)
 
 ## Miesięczne wsparcie
 

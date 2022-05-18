@@ -1,5 +1,5 @@
 ---
-title: SkipiorAlkohole | Patromierz
+title: "SkipiorAlkohole | Patromierz"
 permalink: /SkipiorAlkohole
 ---
 
@@ -7,7 +7,7 @@ permalink: /SkipiorAlkohole
 <script type="text/javascript" src="data/s/SkipiorAlkohole.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SkipiorAlkohole](https://patronite.pl/SkipiorAlkohole)
+# [Skipior Alkohole](https://patronite.pl/SkipiorAlkohole)
 
 ## Miesięczne wsparcie
 

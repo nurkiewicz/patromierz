@@ -1,5 +1,5 @@
 ---
-title: Ironbro | Patromierz
+title: "Ironbro | Patromierz"
 permalink: /Ironbro
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ironbro
 <script type="text/javascript" src="data/i/Ironbro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ironbro](https://patronite.pl/Ironbro)
+# [IRON BRO](https://patronite.pl/Ironbro)
 
 ## Miesięczne wsparcie
 

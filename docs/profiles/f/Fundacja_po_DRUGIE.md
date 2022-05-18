@@ -1,5 +1,5 @@
 ---
-title: Fundacja_po_DRUGIE | Patromierz
+title: "Fundacja_po_DRUGIE | Patromierz"
 permalink: /Fundacja_po_DRUGIE
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja_po_DRUGIE
 <script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja_po_DRUGIE](https://patronite.pl/Fundacja_po_DRUGIE)
+# [Fundacja po DRUGIE](https://patronite.pl/Fundacja_po_DRUGIE)
 
 ## Miesięczne wsparcie
 

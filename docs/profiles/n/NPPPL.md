@@ -1,5 +1,5 @@
 ---
-title: NPPPL | Patromierz
+title: "NPPPL | Patromierz"
 permalink: /NPPPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /NPPPL
 <script type="text/javascript" src="data/n/NPPPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NPPPL](https://patronite.pl/NPPPL)
+# [Najlepsze Polskie Podcasty](https://patronite.pl/NPPPL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: tastethemusic | Patromierz
+title: "tastethemusic | Patromierz"
 permalink: /tastethemusic
 ---
 
@@ -7,7 +7,7 @@ permalink: /tastethemusic
 <script type="text/javascript" src="data/t/tastethemusic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tastethemusic](https://patronite.pl/tastethemusic)
+# [Taste The Music](https://patronite.pl/tastethemusic)
 
 ## Miesięczne wsparcie
 

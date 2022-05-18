@@ -1,5 +1,5 @@
 ---
-title: wojtekczytaWH40K | Patromierz
+title: "wojtekczytaWH40K | Patromierz"
 permalink: /wojtekczytaWH40K
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojtekczytaWH40K
 <script type="text/javascript" src="data/w/wojtekczytaWH40K.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojtekczytaWH40K](https://patronite.pl/wojtekczytaWH40K)
+# [Świat Warhammer 40000 i Warhammer Fantasy](https://patronite.pl/wojtekczytaWH40K)
 
 ## Miesięczne wsparcie
 

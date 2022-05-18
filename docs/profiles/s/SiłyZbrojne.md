@@ -1,5 +1,5 @@
 ---
-title: SiłyZbrojne | Patromierz
+title: "SiłyZbrojne | Patromierz"
 permalink: /SiłyZbrojne
 ---
 
@@ -7,7 +7,7 @@ permalink: /SiłyZbrojne
 <script type="text/javascript" src="data/s/SiłyZbrojne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SiłyZbrojne](https://patronite.pl/SiłyZbrojne)
+# [Siły Zbrojne](https://patronite.pl/SiłyZbrojne)
 
 ## Miesięczne wsparcie
 

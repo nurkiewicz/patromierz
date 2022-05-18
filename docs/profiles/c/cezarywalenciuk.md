@@ -1,5 +1,5 @@
 ---
-title: cezarywalenciuk | Patromierz
+title: "cezarywalenciuk | Patromierz"
 permalink: /cezarywalenciuk
 ---
 
@@ -7,7 +7,7 @@ permalink: /cezarywalenciuk
 <script type="text/javascript" src="data/c/cezarywalenciuk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cezarywalenciuk](https://patronite.pl/cezarywalenciuk)
+# [Cezary Walenciuk](https://patronite.pl/cezarywalenciuk)
 
 ## Miesięczne wsparcie
 

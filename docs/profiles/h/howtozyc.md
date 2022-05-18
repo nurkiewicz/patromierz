@@ -1,5 +1,5 @@
 ---
-title: howtozyc | Patromierz
+title: "howtozyc | Patromierz"
 permalink: /howtozyc
 ---
 
@@ -7,7 +7,7 @@ permalink: /howtozyc
 <script type="text/javascript" src="data/h/howtozyc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [howtozyc](https://patronite.pl/howtozyc)
+# [How To Żyć](https://patronite.pl/howtozyc)
 
 ## Miesięczne wsparcie
 

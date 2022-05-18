@@ -1,5 +1,5 @@
 ---
-title: ciekawostnik | Patromierz
+title: "ciekawostnik | Patromierz"
 permalink: /ciekawostnik
 ---
 
@@ -7,7 +7,7 @@ permalink: /ciekawostnik
 <script type="text/javascript" src="data/c/ciekawostnik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ciekawostnik](https://patronite.pl/ciekawostnik)
+# [Ciekawostnik.pl](https://patronite.pl/ciekawostnik)
 
 ## Miesięczne wsparcie
 

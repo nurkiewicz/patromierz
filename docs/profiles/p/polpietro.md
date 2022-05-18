@@ -1,5 +1,5 @@
 ---
-title: polpietro | Patromierz
+title: "polpietro | Patromierz"
 permalink: /polpietro
 ---
 
@@ -7,7 +7,7 @@ permalink: /polpietro
 <script type="text/javascript" src="data/p/polpietro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polpietro](https://patronite.pl/polpietro)
+# [Stowarzyszenie Półpiętro](https://patronite.pl/polpietro)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: mtb-trails-mielec | Patromierz
+title: "mtb-trails-mielec | Patromierz"
 permalink: /mtb-trails-mielec
 ---
 
@@ -7,7 +7,7 @@ permalink: /mtb-trails-mielec
 <script type="text/javascript" src="data/m/mtb-trails-mielec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mtb-trails-mielec](https://patronite.pl/mtb-trails-mielec)
+# [MTB Trails Mielec](https://patronite.pl/mtb-trails-mielec)
 
 ## Miesięczne wsparcie
 

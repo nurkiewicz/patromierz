@@ -1,5 +1,5 @@
 ---
-title: fortunaglogowek | Patromierz
+title: "fortunaglogowek | Patromierz"
 permalink: /fortunaglogowek
 ---
 
@@ -7,7 +7,7 @@ permalink: /fortunaglogowek
 <script type="text/javascript" src="data/f/fortunaglogowek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fortunaglogowek](https://patronite.pl/fortunaglogowek)
+# [Fortuna Głogówek](https://patronite.pl/fortunaglogowek)
 
 ## Miesięczne wsparcie
 

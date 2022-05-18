@@ -1,5 +1,5 @@
 ---
-title: Mosak | Patromierz
+title: "Mosak | Patromierz"
 permalink: /Mosak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mosak
 <script type="text/javascript" src="data/m/Mosak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mosak](https://patronite.pl/Mosak)
+# [Marcin Mossakowski](https://patronite.pl/Mosak)
 
 ## Miesięczne wsparcie
 

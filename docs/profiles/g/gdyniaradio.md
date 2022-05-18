@@ -1,5 +1,5 @@
 ---
-title: gdyniaradio | Patromierz
+title: "gdyniaradio | Patromierz"
 permalink: /gdyniaradio
 ---
 
@@ -7,7 +7,7 @@ permalink: /gdyniaradio
 <script type="text/javascript" src="data/g/gdyniaradio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gdyniaradio](https://patronite.pl/gdyniaradio)
+# [Gdynia Radio](https://patronite.pl/gdyniaradio)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjaokowokozrakiem | Patromierz
+title: "fundacjaokowokozrakiem | Patromierz"
 permalink: /fundacjaokowokozrakiem
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaokowokozrakiem
 <script type="text/javascript" src="data/f/fundacjaokowokozrakiem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaokowokozrakiem](https://patronite.pl/fundacjaokowokozrakiem)
+# [Fundacja Oko w Oko z Rakiem](https://patronite.pl/fundacjaokowokozrakiem)
 
 ## Miesięczne wsparcie
 

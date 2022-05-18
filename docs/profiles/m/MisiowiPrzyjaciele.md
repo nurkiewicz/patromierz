@@ -1,5 +1,5 @@
 ---
-title: MisiowiPrzyjaciele | Patromierz
+title: "MisiowiPrzyjaciele | Patromierz"
 permalink: /MisiowiPrzyjaciele
 ---
 
@@ -7,7 +7,7 @@ permalink: /MisiowiPrzyjaciele
 <script type="text/javascript" src="data/m/MisiowiPrzyjaciele.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MisiowiPrzyjaciele](https://patronite.pl/MisiowiPrzyjaciele)
+# [Misiowi Przyjaciele](https://patronite.pl/MisiowiPrzyjaciele)
 
 ## Miesięczne wsparcie
 

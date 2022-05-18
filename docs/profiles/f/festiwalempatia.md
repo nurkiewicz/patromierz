@@ -1,5 +1,5 @@
 ---
-title: festiwalempatia | Patromierz
+title: "festiwalempatia | Patromierz"
 permalink: /festiwalempatia
 ---
 
@@ -7,7 +7,7 @@ permalink: /festiwalempatia
 <script type="text/javascript" src="data/f/festiwalempatia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [festiwalempatia](https://patronite.pl/festiwalempatia)
+# [Festiwal Akcja Empatia](https://patronite.pl/festiwalempatia)
 
 ## Miesięczne wsparcie
 

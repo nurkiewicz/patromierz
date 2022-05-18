@@ -1,5 +1,5 @@
 ---
-title: bieszczady | Patromierz
+title: "bieszczady | Patromierz"
 permalink: /bieszczady
 ---
 
@@ -7,7 +7,7 @@ permalink: /bieszczady
 <script type="text/javascript" src="data/b/bieszczady.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bieszczady](https://patronite.pl/bieszczady)
+# [Bieszczady.Land](https://patronite.pl/bieszczady)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: poetycki | Patromierz
+title: "poetycki | Patromierz"
 permalink: /poetycki
 ---
 
@@ -7,7 +7,7 @@ permalink: /poetycki
 <script type="text/javascript" src="data/p/poetycki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poetycki](https://patronite.pl/poetycki)
+# [Poetycki](https://patronite.pl/poetycki)
 
 ## Miesięczne wsparcie
 

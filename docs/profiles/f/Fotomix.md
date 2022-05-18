@@ -1,5 +1,5 @@
 ---
-title: Fotomix | Patromierz
+title: "Fotomix | Patromierz"
 permalink: /Fotomix
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fotomix
 <script type="text/javascript" src="data/f/Fotomix.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fotomix](https://patronite.pl/Fotomix)
+# [FOTOMIX](https://patronite.pl/Fotomix)
 
 ## Miesięczne wsparcie
 

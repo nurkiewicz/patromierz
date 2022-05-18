@@ -1,5 +1,5 @@
 ---
-title: piwnakompania | Patromierz
+title: "piwnakompania | Patromierz"
 permalink: /piwnakompania
 ---
 
@@ -7,7 +7,7 @@ permalink: /piwnakompania
 <script type="text/javascript" src="data/p/piwnakompania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piwnakompania](https://patronite.pl/piwnakompania)
+# [Piwna Kompania - Podróże przy dobrym piwie](https://patronite.pl/piwnakompania)
 
 ## Miesięczne wsparcie
 

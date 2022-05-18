@@ -1,5 +1,5 @@
 ---
-title: skadinad | Patromierz
+title: "skadinad | Patromierz"
 permalink: /skadinad
 ---
 
@@ -7,7 +7,7 @@ permalink: /skadinad
 <script type="text/javascript" src="data/s/skadinad.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skadinad](https://patronite.pl/skadinad)
+# [SKĄDINĄD. Podcast Tomasza Stawiszyńskiego](https://patronite.pl/skadinad)
 
 ## Miesięczne wsparcie
 

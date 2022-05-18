@@ -1,5 +1,5 @@
 ---
-title: DIOZ | Patromierz
+title: "DIOZ | Patromierz"
 permalink: /DIOZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /DIOZ
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DIOZ](https://patronite.pl/DIOZ)
+# [Dolnośląski Inspektorat Ochrony Zwierząt](https://patronite.pl/DIOZ)
 
 ## Miesięczne wsparcie
 

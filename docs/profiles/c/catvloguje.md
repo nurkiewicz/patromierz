@@ -1,5 +1,5 @@
 ---
-title: catvloguje | Patromierz
+title: "catvloguje | Patromierz"
 permalink: /catvloguje
 ---
 
@@ -7,7 +7,7 @@ permalink: /catvloguje
 <script type="text/javascript" src="data/c/catvloguje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [catvloguje](https://patronite.pl/catvloguje)
+# [Cat Vloguje](https://patronite.pl/catvloguje)
 
 ## Miesięczne wsparcie
 

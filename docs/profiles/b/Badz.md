@@ -1,5 +1,5 @@
 ---
-title: Badz | Patromierz
+title: "Badz | Patromierz"
 permalink: /Badz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Badz
 <script type="text/javascript" src="data/b/Badz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Badz](https://patronite.pl/Badz)
+# [Fundacja Małgosi Braunek "Bądź"](https://patronite.pl/Badz)
 
 ## Miesięczne wsparcie
 

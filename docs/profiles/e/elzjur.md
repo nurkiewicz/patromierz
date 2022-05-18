@@ -1,5 +1,5 @@
 ---
-title: elzjur | Patromierz
+title: "elzjur | Patromierz"
 permalink: /elzjur
 ---
 
@@ -7,7 +7,7 @@ permalink: /elzjur
 <script type="text/javascript" src="data/e/elzjur.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elzjur](https://patronite.pl/elzjur)
+# [Elżbieta Jurczyk](https://patronite.pl/elzjur)
 
 ## Miesięczne wsparcie
 

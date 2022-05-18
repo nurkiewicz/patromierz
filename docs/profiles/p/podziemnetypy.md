@@ -1,5 +1,5 @@
 ---
-title: podziemnetypy | Patromierz
+title: "podziemnetypy | Patromierz"
 permalink: /podziemnetypy
 ---
 
@@ -7,7 +7,7 @@ permalink: /podziemnetypy
 <script type="text/javascript" src="data/p/podziemnetypy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podziemnetypy](https://patronite.pl/podziemnetypy)
+# [Podziemne Typy](https://patronite.pl/podziemnetypy)
 
 ## Miesięczne wsparcie
 

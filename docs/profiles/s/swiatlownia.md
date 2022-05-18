@@ -1,5 +1,5 @@
 ---
-title: swiatlownia | Patromierz
+title: "swiatlownia | Patromierz"
 permalink: /swiatlownia
 ---
 
@@ -7,7 +7,7 @@ permalink: /swiatlownia
 <script type="text/javascript" src="data/s/swiatlownia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swiatlownia](https://patronite.pl/swiatlownia)
+# [Fundacja Światłownia ](https://patronite.pl/swiatlownia)
 
 ## Miesięczne wsparcie
 

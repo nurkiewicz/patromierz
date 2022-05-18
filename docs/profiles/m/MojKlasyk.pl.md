@@ -1,5 +1,5 @@
 ---
-title: MojKlasyk.pl | Patromierz
+title: "MojKlasyk.pl | Patromierz"
 permalink: /MojKlasyk.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /MojKlasyk.pl
 <script type="text/javascript" src="data/m/MojKlasyk.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MojKlasyk.pl](https://patronite.pl/MojKlasyk.pl)
+# [Sebastian Wojciechowski](https://patronite.pl/MojKlasyk.pl)
 
 ## Miesięczne wsparcie
 

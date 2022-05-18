@@ -1,5 +1,5 @@
 ---
-title: medicineitaly | Patromierz
+title: "medicineitaly | Patromierz"
 permalink: /medicineitaly
 ---
 
@@ -7,7 +7,7 @@ permalink: /medicineitaly
 <script type="text/javascript" src="data/m/medicineitaly.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [medicineitaly](https://patronite.pl/medicineitaly)
+# [Anna Cykowska](https://patronite.pl/medicineitaly)
 
 ## Miesięczne wsparcie
 

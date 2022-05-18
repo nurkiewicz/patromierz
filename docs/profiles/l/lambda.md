@@ -1,5 +1,5 @@
 ---
-title: lambda | Patromierz
+title: "lambda | Patromierz"
 permalink: /lambda
 ---
 
@@ -7,7 +7,7 @@ permalink: /lambda
 <script type="text/javascript" src="data/l/lambda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lambda](https://patronite.pl/lambda)
+# [Stowarzyszenie Lambda Szczecin](https://patronite.pl/lambda)
 
 ## Miesięczne wsparcie
 

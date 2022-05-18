@@ -1,5 +1,5 @@
 ---
-title: staszek_krawczyk | Patromierz
+title: "staszek_krawczyk | Patromierz"
 permalink: /staszek_krawczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /staszek_krawczyk
 <script type="text/javascript" src="data/s/staszek_krawczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [staszek_krawczyk](https://patronite.pl/staszek_krawczyk)
+# [Staszek Krawczyk](https://patronite.pl/staszek_krawczyk)
 
 ## Miesięczne wsparcie
 

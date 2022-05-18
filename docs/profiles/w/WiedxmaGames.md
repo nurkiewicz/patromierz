@@ -1,5 +1,5 @@
 ---
-title: WiedxmaGames | Patromierz
+title: "WiedxmaGames | Patromierz"
 permalink: /WiedxmaGames
 ---
 
@@ -7,7 +7,7 @@ permalink: /WiedxmaGames
 <script type="text/javascript" src="data/w/WiedxmaGames.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WiedxmaGames](https://patronite.pl/WiedxmaGames)
+# [Wiedxma](https://patronite.pl/WiedxmaGames)
 
 ## Miesięczne wsparcie
 

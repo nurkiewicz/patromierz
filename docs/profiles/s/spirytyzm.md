@@ -1,5 +1,5 @@
 ---
-title: spirytyzm | Patromierz
+title: "spirytyzm | Patromierz"
 permalink: /spirytyzm
 ---
 
@@ -7,7 +7,7 @@ permalink: /spirytyzm
 <script type="text/javascript" src="data/s/spirytyzm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spirytyzm](https://patronite.pl/spirytyzm)
+# [Bez tajemnic](https://patronite.pl/spirytyzm)
 
 ## Miesięczne wsparcie
 

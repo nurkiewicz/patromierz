@@ -1,5 +1,5 @@
 ---
-title: gupia_nauka | Patromierz
+title: "gupia_nauka | Patromierz"
 permalink: /gupia_nauka
 ---
 
@@ -7,7 +7,7 @@ permalink: /gupia_nauka
 <script type="text/javascript" src="data/g/gupia_nauka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gupia_nauka](https://patronite.pl/gupia_nauka)
+# [Gupia Nauka](https://patronite.pl/gupia_nauka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: vintagelife | Patromierz
+title: "vintagelife | Patromierz"
 permalink: /vintagelife
 ---
 
@@ -7,7 +7,7 @@ permalink: /vintagelife
 <script type="text/javascript" src="data/v/vintagelife.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vintagelife](https://patronite.pl/vintagelife)
+# [Vintage Life](https://patronite.pl/vintagelife)
 
 ## Miesięczne wsparcie
 

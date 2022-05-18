@@ -1,5 +1,5 @@
 ---
-title: crazytravelbag | Patromierz
+title: "crazytravelbag | Patromierz"
 permalink: /crazytravelbag
 ---
 
@@ -7,7 +7,7 @@ permalink: /crazytravelbag
 <script type="text/javascript" src="data/c/crazytravelbag.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [crazytravelbag](https://patronite.pl/crazytravelbag)
+# [Crazytravelbag](https://patronite.pl/crazytravelbag)
 
 ## Miesięczne wsparcie
 

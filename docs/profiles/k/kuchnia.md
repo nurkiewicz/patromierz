@@ -1,5 +1,5 @@
 ---
-title: kuchnia | Patromierz
+title: "kuchnia | Patromierz"
 permalink: /kuchnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /kuchnia
 <script type="text/javascript" src="data/k/kuchnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kuchnia](https://patronite.pl/kuchnia)
+# [KUCHNIA ON TOUR by Matthew  Clarck](https://patronite.pl/kuchnia)
 
 ## Miesięczne wsparcie
 

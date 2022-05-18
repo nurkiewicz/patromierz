@@ -1,5 +1,5 @@
 ---
-title: KasiaD | Patromierz
+title: "KasiaD | Patromierz"
 permalink: /KasiaD
 ---
 
@@ -7,7 +7,7 @@ permalink: /KasiaD
 <script type="text/javascript" src="data/k/KasiaD.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KasiaD](https://patronite.pl/KasiaD)
+# [Kasia D](https://patronite.pl/KasiaD)
 
 ## Miesięczne wsparcie
 

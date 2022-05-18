@@ -1,5 +1,5 @@
 ---
-title: skura | Patromierz
+title: "skura | Patromierz"
 permalink: /skura
 ---
 
@@ -7,7 +7,7 @@ permalink: /skura
 <script type="text/javascript" src="data/s/skura.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skura](https://patronite.pl/skura)
+# [Audycja Zkury](https://patronite.pl/skura)
 
 ## Miesięczne wsparcie
 

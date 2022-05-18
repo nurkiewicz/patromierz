@@ -1,5 +1,5 @@
 ---
-title: Szum-Islandia | Patromierz
+title: "Szum-Islandia | Patromierz"
 permalink: /Szum-Islandia
 ---
 
@@ -7,7 +7,7 @@ permalink: /Szum-Islandia
 <script type="text/javascript" src="data/s/Szum-Islandia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Szum-Islandia](https://patronite.pl/Szum-Islandia)
+# [Szum/Islandia](https://patronite.pl/Szum-Islandia)
 
 ## Miesięczne wsparcie
 

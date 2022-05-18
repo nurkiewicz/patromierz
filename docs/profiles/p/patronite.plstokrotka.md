@@ -1,5 +1,5 @@
 ---
-title: patronite.plstokrotka | Patromierz
+title: "patronite.plstokrotka | Patromierz"
 permalink: /patronite.plstokrotka
 ---
 
@@ -7,7 +7,7 @@ permalink: /patronite.plstokrotka
 <script type="text/javascript" src="data/p/patronite.plstokrotka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patronite.plstokrotka](https://patronite.pl/patronite.plstokrotka)
+# [Stowarzyszenie Amazonek "Stokrotka"](https://patronite.pl/patronite.plstokrotka)
 
 ## Miesięczne wsparcie
 

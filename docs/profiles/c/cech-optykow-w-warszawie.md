@@ -1,5 +1,5 @@
 ---
-title: cech-optykow-w-warszawie | Patromierz
+title: "cech-optykow-w-warszawie | Patromierz"
 permalink: /cech-optykow-w-warszawie
 ---
 
@@ -7,7 +7,7 @@ permalink: /cech-optykow-w-warszawie
 <script type="text/javascript" src="data/c/cech-optykow-w-warszawie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cech-optykow-w-warszawie](https://patronite.pl/cech-optykow-w-warszawie)
+# [Cech Optyków w Warszawie](https://patronite.pl/cech-optykow-w-warszawie)
 
 ## Miesięczne wsparcie
 

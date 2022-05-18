@@ -1,5 +1,5 @@
 ---
-title: kupachrustu | Patromierz
+title: "kupachrustu | Patromierz"
 permalink: /kupachrustu
 ---
 
@@ -7,7 +7,7 @@ permalink: /kupachrustu
 <script type="text/javascript" src="data/k/kupachrustu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kupachrustu](https://patronite.pl/kupachrustu)
+# [Kupa Chrustu](https://patronite.pl/kupachrustu)
 
 ## Miesięczne wsparcie
 

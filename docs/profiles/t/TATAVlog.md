@@ -1,5 +1,5 @@
 ---
-title: TATAVlog | Patromierz
+title: "TATAVlog | Patromierz"
 permalink: /TATAVlog
 ---
 
@@ -7,7 +7,7 @@ permalink: /TATAVlog
 <script type="text/javascript" src="data/t/TATAVlog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TATAVlog](https://patronite.pl/TATAVlog)
+# [TATA Vlog](https://patronite.pl/TATAVlog)
 
 ## Miesięczne wsparcie
 

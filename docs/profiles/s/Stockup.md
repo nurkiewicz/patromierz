@@ -1,5 +1,5 @@
 ---
-title: Stockup | Patromierz
+title: "Stockup | Patromierz"
 permalink: /Stockup
 ---
 
@@ -7,7 +7,7 @@ permalink: /Stockup
 <script type="text/javascript" src="data/s/Stockup.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Stockup](https://patronite.pl/Stockup)
+# [StockUp](https://patronite.pl/Stockup)
 
 ## Miesięczne wsparcie
 

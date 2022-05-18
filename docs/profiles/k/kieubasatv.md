@@ -1,5 +1,5 @@
 ---
-title: kieubasatv | Patromierz
+title: "kieubasatv | Patromierz"
 permalink: /kieubasatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /kieubasatv
 <script type="text/javascript" src="data/k/kieubasatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kieubasatv](https://patronite.pl/kieubasatv)
+# [KieubasaTV](https://patronite.pl/kieubasatv)
 
 ## Miesięczne wsparcie
 

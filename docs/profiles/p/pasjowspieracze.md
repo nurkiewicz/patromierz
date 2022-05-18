@@ -1,5 +1,5 @@
 ---
-title: pasjowspieracze | Patromierz
+title: "pasjowspieracze | Patromierz"
 permalink: /pasjowspieracze
 ---
 
@@ -7,7 +7,7 @@ permalink: /pasjowspieracze
 <script type="text/javascript" src="data/p/pasjowspieracze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pasjowspieracze](https://patronite.pl/pasjowspieracze)
+# [Stowarzyszenie Akcja Miś](https://patronite.pl/pasjowspieracze)
 
 ## Miesięczne wsparcie
 

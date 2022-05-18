@@ -1,5 +1,5 @@
 ---
-title: KarateKyokushin | Patromierz
+title: "KarateKyokushin | Patromierz"
 permalink: /KarateKyokushin
 ---
 
@@ -7,7 +7,7 @@ permalink: /KarateKyokushin
 <script type="text/javascript" src="data/k/KarateKyokushin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KarateKyokushin](https://patronite.pl/KarateKyokushin)
+# [Sylwia Sierawska-Piszczyk](https://patronite.pl/KarateKyokushin)
 
 ## Miesięczne wsparcie
 

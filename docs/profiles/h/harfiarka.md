@@ -1,5 +1,5 @@
 ---
-title: harfiarka | Patromierz
+title: "harfiarka | Patromierz"
 permalink: /harfiarka
 ---
 
@@ -7,7 +7,7 @@ permalink: /harfiarka
 <script type="text/javascript" src="data/h/harfiarka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [harfiarka](https://patronite.pl/harfiarka)
+# [Harfiarka Barbara Karlik](https://patronite.pl/harfiarka)
 
 ## Miesięczne wsparcie
 

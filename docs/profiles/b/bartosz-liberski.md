@@ -1,5 +1,5 @@
 ---
-title: bartosz-liberski | Patromierz
+title: "bartosz-liberski | Patromierz"
 permalink: /bartosz-liberski
 ---
 
@@ -7,7 +7,7 @@ permalink: /bartosz-liberski
 <script type="text/javascript" src="data/b/bartosz-liberski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bartosz-liberski](https://patronite.pl/bartosz-liberski)
+# [Bartosz Liberski](https://patronite.pl/bartosz-liberski)
 
 ## Miesięczne wsparcie
 

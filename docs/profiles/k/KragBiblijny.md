@@ -1,5 +1,5 @@
 ---
-title: KragBiblijny | Patromierz
+title: "KragBiblijny | Patromierz"
 permalink: /KragBiblijny
 ---
 
@@ -7,7 +7,7 @@ permalink: /KragBiblijny
 <script type="text/javascript" src="data/k/KragBiblijny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KragBiblijny](https://patronite.pl/KragBiblijny)
+# [Krąg Biblijny](https://patronite.pl/KragBiblijny)
 
 ## Miesięczne wsparcie
 

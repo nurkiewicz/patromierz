@@ -1,5 +1,5 @@
 ---
-title: iktp | Patromierz
+title: "iktp | Patromierz"
 permalink: /iktp
 ---
 
@@ -7,7 +7,7 @@ permalink: /iktp
 <script type="text/javascript" src="data/i/iktp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [iktp](https://patronite.pl/iktp)
+# [I komu to przeszkadzało?](https://patronite.pl/iktp)
 
 ## Miesięczne wsparcie
 

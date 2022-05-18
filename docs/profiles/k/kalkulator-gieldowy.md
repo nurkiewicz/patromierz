@@ -1,5 +1,5 @@
 ---
-title: kalkulator-gieldowy | Patromierz
+title: "kalkulator-gieldowy | Patromierz"
 permalink: /kalkulator-gieldowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /kalkulator-gieldowy
 <script type="text/javascript" src="data/k/kalkulator-gieldowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kalkulator-gieldowy](https://patronite.pl/kalkulator-gieldowy)
+# [Kalkulatorgieldowy.pl](https://patronite.pl/kalkulator-gieldowy)
 
 ## Miesięczne wsparcie
 

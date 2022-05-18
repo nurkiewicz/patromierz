@@ -1,5 +1,5 @@
 ---
-title: pasikonie | Patromierz
+title: "pasikonie | Patromierz"
 permalink: /pasikonie
 ---
 
@@ -7,7 +7,7 @@ permalink: /pasikonie
 <script type="text/javascript" src="data/p/pasikonie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pasikonie](https://patronite.pl/pasikonie)
+# [Marta  z Pasikoni](https://patronite.pl/pasikonie)
 
 ## Miesięczne wsparcie
 

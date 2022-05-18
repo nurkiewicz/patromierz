@@ -1,5 +1,5 @@
 ---
-title: zajacmarek | Patromierz
+title: "zajacmarek | Patromierz"
 permalink: /zajacmarek
 ---
 
@@ -7,7 +7,7 @@ permalink: /zajacmarek
 <script type="text/javascript" src="data/z/zajacmarek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zajacmarek](https://patronite.pl/zajacmarek)
+# [Marek Zając (Codewin)](https://patronite.pl/zajacmarek)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: akademiawloskiegocinema | Patromierz
+title: "akademiawloskiegocinema | Patromierz"
 permalink: /akademiawloskiegocinema
 ---
 
@@ -7,7 +7,7 @@ permalink: /akademiawloskiegocinema
 <script type="text/javascript" src="data/a/akademiawloskiegocinema.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akademiawloskiegocinema](https://patronite.pl/akademiawloskiegocinema)
+# [Diana Dąbrowska - Accademia Włoskiego Kina](https://patronite.pl/akademiawloskiegocinema)
 
 ## Miesięczne wsparcie
 

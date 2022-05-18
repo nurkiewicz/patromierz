@@ -1,5 +1,5 @@
 ---
-title: MistrzGryOnline | Patromierz
+title: "MistrzGryOnline | Patromierz"
 permalink: /MistrzGryOnline
 ---
 
@@ -7,7 +7,7 @@ permalink: /MistrzGryOnline
 <script type="text/javascript" src="data/m/MistrzGryOnline.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MistrzGryOnline](https://patronite.pl/MistrzGryOnline)
+# [Mistrz Gry Online](https://patronite.pl/MistrzGryOnline)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Islandiaorgpl | Patromierz
+title: "Islandiaorgpl | Patromierz"
 permalink: /Islandiaorgpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /Islandiaorgpl
 <script type="text/javascript" src="data/i/Islandiaorgpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Islandiaorgpl](https://patronite.pl/Islandiaorgpl)
+# [Islandia.org.pl](https://patronite.pl/Islandiaorgpl)
 
 ## Miesięczne wsparcie
 

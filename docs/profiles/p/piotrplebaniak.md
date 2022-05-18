@@ -1,5 +1,5 @@
 ---
-title: piotrplebaniak | Patromierz
+title: "piotrplebaniak | Patromierz"
 permalink: /piotrplebaniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrplebaniak
 <script type="text/javascript" src="data/p/piotrplebaniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrplebaniak](https://patronite.pl/piotrplebaniak)
+# [Pieśni dalekich plemion (Piotr Plebaniak)](https://patronite.pl/piotrplebaniak)
 
 ## Miesięczne wsparcie
 

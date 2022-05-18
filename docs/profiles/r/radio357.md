@@ -1,5 +1,5 @@
 ---
-title: radio357 | Patromierz
+title: "radio357 | Patromierz"
 permalink: /radio357
 ---
 
@@ -7,7 +7,7 @@ permalink: /radio357
 <script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radio357](https://patronite.pl/radio357)
+# [Radio 357](https://patronite.pl/radio357)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: whosome | Patromierz
+title: "whosome | Patromierz"
 permalink: /whosome
 ---
 
@@ -7,7 +7,7 @@ permalink: /whosome
 <script type="text/javascript" src="data/w/whosome.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [whosome](https://patronite.pl/whosome)
+# [Whosome.pl](https://patronite.pl/whosome)
 
 ## Miesięczne wsparcie
 

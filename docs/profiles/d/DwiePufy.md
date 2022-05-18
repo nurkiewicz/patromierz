@@ -1,5 +1,5 @@
 ---
-title: DwiePufy | Patromierz
+title: "DwiePufy | Patromierz"
 permalink: /DwiePufy
 ---
 
@@ -7,7 +7,7 @@ permalink: /DwiePufy
 <script type="text/javascript" src="data/d/DwiePufy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DwiePufy](https://patronite.pl/DwiePufy)
+# [Dwie Pufy](https://patronite.pl/DwiePufy)
 
 ## Miesięczne wsparcie
 

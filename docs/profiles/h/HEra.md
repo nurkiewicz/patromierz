@@ -1,5 +1,5 @@
 ---
-title: HEra | Patromierz
+title: "HEra | Patromierz"
 permalink: /HEra
 ---
 
@@ -7,7 +7,7 @@ permalink: /HEra
 <script type="text/javascript" src="data/h/HEra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HEra](https://patronite.pl/HEra)
+# [Karolina Strzelczyk-Weichert ( HEra)](https://patronite.pl/HEra)
 
 ## Miesięczne wsparcie
 

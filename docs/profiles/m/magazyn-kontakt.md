@@ -1,5 +1,5 @@
 ---
-title: magazyn-kontakt | Patromierz
+title: "magazyn-kontakt | Patromierz"
 permalink: /magazyn-kontakt
 ---
 
@@ -7,7 +7,7 @@ permalink: /magazyn-kontakt
 <script type="text/javascript" src="data/m/magazyn-kontakt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magazyn-kontakt](https://patronite.pl/magazyn-kontakt)
+# [Magazyn Kontakt](https://patronite.pl/magazyn-kontakt)
 
 ## Miesięczne wsparcie
 

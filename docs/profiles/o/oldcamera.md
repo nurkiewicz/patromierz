@@ -1,5 +1,5 @@
 ---
-title: oldcamera | Patromierz
+title: "oldcamera | Patromierz"
 permalink: /oldcamera
 ---
 
@@ -7,7 +7,7 @@ permalink: /oldcamera
 <script type="text/javascript" src="data/o/oldcamera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oldcamera](https://patronite.pl/oldcamera)
+# [OldCamera.pl](https://patronite.pl/oldcamera)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: spooneg3 | Patromierz
+title: "spooneg3 | Patromierz"
 permalink: /spooneg3
 ---
 
@@ -7,7 +7,7 @@ permalink: /spooneg3
 <script type="text/javascript" src="data/s/spooneg3.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spooneg3](https://patronite.pl/spooneg3)
+# [Mateusz Wujciów](https://patronite.pl/spooneg3)
 
 ## Miesięczne wsparcie
 

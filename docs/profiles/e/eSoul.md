@@ -1,5 +1,5 @@
 ---
-title: eSoul | Patromierz
+title: "eSoul | Patromierz"
 permalink: /eSoul
 ---
 
@@ -7,7 +7,7 @@ permalink: /eSoul
 <script type="text/javascript" src="data/e/eSoul.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eSoul](https://patronite.pl/eSoul)
+# [eS](https://patronite.pl/eSoul)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Pogoda-w-Lodzi | Patromierz
+title: "Pogoda-w-Lodzi | Patromierz"
 permalink: /Pogoda-w-Lodzi
 ---
 
@@ -7,7 +7,7 @@ permalink: /Pogoda-w-Lodzi
 <script type="text/javascript" src="data/p/Pogoda-w-Lodzi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Pogoda-w-Lodzi](https://patronite.pl/Pogoda-w-Lodzi)
+# [Pogoda w Łodzi](https://patronite.pl/Pogoda-w-Lodzi)
 
 ## Miesięczne wsparcie
 

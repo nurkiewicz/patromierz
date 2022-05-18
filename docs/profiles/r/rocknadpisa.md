@@ -1,5 +1,5 @@
 ---
-title: rocknadpisa | Patromierz
+title: "rocknadpisa | Patromierz"
 permalink: /rocknadpisa
 ---
 
@@ -7,7 +7,7 @@ permalink: /rocknadpisa
 <script type="text/javascript" src="data/r/rocknadpisa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rocknadpisa](https://patronite.pl/rocknadpisa)
+# [Rock Nad Pisą](https://patronite.pl/rocknadpisa)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Nawrocki | Patromierz
+title: "Nawrocki | Patromierz"
 permalink: /Nawrocki
 ---
 

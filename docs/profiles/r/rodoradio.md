@@ -1,5 +1,5 @@
 ---
-title: rodoradio | Patromierz
+title: "rodoradio | Patromierz"
 permalink: /rodoradio
 ---
 
@@ -7,7 +7,7 @@ permalink: /rodoradio
 <script type="text/javascript" src="data/r/rodoradio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rodoradio](https://patronite.pl/rodoradio)
+# [rodoRADIO by bitonline](https://patronite.pl/rodoradio)
 
 ## Miesięczne wsparcie
 

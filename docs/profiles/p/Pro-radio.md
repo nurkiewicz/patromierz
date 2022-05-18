@@ -1,5 +1,5 @@
 ---
-title: Pro-radio | Patromierz
+title: "Pro-radio | Patromierz"
 permalink: /Pro-radio
 ---
 
@@ -7,7 +7,7 @@ permalink: /Pro-radio
 <script type="text/javascript" src="data/p/Pro-radio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Pro-radio](https://patronite.pl/Pro-radio)
+# [Pro-Radio](https://patronite.pl/Pro-radio)
 
 ## Miesięczne wsparcie
 

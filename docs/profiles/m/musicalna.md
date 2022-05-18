@@ -1,5 +1,5 @@
 ---
-title: musicalna | Patromierz
+title: "musicalna | Patromierz"
 permalink: /musicalna
 ---
 
@@ -7,7 +7,7 @@ permalink: /musicalna
 <script type="text/javascript" src="data/m/musicalna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [musicalna](https://patronite.pl/musicalna)
+# [Musicalna](https://patronite.pl/musicalna)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KTSquash | Patromierz
+title: "KTSquash | Patromierz"
 permalink: /KTSquash
 ---
 
@@ -7,7 +7,7 @@ permalink: /KTSquash
 <script type="text/javascript" src="data/k/KTSquash.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KTSquash](https://patronite.pl/KTSquash)
+# [KARINA TYMA](https://patronite.pl/KTSquash)
 
 ## Miesięczne wsparcie
 

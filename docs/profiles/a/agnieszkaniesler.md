@@ -1,5 +1,5 @@
 ---
-title: agnieszkaniesler | Patromierz
+title: "agnieszkaniesler | Patromierz"
 permalink: /agnieszkaniesler
 ---
 
@@ -7,7 +7,7 @@ permalink: /agnieszkaniesler
 <script type="text/javascript" src="data/a/agnieszkaniesler.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agnieszkaniesler](https://patronite.pl/agnieszkaniesler)
+# [Agnieszka Niesler](https://patronite.pl/agnieszkaniesler)
 
 ## Miesięczne wsparcie
 

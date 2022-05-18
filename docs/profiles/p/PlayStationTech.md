@@ -1,5 +1,5 @@
 ---
-title: PlayStationTech | Patromierz
+title: "PlayStationTech | Patromierz"
 permalink: /PlayStationTech
 ---
 
@@ -7,7 +7,7 @@ permalink: /PlayStationTech
 <script type="text/javascript" src="data/p/PlayStationTech.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PlayStationTech](https://patronite.pl/PlayStationTech)
+# [PlayStation Tech](https://patronite.pl/PlayStationTech)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: teatrprzypadkowferalnych | Patromierz
+title: "teatrprzypadkowferalnych | Patromierz"
 permalink: /teatrprzypadkowferalnych
 ---
 
@@ -7,7 +7,7 @@ permalink: /teatrprzypadkowferalnych
 <script type="text/javascript" src="data/t/teatrprzypadkowferalnych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teatrprzypadkowferalnych](https://patronite.pl/teatrprzypadkowferalnych)
+# [Teatr Przypadków Feralnych](https://patronite.pl/teatrprzypadkowferalnych)
 
 ## Miesięczne wsparcie
 

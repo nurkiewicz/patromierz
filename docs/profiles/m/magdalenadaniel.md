@@ -1,5 +1,5 @@
 ---
-title: magdalenadaniel | Patromierz
+title: "magdalenadaniel | Patromierz"
 permalink: /magdalenadaniel
 ---
 
@@ -7,7 +7,7 @@ permalink: /magdalenadaniel
 <script type="text/javascript" src="data/m/magdalenadaniel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magdalenadaniel](https://patronite.pl/magdalenadaniel)
+# [Magdalena Daniel](https://patronite.pl/magdalenadaniel)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: koroluk | Patromierz
+title: "koroluk | Patromierz"
 permalink: /koroluk
 ---
 
@@ -7,7 +7,7 @@ permalink: /koroluk
 <script type="text/javascript" src="data/k/koroluk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [koroluk](https://patronite.pl/koroluk)
+# [Koroluk](https://patronite.pl/koroluk)
 
 ## Miesięczne wsparcie
 

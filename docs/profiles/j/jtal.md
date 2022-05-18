@@ -1,5 +1,5 @@
 ---
-title: jtal | Patromierz
+title: "jtal | Patromierz"
 permalink: /jtal
 ---
 
@@ -7,7 +7,7 @@ permalink: /jtal
 <script type="text/javascript" src="data/j/jtal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jtal](https://patronite.pl/jtal)
+# [Just Take a Lesson](https://patronite.pl/jtal)
 
 ## Miesięczne wsparcie
 

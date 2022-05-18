@@ -1,5 +1,5 @@
 ---
-title: gosia-norman | Patromierz
+title: "gosia-norman | Patromierz"
 permalink: /gosia-norman
 ---
 
@@ -7,7 +7,7 @@ permalink: /gosia-norman
 <script type="text/javascript" src="data/g/gosia-norman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gosia-norman](https://patronite.pl/gosia-norman)
+# [Gosia Norman](https://patronite.pl/gosia-norman)
 
 ## Miesięczne wsparcie
 

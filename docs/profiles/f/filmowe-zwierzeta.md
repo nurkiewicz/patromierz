@@ -1,5 +1,5 @@
 ---
-title: filmowe-zwierzeta | Patromierz
+title: "filmowe-zwierzeta | Patromierz"
 permalink: /filmowe-zwierzeta
 ---
 
@@ -7,7 +7,7 @@ permalink: /filmowe-zwierzeta
 <script type="text/javascript" src="data/f/filmowe-zwierzeta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filmowe-zwierzeta](https://patronite.pl/filmowe-zwierzeta)
+# [Filmowe zwierzęta - blog o postaciach zwierzęcych w kinie](https://patronite.pl/filmowe-zwierzeta)
 
 ## Miesięczne wsparcie
 

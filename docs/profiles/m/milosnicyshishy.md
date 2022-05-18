@@ -1,5 +1,5 @@
 ---
-title: milosnicyshishy | Patromierz
+title: "milosnicyshishy | Patromierz"
 permalink: /milosnicyshishy
 ---
 
@@ -7,7 +7,7 @@ permalink: /milosnicyshishy
 <script type="text/javascript" src="data/m/milosnicyshishy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [milosnicyshishy](https://patronite.pl/milosnicyshishy)
+# [Miłośnicy shishy](https://patronite.pl/milosnicyshishy)
 
 ## Miesięczne wsparcie
 

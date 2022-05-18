@@ -1,5 +1,5 @@
 ---
-title: trenerbartosz | Patromierz
+title: "trenerbartosz | Patromierz"
 permalink: /trenerbartosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /trenerbartosz
 <script type="text/javascript" src="data/t/trenerbartosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [trenerbartosz](https://patronite.pl/trenerbartosz)
+# [Trener Bartosz](https://patronite.pl/trenerbartosz)
 
 ## Miesięczne wsparcie
 

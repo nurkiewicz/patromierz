@@ -1,5 +1,5 @@
 ---
-title: lasy_janowskie_i_okolice | Patromierz
+title: "lasy_janowskie_i_okolice | Patromierz"
 permalink: /lasy_janowskie_i_okolice
 ---
 
@@ -7,7 +7,7 @@ permalink: /lasy_janowskie_i_okolice
 <script type="text/javascript" src="data/l/lasy_janowskie_i_okolice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lasy_janowskie_i_okolice](https://patronite.pl/lasy_janowskie_i_okolice)
+# [Lasy Janowskie i okolice](https://patronite.pl/lasy_janowskie_i_okolice)
 
 ## Miesięczne wsparcie
 

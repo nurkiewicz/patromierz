@@ -1,5 +1,5 @@
 ---
-title: 24-7_warszawa | Patromierz
+title: "24-7_warszawa | Patromierz"
 permalink: /24-7_warszawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /24-7_warszawa
 <script type="text/javascript" src="data/2/24-7_warszawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [24-7_warszawa](https://patronite.pl/24-7_warszawa)
+# [ 24/7 Warszawa - Dom Modlitwy](https://patronite.pl/24-7_warszawa)
 
 ## Miesięczne wsparcie
 

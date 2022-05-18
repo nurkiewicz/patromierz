@@ -1,5 +1,5 @@
 ---
-title: aska-lawicka | Patromierz
+title: "aska-lawicka | Patromierz"
 permalink: /aska-lawicka
 ---
 
@@ -7,7 +7,7 @@ permalink: /aska-lawicka
 <script type="text/javascript" src="data/a/aska-lawicka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aska-lawicka](https://patronite.pl/aska-lawicka)
+# [Aśka Ławicka](https://patronite.pl/aska-lawicka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: swiatwciaga | Patromierz
+title: "swiatwciaga | Patromierz"
 permalink: /swiatwciaga
 ---
 
@@ -7,7 +7,7 @@ permalink: /swiatwciaga
 <script type="text/javascript" src="data/s/swiatwciaga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swiatwciaga](https://patronite.pl/swiatwciaga)
+# [ŚWIAT WCIĄGA - Wojciech Piestrak](https://patronite.pl/swiatwciaga)
 
 ## Miesięczne wsparcie
 

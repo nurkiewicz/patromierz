@@ -1,5 +1,5 @@
 ---
-title: AplikacjaDrogowskaz | Patromierz
+title: "AplikacjaDrogowskaz | Patromierz"
 permalink: /AplikacjaDrogowskaz
 ---
 
@@ -7,7 +7,7 @@ permalink: /AplikacjaDrogowskaz
 <script type="text/javascript" src="data/a/AplikacjaDrogowskaz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AplikacjaDrogowskaz](https://patronite.pl/AplikacjaDrogowskaz)
+# [Aplikacja Drogowskaz](https://patronite.pl/AplikacjaDrogowskaz)
 
 ## Miesięczne wsparcie
 

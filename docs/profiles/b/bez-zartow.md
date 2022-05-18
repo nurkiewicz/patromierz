@@ -1,5 +1,5 @@
 ---
-title: bez-zartow | Patromierz
+title: "bez-zartow | Patromierz"
 permalink: /bez-zartow
 ---
 
@@ -7,7 +7,7 @@ permalink: /bez-zartow
 <script type="text/javascript" src="data/b/bez-zartow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bez-zartow](https://patronite.pl/bez-zartow)
+# [BEZ ŻARTÓW](https://patronite.pl/bez-zartow)
 
 ## Miesięczne wsparcie
 

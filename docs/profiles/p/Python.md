@@ -1,5 +1,5 @@
 ---
-title: Python | Patromierz
+title: "Python | Patromierz"
 permalink: /Python
 ---
 
@@ -7,7 +7,7 @@ permalink: /Python
 <script type="text/javascript" src="data/p/Python.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Python](https://patronite.pl/Python)
+# [Kodowanie dla: osieroconych, uchodźców i patronów](https://patronite.pl/Python)
 
 ## Miesięczne wsparcie
 

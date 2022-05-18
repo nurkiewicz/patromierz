@@ -1,5 +1,5 @@
 ---
-title: pokotaj | Patromierz
+title: "pokotaj | Patromierz"
 permalink: /pokotaj
 ---
 
@@ -7,7 +7,7 @@ permalink: /pokotaj
 <script type="text/javascript" src="data/p/pokotaj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pokotaj](https://patronite.pl/pokotaj)
+# [Stowarzyszenie Pokotaj](https://patronite.pl/pokotaj)
 
 ## Miesięczne wsparcie
 

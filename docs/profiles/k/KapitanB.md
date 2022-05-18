@@ -1,5 +1,5 @@
 ---
-title: KapitanB | Patromierz
+title: "KapitanB | Patromierz"
 permalink: /KapitanB
 ---
 

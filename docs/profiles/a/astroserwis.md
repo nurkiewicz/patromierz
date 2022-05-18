@@ -1,5 +1,5 @@
 ---
-title: astroserwis | Patromierz
+title: "astroserwis | Patromierz"
 permalink: /astroserwis
 ---
 
@@ -7,7 +7,7 @@ permalink: /astroserwis
 <script type="text/javascript" src="data/a/astroserwis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [astroserwis](https://patronite.pl/astroserwis)
+# [Astroserwis](https://patronite.pl/astroserwis)
 
 ## Miesięczne wsparcie
 

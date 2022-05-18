@@ -1,5 +1,5 @@
 ---
-title: Fundacjaipomocnipl | Patromierz
+title: "Fundacjaipomocnipl | Patromierz"
 permalink: /Fundacjaipomocnipl
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacjaipomocnipl
 <script type="text/javascript" src="data/f/Fundacjaipomocnipl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacjaipomocnipl](https://patronite.pl/Fundacjaipomocnipl)
+# [Fundacja ipomocni.pl](https://patronite.pl/Fundacjaipomocnipl)
 
 ## Miesięczne wsparcie
 

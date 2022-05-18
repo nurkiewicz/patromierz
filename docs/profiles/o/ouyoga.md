@@ -1,5 +1,5 @@
 ---
-title: ouyoga | Patromierz
+title: "ouyoga | Patromierz"
 permalink: /ouyoga
 ---
 
@@ -7,7 +7,7 @@ permalink: /ouyoga
 <script type="text/javascript" src="data/o/ouyoga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ouyoga](https://patronite.pl/ouyoga)
+# [Ola Uruszczak - jogowsparcie](https://patronite.pl/ouyoga)
 
 ## Miesięczne wsparcie
 

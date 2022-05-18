@@ -1,5 +1,5 @@
 ---
-title: nrgeek | Patromierz
+title: "nrgeek | Patromierz"
 permalink: /nrgeek
 ---
 
@@ -7,7 +7,7 @@ permalink: /nrgeek
 <script type="text/javascript" src="data/n/nrgeek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nrgeek](https://patronite.pl/nrgeek)
+# [NRGeek](https://patronite.pl/nrgeek)
 
 ## Miesięczne wsparcie
 

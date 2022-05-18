@@ -1,5 +1,5 @@
 ---
-title: xman | Patromierz
+title: "xman | Patromierz"
 permalink: /xman
 ---
 
@@ -7,7 +7,7 @@ permalink: /xman
 <script type="text/javascript" src="data/x/xman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [xman](https://patronite.pl/xman)
+# [Paweł Bułat](https://patronite.pl/xman)
 
 ## Miesięczne wsparcie
 

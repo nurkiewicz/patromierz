@@ -1,5 +1,5 @@
 ---
-title: petitek | Patromierz
+title: "petitek | Patromierz"
 permalink: /petitek
 ---
 
@@ -7,7 +7,7 @@ permalink: /petitek
 <script type="text/javascript" src="data/p/petitek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [petitek](https://patronite.pl/petitek)
+# [Petit_Imp](https://patronite.pl/petitek)
 
 ## Miesięczne wsparcie
 

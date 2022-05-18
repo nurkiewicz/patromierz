@@ -1,5 +1,5 @@
 ---
-title: elektrowozpl | Patromierz
+title: "elektrowozpl | Patromierz"
 permalink: /elektrowozpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /elektrowozpl
 <script type="text/javascript" src="data/e/elektrowozpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elektrowozpl](https://patronite.pl/elektrowozpl)
+# [www.elektrowoz.pl](https://patronite.pl/elektrowozpl)
 
 ## Miesięczne wsparcie
 

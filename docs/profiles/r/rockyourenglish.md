@@ -1,5 +1,5 @@
 ---
-title: rockyourenglish | Patromierz
+title: "rockyourenglish | Patromierz"
 permalink: /rockyourenglish
 ---
 
@@ -7,7 +7,7 @@ permalink: /rockyourenglish
 <script type="text/javascript" src="data/r/rockyourenglish.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rockyourenglish](https://patronite.pl/rockyourenglish)
+# [Rock Your English](https://patronite.pl/rockyourenglish)
 
 ## Miesięczne wsparcie
 

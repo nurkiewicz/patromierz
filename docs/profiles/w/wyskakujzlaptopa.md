@@ -1,5 +1,5 @@
 ---
-title: wyskakujzlaptopa | Patromierz
+title: "wyskakujzlaptopa | Patromierz"
 permalink: /wyskakujzlaptopa
 ---
 
@@ -7,7 +7,7 @@ permalink: /wyskakujzlaptopa
 <script type="text/javascript" src="data/w/wyskakujzlaptopa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wyskakujzlaptopa](https://patronite.pl/wyskakujzlaptopa)
+# [Wyskakuj z laptopa](https://patronite.pl/wyskakujzlaptopa)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: LukaszKozlik | Patromierz
+title: "LukaszKozlik | Patromierz"
 permalink: /LukaszKozlik
 ---
 
@@ -7,7 +7,7 @@ permalink: /LukaszKozlik
 <script type="text/javascript" src="data/l/LukaszKozlik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LukaszKozlik](https://patronite.pl/LukaszKozlik)
+# [Łukasz Koźlik](https://patronite.pl/LukaszKozlik)
 
 ## Miesięczne wsparcie
 

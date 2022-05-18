@@ -1,5 +1,5 @@
 ---
-title: intopassion | Patromierz
+title: "intopassion | Patromierz"
 permalink: /intopassion
 ---
 
@@ -7,7 +7,7 @@ permalink: /intopassion
 <script type="text/javascript" src="data/i/intopassion.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [intopassion](https://patronite.pl/intopassion)
+# [INTOPASSION.COM](https://patronite.pl/intopassion)
 
 ## Miesięczne wsparcie
 

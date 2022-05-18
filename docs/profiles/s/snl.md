@@ -1,5 +1,5 @@
 ---
-title: snl | Patromierz
+title: "snl | Patromierz"
 permalink: /snl
 ---
 
@@ -7,7 +7,7 @@ permalink: /snl
 <script type="text/javascript" src="data/s/snl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [snl](https://patronite.pl/snl)
+# [Fundacja Stawiamy na Łapy](https://patronite.pl/snl)
 
 ## Miesięczne wsparcie
 

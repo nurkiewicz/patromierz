@@ -1,5 +1,5 @@
 ---
-title: nringpl | Patromierz
+title: "nringpl | Patromierz"
 permalink: /nringpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /nringpl
 <script type="text/javascript" src="data/n/nringpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nringpl](https://patronite.pl/nringpl)
+# [Nring.pl | Łukasz Formella](https://patronite.pl/nringpl)
 
 ## Miesięczne wsparcie
 

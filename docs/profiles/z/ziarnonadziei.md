@@ -1,5 +1,5 @@
 ---
-title: ziarnonadziei | Patromierz
+title: "ziarnonadziei | Patromierz"
 permalink: /ziarnonadziei
 ---
 
@@ -7,7 +7,7 @@ permalink: /ziarnonadziei
 <script type="text/javascript" src="data/z/ziarnonadziei.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ziarnonadziei](https://patronite.pl/ziarnonadziei)
+# [Ziarno Nadziei](https://patronite.pl/ziarnonadziei)
 
 ## Miesięczne wsparcie
 

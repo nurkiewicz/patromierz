@@ -1,5 +1,5 @@
 ---
-title: wolnemedia | Patromierz
+title: "wolnemedia | Patromierz"
 permalink: /wolnemedia
 ---
 
@@ -7,7 +7,7 @@ permalink: /wolnemedia
 <script type="text/javascript" src="data/w/wolnemedia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wolnemedia](https://patronite.pl/wolnemedia)
+# [Wolne Media](https://patronite.pl/wolnemedia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TechPomaga | Patromierz
+title: "TechPomaga | Patromierz"
 permalink: /TechPomaga
 ---
 
@@ -7,7 +7,7 @@ permalink: /TechPomaga
 <script type="text/javascript" src="data/t/TechPomaga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TechPomaga](https://patronite.pl/TechPomaga)
+# [Fundacja TechPomaga](https://patronite.pl/TechPomaga)
 
 ## Miesięczne wsparcie
 

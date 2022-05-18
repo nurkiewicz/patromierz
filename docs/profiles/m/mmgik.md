@@ -1,5 +1,5 @@
 ---
-title: mmgik | Patromierz
+title: "mmgik | Patromierz"
 permalink: /mmgik
 ---
 
@@ -7,7 +7,7 @@ permalink: /mmgik
 <script type="text/javascript" src="data/m/mmgik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mmgik](https://patronite.pl/mmgik)
+# [Milanowskie Muzeum Gier i Komputerów](https://patronite.pl/mmgik)
 
 ## Miesięczne wsparcie
 

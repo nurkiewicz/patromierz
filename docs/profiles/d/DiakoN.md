@@ -1,5 +1,5 @@
 ---
-title: DiakoN | Patromierz
+title: "DiakoN | Patromierz"
 permalink: /DiakoN
 ---
 

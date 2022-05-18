@@ -1,5 +1,5 @@
 ---
-title: alfahfemmes | Patromierz
+title: "alfahfemmes | Patromierz"
 permalink: /alfahfemmes
 ---
 
@@ -7,7 +7,7 @@ permalink: /alfahfemmes
 <script type="text/javascript" src="data/a/alfahfemmes.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alfahfemmes](https://patronite.pl/alfahfemmes)
+# [Alfah Femmes](https://patronite.pl/alfahfemmes)
 
 ## Miesięczne wsparcie
 

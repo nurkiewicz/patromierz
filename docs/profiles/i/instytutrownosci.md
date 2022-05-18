@@ -1,5 +1,5 @@
 ---
-title: instytutrownosci | Patromierz
+title: "instytutrownosci | Patromierz"
 permalink: /instytutrownosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /instytutrownosci
 <script type="text/javascript" src="data/i/instytutrownosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [instytutrownosci](https://patronite.pl/instytutrownosci)
+# [Instytut Równości](https://patronite.pl/instytutrownosci)
 
 ## Miesięczne wsparcie
 

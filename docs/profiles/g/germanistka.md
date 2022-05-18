@@ -1,5 +1,5 @@
 ---
-title: germanistka | Patromierz
+title: "germanistka | Patromierz"
 permalink: /germanistka
 ---
 
@@ -7,7 +7,7 @@ permalink: /germanistka
 <script type="text/javascript" src="data/g/germanistka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [germanistka](https://patronite.pl/germanistka)
+# [Germanistka po godzinach](https://patronite.pl/germanistka)
 
 ## Miesięczne wsparcie
 

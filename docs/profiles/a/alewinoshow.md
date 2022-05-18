@@ -1,5 +1,5 @@
 ---
-title: alewinoshow | Patromierz
+title: "alewinoshow | Patromierz"
 permalink: /alewinoshow
 ---
 
@@ -7,7 +7,7 @@ permalink: /alewinoshow
 <script type="text/javascript" src="data/a/alewinoshow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alewinoshow](https://patronite.pl/alewinoshow)
+# [Ale Wino Show](https://patronite.pl/alewinoshow)
 
 ## Miesięczne wsparcie
 

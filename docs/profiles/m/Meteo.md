@@ -1,5 +1,5 @@
 ---
-title: Meteo | Patromierz
+title: "Meteo | Patromierz"
 permalink: /Meteo
 ---
 
@@ -7,7 +7,7 @@ permalink: /Meteo
 <script type="text/javascript" src="data/m/Meteo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Meteo](https://patronite.pl/Meteo)
+# ["Sorry. Taki mamy klimat", czyli pogoda pod oknem Jarosława Turały](https://patronite.pl/Meteo)
 
 ## Miesięczne wsparcie
 

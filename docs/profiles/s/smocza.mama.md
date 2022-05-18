@@ -1,5 +1,5 @@
 ---
-title: smocza.mama | Patromierz
+title: "smocza.mama | Patromierz"
 permalink: /smocza.mama
 ---
 
@@ -7,7 +7,7 @@ permalink: /smocza.mama
 <script type="text/javascript" src="data/s/smocza.mama.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smocza.mama](https://patronite.pl/smocza.mama)
+# [Smocza Mama](https://patronite.pl/smocza.mama)
 
 ## Miesięczne wsparcie
 

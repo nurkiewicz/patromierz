@@ -1,5 +1,5 @@
 ---
-title: kajutex | Patromierz
+title: "kajutex | Patromierz"
 permalink: /kajutex
 ---
 
@@ -7,7 +7,7 @@ permalink: /kajutex
 <script type="text/javascript" src="data/k/kajutex.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kajutex](https://patronite.pl/kajutex)
+# [Kaja Klimek - Kajutex](https://patronite.pl/kajutex)
 
 ## Miesięczne wsparcie
 

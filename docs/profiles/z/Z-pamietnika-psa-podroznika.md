@@ -1,5 +1,5 @@
 ---
-title: Z-pamietnika-psa-podroznika | Patromierz
+title: "Z-pamietnika-psa-podroznika | Patromierz"
 permalink: /Z-pamietnika-psa-podroznika
 ---
 
@@ -7,7 +7,7 @@ permalink: /Z-pamietnika-psa-podroznika
 <script type="text/javascript" src="data/z/Z-pamietnika-psa-podroznika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Z-pamietnika-psa-podroznika](https://patronite.pl/Z-pamietnika-psa-podroznika)
+# [Z pamiętnika psa podróżnika](https://patronite.pl/Z-pamietnika-psa-podroznika)
 
 ## Miesięczne wsparcie
 

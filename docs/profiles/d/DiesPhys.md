@@ -1,5 +1,5 @@
 ---
-title: DiesPhys | Patromierz
+title: "DiesPhys | Patromierz"
 permalink: /DiesPhys
 ---
 
@@ -7,7 +7,7 @@ permalink: /DiesPhys
 <script type="text/javascript" src="data/d/DiesPhys.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DiesPhys](https://patronite.pl/DiesPhys)
+# [Fizyka dla Laika czyli Nauka dla Tłuka](https://patronite.pl/DiesPhys)
 
 ## Miesięczne wsparcie
 

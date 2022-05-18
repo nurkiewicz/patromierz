@@ -1,5 +1,5 @@
 ---
-title: klub-rozrywki-i-pomyslunku | Patromierz
+title: "klub-rozrywki-i-pomyslunku | Patromierz"
 permalink: /klub-rozrywki-i-pomyslunku
 ---
 
@@ -7,7 +7,7 @@ permalink: /klub-rozrywki-i-pomyslunku
 <script type="text/javascript" src="data/k/klub-rozrywki-i-pomyslunku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klub-rozrywki-i-pomyslunku](https://patronite.pl/klub-rozrywki-i-pomyslunku)
+# [Klub Rozrywki i Pomyślunku](https://patronite.pl/klub-rozrywki-i-pomyslunku)
 
 ## Miesięczne wsparcie
 

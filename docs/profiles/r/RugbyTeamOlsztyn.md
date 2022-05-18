@@ -1,5 +1,5 @@
 ---
-title: RugbyTeamOlsztyn | Patromierz
+title: "RugbyTeamOlsztyn | Patromierz"
 permalink: /RugbyTeamOlsztyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /RugbyTeamOlsztyn
 <script type="text/javascript" src="data/r/RugbyTeamOlsztyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RugbyTeamOlsztyn](https://patronite.pl/RugbyTeamOlsztyn)
+# [Rugby Team Olsztyn](https://patronite.pl/RugbyTeamOlsztyn)
 
 ## Miesięczne wsparcie
 

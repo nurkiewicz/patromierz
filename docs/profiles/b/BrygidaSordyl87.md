@@ -1,5 +1,5 @@
 ---
-title: BrygidaSordyl87 | Patromierz
+title: "BrygidaSordyl87 | Patromierz"
 permalink: /BrygidaSordyl87
 ---
 
@@ -7,7 +7,7 @@ permalink: /BrygidaSordyl87
 <script type="text/javascript" src="data/b/BrygidaSordyl87.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BrygidaSordyl87](https://patronite.pl/BrygidaSordyl87)
+# [Brygida Sordyl](https://patronite.pl/BrygidaSordyl87)
 
 ## Miesięczne wsparcie
 

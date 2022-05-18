@@ -1,5 +1,5 @@
 ---
-title: galadhorn | Patromierz
+title: "galadhorn | Patromierz"
 permalink: /galadhorn
 ---
 
@@ -7,7 +7,7 @@ permalink: /galadhorn
 <script type="text/javascript" src="data/g/galadhorn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [galadhorn](https://patronite.pl/galadhorn)
+# [Ryszard "Galadhorn" Derdziński](https://patronite.pl/galadhorn)
 
 ## Miesięczne wsparcie
 

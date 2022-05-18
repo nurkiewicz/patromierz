@@ -1,5 +1,5 @@
 ---
-title: duszczenko | Patromierz
+title: "duszczenko | Patromierz"
 permalink: /duszczenko
 ---
 
@@ -7,7 +7,7 @@ permalink: /duszczenko
 <script type="text/javascript" src="data/d/duszczenko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [duszczenko](https://patronite.pl/duszczenko)
+# [Damian Duszczenko](https://patronite.pl/duszczenko)
 
 ## Miesięczne wsparcie
 

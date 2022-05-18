@@ -1,5 +1,5 @@
 ---
-title: Grzechu40 | Patromierz
+title: "Grzechu40 | Patromierz"
 permalink: /Grzechu40
 ---
 

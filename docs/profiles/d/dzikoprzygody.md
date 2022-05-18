@@ -1,5 +1,5 @@
 ---
-title: dzikoprzygody | Patromierz
+title: "dzikoprzygody | Patromierz"
 permalink: /dzikoprzygody
 ---
 
@@ -7,7 +7,7 @@ permalink: /dzikoprzygody
 <script type="text/javascript" src="data/d/dzikoprzygody.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dzikoprzygody](https://patronite.pl/dzikoprzygody)
+# [Dzikoprzygody](https://patronite.pl/dzikoprzygody)
 
 ## Miesięczne wsparcie
 

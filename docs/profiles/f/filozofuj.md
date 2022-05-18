@@ -1,5 +1,5 @@
 ---
-title: filozofuj | Patromierz
+title: "filozofuj | Patromierz"
 permalink: /filozofuj
 ---
 
@@ -7,7 +7,7 @@ permalink: /filozofuj
 <script type="text/javascript" src="data/f/filozofuj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filozofuj](https://patronite.pl/filozofuj)
+# [Filozofuj!](https://patronite.pl/filozofuj)
 
 ## Miesięczne wsparcie
 

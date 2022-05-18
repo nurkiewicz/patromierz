@@ -1,5 +1,5 @@
 ---
-title: astrologiaewolucyjna | Patromierz
+title: "astrologiaewolucyjna | Patromierz"
 permalink: /astrologiaewolucyjna
 ---
 
@@ -7,7 +7,7 @@ permalink: /astrologiaewolucyjna
 <script type="text/javascript" src="data/a/astrologiaewolucyjna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [astrologiaewolucyjna](https://patronite.pl/astrologiaewolucyjna)
+# [Bartek  Sawicki - Astrologia Ewolucyjna](https://patronite.pl/astrologiaewolucyjna)
 
 ## Miesięczne wsparcie
 

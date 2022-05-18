@@ -1,5 +1,5 @@
 ---
-title: twojanowaswiadomosc | Patromierz
+title: "twojanowaswiadomosc | Patromierz"
 permalink: /twojanowaswiadomosc
 ---
 
@@ -7,7 +7,7 @@ permalink: /twojanowaswiadomosc
 <script type="text/javascript" src="data/t/twojanowaswiadomosc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [twojanowaswiadomosc](https://patronite.pl/twojanowaswiadomosc)
+# [TwojaNowaŚwiadomość ](https://patronite.pl/twojanowaswiadomosc)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SWOK | Patromierz
+title: "SWOK | Patromierz"
 permalink: /SWOK
 ---
 
@@ -7,7 +7,7 @@ permalink: /SWOK
 <script type="text/javascript" src="data/s/SWOK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SWOK](https://patronite.pl/SWOK)
+# [Służba Więzienna Okiem Klawisza](https://patronite.pl/SWOK)
 
 ## Miesięczne wsparcie
 

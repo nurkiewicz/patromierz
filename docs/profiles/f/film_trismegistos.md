@@ -1,5 +1,5 @@
 ---
-title: film_trismegistos | Patromierz
+title: "film_trismegistos | Patromierz"
 permalink: /film_trismegistos
 ---
 
@@ -7,7 +7,7 @@ permalink: /film_trismegistos
 <script type="text/javascript" src="data/f/film_trismegistos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [film_trismegistos](https://patronite.pl/film_trismegistos)
+# [Film Trismegistos](https://patronite.pl/film_trismegistos)
 
 ## Miesięczne wsparcie
 

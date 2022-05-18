@@ -1,5 +1,5 @@
 ---
-title: tucholski | Patromierz
+title: "tucholski | Patromierz"
 permalink: /tucholski
 ---
 
@@ -7,7 +7,7 @@ permalink: /tucholski
 <script type="text/javascript" src="data/t/tucholski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tucholski](https://patronite.pl/tucholski)
+# [Andrzej Tucholski](https://patronite.pl/tucholski)
 
 ## Miesięczne wsparcie
 

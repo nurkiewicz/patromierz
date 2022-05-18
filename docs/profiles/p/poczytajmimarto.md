@@ -1,5 +1,5 @@
 ---
-title: poczytajmimarto | Patromierz
+title: "poczytajmimarto | Patromierz"
 permalink: /poczytajmimarto
 ---
 
@@ -7,7 +7,7 @@ permalink: /poczytajmimarto
 <script type="text/javascript" src="data/p/poczytajmimarto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poczytajmimarto](https://patronite.pl/poczytajmimarto)
+# [Poczytaj mi Marto](https://patronite.pl/poczytajmimarto)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kebson | Patromierz
+title: "kebson | Patromierz"
 permalink: /kebson
 ---
 
@@ -7,7 +7,7 @@ permalink: /kebson
 <script type="text/javascript" src="data/k/kebson.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kebson](https://patronite.pl/kebson)
+# [Kebson - Podróże Za Kebabem](https://patronite.pl/kebson)
 
 ## Miesięczne wsparcie
 

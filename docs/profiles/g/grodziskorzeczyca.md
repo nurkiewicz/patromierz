@@ -1,5 +1,5 @@
 ---
-title: grodziskorzeczyca | Patromierz
+title: "grodziskorzeczyca | Patromierz"
 permalink: /grodziskorzeczyca
 ---
 
@@ -7,7 +7,7 @@ permalink: /grodziskorzeczyca
 <script type="text/javascript" src="data/g/grodziskorzeczyca.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grodziskorzeczyca](https://patronite.pl/grodziskorzeczyca)
+# [Grodzisko Rzeczyca](https://patronite.pl/grodziskorzeczyca)
 
 ## Miesięczne wsparcie
 

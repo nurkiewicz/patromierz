@@ -1,5 +1,5 @@
 ---
-title: przemek-czlowiekmotyl | Patromierz
+title: "przemek-czlowiekmotyl | Patromierz"
 permalink: /przemek-czlowiekmotyl
 ---
 
@@ -7,7 +7,7 @@ permalink: /przemek-czlowiekmotyl
 <script type="text/javascript" src="data/p/przemek-czlowiekmotyl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przemek-czlowiekmotyl](https://patronite.pl/przemek-czlowiekmotyl)
+# [Przemysław Sobieszczuk](https://patronite.pl/przemek-czlowiekmotyl)
 
 ## Miesięczne wsparcie
 

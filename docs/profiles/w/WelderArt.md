@@ -1,5 +1,5 @@
 ---
-title: WelderArt | Patromierz
+title: "WelderArt | Patromierz"
 permalink: /WelderArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /WelderArt
 <script type="text/javascript" src="data/w/WelderArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WelderArt](https://patronite.pl/WelderArt)
+# [Welder Art](https://patronite.pl/WelderArt)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: namajorce | Patromierz
+title: "namajorce | Patromierz"
 permalink: /namajorce
 ---
 
@@ -7,7 +7,7 @@ permalink: /namajorce
 <script type="text/javascript" src="data/n/namajorce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [namajorce](https://patronite.pl/namajorce)
+# [NaMajorce.pl](https://patronite.pl/namajorce)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kultura-na-czasie-blog | Patromierz
+title: "kultura-na-czasie-blog | Patromierz"
 permalink: /kultura-na-czasie-blog
 ---
 
@@ -7,7 +7,7 @@ permalink: /kultura-na-czasie-blog
 <script type="text/javascript" src="data/k/kultura-na-czasie-blog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kultura-na-czasie-blog](https://patronite.pl/kultura-na-czasie-blog)
+# [Kultura na Czasie blog](https://patronite.pl/kultura-na-czasie-blog)
 
 ## Miesięczne wsparcie
 

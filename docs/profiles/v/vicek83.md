@@ -1,5 +1,5 @@
 ---
-title: vicek83 | Patromierz
+title: "vicek83 | Patromierz"
 permalink: /vicek83
 ---
 
@@ -7,7 +7,7 @@ permalink: /vicek83
 <script type="text/javascript" src="data/v/vicek83.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vicek83](https://patronite.pl/vicek83)
+# [Vicek83](https://patronite.pl/vicek83)
 
 ## Miesięczne wsparcie
 

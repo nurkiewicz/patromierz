@@ -1,5 +1,5 @@
 ---
-title: ziarnoswiadomosci | Patromierz
+title: "ziarnoswiadomosci | Patromierz"
 permalink: /ziarnoswiadomosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /ziarnoswiadomosci
 <script type="text/javascript" src="data/z/ziarnoswiadomosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ziarnoswiadomosci](https://patronite.pl/ziarnoswiadomosci)
+# [Ziarno świadomości](https://patronite.pl/ziarnoswiadomosci)
 
 ## Miesięczne wsparcie
 

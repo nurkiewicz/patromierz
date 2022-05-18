@@ -1,5 +1,5 @@
 ---
-title: korrespondent-warszawski | Patromierz
+title: "korrespondent-warszawski | Patromierz"
 permalink: /korrespondent-warszawski
 ---
 
@@ -7,7 +7,7 @@ permalink: /korrespondent-warszawski
 <script type="text/javascript" src="data/k/korrespondent-warszawski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [korrespondent-warszawski](https://patronite.pl/korrespondent-warszawski)
+# [Korrespondent Warszawski](https://patronite.pl/korrespondent-warszawski)
 
 ## Miesięczne wsparcie
 

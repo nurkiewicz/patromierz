@@ -1,5 +1,5 @@
 ---
-title: zrozumiec-szczura | Patromierz
+title: "zrozumiec-szczura | Patromierz"
 permalink: /zrozumiec-szczura
 ---
 
@@ -7,7 +7,7 @@ permalink: /zrozumiec-szczura
 <script type="text/javascript" src="data/z/zrozumiec-szczura.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zrozumiec-szczura](https://patronite.pl/zrozumiec-szczura)
+# [Aleksandra ](https://patronite.pl/zrozumiec-szczura)
 
 ## Miesięczne wsparcie
 

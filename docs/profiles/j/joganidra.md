@@ -1,5 +1,5 @@
 ---
-title: joganidra | Patromierz
+title: "joganidra | Patromierz"
 permalink: /joganidra
 ---
 
@@ -7,7 +7,7 @@ permalink: /joganidra
 <script type="text/javascript" src="data/j/joganidra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [joganidra](https://patronite.pl/joganidra)
+# [Kasia Klimczewska](https://patronite.pl/joganidra)
 
 ## Miesięczne wsparcie
 

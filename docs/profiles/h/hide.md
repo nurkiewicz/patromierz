@@ -1,5 +1,5 @@
 ---
-title: hide | Patromierz
+title: "hide | Patromierz"
 permalink: /hide
 ---
 
@@ -7,7 +7,7 @@ permalink: /hide
 <script type="text/javascript" src="data/h/hide.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hide](https://patronite.pl/hide)
+# [Hide](https://patronite.pl/hide)
 
 ## Miesięczne wsparcie
 

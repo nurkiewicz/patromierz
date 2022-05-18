@@ -1,5 +1,5 @@
 ---
-title: zDzis_Drozd | Patromierz
+title: "zDzis_Drozd | Patromierz"
 permalink: /zDzis_Drozd
 ---
 
@@ -7,7 +7,7 @@ permalink: /zDzis_Drozd
 <script type="text/javascript" src="data/z/zDzis_Drozd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zDzis_Drozd](https://patronite.pl/zDzis_Drozd)
+# [zDziś](https://patronite.pl/zDzis_Drozd)
 
 ## Miesięczne wsparcie
 

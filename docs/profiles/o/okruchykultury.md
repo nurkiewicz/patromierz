@@ -1,5 +1,5 @@
 ---
-title: okruchykultury | Patromierz
+title: "okruchykultury | Patromierz"
 permalink: /okruchykultury
 ---
 
@@ -7,7 +7,7 @@ permalink: /okruchykultury
 <script type="text/javascript" src="data/o/okruchykultury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okruchykultury](https://patronite.pl/okruchykultury)
+# [Okruchy Kultury](https://patronite.pl/okruchykultury)
 
 ## Miesięczne wsparcie
 

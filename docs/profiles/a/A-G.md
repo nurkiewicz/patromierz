@@ -1,5 +1,5 @@
 ---
-title: A-G | Patromierz
+title: "A-G | Patromierz"
 permalink: /A-G
 ---
 
@@ -7,7 +7,7 @@ permalink: /A-G
 <script type="text/javascript" src="data/a/A-G.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [A-G](https://patronite.pl/A-G)
+# [Alina & Grzegorz "Moment" Płaczek](https://patronite.pl/A-G)
 
 ## Miesięczne wsparcie
 

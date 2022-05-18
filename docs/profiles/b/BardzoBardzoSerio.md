@@ -1,5 +1,5 @@
 ---
-title: BardzoBardzoSerio | Patromierz
+title: "BardzoBardzoSerio | Patromierz"
 permalink: /BardzoBardzoSerio
 ---
 
@@ -7,7 +7,7 @@ permalink: /BardzoBardzoSerio
 <script type="text/javascript" src="data/b/BardzoBardzoSerio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BardzoBardzoSerio](https://patronite.pl/BardzoBardzoSerio)
+# [Bardzo Bardzo Serio](https://patronite.pl/BardzoBardzoSerio)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: spodwody | Patromierz
+title: "spodwody | Patromierz"
 permalink: /spodwody
 ---
 
@@ -7,7 +7,7 @@ permalink: /spodwody
 <script type="text/javascript" src="data/s/spodwody.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spodwody](https://patronite.pl/spodwody)
+# [Spod Wody](https://patronite.pl/spodwody)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: panpjoter | Patromierz
+title: "panpjoter | Patromierz"
 permalink: /panpjoter
 ---
 
@@ -7,7 +7,7 @@ permalink: /panpjoter
 <script type="text/javascript" src="data/p/panpjoter.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panpjoter](https://patronite.pl/panpjoter)
+# [Pan Pjoter](https://patronite.pl/panpjoter)
 
 ## Miesięczne wsparcie
 

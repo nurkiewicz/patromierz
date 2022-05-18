@@ -1,5 +1,5 @@
 ---
-title: patrykpilarsky | Patromierz
+title: "patrykpilarsky | Patromierz"
 permalink: /patrykpilarsky
 ---
 
@@ -7,7 +7,7 @@ permalink: /patrykpilarsky
 <script type="text/javascript" src="data/p/patrykpilarsky.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patrykpilarsky](https://patronite.pl/patrykpilarsky)
+# [patryk_pilarsky](https://patronite.pl/patrykpilarsky)
 
 ## Miesięczne wsparcie
 

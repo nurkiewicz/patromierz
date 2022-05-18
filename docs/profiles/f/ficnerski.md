@@ -1,5 +1,5 @@
 ---
-title: ficnerski | Patromierz
+title: "ficnerski | Patromierz"
 permalink: /ficnerski
 ---
 
@@ -7,7 +7,7 @@ permalink: /ficnerski
 <script type="text/javascript" src="data/f/ficnerski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ficnerski](https://patronite.pl/ficnerski)
+# [Victor Ficnerski](https://patronite.pl/ficnerski)
 
 ## Miesięczne wsparcie
 

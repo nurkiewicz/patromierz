@@ -1,5 +1,5 @@
 ---
-title: Cotozasample | Patromierz
+title: "Cotozasample | Patromierz"
 permalink: /Cotozasample
 ---
 
@@ -7,7 +7,7 @@ permalink: /Cotozasample
 <script type="text/javascript" src="data/c/Cotozasample.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Cotozasample](https://patronite.pl/Cotozasample)
+# [Co to za sample?](https://patronite.pl/Cotozasample)
 
 ## Miesięczne wsparcie
 

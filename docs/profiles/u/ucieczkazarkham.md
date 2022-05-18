@@ -1,5 +1,5 @@
 ---
-title: ucieczkazarkham | Patromierz
+title: "ucieczkazarkham | Patromierz"
 permalink: /ucieczkazarkham
 ---
 
@@ -7,7 +7,7 @@ permalink: /ucieczkazarkham
 <script type="text/javascript" src="data/u/ucieczkazarkham.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ucieczkazarkham](https://patronite.pl/ucieczkazarkham)
+# [Ucieczka z Arkham](https://patronite.pl/ucieczkazarkham)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: motoryzacyjny | Patromierz
+title: "motoryzacyjny | Patromierz"
 permalink: /motoryzacyjny
 ---
 
@@ -7,7 +7,7 @@ permalink: /motoryzacyjny
 <script type="text/javascript" src="data/m/motoryzacyjny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [motoryzacyjny](https://patronite.pl/motoryzacyjny)
+# [Motoryzacyjny Skrót Tygodnia](https://patronite.pl/motoryzacyjny)
 
 ## Miesięczne wsparcie
 

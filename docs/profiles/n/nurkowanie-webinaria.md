@@ -1,5 +1,5 @@
 ---
-title: nurkowanie-webinaria | Patromierz
+title: "nurkowanie-webinaria | Patromierz"
 permalink: /nurkowanie-webinaria
 ---
 
@@ -7,7 +7,7 @@ permalink: /nurkowanie-webinaria
 <script type="text/javascript" src="data/n/nurkowanie-webinaria.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nurkowanie-webinaria](https://patronite.pl/nurkowanie-webinaria)
+# [Irena Kosowska](https://patronite.pl/nurkowanie-webinaria)
 
 ## Miesięczne wsparcie
 

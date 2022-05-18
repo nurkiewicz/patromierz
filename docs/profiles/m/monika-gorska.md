@@ -1,5 +1,5 @@
 ---
-title: monika-gorska | Patromierz
+title: "monika-gorska | Patromierz"
 permalink: /monika-gorska
 ---
 
@@ -7,7 +7,7 @@ permalink: /monika-gorska
 <script type="text/javascript" src="data/m/monika-gorska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [monika-gorska](https://patronite.pl/monika-gorska)
+# [Monika Górska](https://patronite.pl/monika-gorska)
 
 ## Miesięczne wsparcie
 

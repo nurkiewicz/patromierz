@@ -1,5 +1,5 @@
 ---
-title: kondzioplayer | Patromierz
+title: "kondzioplayer | Patromierz"
 permalink: /kondzioplayer
 ---
 
@@ -7,7 +7,7 @@ permalink: /kondzioplayer
 <script type="text/javascript" src="data/k/kondzioplayer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kondzioplayer](https://patronite.pl/kondzioplayer)
+# [Kondzio Player](https://patronite.pl/kondzioplayer)
 
 ## Miesięczne wsparcie
 

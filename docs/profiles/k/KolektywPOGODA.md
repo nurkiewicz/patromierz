@@ -1,5 +1,5 @@
 ---
-title: KolektywPOGODA | Patromierz
+title: "KolektywPOGODA | Patromierz"
 permalink: /KolektywPOGODA
 ---
 
@@ -7,7 +7,7 @@ permalink: /KolektywPOGODA
 <script type="text/javascript" src="data/k/KolektywPOGODA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KolektywPOGODA](https://patronite.pl/KolektywPOGODA)
+# [Kolektyw POGODA](https://patronite.pl/KolektywPOGODA)
 
 ## Miesięczne wsparcie
 

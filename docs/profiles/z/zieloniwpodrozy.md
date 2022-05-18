@@ -1,5 +1,5 @@
 ---
-title: zieloniwpodrozy | Patromierz
+title: "zieloniwpodrozy | Patromierz"
 permalink: /zieloniwpodrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /zieloniwpodrozy
 <script type="text/javascript" src="data/z/zieloniwpodrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zieloniwpodrozy](https://patronite.pl/zieloniwpodrozy)
+# [Zieloni w podróży](https://patronite.pl/zieloniwpodrozy)
 
 ## Miesięczne wsparcie
 

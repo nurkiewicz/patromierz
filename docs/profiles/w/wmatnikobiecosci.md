@@ -1,5 +1,5 @@
 ---
-title: wmatnikobiecosci | Patromierz
+title: "wmatnikobiecosci | Patromierz"
 permalink: /wmatnikobiecosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /wmatnikobiecosci
 <script type="text/javascript" src="data/w/wmatnikobiecosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wmatnikobiecosci](https://patronite.pl/wmatnikobiecosci)
+# [Małgorzata Szafrańska](https://patronite.pl/wmatnikobiecosci)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: POPcastBorowieckiej | Patromierz
+title: "POPcastBorowieckiej | Patromierz"
 permalink: /POPcastBorowieckiej
 ---
 
@@ -7,7 +7,7 @@ permalink: /POPcastBorowieckiej
 <script type="text/javascript" src="data/p/POPcastBorowieckiej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [POPcastBorowieckiej](https://patronite.pl/POPcastBorowieckiej)
+# [Katarzyna Borowiecka](https://patronite.pl/POPcastBorowieckiej)
 
 ## Miesięczne wsparcie
 

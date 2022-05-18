@@ -1,5 +1,5 @@
 ---
-title: japakoniu | Patromierz
+title: "japakoniu | Patromierz"
 permalink: /japakoniu
 ---
 
@@ -7,7 +7,7 @@ permalink: /japakoniu
 <script type="text/javascript" src="data/j/japakoniu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [japakoniu](https://patronite.pl/japakoniu)
+# [Japa Koniu](https://patronite.pl/japakoniu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: drkacperlukasiewicz | Patromierz
+title: "drkacperlukasiewicz | Patromierz"
 permalink: /drkacperlukasiewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /drkacperlukasiewicz
 <script type="text/javascript" src="data/d/drkacperlukasiewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drkacperlukasiewicz](https://patronite.pl/drkacperlukasiewicz)
+# [dr Kacper Łukasiewicz](https://patronite.pl/drkacperlukasiewicz)
 
 ## Miesięczne wsparcie
 

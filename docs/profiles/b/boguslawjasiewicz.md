@@ -1,5 +1,5 @@
 ---
-title: boguslawjasiewicz | Patromierz
+title: "boguslawjasiewicz | Patromierz"
 permalink: /boguslawjasiewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /boguslawjasiewicz
 <script type="text/javascript" src="data/b/boguslawjasiewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [boguslawjasiewicz](https://patronite.pl/boguslawjasiewicz)
+# [Bogusław Jasiewicz](https://patronite.pl/boguslawjasiewicz)
 
 ## Miesięczne wsparcie
 

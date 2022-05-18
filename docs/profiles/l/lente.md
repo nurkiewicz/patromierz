@@ -1,5 +1,5 @@
 ---
-title: lente | Patromierz
+title: "lente | Patromierz"
 permalink: /lente
 ---
 
@@ -7,7 +7,7 @@ permalink: /lente
 <script type="text/javascript" src="data/l/lente.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lente](https://patronite.pl/lente)
+# [Julia Wollner / "Lente"](https://patronite.pl/lente)
 
 ## Miesięczne wsparcie
 

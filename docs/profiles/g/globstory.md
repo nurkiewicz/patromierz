@@ -1,5 +1,5 @@
 ---
-title: globstory | Patromierz
+title: "globstory | Patromierz"
 permalink: /globstory
 ---
 
@@ -7,7 +7,7 @@ permalink: /globstory
 <script type="text/javascript" src="data/g/globstory.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [globstory](https://patronite.pl/globstory)
+# [Globstory ](https://patronite.pl/globstory)
 
 ## Miesięczne wsparcie
 

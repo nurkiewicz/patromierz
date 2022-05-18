@@ -1,5 +1,5 @@
 ---
-title: motownieznane | Patromierz
+title: "motownieznane | Patromierz"
 permalink: /motownieznane
 ---
 
@@ -7,7 +7,7 @@ permalink: /motownieznane
 <script type="text/javascript" src="data/m/motownieznane.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [motownieznane](https://patronite.pl/motownieznane)
+# [Motocyklem w Nieznane](https://patronite.pl/motownieznane)
 
 ## Miesięczne wsparcie
 

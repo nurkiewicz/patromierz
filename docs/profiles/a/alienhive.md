@@ -1,5 +1,5 @@
 ---
-title: alienhive | Patromierz
+title: "alienhive | Patromierz"
 permalink: /alienhive
 ---
 
@@ -7,7 +7,7 @@ permalink: /alienhive
 <script type="text/javascript" src="data/a/alienhive.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alienhive](https://patronite.pl/alienhive)
+# [AlienHive.pl](https://patronite.pl/alienhive)
 
 ## Miesięczne wsparcie
 

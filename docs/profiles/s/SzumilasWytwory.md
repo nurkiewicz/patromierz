@@ -1,5 +1,5 @@
 ---
-title: SzumilasWytwory | Patromierz
+title: "SzumilasWytwory | Patromierz"
 permalink: /SzumilasWytwory
 ---
 
@@ -7,7 +7,7 @@ permalink: /SzumilasWytwory
 <script type="text/javascript" src="data/s/SzumilasWytwory.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SzumilasWytwory](https://patronite.pl/SzumilasWytwory)
+# [Maria Szumilas](https://patronite.pl/SzumilasWytwory)
 
 ## Miesięczne wsparcie
 

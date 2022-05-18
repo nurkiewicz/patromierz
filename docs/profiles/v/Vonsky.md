@@ -1,5 +1,5 @@
 ---
-title: Vonsky | Patromierz
+title: "Vonsky | Patromierz"
 permalink: /Vonsky
 ---
 
@@ -7,7 +7,7 @@ permalink: /Vonsky
 <script type="text/javascript" src="data/v/Vonsky.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Vonsky](https://patronite.pl/Vonsky)
+# [Mikołaj Teperek - Niepoprawny Dyplomata](https://patronite.pl/Vonsky)
 
 ## Miesięczne wsparcie
 

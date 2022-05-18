@@ -1,5 +1,5 @@
 ---
-title: anata_no_nioi | Patromierz
+title: "anata_no_nioi | Patromierz"
 permalink: /anata_no_nioi
 ---
 
@@ -7,7 +7,7 @@ permalink: /anata_no_nioi
 <script type="text/javascript" src="data/a/anata_no_nioi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anata_no_nioi](https://patronite.pl/anata_no_nioi)
+# [Anata no nioi](https://patronite.pl/anata_no_nioi)
 
 ## Miesięczne wsparcie
 

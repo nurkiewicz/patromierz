@@ -1,5 +1,5 @@
 ---
-title: baskethills | Patromierz
+title: "baskethills | Patromierz"
 permalink: /baskethills
 ---
 
@@ -7,7 +7,7 @@ permalink: /baskethills
 <script type="text/javascript" src="data/b/baskethills.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [baskethills](https://patronite.pl/baskethills)
+# [Basket Hills Bielsko-Biała](https://patronite.pl/baskethills)
 
 ## Miesięczne wsparcie
 

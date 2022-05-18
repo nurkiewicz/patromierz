@@ -1,5 +1,5 @@
 ---
-title: dlarodziny | Patromierz
+title: "dlarodziny | Patromierz"
 permalink: /dlarodziny
 ---
 
@@ -7,7 +7,7 @@ permalink: /dlarodziny
 <script type="text/javascript" src="data/d/dlarodziny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dlarodziny](https://patronite.pl/dlarodziny)
+# [Fundacja dla Rodziny](https://patronite.pl/dlarodziny)
 
 ## Miesięczne wsparcie
 

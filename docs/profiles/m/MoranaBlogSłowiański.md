@@ -1,5 +1,5 @@
 ---
-title: MoranaBlogSłowiański | Patromierz
+title: "MoranaBlogSłowiański | Patromierz"
 permalink: /MoranaBlogSłowiański
 ---
 
@@ -7,7 +7,7 @@ permalink: /MoranaBlogSłowiański
 <script type="text/javascript" src="data/m/MoranaBlogSłowiański.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MoranaBlogSłowiański](https://patronite.pl/MoranaBlogSłowiański)
+# [Pijana Morana - słowiański blog historyczny](https://patronite.pl/MoranaBlogSłowiański)
 
 ## Miesięczne wsparcie
 

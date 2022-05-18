@@ -1,5 +1,5 @@
 ---
-title: niezlasztuka | Patromierz
+title: "niezlasztuka | Patromierz"
 permalink: /niezlasztuka
 ---
 
@@ -7,7 +7,7 @@ permalink: /niezlasztuka
 <script type="text/javascript" src="data/n/niezlasztuka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niezlasztuka](https://patronite.pl/niezlasztuka)
+# [Fundacja Niezła Sztuka](https://patronite.pl/niezlasztuka)
 
 ## Miesięczne wsparcie
 

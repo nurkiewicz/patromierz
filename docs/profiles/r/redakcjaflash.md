@@ -1,5 +1,5 @@
 ---
-title: redakcjaflash | Patromierz
+title: "redakcjaflash | Patromierz"
 permalink: /redakcjaflash
 ---
 
@@ -7,7 +7,7 @@ permalink: /redakcjaflash
 <script type="text/javascript" src="data/r/redakcjaflash.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [redakcjaflash](https://patronite.pl/redakcjaflash)
+# [FLASH - Redakcja Niepokorna](https://patronite.pl/redakcjaflash)
 
 ## Miesięczne wsparcie
 

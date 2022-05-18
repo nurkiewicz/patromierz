@@ -1,5 +1,5 @@
 ---
-title: MiszczGryRobakov | Patromierz
+title: "MiszczGryRobakov | Patromierz"
 permalink: /MiszczGryRobakov
 ---
 
@@ -7,7 +7,7 @@ permalink: /MiszczGryRobakov
 <script type="text/javascript" src="data/m/MiszczGryRobakov.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MiszczGryRobakov](https://patronite.pl/MiszczGryRobakov)
+# [Miszcz Gry Robakov](https://patronite.pl/MiszczGryRobakov)
 
 ## Miesięczne wsparcie
 

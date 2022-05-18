@@ -1,5 +1,5 @@
 ---
-title: chrzescijanskienauczania | Patromierz
+title: "chrzescijanskienauczania | Patromierz"
 permalink: /chrzescijanskienauczania
 ---
 
@@ -7,7 +7,7 @@ permalink: /chrzescijanskienauczania
 <script type="text/javascript" src="data/c/chrzescijanskienauczania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chrzescijanskienauczania](https://patronite.pl/chrzescijanskienauczania)
+# [Chrześcijańskie Nauczania](https://patronite.pl/chrzescijanskienauczania)
 
 ## Miesięczne wsparcie
 

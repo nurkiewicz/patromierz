@@ -1,5 +1,5 @@
 ---
-title: EwaStankiewicz | Patromierz
+title: "EwaStankiewicz | Patromierz"
 permalink: /EwaStankiewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /EwaStankiewicz
 <script type="text/javascript" src="data/e/EwaStankiewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EwaStankiewicz](https://patronite.pl/EwaStankiewicz)
+# [Ewa  Stankiewicz](https://patronite.pl/EwaStankiewicz)
 
 ## Miesięczne wsparcie
 

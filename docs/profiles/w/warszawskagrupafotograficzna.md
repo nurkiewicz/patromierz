@@ -1,5 +1,5 @@
 ---
-title: warszawskagrupafotograficzna | Patromierz
+title: "warszawskagrupafotograficzna | Patromierz"
 permalink: /warszawskagrupafotograficzna
 ---
 
@@ -7,7 +7,7 @@ permalink: /warszawskagrupafotograficzna
 <script type="text/javascript" src="data/w/warszawskagrupafotograficzna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warszawskagrupafotograficzna](https://patronite.pl/warszawskagrupafotograficzna)
+# [Warszawska Grupa Fotograficzna](https://patronite.pl/warszawskagrupafotograficzna)
 
 ## Miesięczne wsparcie
 

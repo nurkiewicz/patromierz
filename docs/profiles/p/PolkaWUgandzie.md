@@ -1,5 +1,5 @@
 ---
-title: PolkaWUgandzie | Patromierz
+title: "PolkaWUgandzie | Patromierz"
 permalink: /PolkaWUgandzie
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolkaWUgandzie
 <script type="text/javascript" src="data/p/PolkaWUgandzie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolkaWUgandzie](https://patronite.pl/PolkaWUgandzie)
+# [Polka w Ugandzie](https://patronite.pl/PolkaWUgandzie)
 
 ## Miesięczne wsparcie
 

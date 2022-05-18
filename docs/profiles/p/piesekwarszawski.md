@@ -1,5 +1,5 @@
 ---
-title: piesekwarszawski | Patromierz
+title: "piesekwarszawski | Patromierz"
 permalink: /piesekwarszawski
 ---
 
@@ -7,7 +7,7 @@ permalink: /piesekwarszawski
 <script type="text/javascript" src="data/p/piesekwarszawski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piesekwarszawski](https://patronite.pl/piesekwarszawski)
+# [PIESEK WARSZAWSKI](https://patronite.pl/piesekwarszawski)
 
 ## Miesięczne wsparcie
 

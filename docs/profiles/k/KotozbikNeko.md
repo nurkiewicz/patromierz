@@ -1,5 +1,5 @@
 ---
-title: KotozbikNeko | Patromierz
+title: "KotozbikNeko | Patromierz"
 permalink: /KotozbikNeko
 ---
 
@@ -7,7 +7,7 @@ permalink: /KotozbikNeko
 <script type="text/javascript" src="data/k/KotozbikNeko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KotozbikNeko](https://patronite.pl/KotozbikNeko)
+# [Kotożbik Neko](https://patronite.pl/KotozbikNeko)
 
 ## Miesięczne wsparcie
 

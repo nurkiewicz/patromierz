@@ -1,5 +1,5 @@
 ---
-title: oki | Patromierz
+title: "oki | Patromierz"
 permalink: /oki
 ---
 
@@ -7,7 +7,7 @@ permalink: /oki
 <script type="text/javascript" src="data/o/oki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oki](https://patronite.pl/oki)
+# [Olimpijskie Koło Informatyczne](https://patronite.pl/oki)
 
 ## Miesięczne wsparcie
 

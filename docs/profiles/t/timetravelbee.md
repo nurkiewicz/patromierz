@@ -1,5 +1,5 @@
 ---
-title: timetravelbee | Patromierz
+title: "timetravelbee | Patromierz"
 permalink: /timetravelbee
 ---
 
@@ -7,7 +7,7 @@ permalink: /timetravelbee
 <script type="text/javascript" src="data/t/timetravelbee.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [timetravelbee](https://patronite.pl/timetravelbee)
+# [Time Travel Bee](https://patronite.pl/timetravelbee)
 
 ## Miesięczne wsparcie
 

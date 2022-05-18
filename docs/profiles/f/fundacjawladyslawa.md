@@ -1,5 +1,5 @@
 ---
-title: fundacjawladyslawa | Patromierz
+title: "fundacjawladyslawa | Patromierz"
 permalink: /fundacjawladyslawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjawladyslawa
 <script type="text/javascript" src="data/f/fundacjawladyslawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjawladyslawa](https://patronite.pl/fundacjawladyslawa)
+# [Fundacja Błogosławionego Władysława z Gielniowa](https://patronite.pl/fundacjawladyslawa)
 
 ## Miesięczne wsparcie
 

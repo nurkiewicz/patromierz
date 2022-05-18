@@ -1,5 +1,5 @@
 ---
-title: nelugia | Patromierz
+title: "nelugia | Patromierz"
 permalink: /nelugia
 ---
 
@@ -7,7 +7,7 @@ permalink: /nelugia
 <script type="text/javascript" src="data/n/nelugia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nelugia](https://patronite.pl/nelugia)
+# [Nelugia](https://patronite.pl/nelugia)
 
 ## Miesięczne wsparcie
 

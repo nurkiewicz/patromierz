@@ -1,5 +1,5 @@
 ---
-title: klaudiaczabokiantoninabialek | Patromierz
+title: "klaudiaczabokiantoninabialek | Patromierz"
 permalink: /klaudiaczabokiantoninabialek
 ---
 
@@ -7,7 +7,7 @@ permalink: /klaudiaczabokiantoninabialek
 <script type="text/javascript" src="data/k/klaudiaczabokiantoninabialek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klaudiaczabokiantoninabialek](https://patronite.pl/klaudiaczabokiantoninabialek)
+# [Klaudia Czabok i Antonina Białek](https://patronite.pl/klaudiaczabokiantoninabialek)
 
 ## Miesięczne wsparcie
 

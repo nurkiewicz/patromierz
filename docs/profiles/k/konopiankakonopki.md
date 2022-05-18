@@ -1,5 +1,5 @@
 ---
-title: konopiankakonopki | Patromierz
+title: "konopiankakonopki | Patromierz"
 permalink: /konopiankakonopki
 ---
 
@@ -7,7 +7,7 @@ permalink: /konopiankakonopki
 <script type="text/javascript" src="data/k/konopiankakonopki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [konopiankakonopki](https://patronite.pl/konopiankakonopki)
+# [Konopianka Konopki](https://patronite.pl/konopiankakonopki)
 
 ## Miesięczne wsparcie
 

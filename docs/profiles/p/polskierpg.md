@@ -1,5 +1,5 @@
 ---
-title: polskierpg | Patromierz
+title: "polskierpg | Patromierz"
 permalink: /polskierpg
 ---
 
@@ -7,7 +7,7 @@ permalink: /polskierpg
 <script type="text/javascript" src="data/p/polskierpg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polskierpg](https://patronite.pl/polskierpg)
+# [Polskie Erpegowanie](https://patronite.pl/polskierpg)
 
 ## Miesięczne wsparcie
 

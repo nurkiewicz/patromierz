@@ -1,5 +1,5 @@
 ---
-title: chrzescijanin | Patromierz
+title: "chrzescijanin | Patromierz"
 permalink: /chrzescijanin
 ---
 
@@ -7,7 +7,7 @@ permalink: /chrzescijanin
 <script type="text/javascript" src="data/c/chrzescijanin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chrzescijanin](https://patronite.pl/chrzescijanin)
+# [Radio Chrześcijanin](https://patronite.pl/chrzescijanin)
 
 ## Miesięczne wsparcie
 

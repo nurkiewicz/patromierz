@@ -1,5 +1,5 @@
 ---
-title: PTPA | Patromierz
+title: "PTPA | Patromierz"
 permalink: /PTPA
 ---
 
@@ -7,7 +7,7 @@ permalink: /PTPA
 <script type="text/javascript" src="data/p/PTPA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PTPA](https://patronite.pl/PTPA)
+# [Polskie Towarzystwo Prawa Antydyskryminacyjnego](https://patronite.pl/PTPA)
 
 ## Miesięczne wsparcie
 

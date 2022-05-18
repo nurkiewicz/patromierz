@@ -1,5 +1,5 @@
 ---
-title: IAS | Patromierz
+title: "IAS | Patromierz"
 permalink: /IAS
 ---
 
@@ -7,7 +7,7 @@ permalink: /IAS
 <script type="text/javascript" src="data/i/IAS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IAS](https://patronite.pl/IAS)
+# [Fundacja Instytut Analiz Środowiskowych](https://patronite.pl/IAS)
 
 ## Miesięczne wsparcie
 

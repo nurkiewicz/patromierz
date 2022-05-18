@@ -1,5 +1,5 @@
 ---
-title: PiotrSobotaMojePolskieRadjo | Patromierz
+title: "PiotrSobotaMojePolskieRadjo | Patromierz"
 permalink: /PiotrSobotaMojePolskieRadjo
 ---
 
@@ -7,7 +7,7 @@ permalink: /PiotrSobotaMojePolskieRadjo
 <script type="text/javascript" src="data/p/PiotrSobotaMojePolskieRadjo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PiotrSobotaMojePolskieRadjo](https://patronite.pl/PiotrSobotaMojePolskieRadjo)
+# [Piotr Sobota](https://patronite.pl/PiotrSobotaMojePolskieRadjo)
 
 ## Miesięczne wsparcie
 

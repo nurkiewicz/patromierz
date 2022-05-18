@@ -1,5 +1,5 @@
 ---
-title: fundacjazlotowianka | Patromierz
+title: "fundacjazlotowianka | Patromierz"
 permalink: /fundacjazlotowianka
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjazlotowianka
 <script type="text/javascript" src="data/f/fundacjazlotowianka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjazlotowianka](https://patronite.pl/fundacjazlotowianka)
+# [Fundacja Złotowianka](https://patronite.pl/fundacjazlotowianka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wlaczoszczedzanie | Patromierz
+title: "wlaczoszczedzanie | Patromierz"
 permalink: /wlaczoszczedzanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wlaczoszczedzanie
 <script type="text/javascript" src="data/w/wlaczoszczedzanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wlaczoszczedzanie](https://patronite.pl/wlaczoszczedzanie)
+# [Włącz oszczędzanie na własną domową miarę!](https://patronite.pl/wlaczoszczedzanie)
 
 ## Miesięczne wsparcie
 

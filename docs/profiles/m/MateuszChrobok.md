@@ -1,5 +1,5 @@
 ---
-title: MateuszChrobok | Patromierz
+title: "MateuszChrobok | Patromierz"
 permalink: /MateuszChrobok
 ---
 
@@ -7,7 +7,7 @@ permalink: /MateuszChrobok
 <script type="text/javascript" src="data/m/MateuszChrobok.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MateuszChrobok](https://patronite.pl/MateuszChrobok)
+# [Mateusz Chrobok](https://patronite.pl/MateuszChrobok)
 
 ## Miesięczne wsparcie
 

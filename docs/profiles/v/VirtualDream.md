@@ -1,5 +1,5 @@
 ---
-title: VirtualDream | Patromierz
+title: "VirtualDream | Patromierz"
 permalink: /VirtualDream
 ---
 
@@ -7,7 +7,7 @@ permalink: /VirtualDream
 <script type="text/javascript" src="data/v/VirtualDream.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VirtualDream](https://patronite.pl/VirtualDream)
+# [Virtual Dream - Piotr Łój](https://patronite.pl/VirtualDream)
 
 ## Miesięczne wsparcie
 

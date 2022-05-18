@@ -1,5 +1,5 @@
 ---
-title: MonikaMatusik | Patromierz
+title: "MonikaMatusik | Patromierz"
 permalink: /MonikaMatusik
 ---
 
@@ -7,7 +7,7 @@ permalink: /MonikaMatusik
 <script type="text/javascript" src="data/m/MonikaMatusik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MonikaMatusik](https://patronite.pl/MonikaMatusik)
+# [Monika Matusik](https://patronite.pl/MonikaMatusik)
 
 ## Miesięczne wsparcie
 

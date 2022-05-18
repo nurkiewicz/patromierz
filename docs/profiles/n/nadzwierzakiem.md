@@ -1,5 +1,5 @@
 ---
-title: nadzwierzakiem | Patromierz
+title: "nadzwierzakiem | Patromierz"
 permalink: /nadzwierzakiem
 ---
 
@@ -7,7 +7,7 @@ permalink: /nadzwierzakiem
 <script type="text/javascript" src="data/n/nadzwierzakiem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nadzwierzakiem](https://patronite.pl/nadzwierzakiem)
+# [Nad Zwierzakiem](https://patronite.pl/nadzwierzakiem)
 
 ## Miesięczne wsparcie
 

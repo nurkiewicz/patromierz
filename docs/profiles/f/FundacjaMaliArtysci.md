@@ -1,5 +1,5 @@
 ---
-title: FundacjaMaliArtysci | Patromierz
+title: "FundacjaMaliArtysci | Patromierz"
 permalink: /FundacjaMaliArtysci
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaMaliArtysci
 <script type="text/javascript" src="data/f/FundacjaMaliArtysci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaMaliArtysci](https://patronite.pl/FundacjaMaliArtysci)
+# [Fundacja Mali Artyści](https://patronite.pl/FundacjaMaliArtysci)
 
 ## Miesięczne wsparcie
 

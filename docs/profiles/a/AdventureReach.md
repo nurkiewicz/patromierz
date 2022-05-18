@@ -1,5 +1,5 @@
 ---
-title: AdventureReach | Patromierz
+title: "AdventureReach | Patromierz"
 permalink: /AdventureReach
 ---
 
@@ -7,7 +7,7 @@ permalink: /AdventureReach
 <script type="text/javascript" src="data/a/AdventureReach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AdventureReach](https://patronite.pl/AdventureReach)
+# [Adventure Reach - Sala RPG](https://patronite.pl/AdventureReach)
 
 ## Miesięczne wsparcie
 

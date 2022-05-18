@@ -1,5 +1,5 @@
 ---
-title: tishblack | Patromierz
+title: "tishblack | Patromierz"
 permalink: /tishblack
 ---
 
@@ -7,7 +7,7 @@ permalink: /tishblack
 <script type="text/javascript" src="data/t/tishblack.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tishblack](https://patronite.pl/tishblack)
+# [TishBlack](https://patronite.pl/tishblack)
 
 ## Miesięczne wsparcie
 

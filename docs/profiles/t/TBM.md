@@ -1,5 +1,5 @@
 ---
-title: TBM | Patromierz
+title: "TBM | Patromierz"
 permalink: /TBM
 ---
 
@@ -7,7 +7,7 @@ permalink: /TBM
 <script type="text/javascript" src="data/t/TBM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TBM](https://patronite.pl/TBM)
+# [Tak Brzmi Miasto](https://patronite.pl/TBM)
 
 ## Miesięczne wsparcie
 

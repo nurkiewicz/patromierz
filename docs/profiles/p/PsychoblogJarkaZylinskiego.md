@@ -1,5 +1,5 @@
 ---
-title: PsychoblogJarkaZylinskiego | Patromierz
+title: "PsychoblogJarkaZylinskiego | Patromierz"
 permalink: /PsychoblogJarkaZylinskiego
 ---
 
@@ -7,7 +7,7 @@ permalink: /PsychoblogJarkaZylinskiego
 <script type="text/javascript" src="data/p/PsychoblogJarkaZylinskiego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PsychoblogJarkaZylinskiego](https://patronite.pl/PsychoblogJarkaZylinskiego)
+# [Psychoblog Jarka Żylińskiego](https://patronite.pl/PsychoblogJarkaZylinskiego)
 
 ## Miesięczne wsparcie
 

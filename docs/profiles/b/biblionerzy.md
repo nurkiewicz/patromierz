@@ -1,5 +1,5 @@
 ---
-title: biblionerzy | Patromierz
+title: "biblionerzy | Patromierz"
 permalink: /biblionerzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /biblionerzy
 <script type="text/javascript" src="data/b/biblionerzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [biblionerzy](https://patronite.pl/biblionerzy)
+# [Biblionerzy.pl - quiz biblijny](https://patronite.pl/biblionerzy)
 
 ## Miesięczne wsparcie
 

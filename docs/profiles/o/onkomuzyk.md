@@ -1,5 +1,5 @@
 ---
-title: onkomuzyk | Patromierz
+title: "onkomuzyk | Patromierz"
 permalink: /onkomuzyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /onkomuzyk
 <script type="text/javascript" src="data/o/onkomuzyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [onkomuzyk](https://patronite.pl/onkomuzyk)
+# [Onkomuzyk](https://patronite.pl/onkomuzyk)
 
 ## Miesięczne wsparcie
 

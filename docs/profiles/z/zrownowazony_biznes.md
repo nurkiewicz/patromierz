@@ -1,5 +1,5 @@
 ---
-title: zrownowazony_biznes | Patromierz
+title: "zrownowazony_biznes | Patromierz"
 permalink: /zrownowazony_biznes
 ---
 
@@ -7,7 +7,7 @@ permalink: /zrownowazony_biznes
 <script type="text/javascript" src="data/z/zrownowazony_biznes.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zrownowazony_biznes](https://patronite.pl/zrownowazony_biznes)
+# [Zrównoważony Biznes Podcast](https://patronite.pl/zrownowazony_biznes)
 
 ## Miesięczne wsparcie
 

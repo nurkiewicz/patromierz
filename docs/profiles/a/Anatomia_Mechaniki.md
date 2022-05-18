@@ -1,5 +1,5 @@
 ---
-title: Anatomia_Mechaniki | Patromierz
+title: "Anatomia_Mechaniki | Patromierz"
 permalink: /Anatomia_Mechaniki
 ---
 
@@ -7,7 +7,7 @@ permalink: /Anatomia_Mechaniki
 <script type="text/javascript" src="data/a/Anatomia_Mechaniki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Anatomia_Mechaniki](https://patronite.pl/Anatomia_Mechaniki)
+# [ANATOMIA MECHANIKI](https://patronite.pl/Anatomia_Mechaniki)
 
 ## Miesięczne wsparcie
 

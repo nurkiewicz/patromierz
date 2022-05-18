@@ -1,5 +1,5 @@
 ---
-title: dagmaraadamiak | Patromierz
+title: "dagmaraadamiak | Patromierz"
 permalink: /dagmaraadamiak
 ---
 
@@ -7,7 +7,7 @@ permalink: /dagmaraadamiak
 <script type="text/javascript" src="data/d/dagmaraadamiak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dagmaraadamiak](https://patronite.pl/dagmaraadamiak)
+# [Dagmara Adamiak](https://patronite.pl/dagmaraadamiak)
 
 ## Miesięczne wsparcie
 

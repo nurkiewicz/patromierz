@@ -1,5 +1,5 @@
 ---
-title: Mileobrazki | Patromierz
+title: "Mileobrazki | Patromierz"
 permalink: /Mileobrazki
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mileobrazki
 <script type="text/javascript" src="data/m/Mileobrazki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mileobrazki](https://patronite.pl/Mileobrazki)
+# [Miłe Obrazki - Maria Kaczorowska](https://patronite.pl/Mileobrazki)
 
 ## Miesięczne wsparcie
 

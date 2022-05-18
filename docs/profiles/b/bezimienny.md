@@ -1,5 +1,5 @@
 ---
-title: bezimienny | Patromierz
+title: "bezimienny | Patromierz"
 permalink: /bezimienny
 ---
 
@@ -7,7 +7,7 @@ permalink: /bezimienny
 <script type="text/javascript" src="data/b/bezimienny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bezimienny](https://patronite.pl/bezimienny)
+# [Bezimienny Podcast](https://patronite.pl/bezimienny)
 
 ## Miesięczne wsparcie
 

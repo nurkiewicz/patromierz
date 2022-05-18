@@ -1,5 +1,5 @@
 ---
-title: godfullness | Patromierz
+title: "godfullness | Patromierz"
 permalink: /godfullness
 ---
 
@@ -7,7 +7,7 @@ permalink: /godfullness
 <script type="text/javascript" src="data/g/godfullness.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [godfullness](https://patronite.pl/godfullness)
+# [Godfullness](https://patronite.pl/godfullness)
 
 ## Miesięczne wsparcie
 

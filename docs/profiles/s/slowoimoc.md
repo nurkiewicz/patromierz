@@ -1,5 +1,5 @@
 ---
-title: slowoimoc | Patromierz
+title: "slowoimoc | Patromierz"
 permalink: /slowoimoc
 ---
 
@@ -7,7 +7,7 @@ permalink: /slowoimoc
 <script type="text/javascript" src="data/s/slowoimoc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slowoimoc](https://patronite.pl/slowoimoc)
+# [Słowo i Moc](https://patronite.pl/slowoimoc)
 
 ## Miesięczne wsparcie
 

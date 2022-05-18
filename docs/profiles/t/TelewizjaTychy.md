@@ -1,5 +1,5 @@
 ---
-title: TelewizjaTychy | Patromierz
+title: "TelewizjaTychy | Patromierz"
 permalink: /TelewizjaTychy
 ---
 
@@ -7,7 +7,7 @@ permalink: /TelewizjaTychy
 <script type="text/javascript" src="data/t/TelewizjaTychy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TelewizjaTychy](https://patronite.pl/TelewizjaTychy)
+# [Telewizja Tychy](https://patronite.pl/TelewizjaTychy)
 
 ## Miesięczne wsparcie
 

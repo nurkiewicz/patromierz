@@ -1,5 +1,5 @@
 ---
-title: instytutdzd | Patromierz
+title: "instytutdzd | Patromierz"
 permalink: /instytutdzd
 ---
 
@@ -7,7 +7,7 @@ permalink: /instytutdzd
 <script type="text/javascript" src="data/i/instytutdzd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [instytutdzd](https://patronite.pl/instytutdzd)
+# [Instytut Danych z D... Polska](https://patronite.pl/instytutdzd)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: miastoodnowa | Patromierz
+title: "miastoodnowa | Patromierz"
 permalink: /miastoodnowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /miastoodnowa
 <script type="text/javascript" src="data/m/miastoodnowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [miastoodnowa](https://patronite.pl/miastoodnowa)
+# [Miasto Odnowa](https://patronite.pl/miastoodnowa)
 
 ## Miesięczne wsparcie
 

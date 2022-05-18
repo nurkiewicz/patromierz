@@ -1,5 +1,5 @@
 ---
-title: godmother | Patromierz
+title: "godmother | Patromierz"
 permalink: /godmother
 ---
 
@@ -7,7 +7,7 @@ permalink: /godmother
 <script type="text/javascript" src="data/g/godmother.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [godmother](https://patronite.pl/godmother)
+# [Angelika M. Talaga](https://patronite.pl/godmother)
 
 ## Miesięczne wsparcie
 

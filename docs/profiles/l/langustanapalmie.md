@@ -1,5 +1,5 @@
 ---
-title: langustanapalmie | Patromierz
+title: "langustanapalmie | Patromierz"
 permalink: /langustanapalmie
 ---
 
@@ -7,7 +7,7 @@ permalink: /langustanapalmie
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [langustanapalmie](https://patronite.pl/langustanapalmie)
+# [Langusta na palmie](https://patronite.pl/langustanapalmie)
 
 ## Miesięczne wsparcie
 

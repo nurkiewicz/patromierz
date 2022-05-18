@@ -1,5 +1,5 @@
 ---
-title: tatonet | Patromierz
+title: "tatonet | Patromierz"
 permalink: /tatonet
 ---
 
@@ -7,7 +7,7 @@ permalink: /tatonet
 <script type="text/javascript" src="data/t/tatonet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tatonet](https://patronite.pl/tatonet)
+# [Tato.Net](https://patronite.pl/tatonet)
 
 ## Miesięczne wsparcie
 

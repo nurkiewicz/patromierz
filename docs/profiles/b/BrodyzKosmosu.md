@@ -1,5 +1,5 @@
 ---
-title: BrodyzKosmosu | Patromierz
+title: "BrodyzKosmosu | Patromierz"
 permalink: /BrodyzKosmosu
 ---
 
@@ -7,7 +7,7 @@ permalink: /BrodyzKosmosu
 <script type="text/javascript" src="data/b/BrodyzKosmosu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BrodyzKosmosu](https://patronite.pl/BrodyzKosmosu)
+# [Brody z Kosmosu](https://patronite.pl/BrodyzKosmosu)
 
 ## Miesięczne wsparcie
 

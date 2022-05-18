@@ -1,5 +1,5 @@
 ---
-title: blaugranapl | Patromierz
+title: "blaugranapl | Patromierz"
 permalink: /blaugranapl
 ---
 
@@ -7,7 +7,7 @@ permalink: /blaugranapl
 <script type="text/javascript" src="data/b/blaugranapl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blaugranapl](https://patronite.pl/blaugranapl)
+# [Blaugrana.pl](https://patronite.pl/blaugranapl)
 
 ## Miesięczne wsparcie
 

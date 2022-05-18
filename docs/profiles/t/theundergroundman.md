@@ -1,5 +1,5 @@
 ---
-title: theundergroundman | Patromierz
+title: "theundergroundman | Patromierz"
 permalink: /theundergroundman
 ---
 
@@ -7,7 +7,7 @@ permalink: /theundergroundman
 <script type="text/javascript" src="data/t/theundergroundman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [theundergroundman](https://patronite.pl/theundergroundman)
+# [The Underground Man](https://patronite.pl/theundergroundman)
 
 ## Miesięczne wsparcie
 

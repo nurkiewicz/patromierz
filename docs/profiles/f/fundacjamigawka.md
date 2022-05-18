@@ -1,5 +1,5 @@
 ---
-title: fundacjamigawka | Patromierz
+title: "fundacjamigawka | Patromierz"
 permalink: /fundacjamigawka
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjamigawka
 <script type="text/javascript" src="data/f/fundacjamigawka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjamigawka](https://patronite.pl/fundacjamigawka)
+# [Fundacja Migawka](https://patronite.pl/fundacjamigawka)
 
 ## Miesięczne wsparcie
 

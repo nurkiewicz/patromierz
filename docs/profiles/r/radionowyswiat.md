@@ -1,5 +1,5 @@
 ---
-title: radionowyswiat | Patromierz
+title: "radionowyswiat | Patromierz"
 permalink: /radionowyswiat
 ---
 
@@ -7,7 +7,7 @@ permalink: /radionowyswiat
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radionowyswiat](https://patronite.pl/radionowyswiat)
+# [Radio Nowy Świat](https://patronite.pl/radionowyswiat)
 
 ## Miesięczne wsparcie
 

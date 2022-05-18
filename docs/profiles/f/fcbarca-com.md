@@ -1,5 +1,5 @@
 ---
-title: fcbarca-com | Patromierz
+title: "fcbarca-com | Patromierz"
 permalink: /fcbarca-com
 ---
 
@@ -7,7 +7,7 @@ permalink: /fcbarca-com
 <script type="text/javascript" src="data/f/fcbarca-com.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fcbarca-com](https://patronite.pl/fcbarca-com)
+# [FCBarca.com](https://patronite.pl/fcbarca-com)
 
 ## Miesięczne wsparcie
 

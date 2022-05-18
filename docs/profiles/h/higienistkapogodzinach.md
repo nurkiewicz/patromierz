@@ -1,5 +1,5 @@
 ---
-title: higienistkapogodzinach | Patromierz
+title: "higienistkapogodzinach | Patromierz"
 permalink: /higienistkapogodzinach
 ---
 
@@ -7,7 +7,7 @@ permalink: /higienistkapogodzinach
 <script type="text/javascript" src="data/h/higienistkapogodzinach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [higienistkapogodzinach](https://patronite.pl/higienistkapogodzinach)
+# [Higienistka po godzinach](https://patronite.pl/higienistkapogodzinach)
 
 ## Miesięczne wsparcie
 

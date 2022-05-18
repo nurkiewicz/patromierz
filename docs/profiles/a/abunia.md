@@ -1,5 +1,5 @@
 ---
-title: abunia | Patromierz
+title: "abunia | Patromierz"
 permalink: /abunia
 ---
 
@@ -7,7 +7,7 @@ permalink: /abunia
 <script type="text/javascript" src="data/a/abunia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [abunia](https://patronite.pl/abunia)
+# [Abo Kocia Morda](https://patronite.pl/abunia)
 
 ## Miesięczne wsparcie
 

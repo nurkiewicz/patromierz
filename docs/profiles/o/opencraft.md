@@ -1,5 +1,5 @@
 ---
-title: opencraft | Patromierz
+title: "opencraft | Patromierz"
 permalink: /opencraft
 ---
 
@@ -7,7 +7,7 @@ permalink: /opencraft
 <script type="text/javascript" src="data/o/opencraft.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [opencraft](https://patronite.pl/opencraft)
+# [openCraft.pl](https://patronite.pl/opencraft)
 
 ## Miesięczne wsparcie
 

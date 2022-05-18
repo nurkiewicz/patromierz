@@ -1,5 +1,5 @@
 ---
-title: TomaszKrajewski | Patromierz
+title: "TomaszKrajewski | Patromierz"
 permalink: /TomaszKrajewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszKrajewski
 <script type="text/javascript" src="data/t/TomaszKrajewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszKrajewski](https://patronite.pl/TomaszKrajewski)
+# [Gentelmen’s Jazz](https://patronite.pl/TomaszKrajewski)
 
 ## Miesięczne wsparcie
 

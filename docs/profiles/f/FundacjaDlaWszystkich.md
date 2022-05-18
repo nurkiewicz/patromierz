@@ -1,5 +1,5 @@
 ---
-title: FundacjaDlaWszystkich | Patromierz
+title: "FundacjaDlaWszystkich | Patromierz"
 permalink: /FundacjaDlaWszystkich
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaDlaWszystkich
 <script type="text/javascript" src="data/f/FundacjaDlaWszystkich.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaDlaWszystkich](https://patronite.pl/FundacjaDlaWszystkich)
+# [Fundacja Dla Wszystkich](https://patronite.pl/FundacjaDlaWszystkich)
 
 ## Miesięczne wsparcie
 

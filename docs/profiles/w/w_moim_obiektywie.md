@@ -1,5 +1,5 @@
 ---
-title: w_moim_obiektywie | Patromierz
+title: "w_moim_obiektywie | Patromierz"
 permalink: /w_moim_obiektywie
 ---
 
@@ -7,7 +7,7 @@ permalink: /w_moim_obiektywie
 <script type="text/javascript" src="data/w/w_moim_obiektywie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [w_moim_obiektywie](https://patronite.pl/w_moim_obiektywie)
+# [Jan Szurek](https://patronite.pl/w_moim_obiektywie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: tatti-nizovaya | Patromierz
+title: "tatti-nizovaya | Patromierz"
 permalink: /tatti-nizovaya
 ---
 
@@ -7,7 +7,7 @@ permalink: /tatti-nizovaya
 <script type="text/javascript" src="data/t/tatti-nizovaya.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tatti-nizovaya](https://patronite.pl/tatti-nizovaya)
+# [Tatti Nizovaya](https://patronite.pl/tatti-nizovaya)
 
 ## Miesięczne wsparcie
 

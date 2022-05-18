@@ -1,5 +1,5 @@
 ---
-title: pionier01 | Patromierz
+title: "pionier01 | Patromierz"
 permalink: /pionier01
 ---
 
@@ -7,7 +7,7 @@ permalink: /pionier01
 <script type="text/javascript" src="data/p/pionier01.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pionier01](https://patronite.pl/pionier01)
+# [Piotr Nienartowicz](https://patronite.pl/pionier01)
 
 ## Miesięczne wsparcie
 

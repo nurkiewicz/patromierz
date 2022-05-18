@@ -1,5 +1,5 @@
 ---
-title: historiapodostrymkatem | Patromierz
+title: "historiapodostrymkatem | Patromierz"
 permalink: /historiapodostrymkatem
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiapodostrymkatem
 <script type="text/javascript" src="data/h/historiapodostrymkatem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiapodostrymkatem](https://patronite.pl/historiapodostrymkatem)
+# [Historia pod ostrym kątem](https://patronite.pl/historiapodostrymkatem)
 
 ## Miesięczne wsparcie
 

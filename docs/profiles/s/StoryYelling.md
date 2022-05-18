@@ -1,5 +1,5 @@
 ---
-title: StoryYelling | Patromierz
+title: "StoryYelling | Patromierz"
 permalink: /StoryYelling
 ---
 
@@ -7,7 +7,7 @@ permalink: /StoryYelling
 <script type="text/javascript" src="data/s/StoryYelling.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StoryYelling](https://patronite.pl/StoryYelling)
+# [Maciej Głowacki](https://patronite.pl/StoryYelling)
 
 ## Miesięczne wsparcie
 

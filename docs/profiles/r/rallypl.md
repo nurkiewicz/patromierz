@@ -1,5 +1,5 @@
 ---
-title: rallypl | Patromierz
+title: "rallypl | Patromierz"
 permalink: /rallypl
 ---
 
@@ -7,7 +7,7 @@ permalink: /rallypl
 <script type="text/javascript" src="data/r/rallypl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rallypl](https://patronite.pl/rallypl)
+# [rallypl.com](https://patronite.pl/rallypl)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: WelesStudio | Patromierz
+title: "WelesStudio | Patromierz"
 permalink: /WelesStudio
 ---
 
@@ -7,7 +7,7 @@ permalink: /WelesStudio
 <script type="text/javascript" src="data/w/WelesStudio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WelesStudio](https://patronite.pl/WelesStudio)
+# [Weles Studio](https://patronite.pl/WelesStudio)
 
 ## Miesięczne wsparcie
 

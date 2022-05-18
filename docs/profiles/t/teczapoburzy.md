@@ -1,5 +1,5 @@
 ---
-title: teczapoburzy | Patromierz
+title: "teczapoburzy | Patromierz"
 permalink: /teczapoburzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /teczapoburzy
 <script type="text/javascript" src="data/t/teczapoburzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teczapoburzy](https://patronite.pl/teczapoburzy)
+# [Tęcza Po Burzy](https://patronite.pl/teczapoburzy)
 
 ## Miesięczne wsparcie
 

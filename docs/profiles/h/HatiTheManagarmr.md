@@ -1,5 +1,5 @@
 ---
-title: HatiTheManagarmr | Patromierz
+title: "HatiTheManagarmr | Patromierz"
 permalink: /HatiTheManagarmr
 ---
 
@@ -7,7 +7,7 @@ permalink: /HatiTheManagarmr
 <script type="text/javascript" src="data/h/HatiTheManagarmr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HatiTheManagarmr](https://patronite.pl/HatiTheManagarmr)
+# [Wojciech Kasprzak](https://patronite.pl/HatiTheManagarmr)
 
 ## Miesięczne wsparcie
 

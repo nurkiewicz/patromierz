@@ -1,5 +1,5 @@
 ---
-title: isq | Patromierz
+title: "isq | Patromierz"
 permalink: /isq
 ---
 
@@ -7,7 +7,7 @@ permalink: /isq
 <script type="text/javascript" src="data/i/isq.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [isq](https://patronite.pl/isq)
+# [Internet Speedway Quiz](https://patronite.pl/isq)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TomaszDerach | Patromierz
+title: "TomaszDerach | Patromierz"
 permalink: /TomaszDerach
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomaszDerach
 <script type="text/javascript" src="data/t/TomaszDerach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomaszDerach](https://patronite.pl/TomaszDerach)
+# [Tomasz Derach](https://patronite.pl/TomaszDerach)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: goroholiczka | Patromierz
+title: "goroholiczka | Patromierz"
 permalink: /goroholiczka
 ---
 
@@ -7,7 +7,7 @@ permalink: /goroholiczka
 <script type="text/javascript" src="data/g/goroholiczka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [goroholiczka](https://patronite.pl/goroholiczka)
+# [Góroholiczka](https://patronite.pl/goroholiczka)
 
 ## Miesięczne wsparcie
 

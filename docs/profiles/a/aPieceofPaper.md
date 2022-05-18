@@ -1,5 +1,5 @@
 ---
-title: aPieceofPaper | Patromierz
+title: "aPieceofPaper | Patromierz"
 permalink: /aPieceofPaper
 ---
 
@@ -7,7 +7,7 @@ permalink: /aPieceofPaper
 <script type="text/javascript" src="data/a/aPieceofPaper.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aPieceofPaper](https://patronite.pl/aPieceofPaper)
+# [a Piece of Paper](https://patronite.pl/aPieceofPaper)
 
 ## Miesięczne wsparcie
 

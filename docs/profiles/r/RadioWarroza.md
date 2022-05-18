@@ -1,5 +1,5 @@
 ---
-title: RadioWarroza | Patromierz
+title: "RadioWarroza | Patromierz"
 permalink: /RadioWarroza
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadioWarroza
 <script type="text/javascript" src="data/r/RadioWarroza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadioWarroza](https://patronite.pl/RadioWarroza)
+# [Radio Warroza](https://patronite.pl/RadioWarroza)
 
 ## Miesięczne wsparcie
 

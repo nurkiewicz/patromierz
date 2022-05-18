@@ -1,5 +1,5 @@
 ---
-title: nomada | Patromierz
+title: "nomada | Patromierz"
 permalink: /nomada
 ---
 
@@ -7,7 +7,7 @@ permalink: /nomada
 <script type="text/javascript" src="data/n/nomada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nomada](https://patronite.pl/nomada)
+# [Stowarzyszenie NOMADA](https://patronite.pl/nomada)
 
 ## Miesięczne wsparcie
 

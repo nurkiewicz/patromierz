@@ -1,5 +1,5 @@
 ---
-title: mowrzepczyno | Patromierz
+title: "mowrzepczyno | Patromierz"
 permalink: /mowrzepczyno
 ---
 
@@ -7,7 +7,7 @@ permalink: /mowrzepczyno
 <script type="text/javascript" src="data/m/mowrzepczyno.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mowrzepczyno](https://patronite.pl/mowrzepczyno)
+# [Młodzieżowy Ośrodek Wychowawczy w Rzepczynie](https://patronite.pl/mowrzepczyno)
 
 ## Miesięczne wsparcie
 

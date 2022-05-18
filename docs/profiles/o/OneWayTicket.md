@@ -1,5 +1,5 @@
 ---
-title: OneWayTicket | Patromierz
+title: "OneWayTicket | Patromierz"
 permalink: /OneWayTicket
 ---
 
@@ -7,7 +7,7 @@ permalink: /OneWayTicket
 <script type="text/javascript" src="data/o/OneWayTicket.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OneWayTicket](https://patronite.pl/OneWayTicket)
+# [One Way Ticket](https://patronite.pl/OneWayTicket)
 
 ## Miesięczne wsparcie
 

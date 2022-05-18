@@ -1,5 +1,5 @@
 ---
-title: milozwierz | Patromierz
+title: "milozwierz | Patromierz"
 permalink: /milozwierz
 ---
 
@@ -7,7 +7,7 @@ permalink: /milozwierz
 <script type="text/javascript" src="data/m/milozwierz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [milozwierz](https://patronite.pl/milozwierz)
+# [Miłozwierz](https://patronite.pl/milozwierz)
 
 ## Miesięczne wsparcie
 

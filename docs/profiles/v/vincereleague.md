@@ -1,5 +1,5 @@
 ---
-title: vincereleague | Patromierz
+title: "vincereleague | Patromierz"
 permalink: /vincereleague
 ---
 
@@ -7,7 +7,7 @@ permalink: /vincereleague
 <script type="text/javascript" src="data/v/vincereleague.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vincereleague](https://patronite.pl/vincereleague)
+# [Vincere League](https://patronite.pl/vincereleague)
 
 ## Miesięczne wsparcie
 

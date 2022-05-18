@@ -1,5 +1,5 @@
 ---
-title: surindustrialle | Patromierz
+title: "surindustrialle | Patromierz"
 permalink: /surindustrialle
 ---
 
@@ -7,7 +7,7 @@ permalink: /surindustrialle
 <script type="text/javascript" src="data/s/surindustrialle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [surindustrialle](https://patronite.pl/surindustrialle)
+# [Surindustrialle](https://patronite.pl/surindustrialle)
 
 ## Miesięczne wsparcie
 

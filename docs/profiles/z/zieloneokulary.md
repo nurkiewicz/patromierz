@@ -1,5 +1,5 @@
 ---
-title: zieloneokulary | Patromierz
+title: "zieloneokulary | Patromierz"
 permalink: /zieloneokulary
 ---
 
@@ -7,7 +7,7 @@ permalink: /zieloneokulary
 <script type="text/javascript" src="data/z/zieloneokulary.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zieloneokulary](https://patronite.pl/zieloneokulary)
+# [Zielone Okulary](https://patronite.pl/zieloneokulary)
 
 ## Miesięczne wsparcie
 

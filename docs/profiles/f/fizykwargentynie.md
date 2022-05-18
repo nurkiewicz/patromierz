@@ -1,5 +1,5 @@
 ---
-title: fizykwargentynie | Patromierz
+title: "fizykwargentynie | Patromierz"
 permalink: /fizykwargentynie
 ---
 
@@ -7,7 +7,7 @@ permalink: /fizykwargentynie
 <script type="text/javascript" src="data/f/fizykwargentynie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fizykwargentynie](https://patronite.pl/fizykwargentynie)
+# [Wojciech Ganczarek (dawniej: Fizyk w Argentynie)](https://patronite.pl/fizykwargentynie)
 
 ## Miesięczne wsparcie
 

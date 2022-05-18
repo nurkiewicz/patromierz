@@ -1,5 +1,5 @@
 ---
-title: zyciepw | Patromierz
+title: "zyciepw | Patromierz"
 permalink: /zyciepw
 ---
 
@@ -7,7 +7,7 @@ permalink: /zyciepw
 <script type="text/javascript" src="data/z/zyciepw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zyciepw](https://patronite.pl/zyciepw)
+# [Życie Powiatu na Mazowszu](https://patronite.pl/zyciepw)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: rafalhetman | Patromierz
+title: "rafalhetman | Patromierz"
 permalink: /rafalhetman
 ---
 
@@ -7,7 +7,7 @@ permalink: /rafalhetman
 <script type="text/javascript" src="data/r/rafalhetman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rafalhetman](https://patronite.pl/rafalhetman)
+# [Rafał Hetman o książkach](https://patronite.pl/rafalhetman)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: otwieramy-przestrzeń | Patromierz
+title: "otwieramy-przestrzeń | Patromierz"
 permalink: /otwieramy-przestrzeń
 ---
 
@@ -7,7 +7,7 @@ permalink: /otwieramy-przestrzeń
 <script type="text/javascript" src="data/o/otwieramy-przestrzeń.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otwieramy-przestrzeń](https://patronite.pl/otwieramy-przestrzeń)
+# [Otwieramy Przestrzeń Stajnia Truskawka](https://patronite.pl/otwieramy-przestrzeń)
 
 ## Miesięczne wsparcie
 

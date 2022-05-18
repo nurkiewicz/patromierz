@@ -1,5 +1,5 @@
 ---
-title: tuu | Patromierz
+title: "tuu | Patromierz"
 permalink: /tuu
 ---
 
@@ -7,7 +7,7 @@ permalink: /tuu
 <script type="text/javascript" src="data/t/tuu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tuu](https://patronite.pl/tuu)
+# [Fundacja TUU](https://patronite.pl/tuu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ThePresja | Patromierz
+title: "ThePresja | Patromierz"
 permalink: /ThePresja
 ---
 
@@ -7,7 +7,7 @@ permalink: /ThePresja
 <script type="text/javascript" src="data/t/ThePresja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ThePresja](https://patronite.pl/ThePresja)
+# [Projekt The Presja](https://patronite.pl/ThePresja)
 
 ## Miesięczne wsparcie
 

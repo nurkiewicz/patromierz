@@ -1,5 +1,5 @@
 ---
-title: pchamdoprzodu | Patromierz
+title: "pchamdoprzodu | Patromierz"
 permalink: /pchamdoprzodu
 ---
 
@@ -7,7 +7,7 @@ permalink: /pchamdoprzodu
 <script type="text/javascript" src="data/p/pchamdoprzodu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pchamdoprzodu](https://patronite.pl/pchamdoprzodu)
+# [Pcham Do Przodu](https://patronite.pl/pchamdoprzodu)
 
 ## Miesięczne wsparcie
 

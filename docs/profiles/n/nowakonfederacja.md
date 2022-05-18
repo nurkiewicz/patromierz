@@ -1,5 +1,5 @@
 ---
-title: nowakonfederacja | Patromierz
+title: "nowakonfederacja | Patromierz"
 permalink: /nowakonfederacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /nowakonfederacja
 <script type="text/javascript" src="data/n/nowakonfederacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nowakonfederacja](https://patronite.pl/nowakonfederacja)
+# [Nowa Konfederacja](https://patronite.pl/nowakonfederacja)
 
 ## Miesięczne wsparcie
 

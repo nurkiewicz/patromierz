@@ -1,5 +1,5 @@
 ---
-title: crushontrash | Patromierz
+title: "crushontrash | Patromierz"
 permalink: /crushontrash
 ---
 
@@ -7,7 +7,7 @@ permalink: /crushontrash
 <script type="text/javascript" src="data/c/crushontrash.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [crushontrash](https://patronite.pl/crushontrash)
+# [Crush On Trash](https://patronite.pl/crushontrash)
 
 ## Miesięczne wsparcie
 

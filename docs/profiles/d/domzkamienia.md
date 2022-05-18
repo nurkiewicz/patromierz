@@ -1,5 +1,5 @@
 ---
-title: domzkamienia | Patromierz
+title: "domzkamienia | Patromierz"
 permalink: /domzkamienia
 ---
 
@@ -7,7 +7,7 @@ permalink: /domzkamienia
 <script type="text/javascript" src="data/d/domzkamienia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domzkamienia](https://patronite.pl/domzkamienia)
+# [Kasia N.](https://patronite.pl/domzkamienia)
 
 ## Miesięczne wsparcie
 

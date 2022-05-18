@@ -1,5 +1,5 @@
 ---
-title: MHKI | Patromierz
+title: "MHKI | Patromierz"
 permalink: /MHKI
 ---
 
@@ -7,7 +7,7 @@ permalink: /MHKI
 <script type="text/javascript" src="data/m/MHKI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MHKI](https://patronite.pl/MHKI)
+# [Muzeum Historii Komputerów i Informatyki](https://patronite.pl/MHKI)
 
 ## Miesięczne wsparcie
 

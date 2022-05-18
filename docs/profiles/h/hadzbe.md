@@ -1,5 +1,5 @@
 ---
-title: hadzbe | Patromierz
+title: "hadzbe | Patromierz"
 permalink: /hadzbe
 ---
 
@@ -7,7 +7,7 @@ permalink: /hadzbe
 <script type="text/javascript" src="data/h/hadzbe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hadzbe](https://patronite.pl/hadzbe)
+# [Hadzbe](https://patronite.pl/hadzbe)
 
 ## Miesięczne wsparcie
 

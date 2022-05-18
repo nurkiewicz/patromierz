@@ -1,5 +1,5 @@
 ---
-title: agatastrzyzewska | Patromierz
+title: "agatastrzyzewska | Patromierz"
 permalink: /agatastrzyzewska
 ---
 
@@ -7,7 +7,7 @@ permalink: /agatastrzyzewska
 <script type="text/javascript" src="data/a/agatastrzyzewska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agatastrzyzewska](https://patronite.pl/agatastrzyzewska)
+# [Agata Strzyżewska](https://patronite.pl/agatastrzyzewska)
 
 ## Miesięczne wsparcie
 

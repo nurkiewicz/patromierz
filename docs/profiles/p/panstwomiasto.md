@@ -1,5 +1,5 @@
 ---
-title: panstwomiasto | Patromierz
+title: "panstwomiasto | Patromierz"
 permalink: /panstwomiasto
 ---
 
@@ -7,7 +7,7 @@ permalink: /panstwomiasto
 <script type="text/javascript" src="data/p/panstwomiasto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panstwomiasto](https://patronite.pl/panstwomiasto)
+# [Państwomiasto](https://patronite.pl/panstwomiasto)
 
 ## Miesięczne wsparcie
 

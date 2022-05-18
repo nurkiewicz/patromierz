@@ -1,5 +1,5 @@
 ---
-title: Rebeliant | Patromierz
+title: "Rebeliant | Patromierz"
 permalink: /Rebeliant
 ---
 
@@ -7,7 +7,7 @@ permalink: /Rebeliant
 <script type="text/javascript" src="data/r/Rebeliant.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Rebeliant](https://patronite.pl/Rebeliant)
+# [Rebeliant Admin MDR](https://patronite.pl/Rebeliant)
 
 ## Miesięczne wsparcie
 

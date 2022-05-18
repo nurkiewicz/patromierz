@@ -1,5 +1,5 @@
 ---
-title: halber | Patromierz
+title: "halber | Patromierz"
 permalink: /halber
 ---
 
@@ -7,7 +7,7 @@ permalink: /halber
 <script type="text/javascript" src="data/h/halber.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [halber](https://patronite.pl/halber)
+# [Malgorzata Halber](https://patronite.pl/halber)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Wobliczuzmian | Patromierz
+title: "Wobliczuzmian | Patromierz"
 permalink: /Wobliczuzmian
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wobliczuzmian
 <script type="text/javascript" src="data/w/Wobliczuzmian.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wobliczuzmian](https://patronite.pl/Wobliczuzmian)
+# [Dominik Czernik](https://patronite.pl/Wobliczuzmian)
 
 ## Miesięczne wsparcie
 

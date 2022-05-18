@@ -1,5 +1,5 @@
 ---
-title: chiny24 | Patromierz
+title: "chiny24 | Patromierz"
 permalink: /chiny24
 ---
 
@@ -7,7 +7,7 @@ permalink: /chiny24
 <script type="text/javascript" src="data/c/chiny24.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chiny24](https://patronite.pl/chiny24)
+# [chiny24.com](https://patronite.pl/chiny24)
 
 ## Miesięczne wsparcie
 

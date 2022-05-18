@@ -1,5 +1,5 @@
 ---
-title: jaktodaleko | Patromierz
+title: "jaktodaleko | Patromierz"
 permalink: /jaktodaleko
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaktodaleko
 <script type="text/javascript" src="data/j/jaktodaleko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaktodaleko](https://patronite.pl/jaktodaleko)
+# [Jak To daleko](https://patronite.pl/jaktodaleko)
 
 ## Miesięczne wsparcie
 

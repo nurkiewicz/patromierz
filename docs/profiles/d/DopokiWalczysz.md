@@ -1,5 +1,5 @@
 ---
-title: DopokiWalczysz | Patromierz
+title: "DopokiWalczysz | Patromierz"
 permalink: /DopokiWalczysz
 ---
 
@@ -7,7 +7,7 @@ permalink: /DopokiWalczysz
 <script type="text/javascript" src="data/d/DopokiWalczysz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DopokiWalczysz](https://patronite.pl/DopokiWalczysz)
+# [Dopóki Walczysz & Kazania...](https://patronite.pl/DopokiWalczysz)
 
 ## Miesięczne wsparcie
 

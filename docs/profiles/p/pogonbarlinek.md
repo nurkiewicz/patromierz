@@ -1,5 +1,5 @@
 ---
-title: pogonbarlinek | Patromierz
+title: "pogonbarlinek | Patromierz"
 permalink: /pogonbarlinek
 ---
 
@@ -7,7 +7,7 @@ permalink: /pogonbarlinek
 <script type="text/javascript" src="data/p/pogonbarlinek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pogonbarlinek](https://patronite.pl/pogonbarlinek)
+# [Pogoń Barlinek](https://patronite.pl/pogonbarlinek)
 
 ## Miesięczne wsparcie
 

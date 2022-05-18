@@ -1,5 +1,5 @@
 ---
-title: grupawydawniczafantazmaty | Patromierz
+title: "grupawydawniczafantazmaty | Patromierz"
 permalink: /grupawydawniczafantazmaty
 ---
 
@@ -7,7 +7,7 @@ permalink: /grupawydawniczafantazmaty
 <script type="text/javascript" src="data/g/grupawydawniczafantazmaty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grupawydawniczafantazmaty](https://patronite.pl/grupawydawniczafantazmaty)
+# [Fantazmaty](https://patronite.pl/grupawydawniczafantazmaty)
 
 ## Miesięczne wsparcie
 

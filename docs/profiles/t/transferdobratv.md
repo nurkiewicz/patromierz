@@ -1,5 +1,5 @@
 ---
-title: transferdobratv | Patromierz
+title: "transferdobratv | Patromierz"
 permalink: /transferdobratv
 ---
 
@@ -7,7 +7,7 @@ permalink: /transferdobratv
 <script type="text/javascript" src="data/t/transferdobratv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [transferdobratv](https://patronite.pl/transferdobratv)
+# [Transfer Dobra TV - Wojtek Juszkiewicz](https://patronite.pl/transferdobratv)
 
 ## Miesięczne wsparcie
 

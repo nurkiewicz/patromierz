@@ -1,5 +1,5 @@
 ---
-title: AnnaHamela | Patromierz
+title: "AnnaHamela | Patromierz"
 permalink: /AnnaHamela
 ---
 
@@ -7,7 +7,7 @@ permalink: /AnnaHamela
 <script type="text/javascript" src="data/a/AnnaHamela.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AnnaHamela](https://patronite.pl/AnnaHamela)
+# [Anna Hamela](https://patronite.pl/AnnaHamela)
 
 ## Miesięczne wsparcie
 

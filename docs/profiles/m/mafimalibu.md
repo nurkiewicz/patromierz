@@ -1,5 +1,5 @@
 ---
-title: mafimalibu | Patromierz
+title: "mafimalibu | Patromierz"
 permalink: /mafimalibu
 ---
 
@@ -7,7 +7,7 @@ permalink: /mafimalibu
 <script type="text/javascript" src="data/m/mafimalibu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mafimalibu](https://patronite.pl/mafimalibu)
+# [Mafi Malibu](https://patronite.pl/mafimalibu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: JedenzWielu | Patromierz
+title: "JedenzWielu | Patromierz"
 permalink: /JedenzWielu
 ---
 
@@ -7,7 +7,7 @@ permalink: /JedenzWielu
 <script type="text/javascript" src="data/j/JedenzWielu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JedenzWielu](https://patronite.pl/JedenzWielu)
+# [Jeden z Wielu](https://patronite.pl/JedenzWielu)
 
 ## Miesięczne wsparcie
 

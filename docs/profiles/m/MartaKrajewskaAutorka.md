@@ -1,5 +1,5 @@
 ---
-title: MartaKrajewskaAutorka | Patromierz
+title: "MartaKrajewskaAutorka | Patromierz"
 permalink: /MartaKrajewskaAutorka
 ---
 
@@ -7,7 +7,7 @@ permalink: /MartaKrajewskaAutorka
 <script type="text/javascript" src="data/m/MartaKrajewskaAutorka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MartaKrajewskaAutorka](https://patronite.pl/MartaKrajewskaAutorka)
+# [Marta Krajewska - autorka](https://patronite.pl/MartaKrajewskaAutorka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Mazby | Patromierz
+title: "Mazby | Patromierz"
 permalink: /Mazby
 ---
 

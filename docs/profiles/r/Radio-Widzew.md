@@ -1,5 +1,5 @@
 ---
-title: Radio-Widzew | Patromierz
+title: "Radio-Widzew | Patromierz"
 permalink: /Radio-Widzew
 ---
 
@@ -7,7 +7,7 @@ permalink: /Radio-Widzew
 <script type="text/javascript" src="data/r/Radio-Widzew.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Radio-Widzew](https://patronite.pl/Radio-Widzew)
+# [RadioWidzew.pl](https://patronite.pl/Radio-Widzew)
 
 ## Miesięczne wsparcie
 

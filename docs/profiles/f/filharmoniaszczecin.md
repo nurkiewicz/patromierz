@@ -1,5 +1,5 @@
 ---
-title: filharmoniaszczecin | Patromierz
+title: "filharmoniaszczecin | Patromierz"
 permalink: /filharmoniaszczecin
 ---
 
@@ -7,7 +7,7 @@ permalink: /filharmoniaszczecin
 <script type="text/javascript" src="data/f/filharmoniaszczecin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filharmoniaszczecin](https://patronite.pl/filharmoniaszczecin)
+# [Filharmonia im. Mieczysława Karłowicza w Szczecinie](https://patronite.pl/filharmoniaszczecin)
 
 ## Miesięczne wsparcie
 

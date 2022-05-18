@@ -1,5 +1,5 @@
 ---
-title: ltonz | Patromierz
+title: "ltonz | Patromierz"
 permalink: /ltonz
 ---
 
@@ -7,7 +7,7 @@ permalink: /ltonz
 <script type="text/javascript" src="data/l/ltonz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ltonz](https://patronite.pl/ltonz)
+# [Łódzkie Towarzystwo Opieki nad Zwierzętami](https://patronite.pl/ltonz)
 
 ## Miesięczne wsparcie
 

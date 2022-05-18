@@ -1,5 +1,5 @@
 ---
-title: PiEduPl | Patromierz
+title: "PiEduPl | Patromierz"
 permalink: /PiEduPl
 ---
 

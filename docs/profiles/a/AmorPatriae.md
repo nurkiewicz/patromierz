@@ -1,5 +1,5 @@
 ---
-title: AmorPatriae | Patromierz
+title: "AmorPatriae | Patromierz"
 permalink: /AmorPatriae
 ---
 
@@ -7,7 +7,7 @@ permalink: /AmorPatriae
 <script type="text/javascript" src="data/a/AmorPatriae.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AmorPatriae](https://patronite.pl/AmorPatriae)
+# [Arkadiusz Olszewski](https://patronite.pl/AmorPatriae)
 
 ## Miesięczne wsparcie
 

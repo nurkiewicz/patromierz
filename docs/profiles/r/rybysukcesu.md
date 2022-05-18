@@ -1,5 +1,5 @@
 ---
-title: rybysukcesu | Patromierz
+title: "rybysukcesu | Patromierz"
 permalink: /rybysukcesu
 ---
 
@@ -7,7 +7,7 @@ permalink: /rybysukcesu
 <script type="text/javascript" src="data/r/rybysukcesu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rybysukcesu](https://patronite.pl/rybysukcesu)
+# [Ryby Sukcesu](https://patronite.pl/rybysukcesu)
 
 ## Miesięczne wsparcie
 

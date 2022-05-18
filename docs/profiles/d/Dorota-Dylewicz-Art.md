@@ -1,5 +1,5 @@
 ---
-title: Dorota-Dylewicz-Art | Patromierz
+title: "Dorota-Dylewicz-Art | Patromierz"
 permalink: /Dorota-Dylewicz-Art
 ---
 
@@ -7,7 +7,7 @@ permalink: /Dorota-Dylewicz-Art
 <script type="text/javascript" src="data/d/Dorota-Dylewicz-Art.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Dorota-Dylewicz-Art](https://patronite.pl/Dorota-Dylewicz-Art)
+# [Dorota Dylewicz](https://patronite.pl/Dorota-Dylewicz-Art)
 
 ## Miesięczne wsparcie
 

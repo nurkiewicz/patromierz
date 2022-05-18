@@ -1,5 +1,5 @@
 ---
-title: Ustawsienabieganie | Patromierz
+title: "Ustawsienabieganie | Patromierz"
 permalink: /Ustawsienabieganie
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ustawsienabieganie
 <script type="text/javascript" src="data/u/Ustawsienabieganie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ustawsienabieganie](https://patronite.pl/Ustawsienabieganie)
+# [Ustaw się na bieganie w Gdańsku ](https://patronite.pl/Ustawsienabieganie)
 
 ## Miesięczne wsparcie
 

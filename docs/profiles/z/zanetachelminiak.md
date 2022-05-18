@@ -1,5 +1,5 @@
 ---
-title: zanetachelminiak | Patromierz
+title: "zanetachelminiak | Patromierz"
 permalink: /zanetachelminiak
 ---
 
@@ -7,7 +7,7 @@ permalink: /zanetachelminiak
 <script type="text/javascript" src="data/z/zanetachelminiak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zanetachelminiak](https://patronite.pl/zanetachelminiak)
+# [Żaneta Chełminiak](https://patronite.pl/zanetachelminiak)
 
 ## Miesięczne wsparcie
 

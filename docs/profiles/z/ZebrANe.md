@@ -1,5 +1,5 @@
 ---
-title: ZebrANe | Patromierz
+title: "ZebrANe | Patromierz"
 permalink: /ZebrANe
 ---
 

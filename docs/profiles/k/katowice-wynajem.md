@@ -1,5 +1,5 @@
 ---
-title: katowice-wynajem | Patromierz
+title: "katowice-wynajem | Patromierz"
 permalink: /katowice-wynajem
 ---
 
@@ -7,7 +7,7 @@ permalink: /katowice-wynajem
 <script type="text/javascript" src="data/k/katowice-wynajem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [katowice-wynajem](https://patronite.pl/katowice-wynajem)
+# [Katowice Wynajem](https://patronite.pl/katowice-wynajem)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjapomost | Patromierz
+title: "fundacjapomost | Patromierz"
 permalink: /fundacjapomost
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjapomost
 <script type="text/javascript" src="data/f/fundacjapomost.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjapomost](https://patronite.pl/fundacjapomost)
+# [Fundacja Pomost](https://patronite.pl/fundacjapomost)
 
 ## Miesięczne wsparcie
 

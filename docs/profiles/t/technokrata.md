@@ -1,5 +1,5 @@
 ---
-title: technokrata | Patromierz
+title: "technokrata | Patromierz"
 permalink: /technokrata
 ---
 
@@ -7,7 +7,7 @@ permalink: /technokrata
 <script type="text/javascript" src="data/t/technokrata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [technokrata](https://patronite.pl/technokrata)
+# [Technokrata](https://patronite.pl/technokrata)
 
 ## Miesięczne wsparcie
 

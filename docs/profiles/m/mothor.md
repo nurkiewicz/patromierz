@@ -1,5 +1,5 @@
 ---
-title: mothor | Patromierz
+title: "mothor | Patromierz"
 permalink: /mothor
 ---
 
@@ -7,7 +7,7 @@ permalink: /mothor
 <script type="text/javascript" src="data/m/mothor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mothor](https://patronite.pl/mothor)
+# [MoThor](https://patronite.pl/mothor)
 
 ## Miesięczne wsparcie
 

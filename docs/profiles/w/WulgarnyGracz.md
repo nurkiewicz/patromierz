@@ -1,5 +1,5 @@
 ---
-title: WulgarnyGracz | Patromierz
+title: "WulgarnyGracz | Patromierz"
 permalink: /WulgarnyGracz
 ---
 
@@ -7,7 +7,7 @@ permalink: /WulgarnyGracz
 <script type="text/javascript" src="data/w/WulgarnyGracz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WulgarnyGracz](https://patronite.pl/WulgarnyGracz)
+# [Wulgarny Gracz](https://patronite.pl/WulgarnyGracz)
 
 ## Miesięczne wsparcie
 

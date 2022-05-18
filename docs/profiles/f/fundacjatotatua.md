@@ -1,5 +1,5 @@
 ---
-title: fundacjatotatua | Patromierz
+title: "fundacjatotatua | Patromierz"
 permalink: /fundacjatotatua
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjatotatua
 <script type="text/javascript" src="data/f/fundacjatotatua.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjatotatua](https://patronite.pl/fundacjatotatua)
+# [Fundacja Tota Tua](https://patronite.pl/fundacjatotatua)
 
 ## Miesięczne wsparcie
 

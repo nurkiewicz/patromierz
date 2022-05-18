@@ -1,5 +1,5 @@
 ---
-title: odstepczuszkiszymona | Patromierz
+title: "odstepczuszkiszymona | Patromierz"
 permalink: /odstepczuszkiszymona
 ---
 
@@ -7,7 +7,7 @@ permalink: /odstepczuszkiszymona
 <script type="text/javascript" src="data/o/odstepczuszkiszymona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odstepczuszkiszymona](https://patronite.pl/odstepczuszkiszymona)
+# [Odstępczuszki Szymona](https://patronite.pl/odstepczuszkiszymona)
 
 ## Miesięczne wsparcie
 

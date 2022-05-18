@@ -1,5 +1,5 @@
 ---
-title: noisegateproduction | Patromierz
+title: "noisegateproduction | Patromierz"
 permalink: /noisegateproduction
 ---
 
@@ -7,7 +7,7 @@ permalink: /noisegateproduction
 <script type="text/javascript" src="data/n/noisegateproduction.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [noisegateproduction](https://patronite.pl/noisegateproduction)
+# [Noise Gate Production](https://patronite.pl/noisegateproduction)
 
 ## Miesięczne wsparcie
 

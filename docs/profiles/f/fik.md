@@ -1,5 +1,5 @@
 ---
-title: fik | Patromierz
+title: "fik | Patromierz"
 permalink: /fik
 ---
 
@@ -7,7 +7,7 @@ permalink: /fik
 <script type="text/javascript" src="data/f/fik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fik](https://patronite.pl/fik)
+# [Forum Inspiracji Kulturalnych ](https://patronite.pl/fik)
 
 ## Miesięczne wsparcie
 

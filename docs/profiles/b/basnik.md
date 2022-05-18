@@ -1,5 +1,5 @@
 ---
-title: basnik | Patromierz
+title: "basnik | Patromierz"
 permalink: /basnik
 ---
 
@@ -7,7 +7,7 @@ permalink: /basnik
 <script type="text/javascript" src="data/b/basnik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [basnik](https://patronite.pl/basnik)
+# [BAŚNIK](https://patronite.pl/basnik)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: LigaSuperbohaterow | Patromierz
+title: "LigaSuperbohaterow | Patromierz"
 permalink: /LigaSuperbohaterow
 ---
 
@@ -7,7 +7,7 @@ permalink: /LigaSuperbohaterow
 <script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LigaSuperbohaterow](https://patronite.pl/LigaSuperbohaterow)
+# [Liga Superbohaterów](https://patronite.pl/LigaSuperbohaterow)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zaczarowanyogrod | Patromierz
+title: "zaczarowanyogrod | Patromierz"
 permalink: /zaczarowanyogrod
 ---
 
@@ -7,7 +7,7 @@ permalink: /zaczarowanyogrod
 <script type="text/javascript" src="data/z/zaczarowanyogrod.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zaczarowanyogrod](https://patronite.pl/zaczarowanyogrod)
+# [Zaczarowany Ogród](https://patronite.pl/zaczarowanyogrod)
 
 ## Miesięczne wsparcie
 

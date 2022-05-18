@@ -1,5 +1,5 @@
 ---
-title: z-pogranicza | Patromierz
+title: "z-pogranicza | Patromierz"
 permalink: /z-pogranicza
 ---
 
@@ -7,7 +7,7 @@ permalink: /z-pogranicza
 <script type="text/javascript" src="data/z/z-pogranicza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [z-pogranicza](https://patronite.pl/z-pogranicza)
+# [Regionalny Serwis Historyczny Z Pogranicza Krzysztof Kusiak](https://patronite.pl/z-pogranicza)
 
 ## Miesięczne wsparcie
 

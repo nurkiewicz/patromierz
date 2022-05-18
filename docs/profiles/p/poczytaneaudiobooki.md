@@ -1,5 +1,5 @@
 ---
-title: poczytaneaudiobooki | Patromierz
+title: "poczytaneaudiobooki | Patromierz"
 permalink: /poczytaneaudiobooki
 ---
 
@@ -7,7 +7,7 @@ permalink: /poczytaneaudiobooki
 <script type="text/javascript" src="data/p/poczytaneaudiobooki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poczytaneaudiobooki](https://patronite.pl/poczytaneaudiobooki)
+# [Poczytane - audiobooki i słuchowiska](https://patronite.pl/poczytaneaudiobooki)
 
 ## Miesięczne wsparcie
 

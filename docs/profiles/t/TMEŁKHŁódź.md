@@ -1,5 +1,5 @@
 ---
-title: TMEŁKHŁódź | Patromierz
+title: "TMEŁKHŁódź | Patromierz"
 permalink: /TMEŁKHŁódź
 ---
 
@@ -7,7 +7,7 @@ permalink: /TMEŁKHŁódź
 <script type="text/javascript" src="data/t/TMEŁKHŁódź.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TMEŁKHŁódź](https://patronite.pl/TMEŁKHŁódź)
+# [TME ŁKH Łódź](https://patronite.pl/TMEŁKHŁódź)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: hellkomix | Patromierz
+title: "hellkomix | Patromierz"
 permalink: /hellkomix
 ---
 
@@ -7,7 +7,7 @@ permalink: /hellkomix
 <script type="text/javascript" src="data/h/hellkomix.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hellkomix](https://patronite.pl/hellkomix)
+# [Hellkomix](https://patronite.pl/hellkomix)
 
 ## Miesięczne wsparcie
 

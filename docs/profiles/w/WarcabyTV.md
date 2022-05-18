@@ -1,5 +1,5 @@
 ---
-title: WarcabyTV | Patromierz
+title: "WarcabyTV | Patromierz"
 permalink: /WarcabyTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /WarcabyTV
 <script type="text/javascript" src="data/w/WarcabyTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WarcabyTV](https://patronite.pl/WarcabyTV)
+# [Damian Reszka - WarcabyTV](https://patronite.pl/WarcabyTV)
 
 ## Miesięczne wsparcie
 

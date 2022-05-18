@@ -1,5 +1,5 @@
 ---
-title: gamemusic | Patromierz
+title: "gamemusic | Patromierz"
 permalink: /gamemusic
 ---
 
@@ -7,7 +7,7 @@ permalink: /gamemusic
 <script type="text/javascript" src="data/g/gamemusic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gamemusic](https://patronite.pl/gamemusic)
+# [Fundacja Game Music](https://patronite.pl/gamemusic)
 
 ## Miesięczne wsparcie
 

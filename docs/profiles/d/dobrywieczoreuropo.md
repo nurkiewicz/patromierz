@@ -1,5 +1,5 @@
 ---
-title: dobrywieczoreuropo | Patromierz
+title: "dobrywieczoreuropo | Patromierz"
 permalink: /dobrywieczoreuropo
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobrywieczoreuropo
 <script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobrywieczoreuropo](https://patronite.pl/dobrywieczoreuropo)
+# [Dobry wieczór Europo!](https://patronite.pl/dobrywieczoreuropo)
 
 ## Miesięczne wsparcie
 

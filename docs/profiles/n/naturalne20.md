@@ -1,5 +1,5 @@
 ---
-title: naturalne20 | Patromierz
+title: "naturalne20 | Patromierz"
 permalink: /naturalne20
 ---
 
@@ -7,7 +7,7 @@ permalink: /naturalne20
 <script type="text/javascript" src="data/n/naturalne20.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naturalne20](https://patronite.pl/naturalne20)
+# [Naturalne 20](https://patronite.pl/naturalne20)
 
 ## Miesięczne wsparcie
 

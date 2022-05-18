@@ -1,5 +1,5 @@
 ---
-title: szczesliwyziemniak | Patromierz
+title: "szczesliwyziemniak | Patromierz"
 permalink: /szczesliwyziemniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /szczesliwyziemniak
 <script type="text/javascript" src="data/s/szczesliwyziemniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szczesliwyziemniak](https://patronite.pl/szczesliwyziemniak)
+# [Szczęśliwy Ziemniak](https://patronite.pl/szczesliwyziemniak)
 
 ## Miesięczne wsparcie
 

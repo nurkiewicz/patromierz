@@ -1,5 +1,5 @@
 ---
-title: StowarzyszenieKlucz | Patromierz
+title: "StowarzyszenieKlucz | Patromierz"
 permalink: /StowarzyszenieKlucz
 ---
 
@@ -7,7 +7,7 @@ permalink: /StowarzyszenieKlucz
 <script type="text/javascript" src="data/s/StowarzyszenieKlucz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StowarzyszenieKlucz](https://patronite.pl/StowarzyszenieKlucz)
+# [Stowarzyszenie Klucz - Stop Społecznym Wykluczeniom](https://patronite.pl/StowarzyszenieKlucz)
 
 ## Miesięczne wsparcie
 

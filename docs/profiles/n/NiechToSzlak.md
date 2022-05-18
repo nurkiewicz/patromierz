@@ -1,5 +1,5 @@
 ---
-title: NiechToSzlak | Patromierz
+title: "NiechToSzlak | Patromierz"
 permalink: /NiechToSzlak
 ---
 
@@ -7,7 +7,7 @@ permalink: /NiechToSzlak
 <script type="text/javascript" src="data/n/NiechToSzlak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NiechToSzlak](https://patronite.pl/NiechToSzlak)
+# [Niech to Szlak](https://patronite.pl/NiechToSzlak)
 
 ## Miesięczne wsparcie
 

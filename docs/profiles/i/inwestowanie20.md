@@ -1,5 +1,5 @@
 ---
-title: inwestowanie20 | Patromierz
+title: "inwestowanie20 | Patromierz"
 permalink: /inwestowanie20
 ---
 
@@ -7,7 +7,7 @@ permalink: /inwestowanie20
 <script type="text/javascript" src="data/i/inwestowanie20.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [inwestowanie20](https://patronite.pl/inwestowanie20)
+# [INWESTOWANIE 2.0](https://patronite.pl/inwestowanie20)
 
 ## Miesięczne wsparcie
 

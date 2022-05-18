@@ -1,5 +1,5 @@
 ---
-title: AgileSilesia | Patromierz
+title: "AgileSilesia | Patromierz"
 permalink: /AgileSilesia
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgileSilesia
 <script type="text/javascript" src="data/a/AgileSilesia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgileSilesia](https://patronite.pl/AgileSilesia)
+# [Agile Silesia](https://patronite.pl/AgileSilesia)
 
 ## Miesięczne wsparcie
 

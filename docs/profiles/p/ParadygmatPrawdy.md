@@ -1,5 +1,5 @@
 ---
-title: ParadygmatPrawdy | Patromierz
+title: "ParadygmatPrawdy | Patromierz"
 permalink: /ParadygmatPrawdy
 ---
 
@@ -7,7 +7,7 @@ permalink: /ParadygmatPrawdy
 <script type="text/javascript" src="data/p/ParadygmatPrawdy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ParadygmatPrawdy](https://patronite.pl/ParadygmatPrawdy)
+# [Paradygmat Prawdy](https://patronite.pl/ParadygmatPrawdy)
 
 ## Miesięczne wsparcie
 

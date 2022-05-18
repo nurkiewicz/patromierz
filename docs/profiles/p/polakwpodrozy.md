@@ -1,5 +1,5 @@
 ---
-title: polakwpodrozy | Patromierz
+title: "polakwpodrozy | Patromierz"
 permalink: /polakwpodrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /polakwpodrozy
 <script type="text/javascript" src="data/p/polakwpodrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polakwpodrozy](https://patronite.pl/polakwpodrozy)
+# [Polak w Podróży](https://patronite.pl/polakwpodrozy)
 
 ## Miesięczne wsparcie
 

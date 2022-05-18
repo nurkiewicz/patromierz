@@ -1,5 +1,5 @@
 ---
-title: karolinaanna | Patromierz
+title: "karolinaanna | Patromierz"
 permalink: /karolinaanna
 ---
 
@@ -7,7 +7,7 @@ permalink: /karolinaanna
 <script type="text/javascript" src="data/k/karolinaanna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karolinaanna](https://patronite.pl/karolinaanna)
+# [Karolina Anna](https://patronite.pl/karolinaanna)
 
 ## Miesięczne wsparcie
 

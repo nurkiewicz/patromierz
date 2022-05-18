@@ -1,5 +1,5 @@
 ---
-title: serafine | Patromierz
+title: "serafine | Patromierz"
 permalink: /serafine
 ---
 
@@ -7,7 +7,7 @@ permalink: /serafine
 <script type="text/javascript" src="data/s/serafine.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [serafine](https://patronite.pl/serafine)
+# [Julka "Serafine" Sobieska](https://patronite.pl/serafine)
 
 ## Miesięczne wsparcie
 

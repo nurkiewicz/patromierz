@@ -1,5 +1,5 @@
 ---
-title: sercemiastawarszawa | Patromierz
+title: "sercemiastawarszawa | Patromierz"
 permalink: /sercemiastawarszawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /sercemiastawarszawa
 <script type="text/javascript" src="data/s/sercemiastawarszawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sercemiastawarszawa](https://patronite.pl/sercemiastawarszawa)
+# [Serce Miasta](https://patronite.pl/sercemiastawarszawa)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: panimonia | Patromierz
+title: "panimonia | Patromierz"
 permalink: /panimonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /panimonia
 <script type="text/javascript" src="data/p/panimonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panimonia](https://patronite.pl/panimonia)
+# [Pani Monia ](https://patronite.pl/panimonia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: klasowyksiegowy.pl | Patromierz
+title: "klasowyksiegowy.pl | Patromierz"
 permalink: /klasowyksiegowy.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /klasowyksiegowy.pl
 <script type="text/javascript" src="data/k/klasowyksiegowy.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klasowyksiegowy.pl](https://patronite.pl/klasowyksiegowy.pl)
+# [Radosław Gromek](https://patronite.pl/klasowyksiegowy.pl)
 
 ## Miesięczne wsparcie
 

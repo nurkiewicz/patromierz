@@ -1,5 +1,5 @@
 ---
-title: centrojestestwo | Patromierz
+title: "centrojestestwo | Patromierz"
 permalink: /centrojestestwo
 ---
 
@@ -7,7 +7,7 @@ permalink: /centrojestestwo
 <script type="text/javascript" src="data/c/centrojestestwo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [centrojestestwo](https://patronite.pl/centrojestestwo)
+# [Centrojestestwo](https://patronite.pl/centrojestestwo)
 
 ## Miesięczne wsparcie
 

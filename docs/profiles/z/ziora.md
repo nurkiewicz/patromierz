@@ -1,5 +1,5 @@
 ---
-title: ziora | Patromierz
+title: "ziora | Patromierz"
 permalink: /ziora
 ---
 
@@ -7,7 +7,7 @@ permalink: /ziora
 <script type="text/javascript" src="data/z/ziora.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ziora](https://patronite.pl/ziora)
+# [Paweł Ziora](https://patronite.pl/ziora)
 
 ## Miesięczne wsparcie
 

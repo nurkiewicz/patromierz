@@ -1,5 +1,5 @@
 ---
-title: stalinek7 | Patromierz
+title: "stalinek7 | Patromierz"
 permalink: /stalinek7
 ---
 
@@ -7,7 +7,7 @@ permalink: /stalinek7
 <script type="text/javascript" src="data/s/stalinek7.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stalinek7](https://patronite.pl/stalinek7)
+# [Filipiny moja historia](https://patronite.pl/stalinek7)
 
 ## Miesięczne wsparcie
 

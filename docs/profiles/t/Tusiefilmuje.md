@@ -1,5 +1,5 @@
 ---
-title: Tusiefilmuje | Patromierz
+title: "Tusiefilmuje | Patromierz"
 permalink: /Tusiefilmuje
 ---
 
@@ -7,7 +7,7 @@ permalink: /Tusiefilmuje
 <script type="text/javascript" src="data/t/Tusiefilmuje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Tusiefilmuje](https://patronite.pl/Tusiefilmuje)
+# [Mirosław Miśtak](https://patronite.pl/Tusiefilmuje)
 
 ## Miesięczne wsparcie
 

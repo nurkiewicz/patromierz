@@ -1,5 +1,5 @@
 ---
-title: MichalWoroch | Patromierz
+title: "MichalWoroch | Patromierz"
 permalink: /MichalWoroch
 ---
 
@@ -7,7 +7,7 @@ permalink: /MichalWoroch
 <script type="text/javascript" src="data/m/MichalWoroch.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MichalWoroch](https://patronite.pl/MichalWoroch)
+# [Michał Woroch - w h e e l c h a i r t r i p](https://patronite.pl/MichalWoroch)
 
 ## Miesięczne wsparcie
 

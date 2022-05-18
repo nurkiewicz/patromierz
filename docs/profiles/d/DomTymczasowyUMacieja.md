@@ -1,5 +1,5 @@
 ---
-title: DomTymczasowyUMacieja | Patromierz
+title: "DomTymczasowyUMacieja | Patromierz"
 permalink: /DomTymczasowyUMacieja
 ---
 
@@ -7,7 +7,7 @@ permalink: /DomTymczasowyUMacieja
 <script type="text/javascript" src="data/d/DomTymczasowyUMacieja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DomTymczasowyUMacieja](https://patronite.pl/DomTymczasowyUMacieja)
+# [Dom tymczasowy u Macieja](https://patronite.pl/DomTymczasowyUMacieja)
 
 ## Miesięczne wsparcie
 

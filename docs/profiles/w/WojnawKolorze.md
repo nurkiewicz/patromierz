@@ -1,5 +1,5 @@
 ---
-title: WojnawKolorze | Patromierz
+title: "WojnawKolorze | Patromierz"
 permalink: /WojnawKolorze
 ---
 
@@ -7,7 +7,7 @@ permalink: /WojnawKolorze
 <script type="text/javascript" src="data/w/WojnawKolorze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WojnawKolorze](https://patronite.pl/WojnawKolorze)
+# [II Wojna Światowa w Kolorze](https://patronite.pl/WojnawKolorze)
 
 ## Miesięczne wsparcie
 

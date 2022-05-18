@@ -1,5 +1,5 @@
 ---
-title: FundacjaPrimum | Patromierz
+title: "FundacjaPrimum | Patromierz"
 permalink: /FundacjaPrimum
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaPrimum
 <script type="text/javascript" src="data/f/FundacjaPrimum.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaPrimum](https://patronite.pl/FundacjaPrimum)
+# [Fundacja  Primum](https://patronite.pl/FundacjaPrimum)
 
 ## Miesięczne wsparcie
 

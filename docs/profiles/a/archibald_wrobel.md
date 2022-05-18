@@ -1,5 +1,5 @@
 ---
-title: archibald_wrobel | Patromierz
+title: "archibald_wrobel | Patromierz"
 permalink: /archibald_wrobel
 ---
 
@@ -7,7 +7,7 @@ permalink: /archibald_wrobel
 <script type="text/javascript" src="data/a/archibald_wrobel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [archibald_wrobel](https://patronite.pl/archibald_wrobel)
+# [Archibald_Wrobel](https://patronite.pl/archibald_wrobel)
 
 ## Miesięczne wsparcie
 

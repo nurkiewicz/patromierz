@@ -1,5 +1,5 @@
 ---
-title: diydesign | Patromierz
+title: "diydesign | Patromierz"
 permalink: /diydesign
 ---
 
@@ -7,7 +7,7 @@ permalink: /diydesign
 <script type="text/javascript" src="data/d/diydesign.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [diydesign](https://patronite.pl/diydesign)
+# [DIYdesign](https://patronite.pl/diydesign)
 
 ## Miesięczne wsparcie
 

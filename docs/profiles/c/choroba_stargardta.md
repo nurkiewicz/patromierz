@@ -1,5 +1,5 @@
 ---
-title: choroba_stargardta | Patromierz
+title: "choroba_stargardta | Patromierz"
 permalink: /choroba_stargardta
 ---
 
@@ -7,7 +7,7 @@ permalink: /choroba_stargardta
 <script type="text/javascript" src="data/c/choroba_stargardta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [choroba_stargardta](https://patronite.pl/choroba_stargardta)
+# [Choroba_Stargardta ](https://patronite.pl/choroba_stargardta)
 
 ## Miesięczne wsparcie
 

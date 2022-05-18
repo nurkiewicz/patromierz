@@ -1,5 +1,5 @@
 ---
-title: hulajdusza | Patromierz
+title: "hulajdusza | Patromierz"
 permalink: /hulajdusza
 ---
 
@@ -7,7 +7,7 @@ permalink: /hulajdusza
 <script type="text/javascript" src="data/h/hulajdusza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hulajdusza](https://patronite.pl/hulajdusza)
+# [Hulaj Dusza](https://patronite.pl/hulajdusza)
 
 ## Miesięczne wsparcie
 

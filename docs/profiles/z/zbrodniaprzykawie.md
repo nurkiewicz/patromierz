@@ -1,5 +1,5 @@
 ---
-title: zbrodniaprzykawie | Patromierz
+title: "zbrodniaprzykawie | Patromierz"
 permalink: /zbrodniaprzykawie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbrodniaprzykawie
 <script type="text/javascript" src="data/z/zbrodniaprzykawie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbrodniaprzykawie](https://patronite.pl/zbrodniaprzykawie)
+# [Zbrodnia Przy Kawie Podcast](https://patronite.pl/zbrodniaprzykawie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SkyStyle | Patromierz
+title: "SkyStyle | Patromierz"
 permalink: /SkyStyle
 ---
 
@@ -7,7 +7,7 @@ permalink: /SkyStyle
 <script type="text/javascript" src="data/s/SkyStyle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SkyStyle](https://patronite.pl/SkyStyle)
+# [Sky Style - Służba dla młodzieży](https://patronite.pl/SkyStyle)
 
 ## Miesięczne wsparcie
 

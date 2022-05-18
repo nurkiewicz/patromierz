@@ -1,5 +1,5 @@
 ---
-title: mateusz-mielczarek | Patromierz
+title: "mateusz-mielczarek | Patromierz"
 permalink: /mateusz-mielczarek
 ---
 
@@ -7,7 +7,7 @@ permalink: /mateusz-mielczarek
 <script type="text/javascript" src="data/m/mateusz-mielczarek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mateusz-mielczarek](https://patronite.pl/mateusz-mielczarek)
+# [Mateusz Mielczarek](https://patronite.pl/mateusz-mielczarek)
 
 ## Miesięczne wsparcie
 

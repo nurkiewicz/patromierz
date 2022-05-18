@@ -1,5 +1,5 @@
 ---
-title: wzn | Patromierz
+title: "wzn | Patromierz"
 permalink: /wzn
 ---
 
@@ -7,7 +7,7 @@ permalink: /wzn
 <script type="text/javascript" src="data/w/wzn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wzn](https://patronite.pl/wzn)
+# [Wyrwani z Niewoli](https://patronite.pl/wzn)
 
 ## Miesięczne wsparcie
 

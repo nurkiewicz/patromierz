@@ -1,5 +1,5 @@
 ---
-title: Bajkiodoroslych | Patromierz
+title: "Bajkiodoroslych | Patromierz"
 permalink: /Bajkiodoroslych
 ---
 
@@ -7,7 +7,7 @@ permalink: /Bajkiodoroslych
 <script type="text/javascript" src="data/b/Bajkiodoroslych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Bajkiodoroslych](https://patronite.pl/Bajkiodoroslych)
+# [Bajki o  Dorosłych](https://patronite.pl/Bajkiodoroslych)
 
 ## Miesięczne wsparcie
 

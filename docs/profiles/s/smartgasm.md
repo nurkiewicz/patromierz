@@ -1,5 +1,5 @@
 ---
-title: smartgasm | Patromierz
+title: "smartgasm | Patromierz"
 permalink: /smartgasm
 ---
 
@@ -7,7 +7,7 @@ permalink: /smartgasm
 <script type="text/javascript" src="data/s/smartgasm.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smartgasm](https://patronite.pl/smartgasm)
+# [Smartgasm](https://patronite.pl/smartgasm)
 
 ## Miesięczne wsparcie
 

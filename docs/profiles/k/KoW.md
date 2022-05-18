@@ -1,5 +1,5 @@
 ---
-title: KoW | Patromierz
+title: "KoW | Patromierz"
 permalink: /KoW
 ---
 
@@ -7,7 +7,7 @@ permalink: /KoW
 <script type="text/javascript" src="data/k/KoW.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KoW](https://patronite.pl/KoW)
+# [Kanał o Wszystkim](https://patronite.pl/KoW)
 
 ## Miesięczne wsparcie
 

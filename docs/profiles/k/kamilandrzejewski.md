@@ -1,5 +1,5 @@
 ---
-title: kamilandrzejewski | Patromierz
+title: "kamilandrzejewski | Patromierz"
 permalink: /kamilandrzejewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilandrzejewski
 <script type="text/javascript" src="data/k/kamilandrzejewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilandrzejewski](https://patronite.pl/kamilandrzejewski)
+# [Kamil Andrzejewski](https://patronite.pl/kamilandrzejewski)
 
 ## Miesięczne wsparcie
 

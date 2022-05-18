@@ -1,5 +1,5 @@
 ---
-title: kryminalnatalerzu | Patromierz
+title: "kryminalnatalerzu | Patromierz"
 permalink: /kryminalnatalerzu
 ---
 
@@ -7,7 +7,7 @@ permalink: /kryminalnatalerzu
 <script type="text/javascript" src="data/k/kryminalnatalerzu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kryminalnatalerzu](https://patronite.pl/kryminalnatalerzu)
+# [Kryminał na talerzu](https://patronite.pl/kryminalnatalerzu)
 
 ## Miesięczne wsparcie
 

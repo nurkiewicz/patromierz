@@ -1,5 +1,5 @@
 ---
-title: Focus | Patromierz
+title: "Focus | Patromierz"
 permalink: /Focus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Focus
 <script type="text/javascript" src="data/f/Focus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Focus](https://patronite.pl/Focus)
+# [Ford Focus MK3 Zetec S](https://patronite.pl/Focus)
 
 ## Miesięczne wsparcie
 

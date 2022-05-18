@@ -1,5 +1,5 @@
 ---
-title: pelnykolor | Patromierz
+title: "pelnykolor | Patromierz"
 permalink: /pelnykolor
 ---
 
@@ -7,7 +7,7 @@ permalink: /pelnykolor
 <script type="text/javascript" src="data/p/pelnykolor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pelnykolor](https://patronite.pl/pelnykolor)
+# [Paweł Młotkowski](https://patronite.pl/pelnykolor)
 
 ## Miesięczne wsparcie
 

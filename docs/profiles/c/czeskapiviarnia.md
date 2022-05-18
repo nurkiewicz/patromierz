@@ -1,5 +1,5 @@
 ---
-title: czeskapiviarnia | Patromierz
+title: "czeskapiviarnia | Patromierz"
 permalink: /czeskapiviarnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /czeskapiviarnia
 <script type="text/javascript" src="data/c/czeskapiviarnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [czeskapiviarnia](https://patronite.pl/czeskapiviarnia)
+# [Czeska Piviarnia](https://patronite.pl/czeskapiviarnia)
 
 ## Miesięczne wsparcie
 

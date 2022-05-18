@@ -1,5 +1,5 @@
 ---
-title: Nightslime | Patromierz
+title: "Nightslime | Patromierz"
 permalink: /Nightslime
 ---
 

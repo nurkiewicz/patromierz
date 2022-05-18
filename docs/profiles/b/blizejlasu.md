@@ -1,5 +1,5 @@
 ---
-title: blizejlasu | Patromierz
+title: "blizejlasu | Patromierz"
 permalink: /blizejlasu
 ---
 
@@ -7,7 +7,7 @@ permalink: /blizejlasu
 <script type="text/javascript" src="data/b/blizejlasu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blizejlasu](https://patronite.pl/blizejlasu)
+# [Daniel Mróz](https://patronite.pl/blizejlasu)
 
 ## Miesięczne wsparcie
 

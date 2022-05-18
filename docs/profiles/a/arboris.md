@@ -1,5 +1,5 @@
 ---
-title: arboris | Patromierz
+title: "arboris | Patromierz"
 permalink: /arboris
 ---
 
@@ -7,7 +7,7 @@ permalink: /arboris
 <script type="text/javascript" src="data/a/arboris.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arboris](https://patronite.pl/arboris)
+# [Patroni Ogrodu Twórz Zielone Piękno](https://patronite.pl/arboris)
 
 ## Miesięczne wsparcie
 

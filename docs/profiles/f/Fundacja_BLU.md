@@ -1,5 +1,5 @@
 ---
-title: Fundacja_BLU | Patromierz
+title: "Fundacja_BLU | Patromierz"
 permalink: /Fundacja_BLU
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja_BLU
 <script type="text/javascript" src="data/f/Fundacja_BLU.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja_BLU](https://patronite.pl/Fundacja_BLU)
+# [Fundacja B.L.U.](https://patronite.pl/Fundacja_BLU)
 
 ## Miesięczne wsparcie
 

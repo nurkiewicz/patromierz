@@ -1,5 +1,5 @@
 ---
-title: planety | Patromierz
+title: "planety | Patromierz"
 permalink: /planety
 ---
 
@@ -7,7 +7,7 @@ permalink: /planety
 <script type="text/javascript" src="data/p/planety.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [planety](https://patronite.pl/planety)
+# [Planety](https://patronite.pl/planety)
 
 ## Miesięczne wsparcie
 

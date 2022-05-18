@@ -1,5 +1,5 @@
 ---
-title: historyhiking | Patromierz
+title: "historyhiking | Patromierz"
 permalink: /historyhiking
 ---
 
@@ -7,7 +7,7 @@ permalink: /historyhiking
 <script type="text/javascript" src="data/h/historyhiking.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historyhiking](https://patronite.pl/historyhiking)
+# [History Hiking](https://patronite.pl/historyhiking)
 
 ## Miesięczne wsparcie
 

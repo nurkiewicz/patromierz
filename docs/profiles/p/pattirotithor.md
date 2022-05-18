@@ -1,5 +1,5 @@
 ---
-title: pattirotithor | Patromierz
+title: "pattirotithor | Patromierz"
 permalink: /pattirotithor
 ---
 
@@ -7,7 +7,7 @@ permalink: /pattirotithor
 <script type="text/javascript" src="data/p/pattirotithor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pattirotithor](https://patronite.pl/pattirotithor)
+# [Patrycja  Rotithor](https://patronite.pl/pattirotithor)
 
 ## Miesięczne wsparcie
 

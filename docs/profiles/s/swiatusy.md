@@ -1,5 +1,5 @@
 ---
-title: swiatusy | Patromierz
+title: "swiatusy | Patromierz"
 permalink: /swiatusy
 ---
 
@@ -7,7 +7,7 @@ permalink: /swiatusy
 <script type="text/javascript" src="data/s/swiatusy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swiatusy](https://patronite.pl/swiatusy)
+# [Światusy](https://patronite.pl/swiatusy)
 
 ## Miesięczne wsparcie
 

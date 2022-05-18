@@ -1,5 +1,5 @@
 ---
-title: piotrbednarek | Patromierz
+title: "piotrbednarek | Patromierz"
 permalink: /piotrbednarek
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrbednarek
 <script type="text/javascript" src="data/p/piotrbednarek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrbednarek](https://patronite.pl/piotrbednarek)
+# [Piotr Bednarek](https://patronite.pl/piotrbednarek)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: anfoman | Patromierz
+title: "anfoman | Patromierz"
 permalink: /anfoman
 ---
 
@@ -7,7 +7,7 @@ permalink: /anfoman
 <script type="text/javascript" src="data/a/anfoman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anfoman](https://patronite.pl/anfoman)
+# [LeKret](https://patronite.pl/anfoman)
 
 ## Miesięczne wsparcie
 

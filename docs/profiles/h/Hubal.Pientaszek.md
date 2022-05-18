@@ -1,5 +1,5 @@
 ---
-title: Hubal.Pientaszek | Patromierz
+title: "Hubal.Pientaszek | Patromierz"
 permalink: /Hubal.Pientaszek
 ---
 
@@ -7,7 +7,7 @@ permalink: /Hubal.Pientaszek
 <script type="text/javascript" src="data/h/Hubal.Pientaszek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Hubal.Pientaszek](https://patronite.pl/Hubal.Pientaszek)
+# [Hubal Pientaszek](https://patronite.pl/Hubal.Pientaszek)
 
 ## Miesięczne wsparcie
 

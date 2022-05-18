@@ -1,5 +1,5 @@
 ---
-title: Patolas | Patromierz
+title: "Patolas | Patromierz"
 permalink: /Patolas
 ---
 
@@ -7,7 +7,7 @@ permalink: /Patolas
 <script type="text/javascript" src="data/p/Patolas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Patolas](https://patronite.pl/Patolas)
+# [Opowieści z Patolasu](https://patronite.pl/Patolas)
 
 ## Miesięczne wsparcie
 

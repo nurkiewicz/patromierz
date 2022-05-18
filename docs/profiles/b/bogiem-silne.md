@@ -1,5 +1,5 @@
 ---
-title: bogiem-silne | Patromierz
+title: "bogiem-silne | Patromierz"
 permalink: /bogiem-silne
 ---
 
@@ -7,7 +7,7 @@ permalink: /bogiem-silne
 <script type="text/javascript" src="data/b/bogiem-silne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bogiem-silne](https://patronite.pl/bogiem-silne)
+# [Bogiem Silne](https://patronite.pl/bogiem-silne)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: MieszkoKomiks | Patromierz
+title: "MieszkoKomiks | Patromierz"
 permalink: /MieszkoKomiks
 ---
 
@@ -7,7 +7,7 @@ permalink: /MieszkoKomiks
 <script type="text/javascript" src="data/m/MieszkoKomiks.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MieszkoKomiks](https://patronite.pl/MieszkoKomiks)
+# [Mieszko Komiks](https://patronite.pl/MieszkoKomiks)
 
 ## Miesięczne wsparcie
 

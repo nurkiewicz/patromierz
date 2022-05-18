@@ -1,5 +1,5 @@
 ---
-title: Podcastwojennehistorie | Patromierz
+title: "Podcastwojennehistorie | Patromierz"
 permalink: /Podcastwojennehistorie
 ---
 
@@ -7,7 +7,7 @@ permalink: /Podcastwojennehistorie
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Podcastwojennehistorie](https://patronite.pl/Podcastwojennehistorie)
+# [Podcast Wojenne Historie](https://patronite.pl/Podcastwojennehistorie)
 
 ## Miesięczne wsparcie
 

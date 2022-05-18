@@ -1,5 +1,5 @@
 ---
-title: bajkowepoddasze | Patromierz
+title: "bajkowepoddasze | Patromierz"
 permalink: /bajkowepoddasze
 ---
 
@@ -7,7 +7,7 @@ permalink: /bajkowepoddasze
 <script type="text/javascript" src="data/b/bajkowepoddasze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bajkowepoddasze](https://patronite.pl/bajkowepoddasze)
+# [BAJKOWE PODDASZE](https://patronite.pl/bajkowepoddasze)
 
 ## Miesięczne wsparcie
 

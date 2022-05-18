@@ -1,5 +1,5 @@
 ---
-title: jezykpolskizpolski | Patromierz
+title: "jezykpolskizpolski | Patromierz"
 permalink: /jezykpolskizpolski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jezykpolskizpolski
 <script type="text/javascript" src="data/j/jezykpolskizpolski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jezykpolskizpolski](https://patronite.pl/jezykpolskizpolski)
+# [Język polski z Polski / Darmowe lekcje polskiego dla uchodźców](https://patronite.pl/jezykpolskizpolski)
 
 ## Miesięczne wsparcie
 

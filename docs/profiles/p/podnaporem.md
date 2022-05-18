@@ -1,5 +1,5 @@
 ---
-title: podnaporem | Patromierz
+title: "podnaporem | Patromierz"
 permalink: /podnaporem
 ---
 
@@ -7,7 +7,7 @@ permalink: /podnaporem
 <script type="text/javascript" src="data/p/podnaporem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podnaporem](https://patronite.pl/podnaporem)
+# [Pod Naporem](https://patronite.pl/podnaporem)
 
 ## Miesięczne wsparcie
 

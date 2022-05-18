@@ -1,5 +1,5 @@
 ---
-title: drwalrebajlo | Patromierz
+title: "drwalrebajlo | Patromierz"
 permalink: /drwalrebajlo
 ---
 
@@ -7,7 +7,7 @@ permalink: /drwalrebajlo
 <script type="text/javascript" src="data/d/drwalrebajlo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [drwalrebajlo](https://patronite.pl/drwalrebajlo)
+# [Drwal Rębajło](https://patronite.pl/drwalrebajlo)
 
 ## Miesięczne wsparcie
 

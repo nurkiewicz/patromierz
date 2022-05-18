@@ -1,5 +1,5 @@
 ---
-title: tony | Patromierz
+title: "tony | Patromierz"
 permalink: /tony
 ---
 
@@ -7,7 +7,7 @@ permalink: /tony
 <script type="text/javascript" src="data/t/tony.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tony](https://patronite.pl/tony)
+# [Szkoła muzyczna TONY](https://patronite.pl/tony)
 
 ## Miesięczne wsparcie
 

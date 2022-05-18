@@ -1,5 +1,5 @@
 ---
-title: annazebrowska | Patromierz
+title: "annazebrowska | Patromierz"
 permalink: /annazebrowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /annazebrowska
 <script type="text/javascript" src="data/a/annazebrowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annazebrowska](https://patronite.pl/annazebrowska)
+# [Anna Żebrowska](https://patronite.pl/annazebrowska)
 
 ## Miesięczne wsparcie
 

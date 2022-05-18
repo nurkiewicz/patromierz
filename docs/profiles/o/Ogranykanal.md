@@ -1,5 +1,5 @@
 ---
-title: Ogranykanal | Patromierz
+title: "Ogranykanal | Patromierz"
 permalink: /Ogranykanal
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ogranykanal
 <script type="text/javascript" src="data/o/Ogranykanal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ogranykanal](https://patronite.pl/Ogranykanal)
+# [Damian Rutkowski](https://patronite.pl/Ogranykanal)
 
 ## Miesięczne wsparcie
 

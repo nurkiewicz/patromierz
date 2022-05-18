@@ -1,5 +1,5 @@
 ---
-title: gildiadcs | Patromierz
+title: "gildiadcs | Patromierz"
 permalink: /gildiadcs
 ---
 
@@ -7,7 +7,7 @@ permalink: /gildiadcs
 <script type="text/javascript" src="data/g/gildiadcs.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gildiadcs](https://patronite.pl/gildiadcs)
+# [Gildia DCS](https://patronite.pl/gildiadcs)
 
 ## Miesięczne wsparcie
 

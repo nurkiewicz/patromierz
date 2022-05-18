@@ -1,5 +1,5 @@
 ---
-title: Concordia-Wejherowo | Patromierz
+title: "Concordia-Wejherowo | Patromierz"
 permalink: /Concordia-Wejherowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /Concordia-Wejherowo
 <script type="text/javascript" src="data/c/Concordia-Wejherowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Concordia-Wejherowo](https://patronite.pl/Concordia-Wejherowo)
+# [Duszpasterstwo Młodzieży Concordia](https://patronite.pl/Concordia-Wejherowo)
 
 ## Miesięczne wsparcie
 

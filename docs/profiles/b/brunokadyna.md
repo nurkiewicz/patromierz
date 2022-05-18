@@ -1,5 +1,5 @@
 ---
-title: brunokadyna | Patromierz
+title: "brunokadyna | Patromierz"
 permalink: /brunokadyna
 ---
 
@@ -7,7 +7,7 @@ permalink: /brunokadyna
 <script type="text/javascript" src="data/b/brunokadyna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brunokadyna](https://patronite.pl/brunokadyna)
+# [Bruno Kadyna](https://patronite.pl/brunokadyna)
 
 ## Miesięczne wsparcie
 

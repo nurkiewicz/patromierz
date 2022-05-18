@@ -1,5 +1,5 @@
 ---
-title: JacobJuly | Patromierz
+title: "JacobJuly | Patromierz"
 permalink: /JacobJuly
 ---
 
@@ -7,7 +7,7 @@ permalink: /JacobJuly
 <script type="text/javascript" src="data/j/JacobJuly.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JacobJuly](https://patronite.pl/JacobJuly)
+# [Jacob July](https://patronite.pl/JacobJuly)
 
 ## Miesięczne wsparcie
 

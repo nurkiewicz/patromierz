@@ -1,5 +1,5 @@
 ---
-title: EKOSTRAŻ | Patromierz
+title: "EKOSTRAŻ | Patromierz"
 permalink: /EKOSTRAŻ
 ---
 
@@ -7,7 +7,7 @@ permalink: /EKOSTRAŻ
 <script type="text/javascript" src="data/e/EKOSTRAŻ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EKOSTRAŻ](https://patronite.pl/EKOSTRAŻ)
+# [EKOSTRAŻ ](https://patronite.pl/EKOSTRAŻ)
 
 ## Miesięczne wsparcie
 

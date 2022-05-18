@@ -1,5 +1,5 @@
 ---
-title: jakubowski | Patromierz
+title: "jakubowski | Patromierz"
 permalink: /jakubowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jakubowski
 <script type="text/javascript" src="data/j/jakubowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jakubowski](https://patronite.pl/jakubowski)
+# [Krzysztof Jakubowski](https://patronite.pl/jakubowski)
 
 ## Miesięczne wsparcie
 

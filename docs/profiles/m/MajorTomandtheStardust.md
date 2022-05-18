@@ -1,5 +1,5 @@
 ---
-title: MajorTomandtheStardust | Patromierz
+title: "MajorTomandtheStardust | Patromierz"
 permalink: /MajorTomandtheStardust
 ---
 
@@ -7,7 +7,7 @@ permalink: /MajorTomandtheStardust
 <script type="text/javascript" src="data/m/MajorTomandtheStardust.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MajorTomandtheStardust](https://patronite.pl/MajorTomandtheStardust)
+# [Major Tom and the Stardust](https://patronite.pl/MajorTomandtheStardust)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: nieznosnybolistnienia | Patromierz
+title: "nieznosnybolistnienia | Patromierz"
 permalink: /nieznosnybolistnienia
 ---
 
@@ -7,7 +7,7 @@ permalink: /nieznosnybolistnienia
 <script type="text/javascript" src="data/n/nieznosnybolistnienia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nieznosnybolistnienia](https://patronite.pl/nieznosnybolistnienia)
+# [Nieznośny Ból Istnienia](https://patronite.pl/nieznosnybolistnienia)
 
 ## Miesięczne wsparcie
 

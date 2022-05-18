@@ -1,5 +1,5 @@
 ---
-title: seniorzyzpienin | Patromierz
+title: "seniorzyzpienin | Patromierz"
 permalink: /seniorzyzpienin
 ---
 
@@ -7,7 +7,7 @@ permalink: /seniorzyzpienin
 <script type="text/javascript" src="data/s/seniorzyzpienin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [seniorzyzpienin](https://patronite.pl/seniorzyzpienin)
+# [Seniorzy z Pienin](https://patronite.pl/seniorzyzpienin)
 
 ## Miesięczne wsparcie
 

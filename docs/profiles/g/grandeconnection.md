@@ -1,5 +1,5 @@
 ---
-title: grandeconnection | Patromierz
+title: "grandeconnection | Patromierz"
 permalink: /grandeconnection
 ---
 
@@ -7,7 +7,7 @@ permalink: /grandeconnection
 <script type="text/javascript" src="data/g/grandeconnection.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grandeconnection](https://patronite.pl/grandeconnection)
+# [GRANDE CONNECTION](https://patronite.pl/grandeconnection)
 
 ## Miesięczne wsparcie
 

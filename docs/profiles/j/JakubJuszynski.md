@@ -1,5 +1,5 @@
 ---
-title: JakubJuszynski | Patromierz
+title: "JakubJuszynski | Patromierz"
 permalink: /JakubJuszynski
 ---
 
@@ -7,7 +7,7 @@ permalink: /JakubJuszynski
 <script type="text/javascript" src="data/j/JakubJuszynski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JakubJuszynski](https://patronite.pl/JakubJuszynski)
+# [Jakub Juszyński](https://patronite.pl/JakubJuszynski)
 
 ## Miesięczne wsparcie
 

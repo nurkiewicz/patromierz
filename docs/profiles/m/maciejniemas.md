@@ -1,5 +1,5 @@
 ---
-title: maciejniemas | Patromierz
+title: "maciejniemas | Patromierz"
 permalink: /maciejniemas
 ---
 
@@ -7,7 +7,7 @@ permalink: /maciejniemas
 <script type="text/javascript" src="data/m/maciejniemas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maciejniemas](https://patronite.pl/maciejniemas)
+# [Maciej Niemas](https://patronite.pl/maciejniemas)
 
 ## Miesięczne wsparcie
 

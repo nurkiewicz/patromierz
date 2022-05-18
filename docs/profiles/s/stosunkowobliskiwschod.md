@@ -1,5 +1,5 @@
 ---
-title: stosunkowobliskiwschod | Patromierz
+title: "stosunkowobliskiwschod | Patromierz"
 permalink: /stosunkowobliskiwschod
 ---
 
@@ -7,7 +7,7 @@ permalink: /stosunkowobliskiwschod
 <script type="text/javascript" src="data/s/stosunkowobliskiwschod.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stosunkowobliskiwschod](https://patronite.pl/stosunkowobliskiwschod)
+# [Stosunkowo Bliski Wschód](https://patronite.pl/stosunkowobliskiwschod)
 
 ## Miesięczne wsparcie
 

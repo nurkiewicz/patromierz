@@ -1,5 +1,5 @@
 ---
-title: FundacjaRAP | Patromierz
+title: "FundacjaRAP | Patromierz"
 permalink: /FundacjaRAP
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaRAP
 <script type="text/javascript" src="data/f/FundacjaRAP.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaRAP](https://patronite.pl/FundacjaRAP)
+# [Fundacja RAP](https://patronite.pl/FundacjaRAP)
 
 ## Miesięczne wsparcie
 

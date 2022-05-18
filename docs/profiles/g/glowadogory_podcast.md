@@ -1,5 +1,5 @@
 ---
-title: glowadogory_podcast | Patromierz
+title: "glowadogory_podcast | Patromierz"
 permalink: /glowadogory_podcast
 ---
 
@@ -7,7 +7,7 @@ permalink: /glowadogory_podcast
 <script type="text/javascript" src="data/g/glowadogory_podcast.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [glowadogory_podcast](https://patronite.pl/glowadogory_podcast)
+# [Głowa do góry - Podcast](https://patronite.pl/glowadogory_podcast)
 
 ## Miesięczne wsparcie
 

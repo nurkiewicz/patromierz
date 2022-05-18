@@ -1,5 +1,5 @@
 ---
-title: pasja-informatyki | Patromierz
+title: "pasja-informatyki | Patromierz"
 permalink: /pasja-informatyki
 ---
 
@@ -7,7 +7,7 @@ permalink: /pasja-informatyki
 <script type="text/javascript" src="data/p/pasja-informatyki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pasja-informatyki](https://patronite.pl/pasja-informatyki)
+# [Pasja informatyki](https://patronite.pl/pasja-informatyki)
 
 ## Miesięczne wsparcie
 

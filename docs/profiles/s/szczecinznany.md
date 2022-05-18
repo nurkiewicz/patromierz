@@ -1,5 +1,5 @@
 ---
-title: szczecinznany | Patromierz
+title: "szczecinznany | Patromierz"
 permalink: /szczecinznany
 ---
 
@@ -7,7 +7,7 @@ permalink: /szczecinznany
 <script type="text/javascript" src="data/s/szczecinznany.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szczecinznany](https://patronite.pl/szczecinznany)
+# [Szczecin znany i historyczny](https://patronite.pl/szczecinznany)
 
 ## Miesięczne wsparcie
 

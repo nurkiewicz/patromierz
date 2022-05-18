@@ -1,5 +1,5 @@
 ---
-title: podróże-wojownika | Patromierz
+title: "podróże-wojownika | Patromierz"
 permalink: /podróże-wojownika
 ---
 
@@ -7,7 +7,7 @@ permalink: /podróże-wojownika
 <script type="text/javascript" src="data/p/podróże-wojownika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podróże-wojownika](https://patronite.pl/podróże-wojownika)
+# [Podróże Wojownika](https://patronite.pl/podróże-wojownika)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjaobywatelska | Patromierz
+title: "fundacjaobywatelska | Patromierz"
 permalink: /fundacjaobywatelska
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaobywatelska
 <script type="text/javascript" src="data/f/fundacjaobywatelska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaobywatelska](https://patronite.pl/fundacjaobywatelska)
+# [Halo.Radio ](https://patronite.pl/fundacjaobywatelska)
 
 ## Miesięczne wsparcie
 

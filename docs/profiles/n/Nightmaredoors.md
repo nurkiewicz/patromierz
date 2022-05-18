@@ -1,5 +1,5 @@
 ---
-title: Nightmaredoors | Patromierz
+title: "Nightmaredoors | Patromierz"
 permalink: /Nightmaredoors
 ---
 
@@ -7,7 +7,7 @@ permalink: /Nightmaredoors
 <script type="text/javascript" src="data/n/Nightmaredoors.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Nightmaredoors](https://patronite.pl/Nightmaredoors)
+# [Nightmare Doors Studio](https://patronite.pl/Nightmaredoors)
 
 ## Miesięczne wsparcie
 

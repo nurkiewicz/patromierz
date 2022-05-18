@@ -1,5 +1,5 @@
 ---
-title: nieprzecietnezycie | Patromierz
+title: "nieprzecietnezycie | Patromierz"
 permalink: /nieprzecietnezycie
 ---
 
@@ -7,7 +7,7 @@ permalink: /nieprzecietnezycie
 <script type="text/javascript" src="data/n/nieprzecietnezycie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nieprzecietnezycie](https://patronite.pl/nieprzecietnezycie)
+# [Nieprzeciętne Życie](https://patronite.pl/nieprzecietnezycie)
 
 ## Miesięczne wsparcie
 

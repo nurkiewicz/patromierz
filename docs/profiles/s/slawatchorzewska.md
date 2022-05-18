@@ -1,5 +1,5 @@
 ---
-title: slawatchorzewska | Patromierz
+title: "slawatchorzewska | Patromierz"
 permalink: /slawatchorzewska
 ---
 
@@ -7,7 +7,7 @@ permalink: /slawatchorzewska
 <script type="text/javascript" src="data/s/slawatchorzewska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slawatchorzewska](https://patronite.pl/slawatchorzewska)
+# [Sława Tchórzewska](https://patronite.pl/slawatchorzewska)
 
 ## Miesięczne wsparcie
 

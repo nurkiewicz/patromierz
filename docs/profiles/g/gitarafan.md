@@ -1,5 +1,5 @@
 ---
-title: gitarafan | Patromierz
+title: "gitarafan | Patromierz"
 permalink: /gitarafan
 ---
 
@@ -7,7 +7,7 @@ permalink: /gitarafan
 <script type="text/javascript" src="data/g/gitarafan.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gitarafan](https://patronite.pl/gitarafan)
+# [Piotr Lessaer](https://patronite.pl/gitarafan)
 
 ## Miesięczne wsparcie
 

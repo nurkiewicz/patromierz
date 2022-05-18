@@ -1,5 +1,5 @@
 ---
-title: anestezjopodcastpl | Patromierz
+title: "anestezjopodcastpl | Patromierz"
 permalink: /anestezjopodcastpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /anestezjopodcastpl
 <script type="text/javascript" src="data/a/anestezjopodcastpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anestezjopodcastpl](https://patronite.pl/anestezjopodcastpl)
+# [Laryngoskop](https://patronite.pl/anestezjopodcastpl)
 
 ## Miesięczne wsparcie
 

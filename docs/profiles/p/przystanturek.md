@@ -1,5 +1,5 @@
 ---
-title: przystanturek | Patromierz
+title: "przystanturek | Patromierz"
 permalink: /przystanturek
 ---
 
@@ -7,7 +7,7 @@ permalink: /przystanturek
 <script type="text/javascript" src="data/p/przystanturek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przystanturek](https://patronite.pl/przystanturek)
+# [Stowarzyszenie PRZYSTAŃ](https://patronite.pl/przystanturek)
 
 ## Miesięczne wsparcie
 

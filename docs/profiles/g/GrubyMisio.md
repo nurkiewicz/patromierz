@@ -1,5 +1,5 @@
 ---
-title: GrubyMisio | Patromierz
+title: "GrubyMisio | Patromierz"
 permalink: /GrubyMisio
 ---
 
@@ -7,7 +7,7 @@ permalink: /GrubyMisio
 <script type="text/javascript" src="data/g/GrubyMisio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GrubyMisio](https://patronite.pl/GrubyMisio)
+# [Gruby Misio na hulajnodze](https://patronite.pl/GrubyMisio)
 
 ## Miesięczne wsparcie
 

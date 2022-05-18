@@ -1,5 +1,5 @@
 ---
-title: GLOWA | Patromierz
+title: "GLOWA | Patromierz"
 permalink: /GLOWA
 ---
 
@@ -7,7 +7,7 @@ permalink: /GLOWA
 <script type="text/javascript" src="data/g/GLOWA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GLOWA](https://patronite.pl/GLOWA)
+# [GŁOWA DRIFT Team](https://patronite.pl/GLOWA)
 
 ## Miesięczne wsparcie
 

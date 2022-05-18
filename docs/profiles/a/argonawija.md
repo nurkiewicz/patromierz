@@ -1,5 +1,5 @@
 ---
-title: argonawija | Patromierz
+title: "argonawija | Patromierz"
 permalink: /argonawija
 ---
 
@@ -7,7 +7,7 @@ permalink: /argonawija
 <script type="text/javascript" src="data/a/argonawija.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [argonawija](https://patronite.pl/argonawija)
+# [ARGO NAWIJA - Gry Planszowe](https://patronite.pl/argonawija)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: RESORTKOMEDII | Patromierz
+title: "RESORTKOMEDII | Patromierz"
 permalink: /RESORTKOMEDII
 ---
 
@@ -7,7 +7,7 @@ permalink: /RESORTKOMEDII
 <script type="text/javascript" src="data/r/RESORTKOMEDII.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RESORTKOMEDII](https://patronite.pl/RESORTKOMEDII)
+# [Resort Komedii](https://patronite.pl/RESORTKOMEDII)
 
 ## Miesięczne wsparcie
 

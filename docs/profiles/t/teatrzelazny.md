@@ -1,5 +1,5 @@
 ---
-title: teatrzelazny | Patromierz
+title: "teatrzelazny | Patromierz"
 permalink: /teatrzelazny
 ---
 
@@ -7,7 +7,7 @@ permalink: /teatrzelazny
 <script type="text/javascript" src="data/t/teatrzelazny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teatrzelazny](https://patronite.pl/teatrzelazny)
+# [Teatr Żelazny](https://patronite.pl/teatrzelazny)
 
 ## Miesięczne wsparcie
 

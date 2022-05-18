@@ -1,5 +1,5 @@
 ---
-title: Basia-i-Michał-duo | Patromierz
+title: "Basia-i-Michał-duo | Patromierz"
 permalink: /Basia-i-Michał-duo
 ---
 
@@ -7,7 +7,7 @@ permalink: /Basia-i-Michał-duo
 <script type="text/javascript" src="data/b/Basia-i-Michał-duo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Basia-i-Michał-duo](https://patronite.pl/Basia-i-Michał-duo)
+# [Basia Pospieszalska i Michał Bąk ](https://patronite.pl/Basia-i-Michał-duo)
 
 ## Miesięczne wsparcie
 

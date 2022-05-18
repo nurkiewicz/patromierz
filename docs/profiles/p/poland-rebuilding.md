@@ -1,5 +1,5 @@
 ---
-title: poland-rebuilding | Patromierz
+title: "poland-rebuilding | Patromierz"
 permalink: /poland-rebuilding
 ---
 
@@ -7,7 +7,7 @@ permalink: /poland-rebuilding
 <script type="text/javascript" src="data/p/poland-rebuilding.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [poland-rebuilding](https://patronite.pl/poland-rebuilding)
+# [Poland Rebuilding Team](https://patronite.pl/poland-rebuilding)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: urbexinmymind | Patromierz
+title: "urbexinmymind | Patromierz"
 permalink: /urbexinmymind
 ---
 
@@ -7,7 +7,7 @@ permalink: /urbexinmymind
 <script type="text/javascript" src="data/u/urbexinmymind.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [urbexinmymind](https://patronite.pl/urbexinmymind)
+# [URBEX IN MY MIND](https://patronite.pl/urbexinmymind)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: skatehistoria | Patromierz
+title: "skatehistoria | Patromierz"
 permalink: /skatehistoria
 ---
 
@@ -7,7 +7,7 @@ permalink: /skatehistoria
 <script type="text/javascript" src="data/s/skatehistoria.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skatehistoria](https://patronite.pl/skatehistoria)
+# [Skatehistoria.pl - Historia Polskiej Deskorolki](https://patronite.pl/skatehistoria)
 
 ## Miesięczne wsparcie
 

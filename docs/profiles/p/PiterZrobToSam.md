@@ -1,5 +1,5 @@
 ---
-title: PiterZrobToSam | Patromierz
+title: "PiterZrobToSam | Patromierz"
 permalink: /PiterZrobToSam
 ---
 
@@ -7,7 +7,7 @@ permalink: /PiterZrobToSam
 <script type="text/javascript" src="data/p/PiterZrobToSam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PiterZrobToSam](https://patronite.pl/PiterZrobToSam)
+# [Piter ZróbToSam](https://patronite.pl/PiterZrobToSam)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: PsiLuz | Patromierz
+title: "PsiLuz | Patromierz"
 permalink: /PsiLuz
 ---
 
@@ -7,7 +7,7 @@ permalink: /PsiLuz
 <script type="text/javascript" src="data/p/PsiLuz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PsiLuz](https://patronite.pl/PsiLuz)
+# [Ewelina Oleksiak](https://patronite.pl/PsiLuz)
 
 ## Miesięczne wsparcie
 

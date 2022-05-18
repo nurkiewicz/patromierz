@@ -1,5 +1,5 @@
 ---
-title: akademiagitary | Patromierz
+title: "akademiagitary | Patromierz"
 permalink: /akademiagitary
 ---
 
@@ -7,7 +7,7 @@ permalink: /akademiagitary
 <script type="text/javascript" src="data/a/akademiagitary.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akademiagitary](https://patronite.pl/akademiagitary)
+# [Akademia Gitary](https://patronite.pl/akademiagitary)
 
 ## Miesięczne wsparcie
 

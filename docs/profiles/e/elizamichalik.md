@@ -1,5 +1,5 @@
 ---
-title: elizamichalik | Patromierz
+title: "elizamichalik | Patromierz"
 permalink: /elizamichalik
 ---
 
@@ -7,7 +7,7 @@ permalink: /elizamichalik
 <script type="text/javascript" src="data/e/elizamichalik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elizamichalik](https://patronite.pl/elizamichalik)
+# [Eliza Michalik](https://patronite.pl/elizamichalik)
 
 ## Miesięczne wsparcie
 

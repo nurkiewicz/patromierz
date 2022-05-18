@@ -1,5 +1,5 @@
 ---
-title: wilczoglodna | Patromierz
+title: "wilczoglodna | Patromierz"
 permalink: /wilczoglodna
 ---
 
@@ -7,7 +7,7 @@ permalink: /wilczoglodna
 <script type="text/javascript" src="data/w/wilczoglodna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wilczoglodna](https://patronite.pl/wilczoglodna)
+# [Wilczo Głodna](https://patronite.pl/wilczoglodna)
 
 ## Miesięczne wsparcie
 

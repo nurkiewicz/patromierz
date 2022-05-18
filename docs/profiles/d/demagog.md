@@ -1,5 +1,5 @@
 ---
-title: demagog | Patromierz
+title: "demagog | Patromierz"
 permalink: /demagog
 ---
 
@@ -7,7 +7,7 @@ permalink: /demagog
 <script type="text/javascript" src="data/d/demagog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [demagog](https://patronite.pl/demagog)
+# [Demagog ](https://patronite.pl/demagog)
 
 ## Miesięczne wsparcie
 

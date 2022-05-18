@@ -1,5 +1,5 @@
 ---
-title: Muzykuj | Patromierz
+title: "Muzykuj | Patromierz"
 permalink: /Muzykuj
 ---
 
@@ -7,7 +7,7 @@ permalink: /Muzykuj
 <script type="text/javascript" src="data/m/Muzykuj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Muzykuj](https://patronite.pl/Muzykuj)
+# [MUZYKUJ PAWEŁ LEMAŃSKI](https://patronite.pl/Muzykuj)
 
 ## Miesięczne wsparcie
 

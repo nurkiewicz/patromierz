@@ -1,5 +1,5 @@
 ---
-title: MDP | Patromierz
+title: "MDP | Patromierz"
 permalink: /MDP
 ---
 
@@ -7,7 +7,7 @@ permalink: /MDP
 <script type="text/javascript" src="data/m/MDP.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MDP](https://patronite.pl/MDP)
+# [Młodzieżowa Drużyna Pożarnicza OSP Nowy Dwór Mazowiecki](https://patronite.pl/MDP)
 
 ## Miesięczne wsparcie
 

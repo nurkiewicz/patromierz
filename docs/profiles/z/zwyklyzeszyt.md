@@ -1,5 +1,5 @@
 ---
-title: zwyklyzeszyt | Patromierz
+title: "zwyklyzeszyt | Patromierz"
 permalink: /zwyklyzeszyt
 ---
 
@@ -7,7 +7,7 @@ permalink: /zwyklyzeszyt
 <script type="text/javascript" src="data/z/zwyklyzeszyt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zwyklyzeszyt](https://patronite.pl/zwyklyzeszyt)
+# [Zwykły Zeszyt](https://patronite.pl/zwyklyzeszyt)
 
 ## Miesięczne wsparcie
 

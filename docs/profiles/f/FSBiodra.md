@@ -1,5 +1,5 @@
 ---
-title: FSBiodra | Patromierz
+title: "FSBiodra | Patromierz"
 permalink: /FSBiodra
 ---
 
@@ -7,7 +7,7 @@ permalink: /FSBiodra
 <script type="text/javascript" src="data/f/FSBiodra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FSBiodra](https://patronite.pl/FSBiodra)
+# [Fajny Sprzęt Biodra](https://patronite.pl/FSBiodra)
 
 ## Miesięczne wsparcie
 

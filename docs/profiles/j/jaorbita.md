@@ -1,5 +1,5 @@
 ---
-title: jaorbita | Patromierz
+title: "jaorbita | Patromierz"
 permalink: /jaorbita
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaorbita
 <script type="text/javascript" src="data/j/jaorbita.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaorbita](https://patronite.pl/jaorbita)
+# [Anna Ulatowska](https://patronite.pl/jaorbita)
 
 ## Miesięczne wsparcie
 

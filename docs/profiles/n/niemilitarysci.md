@@ -1,5 +1,5 @@
 ---
-title: niemilitarysci | Patromierz
+title: "niemilitarysci | Patromierz"
 permalink: /niemilitarysci
 ---
 
@@ -7,7 +7,7 @@ permalink: /niemilitarysci
 <script type="text/javascript" src="data/n/niemilitarysci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niemilitarysci](https://patronite.pl/niemilitarysci)
+# [Niemilitarysci](https://patronite.pl/niemilitarysci)
 
 ## Miesięczne wsparcie
 

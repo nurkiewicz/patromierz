@@ -1,5 +1,5 @@
 ---
-title: klubjagiellonski | Patromierz
+title: "klubjagiellonski | Patromierz"
 permalink: /klubjagiellonski
 ---
 
@@ -7,7 +7,7 @@ permalink: /klubjagiellonski
 <script type="text/javascript" src="data/k/klubjagiellonski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [klubjagiellonski](https://patronite.pl/klubjagiellonski)
+# [Klub Jagielloński](https://patronite.pl/klubjagiellonski)
 
 ## Miesięczne wsparcie
 

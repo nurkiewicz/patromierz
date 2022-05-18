@@ -1,5 +1,5 @@
 ---
-title: WędkarskiOdjazd | Patromierz
+title: "WędkarskiOdjazd | Patromierz"
 permalink: /WędkarskiOdjazd
 ---
 
@@ -7,7 +7,7 @@ permalink: /WędkarskiOdjazd
 <script type="text/javascript" src="data/w/WędkarskiOdjazd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WędkarskiOdjazd](https://patronite.pl/WędkarskiOdjazd)
+# [Wędkarski Odjazd](https://patronite.pl/WędkarskiOdjazd)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ffpw | Patromierz
+title: "ffpw | Patromierz"
 permalink: /ffpw
 ---
 
@@ -7,7 +7,7 @@ permalink: /ffpw
 <script type="text/javascript" src="data/f/ffpw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ffpw](https://patronite.pl/ffpw)
+# [Fundacja Filmowa Polscy Wychodźcy](https://patronite.pl/ffpw)
 
 ## Miesięczne wsparcie
 

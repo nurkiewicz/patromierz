@@ -1,5 +1,5 @@
 ---
-title: www-facebook-com-gdanskhistory | Patromierz
+title: "www-facebook-com-gdanskhistory | Patromierz"
 permalink: /www-facebook-com-gdanskhistory
 ---
 
@@ -7,7 +7,7 @@ permalink: /www-facebook-com-gdanskhistory
 <script type="text/javascript" src="data/w/www-facebook-com-gdanskhistory.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www-facebook-com-gdanskhistory](https://patronite.pl/www-facebook-com-gdanskhistory)
+# [Gdańsk Historyczny](https://patronite.pl/www-facebook-com-gdanskhistory)
 
 ## Miesięczne wsparcie
 

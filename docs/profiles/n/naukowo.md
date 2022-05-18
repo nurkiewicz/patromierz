@@ -1,5 +1,5 @@
 ---
-title: naukowo | Patromierz
+title: "naukowo | Patromierz"
 permalink: /naukowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /naukowo
 <script type="text/javascript" src="data/n/naukowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naukowo](https://patronite.pl/naukowo)
+# [Podkast Naukowo](https://patronite.pl/naukowo)
 
 ## Miesięczne wsparcie
 

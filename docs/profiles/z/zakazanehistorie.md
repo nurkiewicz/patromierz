@@ -1,5 +1,5 @@
 ---
-title: zakazanehistorie | Patromierz
+title: "zakazanehistorie | Patromierz"
 permalink: /zakazanehistorie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zakazanehistorie
 <script type="text/javascript" src="data/z/zakazanehistorie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zakazanehistorie](https://patronite.pl/zakazanehistorie)
+# [ZAKAZANE HISTORIE](https://patronite.pl/zakazanehistorie)
 
 ## Miesięczne wsparcie
 

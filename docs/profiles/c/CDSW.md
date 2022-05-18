@@ -1,5 +1,5 @@
 ---
-title: CDSW | Patromierz
+title: "CDSW | Patromierz"
 permalink: /CDSW
 ---
 
@@ -7,7 +7,7 @@ permalink: /CDSW
 <script type="text/javascript" src="data/c/CDSW.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CDSW](https://patronite.pl/CDSW)
+# [Robert Szatecki -  Rycerz, trener i promotor](https://patronite.pl/CDSW)
 
 ## Miesięczne wsparcie
 

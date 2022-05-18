@@ -1,5 +1,5 @@
 ---
-title: TSMTB | Patromierz
+title: "TSMTB | Patromierz"
 permalink: /TSMTB
 ---
 
@@ -7,7 +7,7 @@ permalink: /TSMTB
 <script type="text/javascript" src="data/t/TSMTB.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TSMTB](https://patronite.pl/TSMTB)
+# [Stowarzyszenie Trójmiejskie Ścieżki MTB](https://patronite.pl/TSMTB)
 
 ## Miesięczne wsparcie
 

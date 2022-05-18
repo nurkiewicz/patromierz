@@ -1,5 +1,5 @@
 ---
-title: OKIEM-PILOTA | Patromierz
+title: "OKIEM-PILOTA | Patromierz"
 permalink: /OKIEM-PILOTA
 ---
 
@@ -7,7 +7,7 @@ permalink: /OKIEM-PILOTA
 <script type="text/javascript" src="data/o/OKIEM-PILOTA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OKIEM-PILOTA](https://patronite.pl/OKIEM-PILOTA)
+# [Tomasz Siembida](https://patronite.pl/OKIEM-PILOTA)
 
 ## Miesięczne wsparcie
 

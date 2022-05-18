@@ -1,5 +1,5 @@
 ---
-title: antyrama | Patromierz
+title: "antyrama | Patromierz"
 permalink: /antyrama
 ---
 
@@ -7,7 +7,7 @@ permalink: /antyrama
 <script type="text/javascript" src="data/a/antyrama.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [antyrama](https://patronite.pl/antyrama)
+# [antyRAMA](https://patronite.pl/antyrama)
 
 ## Miesięczne wsparcie
 

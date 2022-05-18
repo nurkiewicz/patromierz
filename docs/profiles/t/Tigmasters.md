@@ -1,5 +1,5 @@
 ---
-title: Tigmasters | Patromierz
+title: "Tigmasters | Patromierz"
 permalink: /Tigmasters
 ---
 
@@ -7,7 +7,7 @@ permalink: /Tigmasters
 <script type="text/javascript" src="data/t/Tigmasters.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Tigmasters](https://patronite.pl/Tigmasters)
+# [TIG MASTERS ](https://patronite.pl/Tigmasters)
 
 ## Miesięczne wsparcie
 

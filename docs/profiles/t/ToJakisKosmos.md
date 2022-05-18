@@ -1,5 +1,5 @@
 ---
-title: ToJakisKosmos | Patromierz
+title: "ToJakisKosmos | Patromierz"
 permalink: /ToJakisKosmos
 ---
 
@@ -7,7 +7,7 @@ permalink: /ToJakisKosmos
 <script type="text/javascript" src="data/t/ToJakisKosmos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ToJakisKosmos](https://patronite.pl/ToJakisKosmos)
+# [To Jakiś Kosmos!](https://patronite.pl/ToJakisKosmos)
 
 ## Miesięczne wsparcie
 

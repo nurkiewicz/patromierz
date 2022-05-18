@@ -1,5 +1,5 @@
 ---
-title: mypolitics | Patromierz
+title: "mypolitics | Patromierz"
 permalink: /mypolitics
 ---
 
@@ -7,7 +7,7 @@ permalink: /mypolitics
 <script type="text/javascript" src="data/m/mypolitics.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mypolitics](https://patronite.pl/mypolitics)
+# [myPolitics](https://patronite.pl/mypolitics)
 
 ## Miesięczne wsparcie
 

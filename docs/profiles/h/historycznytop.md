@@ -1,5 +1,5 @@
 ---
-title: historycznytop | Patromierz
+title: "historycznytop | Patromierz"
 permalink: /historycznytop
 ---
 
@@ -7,7 +7,7 @@ permalink: /historycznytop
 <script type="text/javascript" src="data/h/historycznytop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historycznytop](https://patronite.pl/historycznytop)
+# [Historyczny Top](https://patronite.pl/historycznytop)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Pyrkon | Patromierz
+title: "Pyrkon | Patromierz"
 permalink: /Pyrkon
 ---
 
@@ -7,7 +7,7 @@ permalink: /Pyrkon
 <script type="text/javascript" src="data/p/Pyrkon.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Pyrkon](https://patronite.pl/Pyrkon)
+# [Pyrkon - Fantastyczne Miejsce Spotkań](https://patronite.pl/Pyrkon)
 
 ## Miesięczne wsparcie
 

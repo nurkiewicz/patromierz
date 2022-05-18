@@ -1,5 +1,5 @@
 ---
-title: Kudlatykumpel | Patromierz
+title: "Kudlatykumpel | Patromierz"
 permalink: /Kudlatykumpel
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kudlatykumpel
 <script type="text/javascript" src="data/k/Kudlatykumpel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kudlatykumpel](https://patronite.pl/Kudlatykumpel)
+# [Fundacja Kudłaty Kumpel ](https://patronite.pl/Kudlatykumpel)
 
 ## Miesięczne wsparcie
 

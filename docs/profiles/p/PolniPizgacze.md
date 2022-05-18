@@ -1,5 +1,5 @@
 ---
-title: PolniPizgacze | Patromierz
+title: "PolniPizgacze | Patromierz"
 permalink: /PolniPizgacze
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolniPizgacze
 <script type="text/javascript" src="data/p/PolniPizgacze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolniPizgacze](https://patronite.pl/PolniPizgacze)
+# [Polni Pizgacze](https://patronite.pl/PolniPizgacze)
 
 ## Miesięczne wsparcie
 

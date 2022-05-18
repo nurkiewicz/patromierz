@@ -1,5 +1,5 @@
 ---
-title: FundacjaZwierzecaPolana | Patromierz
+title: "FundacjaZwierzecaPolana | Patromierz"
 permalink: /FundacjaZwierzecaPolana
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaZwierzecaPolana
 <script type="text/javascript" src="data/f/FundacjaZwierzecaPolana.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaZwierzecaPolana](https://patronite.pl/FundacjaZwierzecaPolana)
+# [Fundacja Zwierzęca Polana](https://patronite.pl/FundacjaZwierzecaPolana)
 
 ## Miesięczne wsparcie
 

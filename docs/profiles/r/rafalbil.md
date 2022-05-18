@@ -1,5 +1,5 @@
 ---
-title: rafalbil | Patromierz
+title: "rafalbil | Patromierz"
 permalink: /rafalbil
 ---
 
@@ -7,7 +7,7 @@ permalink: /rafalbil
 <script type="text/javascript" src="data/r/rafalbil.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rafalbil](https://patronite.pl/rafalbil)
+# [Rafał Bil](https://patronite.pl/rafalbil)
 
 ## Miesięczne wsparcie
 

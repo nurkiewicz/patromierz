@@ -1,5 +1,5 @@
 ---
-title: GKSZawisza | Patromierz
+title: "GKSZawisza | Patromierz"
 permalink: /GKSZawisza
 ---
 
@@ -7,7 +7,7 @@ permalink: /GKSZawisza
 <script type="text/javascript" src="data/g/GKSZawisza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GKSZawisza](https://patronite.pl/GKSZawisza)
+# [GKS ZAWISZA Rożnów](https://patronite.pl/GKSZawisza)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bednarski-official | Patromierz
+title: "bednarski-official | Patromierz"
 permalink: /bednarski-official
 ---
 
@@ -7,7 +7,7 @@ permalink: /bednarski-official
 <script type="text/javascript" src="data/b/bednarski-official.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bednarski-official](https://patronite.pl/bednarski-official)
+# [Przemysław Bednarski](https://patronite.pl/bednarski-official)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: podcastprowincjonalny | Patromierz
+title: "podcastprowincjonalny | Patromierz"
 permalink: /podcastprowincjonalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastprowincjonalny
 <script type="text/javascript" src="data/p/podcastprowincjonalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastprowincjonalny](https://patronite.pl/podcastprowincjonalny)
+# [Podcast Prowincjonalny zaprasza Łukasz Dziedzic](https://patronite.pl/podcastprowincjonalny)
 
 ## Miesięczne wsparcie
 

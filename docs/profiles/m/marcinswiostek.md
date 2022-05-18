@@ -1,5 +1,5 @@
 ---
-title: marcinswiostek | Patromierz
+title: "marcinswiostek | Patromierz"
 permalink: /marcinswiostek
 ---
 
@@ -7,7 +7,7 @@ permalink: /marcinswiostek
 <script type="text/javascript" src="data/m/marcinswiostek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marcinswiostek](https://patronite.pl/marcinswiostek)
+# [Marcin Świostek Foto](https://patronite.pl/marcinswiostek)
 
 ## Miesięczne wsparcie
 

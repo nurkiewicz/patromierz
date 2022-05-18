@@ -1,5 +1,5 @@
 ---
-title: jezykowe_kontrowersje | Patromierz
+title: "jezykowe_kontrowersje | Patromierz"
 permalink: /jezykowe_kontrowersje
 ---
 
@@ -7,7 +7,7 @@ permalink: /jezykowe_kontrowersje
 <script type="text/javascript" src="data/j/jezykowe_kontrowersje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jezykowe_kontrowersje](https://patronite.pl/jezykowe_kontrowersje)
+# [Językowe Kontrowersje](https://patronite.pl/jezykowe_kontrowersje)
 
 ## Miesięczne wsparcie
 

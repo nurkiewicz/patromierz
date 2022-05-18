@@ -1,5 +1,5 @@
 ---
-title: wiampl | Patromierz
+title: "wiampl | Patromierz"
 permalink: /wiampl
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiampl
 <script type="text/javascript" src="data/w/wiampl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiampl](https://patronite.pl/wiampl)
+# [WIAM.pl](https://patronite.pl/wiampl)
 
 ## Miesięczne wsparcie
 

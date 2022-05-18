@@ -1,5 +1,5 @@
 ---
-title: KSKNotec | Patromierz
+title: "KSKNotec | Patromierz"
 permalink: /KSKNotec
 ---
 
@@ -7,7 +7,7 @@ permalink: /KSKNotec
 <script type="text/javascript" src="data/k/KSKNotec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KSKNotec](https://patronite.pl/KSKNotec)
+# [KSK Noteć Inowrocław](https://patronite.pl/KSKNotec)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: dobrecialo | Patromierz
+title: "dobrecialo | Patromierz"
 permalink: /dobrecialo
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobrecialo
 <script type="text/javascript" src="data/d/dobrecialo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobrecialo](https://patronite.pl/dobrecialo)
+# [Dobre Ciało ](https://patronite.pl/dobrecialo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: RatujRyby | Patromierz
+title: "RatujRyby | Patromierz"
 permalink: /RatujRyby
 ---
 
@@ -7,7 +7,7 @@ permalink: /RatujRyby
 <script type="text/javascript" src="data/r/RatujRyby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RatujRyby](https://patronite.pl/RatujRyby)
+# [Ratuj Ryby](https://patronite.pl/RatujRyby)
 
 ## Miesięczne wsparcie
 

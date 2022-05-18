@@ -1,5 +1,5 @@
 ---
-title: Cak | Patromierz
+title: "Cak | Patromierz"
 permalink: /Cak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Cak
 <script type="text/javascript" src="data/c/Cak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Cak](https://patronite.pl/Cak)
+# [CAK](https://patronite.pl/Cak)
 
 ## Miesięczne wsparcie
 

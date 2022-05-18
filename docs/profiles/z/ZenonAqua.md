@@ -1,5 +1,5 @@
 ---
-title: ZenonAqua | Patromierz
+title: "ZenonAqua | Patromierz"
 permalink: /ZenonAqua
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZenonAqua
 <script type="text/javascript" src="data/z/ZenonAqua.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZenonAqua](https://patronite.pl/ZenonAqua)
+# [Zenon Aqua](https://patronite.pl/ZenonAqua)
 
 ## Miesięczne wsparcie
 

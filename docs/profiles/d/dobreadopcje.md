@@ -1,5 +1,5 @@
 ---
-title: dobreadopcje | Patromierz
+title: "dobreadopcje | Patromierz"
 permalink: /dobreadopcje
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobreadopcje
 <script type="text/javascript" src="data/d/dobreadopcje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobreadopcje](https://patronite.pl/dobreadopcje)
+# [Dobre Adopcje](https://patronite.pl/dobreadopcje)
 
 ## Miesięczne wsparcie
 

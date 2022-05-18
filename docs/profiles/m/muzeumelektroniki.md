@@ -1,5 +1,5 @@
 ---
-title: muzeumelektroniki | Patromierz
+title: "muzeumelektroniki | Patromierz"
 permalink: /muzeumelektroniki
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzeumelektroniki
 <script type="text/javascript" src="data/m/muzeumelektroniki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzeumelektroniki](https://patronite.pl/muzeumelektroniki)
+# [Muzeum Elektroniki](https://patronite.pl/muzeumelektroniki)
 
 ## Miesięczne wsparcie
 

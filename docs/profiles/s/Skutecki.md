@@ -1,5 +1,5 @@
 ---
-title: Skutecki | Patromierz
+title: "Skutecki | Patromierz"
 permalink: /Skutecki
 ---
 
@@ -7,7 +7,7 @@ permalink: /Skutecki
 <script type="text/javascript" src="data/s/Skutecki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Skutecki](https://patronite.pl/Skutecki)
+# [Paweł Skutecki](https://patronite.pl/Skutecki)
 
 ## Miesięczne wsparcie
 

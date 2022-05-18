@@ -1,5 +1,5 @@
 ---
-title: pelnymigarsciami | Patromierz
+title: "pelnymigarsciami | Patromierz"
 permalink: /pelnymigarsciami
 ---
 
@@ -7,7 +7,7 @@ permalink: /pelnymigarsciami
 <script type="text/javascript" src="data/p/pelnymigarsciami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pelnymigarsciami](https://patronite.pl/pelnymigarsciami)
+# [Barbara Turek ](https://patronite.pl/pelnymigarsciami)
 
 ## Miesięczne wsparcie
 

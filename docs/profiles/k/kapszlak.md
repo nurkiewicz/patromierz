@@ -1,5 +1,5 @@
 ---
-title: kapszlak | Patromierz
+title: "kapszlak | Patromierz"
 permalink: /kapszlak
 ---
 
@@ -7,7 +7,7 @@ permalink: /kapszlak
 <script type="text/javascript" src="data/k/kapszlak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kapszlak](https://patronite.pl/kapszlak)
+# [kapszlak.pl](https://patronite.pl/kapszlak)
 
 ## Miesięczne wsparcie
 

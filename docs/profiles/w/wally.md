@@ -1,5 +1,5 @@
 ---
-title: wally | Patromierz
+title: "wally | Patromierz"
 permalink: /wally
 ---
 
@@ -7,7 +7,7 @@ permalink: /wally
 <script type="text/javascript" src="data/w/wally.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wally](https://patronite.pl/wally)
+# [Wally_Ratmed](https://patronite.pl/wally)
 
 ## Miesięczne wsparcie
 

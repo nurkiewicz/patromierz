@@ -1,5 +1,5 @@
 ---
-title: srodekodsrodka | Patromierz
+title: "srodekodsrodka | Patromierz"
 permalink: /srodekodsrodka
 ---
 
@@ -7,7 +7,7 @@ permalink: /srodekodsrodka
 <script type="text/javascript" src="data/s/srodekodsrodka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [srodekodsrodka](https://patronite.pl/srodekodsrodka)
+# [Środek od środka](https://patronite.pl/srodekodsrodka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: maciejkazmierczak | Patromierz
+title: "maciejkazmierczak | Patromierz"
 permalink: /maciejkazmierczak
 ---
 
@@ -7,7 +7,7 @@ permalink: /maciejkazmierczak
 <script type="text/javascript" src="data/m/maciejkazmierczak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maciejkazmierczak](https://patronite.pl/maciejkazmierczak)
+# [Maciej Kaźmierczak](https://patronite.pl/maciejkazmierczak)
 
 ## Miesięczne wsparcie
 

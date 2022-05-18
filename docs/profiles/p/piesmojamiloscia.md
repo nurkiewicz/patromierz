@@ -1,5 +1,5 @@
 ---
-title: piesmojamiloscia | Patromierz
+title: "piesmojamiloscia | Patromierz"
 permalink: /piesmojamiloscia
 ---
 
@@ -7,7 +7,7 @@ permalink: /piesmojamiloscia
 <script type="text/javascript" src="data/p/piesmojamiloscia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piesmojamiloscia](https://patronite.pl/piesmojamiloscia)
+# [Pies moją miłością ](https://patronite.pl/piesmojamiloscia)
 
 ## Miesięczne wsparcie
 

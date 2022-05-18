@@ -1,5 +1,5 @@
 ---
-title: NaszKarawaning | Patromierz
+title: "NaszKarawaning | Patromierz"
 permalink: /NaszKarawaning
 ---
 
@@ -7,7 +7,7 @@ permalink: /NaszKarawaning
 <script type="text/javascript" src="data/n/NaszKarawaning.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NaszKarawaning](https://patronite.pl/NaszKarawaning)
+# [Nasz Karawaning](https://patronite.pl/NaszKarawaning)
 
 ## Miesięczne wsparcie
 

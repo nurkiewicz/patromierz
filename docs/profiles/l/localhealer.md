@@ -1,5 +1,5 @@
 ---
-title: localhealer | Patromierz
+title: "localhealer | Patromierz"
 permalink: /localhealer
 ---
 
@@ -7,7 +7,7 @@ permalink: /localhealer
 <script type="text/javascript" src="data/l/localhealer.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [localhealer](https://patronite.pl/localhealer)
+# [Local Healer](https://patronite.pl/localhealer)
 
 ## Miesięczne wsparcie
 

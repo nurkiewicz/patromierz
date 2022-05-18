@@ -1,5 +1,5 @@
 ---
-title: DoDIabłazGrami | Patromierz
+title: "DoDIabłazGrami | Patromierz"
 permalink: /DoDIabłazGrami
 ---
 
@@ -7,7 +7,7 @@ permalink: /DoDIabłazGrami
 <script type="text/javascript" src="data/d/DoDIabłazGrami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DoDIabłazGrami](https://patronite.pl/DoDIabłazGrami)
+# [Do Diabła z Grami ](https://patronite.pl/DoDIabłazGrami)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kingaszostko | Patromierz
+title: "kingaszostko | Patromierz"
 permalink: /kingaszostko
 ---
 
@@ -7,7 +7,7 @@ permalink: /kingaszostko
 <script type="text/javascript" src="data/k/kingaszostko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kingaszostko](https://patronite.pl/kingaszostko)
+# [Kinga Szostko](https://patronite.pl/kingaszostko)
 
 ## Miesięczne wsparcie
 

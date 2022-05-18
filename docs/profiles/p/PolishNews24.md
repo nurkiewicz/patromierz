@@ -1,5 +1,5 @@
 ---
-title: PolishNews24 | Patromierz
+title: "PolishNews24 | Patromierz"
 permalink: /PolishNews24
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolishNews24
 <script type="text/javascript" src="data/p/PolishNews24.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolishNews24](https://patronite.pl/PolishNews24)
+# [PolishNews24.com](https://patronite.pl/PolishNews24)
 
 ## Miesięczne wsparcie
 

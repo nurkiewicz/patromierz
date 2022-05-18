@@ -1,5 +1,5 @@
 ---
-title: kotwrocek | Patromierz
+title: "kotwrocek | Patromierz"
 permalink: /kotwrocek
 ---
 
@@ -7,7 +7,7 @@ permalink: /kotwrocek
 <script type="text/javascript" src="data/k/kotwrocek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kotwrocek](https://patronite.pl/kotwrocek)
+# [Przyjaciele Kota Wrocka](https://patronite.pl/kotwrocek)
 
 ## Miesięczne wsparcie
 

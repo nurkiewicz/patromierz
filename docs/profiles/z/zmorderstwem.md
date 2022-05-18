@@ -1,5 +1,5 @@
 ---
-title: zmorderstwem | Patromierz
+title: "zmorderstwem | Patromierz"
 permalink: /zmorderstwem
 ---
 
@@ -7,7 +7,7 @@ permalink: /zmorderstwem
 <script type="text/javascript" src="data/z/zmorderstwem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zmorderstwem](https://patronite.pl/zmorderstwem)
+# [Z morderstwem im do twarzy](https://patronite.pl/zmorderstwem)
 
 ## Miesięczne wsparcie
 

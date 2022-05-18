@@ -1,5 +1,5 @@
 ---
-title: KamuflazOficjalnie | Patromierz
+title: "KamuflazOficjalnie | Patromierz"
 permalink: /KamuflazOficjalnie
 ---
 
@@ -7,7 +7,7 @@ permalink: /KamuflazOficjalnie
 <script type="text/javascript" src="data/k/KamuflazOficjalnie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KamuflazOficjalnie](https://patronite.pl/KamuflazOficjalnie)
+# [Kamuflaż Oficjalnie](https://patronite.pl/KamuflazOficjalnie)
 
 ## Miesięczne wsparcie
 

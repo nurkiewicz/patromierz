@@ -1,5 +1,5 @@
 ---
-title: FishingWithAce | Patromierz
+title: "FishingWithAce | Patromierz"
 permalink: /FishingWithAce
 ---
 
@@ -7,7 +7,7 @@ permalink: /FishingWithAce
 <script type="text/javascript" src="data/f/FishingWithAce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FishingWithAce](https://patronite.pl/FishingWithAce)
+# [Tomasz Lewandowski](https://patronite.pl/FishingWithAce)
 
 ## Miesięczne wsparcie
 

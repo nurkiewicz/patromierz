@@ -1,5 +1,5 @@
 ---
-title: neuroatypowe | Patromierz
+title: "neuroatypowe | Patromierz"
 permalink: /neuroatypowe
 ---
 
@@ -7,7 +7,7 @@ permalink: /neuroatypowe
 <script type="text/javascript" src="data/n/neuroatypowe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [neuroatypowe](https://patronite.pl/neuroatypowe)
+# [Neuroatypowe](https://patronite.pl/neuroatypowe)
 
 ## Miesięczne wsparcie
 

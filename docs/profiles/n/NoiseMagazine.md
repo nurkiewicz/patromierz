@@ -1,5 +1,5 @@
 ---
-title: NoiseMagazine | Patromierz
+title: "NoiseMagazine | Patromierz"
 permalink: /NoiseMagazine
 ---
 
@@ -7,7 +7,7 @@ permalink: /NoiseMagazine
 <script type="text/javascript" src="data/n/NoiseMagazine.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NoiseMagazine](https://patronite.pl/NoiseMagazine)
+# [NOISE Magazine](https://patronite.pl/NoiseMagazine)
 
 ## Miesięczne wsparcie
 

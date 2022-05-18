@@ -1,5 +1,5 @@
 ---
-title: slasknet | Patromierz
+title: "slasknet | Patromierz"
 permalink: /slasknet
 ---
 
@@ -7,7 +7,7 @@ permalink: /slasknet
 <script type="text/javascript" src="data/s/slasknet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slasknet](https://patronite.pl/slasknet)
+# [www.slasknet.com](https://patronite.pl/slasknet)
 
 ## Miesięczne wsparcie
 

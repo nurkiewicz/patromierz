@@ -1,5 +1,5 @@
 ---
-title: fotobykaras | Patromierz
+title: "fotobykaras | Patromierz"
 permalink: /fotobykaras
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotobykaras
 <script type="text/javascript" src="data/f/fotobykaras.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotobykaras](https://patronite.pl/fotobykaras)
+# [foto by Karas](https://patronite.pl/fotobykaras)
 
 ## Miesięczne wsparcie
 

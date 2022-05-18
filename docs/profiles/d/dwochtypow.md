@@ -1,5 +1,5 @@
 ---
-title: dwochtypow | Patromierz
+title: "dwochtypow | Patromierz"
 permalink: /dwochtypow
 ---
 
@@ -7,7 +7,7 @@ permalink: /dwochtypow
 <script type="text/javascript" src="data/d/dwochtypow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dwochtypow](https://patronite.pl/dwochtypow)
+# [Dwóch Typów Podcast](https://patronite.pl/dwochtypow)
 
 ## Miesięczne wsparcie
 

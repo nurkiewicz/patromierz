@@ -1,5 +1,5 @@
 ---
-title: CityWilanów | Patromierz
+title: "CityWilanów | Patromierz"
 permalink: /CityWilanów
 ---
 
@@ -7,7 +7,7 @@ permalink: /CityWilanów
 <script type="text/javascript" src="data/c/CityWilanów.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CityWilanów](https://patronite.pl/CityWilanów)
+# [City Wilanów](https://patronite.pl/CityWilanów)
 
 ## Miesięczne wsparcie
 

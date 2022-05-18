@@ -1,5 +1,5 @@
 ---
-title: pixelretroshop | Patromierz
+title: "pixelretroshop | Patromierz"
 permalink: /pixelretroshop
 ---
 
@@ -7,7 +7,7 @@ permalink: /pixelretroshop
 <script type="text/javascript" src="data/p/pixelretroshop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pixelretroshop](https://patronite.pl/pixelretroshop)
+# [pixelretroshop.pl](https://patronite.pl/pixelretroshop)
 
 ## Miesięczne wsparcie
 

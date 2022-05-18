@@ -1,5 +1,5 @@
 ---
-title: szarosen | Patromierz
+title: "szarosen | Patromierz"
 permalink: /szarosen
 ---
 
@@ -7,7 +7,7 @@ permalink: /szarosen
 <script type="text/javascript" src="data/s/szarosen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szarosen](https://patronite.pl/szarosen)
+# [Szarosen](https://patronite.pl/szarosen)
 
 ## Miesięczne wsparcie
 

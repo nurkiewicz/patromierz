@@ -1,5 +1,5 @@
 ---
-title: strefaciekawosci | Patromierz
+title: "strefaciekawosci | Patromierz"
 permalink: /strefaciekawosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /strefaciekawosci
 <script type="text/javascript" src="data/s/strefaciekawosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strefaciekawosci](https://patronite.pl/strefaciekawosci)
+# [Strefa Ciekawości](https://patronite.pl/strefaciekawosci)
 
 ## Miesięczne wsparcie
 

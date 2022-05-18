@@ -1,5 +1,5 @@
 ---
-title: polkawmeksyku | Patromierz
+title: "polkawmeksyku | Patromierz"
 permalink: /polkawmeksyku
 ---
 
@@ -7,7 +7,7 @@ permalink: /polkawmeksyku
 <script type="text/javascript" src="data/p/polkawmeksyku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polkawmeksyku](https://patronite.pl/polkawmeksyku)
+# [POLKA W MEKSYKU](https://patronite.pl/polkawmeksyku)
 
 ## Miesięczne wsparcie
 

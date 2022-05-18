@@ -1,5 +1,5 @@
 ---
-title: ŻyjPełniąŻycia | Patromierz
+title: "ŻyjPełniąŻycia | Patromierz"
 permalink: /ŻyjPełniąŻycia
 ---
 
@@ -7,7 +7,7 @@ permalink: /ŻyjPełniąŻycia
 <script type="text/javascript" src="data/ż/ŻyjPełniąŻycia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ŻyjPełniąŻycia](https://patronite.pl/ŻyjPełniąŻycia)
+# [Żyj Pełnią Życia - Magdalena Wołochowicz](https://patronite.pl/ŻyjPełniąŻycia)
 
 ## Miesięczne wsparcie
 

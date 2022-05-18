@@ -1,5 +1,5 @@
 ---
-title: BlogMundurowy | Patromierz
+title: "BlogMundurowy | Patromierz"
 permalink: /BlogMundurowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /BlogMundurowy
 <script type="text/javascript" src="data/b/BlogMundurowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BlogMundurowy](https://patronite.pl/BlogMundurowy)
+# [Blog Mundurowy ](https://patronite.pl/BlogMundurowy)
 
 ## Miesięczne wsparcie
 

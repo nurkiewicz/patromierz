@@ -1,5 +1,5 @@
 ---
-title: orienteering | Patromierz
+title: "orienteering | Patromierz"
 permalink: /orienteering
 ---
 
@@ -7,7 +7,7 @@ permalink: /orienteering
 <script type="text/javascript" src="data/o/orienteering.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [orienteering](https://patronite.pl/orienteering)
+# [Stowarzyszenie Rozwoju Orienteeringu](https://patronite.pl/orienteering)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zosials | Patromierz
+title: "zosials | Patromierz"
 permalink: /zosials
 ---
 
@@ -7,7 +7,7 @@ permalink: /zosials
 <script type="text/javascript" src="data/z/zosials.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zosials](https://patronite.pl/zosials)
+# [Zosia LS](https://patronite.pl/zosials)
 
 ## Miesięczne wsparcie
 

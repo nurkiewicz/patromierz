@@ -1,5 +1,5 @@
 ---
-title: krowoderska | Patromierz
+title: "krowoderska | Patromierz"
 permalink: /krowoderska
 ---
 
@@ -7,7 +7,7 @@ permalink: /krowoderska
 <script type="text/javascript" src="data/k/krowoderska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [krowoderska](https://patronite.pl/krowoderska)
+# [Krowoderska.pl](https://patronite.pl/krowoderska)
 
 ## Miesięczne wsparcie
 

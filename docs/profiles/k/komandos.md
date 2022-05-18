@@ -1,5 +1,5 @@
 ---
-title: komandos | Patromierz
+title: "komandos | Patromierz"
 permalink: /komandos
 ---
 
@@ -7,7 +7,7 @@ permalink: /komandos
 <script type="text/javascript" src="data/k/komandos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [komandos](https://patronite.pl/komandos)
+# [UKS Komandos Warszawa](https://patronite.pl/komandos)
 
 ## Miesięczne wsparcie
 

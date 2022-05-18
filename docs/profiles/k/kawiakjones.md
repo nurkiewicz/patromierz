@@ -1,5 +1,5 @@
 ---
-title: kawiakjones | Patromierz
+title: "kawiakjones | Patromierz"
 permalink: /kawiakjones
 ---
 
@@ -7,7 +7,7 @@ permalink: /kawiakjones
 <script type="text/javascript" src="data/k/kawiakjones.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kawiakjones](https://patronite.pl/kawiakjones)
+# [Kawiak Jones](https://patronite.pl/kawiakjones)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: bezpestkowe | Patromierz
+title: "bezpestkowe | Patromierz"
 permalink: /bezpestkowe
 ---
 
@@ -7,7 +7,7 @@ permalink: /bezpestkowe
 <script type="text/javascript" src="data/b/bezpestkowe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bezpestkowe](https://patronite.pl/bezpestkowe)
+# [Bezpestkowe](https://patronite.pl/bezpestkowe)
 
 ## Miesięczne wsparcie
 

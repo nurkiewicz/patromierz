@@ -1,5 +1,5 @@
 ---
-title: szachmistrz | Patromierz
+title: "szachmistrz | Patromierz"
 permalink: /szachmistrz
 ---
 
@@ -7,7 +7,7 @@ permalink: /szachmistrz
 <script type="text/javascript" src="data/s/szachmistrz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szachmistrz](https://patronite.pl/szachmistrz)
+# [Maciej Sroczyński](https://patronite.pl/szachmistrz)
 
 ## Miesięczne wsparcie
 

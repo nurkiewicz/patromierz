@@ -1,5 +1,5 @@
 ---
-title: wojtusialke | Patromierz
+title: "wojtusialke | Patromierz"
 permalink: /wojtusialke
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojtusialke
 <script type="text/javascript" src="data/w/wojtusialke.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojtusialke](https://patronite.pl/wojtusialke)
+# [Wojtusialke](https://patronite.pl/wojtusialke)
 
 ## Miesięczne wsparcie
 

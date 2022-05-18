@@ -1,5 +1,5 @@
 ---
-title: greenelka | Patromierz
+title: "greenelka | Patromierz"
 permalink: /greenelka
 ---
 
@@ -7,7 +7,7 @@ permalink: /greenelka
 <script type="text/javascript" src="data/g/greenelka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [greenelka](https://patronite.pl/greenelka)
+# [Greenelka by Agnieszka Moitrot](https://patronite.pl/greenelka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: EvangelistLucasSzczepaniak | Patromierz
+title: "EvangelistLucasSzczepaniak | Patromierz"
 permalink: /EvangelistLucasSzczepaniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /EvangelistLucasSzczepaniak
 <script type="text/javascript" src="data/e/EvangelistLucasSzczepaniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EvangelistLucasSzczepaniak](https://patronite.pl/EvangelistLucasSzczepaniak)
+# [Łukasz Szczepaniak ](https://patronite.pl/EvangelistLucasSzczepaniak)
 
 ## Miesięczne wsparcie
 

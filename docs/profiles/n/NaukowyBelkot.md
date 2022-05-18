@@ -1,5 +1,5 @@
 ---
-title: NaukowyBelkot | Patromierz
+title: "NaukowyBelkot | Patromierz"
 permalink: /NaukowyBelkot
 ---
 
@@ -7,7 +7,7 @@ permalink: /NaukowyBelkot
 <script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NaukowyBelkot](https://patronite.pl/NaukowyBelkot)
+# [Uwaga Naukowy Bełkot](https://patronite.pl/NaukowyBelkot)
 
 ## Miesięczne wsparcie
 

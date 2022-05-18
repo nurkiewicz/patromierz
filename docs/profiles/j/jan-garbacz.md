@@ -1,5 +1,5 @@
 ---
-title: jan-garbacz | Patromierz
+title: "jan-garbacz | Patromierz"
 permalink: /jan-garbacz
 ---
 
@@ -7,7 +7,7 @@ permalink: /jan-garbacz
 <script type="text/javascript" src="data/j/jan-garbacz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jan-garbacz](https://patronite.pl/jan-garbacz)
+# [Jan Garbacz](https://patronite.pl/jan-garbacz)
 
 ## Miesięczne wsparcie
 

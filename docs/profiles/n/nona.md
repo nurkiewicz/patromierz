@@ -1,5 +1,5 @@
 ---
-title: nona | Patromierz
+title: "nona | Patromierz"
 permalink: /nona
 ---
 
@@ -7,7 +7,7 @@ permalink: /nona
 <script type="text/javascript" src="data/n/nona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nona](https://patronite.pl/nona)
+# [Nona](https://patronite.pl/nona)
 
 ## Miesięczne wsparcie
 

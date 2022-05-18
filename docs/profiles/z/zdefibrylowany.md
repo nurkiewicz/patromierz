@@ -1,5 +1,5 @@
 ---
-title: zdefibrylowany | Patromierz
+title: "zdefibrylowany | Patromierz"
 permalink: /zdefibrylowany
 ---
 
@@ -7,7 +7,7 @@ permalink: /zdefibrylowany
 <script type="text/javascript" src="data/z/zdefibrylowany.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zdefibrylowany](https://patronite.pl/zdefibrylowany)
+# [Zdefibrylowany](https://patronite.pl/zdefibrylowany)
 
 ## Miesięczne wsparcie
 

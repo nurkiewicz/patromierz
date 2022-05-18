@@ -1,5 +1,5 @@
 ---
-title: dobre-wiadomosci | Patromierz
+title: "dobre-wiadomosci | Patromierz"
 permalink: /dobre-wiadomosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /dobre-wiadomosci
 <script type="text/javascript" src="data/d/dobre-wiadomosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dobre-wiadomosci](https://patronite.pl/dobre-wiadomosci)
+# [Dobre Wiadomości](https://patronite.pl/dobre-wiadomosci)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: michalbrzegowy | Patromierz
+title: "michalbrzegowy | Patromierz"
 permalink: /michalbrzegowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalbrzegowy
 <script type="text/javascript" src="data/m/michalbrzegowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalbrzegowy](https://patronite.pl/michalbrzegowy)
+# [Michał Brzegowy](https://patronite.pl/michalbrzegowy)
 
 ## Miesięczne wsparcie
 

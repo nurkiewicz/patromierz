@@ -1,5 +1,5 @@
 ---
-title: egitarzystatv | Patromierz
+title: "egitarzystatv | Patromierz"
 permalink: /egitarzystatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /egitarzystatv
 <script type="text/javascript" src="data/e/egitarzystatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [egitarzystatv](https://patronite.pl/egitarzystatv)
+# [Jarosław Nyckowski - e-gitarzystaTV](https://patronite.pl/egitarzystatv)
 
 ## Miesięczne wsparcie
 

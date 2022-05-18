@@ -1,5 +1,5 @@
 ---
-title: homokomando | Patromierz
+title: "homokomando | Patromierz"
 permalink: /homokomando
 ---
 
@@ -7,7 +7,7 @@ permalink: /homokomando
 <script type="text/javascript" src="data/h/homokomando.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [homokomando](https://patronite.pl/homokomando)
+# [Homokomando](https://patronite.pl/homokomando)
 
 ## Miesięczne wsparcie
 

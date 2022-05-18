@@ -1,5 +1,5 @@
 ---
-title: lukaszszewczyk | Patromierz
+title: "lukaszszewczyk | Patromierz"
 permalink: /lukaszszewczyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /lukaszszewczyk
 <script type="text/javascript" src="data/l/lukaszszewczyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lukaszszewczyk](https://patronite.pl/lukaszszewczyk)
+# [Łukasz Szewczyk](https://patronite.pl/lukaszszewczyk)
 
 ## Miesięczne wsparcie
 

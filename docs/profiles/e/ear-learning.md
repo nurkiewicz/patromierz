@@ -1,5 +1,5 @@
 ---
-title: ear-learning | Patromierz
+title: "ear-learning | Patromierz"
 permalink: /ear-learning
 ---
 
@@ -7,7 +7,7 @@ permalink: /ear-learning
 <script type="text/javascript" src="data/e/ear-learning.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ear-learning](https://patronite.pl/ear-learning)
+# [Ear-learning](https://patronite.pl/ear-learning)
 
 ## Miesięczne wsparcie
 

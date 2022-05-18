@@ -1,5 +1,5 @@
 ---
-title: bladykris | Patromierz
+title: "bladykris | Patromierz"
 permalink: /bladykris
 ---
 
@@ -7,7 +7,7 @@ permalink: /bladykris
 <script type="text/javascript" src="data/b/bladykris.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bladykris](https://patronite.pl/bladykris)
+# [Blady Kris](https://patronite.pl/bladykris)
 
 ## Miesięczne wsparcie
 

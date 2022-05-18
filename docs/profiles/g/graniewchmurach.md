@@ -1,5 +1,5 @@
 ---
-title: graniewchmurach | Patromierz
+title: "graniewchmurach | Patromierz"
 permalink: /graniewchmurach
 ---
 
@@ -7,7 +7,7 @@ permalink: /graniewchmurach
 <script type="text/javascript" src="data/g/graniewchmurach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [graniewchmurach](https://patronite.pl/graniewchmurach)
+# [Granie w chmurach - Gry planszowe](https://patronite.pl/graniewchmurach)
 
 ## Miesięczne wsparcie
 

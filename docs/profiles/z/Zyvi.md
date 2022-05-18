@@ -1,5 +1,5 @@
 ---
-title: Zyvi | Patromierz
+title: "Zyvi | Patromierz"
 permalink: /Zyvi
 ---
 
@@ -7,7 +7,7 @@ permalink: /Zyvi
 <script type="text/javascript" src="data/z/Zyvi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Zyvi](https://patronite.pl/Zyvi)
+# [Fundacją Żyvi oraz inicjatywa FreeShop Partyzanka](https://patronite.pl/Zyvi)
 
 ## Miesięczne wsparcie
 

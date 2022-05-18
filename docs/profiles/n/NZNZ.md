@@ -1,5 +1,5 @@
 ---
-title: NZNZ | Patromierz
+title: "NZNZ | Patromierz"
 permalink: /NZNZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /NZNZ
 <script type="text/javascript" src="data/n/NZNZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NZNZ](https://patronite.pl/NZNZ)
+# [NZNŻ - Sekcja Wspomagająca](https://patronite.pl/NZNZ)
 
 ## Miesięczne wsparcie
 

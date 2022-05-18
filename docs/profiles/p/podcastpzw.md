@@ -1,5 +1,5 @@
 ---
-title: podcastpzw | Patromierz
+title: "podcastpzw | Patromierz"
 permalink: /podcastpzw
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastpzw
 <script type="text/javascript" src="data/p/podcastpzw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastpzw](https://patronite.pl/podcastpzw)
+# [Przedsiębiorcy z Wyboru](https://patronite.pl/podcastpzw)
 
 ## Miesięczne wsparcie
 

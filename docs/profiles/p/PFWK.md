@@ -1,5 +1,5 @@
 ---
-title: PFWK | Patromierz
+title: "PFWK | Patromierz"
 permalink: /PFWK
 ---
 
@@ -7,7 +7,7 @@ permalink: /PFWK
 <script type="text/javascript" src="data/p/PFWK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PFWK](https://patronite.pl/PFWK)
+# [Polska Federacja Wędkarstwa Karpiowego](https://patronite.pl/PFWK)
 
 ## Miesięczne wsparcie
 

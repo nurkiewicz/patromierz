@@ -1,5 +1,5 @@
 ---
-title: Cronica | Patromierz
+title: "Cronica | Patromierz"
 permalink: /Cronica
 ---
 
@@ -7,7 +7,7 @@ permalink: /Cronica
 <script type="text/javascript" src="data/c/Cronica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Cronica](https://patronite.pl/Cronica)
+# [Cronica ](https://patronite.pl/Cronica)
 
 ## Miesięczne wsparcie
 

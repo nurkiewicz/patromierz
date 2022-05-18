@@ -1,5 +1,5 @@
 ---
-title: akuma-inn | Patromierz
+title: "akuma-inn | Patromierz"
 permalink: /akuma-inn
 ---
 
@@ -7,7 +7,7 @@ permalink: /akuma-inn
 <script type="text/javascript" src="data/a/akuma-inn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akuma-inn](https://patronite.pl/akuma-inn)
+# [Akuma-Inn](https://patronite.pl/akuma-inn)
 
 ## Miesięczne wsparcie
 

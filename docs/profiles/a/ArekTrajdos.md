@@ -1,5 +1,5 @@
 ---
-title: ArekTrajdos | Patromierz
+title: "ArekTrajdos | Patromierz"
 permalink: /ArekTrajdos
 ---
 
@@ -7,7 +7,7 @@ permalink: /ArekTrajdos
 <script type="text/javascript" src="data/a/ArekTrajdos.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ArekTrajdos](https://patronite.pl/ArekTrajdos)
+# [Arek Trajdos](https://patronite.pl/ArekTrajdos)
 
 ## Miesięczne wsparcie
 

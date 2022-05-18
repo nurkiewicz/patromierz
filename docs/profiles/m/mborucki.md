@@ -1,5 +1,5 @@
 ---
-title: mborucki | Patromierz
+title: "mborucki | Patromierz"
 permalink: /mborucki
 ---
 
@@ -7,7 +7,7 @@ permalink: /mborucki
 <script type="text/javascript" src="data/m/mborucki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mborucki](https://patronite.pl/mborucki)
+# [Michał Jan Borucki](https://patronite.pl/mborucki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: 4latanarowerze | Patromierz
+title: "4latanarowerze | Patromierz"
 permalink: /4latanarowerze
 ---
 
@@ -7,7 +7,7 @@ permalink: /4latanarowerze
 <script type="text/javascript" src="data/4/4latanarowerze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [4latanarowerze](https://patronite.pl/4latanarowerze)
+# [4 lata na rowerze](https://patronite.pl/4latanarowerze)
 
 ## Miesięczne wsparcie
 

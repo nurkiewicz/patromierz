@@ -1,5 +1,5 @@
 ---
-title: sokayka | Patromierz
+title: "sokayka | Patromierz"
 permalink: /sokayka
 ---
 
@@ -7,7 +7,7 @@ permalink: /sokayka
 <script type="text/javascript" src="data/s/sokayka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sokayka](https://patronite.pl/sokayka)
+# [So Kayka](https://patronite.pl/sokayka)
 
 ## Miesięczne wsparcie
 

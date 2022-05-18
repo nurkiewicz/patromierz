@@ -1,5 +1,5 @@
 ---
-title: zurek | Patromierz
+title: "zurek | Patromierz"
 permalink: /zurek
 ---
 
@@ -7,7 +7,7 @@ permalink: /zurek
 <script type="text/javascript" src="data/z/zurek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zurek](https://patronite.pl/zurek)
+# [Emilia Maria Żurek](https://patronite.pl/zurek)
 
 ## Miesięczne wsparcie
 

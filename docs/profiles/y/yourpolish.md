@@ -1,5 +1,5 @@
 ---
-title: yourpolish | Patromierz
+title: "yourpolish | Patromierz"
 permalink: /yourpolish
 ---
 
@@ -7,7 +7,7 @@ permalink: /yourpolish
 <script type="text/javascript" src="data/y/yourpolish.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [yourpolish](https://patronite.pl/yourpolish)
+# [Michalina Furmaniak](https://patronite.pl/yourpolish)
 
 ## Miesięczne wsparcie
 

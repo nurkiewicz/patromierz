@@ -1,5 +1,5 @@
 ---
-title: maopowiedziane | Patromierz
+title: "maopowiedziane | Patromierz"
 permalink: /maopowiedziane
 ---
 
@@ -7,7 +7,7 @@ permalink: /maopowiedziane
 <script type="text/javascript" src="data/m/maopowiedziane.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maopowiedziane](https://patronite.pl/maopowiedziane)
+# [Mao Powiedziane](https://patronite.pl/maopowiedziane)
 
 ## Miesięczne wsparcie
 

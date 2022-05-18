@@ -1,5 +1,5 @@
 ---
-title: wjadrodyskursu | Patromierz
+title: "wjadrodyskursu | Patromierz"
 permalink: /wjadrodyskursu
 ---
 
@@ -7,7 +7,7 @@ permalink: /wjadrodyskursu
 <script type="text/javascript" src="data/w/wjadrodyskursu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wjadrodyskursu](https://patronite.pl/wjadrodyskursu)
+# [W jądro dyskursu](https://patronite.pl/wjadrodyskursu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: lilandille | Patromierz
+title: "lilandille | Patromierz"
 permalink: /lilandille
 ---
 
@@ -7,7 +7,7 @@ permalink: /lilandille
 <script type="text/javascript" src="data/l/lilandille.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lilandille](https://patronite.pl/lilandille)
+# [Polka na Bałkanach](https://patronite.pl/lilandille)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: nowylad | Patromierz
+title: "nowylad | Patromierz"
 permalink: /nowylad
 ---
 
@@ -7,7 +7,7 @@ permalink: /nowylad
 <script type="text/javascript" src="data/n/nowylad.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nowylad](https://patronite.pl/nowylad)
+# [Portal publicystyczny Nowy Ład ](https://patronite.pl/nowylad)
 
 ## Miesięczne wsparcie
 

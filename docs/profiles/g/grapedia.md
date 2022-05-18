@@ -1,5 +1,5 @@
 ---
-title: grapedia | Patromierz
+title: "grapedia | Patromierz"
 permalink: /grapedia
 ---
 
@@ -7,7 +7,7 @@ permalink: /grapedia
 <script type="text/javascript" src="data/g/grapedia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grapedia](https://patronite.pl/grapedia)
+# [GRApedia](https://patronite.pl/grapedia)
 
 ## Miesięczne wsparcie
 

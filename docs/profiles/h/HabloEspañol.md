@@ -1,5 +1,5 @@
 ---
-title: HabloEspañol | Patromierz
+title: "HabloEspañol | Patromierz"
 permalink: /HabloEspañol
 ---
 
@@ -7,7 +7,7 @@ permalink: /HabloEspañol
 <script type="text/javascript" src="data/h/HabloEspañol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HabloEspañol](https://patronite.pl/HabloEspañol)
+# [Hablo Español](https://patronite.pl/HabloEspañol)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: GameTrollTV | Patromierz
+title: "GameTrollTV | Patromierz"
 permalink: /GameTrollTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /GameTrollTV
 <script type="text/javascript" src="data/g/GameTrollTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GameTrollTV](https://patronite.pl/GameTrollTV)
+# [Game Troll](https://patronite.pl/GameTrollTV)
 
 ## Miesięczne wsparcie
 

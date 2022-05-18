@@ -1,5 +1,5 @@
 ---
-title: PrzegladBaltycki | Patromierz
+title: "PrzegladBaltycki | Patromierz"
 permalink: /PrzegladBaltycki
 ---
 
@@ -7,7 +7,7 @@ permalink: /PrzegladBaltycki
 <script type="text/javascript" src="data/p/PrzegladBaltycki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PrzegladBaltycki](https://patronite.pl/PrzegladBaltycki)
+# [Przegląd Bałtycki](https://patronite.pl/PrzegladBaltycki)
 
 ## Miesięczne wsparcie
 

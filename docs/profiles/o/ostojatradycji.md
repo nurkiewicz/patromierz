@@ -1,5 +1,5 @@
 ---
-title: ostojatradycji | Patromierz
+title: "ostojatradycji | Patromierz"
 permalink: /ostojatradycji
 ---
 
@@ -7,7 +7,7 @@ permalink: /ostojatradycji
 <script type="text/javascript" src="data/o/ostojatradycji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ostojatradycji](https://patronite.pl/ostojatradycji)
+# [Ostoja Tradycji ](https://patronite.pl/ostojatradycji)
 
 ## Miesięczne wsparcie
 

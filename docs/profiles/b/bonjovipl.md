@@ -1,5 +1,5 @@
 ---
-title: bonjovipl | Patromierz
+title: "bonjovipl | Patromierz"
 permalink: /bonjovipl
 ---
 
@@ -7,7 +7,7 @@ permalink: /bonjovipl
 <script type="text/javascript" src="data/b/bonjovipl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bonjovipl](https://patronite.pl/bonjovipl)
+# [Always - Bon Jovi Portal](https://patronite.pl/bonjovipl)
 
 ## Miesięczne wsparcie
 

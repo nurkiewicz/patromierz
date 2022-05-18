@@ -1,5 +1,5 @@
 ---
-title: RadoslawPyffel | Patromierz
+title: "RadoslawPyffel | Patromierz"
 permalink: /RadoslawPyffel
 ---
 
@@ -7,7 +7,7 @@ permalink: /RadoslawPyffel
 <script type="text/javascript" src="data/r/RadoslawPyffel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RadoslawPyffel](https://patronite.pl/RadoslawPyffel)
+# [Radosław Pyffel](https://patronite.pl/RadoslawPyffel)
 
 ## Miesięczne wsparcie
 

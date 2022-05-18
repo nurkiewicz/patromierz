@@ -1,5 +1,5 @@
 ---
-title: WojtekMistrzuje | Patromierz
+title: "WojtekMistrzuje | Patromierz"
 permalink: /WojtekMistrzuje
 ---
 
@@ -7,7 +7,7 @@ permalink: /WojtekMistrzuje
 <script type="text/javascript" src="data/w/WojtekMistrzuje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WojtekMistrzuje](https://patronite.pl/WojtekMistrzuje)
+# [Wojtek Mistrzuje](https://patronite.pl/WojtekMistrzuje)
 
 ## Miesięczne wsparcie
 

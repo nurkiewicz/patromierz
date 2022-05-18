@@ -1,5 +1,5 @@
 ---
-title: OKK | Patromierz
+title: "OKK | Patromierz"
 permalink: /OKK
 ---
 
@@ -7,7 +7,7 @@ permalink: /OKK
 <script type="text/javascript" src="data/o/OKK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OKK](https://patronite.pl/OKK)
+# [Otwocki Kalendarz Kulturalny](https://patronite.pl/OKK)
 
 ## Miesięczne wsparcie
 

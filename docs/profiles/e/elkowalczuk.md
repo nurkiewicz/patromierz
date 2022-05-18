@@ -1,5 +1,5 @@
 ---
-title: elkowalczuk | Patromierz
+title: "elkowalczuk | Patromierz"
 permalink: /elkowalczuk
 ---
 
@@ -7,7 +7,7 @@ permalink: /elkowalczuk
 <script type="text/javascript" src="data/e/elkowalczuk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elkowalczuk](https://patronite.pl/elkowalczuk)
+# [Łukasz Kowalczuk](https://patronite.pl/elkowalczuk)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wspolnymianownik | Patromierz
+title: "wspolnymianownik | Patromierz"
 permalink: /wspolnymianownik
 ---
 
@@ -7,7 +7,7 @@ permalink: /wspolnymianownik
 <script type="text/javascript" src="data/w/wspolnymianownik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wspolnymianownik](https://patronite.pl/wspolnymianownik)
+# [Natalia Chamot ](https://patronite.pl/wspolnymianownik)
 
 ## Miesięczne wsparcie
 

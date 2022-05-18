@@ -1,5 +1,5 @@
 ---
-title: PortfelAkcyjny | Patromierz
+title: "PortfelAkcyjny | Patromierz"
 permalink: /PortfelAkcyjny
 ---
 
@@ -7,7 +7,7 @@ permalink: /PortfelAkcyjny
 <script type="text/javascript" src="data/p/PortfelAkcyjny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PortfelAkcyjny](https://patronite.pl/PortfelAkcyjny)
+# [Portfel Akcyjny](https://patronite.pl/PortfelAkcyjny)
 
 ## Miesięczne wsparcie
 

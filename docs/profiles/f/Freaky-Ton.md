@@ -1,5 +1,5 @@
 ---
-title: Freaky-Ton | Patromierz
+title: "Freaky-Ton | Patromierz"
 permalink: /Freaky-Ton
 ---
 
@@ -7,7 +7,7 @@ permalink: /Freaky-Ton
 <script type="text/javascript" src="data/f/Freaky-Ton.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Freaky-Ton](https://patronite.pl/Freaky-Ton)
+# [Kamila Engelhardt](https://patronite.pl/Freaky-Ton)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wilczyca_byc | Patromierz
+title: "wilczyca_byc | Patromierz"
 permalink: /wilczyca_byc
 ---
 
@@ -7,7 +7,7 @@ permalink: /wilczyca_byc
 <script type="text/javascript" src="data/w/wilczyca_byc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wilczyca_byc](https://patronite.pl/wilczyca_byc)
+# [Wilczycą Być](https://patronite.pl/wilczyca_byc)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjajagoda | Patromierz
+title: "fundacjajagoda | Patromierz"
 permalink: /fundacjajagoda
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjajagoda
 <script type="text/javascript" src="data/f/fundacjajagoda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjajagoda](https://patronite.pl/fundacjajagoda)
+# [Fundacja Jagoda im. Jagody Pachota](https://patronite.pl/fundacjajagoda)
 
 ## Miesięczne wsparcie
 

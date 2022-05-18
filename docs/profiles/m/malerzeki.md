@@ -1,5 +1,5 @@
 ---
-title: malerzeki | Patromierz
+title: "malerzeki | Patromierz"
 permalink: /malerzeki
 ---
 
@@ -7,7 +7,7 @@ permalink: /malerzeki
 <script type="text/javascript" src="data/m/malerzeki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [malerzeki](https://patronite.pl/malerzeki)
+# [Maciej Bonk](https://patronite.pl/malerzeki)
 
 ## Miesięczne wsparcie
 

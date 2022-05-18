@@ -1,5 +1,5 @@
 ---
-title: spanko_w_plynie | Patromierz
+title: "spanko_w_plynie | Patromierz"
 permalink: /spanko_w_plynie
 ---
 
@@ -7,7 +7,7 @@ permalink: /spanko_w_plynie
 <script type="text/javascript" src="data/s/spanko_w_plynie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spanko_w_plynie](https://patronite.pl/spanko_w_plynie)
+# [Spanko w Płynie](https://patronite.pl/spanko_w_plynie)
 
 ## Miesięczne wsparcie
 

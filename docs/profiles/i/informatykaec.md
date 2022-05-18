@@ -1,5 +1,5 @@
 ---
-title: informatykaec | Patromierz
+title: "informatykaec | Patromierz"
 permalink: /informatykaec
 ---
 
@@ -7,7 +7,7 @@ permalink: /informatykaec
 <script type="text/javascript" src="data/i/informatykaec.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [informatykaec](https://patronite.pl/informatykaec)
+# [informatyka EC](https://patronite.pl/informatykaec)
 
 ## Miesięczne wsparcie
 

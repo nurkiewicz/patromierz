@@ -1,5 +1,5 @@
 ---
-title: fsr | Patromierz
+title: "fsr | Patromierz"
 permalink: /fsr
 ---
 
@@ -7,7 +7,7 @@ permalink: /fsr
 <script type="text/javascript" src="data/f/fsr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fsr](https://patronite.pl/fsr)
+# [Fundacja Świadome Rodzicielstwo](https://patronite.pl/fsr)
 
 ## Miesięczne wsparcie
 

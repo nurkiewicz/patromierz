@@ -1,5 +1,5 @@
 ---
-title: patronite-pl-tadeusz-wozniak | Patromierz
+title: "patronite-pl-tadeusz-wozniak | Patromierz"
 permalink: /patronite-pl-tadeusz-wozniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /patronite-pl-tadeusz-wozniak
 <script type="text/javascript" src="data/p/patronite-pl-tadeusz-wozniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [patronite-pl-tadeusz-wozniak](https://patronite.pl/patronite-pl-tadeusz-wozniak)
+# [Tadeusz Woźniak](https://patronite.pl/patronite-pl-tadeusz-wozniak)
 
 ## Miesięczne wsparcie
 

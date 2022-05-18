@@ -1,5 +1,5 @@
 ---
-title: lechiarugby | Patromierz
+title: "lechiarugby | Patromierz"
 permalink: /lechiarugby
 ---
 
@@ -7,7 +7,7 @@ permalink: /lechiarugby
 <script type="text/javascript" src="data/l/lechiarugby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lechiarugby](https://patronite.pl/lechiarugby)
+# [Rugby Club Lechia Gdańsk](https://patronite.pl/lechiarugby)
 
 ## Miesięczne wsparcie
 

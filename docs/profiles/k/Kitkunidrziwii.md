@@ -1,5 +1,5 @@
 ---
-title: Kitkunidrziwii | Patromierz
+title: "Kitkunidrziwii | Patromierz"
 permalink: /Kitkunidrziwii
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kitkunidrziwii
 <script type="text/javascript" src="data/k/Kitkunidrziwii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kitkunidrziwii](https://patronite.pl/Kitkunidrziwii)
+# [Bartłomiej Lis](https://patronite.pl/Kitkunidrziwii)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: NocnaLigaDarta | Patromierz
+title: "NocnaLigaDarta | Patromierz"
 permalink: /NocnaLigaDarta
 ---
 
@@ -7,7 +7,7 @@ permalink: /NocnaLigaDarta
 <script type="text/javascript" src="data/n/NocnaLigaDarta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NocnaLigaDarta](https://patronite.pl/NocnaLigaDarta)
+# [Nocna Liga Darta](https://patronite.pl/NocnaLigaDarta)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TubaOstrowa | Patromierz
+title: "TubaOstrowa | Patromierz"
 permalink: /TubaOstrowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /TubaOstrowa
 <script type="text/javascript" src="data/t/TubaOstrowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TubaOstrowa](https://patronite.pl/TubaOstrowa)
+# [Tuba Ostrowa](https://patronite.pl/TubaOstrowa)
 
 ## Miesięczne wsparcie
 

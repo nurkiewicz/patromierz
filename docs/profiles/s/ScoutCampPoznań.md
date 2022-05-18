@@ -1,5 +1,5 @@
 ---
-title: ScoutCampPoznań | Patromierz
+title: "ScoutCampPoznań | Patromierz"
 permalink: /ScoutCampPoznań
 ---
 
@@ -7,7 +7,7 @@ permalink: /ScoutCampPoznań
 <script type="text/javascript" src="data/s/ScoutCampPoznań.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ScoutCampPoznań](https://patronite.pl/ScoutCampPoznań)
+# [Scout Camp Poznań](https://patronite.pl/ScoutCampPoznań)
 
 ## Miesięczne wsparcie
 

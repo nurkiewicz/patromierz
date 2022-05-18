@@ -1,5 +1,5 @@
 ---
-title: mroooook | Patromierz
+title: "mroooook | Patromierz"
 permalink: /mroooook
 ---
 
@@ -7,7 +7,7 @@ permalink: /mroooook
 <script type="text/javascript" src="data/m/mroooook.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mroooook](https://patronite.pl/mroooook)
+# [Mroooook ](https://patronite.pl/mroooook)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: AnnaTess | Patromierz
+title: "AnnaTess | Patromierz"
 permalink: /AnnaTess
 ---
 
@@ -7,7 +7,7 @@ permalink: /AnnaTess
 <script type="text/javascript" src="data/a/AnnaTess.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AnnaTess](https://patronite.pl/AnnaTess)
+# [Anna Tess Gołębiowska](https://patronite.pl/AnnaTess)
 
 ## Miesięczne wsparcie
 

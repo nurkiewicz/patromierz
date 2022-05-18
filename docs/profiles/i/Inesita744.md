@@ -1,5 +1,5 @@
 ---
-title: Inesita744 | Patromierz
+title: "Inesita744 | Patromierz"
 permalink: /Inesita744
 ---
 
@@ -7,7 +7,7 @@ permalink: /Inesita744
 <script type="text/javascript" src="data/i/Inesita744.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Inesita744](https://patronite.pl/Inesita744)
+# [Inesita](https://patronite.pl/Inesita744)
 
 ## Miesięczne wsparcie
 

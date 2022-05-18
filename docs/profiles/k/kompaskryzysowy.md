@@ -1,5 +1,5 @@
 ---
-title: kompaskryzysowy | Patromierz
+title: "kompaskryzysowy | Patromierz"
 permalink: /kompaskryzysowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /kompaskryzysowy
 <script type="text/javascript" src="data/k/kompaskryzysowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kompaskryzysowy](https://patronite.pl/kompaskryzysowy)
+# [Kompas Kryzysowy](https://patronite.pl/kompaskryzysowy)
 
 ## Miesięczne wsparcie
 

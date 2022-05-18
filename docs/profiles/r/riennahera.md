@@ -1,5 +1,5 @@
 ---
-title: riennahera | Patromierz
+title: "riennahera | Patromierz"
 permalink: /riennahera
 ---
 
@@ -7,7 +7,7 @@ permalink: /riennahera
 <script type="text/javascript" src="data/r/riennahera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [riennahera](https://patronite.pl/riennahera)
+# [Riennahera](https://patronite.pl/riennahera)
 
 ## Miesięczne wsparcie
 

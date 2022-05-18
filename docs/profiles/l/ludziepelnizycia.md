@@ -1,5 +1,5 @@
 ---
-title: ludziepelnizycia | Patromierz
+title: "ludziepelnizycia | Patromierz"
 permalink: /ludziepelnizycia
 ---
 
@@ -7,7 +7,7 @@ permalink: /ludziepelnizycia
 <script type="text/javascript" src="data/l/ludziepelnizycia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ludziepelnizycia](https://patronite.pl/ludziepelnizycia)
+# [Ludzie Pełni Życia](https://patronite.pl/ludziepelnizycia)
 
 ## Miesięczne wsparcie
 

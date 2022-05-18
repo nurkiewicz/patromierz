@@ -1,5 +1,5 @@
 ---
-title: domowy-survival | Patromierz
+title: "domowy-survival | Patromierz"
 permalink: /domowy-survival
 ---
 
@@ -7,7 +7,7 @@ permalink: /domowy-survival
 <script type="text/javascript" src="data/d/domowy-survival.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domowy-survival](https://patronite.pl/domowy-survival)
+# [Domowy Survival](https://patronite.pl/domowy-survival)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: musicmasterclass | Patromierz
+title: "musicmasterclass | Patromierz"
 permalink: /musicmasterclass
 ---
 
@@ -7,7 +7,7 @@ permalink: /musicmasterclass
 <script type="text/javascript" src="data/m/musicmasterclass.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [musicmasterclass](https://patronite.pl/musicmasterclass)
+# [Music MasterClass](https://patronite.pl/musicmasterclass)
 
 ## Miesięczne wsparcie
 

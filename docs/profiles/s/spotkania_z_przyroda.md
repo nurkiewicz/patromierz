@@ -1,5 +1,5 @@
 ---
-title: spotkania_z_przyroda | Patromierz
+title: "spotkania_z_przyroda | Patromierz"
 permalink: /spotkania_z_przyroda
 ---
 
@@ -7,7 +7,7 @@ permalink: /spotkania_z_przyroda
 <script type="text/javascript" src="data/s/spotkania_z_przyroda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spotkania_z_przyroda](https://patronite.pl/spotkania_z_przyroda)
+# [Michał Stanecki - podkast Spotkania z Przyrodą ](https://patronite.pl/spotkania_z_przyroda)
 
 ## Miesięczne wsparcie
 

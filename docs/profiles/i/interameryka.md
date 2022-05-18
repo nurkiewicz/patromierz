@@ -1,5 +1,5 @@
 ---
-title: interameryka | Patromierz
+title: "interameryka | Patromierz"
 permalink: /interameryka
 ---
 
@@ -7,7 +7,7 @@ permalink: /interameryka
 <script type="text/javascript" src="data/i/interameryka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [interameryka](https://patronite.pl/interameryka)
+# [InterAmeryka](https://patronite.pl/interameryka)
 
 ## Miesięczne wsparcie
 

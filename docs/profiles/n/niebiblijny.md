@@ -1,5 +1,5 @@
 ---
-title: niebiblijny | Patromierz
+title: "niebiblijny | Patromierz"
 permalink: /niebiblijny
 ---
 
@@ -7,7 +7,7 @@ permalink: /niebiblijny
 <script type="text/javascript" src="data/n/niebiblijny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niebiblijny](https://patronite.pl/niebiblijny)
+# [Nie/biblijny](https://patronite.pl/niebiblijny)
 
 ## Miesięczne wsparcie
 

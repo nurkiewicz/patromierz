@@ -1,5 +1,5 @@
 ---
-title: dzieci-świata | Patromierz
+title: "dzieci-świata | Patromierz"
 permalink: /dzieci-świata
 ---
 
@@ -7,7 +7,7 @@ permalink: /dzieci-świata
 <script type="text/javascript" src="data/d/dzieci-świata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dzieci-świata](https://patronite.pl/dzieci-świata)
+# [Dzieci Świata - Marzena Figiel](https://patronite.pl/dzieci-świata)
 
 ## Miesięczne wsparcie
 

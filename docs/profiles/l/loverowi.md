@@ -1,5 +1,5 @@
 ---
-title: loverowi | Patromierz
+title: "loverowi | Patromierz"
 permalink: /loverowi
 ---
 
@@ -7,7 +7,7 @@ permalink: /loverowi
 <script type="text/javascript" src="data/l/loverowi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [loverowi](https://patronite.pl/loverowi)
+# [Loverowi](https://patronite.pl/loverowi)
 
 ## Miesięczne wsparcie
 

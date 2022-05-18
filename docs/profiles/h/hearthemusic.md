@@ -1,5 +1,5 @@
 ---
-title: hearthemusic | Patromierz
+title: "hearthemusic | Patromierz"
 permalink: /hearthemusic
 ---
 
@@ -7,7 +7,7 @@ permalink: /hearthemusic
 <script type="text/javascript" src="data/h/hearthemusic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hearthemusic](https://patronite.pl/hearthemusic)
+# [HearTheMusic (HTM)](https://patronite.pl/hearthemusic)
 
 ## Miesięczne wsparcie
 

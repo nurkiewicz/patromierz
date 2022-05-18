@@ -1,5 +1,5 @@
 ---
-title: DED87 | Patromierz
+title: "DED87 | Patromierz"
 permalink: /DED87
 ---
 

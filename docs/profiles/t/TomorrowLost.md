@@ -1,5 +1,5 @@
 ---
-title: TomorrowLost | Patromierz
+title: "TomorrowLost | Patromierz"
 permalink: /TomorrowLost
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomorrowLost
 <script type="text/javascript" src="data/t/TomorrowLost.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomorrowLost](https://patronite.pl/TomorrowLost)
+# [ToxicTree Studio](https://patronite.pl/TomorrowLost)
 
 ## Miesięczne wsparcie
 

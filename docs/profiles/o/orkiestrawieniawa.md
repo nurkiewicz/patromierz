@@ -1,5 +1,5 @@
 ---
-title: orkiestrawieniawa | Patromierz
+title: "orkiestrawieniawa | Patromierz"
 permalink: /orkiestrawieniawa
 ---
 
@@ -7,7 +7,7 @@ permalink: /orkiestrawieniawa
 <script type="text/javascript" src="data/o/orkiestrawieniawa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [orkiestrawieniawa](https://patronite.pl/orkiestrawieniawa)
+# [Orkiestra Wieniawa](https://patronite.pl/orkiestrawieniawa)
 
 ## Miesięczne wsparcie
 

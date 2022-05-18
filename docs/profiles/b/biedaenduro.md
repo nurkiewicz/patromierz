@@ -1,5 +1,5 @@
 ---
-title: biedaenduro | Patromierz
+title: "biedaenduro | Patromierz"
 permalink: /biedaenduro
 ---
 
@@ -7,7 +7,7 @@ permalink: /biedaenduro
 <script type="text/javascript" src="data/b/biedaenduro.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [biedaenduro](https://patronite.pl/biedaenduro)
+# [BiedaEnduro](https://patronite.pl/biedaenduro)
 
 ## Miesięczne wsparcie
 

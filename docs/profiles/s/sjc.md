@@ -1,5 +1,5 @@
 ---
-title: sjc | Patromierz
+title: "sjc | Patromierz"
 permalink: /sjc
 ---
 
@@ -7,7 +7,7 @@ permalink: /sjc
 <script type="text/javascript" src="data/s/sjc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sjc](https://patronite.pl/sjc)
+# [Stowarzyszenie Muzyczne Śląski Jazz Club](https://patronite.pl/sjc)
 
 ## Miesięczne wsparcie
 

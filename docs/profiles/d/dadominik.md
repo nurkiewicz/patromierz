@@ -1,5 +1,5 @@
 ---
-title: dadominik | Patromierz
+title: "dadominik | Patromierz"
 permalink: /dadominik
 ---
 
@@ -7,7 +7,7 @@ permalink: /dadominik
 <script type="text/javascript" src="data/d/dadominik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dadominik](https://patronite.pl/dadominik)
+# [DA Dominik](https://patronite.pl/dadominik)
 
 ## Miesięczne wsparcie
 

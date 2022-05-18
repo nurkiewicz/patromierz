@@ -1,5 +1,5 @@
 ---
-title: polskiekomputery | Patromierz
+title: "polskiekomputery | Patromierz"
 permalink: /polskiekomputery
 ---
 
@@ -7,7 +7,7 @@ permalink: /polskiekomputery
 <script type="text/javascript" src="data/p/polskiekomputery.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polskiekomputery](https://patronite.pl/polskiekomputery)
+# [Polskie Komputery](https://patronite.pl/polskiekomputery)
 
 ## Miesięczne wsparcie
 

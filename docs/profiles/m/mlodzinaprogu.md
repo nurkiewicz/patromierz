@@ -1,5 +1,5 @@
 ---
-title: mlodzinaprogu | Patromierz
+title: "mlodzinaprogu | Patromierz"
 permalink: /mlodzinaprogu
 ---
 
@@ -7,7 +7,7 @@ permalink: /mlodzinaprogu
 <script type="text/javascript" src="data/m/mlodzinaprogu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mlodzinaprogu](https://patronite.pl/mlodzinaprogu)
+# [Młodzi na Progu](https://patronite.pl/mlodzinaprogu)
 
 ## Miesięczne wsparcie
 

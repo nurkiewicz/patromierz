@@ -1,5 +1,5 @@
 ---
-title: duchowoscwbiznesie | Patromierz
+title: "duchowoscwbiznesie | Patromierz"
 permalink: /duchowoscwbiznesie
 ---
 
@@ -7,7 +7,7 @@ permalink: /duchowoscwbiznesie
 <script type="text/javascript" src="data/d/duchowoscwbiznesie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [duchowoscwbiznesie](https://patronite.pl/duchowoscwbiznesie)
+# [Judyta Jaworska](https://patronite.pl/duchowoscwbiznesie)
 
 ## Miesięczne wsparcie
 

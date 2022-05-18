@@ -1,5 +1,5 @@
 ---
-title: filozofiadlajanuszy | Patromierz
+title: "filozofiadlajanuszy | Patromierz"
 permalink: /filozofiadlajanuszy
 ---
 
@@ -7,7 +7,7 @@ permalink: /filozofiadlajanuszy
 <script type="text/javascript" src="data/f/filozofiadlajanuszy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filozofiadlajanuszy](https://patronite.pl/filozofiadlajanuszy)
+# [Filozofia dla januszy](https://patronite.pl/filozofiadlajanuszy)
 
 ## Miesięczne wsparcie
 

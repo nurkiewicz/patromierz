@@ -1,5 +1,5 @@
 ---
-title: 9campnou | Patromierz
+title: "9campnou | Patromierz"
 permalink: /9campnou
 ---
 
@@ -7,7 +7,7 @@ permalink: /9campnou
 <script type="text/javascript" src="data/9/9campnou.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [9campnou](https://patronite.pl/9campnou)
+# [9CAMPNOU](https://patronite.pl/9campnou)
 
 ## Miesięczne wsparcie
 

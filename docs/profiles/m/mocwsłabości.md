@@ -1,5 +1,5 @@
 ---
-title: mocwsłabości | Patromierz
+title: "mocwsłabości | Patromierz"
 permalink: /mocwsłabości
 ---
 
@@ -7,7 +7,7 @@ permalink: /mocwsłabości
 <script type="text/javascript" src="data/m/mocwsłabości.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mocwsłabości](https://patronite.pl/mocwsłabości)
+# [Przemysław Janiszewski](https://patronite.pl/mocwsłabości)
 
 ## Miesięczne wsparcie
 

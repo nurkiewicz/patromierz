@@ -1,5 +1,5 @@
 ---
-title: kochamdziwnekino | Patromierz
+title: "kochamdziwnekino | Patromierz"
 permalink: /kochamdziwnekino
 ---
 
@@ -7,7 +7,7 @@ permalink: /kochamdziwnekino
 <script type="text/javascript" src="data/k/kochamdziwnekino.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kochamdziwnekino](https://patronite.pl/kochamdziwnekino)
+# [KochamDziwneKino](https://patronite.pl/kochamdziwnekino)
 
 ## Miesięczne wsparcie
 

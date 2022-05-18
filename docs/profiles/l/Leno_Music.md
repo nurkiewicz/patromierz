@@ -1,5 +1,5 @@
 ---
-title: Leno_Music | Patromierz
+title: "Leno_Music | Patromierz"
 permalink: /Leno_Music
 ---
 
@@ -7,7 +7,7 @@ permalink: /Leno_Music
 <script type="text/javascript" src="data/l/Leno_Music.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Leno_Music](https://patronite.pl/Leno_Music)
+# [Leno Music](https://patronite.pl/Leno_Music)
 
 ## Miesięczne wsparcie
 

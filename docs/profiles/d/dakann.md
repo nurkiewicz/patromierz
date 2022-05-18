@@ -1,5 +1,5 @@
 ---
-title: dakann | Patromierz
+title: "dakann | Patromierz"
 permalink: /dakann
 ---
 
@@ -7,7 +7,7 @@ permalink: /dakann
 <script type="text/javascript" src="data/d/dakann.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dakann](https://patronite.pl/dakann)
+# [Dakann](https://patronite.pl/dakann)
 
 ## Miesięczne wsparcie
 

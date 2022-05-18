@@ -1,5 +1,5 @@
 ---
-title: Fundacja-Joachima-Lelewela | Patromierz
+title: "Fundacja-Joachima-Lelewela | Patromierz"
 permalink: /Fundacja-Joachima-Lelewela
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja-Joachima-Lelewela
 <script type="text/javascript" src="data/f/Fundacja-Joachima-Lelewela.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja-Joachima-Lelewela](https://patronite.pl/Fundacja-Joachima-Lelewela)
+# [Fundacja Joachima lelewela](https://patronite.pl/Fundacja-Joachima-Lelewela)
 
 ## Miesięczne wsparcie
 

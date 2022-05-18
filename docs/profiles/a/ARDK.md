@@ -1,5 +1,5 @@
 ---
-title: ARDK | Patromierz
+title: "ARDK | Patromierz"
 permalink: /ARDK
 ---
 
@@ -7,7 +7,7 @@ permalink: /ARDK
 <script type="text/javascript" src="data/a/ARDK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ARDK](https://patronite.pl/ARDK)
+# [Akcja Ratunkowa Dla Krakowa](https://patronite.pl/ARDK)
 
 ## Miesięczne wsparcie
 

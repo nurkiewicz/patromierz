@@ -1,5 +1,5 @@
 ---
-title: zbudzsie | Patromierz
+title: "zbudzsie | Patromierz"
 permalink: /zbudzsie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zbudzsie
 <script type="text/javascript" src="data/z/zbudzsie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zbudzsie](https://patronite.pl/zbudzsie)
+# [Zbudź się](https://patronite.pl/zbudzsie)
 
 ## Miesięczne wsparcie
 

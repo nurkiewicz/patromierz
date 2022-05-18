@@ -1,5 +1,5 @@
 ---
-title: tomaszjezewski | Patromierz
+title: "tomaszjezewski | Patromierz"
 permalink: /tomaszjezewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomaszjezewski
 <script type="text/javascript" src="data/t/tomaszjezewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomaszjezewski](https://patronite.pl/tomaszjezewski)
+# [Dr n. med. Tomasz Jeżewski](https://patronite.pl/tomaszjezewski)
 
 ## Miesięczne wsparcie
 

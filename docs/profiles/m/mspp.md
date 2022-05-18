@@ -1,5 +1,5 @@
 ---
-title: mspp | Patromierz
+title: "mspp | Patromierz"
 permalink: /mspp
 ---
 
@@ -7,7 +7,7 @@ permalink: /mspp
 <script type="text/javascript" src="data/m/mspp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mspp](https://patronite.pl/mspp)
+# [Młoda Sztuka Po Polsku](https://patronite.pl/mspp)
 
 ## Miesięczne wsparcie
 

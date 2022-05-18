@@ -1,5 +1,5 @@
 ---
-title: alicjatchorz | Patromierz
+title: "alicjatchorz | Patromierz"
 permalink: /alicjatchorz
 ---
 
@@ -7,7 +7,7 @@ permalink: /alicjatchorz
 <script type="text/javascript" src="data/a/alicjatchorz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [alicjatchorz](https://patronite.pl/alicjatchorz)
+# [Alicja Tchórz](https://patronite.pl/alicjatchorz)
 
 ## Miesięczne wsparcie
 

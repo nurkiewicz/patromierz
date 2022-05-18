@@ -1,5 +1,5 @@
 ---
-title: maciej-wielobob | Patromierz
+title: "maciej-wielobob | Patromierz"
 permalink: /maciej-wielobob
 ---
 
@@ -7,7 +7,7 @@ permalink: /maciej-wielobob
 <script type="text/javascript" src="data/m/maciej-wielobob.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maciej-wielobob](https://patronite.pl/maciej-wielobob)
+# [Maciej Wielobób](https://patronite.pl/maciej-wielobob)
 
 ## Miesięczne wsparcie
 

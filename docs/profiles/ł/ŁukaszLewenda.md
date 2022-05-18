@@ -1,5 +1,5 @@
 ---
-title: ŁukaszLewenda | Patromierz
+title: "ŁukaszLewenda | Patromierz"
 permalink: /ŁukaszLewenda
 ---
 
@@ -7,7 +7,7 @@ permalink: /ŁukaszLewenda
 <script type="text/javascript" src="data/ł/ŁukaszLewenda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ŁukaszLewenda](https://patronite.pl/ŁukaszLewenda)
+# [Łukasz Lewenda](https://patronite.pl/ŁukaszLewenda)
 
 ## Miesięczne wsparcie
 

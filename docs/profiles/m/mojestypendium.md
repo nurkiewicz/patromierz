@@ -1,5 +1,5 @@
 ---
-title: mojestypendium | Patromierz
+title: "mojestypendium | Patromierz"
 permalink: /mojestypendium
 ---
 
@@ -7,7 +7,7 @@ permalink: /mojestypendium
 <script type="text/javascript" src="data/m/mojestypendium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mojestypendium](https://patronite.pl/mojestypendium)
+# [Moje Stypendium](https://patronite.pl/mojestypendium)
 
 ## Miesięczne wsparcie
 

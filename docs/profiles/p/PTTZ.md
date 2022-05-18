@@ -1,5 +1,5 @@
 ---
-title: PTTZ | Patromierz
+title: "PTTZ | Patromierz"
 permalink: /PTTZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /PTTZ
 <script type="text/javascript" src="data/p/PTTZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PTTZ](https://patronite.pl/PTTZ)
+# [Polskie Towarzystwo Terapii Zabawą](https://patronite.pl/PTTZ)
 
 ## Miesięczne wsparcie
 

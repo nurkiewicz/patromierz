@@ -1,5 +1,5 @@
 ---
-title: bushcraftowy | Patromierz
+title: "bushcraftowy | Patromierz"
 permalink: /bushcraftowy
 ---
 
@@ -7,7 +7,7 @@ permalink: /bushcraftowy
 <script type="text/javascript" src="data/b/bushcraftowy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bushcraftowy](https://patronite.pl/bushcraftowy)
+# [Bushcraftowy](https://patronite.pl/bushcraftowy)
 
 ## Miesięczne wsparcie
 

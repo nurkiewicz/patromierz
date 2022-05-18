@@ -1,5 +1,5 @@
 ---
-title: sredniowieczny | Patromierz
+title: "sredniowieczny | Patromierz"
 permalink: /sredniowieczny
 ---
 
@@ -7,7 +7,7 @@ permalink: /sredniowieczny
 <script type="text/javascript" src="data/s/sredniowieczny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sredniowieczny](https://patronite.pl/sredniowieczny)
+# [sredniowieczny.pl](https://patronite.pl/sredniowieczny)
 
 ## Miesięczne wsparcie
 

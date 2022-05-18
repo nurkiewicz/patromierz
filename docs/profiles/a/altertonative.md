@@ -1,5 +1,5 @@
 ---
-title: altertonative | Patromierz
+title: "altertonative | Patromierz"
 permalink: /altertonative
 ---
 
@@ -7,7 +7,7 @@ permalink: /altertonative
 <script type="text/javascript" src="data/a/altertonative.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [altertonative](https://patronite.pl/altertonative)
+# [Altertonative](https://patronite.pl/altertonative)
 
 ## Miesięczne wsparcie
 

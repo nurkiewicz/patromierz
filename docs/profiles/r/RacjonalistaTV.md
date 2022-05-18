@@ -1,5 +1,5 @@
 ---
-title: RacjonalistaTV | Patromierz
+title: "RacjonalistaTV | Patromierz"
 permalink: /RacjonalistaTV
 ---
 
@@ -7,7 +7,7 @@ permalink: /RacjonalistaTV
 <script type="text/javascript" src="data/r/RacjonalistaTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RacjonalistaTV](https://patronite.pl/RacjonalistaTV)
+# [Racjonalista.tv](https://patronite.pl/RacjonalistaTV)
 
 ## Miesięczne wsparcie
 

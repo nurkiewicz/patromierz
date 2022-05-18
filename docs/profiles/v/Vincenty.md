@@ -1,5 +1,5 @@
 ---
-title: Vincenty | Patromierz
+title: "Vincenty | Patromierz"
 permalink: /Vincenty
 ---
 
@@ -7,7 +7,7 @@ permalink: /Vincenty
 <script type="text/javascript" src="data/v/Vincenty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Vincenty](https://patronite.pl/Vincenty)
+# [Vincenty Docent](https://patronite.pl/Vincenty)
 
 ## Miesięczne wsparcie
 

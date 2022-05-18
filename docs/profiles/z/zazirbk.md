@@ -1,5 +1,5 @@
 ---
-title: zazirbk | Patromierz
+title: "zazirbk | Patromierz"
 permalink: /zazirbk
 ---
 
@@ -7,7 +7,7 @@ permalink: /zazirbk
 <script type="text/javascript" src="data/z/zazirbk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zazirbk](https://patronite.pl/zazirbk)
+# [Zazi](https://patronite.pl/zazirbk)
 
 ## Miesięczne wsparcie
 

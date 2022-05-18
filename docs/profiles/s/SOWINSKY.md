@@ -1,5 +1,5 @@
 ---
-title: SOWINSKY | Patromierz
+title: "SOWINSKY | Patromierz"
 permalink: /SOWINSKY
 ---
 

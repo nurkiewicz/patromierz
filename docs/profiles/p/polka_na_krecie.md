@@ -1,5 +1,5 @@
 ---
-title: polka_na_krecie | Patromierz
+title: "polka_na_krecie | Patromierz"
 permalink: /polka_na_krecie
 ---
 
@@ -7,7 +7,7 @@ permalink: /polka_na_krecie
 <script type="text/javascript" src="data/p/polka_na_krecie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polka_na_krecie](https://patronite.pl/polka_na_krecie)
+# [Polka na Krecie](https://patronite.pl/polka_na_krecie)
 
 ## Miesięczne wsparcie
 

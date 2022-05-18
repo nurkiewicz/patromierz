@@ -1,5 +1,5 @@
 ---
-title: kvoka | Patromierz
+title: "kvoka | Patromierz"
 permalink: /kvoka
 ---
 
@@ -7,7 +7,7 @@ permalink: /kvoka
 <script type="text/javascript" src="data/k/kvoka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kvoka](https://patronite.pl/kvoka)
+# [Kvoka](https://patronite.pl/kvoka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Projektor | Patromierz
+title: "Projektor | Patromierz"
 permalink: /Projektor
 ---
 
@@ -7,7 +7,7 @@ permalink: /Projektor
 <script type="text/javascript" src="data/p/Projektor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Projektor](https://patronite.pl/Projektor)
+# [Magazyn Kulturalny "Projektor"](https://patronite.pl/Projektor)
 
 ## Miesięczne wsparcie
 

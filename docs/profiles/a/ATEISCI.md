@@ -1,5 +1,5 @@
 ---
-title: ATEISCI | Patromierz
+title: "ATEISCI | Patromierz"
 permalink: /ATEISCI
 ---
 
@@ -7,7 +7,7 @@ permalink: /ATEISCI
 <script type="text/javascript" src="data/a/ATEISCI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ATEISCI](https://patronite.pl/ATEISCI)
+# [zenon kalafaticz](https://patronite.pl/ATEISCI)
 
 ## Miesięczne wsparcie
 

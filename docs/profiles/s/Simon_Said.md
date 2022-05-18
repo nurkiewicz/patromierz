@@ -1,5 +1,5 @@
 ---
-title: Simon_Said | Patromierz
+title: "Simon_Said | Patromierz"
 permalink: /Simon_Said
 ---
 
@@ -7,7 +7,7 @@ permalink: /Simon_Said
 <script type="text/javascript" src="data/s/Simon_Said.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Simon_Said](https://patronite.pl/Simon_Said)
+# [Simon Said](https://patronite.pl/Simon_Said)
 
 ## Miesięczne wsparcie
 

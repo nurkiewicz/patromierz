@@ -1,5 +1,5 @@
 ---
-title: nantai-tv | Patromierz
+title: "nantai-tv | Patromierz"
 permalink: /nantai-tv
 ---
 
@@ -7,7 +7,7 @@ permalink: /nantai-tv
 <script type="text/javascript" src="data/n/nantai-tv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nantai-tv](https://patronite.pl/nantai-tv)
+# [Paweł Vogelsinger](https://patronite.pl/nantai-tv)
 
 ## Miesięczne wsparcie
 

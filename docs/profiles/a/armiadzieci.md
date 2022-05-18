@@ -1,5 +1,5 @@
 ---
-title: armiadzieci | Patromierz
+title: "armiadzieci | Patromierz"
 permalink: /armiadzieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /armiadzieci
 <script type="text/javascript" src="data/a/armiadzieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [armiadzieci](https://patronite.pl/armiadzieci)
+# [Armia Dzieci](https://patronite.pl/armiadzieci)
 
 ## Miesięczne wsparcie
 

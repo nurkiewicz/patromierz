@@ -1,5 +1,5 @@
 ---
-title: Szafa | Patromierz
+title: "Szafa | Patromierz"
 permalink: /Szafa
 ---
 
@@ -7,7 +7,7 @@ permalink: /Szafa
 <script type="text/javascript" src="data/s/Szafa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Szafa](https://patronite.pl/Szafa)
+# [Mocny Vlog](https://patronite.pl/Szafa)
 
 ## Miesięczne wsparcie
 

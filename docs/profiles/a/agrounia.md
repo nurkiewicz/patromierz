@@ -1,5 +1,5 @@
 ---
-title: agrounia | Patromierz
+title: "agrounia | Patromierz"
 permalink: /agrounia
 ---
 
@@ -7,7 +7,7 @@ permalink: /agrounia
 <script type="text/javascript" src="data/a/agrounia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agrounia](https://patronite.pl/agrounia)
+# [AGROunia](https://patronite.pl/agrounia)
 
 ## Miesięczne wsparcie
 

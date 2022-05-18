@@ -1,5 +1,5 @@
 ---
-title: inna-strona-instruktazu | Patromierz
+title: "inna-strona-instruktazu | Patromierz"
 permalink: /inna-strona-instruktazu
 ---
 
@@ -7,7 +7,7 @@ permalink: /inna-strona-instruktazu
 <script type="text/javascript" src="data/i/inna-strona-instruktazu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [inna-strona-instruktazu](https://patronite.pl/inna-strona-instruktazu)
+# [Inna strona instruktażu ](https://patronite.pl/inna-strona-instruktazu)
 
 ## Miesięczne wsparcie
 

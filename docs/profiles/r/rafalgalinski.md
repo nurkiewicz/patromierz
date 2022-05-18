@@ -1,5 +1,5 @@
 ---
-title: rafalgalinski | Patromierz
+title: "rafalgalinski | Patromierz"
 permalink: /rafalgalinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /rafalgalinski
 <script type="text/javascript" src="data/r/rafalgalinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rafalgalinski](https://patronite.pl/rafalgalinski)
+# [Rafal Galinski](https://patronite.pl/rafalgalinski)
 
 ## Miesięczne wsparcie
 

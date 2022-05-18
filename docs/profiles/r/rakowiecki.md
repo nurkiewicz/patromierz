@@ -1,5 +1,5 @@
 ---
-title: rakowiecki | Patromierz
+title: "rakowiecki | Patromierz"
 permalink: /rakowiecki
 ---
 
@@ -7,7 +7,7 @@ permalink: /rakowiecki
 <script type="text/javascript" src="data/r/rakowiecki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rakowiecki](https://patronite.pl/rakowiecki)
+# [Daniel Rakowiecki](https://patronite.pl/rakowiecki)
 
 ## Miesięczne wsparcie
 

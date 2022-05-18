@@ -1,5 +1,5 @@
 ---
-title: HappyRabbit | Patromierz
+title: "HappyRabbit | Patromierz"
 permalink: /HappyRabbit
 ---
 
@@ -7,7 +7,7 @@ permalink: /HappyRabbit
 <script type="text/javascript" src="data/h/HappyRabbit.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HappyRabbit](https://patronite.pl/HappyRabbit)
+# [Happy Rabbit ](https://patronite.pl/HappyRabbit)
 
 ## Miesięczne wsparcie
 

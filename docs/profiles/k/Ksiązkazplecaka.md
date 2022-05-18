@@ -1,5 +1,5 @@
 ---
-title: Ksiązkazplecaka | Patromierz
+title: "Ksiązkazplecaka | Patromierz"
 permalink: /Ksiązkazplecaka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ksiązkazplecaka
 <script type="text/javascript" src="data/k/Ksiązkazplecaka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ksiązkazplecaka](https://patronite.pl/Ksiązkazplecaka)
+# [Lech Giemza](https://patronite.pl/Ksiązkazplecaka)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: www.x-cross.pl | Patromierz
+title: "www.x-cross.pl | Patromierz"
 permalink: /www.x-cross.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.x-cross.pl
 <script type="text/javascript" src="data/w/www.x-cross.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.x-cross.pl](https://patronite.pl/www.x-cross.pl)
+# [X-cross](https://patronite.pl/www.x-cross.pl)
 
 ## Miesięczne wsparcie
 

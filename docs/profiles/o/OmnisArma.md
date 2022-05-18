@@ -1,5 +1,5 @@
 ---
-title: OmnisArma | Patromierz
+title: "OmnisArma | Patromierz"
 permalink: /OmnisArma
 ---
 
@@ -7,7 +7,7 @@ permalink: /OmnisArma
 <script type="text/javascript" src="data/o/OmnisArma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OmnisArma](https://patronite.pl/OmnisArma)
+# [Omnis Arma](https://patronite.pl/OmnisArma)
 
 ## Miesięczne wsparcie
 

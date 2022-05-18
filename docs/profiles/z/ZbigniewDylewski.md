@@ -1,5 +1,5 @@
 ---
-title: ZbigniewDylewski | Patromierz
+title: "ZbigniewDylewski | Patromierz"
 permalink: /ZbigniewDylewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZbigniewDylewski
 <script type="text/javascript" src="data/z/ZbigniewDylewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZbigniewDylewski](https://patronite.pl/ZbigniewDylewski)
+# [Zbigniew Dylewski](https://patronite.pl/ZbigniewDylewski)
 
 ## Miesięczne wsparcie
 

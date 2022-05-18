@@ -1,5 +1,5 @@
 ---
-title: tosachiny | Patromierz
+title: "tosachiny | Patromierz"
 permalink: /tosachiny
 ---
 
@@ -7,7 +7,7 @@ permalink: /tosachiny
 <script type="text/javascript" src="data/t/tosachiny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tosachiny](https://patronite.pl/tosachiny)
+# [To są Chiny](https://patronite.pl/tosachiny)
 
 ## Miesięczne wsparcie
 

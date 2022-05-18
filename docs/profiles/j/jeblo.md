@@ -1,5 +1,5 @@
 ---
-title: jeblo | Patromierz
+title: "jeblo | Patromierz"
 permalink: /jeblo
 ---
 
@@ -7,7 +7,7 @@ permalink: /jeblo
 <script type="text/javascript" src="data/j/jeblo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jeblo](https://patronite.pl/jeblo)
+# [Czy wrocławskie MPK dziś już jebło?](https://patronite.pl/jeblo)
 
 ## Miesięczne wsparcie
 

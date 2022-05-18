@@ -1,5 +1,5 @@
 ---
-title: cuzamendokupy | Patromierz
+title: "cuzamendokupy | Patromierz"
 permalink: /cuzamendokupy
 ---
 
@@ -7,7 +7,7 @@ permalink: /cuzamendokupy
 <script type="text/javascript" src="data/c/cuzamendokupy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cuzamendokupy](https://patronite.pl/cuzamendokupy)
+# [Agnieszka Marcinkowska](https://patronite.pl/cuzamendokupy)
 
 ## Miesięczne wsparcie
 

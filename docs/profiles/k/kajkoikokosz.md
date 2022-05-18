@@ -1,5 +1,5 @@
 ---
-title: kajkoikokosz | Patromierz
+title: "kajkoikokosz | Patromierz"
 permalink: /kajkoikokosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /kajkoikokosz
 <script type="text/javascript" src="data/k/kajkoikokosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kajkoikokosz](https://patronite.pl/kajkoikokosz)
+# [Kajko i Kokosz](https://patronite.pl/kajkoikokosz)
 
 ## Miesięczne wsparcie
 

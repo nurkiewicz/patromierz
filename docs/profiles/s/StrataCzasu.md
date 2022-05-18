@@ -1,5 +1,5 @@
 ---
-title: StrataCzasu | Patromierz
+title: "StrataCzasu | Patromierz"
 permalink: /StrataCzasu
 ---
 
@@ -7,7 +7,7 @@ permalink: /StrataCzasu
 <script type="text/javascript" src="data/s/StrataCzasu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [StrataCzasu](https://patronite.pl/StrataCzasu)
+# [Strata Czasu](https://patronite.pl/StrataCzasu)
 
 ## Miesięczne wsparcie
 

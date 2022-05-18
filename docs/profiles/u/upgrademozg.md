@@ -1,5 +1,5 @@
 ---
-title: upgrademozg | Patromierz
+title: "upgrademozg | Patromierz"
 permalink: /upgrademozg
 ---
 
@@ -7,7 +7,7 @@ permalink: /upgrademozg
 <script type="text/javascript" src="data/u/upgrademozg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [upgrademozg](https://patronite.pl/upgrademozg)
+# [MÓZG UPGRADE](https://patronite.pl/upgrademozg)
 
 ## Miesięczne wsparcie
 

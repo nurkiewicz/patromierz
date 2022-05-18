@@ -1,5 +1,5 @@
 ---
-title: posluchajozbrodni | Patromierz
+title: "posluchajozbrodni | Patromierz"
 permalink: /posluchajozbrodni
 ---
 
@@ -7,7 +7,7 @@ permalink: /posluchajozbrodni
 <script type="text/javascript" src="data/p/posluchajozbrodni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [posluchajozbrodni](https://patronite.pl/posluchajozbrodni)
+# [Posłuchaj o Zbrodni/ Z Autopsji](https://patronite.pl/posluchajozbrodni)
 
 ## Miesięczne wsparcie
 

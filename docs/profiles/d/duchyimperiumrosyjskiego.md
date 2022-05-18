@@ -1,5 +1,5 @@
 ---
-title: duchyimperiumrosyjskiego | Patromierz
+title: "duchyimperiumrosyjskiego | Patromierz"
 permalink: /duchyimperiumrosyjskiego
 ---
 
@@ -7,7 +7,7 @@ permalink: /duchyimperiumrosyjskiego
 <script type="text/javascript" src="data/d/duchyimperiumrosyjskiego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [duchyimperiumrosyjskiego](https://patronite.pl/duchyimperiumrosyjskiego)
+# [Duchy Imperium Rosyjskiego](https://patronite.pl/duchyimperiumrosyjskiego)
 
 ## Miesięczne wsparcie
 

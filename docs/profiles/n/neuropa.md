@@ -1,5 +1,5 @@
 ---
-title: neuropa | Patromierz
+title: "neuropa | Patromierz"
 permalink: /neuropa
 ---
 
@@ -7,7 +7,7 @@ permalink: /neuropa
 <script type="text/javascript" src="data/n/neuropa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [neuropa](https://patronite.pl/neuropa)
+# [Neuropa](https://patronite.pl/neuropa)
 
 ## Miesięczne wsparcie
 

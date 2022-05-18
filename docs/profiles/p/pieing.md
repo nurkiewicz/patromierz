@@ -1,5 +1,5 @@
 ---
-title: pieing | Patromierz
+title: "pieing | Patromierz"
 permalink: /pieing
 ---
 
@@ -7,7 +7,7 @@ permalink: /pieing
 <script type="text/javascript" src="data/p/pieing.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pieing](https://patronite.pl/pieing)
+# [PIEING Magdalena Milert ](https://patronite.pl/pieing)
 
 ## Miesięczne wsparcie
 

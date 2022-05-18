@@ -1,5 +1,5 @@
 ---
-title: anitawu | Patromierz
+title: "anitawu | Patromierz"
 permalink: /anitawu
 ---
 
@@ -7,7 +7,7 @@ permalink: /anitawu
 <script type="text/javascript" src="data/a/anitawu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anitawu](https://patronite.pl/anitawu)
+# [Anitawu](https://patronite.pl/anitawu)
 
 ## Miesięczne wsparcie
 

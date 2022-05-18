@@ -1,5 +1,5 @@
 ---
-title: PnK | Patromierz
+title: "PnK | Patromierz"
 permalink: /PnK
 ---
 
@@ -7,7 +7,7 @@ permalink: /PnK
 <script type="text/javascript" src="data/p/PnK.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PnK](https://patronite.pl/PnK)
+# [Przerwa na kawę](https://patronite.pl/PnK)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: jack_and_dog | Patromierz
+title: "jack_and_dog | Patromierz"
 permalink: /jack_and_dog
 ---
 
@@ -7,7 +7,7 @@ permalink: /jack_and_dog
 <script type="text/javascript" src="data/j/jack_and_dog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jack_and_dog](https://patronite.pl/jack_and_dog)
+# [Jacek i Diego](https://patronite.pl/jack_and_dog)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: brodate_dzwieki | Patromierz
+title: "brodate_dzwieki | Patromierz"
 permalink: /brodate_dzwieki
 ---
 
@@ -7,7 +7,7 @@ permalink: /brodate_dzwieki
 <script type="text/javascript" src="data/b/brodate_dzwieki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brodate_dzwieki](https://patronite.pl/brodate_dzwieki)
+# [Brodate Dźwięki](https://patronite.pl/brodate_dzwieki)
 
 ## Miesięczne wsparcie
 

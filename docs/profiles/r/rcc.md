@@ -1,5 +1,5 @@
 ---
-title: rcc | Patromierz
+title: "rcc | Patromierz"
 permalink: /rcc
 ---
 
@@ -7,7 +7,7 @@ permalink: /rcc
 <script type="text/javascript" src="data/r/rcc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rcc](https://patronite.pl/rcc)
+# [Rugby Club Częstochowa](https://patronite.pl/rcc)
 
 ## Miesięczne wsparcie
 

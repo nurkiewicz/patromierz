@@ -1,5 +1,5 @@
 ---
-title: justhorses | Patromierz
+title: "justhorses | Patromierz"
 permalink: /justhorses
 ---
 
@@ -7,7 +7,7 @@ permalink: /justhorses
 <script type="text/javascript" src="data/j/justhorses.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [justhorses](https://patronite.pl/justhorses)
+# [JustHorses](https://patronite.pl/justhorses)
 
 ## Miesięczne wsparcie
 

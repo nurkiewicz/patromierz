@@ -1,5 +1,5 @@
 ---
-title: jacakizycienamaxa | Patromierz
+title: "jacakizycienamaxa | Patromierz"
 permalink: /jacakizycienamaxa
 ---
 
@@ -7,7 +7,7 @@ permalink: /jacakizycienamaxa
 <script type="text/javascript" src="data/j/jacakizycienamaxa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jacakizycienamaxa](https://patronite.pl/jacakizycienamaxa)
+# [Jacaki - Życie na Maxa](https://patronite.pl/jacakizycienamaxa)
 
 ## Miesięczne wsparcie
 

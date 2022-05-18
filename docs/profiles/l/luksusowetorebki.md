@@ -1,5 +1,5 @@
 ---
-title: luksusowetorebki | Patromierz
+title: "luksusowetorebki | Patromierz"
 permalink: /luksusowetorebki
 ---
 
@@ -7,7 +7,7 @@ permalink: /luksusowetorebki
 <script type="text/javascript" src="data/l/luksusowetorebki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [luksusowetorebki](https://patronite.pl/luksusowetorebki)
+# [LUKSUSOWE TOREBKI by Lux&Happy](https://patronite.pl/luksusowetorebki)
 
 ## Miesięczne wsparcie
 

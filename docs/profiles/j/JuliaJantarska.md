@@ -1,5 +1,5 @@
 ---
-title: JuliaJantarska | Patromierz
+title: "JuliaJantarska | Patromierz"
 permalink: /JuliaJantarska
 ---
 
@@ -7,7 +7,7 @@ permalink: /JuliaJantarska
 <script type="text/javascript" src="data/j/JuliaJantarska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [JuliaJantarska](https://patronite.pl/JuliaJantarska)
+# [Julia Jantarska #roadtoMOTOGP](https://patronite.pl/JuliaJantarska)
 
 ## Miesięczne wsparcie
 

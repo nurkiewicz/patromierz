@@ -1,5 +1,5 @@
 ---
-title: DziedzictwoImperium | Patromierz
+title: "DziedzictwoImperium | Patromierz"
 permalink: /DziedzictwoImperium
 ---
 
@@ -7,7 +7,7 @@ permalink: /DziedzictwoImperium
 <script type="text/javascript" src="data/d/DziedzictwoImperium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DziedzictwoImperium](https://patronite.pl/DziedzictwoImperium)
+# [Jakub Zapała](https://patronite.pl/DziedzictwoImperium)
 
 ## Miesięczne wsparcie
 

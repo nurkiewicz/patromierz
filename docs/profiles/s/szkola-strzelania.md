@@ -1,5 +1,5 @@
 ---
-title: szkola-strzelania | Patromierz
+title: "szkola-strzelania | Patromierz"
 permalink: /szkola-strzelania
 ---
 
@@ -7,7 +7,7 @@ permalink: /szkola-strzelania
 <script type="text/javascript" src="data/s/szkola-strzelania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szkola-strzelania](https://patronite.pl/szkola-strzelania)
+# [Szkoła Strzelania](https://patronite.pl/szkola-strzelania)
 
 ## Miesięczne wsparcie
 

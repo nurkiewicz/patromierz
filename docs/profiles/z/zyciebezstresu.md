@@ -1,5 +1,5 @@
 ---
-title: zyciebezstresu | Patromierz
+title: "zyciebezstresu | Patromierz"
 permalink: /zyciebezstresu
 ---
 
@@ -7,7 +7,7 @@ permalink: /zyciebezstresu
 <script type="text/javascript" src="data/z/zyciebezstresu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zyciebezstresu](https://patronite.pl/zyciebezstresu)
+# [Życie Bez Stresu - Technika Uwalniania](https://patronite.pl/zyciebezstresu)
 
 ## Miesięczne wsparcie
 

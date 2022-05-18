@@ -1,5 +1,5 @@
 ---
-title: wymiatamywnetrza | Patromierz
+title: "wymiatamywnetrza | Patromierz"
 permalink: /wymiatamywnetrza
 ---
 
@@ -7,7 +7,7 @@ permalink: /wymiatamywnetrza
 <script type="text/javascript" src="data/w/wymiatamywnetrza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wymiatamywnetrza](https://patronite.pl/wymiatamywnetrza)
+# [WYMIATAMY WNĘTRZA w ARCHICAD - dla każdego](https://patronite.pl/wymiatamywnetrza)
 
 ## Miesięczne wsparcie
 

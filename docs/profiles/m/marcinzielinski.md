@@ -1,5 +1,5 @@
 ---
-title: marcinzielinski | Patromierz
+title: "marcinzielinski | Patromierz"
 permalink: /marcinzielinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /marcinzielinski
 <script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marcinzielinski](https://patronite.pl/marcinzielinski)
+# [Marcin Zieliński](https://patronite.pl/marcinzielinski)
 
 ## Miesięczne wsparcie
 

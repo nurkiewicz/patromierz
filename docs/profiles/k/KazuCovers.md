@@ -1,5 +1,5 @@
 ---
-title: KazuCovers | Patromierz
+title: "KazuCovers | Patromierz"
 permalink: /KazuCovers
 ---
 
@@ -7,7 +7,7 @@ permalink: /KazuCovers
 <script type="text/javascript" src="data/k/KazuCovers.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KazuCovers](https://patronite.pl/KazuCovers)
+# [Kazu](https://patronite.pl/KazuCovers)
 
 ## Miesięczne wsparcie
 

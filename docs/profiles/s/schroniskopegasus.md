@@ -1,5 +1,5 @@
 ---
-title: schroniskopegasus | Patromierz
+title: "schroniskopegasus | Patromierz"
 permalink: /schroniskopegasus
 ---
 
@@ -7,7 +7,7 @@ permalink: /schroniskopegasus
 <script type="text/javascript" src="data/s/schroniskopegasus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [schroniskopegasus](https://patronite.pl/schroniskopegasus)
+# [Schronisko Pegasus](https://patronite.pl/schroniskopegasus)
 
 ## Miesięczne wsparcie
 

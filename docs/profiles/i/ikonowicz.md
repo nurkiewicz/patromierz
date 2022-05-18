@@ -1,5 +1,5 @@
 ---
-title: ikonowicz | Patromierz
+title: "ikonowicz | Patromierz"
 permalink: /ikonowicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /ikonowicz
 <script type="text/javascript" src="data/i/ikonowicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ikonowicz](https://patronite.pl/ikonowicz)
+# [Piotr Ikonowicz](https://patronite.pl/ikonowicz)
 
 ## Miesięczne wsparcie
 

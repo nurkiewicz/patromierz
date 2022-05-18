@@ -1,5 +1,5 @@
 ---
-title: okololiteratury | Patromierz
+title: "okololiteratury | Patromierz"
 permalink: /okololiteratury
 ---
 
@@ -7,7 +7,7 @@ permalink: /okololiteratury
 <script type="text/javascript" src="data/o/okololiteratury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okololiteratury](https://patronite.pl/okololiteratury)
+# [Około Literatury](https://patronite.pl/okololiteratury)
 
 ## Miesięczne wsparcie
 

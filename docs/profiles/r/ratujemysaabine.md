@@ -1,5 +1,5 @@
 ---
-title: ratujemysaabine | Patromierz
+title: "ratujemysaabine | Patromierz"
 permalink: /ratujemysaabine
 ---
 
@@ -7,7 +7,7 @@ permalink: /ratujemysaabine
 <script type="text/javascript" src="data/r/ratujemysaabine.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ratujemysaabine](https://patronite.pl/ratujemysaabine)
+# [RatujemySAABine](https://patronite.pl/ratujemysaabine)
 
 ## Miesięczne wsparcie
 

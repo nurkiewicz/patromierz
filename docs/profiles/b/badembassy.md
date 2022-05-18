@@ -1,5 +1,5 @@
 ---
-title: badembassy | Patromierz
+title: "badembassy | Patromierz"
 permalink: /badembassy
 ---
 
@@ -7,7 +7,7 @@ permalink: /badembassy
 <script type="text/javascript" src="data/b/badembassy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [badembassy](https://patronite.pl/badembassy)
+# [Zła Ambasada ](https://patronite.pl/badembassy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: MotoryzacjaDzieciom | Patromierz
+title: "MotoryzacjaDzieciom | Patromierz"
 permalink: /MotoryzacjaDzieciom
 ---
 
@@ -7,7 +7,7 @@ permalink: /MotoryzacjaDzieciom
 <script type="text/javascript" src="data/m/MotoryzacjaDzieciom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MotoryzacjaDzieciom](https://patronite.pl/MotoryzacjaDzieciom)
+# [Fundacja Motoryzacja Dzieciom](https://patronite.pl/MotoryzacjaDzieciom)
 
 ## Miesięczne wsparcie
 

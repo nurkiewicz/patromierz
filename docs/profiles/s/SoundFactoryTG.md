@@ -1,5 +1,5 @@
 ---
-title: SoundFactoryTG | Patromierz
+title: "SoundFactoryTG | Patromierz"
 permalink: /SoundFactoryTG
 ---
 
@@ -7,7 +7,7 @@ permalink: /SoundFactoryTG
 <script type="text/javascript" src="data/s/SoundFactoryTG.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SoundFactoryTG](https://patronite.pl/SoundFactoryTG)
+# [Sound Factory](https://patronite.pl/SoundFactoryTG)
 
 ## Miesięczne wsparcie
 

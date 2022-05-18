@@ -1,5 +1,5 @@
 ---
-title: sciezkadriady | Patromierz
+title: "sciezkadriady | Patromierz"
 permalink: /sciezkadriady
 ---
 
@@ -7,7 +7,7 @@ permalink: /sciezkadriady
 <script type="text/javascript" src="data/s/sciezkadriady.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sciezkadriady](https://patronite.pl/sciezkadriady)
+# [Beata Jeleniewicz - Ścieżka Driady](https://patronite.pl/sciezkadriady)
 
 ## Miesięczne wsparcie
 

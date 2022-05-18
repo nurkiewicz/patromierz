@@ -1,5 +1,5 @@
 ---
-title: Nadredaktor | Patromierz
+title: "Nadredaktor | Patromierz"
 permalink: /Nadredaktor
 ---
 
@@ -7,7 +7,7 @@ permalink: /Nadredaktor
 <script type="text/javascript" src="data/n/Nadredaktor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Nadredaktor](https://patronite.pl/Nadredaktor)
+# [Marcin Wolski](https://patronite.pl/Nadredaktor)
 
 ## Miesięczne wsparcie
 

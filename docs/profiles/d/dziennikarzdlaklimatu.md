@@ -1,5 +1,5 @@
 ---
-title: dziennikarzdlaklimatu | Patromierz
+title: "dziennikarzdlaklimatu | Patromierz"
 permalink: /dziennikarzdlaklimatu
 ---
 
@@ -7,7 +7,7 @@ permalink: /dziennikarzdlaklimatu
 <script type="text/javascript" src="data/d/dziennikarzdlaklimatu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dziennikarzdlaklimatu](https://patronite.pl/dziennikarzdlaklimatu)
+# [Szymon Bujalski - dziennikarz dla klimatu](https://patronite.pl/dziennikarzdlaklimatu)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: negatywkatv | Patromierz
+title: "negatywkatv | Patromierz"
 permalink: /negatywkatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /negatywkatv
 <script type="text/javascript" src="data/n/negatywkatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [negatywkatv](https://patronite.pl/negatywkatv)
+# [NEGATYWKA TV](https://patronite.pl/negatywkatv)
 
 ## Miesięczne wsparcie
 

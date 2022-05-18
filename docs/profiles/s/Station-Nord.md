@@ -1,5 +1,5 @@
 ---
-title: Station-Nord | Patromierz
+title: "Station-Nord | Patromierz"
 permalink: /Station-Nord
 ---
 
@@ -7,7 +7,7 @@ permalink: /Station-Nord
 <script type="text/javascript" src="data/s/Station-Nord.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Station-Nord](https://patronite.pl/Station-Nord)
+# [Station Nord](https://patronite.pl/Station-Nord)
 
 ## Miesięczne wsparcie
 

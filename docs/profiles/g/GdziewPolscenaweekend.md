@@ -1,5 +1,5 @@
 ---
-title: GdziewPolscenaweekend | Patromierz
+title: "GdziewPolscenaweekend | Patromierz"
 permalink: /GdziewPolscenaweekend
 ---
 
@@ -7,7 +7,7 @@ permalink: /GdziewPolscenaweekend
 <script type="text/javascript" src="data/g/GdziewPolscenaweekend.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GdziewPolscenaweekend](https://patronite.pl/GdziewPolscenaweekend)
+# [Gdzie w Polsce na weekend?](https://patronite.pl/GdziewPolscenaweekend)
 
 ## Miesięczne wsparcie
 

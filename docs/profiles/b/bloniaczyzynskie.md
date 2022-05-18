@@ -1,5 +1,5 @@
 ---
-title: bloniaczyzynskie | Patromierz
+title: "bloniaczyzynskie | Patromierz"
 permalink: /bloniaczyzynskie
 ---
 
@@ -7,7 +7,7 @@ permalink: /bloniaczyzynskie
 <script type="text/javascript" src="data/b/bloniaczyzynskie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bloniaczyzynskie](https://patronite.pl/bloniaczyzynskie)
+# [Stowarzyszenie Błonia Czyżyńskie](https://patronite.pl/bloniaczyzynskie)
 
 ## Miesięczne wsparcie
 

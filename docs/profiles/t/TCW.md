@@ -1,5 +1,5 @@
 ---
-title: TCW | Patromierz
+title: "TCW | Patromierz"
 permalink: /TCW
 ---
 
@@ -7,7 +7,7 @@ permalink: /TCW
 <script type="text/javascript" src="data/t/TCW.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TCW](https://patronite.pl/TCW)
+# [Tarnobrzeskie Centrum Wolontariatu](https://patronite.pl/TCW)
 
 ## Miesięczne wsparcie
 

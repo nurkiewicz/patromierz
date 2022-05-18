@@ -1,5 +1,5 @@
 ---
-title: CamperAustraliaTrip | Patromierz
+title: "CamperAustraliaTrip | Patromierz"
 permalink: /CamperAustraliaTrip
 ---
 
@@ -7,7 +7,7 @@ permalink: /CamperAustraliaTrip
 <script type="text/javascript" src="data/c/CamperAustraliaTrip.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CamperAustraliaTrip](https://patronite.pl/CamperAustraliaTrip)
+# [Camper Australia Trip](https://patronite.pl/CamperAustraliaTrip)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: lesnapomoc | Patromierz
+title: "lesnapomoc | Patromierz"
 permalink: /lesnapomoc
 ---
 
@@ -7,7 +7,7 @@ permalink: /lesnapomoc
 <script type="text/javascript" src="data/l/lesnapomoc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lesnapomoc](https://patronite.pl/lesnapomoc)
+# [Fundacja Leśna Pomoc - Ośrodek Rehabilitacji Dzikich Zwierząt](https://patronite.pl/lesnapomoc)
 
 ## Miesięczne wsparcie
 

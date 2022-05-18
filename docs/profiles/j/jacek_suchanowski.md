@@ -1,5 +1,5 @@
 ---
-title: jacek_suchanowski | Patromierz
+title: "jacek_suchanowski | Patromierz"
 permalink: /jacek_suchanowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jacek_suchanowski
 <script type="text/javascript" src="data/j/jacek_suchanowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jacek_suchanowski](https://patronite.pl/jacek_suchanowski)
+# [Jacek Suchanowski](https://patronite.pl/jacek_suchanowski)
 
 ## Miesięczne wsparcie
 

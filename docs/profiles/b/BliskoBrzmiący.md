@@ -1,5 +1,5 @@
 ---
-title: BliskoBrzmiący | Patromierz
+title: "BliskoBrzmiący | Patromierz"
 permalink: /BliskoBrzmiący
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: anatomiajogi | Patromierz
+title: "anatomiajogi | Patromierz"
 permalink: /anatomiajogi
 ---
 
@@ -7,7 +7,7 @@ permalink: /anatomiajogi
 <script type="text/javascript" src="data/a/anatomiajogi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [anatomiajogi](https://patronite.pl/anatomiajogi)
+# [Anatomia Jogi](https://patronite.pl/anatomiajogi)
 
 ## Miesięczne wsparcie
 

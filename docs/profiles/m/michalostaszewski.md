@@ -1,5 +1,5 @@
 ---
-title: michalostaszewski | Patromierz
+title: "michalostaszewski | Patromierz"
 permalink: /michalostaszewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalostaszewski
 <script type="text/javascript" src="data/m/michalostaszewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalostaszewski](https://patronite.pl/michalostaszewski)
+# [Michał Ostaszewski](https://patronite.pl/michalostaszewski)
 
 ## Miesięczne wsparcie
 

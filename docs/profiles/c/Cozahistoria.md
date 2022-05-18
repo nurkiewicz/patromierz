@@ -1,5 +1,5 @@
 ---
-title: Cozahistoria | Patromierz
+title: "Cozahistoria | Patromierz"
 permalink: /Cozahistoria
 ---
 
@@ -7,7 +7,7 @@ permalink: /Cozahistoria
 <script type="text/javascript" src="data/c/Cozahistoria.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Cozahistoria](https://patronite.pl/Cozahistoria)
+# [Co Za Historia ](https://patronite.pl/Cozahistoria)
 
 ## Miesięczne wsparcie
 

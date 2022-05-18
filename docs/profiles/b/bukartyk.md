@@ -1,5 +1,5 @@
 ---
-title: bukartyk | Patromierz
+title: "bukartyk | Patromierz"
 permalink: /bukartyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /bukartyk
 <script type="text/javascript" src="data/b/bukartyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bukartyk](https://patronite.pl/bukartyk)
+# [Piotr Bukartyk & Ajagore](https://patronite.pl/bukartyk)
 
 ## Miesięczne wsparcie
 

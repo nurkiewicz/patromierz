@@ -1,5 +1,5 @@
 ---
-title: VlogKreta | Patromierz
+title: "VlogKreta | Patromierz"
 permalink: /VlogKreta
 ---
 
@@ -7,7 +7,7 @@ permalink: /VlogKreta
 <script type="text/javascript" src="data/v/VlogKreta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VlogKreta](https://patronite.pl/VlogKreta)
+# [Vlog Kreta](https://patronite.pl/VlogKreta)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: naukawplecaku | Patromierz
+title: "naukawplecaku | Patromierz"
 permalink: /naukawplecaku
 ---
 
@@ -7,7 +7,7 @@ permalink: /naukawplecaku
 <script type="text/javascript" src="data/n/naukawplecaku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naukawplecaku](https://patronite.pl/naukawplecaku)
+# [Nauka w plecaku - Sabina Piłat](https://patronite.pl/naukawplecaku)
 
 ## Miesięczne wsparcie
 

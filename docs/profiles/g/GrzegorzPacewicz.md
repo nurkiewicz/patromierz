@@ -1,5 +1,5 @@
 ---
-title: GrzegorzPacewicz | Patromierz
+title: "GrzegorzPacewicz | Patromierz"
 permalink: /GrzegorzPacewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /GrzegorzPacewicz
 <script type="text/javascript" src="data/g/GrzegorzPacewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GrzegorzPacewicz](https://patronite.pl/GrzegorzPacewicz)
+# [Grzegorz Pacewicz](https://patronite.pl/GrzegorzPacewicz)
 
 ## Miesięczne wsparcie
 

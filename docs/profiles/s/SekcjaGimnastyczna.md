@@ -1,5 +1,5 @@
 ---
-title: SekcjaGimnastyczna | Patromierz
+title: "SekcjaGimnastyczna | Patromierz"
 permalink: /SekcjaGimnastyczna
 ---
 
@@ -7,7 +7,7 @@ permalink: /SekcjaGimnastyczna
 <script type="text/javascript" src="data/s/SekcjaGimnastyczna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SekcjaGimnastyczna](https://patronite.pl/SekcjaGimnastyczna)
+# [Sekcja Gimnastyczna](https://patronite.pl/SekcjaGimnastyczna)
 
 ## Miesięczne wsparcie
 

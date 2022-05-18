@@ -1,5 +1,5 @@
 ---
-title: fundacja_kundelek | Patromierz
+title: "fundacja_kundelek | Patromierz"
 permalink: /fundacja_kundelek
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja_kundelek
 <script type="text/javascript" src="data/f/fundacja_kundelek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja_kundelek](https://patronite.pl/fundacja_kundelek)
+# [Fundacja Kundelek](https://patronite.pl/fundacja_kundelek)
 
 ## Miesięczne wsparcie
 

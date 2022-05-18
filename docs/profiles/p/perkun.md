@@ -1,5 +1,5 @@
 ---
-title: perkun | Patromierz
+title: "perkun | Patromierz"
 permalink: /perkun
 ---
 
@@ -7,7 +7,7 @@ permalink: /perkun
 <script type="text/javascript" src="data/p/perkun.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [perkun](https://patronite.pl/perkun)
+# [Stowarzyszenie Eksploracji Perkun ](https://patronite.pl/perkun)
 
 ## Miesięczne wsparcie
 

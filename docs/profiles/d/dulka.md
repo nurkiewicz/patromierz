@@ -1,5 +1,5 @@
 ---
-title: dulka | Patromierz
+title: "dulka | Patromierz"
 permalink: /dulka
 ---
 
@@ -7,7 +7,7 @@ permalink: /dulka
 <script type="text/javascript" src="data/d/dulka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dulka](https://patronite.pl/dulka)
+# [Jan Dulka](https://patronite.pl/dulka)
 
 ## Miesięczne wsparcie
 

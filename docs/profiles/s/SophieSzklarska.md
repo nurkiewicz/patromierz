@@ -1,5 +1,5 @@
 ---
-title: SophieSzklarska | Patromierz
+title: "SophieSzklarska | Patromierz"
 permalink: /SophieSzklarska
 ---
 
@@ -7,7 +7,7 @@ permalink: /SophieSzklarska
 <script type="text/javascript" src="data/s/SophieSzklarska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SophieSzklarska](https://patronite.pl/SophieSzklarska)
+# [Sophie Szklarska](https://patronite.pl/SophieSzklarska)
 
 ## Miesięczne wsparcie
 

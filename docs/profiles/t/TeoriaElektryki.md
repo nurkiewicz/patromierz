@@ -1,5 +1,5 @@
 ---
-title: TeoriaElektryki | Patromierz
+title: "TeoriaElektryki | Patromierz"
 permalink: /TeoriaElektryki
 ---
 
@@ -7,7 +7,7 @@ permalink: /TeoriaElektryki
 <script type="text/javascript" src="data/t/TeoriaElektryki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TeoriaElektryki](https://patronite.pl/TeoriaElektryki)
+# [TeoriaElektryki.pl](https://patronite.pl/TeoriaElektryki)
 
 ## Miesięczne wsparcie
 

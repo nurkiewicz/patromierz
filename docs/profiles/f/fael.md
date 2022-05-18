@@ -1,5 +1,5 @@
 ---
-title: fael | Patromierz
+title: "fael | Patromierz"
 permalink: /fael
 ---
 
@@ -7,7 +7,7 @@ permalink: /fael
 <script type="text/javascript" src="data/f/fael.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fael](https://patronite.pl/fael)
+# [Rafał Południok](https://patronite.pl/fael)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Chryzantema | Patromierz
+title: "Chryzantema | Patromierz"
 permalink: /Chryzantema
 ---
 
@@ -7,7 +7,7 @@ permalink: /Chryzantema
 <script type="text/javascript" src="data/c/Chryzantema.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Chryzantema](https://patronite.pl/Chryzantema)
+# [W Kraju Chryzantemy - Historia Japonii](https://patronite.pl/Chryzantema)
 
 ## Miesięczne wsparcie
 

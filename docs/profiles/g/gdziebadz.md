@@ -1,5 +1,5 @@
 ---
-title: gdziebadz | Patromierz
+title: "gdziebadz | Patromierz"
 permalink: /gdziebadz
 ---
 
@@ -7,7 +7,7 @@ permalink: /gdziebadz
 <script type="text/javascript" src="data/g/gdziebadz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gdziebadz](https://patronite.pl/gdziebadz)
+# [GDZIE BĄDŹ](https://patronite.pl/gdziebadz)
 
 ## Miesięczne wsparcie
 

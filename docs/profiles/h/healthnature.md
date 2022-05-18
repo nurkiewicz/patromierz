@@ -1,5 +1,5 @@
 ---
-title: healthnature | Patromierz
+title: "healthnature | Patromierz"
 permalink: /healthnature
 ---
 
@@ -7,7 +7,7 @@ permalink: /healthnature
 <script type="text/javascript" src="data/h/healthnature.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [healthnature](https://patronite.pl/healthnature)
+# [Health & Nature](https://patronite.pl/healthnature)
 
 ## Miesięczne wsparcie
 

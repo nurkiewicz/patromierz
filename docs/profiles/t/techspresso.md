@@ -1,5 +1,5 @@
 ---
-title: techspresso | Patromierz
+title: "techspresso | Patromierz"
 permalink: /techspresso
 ---
 
@@ -7,7 +7,7 @@ permalink: /techspresso
 <script type="text/javascript" src="data/t/techspresso.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [techspresso](https://patronite.pl/techspresso)
+# [TECHSPRESSO.CAFE](https://patronite.pl/techspresso)
 
 ## Miesięczne wsparcie
 

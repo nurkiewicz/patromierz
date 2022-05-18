@@ -1,5 +1,5 @@
 ---
-title: KonkursyKreatywne | Patromierz
+title: "KonkursyKreatywne | Patromierz"
 permalink: /KonkursyKreatywne
 ---
 
@@ -7,7 +7,7 @@ permalink: /KonkursyKreatywne
 <script type="text/javascript" src="data/k/KonkursyKreatywne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KonkursyKreatywne](https://patronite.pl/KonkursyKreatywne)
+# [Konkursy Kreatywne](https://patronite.pl/KonkursyKreatywne)
 
 ## Miesięczne wsparcie
 

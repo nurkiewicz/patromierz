@@ -1,5 +1,5 @@
 ---
-title: MartaBenk | Patromierz
+title: "MartaBenk | Patromierz"
 permalink: /MartaBenk
 ---
 
@@ -7,7 +7,7 @@ permalink: /MartaBenk
 <script type="text/javascript" src="data/m/MartaBenk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MartaBenk](https://patronite.pl/MartaBenk)
+# [Marta Benk - Organistka PL](https://patronite.pl/MartaBenk)
 
 ## Miesięczne wsparcie
 

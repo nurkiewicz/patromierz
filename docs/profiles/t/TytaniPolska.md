@@ -1,5 +1,5 @@
 ---
-title: TytaniPolska | Patromierz
+title: "TytaniPolska | Patromierz"
 permalink: /TytaniPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /TytaniPolska
 <script type="text/javascript" src="data/t/TytaniPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TytaniPolska](https://patronite.pl/TytaniPolska)
+# [Tytani Polska](https://patronite.pl/TytaniPolska)
 
 ## Miesięczne wsparcie
 

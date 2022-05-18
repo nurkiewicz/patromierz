@@ -1,5 +1,5 @@
 ---
-title: kartografianiepraktyczna | Patromierz
+title: "kartografianiepraktyczna | Patromierz"
 permalink: /kartografianiepraktyczna
 ---
 
@@ -7,7 +7,7 @@ permalink: /kartografianiepraktyczna
 <script type="text/javascript" src="data/k/kartografianiepraktyczna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kartografianiepraktyczna](https://patronite.pl/kartografianiepraktyczna)
+# [Kartografia Niepraktyczna](https://patronite.pl/kartografianiepraktyczna)
 
 ## Miesięczne wsparcie
 

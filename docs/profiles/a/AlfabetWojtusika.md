@@ -1,5 +1,5 @@
 ---
-title: AlfabetWojtusika | Patromierz
+title: "AlfabetWojtusika | Patromierz"
 permalink: /AlfabetWojtusika
 ---
 
@@ -7,7 +7,7 @@ permalink: /AlfabetWojtusika
 <script type="text/javascript" src="data/a/AlfabetWojtusika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AlfabetWojtusika](https://patronite.pl/AlfabetWojtusika)
+# [Alfabet Wojtusika](https://patronite.pl/AlfabetWojtusika)
 
 ## Miesięczne wsparcie
 

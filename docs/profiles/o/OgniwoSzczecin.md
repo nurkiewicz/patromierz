@@ -1,5 +1,5 @@
 ---
-title: OgniwoSzczecin | Patromierz
+title: "OgniwoSzczecin | Patromierz"
 permalink: /OgniwoSzczecin
 ---
 
@@ -7,7 +7,7 @@ permalink: /OgniwoSzczecin
 <script type="text/javascript" src="data/o/OgniwoSzczecin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OgniwoSzczecin](https://patronite.pl/OgniwoSzczecin)
+# [Ogniwo Szczecin](https://patronite.pl/OgniwoSzczecin)
 
 ## Miesięczne wsparcie
 

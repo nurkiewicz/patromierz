@@ -1,5 +1,5 @@
 ---
-title: survivaltechpl | Patromierz
+title: "survivaltechpl | Patromierz"
 permalink: /survivaltechpl
 ---
 

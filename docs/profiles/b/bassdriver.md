@@ -1,5 +1,5 @@
 ---
-title: bassdriver | Patromierz
+title: "bassdriver | Patromierz"
 permalink: /bassdriver
 ---
 
@@ -7,7 +7,7 @@ permalink: /bassdriver
 <script type="text/javascript" src="data/b/bassdriver.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bassdriver](https://patronite.pl/bassdriver)
+# [Bassdriver](https://patronite.pl/bassdriver)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Bartosh | Patromierz
+title: "Bartosh | Patromierz"
 permalink: /Bartosh
 ---
 

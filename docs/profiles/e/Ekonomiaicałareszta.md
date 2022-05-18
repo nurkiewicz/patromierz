@@ -1,5 +1,5 @@
 ---
-title: Ekonomiaicałareszta | Patromierz
+title: "Ekonomiaicałareszta | Patromierz"
 permalink: /Ekonomiaicałareszta
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ekonomiaicałareszta
 <script type="text/javascript" src="data/e/Ekonomiaicałareszta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ekonomiaicałareszta](https://patronite.pl/Ekonomiaicałareszta)
+# [Ekonomia i cała reszta](https://patronite.pl/Ekonomiaicałareszta)
 
 ## Miesięczne wsparcie
 

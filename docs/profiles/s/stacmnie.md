@@ -1,5 +1,5 @@
 ---
-title: stacmnie | Patromierz
+title: "stacmnie | Patromierz"
 permalink: /stacmnie
 ---
 
@@ -7,7 +7,7 @@ permalink: /stacmnie
 <script type="text/javascript" src="data/s/stacmnie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stacmnie](https://patronite.pl/stacmnie)
+# [Stać Mnie](https://patronite.pl/stacmnie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Marta | Patromierz
+title: "Marta | Patromierz"
 permalink: /Marta
 ---
 
@@ -7,7 +7,7 @@ permalink: /Marta
 <script type="text/javascript" src="data/m/Marta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Marta](https://patronite.pl/Marta)
+# [Marta Tarasiuk](https://patronite.pl/Marta)
 
 ## Miesięczne wsparcie
 

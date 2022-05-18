@@ -1,5 +1,5 @@
 ---
-title: eks | Patromierz
+title: "eks | Patromierz"
 permalink: /eks
 ---
 
@@ -7,7 +7,7 @@ permalink: /eks
 <script type="text/javascript" src="data/e/eks.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eks](https://patronite.pl/eks)
+# [EKS - chrześcijański przekaz w rapie](https://patronite.pl/eks)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: michalski | Patromierz
+title: "michalski | Patromierz"
 permalink: /michalski
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalski
 <script type="text/javascript" src="data/m/michalski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalski](https://patronite.pl/michalski)
+# [Paweł  Michalski](https://patronite.pl/michalski)
 
 ## Miesięczne wsparcie
 

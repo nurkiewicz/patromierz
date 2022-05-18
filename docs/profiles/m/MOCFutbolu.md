@@ -1,5 +1,5 @@
 ---
-title: MOCFutbolu | Patromierz
+title: "MOCFutbolu | Patromierz"
 permalink: /MOCFutbolu
 ---
 
@@ -7,7 +7,7 @@ permalink: /MOCFutbolu
 <script type="text/javascript" src="data/m/MOCFutbolu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MOCFutbolu](https://patronite.pl/MOCFutbolu)
+# [MOC Futbolu](https://patronite.pl/MOCFutbolu)
 
 ## Miesięczne wsparcie
 

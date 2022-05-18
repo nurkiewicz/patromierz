@@ -1,5 +1,5 @@
 ---
-title: chormimuw | Patromierz
+title: "chormimuw | Patromierz"
 permalink: /chormimuw
 ---
 
@@ -7,7 +7,7 @@ permalink: /chormimuw
 <script type="text/javascript" src="data/c/chormimuw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chormimuw](https://patronite.pl/chormimuw)
+# [Chór MIM UW](https://patronite.pl/chormimuw)
 
 ## Miesięczne wsparcie
 

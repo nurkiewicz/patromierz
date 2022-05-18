@@ -1,5 +1,5 @@
 ---
-title: sylwiadudziak-travllersgeograp | Patromierz
+title: "sylwiadudziak-travllersgeograp | Patromierz"
 permalink: /sylwiadudziak-travllersgeograp
 ---
 
@@ -7,7 +7,7 @@ permalink: /sylwiadudziak-travllersgeograp
 <script type="text/javascript" src="data/s/sylwiadudziak-travllersgeograp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sylwiadudziak-travllersgeograp](https://patronite.pl/sylwiadudziak-travllersgeograp)
+# [Sylwia Dudziak - TravellersGeographic](https://patronite.pl/sylwiadudziak-travllersgeograp)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: prototypy | Patromierz
+title: "prototypy | Patromierz"
 permalink: /prototypy
 ---
 
@@ -7,7 +7,7 @@ permalink: /prototypy
 <script type="text/javascript" src="data/p/prototypy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prototypy](https://patronite.pl/prototypy)
+# [Kamil Sokalski](https://patronite.pl/prototypy)
 
 ## Miesięczne wsparcie
 

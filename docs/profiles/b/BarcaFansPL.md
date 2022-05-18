@@ -1,5 +1,5 @@
 ---
-title: BarcaFansPL | Patromierz
+title: "BarcaFansPL | Patromierz"
 permalink: /BarcaFansPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /BarcaFansPL
 <script type="text/javascript" src="data/b/BarcaFansPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BarcaFansPL](https://patronite.pl/BarcaFansPL)
+# [BarcaFans.pl](https://patronite.pl/BarcaFansPL)
 
 ## Miesięczne wsparcie
 

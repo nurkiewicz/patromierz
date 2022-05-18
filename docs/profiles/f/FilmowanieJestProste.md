@@ -1,5 +1,5 @@
 ---
-title: FilmowanieJestProste | Patromierz
+title: "FilmowanieJestProste | Patromierz"
 permalink: /FilmowanieJestProste
 ---
 
@@ -7,7 +7,7 @@ permalink: /FilmowanieJestProste
 <script type="text/javascript" src="data/f/FilmowanieJestProste.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FilmowanieJestProste](https://patronite.pl/FilmowanieJestProste)
+# [Filmowanie Jest Proste](https://patronite.pl/FilmowanieJestProste)
 
 ## Miesięczne wsparcie
 

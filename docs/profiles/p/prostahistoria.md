@@ -1,5 +1,5 @@
 ---
-title: prostahistoria | Patromierz
+title: "prostahistoria | Patromierz"
 permalink: /prostahistoria
 ---
 
@@ -7,7 +7,7 @@ permalink: /prostahistoria
 <script type="text/javascript" src="data/p/prostahistoria.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prostahistoria](https://patronite.pl/prostahistoria)
+# [Prosta Historia](https://patronite.pl/prostahistoria)
 
 ## Miesięczne wsparcie
 

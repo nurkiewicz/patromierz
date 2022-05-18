@@ -1,5 +1,5 @@
 ---
-title: victoriamniow | Patromierz
+title: "victoriamniow | Patromierz"
 permalink: /victoriamniow
 ---
 
@@ -7,7 +7,7 @@ permalink: /victoriamniow
 <script type="text/javascript" src="data/v/victoriamniow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [victoriamniow](https://patronite.pl/victoriamniow)
+# [Victoria Mniów](https://patronite.pl/victoriamniow)
 
 ## Miesięczne wsparcie
 

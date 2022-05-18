@@ -1,5 +1,5 @@
 ---
-title: InneMedium | Patromierz
+title: "InneMedium | Patromierz"
 permalink: /InneMedium
 ---
 
@@ -7,7 +7,7 @@ permalink: /InneMedium
 <script type="text/javascript" src="data/i/InneMedium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [InneMedium](https://patronite.pl/InneMedium)
+# [Inne Medium](https://patronite.pl/InneMedium)
 
 ## Miesięczne wsparcie
 

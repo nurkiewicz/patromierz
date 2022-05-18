@@ -1,5 +1,5 @@
 ---
-title: chlopakiwpodrozy | Patromierz
+title: "chlopakiwpodrozy | Patromierz"
 permalink: /chlopakiwpodrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /chlopakiwpodrozy
 <script type="text/javascript" src="data/c/chlopakiwpodrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chlopakiwpodrozy](https://patronite.pl/chlopakiwpodrozy)
+# [Chłopaki w podróży](https://patronite.pl/chlopakiwpodrozy)
 
 ## Miesięczne wsparcie
 

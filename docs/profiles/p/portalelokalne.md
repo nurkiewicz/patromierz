@@ -1,5 +1,5 @@
 ---
-title: portalelokalne | Patromierz
+title: "portalelokalne | Patromierz"
 permalink: /portalelokalne
 ---
 
@@ -7,7 +7,7 @@ permalink: /portalelokalne
 <script type="text/javascript" src="data/p/portalelokalne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [portalelokalne](https://patronite.pl/portalelokalne)
+# [Portale i gazety lokalne ](https://patronite.pl/portalelokalne)
 
 ## Miesięczne wsparcie
 

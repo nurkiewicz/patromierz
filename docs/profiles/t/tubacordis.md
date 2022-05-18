@@ -1,5 +1,5 @@
 ---
-title: tubacordis | Patromierz
+title: "tubacordis | Patromierz"
 permalink: /tubacordis
 ---
 
@@ -7,7 +7,7 @@ permalink: /tubacordis
 <script type="text/javascript" src="data/t/tubacordis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tubacordis](https://patronite.pl/tubacordis)
+# [Tuba Cordis](https://patronite.pl/tubacordis)
 
 ## Miesięczne wsparcie
 

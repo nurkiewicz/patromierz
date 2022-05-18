@@ -1,5 +1,5 @@
 ---
-title: KopalniaWiedzy | Patromierz
+title: "KopalniaWiedzy | Patromierz"
 permalink: /KopalniaWiedzy
 ---
 
@@ -7,7 +7,7 @@ permalink: /KopalniaWiedzy
 <script type="text/javascript" src="data/k/KopalniaWiedzy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KopalniaWiedzy](https://patronite.pl/KopalniaWiedzy)
+# [KopalniaWiedzy.pl](https://patronite.pl/KopalniaWiedzy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: ocalsiebie | Patromierz
+title: "ocalsiebie | Patromierz"
 permalink: /ocalsiebie
 ---
 
@@ -7,7 +7,7 @@ permalink: /ocalsiebie
 <script type="text/javascript" src="data/o/ocalsiebie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ocalsiebie](https://patronite.pl/ocalsiebie)
+# [OcalSiebie](https://patronite.pl/ocalsiebie)
 
 ## Miesięczne wsparcie
 

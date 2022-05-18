@@ -1,5 +1,5 @@
 ---
-title: paragrafwkieliszku | Patromierz
+title: "paragrafwkieliszku | Patromierz"
 permalink: /paragrafwkieliszku
 ---
 
@@ -7,7 +7,7 @@ permalink: /paragrafwkieliszku
 <script type="text/javascript" src="data/p/paragrafwkieliszku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [paragrafwkieliszku](https://patronite.pl/paragrafwkieliszku)
+# [paragrafwkieliszku.pl ](https://patronite.pl/paragrafwkieliszku)
 
 ## Miesięczne wsparcie
 

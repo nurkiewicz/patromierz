@@ -1,5 +1,5 @@
 ---
-title: Wojtek-Taraba-parasnowboard | Patromierz
+title: "Wojtek-Taraba-parasnowboard | Patromierz"
 permalink: /Wojtek-Taraba-parasnowboard
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wojtek-Taraba-parasnowboard
 <script type="text/javascript" src="data/w/Wojtek-Taraba-parasnowboard.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wojtek-Taraba-parasnowboard](https://patronite.pl/Wojtek-Taraba-parasnowboard)
+# [Wojciech Taraba](https://patronite.pl/Wojtek-Taraba-parasnowboard)
 
 ## Miesięczne wsparcie
 

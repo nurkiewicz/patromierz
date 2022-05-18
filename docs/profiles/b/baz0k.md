@@ -1,5 +1,5 @@
 ---
-title: baz0k | Patromierz
+title: "baz0k | Patromierz"
 permalink: /baz0k
 ---
 
@@ -7,7 +7,7 @@ permalink: /baz0k
 <script type="text/javascript" src="data/b/baz0k.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [baz0k](https://patronite.pl/baz0k)
+# [Bartosz Bazok Zelek](https://patronite.pl/baz0k)
 
 ## Miesięczne wsparcie
 

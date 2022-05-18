@@ -1,5 +1,5 @@
 ---
-title: MakeYourLifeGreener | Patromierz
+title: "MakeYourLifeGreener | Patromierz"
 permalink: /MakeYourLifeGreener
 ---
 
@@ -7,7 +7,7 @@ permalink: /MakeYourLifeGreener
 <script type="text/javascript" src="data/m/MakeYourLifeGreener.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MakeYourLifeGreener](https://patronite.pl/MakeYourLifeGreener)
+# [Make Your Life Greener](https://patronite.pl/MakeYourLifeGreener)
 
 ## Miesięczne wsparcie
 

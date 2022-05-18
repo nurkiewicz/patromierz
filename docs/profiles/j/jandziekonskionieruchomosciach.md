@@ -1,5 +1,5 @@
 ---
-title: jandziekonskionieruchomosciach | Patromierz
+title: "jandziekonskionieruchomosciach | Patromierz"
 permalink: /jandziekonskionieruchomosciach
 ---
 
@@ -7,7 +7,7 @@ permalink: /jandziekonskionieruchomosciach
 <script type="text/javascript" src="data/j/jandziekonskionieruchomosciach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jandziekonskionieruchomosciach](https://patronite.pl/jandziekonskionieruchomosciach)
+# [Jan Dziekoński o Nieruchomościach](https://patronite.pl/jandziekonskionieruchomosciach)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kwestiakultury | Patromierz
+title: "kwestiakultury | Patromierz"
 permalink: /kwestiakultury
 ---
 
@@ -7,7 +7,7 @@ permalink: /kwestiakultury
 <script type="text/javascript" src="data/k/kwestiakultury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kwestiakultury](https://patronite.pl/kwestiakultury)
+# [Kwestia Kultury](https://patronite.pl/kwestiakultury)
 
 ## Miesięczne wsparcie
 

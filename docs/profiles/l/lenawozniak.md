@@ -1,5 +1,5 @@
 ---
-title: lenawozniak | Patromierz
+title: "lenawozniak | Patromierz"
 permalink: /lenawozniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /lenawozniak
 <script type="text/javascript" src="data/l/lenawozniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lenawozniak](https://patronite.pl/lenawozniak)
+# [Lena Woźniak](https://patronite.pl/lenawozniak)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: domdobremiejsce | Patromierz
+title: "domdobremiejsce | Patromierz"
 permalink: /domdobremiejsce
 ---
 
@@ -7,7 +7,7 @@ permalink: /domdobremiejsce
 <script type="text/javascript" src="data/d/domdobremiejsce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [domdobremiejsce](https://patronite.pl/domdobremiejsce)
+# [Dom Dobre Miejsce](https://patronite.pl/domdobremiejsce)
 
 ## Miesięczne wsparcie
 

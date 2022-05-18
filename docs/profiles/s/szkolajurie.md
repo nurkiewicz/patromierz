@@ -1,5 +1,5 @@
 ---
-title: szkolajurie | Patromierz
+title: "szkolajurie | Patromierz"
 permalink: /szkolajurie
 ---
 
@@ -7,7 +7,7 @@ permalink: /szkolajurie
 <script type="text/javascript" src="data/s/szkolajurie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szkolajurie](https://patronite.pl/szkolajurie)
+# [Wspieramy szkołę Jurie](https://patronite.pl/szkolajurie)
 
 ## Miesięczne wsparcie
 

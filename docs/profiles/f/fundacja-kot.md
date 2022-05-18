@@ -1,5 +1,5 @@
 ---
-title: fundacja-kot | Patromierz
+title: "fundacja-kot | Patromierz"
 permalink: /fundacja-kot
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacja-kot
 <script type="text/javascript" src="data/f/fundacja-kot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacja-kot](https://patronite.pl/fundacja-kot)
+# [Koci Szpital Fundacji KOT](https://patronite.pl/fundacja-kot)
 
 ## Miesięczne wsparcie
 

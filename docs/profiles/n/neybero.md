@@ -1,5 +1,5 @@
 ---
-title: neybero | Patromierz
+title: "neybero | Patromierz"
 permalink: /neybero
 ---
 
@@ -7,7 +7,7 @@ permalink: /neybero
 <script type="text/javascript" src="data/n/neybero.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [neybero](https://patronite.pl/neybero)
+# [Neybero](https://patronite.pl/neybero)
 
 ## Miesięczne wsparcie
 

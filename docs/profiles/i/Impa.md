@@ -1,5 +1,5 @@
 ---
-title: Impa | Patromierz
+title: "Impa | Patromierz"
 permalink: /Impa
 ---
 
@@ -7,7 +7,7 @@ permalink: /Impa
 <script type="text/javascript" src="data/i/Impa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Impa](https://patronite.pl/Impa)
+# [Impa_Człowiek rower :)](https://patronite.pl/Impa)
 
 ## Miesięczne wsparcie
 

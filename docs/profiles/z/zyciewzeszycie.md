@@ -1,5 +1,5 @@
 ---
-title: zyciewzeszycie | Patromierz
+title: "zyciewzeszycie | Patromierz"
 permalink: /zyciewzeszycie
 ---
 
@@ -7,7 +7,7 @@ permalink: /zyciewzeszycie
 <script type="text/javascript" src="data/z/zyciewzeszycie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zyciewzeszycie](https://patronite.pl/zyciewzeszycie)
+# [Życie w Zeszycie](https://patronite.pl/zyciewzeszycie)
 
 ## Miesięczne wsparcie
 

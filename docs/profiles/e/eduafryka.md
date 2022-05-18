@@ -1,5 +1,5 @@
 ---
-title: eduafryka | Patromierz
+title: "eduafryka | Patromierz"
 permalink: /eduafryka
 ---
 
@@ -7,7 +7,7 @@ permalink: /eduafryka
 <script type="text/javascript" src="data/e/eduafryka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eduafryka](https://patronite.pl/eduafryka)
+# [EDU Afryka](https://patronite.pl/eduafryka)
 
 ## Miesięczne wsparcie
 

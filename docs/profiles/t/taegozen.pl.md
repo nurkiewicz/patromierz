@@ -1,5 +1,5 @@
 ---
-title: taegozen.pl | Patromierz
+title: "taegozen.pl | Patromierz"
 permalink: /taegozen.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /taegozen.pl
 <script type="text/javascript" src="data/t/taegozen.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [taegozen.pl](https://patronite.pl/taegozen.pl)
+# [Szkoła Zen Taego](https://patronite.pl/taegozen.pl)
 
 ## Miesięczne wsparcie
 

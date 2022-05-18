@@ -1,5 +1,5 @@
 ---
-title: spotkalemmysliwych | Patromierz
+title: "spotkalemmysliwych | Patromierz"
 permalink: /spotkalemmysliwych
 ---
 
@@ -7,7 +7,7 @@ permalink: /spotkalemmysliwych
 <script type="text/javascript" src="data/s/spotkalemmysliwych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [spotkalemmysliwych](https://patronite.pl/spotkalemmysliwych)
+# [Tadeusz Mirczewski](https://patronite.pl/spotkalemmysliwych)
 
 ## Miesięczne wsparcie
 

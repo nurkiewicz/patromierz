@@ -1,5 +1,5 @@
 ---
-title: pepol-urbex | Patromierz
+title: "pepol-urbex | Patromierz"
 permalink: /pepol-urbex
 ---
 
@@ -7,7 +7,7 @@ permalink: /pepol-urbex
 <script type="text/javascript" src="data/p/pepol-urbex.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pepol-urbex](https://patronite.pl/pepol-urbex)
+# [PEPOL URBEX](https://patronite.pl/pepol-urbex)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: karrelyt | Patromierz
+title: "karrelyt | Patromierz"
 permalink: /karrelyt
 ---
 
@@ -7,7 +7,7 @@ permalink: /karrelyt
 <script type="text/javascript" src="data/k/karrelyt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karrelyt](https://patronite.pl/karrelyt)
+# [Karrel](https://patronite.pl/karrelyt)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SyndikateCo | Patromierz
+title: "SyndikateCo | Patromierz"
 permalink: /SyndikateCo
 ---
 
@@ -7,7 +7,7 @@ permalink: /SyndikateCo
 <script type="text/javascript" src="data/s/SyndikateCo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SyndikateCo](https://patronite.pl/SyndikateCo)
+# [Syndikate Co.](https://patronite.pl/SyndikateCo)
 
 ## Miesięczne wsparcie
 

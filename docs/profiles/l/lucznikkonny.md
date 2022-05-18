@@ -1,5 +1,5 @@
 ---
-title: lucznikkonny | Patromierz
+title: "lucznikkonny | Patromierz"
 permalink: /lucznikkonny
 ---
 
@@ -7,7 +7,7 @@ permalink: /lucznikkonny
 <script type="text/javascript" src="data/l/lucznikkonny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lucznikkonny](https://patronite.pl/lucznikkonny)
+# [Natalia Koprowska - łucznik konny](https://patronite.pl/lucznikkonny)
 
 ## Miesięczne wsparcie
 

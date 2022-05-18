@@ -1,5 +1,5 @@
 ---
-title: zawszepomorze | Patromierz
+title: "zawszepomorze | Patromierz"
 permalink: /zawszepomorze
 ---
 
@@ -7,7 +7,7 @@ permalink: /zawszepomorze
 <script type="text/javascript" src="data/z/zawszepomorze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zawszepomorze](https://patronite.pl/zawszepomorze)
+# [Zawsze Pomorze](https://patronite.pl/zawszepomorze)
 
 ## Miesięczne wsparcie
 

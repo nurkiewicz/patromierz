@@ -1,5 +1,5 @@
 ---
-title: Klaudia_eM | Patromierz
+title: "Klaudia_eM | Patromierz"
 permalink: /Klaudia_eM
 ---
 
@@ -7,7 +7,7 @@ permalink: /Klaudia_eM
 <script type="text/javascript" src="data/k/Klaudia_eM.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Klaudia_eM](https://patronite.pl/Klaudia_eM)
+# [Klaudia eM](https://patronite.pl/Klaudia_eM)
 
 ## Miesięczne wsparcie
 

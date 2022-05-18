@@ -1,5 +1,5 @@
 ---
-title: FrontemDoSyrii | Patromierz
+title: "FrontemDoSyrii | Patromierz"
 permalink: /FrontemDoSyrii
 ---
 
@@ -7,7 +7,7 @@ permalink: /FrontemDoSyrii
 <script type="text/javascript" src="data/f/FrontemDoSyrii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FrontemDoSyrii](https://patronite.pl/FrontemDoSyrii)
+# [Frontem do Syrii](https://patronite.pl/FrontemDoSyrii)
 
 ## Miesięczne wsparcie
 

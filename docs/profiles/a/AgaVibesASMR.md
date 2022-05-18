@@ -1,5 +1,5 @@
 ---
-title: AgaVibesASMR | Patromierz
+title: "AgaVibesASMR | Patromierz"
 permalink: /AgaVibesASMR
 ---
 
@@ -7,7 +7,7 @@ permalink: /AgaVibesASMR
 <script type="text/javascript" src="data/a/AgaVibesASMR.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AgaVibesASMR](https://patronite.pl/AgaVibesASMR)
+# [Aga Vibes ASMR](https://patronite.pl/AgaVibesASMR)
 
 ## Miesięczne wsparcie
 

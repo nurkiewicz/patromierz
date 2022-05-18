@@ -1,5 +1,5 @@
 ---
-title: adarma | Patromierz
+title: "adarma | Patromierz"
 permalink: /adarma
 ---
 
@@ -7,7 +7,7 @@ permalink: /adarma
 <script type="text/javascript" src="data/a/adarma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [adarma](https://patronite.pl/adarma)
+# [Fundacja Ad Arma](https://patronite.pl/adarma)
 
 ## Miesięczne wsparcie
 

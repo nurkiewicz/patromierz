@@ -1,5 +1,5 @@
 ---
-title: nocneradio | Patromierz
+title: "nocneradio | Patromierz"
 permalink: /nocneradio
 ---
 
@@ -7,7 +7,7 @@ permalink: /nocneradio
 <script type="text/javascript" src="data/n/nocneradio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nocneradio](https://patronite.pl/nocneradio)
+# [Nocne Radio](https://patronite.pl/nocneradio)
 
 ## Miesięczne wsparcie
 

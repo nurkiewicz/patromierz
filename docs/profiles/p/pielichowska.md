@@ -1,5 +1,5 @@
 ---
-title: pielichowska | Patromierz
+title: "pielichowska | Patromierz"
 permalink: /pielichowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /pielichowska
 <script type="text/javascript" src="data/p/pielichowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pielichowska](https://patronite.pl/pielichowska)
+# [Gosia Pielichowska](https://patronite.pl/pielichowska)
 
 ## Miesięczne wsparcie
 

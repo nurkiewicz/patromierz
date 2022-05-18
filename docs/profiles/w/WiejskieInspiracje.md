@@ -1,5 +1,5 @@
 ---
-title: WiejskieInspiracje | Patromierz
+title: "WiejskieInspiracje | Patromierz"
 permalink: /WiejskieInspiracje
 ---
 
@@ -7,7 +7,7 @@ permalink: /WiejskieInspiracje
 <script type="text/javascript" src="data/w/WiejskieInspiracje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WiejskieInspiracje](https://patronite.pl/WiejskieInspiracje)
+# [Wiejskie Inspiracje](https://patronite.pl/WiejskieInspiracje)
 
 ## Miesięczne wsparcie
 

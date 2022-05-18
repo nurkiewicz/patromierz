@@ -1,5 +1,5 @@
 ---
-title: profideadlakobiet | Patromierz
+title: "profideadlakobiet | Patromierz"
 permalink: /profideadlakobiet
 ---
 
@@ -7,7 +7,7 @@ permalink: /profideadlakobiet
 <script type="text/javascript" src="data/p/profideadlakobiet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [profideadlakobiet](https://patronite.pl/profideadlakobiet)
+# [Tamara Górecka-Werońska](https://patronite.pl/profideadlakobiet)
 
 ## Miesięczne wsparcie
 

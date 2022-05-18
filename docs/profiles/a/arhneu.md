@@ -1,5 +1,5 @@
 ---
-title: arhneu | Patromierz
+title: "arhneu | Patromierz"
 permalink: /arhneu
 ---
 
@@ -7,7 +7,7 @@ permalink: /arhneu
 <script type="text/javascript" src="data/a/arhneu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arhneu](https://patronite.pl/arhneu)
+# [arhn.eu](https://patronite.pl/arhneu)
 
 ## Miesięczne wsparcie
 

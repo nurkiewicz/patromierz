@@ -1,5 +1,5 @@
 ---
-title: FundacjaSAWANCI | Patromierz
+title: "FundacjaSAWANCI | Patromierz"
 permalink: /FundacjaSAWANCI
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaSAWANCI
 <script type="text/javascript" src="data/f/FundacjaSAWANCI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaSAWANCI](https://patronite.pl/FundacjaSAWANCI)
+# [Fundacja SAWANCI](https://patronite.pl/FundacjaSAWANCI)
 
 ## Miesięczne wsparcie
 

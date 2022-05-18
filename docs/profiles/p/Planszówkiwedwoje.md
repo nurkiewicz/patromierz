@@ -1,5 +1,5 @@
 ---
-title: Planszówkiwedwoje | Patromierz
+title: "Planszówkiwedwoje | Patromierz"
 permalink: /Planszówkiwedwoje
 ---
 
@@ -7,7 +7,7 @@ permalink: /Planszówkiwedwoje
 <script type="text/javascript" src="data/p/Planszówkiwedwoje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Planszówkiwedwoje](https://patronite.pl/Planszówkiwedwoje)
+# [Planszówki we dwoje](https://patronite.pl/Planszówkiwedwoje)
 
 ## Miesięczne wsparcie
 

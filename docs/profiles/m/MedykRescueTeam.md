@@ -1,5 +1,5 @@
 ---
-title: MedykRescueTeam | Patromierz
+title: "MedykRescueTeam | Patromierz"
 permalink: /MedykRescueTeam
 ---
 
@@ -7,7 +7,7 @@ permalink: /MedykRescueTeam
 <script type="text/javascript" src="data/m/MedykRescueTeam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MedykRescueTeam](https://patronite.pl/MedykRescueTeam)
+# [MEDYK RESCUE TEAM](https://patronite.pl/MedykRescueTeam)
 
 ## Miesięczne wsparcie
 

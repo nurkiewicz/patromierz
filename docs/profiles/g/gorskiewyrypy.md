@@ -1,5 +1,5 @@
 ---
-title: gorskiewyrypy | Patromierz
+title: "gorskiewyrypy | Patromierz"
 permalink: /gorskiewyrypy
 ---
 
@@ -7,7 +7,7 @@ permalink: /gorskiewyrypy
 <script type="text/javascript" src="data/g/gorskiewyrypy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gorskiewyrypy](https://patronite.pl/gorskiewyrypy)
+# [Górskie Wyrypy](https://patronite.pl/gorskiewyrypy)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: avozdacapoeira | Patromierz
+title: "avozdacapoeira | Patromierz"
 permalink: /avozdacapoeira
 ---
 
@@ -7,7 +7,7 @@ permalink: /avozdacapoeira
 <script type="text/javascript" src="data/a/avozdacapoeira.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [avozdacapoeira](https://patronite.pl/avozdacapoeira)
+# [A Voz Da Capoeira](https://patronite.pl/avozdacapoeira)
 
 ## Miesięczne wsparcie
 

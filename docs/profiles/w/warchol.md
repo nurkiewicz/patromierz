@@ -1,5 +1,5 @@
 ---
-title: warchol | Patromierz
+title: "warchol | Patromierz"
 permalink: /warchol
 ---
 
@@ -7,7 +7,7 @@ permalink: /warchol
 <script type="text/javascript" src="data/w/warchol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warchol](https://patronite.pl/warchol)
+# [Warchoł](https://patronite.pl/warchol)
 
 ## Miesięczne wsparcie
 

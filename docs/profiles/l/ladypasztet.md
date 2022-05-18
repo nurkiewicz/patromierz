@@ -1,5 +1,5 @@
 ---
-title: ladypasztet | Patromierz
+title: "ladypasztet | Patromierz"
 permalink: /ladypasztet
 ---
 
@@ -7,7 +7,7 @@ permalink: /ladypasztet
 <script type="text/javascript" src="data/l/ladypasztet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ladypasztet](https://patronite.pl/ladypasztet)
+# [Lady Pasztet](https://patronite.pl/ladypasztet)
 
 ## Miesięczne wsparcie
 

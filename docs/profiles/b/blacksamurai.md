@@ -1,5 +1,5 @@
 ---
-title: blacksamurai | Patromierz
+title: "blacksamurai | Patromierz"
 permalink: /blacksamurai
 ---
 
@@ -7,7 +7,7 @@ permalink: /blacksamurai
 <script type="text/javascript" src="data/b/blacksamurai.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blacksamurai](https://patronite.pl/blacksamurai)
+# [The Black Samurai](https://patronite.pl/blacksamurai)
 
 ## Miesięczne wsparcie
 

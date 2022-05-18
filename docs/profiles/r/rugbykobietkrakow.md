@@ -1,5 +1,5 @@
 ---
-title: rugbykobietkrakow | Patromierz
+title: "rugbykobietkrakow | Patromierz"
 permalink: /rugbykobietkrakow
 ---
 
@@ -7,7 +7,7 @@ permalink: /rugbykobietkrakow
 <script type="text/javascript" src="data/r/rugbykobietkrakow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rugbykobietkrakow](https://patronite.pl/rugbykobietkrakow)
+# [RUGBY KRAKOW](https://patronite.pl/rugbykobietkrakow)
 
 ## Miesięczne wsparcie
 

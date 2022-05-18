@@ -1,5 +1,5 @@
 ---
-title: laboratoriumgemmologiczne | Patromierz
+title: "laboratoriumgemmologiczne | Patromierz"
 permalink: /laboratoriumgemmologiczne
 ---
 
@@ -7,7 +7,7 @@ permalink: /laboratoriumgemmologiczne
 <script type="text/javascript" src="data/l/laboratoriumgemmologiczne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [laboratoriumgemmologiczne](https://patronite.pl/laboratoriumgemmologiczne)
+# [Krzysztof Stankiewicz](https://patronite.pl/laboratoriumgemmologiczne)
 
 ## Miesięczne wsparcie
 

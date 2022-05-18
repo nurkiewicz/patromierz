@@ -1,5 +1,5 @@
 ---
-title: nienawiscpl | Patromierz
+title: "nienawiscpl | Patromierz"
 permalink: /nienawiscpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /nienawiscpl
 <script type="text/javascript" src="data/n/nienawiscpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nienawiscpl](https://patronite.pl/nienawiscpl)
+# [Nienawiść.pl](https://patronite.pl/nienawiscpl)
 
 ## Miesięczne wsparcie
 

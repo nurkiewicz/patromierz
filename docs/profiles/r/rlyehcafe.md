@@ -1,5 +1,5 @@
 ---
-title: rlyehcafe | Patromierz
+title: "rlyehcafe | Patromierz"
 permalink: /rlyehcafe
 ---
 
@@ -7,7 +7,7 @@ permalink: /rlyehcafe
 <script type="text/javascript" src="data/r/rlyehcafe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rlyehcafe](https://patronite.pl/rlyehcafe)
+# [R'lyeh Cafe](https://patronite.pl/rlyehcafe)
 
 ## Miesięczne wsparcie
 

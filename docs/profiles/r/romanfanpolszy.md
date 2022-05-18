@@ -1,5 +1,5 @@
 ---
-title: romanfanpolszy | Patromierz
+title: "romanfanpolszy | Patromierz"
 permalink: /romanfanpolszy
 ---
 
@@ -7,7 +7,7 @@ permalink: /romanfanpolszy
 <script type="text/javascript" src="data/r/romanfanpolszy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [romanfanpolszy](https://patronite.pl/romanfanpolszy)
+# [Roman FanPolszy](https://patronite.pl/romanfanpolszy)
 
 ## Miesięczne wsparcie
 

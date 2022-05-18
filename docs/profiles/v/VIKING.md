@@ -1,5 +1,5 @@
 ---
-title: VIKING | Patromierz
+title: "VIKING | Patromierz"
 permalink: /VIKING
 ---
 
@@ -7,7 +7,7 @@ permalink: /VIKING
 <script type="text/javascript" src="data/v/VIKING.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VIKING](https://patronite.pl/VIKING)
+# [Jacek VIKING](https://patronite.pl/VIKING)
 
 ## Miesięczne wsparcie
 

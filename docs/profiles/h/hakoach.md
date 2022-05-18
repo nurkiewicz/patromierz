@@ -1,5 +1,5 @@
 ---
-title: hakoach | Patromierz
+title: "hakoach | Patromierz"
 permalink: /hakoach
 ---
 
@@ -7,7 +7,7 @@ permalink: /hakoach
 <script type="text/javascript" src="data/h/hakoach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hakoach](https://patronite.pl/hakoach)
+# [HaKoach](https://patronite.pl/hakoach)
 
 ## Miesięczne wsparcie
 

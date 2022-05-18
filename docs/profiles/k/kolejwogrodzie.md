@@ -1,5 +1,5 @@
 ---
-title: kolejwogrodzie | Patromierz
+title: "kolejwogrodzie | Patromierz"
 permalink: /kolejwogrodzie
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolejwogrodzie
 <script type="text/javascript" src="data/k/kolejwogrodzie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolejwogrodzie](https://patronite.pl/kolejwogrodzie)
+# [Żuławska Kolej Ogrodowa Tomka](https://patronite.pl/kolejwogrodzie)
 
 ## Miesięczne wsparcie
 

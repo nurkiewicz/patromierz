@@ -1,5 +1,5 @@
 ---
-title: ketokocur | Patromierz
+title: "ketokocur | Patromierz"
 permalink: /ketokocur
 ---
 
@@ -7,7 +7,7 @@ permalink: /ketokocur
 <script type="text/javascript" src="data/k/ketokocur.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ketokocur](https://patronite.pl/ketokocur)
+# [KETOKOCUR](https://patronite.pl/ketokocur)
 
 ## Miesięczne wsparcie
 

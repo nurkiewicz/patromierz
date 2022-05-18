@@ -1,5 +1,5 @@
 ---
-title: ianriderworkshop | Patromierz
+title: "ianriderworkshop | Patromierz"
 permalink: /ianriderworkshop
 ---
 
@@ -7,7 +7,7 @@ permalink: /ianriderworkshop
 <script type="text/javascript" src="data/i/ianriderworkshop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ianriderworkshop](https://patronite.pl/ianriderworkshop)
+# [Ian Rider Workshop](https://patronite.pl/ianriderworkshop)
 
 ## Miesięczne wsparcie
 

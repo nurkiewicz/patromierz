@@ -1,5 +1,5 @@
 ---
-title: panmysza | Patromierz
+title: "panmysza | Patromierz"
 permalink: /panmysza
 ---
 
@@ -7,7 +7,7 @@ permalink: /panmysza
 <script type="text/javascript" src="data/p/panmysza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panmysza](https://patronite.pl/panmysza)
+# [Pan Mysza](https://patronite.pl/panmysza)
 
 ## Miesięczne wsparcie
 

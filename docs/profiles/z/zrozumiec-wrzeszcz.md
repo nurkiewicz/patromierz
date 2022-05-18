@@ -1,5 +1,5 @@
 ---
-title: zrozumiec-wrzeszcz | Patromierz
+title: "zrozumiec-wrzeszcz | Patromierz"
 permalink: /zrozumiec-wrzeszcz
 ---
 
@@ -7,7 +7,7 @@ permalink: /zrozumiec-wrzeszcz
 <script type="text/javascript" src="data/z/zrozumiec-wrzeszcz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zrozumiec-wrzeszcz](https://patronite.pl/zrozumiec-wrzeszcz)
+# [Zrozumieć Wrzeszcz](https://patronite.pl/zrozumiec-wrzeszcz)
 
 ## Miesięczne wsparcie
 

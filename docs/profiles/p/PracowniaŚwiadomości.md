@@ -1,5 +1,5 @@
 ---
-title: PracowniaŚwiadomości | Patromierz
+title: "PracowniaŚwiadomości | Patromierz"
 permalink: /PracowniaŚwiadomości
 ---
 
@@ -7,7 +7,7 @@ permalink: /PracowniaŚwiadomości
 <script type="text/javascript" src="data/p/PracowniaŚwiadomości.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PracowniaŚwiadomości](https://patronite.pl/PracowniaŚwiadomości)
+# [Pracownia Świadomości](https://patronite.pl/PracowniaŚwiadomości)
 
 ## Miesięczne wsparcie
 

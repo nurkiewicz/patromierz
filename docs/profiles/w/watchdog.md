@@ -1,5 +1,5 @@
 ---
-title: watchdog | Patromierz
+title: "watchdog | Patromierz"
 permalink: /watchdog
 ---
 
@@ -7,7 +7,7 @@ permalink: /watchdog
 <script type="text/javascript" src="data/w/watchdog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [watchdog](https://patronite.pl/watchdog)
+# [Sieć Obywatelska Watchdog Polska](https://patronite.pl/watchdog)
 
 ## Miesięczne wsparcie
 

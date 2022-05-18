@@ -1,5 +1,5 @@
 ---
-title: PolskaTradycja | Patromierz
+title: "PolskaTradycja | Patromierz"
 permalink: /PolskaTradycja
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolskaTradycja
 <script type="text/javascript" src="data/p/PolskaTradycja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolskaTradycja](https://patronite.pl/PolskaTradycja)
+# [Polska Tradycja](https://patronite.pl/PolskaTradycja)
 
 ## Miesięczne wsparcie
 

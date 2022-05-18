@@ -1,5 +1,5 @@
 ---
-title: Sykulski | Patromierz
+title: "Sykulski | Patromierz"
 permalink: /Sykulski
 ---
 
@@ -7,7 +7,7 @@ permalink: /Sykulski
 <script type="text/javascript" src="data/s/Sykulski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Sykulski](https://patronite.pl/Sykulski)
+# [Leszek Sykulski](https://patronite.pl/Sykulski)
 
 ## Miesięczne wsparcie
 

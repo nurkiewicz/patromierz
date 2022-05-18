@@ -1,5 +1,5 @@
 ---
-title: Centrum-Slowian-i-Wikingow | Patromierz
+title: "Centrum-Slowian-i-Wikingow | Patromierz"
 permalink: /Centrum-Slowian-i-Wikingow
 ---
 
@@ -7,7 +7,7 @@ permalink: /Centrum-Slowian-i-Wikingow
 <script type="text/javascript" src="data/c/Centrum-Slowian-i-Wikingow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Centrum-Slowian-i-Wikingow](https://patronite.pl/Centrum-Slowian-i-Wikingow)
+# [Centrum Słowian i Wikingów w Wolinie](https://patronite.pl/Centrum-Slowian-i-Wikingow)
 
 ## Miesięczne wsparcie
 

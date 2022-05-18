@@ -1,5 +1,5 @@
 ---
-title: Morskie-Opowieści | Patromierz
+title: "Morskie-Opowieści | Patromierz"
 permalink: /Morskie-Opowieści
 ---
 
@@ -7,7 +7,7 @@ permalink: /Morskie-Opowieści
 <script type="text/javascript" src="data/m/Morskie-Opowieści.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Morskie-Opowieści](https://patronite.pl/Morskie-Opowieści)
+# [Morskie Opowieści](https://patronite.pl/Morskie-Opowieści)
 
 ## Miesięczne wsparcie
 

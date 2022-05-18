@@ -1,5 +1,5 @@
 ---
-title: arturhome | Patromierz
+title: "arturhome | Patromierz"
 permalink: /arturhome
 ---
 
@@ -7,7 +7,7 @@ permalink: /arturhome
 <script type="text/javascript" src="data/a/arturhome.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arturhome](https://patronite.pl/arturhome)
+# [ArturHome](https://patronite.pl/arturhome)
 
 ## Miesięczne wsparcie
 

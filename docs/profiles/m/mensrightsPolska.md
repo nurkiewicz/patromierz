@@ -1,5 +1,5 @@
 ---
-title: mensrightsPolska | Patromierz
+title: "mensrightsPolska | Patromierz"
 permalink: /mensrightsPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /mensrightsPolska
 <script type="text/javascript" src="data/m/mensrightsPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mensrightsPolska](https://patronite.pl/mensrightsPolska)
+# [Men's Rights Polska](https://patronite.pl/mensrightsPolska)
 
 ## Miesięczne wsparcie
 

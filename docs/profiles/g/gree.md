@@ -1,5 +1,5 @@
 ---
-title: gree | Patromierz
+title: "gree | Patromierz"
 permalink: /gree
 ---
 
@@ -7,7 +7,7 @@ permalink: /gree
 <script type="text/javascript" src="data/g/gree.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gree](https://patronite.pl/gree)
+# [Gree](https://patronite.pl/gree)
 
 ## Miesięczne wsparcie
 

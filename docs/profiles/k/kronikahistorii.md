@@ -1,5 +1,5 @@
 ---
-title: kronikahistorii | Patromierz
+title: "kronikahistorii | Patromierz"
 permalink: /kronikahistorii
 ---
 
@@ -7,7 +7,7 @@ permalink: /kronikahistorii
 <script type="text/javascript" src="data/k/kronikahistorii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kronikahistorii](https://patronite.pl/kronikahistorii)
+# [Kronika Historii](https://patronite.pl/kronikahistorii)
 
 ## Miesięczne wsparcie
 

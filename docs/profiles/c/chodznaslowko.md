@@ -1,5 +1,5 @@
 ---
-title: chodznaslowko | Patromierz
+title: "chodznaslowko | Patromierz"
 permalink: /chodznaslowko
 ---
 
@@ -7,7 +7,7 @@ permalink: /chodznaslowko
 <script type="text/javascript" src="data/c/chodznaslowko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chodznaslowko](https://patronite.pl/chodznaslowko)
+# [Chodź na Słówko](https://patronite.pl/chodznaslowko)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Kropka308 | Patromierz
+title: "Kropka308 | Patromierz"
 permalink: /Kropka308
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: magazyn-kreski | Patromierz
+title: "magazyn-kreski | Patromierz"
 permalink: /magazyn-kreski
 ---
 
@@ -7,7 +7,7 @@ permalink: /magazyn-kreski
 <script type="text/javascript" src="data/m/magazyn-kreski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [magazyn-kreski](https://patronite.pl/magazyn-kreski)
+# [Magazyn Kreski](https://patronite.pl/magazyn-kreski)
 
 ## Miesięczne wsparcie
 

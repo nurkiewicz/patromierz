@@ -1,5 +1,5 @@
 ---
-title: pajunkmirek | Patromierz
+title: "pajunkmirek | Patromierz"
 permalink: /pajunkmirek
 ---
 
@@ -7,7 +7,7 @@ permalink: /pajunkmirek
 <script type="text/javascript" src="data/p/pajunkmirek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pajunkmirek](https://patronite.pl/pajunkmirek)
+# [Pajunk Mirek](https://patronite.pl/pajunkmirek)
 
 ## Miesięczne wsparcie
 

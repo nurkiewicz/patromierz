@@ -1,5 +1,5 @@
 ---
-title: andreas | Patromierz
+title: "andreas | Patromierz"
 permalink: /andreas
 ---
 
@@ -7,7 +7,7 @@ permalink: /andreas
 <script type="text/javascript" src="data/a/andreas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [andreas](https://patronite.pl/andreas)
+# [Andrzej Bazgier](https://patronite.pl/andreas)
 
 ## Miesięczne wsparcie
 

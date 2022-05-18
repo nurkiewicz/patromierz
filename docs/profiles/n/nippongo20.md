@@ -1,5 +1,5 @@
 ---
-title: nippongo20 | Patromierz
+title: "nippongo20 | Patromierz"
 permalink: /nippongo20
 ---
 
@@ -7,7 +7,7 @@ permalink: /nippongo20
 <script type="text/javascript" src="data/n/nippongo20.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nippongo20](https://patronite.pl/nippongo20)
+# [Język japoński - NipponGo! (nie tylko od podstaw)](https://patronite.pl/nippongo20)
 
 ## Miesięczne wsparcie
 

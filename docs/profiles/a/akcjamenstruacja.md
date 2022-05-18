@@ -1,5 +1,5 @@
 ---
-title: akcjamenstruacja | Patromierz
+title: "akcjamenstruacja | Patromierz"
 permalink: /akcjamenstruacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /akcjamenstruacja
 <script type="text/javascript" src="data/a/akcjamenstruacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akcjamenstruacja](https://patronite.pl/akcjamenstruacja)
+# [Akcja  Menstruacja](https://patronite.pl/akcjamenstruacja)
 
 ## Miesięczne wsparcie
 

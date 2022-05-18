@@ -1,5 +1,5 @@
 ---
-title: FabiqMoto | Patromierz
+title: "FabiqMoto | Patromierz"
 permalink: /FabiqMoto
 ---
 
@@ -7,7 +7,7 @@ permalink: /FabiqMoto
 <script type="text/javascript" src="data/f/FabiqMoto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FabiqMoto](https://patronite.pl/FabiqMoto)
+# [Fabiq Moto i Martuś](https://patronite.pl/FabiqMoto)
 
 ## Miesięczne wsparcie
 

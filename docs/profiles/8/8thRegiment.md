@@ -1,5 +1,5 @@
 ---
-title: 8thRegiment | Patromierz
+title: "8thRegiment | Patromierz"
 permalink: /8thRegiment
 ---
 
@@ -7,7 +7,7 @@ permalink: /8thRegiment
 <script type="text/javascript" src="data/8/8thRegiment.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [8thRegiment](https://patronite.pl/8thRegiment)
+# [8th Regiment](https://patronite.pl/8thRegiment)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: carQ | Patromierz
+title: "carQ | Patromierz"
 permalink: /carQ
 ---
 
@@ -7,7 +7,7 @@ permalink: /carQ
 <script type="text/javascript" src="data/c/carQ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [carQ](https://patronite.pl/carQ)
+# [carQ.pl  Auto z historią & historia auta](https://patronite.pl/carQ)
 
 ## Miesięczne wsparcie
 

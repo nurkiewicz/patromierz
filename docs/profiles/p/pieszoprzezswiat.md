@@ -1,5 +1,5 @@
 ---
-title: pieszoprzezswiat | Patromierz
+title: "pieszoprzezswiat | Patromierz"
 permalink: /pieszoprzezswiat
 ---
 
@@ -7,7 +7,7 @@ permalink: /pieszoprzezswiat
 <script type="text/javascript" src="data/p/pieszoprzezswiat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pieszoprzezswiat](https://patronite.pl/pieszoprzezswiat)
+# [Pieszo przez świat ](https://patronite.pl/pieszoprzezswiat)
 
 ## Miesięczne wsparcie
 

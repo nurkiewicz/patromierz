@@ -1,5 +1,5 @@
 ---
-title: podcastyatlasa | Patromierz
+title: "podcastyatlasa | Patromierz"
 permalink: /podcastyatlasa
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastyatlasa
 <script type="text/javascript" src="data/p/podcastyatlasa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastyatlasa](https://patronite.pl/podcastyatlasa)
+# [Podcasty Atlasa](https://patronite.pl/podcastyatlasa)
 
 ## Miesięczne wsparcie
 

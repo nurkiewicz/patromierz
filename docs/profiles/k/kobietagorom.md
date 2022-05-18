@@ -1,5 +1,5 @@
 ---
-title: kobietagorom | Patromierz
+title: "kobietagorom | Patromierz"
 permalink: /kobietagorom
 ---
 
@@ -7,7 +7,7 @@ permalink: /kobietagorom
 <script type="text/javascript" src="data/k/kobietagorom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kobietagorom](https://patronite.pl/kobietagorom)
+# [Kobieta Górom](https://patronite.pl/kobietagorom)
 
 ## Miesięczne wsparcie
 

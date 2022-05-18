@@ -1,5 +1,5 @@
 ---
-title: proscenium | Patromierz
+title: "proscenium | Patromierz"
 permalink: /proscenium
 ---
 
@@ -7,7 +7,7 @@ permalink: /proscenium
 <script type="text/javascript" src="data/p/proscenium.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [proscenium](https://patronite.pl/proscenium)
+# [Fundacja Artystyczna Proscenium](https://patronite.pl/proscenium)
 
 ## Miesięczne wsparcie
 

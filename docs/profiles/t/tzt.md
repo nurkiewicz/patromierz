@@ -1,5 +1,5 @@
 ---
-title: tzt | Patromierz
+title: "tzt | Patromierz"
 permalink: /tzt
 ---
 
@@ -7,7 +7,7 @@ permalink: /tzt
 <script type="text/javascript" src="data/t/tzt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tzt](https://patronite.pl/tzt)
+# [TakŻeTego](https://patronite.pl/tzt)
 
 ## Miesięczne wsparcie
 

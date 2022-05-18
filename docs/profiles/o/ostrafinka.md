@@ -1,5 +1,5 @@
 ---
-title: ostrafinka | Patromierz
+title: "ostrafinka | Patromierz"
 permalink: /ostrafinka
 ---
 
@@ -7,7 +7,7 @@ permalink: /ostrafinka
 <script type="text/javascript" src="data/o/ostrafinka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ostrafinka](https://patronite.pl/ostrafinka)
+# [Ostra FINKA](https://patronite.pl/ostrafinka)
 
 ## Miesięczne wsparcie
 

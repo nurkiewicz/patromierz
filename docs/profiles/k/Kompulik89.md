@@ -1,5 +1,5 @@
 ---
-title: Kompulik89 | Patromierz
+title: "Kompulik89 | Patromierz"
 permalink: /Kompulik89
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kompulik89
 <script type="text/javascript" src="data/k/Kompulik89.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kompulik89](https://patronite.pl/Kompulik89)
+# [Z ArPiwum X](https://patronite.pl/Kompulik89)
 
 ## Miesięczne wsparcie
 

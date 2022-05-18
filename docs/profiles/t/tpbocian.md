@@ -1,5 +1,5 @@
 ---
-title: tpbocian | Patromierz
+title: "tpbocian | Patromierz"
 permalink: /tpbocian
 ---
 
@@ -7,7 +7,7 @@ permalink: /tpbocian
 <script type="text/javascript" src="data/t/tpbocian.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tpbocian](https://patronite.pl/tpbocian)
+# [Towarzystwo Przyrodnicze "Bocian"](https://patronite.pl/tpbocian)
 
 ## Miesięczne wsparcie
 

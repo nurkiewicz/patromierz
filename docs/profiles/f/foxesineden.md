@@ -1,5 +1,5 @@
 ---
-title: foxesineden | Patromierz
+title: "foxesineden | Patromierz"
 permalink: /foxesineden
 ---
 
@@ -7,7 +7,7 @@ permalink: /foxesineden
 <script type="text/javascript" src="data/f/foxesineden.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [foxesineden](https://patronite.pl/foxesineden)
+# [Foxes in Eden](https://patronite.pl/foxesineden)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TheravadaPL | Patromierz
+title: "TheravadaPL | Patromierz"
 permalink: /TheravadaPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /TheravadaPL
 <script type="text/javascript" src="data/t/TheravadaPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TheravadaPL](https://patronite.pl/TheravadaPL)
+# [Fundacja "Theravada"](https://patronite.pl/TheravadaPL)
 
 ## Miesięczne wsparcie
 

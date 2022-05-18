@@ -1,5 +1,5 @@
 ---
-title: Kostrzyński | Patromierz
+title: "Kostrzyński | Patromierz"
 permalink: /Kostrzyński
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kostrzyński
 <script type="text/javascript" src="data/k/Kostrzyński.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kostrzyński](https://patronite.pl/Kostrzyński)
+# [Marcin Kostrzyński](https://patronite.pl/Kostrzyński)
 
 ## Miesięczne wsparcie
 

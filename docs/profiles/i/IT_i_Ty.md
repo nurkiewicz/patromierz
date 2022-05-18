@@ -1,5 +1,5 @@
 ---
-title: IT_i_Ty | Patromierz
+title: "IT_i_Ty | Patromierz"
 permalink: /IT_i_Ty
 ---
 
@@ -7,7 +7,7 @@ permalink: /IT_i_Ty
 <script type="text/javascript" src="data/i/IT_i_Ty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IT_i_Ty](https://patronite.pl/IT_i_Ty)
+# [Damian Ruciński](https://patronite.pl/IT_i_Ty)
 
 ## Miesięczne wsparcie
 

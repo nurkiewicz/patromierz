@@ -1,5 +1,5 @@
 ---
-title: kspolonia | Patromierz
+title: "kspolonia | Patromierz"
 permalink: /kspolonia
 ---
 
@@ -7,7 +7,7 @@ permalink: /kspolonia
 <script type="text/javascript" src="data/k/kspolonia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kspolonia](https://patronite.pl/kspolonia)
+# [KS Polonia Poznań](https://patronite.pl/kspolonia)
 
 ## Miesięczne wsparcie
 

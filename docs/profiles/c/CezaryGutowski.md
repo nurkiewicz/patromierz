@@ -1,5 +1,5 @@
 ---
-title: CezaryGutowski | Patromierz
+title: "CezaryGutowski | Patromierz"
 permalink: /CezaryGutowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /CezaryGutowski
 <script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CezaryGutowski](https://patronite.pl/CezaryGutowski)
+# [Cezary Gutowski](https://patronite.pl/CezaryGutowski)
 
 ## Miesięczne wsparcie
 

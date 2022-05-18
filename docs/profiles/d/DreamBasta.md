@@ -1,5 +1,5 @@
 ---
-title: DreamBasta | Patromierz
+title: "DreamBasta | Patromierz"
 permalink: /DreamBasta
 ---
 
@@ -7,7 +7,7 @@ permalink: /DreamBasta
 <script type="text/javascript" src="data/d/DreamBasta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [DreamBasta](https://patronite.pl/DreamBasta)
+# [Rafał Gerlach-Basta](https://patronite.pl/DreamBasta)
 
 ## Miesięczne wsparcie
 

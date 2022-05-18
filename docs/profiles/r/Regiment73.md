@@ -1,5 +1,5 @@
 ---
-title: Regiment73 | Patromierz
+title: "Regiment73 | Patromierz"
 permalink: /Regiment73
 ---
 
@@ -7,7 +7,7 @@ permalink: /Regiment73
 <script type="text/javascript" src="data/r/Regiment73.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Regiment73](https://patronite.pl/Regiment73)
+# [GRH Inf.-Reg. 73](https://patronite.pl/Regiment73)
 
 ## Miesięczne wsparcie
 

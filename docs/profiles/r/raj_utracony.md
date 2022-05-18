@@ -1,5 +1,5 @@
 ---
-title: raj_utracony | Patromierz
+title: "raj_utracony | Patromierz"
 permalink: /raj_utracony
 ---
 
@@ -7,7 +7,7 @@ permalink: /raj_utracony
 <script type="text/javascript" src="data/r/raj_utracony.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [raj_utracony](https://patronite.pl/raj_utracony)
+# [Król Pustkowia | Jerzy Kaśków](https://patronite.pl/raj_utracony)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjakatarzynykozyry | Patromierz
+title: "fundacjakatarzynykozyry | Patromierz"
 permalink: /fundacjakatarzynykozyry
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjakatarzynykozyry
 <script type="text/javascript" src="data/f/fundacjakatarzynykozyry.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjakatarzynykozyry](https://patronite.pl/fundacjakatarzynykozyry)
+# [Fundacja Katarzyny Kozyry](https://patronite.pl/fundacjakatarzynykozyry)
 
 ## Miesięczne wsparcie
 

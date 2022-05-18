@@ -1,5 +1,5 @@
 ---
-title: gospeljoy | Patromierz
+title: "gospeljoy | Patromierz"
 permalink: /gospeljoy
 ---
 
@@ -7,7 +7,7 @@ permalink: /gospeljoy
 <script type="text/javascript" src="data/g/gospeljoy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gospeljoy](https://patronite.pl/gospeljoy)
+# [Gospel Joy](https://patronite.pl/gospeljoy)
 
 ## Miesięczne wsparcie
 

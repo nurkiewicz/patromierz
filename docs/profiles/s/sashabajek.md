@@ -1,5 +1,5 @@
 ---
-title: sashabajek | Patromierz
+title: "sashabajek | Patromierz"
 permalink: /sashabajek
 ---
 
@@ -7,7 +7,7 @@ permalink: /sashabajek
 <script type="text/javascript" src="data/s/sashabajek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sashabajek](https://patronite.pl/sashabajek)
+# [Sasha Bajek - Rosjanka w Polsce](https://patronite.pl/sashabajek)
 
 ## Miesięczne wsparcie
 

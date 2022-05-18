@@ -1,5 +1,5 @@
 ---
-title: maciekgmp40 | Patromierz
+title: "maciekgmp40 | Patromierz"
 permalink: /maciekgmp40
 ---
 
@@ -7,7 +7,7 @@ permalink: /maciekgmp40
 <script type="text/javascript" src="data/m/maciekgmp40.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maciekgmp40](https://patronite.pl/maciekgmp40)
+# [MaciekGMP40](https://patronite.pl/maciekgmp40)
 
 ## Miesięczne wsparcie
 

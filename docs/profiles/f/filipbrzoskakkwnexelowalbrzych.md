@@ -1,5 +1,5 @@
 ---
-title: filipbrzoskakkwnexelowalbrzych | Patromierz
+title: "filipbrzoskakkwnexelowalbrzych | Patromierz"
 permalink: /filipbrzoskakkwnexelowalbrzych
 ---
 
@@ -7,7 +7,7 @@ permalink: /filipbrzoskakkwnexelowalbrzych
 <script type="text/javascript" src="data/f/filipbrzoskakkwnexelowalbrzych.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [filipbrzoskakkwnexelowalbrzych](https://patronite.pl/filipbrzoskakkwnexelowalbrzych)
+# [Filip Brzóska](https://patronite.pl/filipbrzoskakkwnexelowalbrzych)
 
 ## Miesięczne wsparcie
 

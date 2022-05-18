@@ -1,5 +1,5 @@
 ---
-title: jacekparczewski | Patromierz
+title: "jacekparczewski | Patromierz"
 permalink: /jacekparczewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /jacekparczewski
 <script type="text/javascript" src="data/j/jacekparczewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jacekparczewski](https://patronite.pl/jacekparczewski)
+# [Jacek Parczewski](https://patronite.pl/jacekparczewski)
 
 ## Miesięczne wsparcie
 

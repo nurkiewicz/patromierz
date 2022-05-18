@@ -1,5 +1,5 @@
 ---
-title: dekorady | Patromierz
+title: "dekorady | Patromierz"
 permalink: /dekorady
 ---
 
@@ -7,7 +7,7 @@ permalink: /dekorady
 <script type="text/javascript" src="data/d/dekorady.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dekorady](https://patronite.pl/dekorady)
+# [dekorady Klaudia Jachna](https://patronite.pl/dekorady)
 
 ## Miesięczne wsparcie
 

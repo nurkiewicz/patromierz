@@ -1,5 +1,5 @@
 ---
-title: konkretnykanal | Patromierz
+title: "konkretnykanal | Patromierz"
 permalink: /konkretnykanal
 ---
 
@@ -7,7 +7,7 @@ permalink: /konkretnykanal
 <script type="text/javascript" src="data/k/konkretnykanal.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [konkretnykanal](https://patronite.pl/konkretnykanal)
+# [Konkretny Kanał](https://patronite.pl/konkretnykanal)
 
 ## Miesięczne wsparcie
 

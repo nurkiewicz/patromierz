@@ -1,5 +1,5 @@
 ---
-title: mprylinska.wixsite.com | Patromierz
+title: "mprylinska.wixsite.com | Patromierz"
 permalink: /mprylinska.wixsite.com
 ---
 
@@ -7,7 +7,7 @@ permalink: /mprylinska.wixsite.com
 <script type="text/javascript" src="data/m/mprylinska.wixsite.com.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mprylinska.wixsite.com](https://patronite.pl/mprylinska.wixsite.com)
+# [Monika Prylinska](https://patronite.pl/mprylinska.wixsite.com)
 
 ## Miesięczne wsparcie
 

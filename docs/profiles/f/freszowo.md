@@ -1,5 +1,5 @@
 ---
-title: freszowo | Patromierz
+title: "freszowo | Patromierz"
 permalink: /freszowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /freszowo
 <script type="text/javascript" src="data/f/freszowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [freszowo](https://patronite.pl/freszowo)
+# [Tomasz Rudolf](https://patronite.pl/freszowo)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: sdamost | Patromierz
+title: "sdamost | Patromierz"
 permalink: /sdamost
 ---
 
@@ -7,7 +7,7 @@ permalink: /sdamost
 <script type="text/javascript" src="data/s/sdamost.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sdamost](https://patronite.pl/sdamost)
+# [Salezjańskie Duszpasterstwo Akademickie MOST ](https://patronite.pl/sdamost)
 
 ## Miesięczne wsparcie
 

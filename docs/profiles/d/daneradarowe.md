@@ -1,5 +1,5 @@
 ---
-title: daneradarowe | Patromierz
+title: "daneradarowe | Patromierz"
 permalink: /daneradarowe
 ---
 
@@ -7,7 +7,7 @@ permalink: /daneradarowe
 <script type="text/javascript" src="data/d/daneradarowe.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [daneradarowe](https://patronite.pl/daneradarowe)
+# [daneradarowe.pl](https://patronite.pl/daneradarowe)
 
 ## Miesięczne wsparcie
 

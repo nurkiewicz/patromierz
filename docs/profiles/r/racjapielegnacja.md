@@ -1,5 +1,5 @@
 ---
-title: racjapielegnacja | Patromierz
+title: "racjapielegnacja | Patromierz"
 permalink: /racjapielegnacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /racjapielegnacja
 <script type="text/javascript" src="data/r/racjapielegnacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [racjapielegnacja](https://patronite.pl/racjapielegnacja)
+# [Racjapielęgnacja](https://patronite.pl/racjapielegnacja)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: raczek | Patromierz
+title: "raczek | Patromierz"
 permalink: /raczek
 ---
 
@@ -7,7 +7,7 @@ permalink: /raczek
 <script type="text/javascript" src="data/r/raczek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [raczek](https://patronite.pl/raczek)
+# [Tomasz Raczek](https://patronite.pl/raczek)
 
 ## Miesięczne wsparcie
 

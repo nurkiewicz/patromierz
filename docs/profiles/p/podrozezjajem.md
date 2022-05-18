@@ -1,5 +1,5 @@
 ---
-title: podrozezjajem | Patromierz
+title: "podrozezjajem | Patromierz"
 permalink: /podrozezjajem
 ---
 
@@ -7,7 +7,7 @@ permalink: /podrozezjajem
 <script type="text/javascript" src="data/p/podrozezjajem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podrozezjajem](https://patronite.pl/podrozezjajem)
+# [Podróże z Jajem](https://patronite.pl/podrozezjajem)
 
 ## Miesięczne wsparcie
 

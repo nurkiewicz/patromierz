@@ -1,5 +1,5 @@
 ---
-title: Kmitoska | Patromierz
+title: "Kmitoska | Patromierz"
 permalink: /Kmitoska
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kmitoska
 <script type="text/javascript" src="data/k/Kmitoska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kmitoska](https://patronite.pl/Kmitoska)
+# [Alicja Kmita](https://patronite.pl/Kmitoska)
 
 ## Miesięczne wsparcie
 

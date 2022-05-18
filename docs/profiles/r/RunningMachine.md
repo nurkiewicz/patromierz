@@ -1,5 +1,5 @@
 ---
-title: RunningMachine | Patromierz
+title: "RunningMachine | Patromierz"
 permalink: /RunningMachine
 ---
 
@@ -7,7 +7,7 @@ permalink: /RunningMachine
 <script type="text/javascript" src="data/r/RunningMachine.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [RunningMachine](https://patronite.pl/RunningMachine)
+# [Running Machine](https://patronite.pl/RunningMachine)
 
 ## Miesięczne wsparcie
 

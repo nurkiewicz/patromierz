@@ -1,5 +1,5 @@
 ---
-title: Barycza | Patromierz
+title: "Barycza | Patromierz"
 permalink: /Barycza
 ---
 
@@ -7,7 +7,7 @@ permalink: /Barycza
 <script type="text/javascript" src="data/b/Barycza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Barycza](https://patronite.pl/Barycza)
+# [Sebastian Barycza](https://patronite.pl/Barycza)
 
 ## Miesięczne wsparcie
 

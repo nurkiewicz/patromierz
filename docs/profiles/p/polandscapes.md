@@ -1,5 +1,5 @@
 ---
-title: polandscapes | Patromierz
+title: "polandscapes | Patromierz"
 permalink: /polandscapes
 ---
 
@@ -7,7 +7,7 @@ permalink: /polandscapes
 <script type="text/javascript" src="data/p/polandscapes.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polandscapes](https://patronite.pl/polandscapes)
+# [Polandscapes](https://patronite.pl/polandscapes)
 
 ## Miesięczne wsparcie
 

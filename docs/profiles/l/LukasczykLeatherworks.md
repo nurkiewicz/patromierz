@@ -1,5 +1,5 @@
 ---
-title: LukasczykLeatherworks | Patromierz
+title: "LukasczykLeatherworks | Patromierz"
 permalink: /LukasczykLeatherworks
 ---
 
@@ -7,7 +7,7 @@ permalink: /LukasczykLeatherworks
 <script type="text/javascript" src="data/l/LukasczykLeatherworks.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LukasczykLeatherworks](https://patronite.pl/LukasczykLeatherworks)
+# [Lukasczyk Wyroby Skórzane](https://patronite.pl/LukasczykLeatherworks)
 
 ## Miesięczne wsparcie
 

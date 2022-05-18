@@ -1,5 +1,5 @@
 ---
-title: SkyRoad | Patromierz
+title: "SkyRoad | Patromierz"
 permalink: /SkyRoad
 ---
 
@@ -7,7 +7,7 @@ permalink: /SkyRoad
 <script type="text/javascript" src="data/s/SkyRoad.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SkyRoad](https://patronite.pl/SkyRoad)
+# [Sky Road](https://patronite.pl/SkyRoad)
 
 ## Miesięczne wsparcie
 

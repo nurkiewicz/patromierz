@@ -1,5 +1,5 @@
 ---
-title: znamiotemnadachu.pl | Patromierz
+title: "znamiotemnadachu.pl | Patromierz"
 permalink: /znamiotemnadachu.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /znamiotemnadachu.pl
 <script type="text/javascript" src="data/z/znamiotemnadachu.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znamiotemnadachu.pl](https://patronite.pl/znamiotemnadachu.pl)
+# [GibkoLand - zNamiotemNaDachu.pl](https://patronite.pl/znamiotemnadachu.pl)
 
 ## Miesięczne wsparcie
 

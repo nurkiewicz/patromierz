@@ -1,5 +1,5 @@
 ---
-title: wikingowie | Patromierz
+title: "wikingowie | Patromierz"
 permalink: /wikingowie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wikingowie
 <script type="text/javascript" src="data/w/wikingowie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wikingowie](https://patronite.pl/wikingowie)
+# [Radosław Lewandowski](https://patronite.pl/wikingowie)
 
 ## Miesięczne wsparcie
 

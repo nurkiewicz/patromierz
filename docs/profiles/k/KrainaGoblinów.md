@@ -1,5 +1,5 @@
 ---
-title: KrainaGoblinów | Patromierz
+title: "KrainaGoblinów | Patromierz"
 permalink: /KrainaGoblinów
 ---
 
@@ -7,7 +7,7 @@ permalink: /KrainaGoblinów
 <script type="text/javascript" src="data/k/KrainaGoblinów.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KrainaGoblinów](https://patronite.pl/KrainaGoblinów)
+# [Kraina Goblinów](https://patronite.pl/KrainaGoblinów)
 
 ## Miesięczne wsparcie
 

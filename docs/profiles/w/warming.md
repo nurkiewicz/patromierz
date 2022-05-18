@@ -1,5 +1,5 @@
 ---
-title: warming | Patromierz
+title: "warming | Patromierz"
 permalink: /warming
 ---
 
@@ -7,7 +7,7 @@ permalink: /warming
 <script type="text/javascript" src="data/w/warming.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warming](https://patronite.pl/warming)
+# [Warming](https://patronite.pl/warming)
 
 ## Miesięczne wsparcie
 

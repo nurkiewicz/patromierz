@@ -1,5 +1,5 @@
 ---
-title: grananerwach | Patromierz
+title: "grananerwach | Patromierz"
 permalink: /grananerwach
 ---
 
@@ -7,7 +7,7 @@ permalink: /grananerwach
 <script type="text/javascript" src="data/g/grananerwach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grananerwach](https://patronite.pl/grananerwach)
+# [Gra na nerwach](https://patronite.pl/grananerwach)
 
 ## Miesięczne wsparcie
 

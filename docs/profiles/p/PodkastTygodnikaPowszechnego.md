@@ -1,5 +1,5 @@
 ---
-title: PodkastTygodnikaPowszechnego | Patromierz
+title: "PodkastTygodnikaPowszechnego | Patromierz"
 permalink: /PodkastTygodnikaPowszechnego
 ---
 
@@ -7,7 +7,7 @@ permalink: /PodkastTygodnikaPowszechnego
 <script type="text/javascript" src="data/p/PodkastTygodnikaPowszechnego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PodkastTygodnikaPowszechnego](https://patronite.pl/PodkastTygodnikaPowszechnego)
+# [Podkast Tygodnika Powszechnego](https://patronite.pl/PodkastTygodnikaPowszechnego)
 
 ## Miesięczne wsparcie
 

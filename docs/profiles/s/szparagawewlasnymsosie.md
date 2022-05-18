@@ -1,5 +1,5 @@
 ---
-title: szparagawewlasnymsosie | Patromierz
+title: "szparagawewlasnymsosie | Patromierz"
 permalink: /szparagawewlasnymsosie
 ---
 
@@ -7,7 +7,7 @@ permalink: /szparagawewlasnymsosie
 <script type="text/javascript" src="data/s/szparagawewlasnymsosie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szparagawewlasnymsosie](https://patronite.pl/szparagawewlasnymsosie)
+# [Szparaga we własnym sosie](https://patronite.pl/szparagawewlasnymsosie)
 
 ## Miesięczne wsparcie
 

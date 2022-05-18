@@ -1,5 +1,5 @@
 ---
-title: fizykwyjasnia | Patromierz
+title: "fizykwyjasnia | Patromierz"
 permalink: /fizykwyjasnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /fizykwyjasnia
 <script type="text/javascript" src="data/f/fizykwyjasnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fizykwyjasnia](https://patronite.pl/fizykwyjasnia)
+# [Fizyk Wyjaśnia](https://patronite.pl/fizykwyjasnia)
 
 ## Miesięczne wsparcie
 

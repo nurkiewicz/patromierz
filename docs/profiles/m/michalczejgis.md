@@ -1,5 +1,5 @@
 ---
-title: michalczejgis | Patromierz
+title: "michalczejgis | Patromierz"
 permalink: /michalczejgis
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalczejgis
 <script type="text/javascript" src="data/m/michalczejgis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalczejgis](https://patronite.pl/michalczejgis)
+# [Michał Czejgis](https://patronite.pl/michalczejgis)
 
 ## Miesięczne wsparcie
 

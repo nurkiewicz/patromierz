@@ -1,5 +1,5 @@
 ---
-title: vrah | Patromierz
+title: "vrah | Patromierz"
 permalink: /vrah
 ---
 
@@ -7,7 +7,7 @@ permalink: /vrah
 <script type="text/javascript" src="data/v/vrah.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vrah](https://patronite.pl/vrah)
+# [Vrah](https://patronite.pl/vrah)
 
 ## Miesięczne wsparcie
 

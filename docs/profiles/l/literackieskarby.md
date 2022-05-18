@@ -1,5 +1,5 @@
 ---
-title: literackieskarby | Patromierz
+title: "literackieskarby | Patromierz"
 permalink: /literackieskarby
 ---
 
@@ -7,7 +7,7 @@ permalink: /literackieskarby
 <script type="text/javascript" src="data/l/literackieskarby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [literackieskarby](https://patronite.pl/literackieskarby)
+# [Literackie Skarby Świata Całego](https://patronite.pl/literackieskarby)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: historiarealna | Patromierz
+title: "historiarealna | Patromierz"
 permalink: /historiarealna
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiarealna
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiarealna](https://patronite.pl/historiarealna)
+# [Historia Realna - Piotr Zychowicz](https://patronite.pl/historiarealna)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Bikedreams | Patromierz
+title: "Bikedreams | Patromierz"
 permalink: /Bikedreams
 ---
 
@@ -7,7 +7,7 @@ permalink: /Bikedreams
 <script type="text/javascript" src="data/b/Bikedreams.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Bikedreams](https://patronite.pl/Bikedreams)
+# [Rafał Gręźlikowski](https://patronite.pl/Bikedreams)
 
 ## Miesięczne wsparcie
 

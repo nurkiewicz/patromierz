@@ -1,5 +1,5 @@
 ---
-title: kolejbeskidzka | Patromierz
+title: "kolejbeskidzka | Patromierz"
 permalink: /kolejbeskidzka
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolejbeskidzka
 <script type="text/javascript" src="data/k/kolejbeskidzka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolejbeskidzka](https://patronite.pl/kolejbeskidzka)
+# [Stowarzyszenie "Kolej Beskidzka"](https://patronite.pl/kolejbeskidzka)
 
 ## Miesięczne wsparcie
 

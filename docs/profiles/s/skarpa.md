@@ -1,5 +1,5 @@
 ---
-title: skarpa | Patromierz
+title: "skarpa | Patromierz"
 permalink: /skarpa
 ---
 
@@ -7,7 +7,7 @@ permalink: /skarpa
 <script type="text/javascript" src="data/s/skarpa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skarpa](https://patronite.pl/skarpa)
+# [Bikepark Skarpa](https://patronite.pl/skarpa)
 
 ## Miesięczne wsparcie
 

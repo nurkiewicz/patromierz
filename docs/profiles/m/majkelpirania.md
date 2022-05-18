@@ -1,5 +1,5 @@
 ---
-title: majkelpirania | Patromierz
+title: "majkelpirania | Patromierz"
 permalink: /majkelpirania
 ---
 
@@ -7,7 +7,7 @@ permalink: /majkelpirania
 <script type="text/javascript" src="data/m/majkelpirania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [majkelpirania](https://patronite.pl/majkelpirania)
+# [Michał Piech "Majkel"](https://patronite.pl/majkelpirania)
 
 ## Miesięczne wsparcie
 

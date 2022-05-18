@@ -1,5 +1,5 @@
 ---
-title: portalwarszawski | Patromierz
+title: "portalwarszawski | Patromierz"
 permalink: /portalwarszawski
 ---
 
@@ -7,7 +7,7 @@ permalink: /portalwarszawski
 <script type="text/javascript" src="data/p/portalwarszawski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [portalwarszawski](https://patronite.pl/portalwarszawski)
+# [Portal Warszawski](https://patronite.pl/portalwarszawski)
 
 ## Miesięczne wsparcie
 

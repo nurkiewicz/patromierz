@@ -1,5 +1,5 @@
 ---
-title: energy-instrat-PL | Patromierz
+title: "energy-instrat-PL | Patromierz"
 permalink: /energy-instrat-PL
 ---
 
@@ -7,7 +7,7 @@ permalink: /energy-instrat-PL
 <script type="text/javascript" src="data/e/energy-instrat-PL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [energy-instrat-PL](https://patronite.pl/energy-instrat-PL)
+# [Fundacja Instrat](https://patronite.pl/energy-instrat-PL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KosmalaGitara | Patromierz
+title: "KosmalaGitara | Patromierz"
 permalink: /KosmalaGitara
 ---
 
@@ -7,7 +7,7 @@ permalink: /KosmalaGitara
 <script type="text/javascript" src="data/k/KosmalaGitara.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KosmalaGitara](https://patronite.pl/KosmalaGitara)
+# [Michał Kosmala](https://patronite.pl/KosmalaGitara)
 
 ## Miesięczne wsparcie
 

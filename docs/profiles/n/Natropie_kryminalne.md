@@ -1,5 +1,5 @@
 ---
-title: Natropie_kryminalne | Patromierz
+title: "Natropie_kryminalne | Patromierz"
 permalink: /Natropie_kryminalne
 ---
 
@@ -7,7 +7,7 @@ permalink: /Natropie_kryminalne
 <script type="text/javascript" src="data/n/Natropie_kryminalne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Natropie_kryminalne](https://patronite.pl/Natropie_kryminalne)
+# [Na Tropie- Historie kryminalne](https://patronite.pl/Natropie_kryminalne)
 
 ## Miesięczne wsparcie
 

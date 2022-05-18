@@ -1,5 +1,5 @@
 ---
-title: Kobalt | Patromierz
+title: "Kobalt | Patromierz"
 permalink: /Kobalt
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kobalt
 <script type="text/javascript" src="data/k/Kobalt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kobalt](https://patronite.pl/Kobalt)
+# [Kobalt ](https://patronite.pl/Kobalt)
 
 ## Miesięczne wsparcie
 

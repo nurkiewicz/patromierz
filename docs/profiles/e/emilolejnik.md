@@ -1,5 +1,5 @@
 ---
-title: emilolejnik | Patromierz
+title: "emilolejnik | Patromierz"
 permalink: /emilolejnik
 ---
 
@@ -7,7 +7,7 @@ permalink: /emilolejnik
 <script type="text/javascript" src="data/e/emilolejnik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [emilolejnik](https://patronite.pl/emilolejnik)
+# [Emil Olejnik](https://patronite.pl/emilolejnik)
 
 ## Miesięczne wsparcie
 

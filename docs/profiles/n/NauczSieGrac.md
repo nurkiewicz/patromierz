@@ -1,5 +1,5 @@
 ---
-title: NauczSieGrac | Patromierz
+title: "NauczSieGrac | Patromierz"
 permalink: /NauczSieGrac
 ---
 
@@ -7,7 +7,7 @@ permalink: /NauczSieGrac
 <script type="text/javascript" src="data/n/NauczSieGrac.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NauczSieGrac](https://patronite.pl/NauczSieGrac)
+# [Naucz sie grac](https://patronite.pl/NauczSieGrac)
 
 ## Miesięczne wsparcie
 

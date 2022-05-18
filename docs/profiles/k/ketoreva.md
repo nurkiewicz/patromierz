@@ -1,5 +1,5 @@
 ---
-title: ketoreva | Patromierz
+title: "ketoreva | Patromierz"
 permalink: /ketoreva
 ---
 
@@ -7,7 +7,7 @@ permalink: /ketoreva
 <script type="text/javascript" src="data/k/ketoreva.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ketoreva](https://patronite.pl/ketoreva)
+# [KetoReva.pl](https://patronite.pl/ketoreva)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SMOKPL | Patromierz
+title: "SMOKPL | Patromierz"
 permalink: /SMOKPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /SMOKPL
 <script type="text/javascript" src="data/s/SMOKPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SMOKPL](https://patronite.pl/SMOKPL)
+# [Klubowe muzeum retro komputerów Stowarzyszenia Miłośników Oldschoolowych Komputerów SMOK](https://patronite.pl/SMOKPL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fabisz | Patromierz
+title: "fabisz | Patromierz"
 permalink: /fabisz
 ---
 
@@ -7,7 +7,7 @@ permalink: /fabisz
 <script type="text/javascript" src="data/f/fabisz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fabisz](https://patronite.pl/fabisz)
+# [Fabisz](https://patronite.pl/fabisz)
 
 ## Miesięczne wsparcie
 

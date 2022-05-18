@@ -1,5 +1,5 @@
 ---
-title: zabawyjedzeniem | Patromierz
+title: "zabawyjedzeniem | Patromierz"
 permalink: /zabawyjedzeniem
 ---
 
@@ -7,7 +7,7 @@ permalink: /zabawyjedzeniem
 <script type="text/javascript" src="data/z/zabawyjedzeniem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zabawyjedzeniem](https://patronite.pl/zabawyjedzeniem)
+# [Zabawy Jedzeniem](https://patronite.pl/zabawyjedzeniem)
 
 ## Miesięczne wsparcie
 

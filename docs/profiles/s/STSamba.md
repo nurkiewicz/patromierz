@@ -1,5 +1,5 @@
 ---
-title: STSamba | Patromierz
+title: "STSamba | Patromierz"
 permalink: /STSamba
 ---
 
@@ -7,7 +7,7 @@ permalink: /STSamba
 <script type="text/javascript" src="data/s/STSamba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [STSamba](https://patronite.pl/STSamba)
+# [Szkoła Tańca SAMBA Tarnobrzeg](https://patronite.pl/STSamba)
 
 ## Miesięczne wsparcie
 

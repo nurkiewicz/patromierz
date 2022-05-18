@@ -1,5 +1,5 @@
 ---
-title: Prometej | Patromierz
+title: "Prometej | Patromierz"
 permalink: /Prometej
 ---
 
@@ -7,7 +7,7 @@ permalink: /Prometej
 <script type="text/javascript" src="data/p/Prometej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Prometej](https://patronite.pl/Prometej)
+# [Prometej Wyzwolony](https://patronite.pl/Prometej)
 
 ## Miesięczne wsparcie
 

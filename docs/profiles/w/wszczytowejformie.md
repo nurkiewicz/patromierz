@@ -1,5 +1,5 @@
 ---
-title: wszczytowejformie | Patromierz
+title: "wszczytowejformie | Patromierz"
 permalink: /wszczytowejformie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wszczytowejformie
 <script type="text/javascript" src="data/w/wszczytowejformie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wszczytowejformie](https://patronite.pl/wszczytowejformie)
+# [W Szczytowej Formie](https://patronite.pl/wszczytowejformie)
 
 ## Miesięczne wsparcie
 

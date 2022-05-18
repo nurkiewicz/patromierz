@@ -1,5 +1,5 @@
 ---
-title: HubertRoszyk | Patromierz
+title: "HubertRoszyk | Patromierz"
 permalink: /HubertRoszyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /HubertRoszyk
 <script type="text/javascript" src="data/h/HubertRoszyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HubertRoszyk](https://patronite.pl/HubertRoszyk)
+# [Hubert Roszyk](https://patronite.pl/HubertRoszyk)
 
 ## Miesięczne wsparcie
 

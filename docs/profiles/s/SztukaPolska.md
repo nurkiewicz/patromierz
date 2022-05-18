@@ -1,5 +1,5 @@
 ---
-title: SztukaPolska | Patromierz
+title: "SztukaPolska | Patromierz"
 permalink: /SztukaPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /SztukaPolska
 <script type="text/javascript" src="data/s/SztukaPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SztukaPolska](https://patronite.pl/SztukaPolska)
+# [Sztuka Polska](https://patronite.pl/SztukaPolska)
 
 ## Miesięczne wsparcie
 

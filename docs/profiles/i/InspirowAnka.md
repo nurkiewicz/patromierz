@@ -1,5 +1,5 @@
 ---
-title: InspirowAnka | Patromierz
+title: "InspirowAnka | Patromierz"
 permalink: /InspirowAnka
 ---
 
@@ -7,7 +7,7 @@ permalink: /InspirowAnka
 <script type="text/javascript" src="data/i/InspirowAnka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [InspirowAnka](https://patronite.pl/InspirowAnka)
+# [Anna Kurtasz/Inspirow.Anka](https://patronite.pl/InspirowAnka)
 
 ## Miesięczne wsparcie
 

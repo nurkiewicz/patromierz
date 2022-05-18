@@ -1,5 +1,5 @@
 ---
-title: KeepItalian | Patromierz
+title: "KeepItalian | Patromierz"
 permalink: /KeepItalian
 ---
 
@@ -7,7 +7,7 @@ permalink: /KeepItalian
 <script type="text/javascript" src="data/k/KeepItalian.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KeepItalian](https://patronite.pl/KeepItalian)
+# [Monika Chojecka](https://patronite.pl/KeepItalian)
 
 ## Miesięczne wsparcie
 

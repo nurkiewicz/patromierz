@@ -1,5 +1,5 @@
 ---
-title: OneMilionPortraits | Patromierz
+title: "OneMilionPortraits | Patromierz"
 permalink: /OneMilionPortraits
 ---
 
@@ -7,7 +7,7 @@ permalink: /OneMilionPortraits
 <script type="text/javascript" src="data/o/OneMilionPortraits.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OneMilionPortraits](https://patronite.pl/OneMilionPortraits)
+# [Łukasz  Droździk](https://patronite.pl/OneMilionPortraits)
 
 ## Miesięczne wsparcie
 

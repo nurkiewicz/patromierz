@@ -1,5 +1,5 @@
 ---
-title: Jablekikawa | Patromierz
+title: "Jablekikawa | Patromierz"
 permalink: /Jablekikawa
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: obcy | Patromierz
+title: "obcy | Patromierz"
 permalink: /obcy
 ---
 
@@ -7,7 +7,7 @@ permalink: /obcy
 <script type="text/javascript" src="data/o/obcy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [obcy](https://patronite.pl/obcy)
+# [obcy artist run space](https://patronite.pl/obcy)
 
 ## Miesięczne wsparcie
 

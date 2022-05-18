@@ -1,5 +1,5 @@
 ---
-title: ROCKDAYPL | Patromierz
+title: "ROCKDAYPL | Patromierz"
 permalink: /ROCKDAYPL
 ---
 

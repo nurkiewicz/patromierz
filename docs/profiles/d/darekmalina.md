@@ -1,5 +1,5 @@
 ---
-title: darekmalina | Patromierz
+title: "darekmalina | Patromierz"
 permalink: /darekmalina
 ---
 
@@ -7,7 +7,7 @@ permalink: /darekmalina
 <script type="text/javascript" src="data/d/darekmalina.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [darekmalina](https://patronite.pl/darekmalina)
+# [Darek Malinowski](https://patronite.pl/darekmalina)
 
 ## Miesięczne wsparcie
 

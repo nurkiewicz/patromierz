@@ -1,5 +1,5 @@
 ---
-title: Malaczarnaipyskata | Patromierz
+title: "Malaczarnaipyskata | Patromierz"
 permalink: /Malaczarnaipyskata
 ---
 
@@ -7,7 +7,7 @@ permalink: /Malaczarnaipyskata
 <script type="text/javascript" src="data/m/Malaczarnaipyskata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Malaczarnaipyskata](https://patronite.pl/Malaczarnaipyskata)
+# [Mała Czarna i Pyskata](https://patronite.pl/Malaczarnaipyskata)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: NowyTygodnikKulturalny | Patromierz
+title: "NowyTygodnikKulturalny | Patromierz"
 permalink: /NowyTygodnikKulturalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /NowyTygodnikKulturalny
 <script type="text/javascript" src="data/n/NowyTygodnikKulturalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NowyTygodnikKulturalny](https://patronite.pl/NowyTygodnikKulturalny)
+# [Nowy Tygodnik Kulturalny](https://patronite.pl/NowyTygodnikKulturalny)
 
 ## Miesięczne wsparcie
 

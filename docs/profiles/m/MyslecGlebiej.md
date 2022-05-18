@@ -1,5 +1,5 @@
 ---
-title: MyslecGlebiej | Patromierz
+title: "MyslecGlebiej | Patromierz"
 permalink: /MyslecGlebiej
 ---
 
@@ -7,7 +7,7 @@ permalink: /MyslecGlebiej
 <script type="text/javascript" src="data/m/MyslecGlebiej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MyslecGlebiej](https://patronite.pl/MyslecGlebiej)
+# [Myśleć Głębiej](https://patronite.pl/MyslecGlebiej)
 
 ## Miesięczne wsparcie
 

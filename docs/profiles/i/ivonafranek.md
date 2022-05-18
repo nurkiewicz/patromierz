@@ -1,5 +1,5 @@
 ---
-title: ivonafranek | Patromierz
+title: "ivonafranek | Patromierz"
 permalink: /ivonafranek
 ---
 
@@ -7,7 +7,7 @@ permalink: /ivonafranek
 <script type="text/javascript" src="data/i/ivonafranek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ivonafranek](https://patronite.pl/ivonafranek)
+# [ivona franek](https://patronite.pl/ivonafranek)
 
 ## Miesięczne wsparcie
 

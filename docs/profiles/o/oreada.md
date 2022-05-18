@@ -1,5 +1,5 @@
 ---
-title: oreada | Patromierz
+title: "oreada | Patromierz"
 permalink: /oreada
 ---
 
@@ -7,7 +7,7 @@ permalink: /oreada
 <script type="text/javascript" src="data/o/oreada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oreada](https://patronite.pl/oreada)
+# [OREADA](https://patronite.pl/oreada)
 
 ## Miesięczne wsparcie
 

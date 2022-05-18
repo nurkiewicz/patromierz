@@ -1,5 +1,5 @@
 ---
-title: piotrhorzela | Patromierz
+title: "piotrhorzela | Patromierz"
 permalink: /piotrhorzela
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrhorzela
 <script type="text/javascript" src="data/p/piotrhorzela.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrhorzela](https://patronite.pl/piotrhorzela)
+# [Piotr Horzela - Opowiada](https://patronite.pl/piotrhorzela)
 
 ## Miesięczne wsparcie
 

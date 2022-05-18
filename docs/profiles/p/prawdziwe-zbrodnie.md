@@ -1,5 +1,5 @@
 ---
-title: prawdziwe-zbrodnie | Patromierz
+title: "prawdziwe-zbrodnie | Patromierz"
 permalink: /prawdziwe-zbrodnie
 ---
 
@@ -7,7 +7,7 @@ permalink: /prawdziwe-zbrodnie
 <script type="text/javascript" src="data/p/prawdziwe-zbrodnie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prawdziwe-zbrodnie](https://patronite.pl/prawdziwe-zbrodnie)
+# [Prawdziwe Zbrodnie Podcast](https://patronite.pl/prawdziwe-zbrodnie)
 
 ## Miesięczne wsparcie
 

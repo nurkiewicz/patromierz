@@ -1,5 +1,5 @@
 ---
-title: kurpie-historia-trwanie | Patromierz
+title: "kurpie-historia-trwanie | Patromierz"
 permalink: /kurpie-historia-trwanie
 ---
 
@@ -7,7 +7,7 @@ permalink: /kurpie-historia-trwanie
 <script type="text/javascript" src="data/k/kurpie-historia-trwanie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kurpie-historia-trwanie](https://patronite.pl/kurpie-historia-trwanie)
+# [Kurpie - historia i trwanie](https://patronite.pl/kurpie-historia-trwanie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: LeśnaKuchnia | Patromierz
+title: "LeśnaKuchnia | Patromierz"
 permalink: /LeśnaKuchnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /LeśnaKuchnia
 <script type="text/javascript" src="data/l/LeśnaKuchnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LeśnaKuchnia](https://patronite.pl/LeśnaKuchnia)
+# [Leśna Kuchnia](https://patronite.pl/LeśnaKuchnia)
 
 ## Miesięczne wsparcie
 

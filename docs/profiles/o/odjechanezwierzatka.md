@@ -1,5 +1,5 @@
 ---
-title: odjechanezwierzatka | Patromierz
+title: "odjechanezwierzatka | Patromierz"
 permalink: /odjechanezwierzatka
 ---
 
@@ -7,7 +7,7 @@ permalink: /odjechanezwierzatka
 <script type="text/javascript" src="data/o/odjechanezwierzatka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odjechanezwierzatka](https://patronite.pl/odjechanezwierzatka)
+# [Odjechane zwierzątka i jak ich szukać w internecie](https://patronite.pl/odjechanezwierzatka)
 
 ## Miesięczne wsparcie
 

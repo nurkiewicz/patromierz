@@ -1,5 +1,5 @@
 ---
-title: www.dominikrettinger | Patromierz
+title: "www.dominikrettinger | Patromierz"
 permalink: /www.dominikrettinger
 ---
 
@@ -7,7 +7,7 @@ permalink: /www.dominikrettinger
 <script type="text/javascript" src="data/w/www.dominikrettinger.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [www.dominikrettinger](https://patronite.pl/www.dominikrettinger)
+# [Dominik Wieczorkowski-Rettinger](https://patronite.pl/www.dominikrettinger)
 
 ## Miesięczne wsparcie
 

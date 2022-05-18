@@ -1,5 +1,5 @@
 ---
-title: jaknajwiecejpl | Patromierz
+title: "jaknajwiecejpl | Patromierz"
 permalink: /jaknajwiecejpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaknajwiecejpl
 <script type="text/javascript" src="data/j/jaknajwiecejpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaknajwiecejpl](https://patronite.pl/jaknajwiecejpl)
+# [jaknajwiecej.pl](https://patronite.pl/jaknajwiecejpl)
 
 ## Miesięczne wsparcie
 

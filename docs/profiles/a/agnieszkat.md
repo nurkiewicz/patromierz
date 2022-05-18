@@ -1,5 +1,5 @@
 ---
-title: agnieszkat | Patromierz
+title: "agnieszkat | Patromierz"
 permalink: /agnieszkat
 ---
 
@@ -7,7 +7,7 @@ permalink: /agnieszkat
 <script type="text/javascript" src="data/a/agnieszkat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agnieszkat](https://patronite.pl/agnieszkat)
+# [Agnieszka Styczna](https://patronite.pl/agnieszkat)
 
 ## Miesięczne wsparcie
 

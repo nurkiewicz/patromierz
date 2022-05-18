@@ -1,5 +1,5 @@
 ---
-title: polskikarting | Patromierz
+title: "polskikarting | Patromierz"
 permalink: /polskikarting
 ---
 
@@ -7,7 +7,7 @@ permalink: /polskikarting
 <script type="text/javascript" src="data/p/polskikarting.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polskikarting](https://patronite.pl/polskikarting)
+# [Polski Karting](https://patronite.pl/polskikarting)
 
 ## Miesięczne wsparcie
 

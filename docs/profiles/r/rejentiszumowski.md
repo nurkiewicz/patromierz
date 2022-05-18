@@ -1,5 +1,5 @@
 ---
-title: rejentiszumowski | Patromierz
+title: "rejentiszumowski | Patromierz"
 permalink: /rejentiszumowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /rejentiszumowski
 <script type="text/javascript" src="data/r/rejentiszumowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rejentiszumowski](https://patronite.pl/rejentiszumowski)
+# [Rejent i Szumowski w domu na streamie](https://patronite.pl/rejentiszumowski)
 
 ## Miesięczne wsparcie
 

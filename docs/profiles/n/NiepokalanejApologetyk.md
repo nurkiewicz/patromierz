@@ -1,5 +1,5 @@
 ---
-title: NiepokalanejApologetyk | Patromierz
+title: "NiepokalanejApologetyk | Patromierz"
 permalink: /NiepokalanejApologetyk
 ---
 
@@ -7,7 +7,7 @@ permalink: /NiepokalanejApologetyk
 <script type="text/javascript" src="data/n/NiepokalanejApologetyk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NiepokalanejApologetyk](https://patronite.pl/NiepokalanejApologetyk)
+# [Niepokalanej Apologetyk](https://patronite.pl/NiepokalanejApologetyk)
 
 ## Miesięczne wsparcie
 

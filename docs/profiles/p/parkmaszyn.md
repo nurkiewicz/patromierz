@@ -1,5 +1,5 @@
 ---
-title: parkmaszyn | Patromierz
+title: "parkmaszyn | Patromierz"
 permalink: /parkmaszyn
 ---
 
@@ -7,7 +7,7 @@ permalink: /parkmaszyn
 <script type="text/javascript" src="data/p/parkmaszyn.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [parkmaszyn](https://patronite.pl/parkmaszyn)
+# [Park Maszyn](https://patronite.pl/parkmaszyn)
 
 ## Miesięczne wsparcie
 

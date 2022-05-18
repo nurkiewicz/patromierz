@@ -1,5 +1,5 @@
 ---
-title: ManualZielarski | Patromierz
+title: "ManualZielarski | Patromierz"
 permalink: /ManualZielarski
 ---
 
@@ -7,7 +7,7 @@ permalink: /ManualZielarski
 <script type="text/javascript" src="data/m/ManualZielarski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ManualZielarski](https://patronite.pl/ManualZielarski)
+# [Manuał Zielarski](https://patronite.pl/ManualZielarski)
 
 ## Miesięczne wsparcie
 

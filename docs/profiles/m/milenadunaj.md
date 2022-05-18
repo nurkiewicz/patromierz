@@ -1,5 +1,5 @@
 ---
-title: milenadunaj | Patromierz
+title: "milenadunaj | Patromierz"
 permalink: /milenadunaj
 ---
 
@@ -7,7 +7,7 @@ permalink: /milenadunaj
 <script type="text/javascript" src="data/m/milenadunaj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [milenadunaj](https://patronite.pl/milenadunaj)
+# [Milena Dunaj](https://patronite.pl/milenadunaj)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: arthub | Patromierz
+title: "arthub | Patromierz"
 permalink: /arthub
 ---
 
@@ -7,7 +7,7 @@ permalink: /arthub
 <script type="text/javascript" src="data/a/arthub.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arthub](https://patronite.pl/arthub)
+# [ART HUB](https://patronite.pl/arthub)
 
 ## Miesięczne wsparcie
 

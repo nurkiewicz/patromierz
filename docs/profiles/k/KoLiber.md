@@ -1,5 +1,5 @@
 ---
-title: KoLiber | Patromierz
+title: "KoLiber | Patromierz"
 permalink: /KoLiber
 ---
 
@@ -7,7 +7,7 @@ permalink: /KoLiber
 <script type="text/javascript" src="data/k/KoLiber.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KoLiber](https://patronite.pl/KoLiber)
+# [Stowarzyszenie KoLiber](https://patronite.pl/KoLiber)
 
 ## Miesięczne wsparcie
 

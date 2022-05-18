@@ -1,5 +1,5 @@
 ---
-title: fotografia-film | Patromierz
+title: "fotografia-film | Patromierz"
 permalink: /fotografia-film
 ---
 
@@ -7,7 +7,7 @@ permalink: /fotografia-film
 <script type="text/javascript" src="data/f/fotografia-film.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fotografia-film](https://patronite.pl/fotografia-film)
+# [Paweł Gofer Krymarys](https://patronite.pl/fotografia-film)
 
 ## Miesięczne wsparcie
 

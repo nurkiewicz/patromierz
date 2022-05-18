@@ -1,5 +1,5 @@
 ---
-title: Polska_W_Liczbach | Patromierz
+title: "Polska_W_Liczbach | Patromierz"
 permalink: /Polska_W_Liczbach
 ---
 
@@ -7,7 +7,7 @@ permalink: /Polska_W_Liczbach
 <script type="text/javascript" src="data/p/Polska_W_Liczbach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Polska_W_Liczbach](https://patronite.pl/Polska_W_Liczbach)
+# [Polskawliczbach.pl](https://patronite.pl/Polska_W_Liczbach)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KulesiowyAquaŚwiat | Patromierz
+title: "KulesiowyAquaŚwiat | Patromierz"
 permalink: /KulesiowyAquaŚwiat
 ---
 
@@ -7,7 +7,7 @@ permalink: /KulesiowyAquaŚwiat
 <script type="text/javascript" src="data/k/KulesiowyAquaŚwiat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KulesiowyAquaŚwiat](https://patronite.pl/KulesiowyAquaŚwiat)
+# [Kulesiowy AquaŚwiat](https://patronite.pl/KulesiowyAquaŚwiat)
 
 ## Miesięczne wsparcie
 

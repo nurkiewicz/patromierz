@@ -1,5 +1,5 @@
 ---
-title: bajkartka | Patromierz
+title: "bajkartka | Patromierz"
 permalink: /bajkartka
 ---
 
@@ -7,7 +7,7 @@ permalink: /bajkartka
 <script type="text/javascript" src="data/b/bajkartka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bajkartka](https://patronite.pl/bajkartka)
+# [Bajkartka](https://patronite.pl/bajkartka)
 
 ## Miesięczne wsparcie
 

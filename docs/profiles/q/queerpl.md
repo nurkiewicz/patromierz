@@ -1,5 +1,5 @@
 ---
-title: queerpl | Patromierz
+title: "queerpl | Patromierz"
 permalink: /queerpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /queerpl
 <script type="text/javascript" src="data/q/queerpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [queerpl](https://patronite.pl/queerpl)
+# [Queer.pl](https://patronite.pl/queerpl)
 
 ## Miesięczne wsparcie
 

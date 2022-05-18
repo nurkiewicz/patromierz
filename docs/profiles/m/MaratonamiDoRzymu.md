@@ -1,5 +1,5 @@
 ---
-title: MaratonamiDoRzymu | Patromierz
+title: "MaratonamiDoRzymu | Patromierz"
 permalink: /MaratonamiDoRzymu
 ---
 
@@ -7,7 +7,7 @@ permalink: /MaratonamiDoRzymu
 <script type="text/javascript" src="data/m/MaratonamiDoRzymu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MaratonamiDoRzymu](https://patronite.pl/MaratonamiDoRzymu)
+# [Tomasz Sobania](https://patronite.pl/MaratonamiDoRzymu)
 
 ## Miesięczne wsparcie
 

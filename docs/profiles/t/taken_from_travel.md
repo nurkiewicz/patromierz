@@ -1,5 +1,5 @@
 ---
-title: taken_from_travel | Patromierz
+title: "taken_from_travel | Patromierz"
 permalink: /taken_from_travel
 ---
 
@@ -7,7 +7,7 @@ permalink: /taken_from_travel
 <script type="text/javascript" src="data/t/taken_from_travel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [taken_from_travel](https://patronite.pl/taken_from_travel)
+# [taken from travel | agnieszka cytacka](https://patronite.pl/taken_from_travel)
 
 ## Miesięczne wsparcie
 

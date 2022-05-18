@@ -1,5 +1,5 @@
 ---
-title: historia-z-morisem | Patromierz
+title: "historia-z-morisem | Patromierz"
 permalink: /historia-z-morisem
 ---
 
@@ -7,7 +7,7 @@ permalink: /historia-z-morisem
 <script type="text/javascript" src="data/h/historia-z-morisem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historia-z-morisem](https://patronite.pl/historia-z-morisem)
+# [Historia z Morisem](https://patronite.pl/historia-z-morisem)
 
 ## Miesięczne wsparcie
 

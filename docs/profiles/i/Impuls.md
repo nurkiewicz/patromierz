@@ -1,5 +1,5 @@
 ---
-title: Impuls | Patromierz
+title: "Impuls | Patromierz"
 permalink: /Impuls
 ---
 
@@ -7,7 +7,7 @@ permalink: /Impuls
 <script type="text/javascript" src="data/i/Impuls.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Impuls](https://patronite.pl/Impuls)
+# [Salka prób - Stowarzyszenie Impuls](https://patronite.pl/Impuls)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fundacjamojlas | Patromierz
+title: "fundacjamojlas | Patromierz"
 permalink: /fundacjamojlas
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjamojlas
 <script type="text/javascript" src="data/f/fundacjamojlas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjamojlas](https://patronite.pl/fundacjamojlas)
+# [Fundacja Mój Las](https://patronite.pl/fundacjamojlas)
 
 ## Miesięczne wsparcie
 

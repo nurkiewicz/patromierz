@@ -1,5 +1,5 @@
 ---
-title: Krzyzaniak | Patromierz
+title: "Krzyzaniak | Patromierz"
 permalink: /Krzyzaniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Krzyzaniak
 <script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Krzyzaniak](https://patronite.pl/Krzyzaniak)
+# [Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery](https://patronite.pl/Krzyzaniak)
 
 ## Miesięczne wsparcie
 

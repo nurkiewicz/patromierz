@@ -1,5 +1,5 @@
 ---
-title: BeataiMaciekINSPIRO | Patromierz
+title: "BeataiMaciekINSPIRO | Patromierz"
 permalink: /BeataiMaciekINSPIRO
 ---
 
@@ -7,7 +7,7 @@ permalink: /BeataiMaciekINSPIRO
 <script type="text/javascript" src="data/b/BeataiMaciekINSPIRO.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BeataiMaciekINSPIRO](https://patronite.pl/BeataiMaciekINSPIRO)
+# [Społeczne stypendium dla Pani Beatki i Pana Maćka ](https://patronite.pl/BeataiMaciekINSPIRO)
 
 ## Miesięczne wsparcie
 

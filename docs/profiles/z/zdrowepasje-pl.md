@@ -1,5 +1,5 @@
 ---
-title: zdrowepasje-pl | Patromierz
+title: "zdrowepasje-pl | Patromierz"
 permalink: /zdrowepasje-pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /zdrowepasje-pl
 <script type="text/javascript" src="data/z/zdrowepasje-pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zdrowepasje-pl](https://patronite.pl/zdrowepasje-pl)
+# [Zdrowe Pasje](https://patronite.pl/zdrowepasje-pl)
 
 ## Miesięczne wsparcie
 

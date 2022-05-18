@@ -1,5 +1,5 @@
 ---
-title: lekcjareligiipl | Patromierz
+title: "lekcjareligiipl | Patromierz"
 permalink: /lekcjareligiipl
 ---
 
@@ -7,7 +7,7 @@ permalink: /lekcjareligiipl
 <script type="text/javascript" src="data/l/lekcjareligiipl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lekcjareligiipl](https://patronite.pl/lekcjareligiipl)
+# [Lekcjareligii.pl](https://patronite.pl/lekcjareligiipl)
 
 ## Miesięczne wsparcie
 

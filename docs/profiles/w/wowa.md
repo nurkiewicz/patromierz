@@ -1,5 +1,5 @@
 ---
-title: wowa | Patromierz
+title: "wowa | Patromierz"
 permalink: /wowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /wowa
 <script type="text/javascript" src="data/w/wowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wowa](https://patronite.pl/wowa)
+# [WOWA](https://patronite.pl/wowa)
 
 ## Miesięczne wsparcie
 

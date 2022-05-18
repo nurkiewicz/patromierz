@@ -1,5 +1,5 @@
 ---
-title: swiatokiembiegacza | Patromierz
+title: "swiatokiembiegacza | Patromierz"
 permalink: /swiatokiembiegacza
 ---
 
@@ -7,7 +7,7 @@ permalink: /swiatokiembiegacza
 <script type="text/javascript" src="data/s/swiatokiembiegacza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [swiatokiembiegacza](https://patronite.pl/swiatokiembiegacza)
+# [Florian Pyszel](https://patronite.pl/swiatokiembiegacza)
 
 ## Miesięczne wsparcie
 

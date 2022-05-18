@@ -1,5 +1,5 @@
 ---
-title: the_slowlifers | Patromierz
+title: "the_slowlifers | Patromierz"
 permalink: /the_slowlifers
 ---
 
@@ -7,7 +7,7 @@ permalink: /the_slowlifers
 <script type="text/javascript" src="data/t/the_slowlifers.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [the_slowlifers](https://patronite.pl/the_slowlifers)
+# [the slowlifers](https://patronite.pl/the_slowlifers)
 
 ## Miesięczne wsparcie
 

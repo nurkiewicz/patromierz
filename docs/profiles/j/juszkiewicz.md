@@ -1,5 +1,5 @@
 ---
-title: juszkiewicz | Patromierz
+title: "juszkiewicz | Patromierz"
 permalink: /juszkiewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /juszkiewicz
 <script type="text/javascript" src="data/j/juszkiewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [juszkiewicz](https://patronite.pl/juszkiewicz)
+# [Jarosław Juszkiewicz](https://patronite.pl/juszkiewicz)
 
 ## Miesięczne wsparcie
 

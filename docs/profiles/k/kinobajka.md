@@ -1,5 +1,5 @@
 ---
-title: kinobajka | Patromierz
+title: "kinobajka | Patromierz"
 permalink: /kinobajka
 ---
 
@@ -7,7 +7,7 @@ permalink: /kinobajka
 <script type="text/javascript" src="data/k/kinobajka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kinobajka](https://patronite.pl/kinobajka)
+# [Kino Bajka](https://patronite.pl/kinobajka)
 
 ## Miesięczne wsparcie
 

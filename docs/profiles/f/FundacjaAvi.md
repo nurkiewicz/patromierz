@@ -1,5 +1,5 @@
 ---
-title: FundacjaAvi | Patromierz
+title: "FundacjaAvi | Patromierz"
 permalink: /FundacjaAvi
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaAvi
 <script type="text/javascript" src="data/f/FundacjaAvi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaAvi](https://patronite.pl/FundacjaAvi)
+# [Marta Węgrzyn](https://patronite.pl/FundacjaAvi)
 
 ## Miesięczne wsparcie
 

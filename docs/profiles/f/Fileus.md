@@ -1,5 +1,5 @@
 ---
-title: Fileus | Patromierz
+title: "Fileus | Patromierz"
 permalink: /Fileus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fileus
 <script type="text/javascript" src="data/f/Fileus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fileus](https://patronite.pl/Fileus)
+# [Marcin 'Fileus' Tarka](https://patronite.pl/Fileus)
 
 ## Miesięczne wsparcie
 

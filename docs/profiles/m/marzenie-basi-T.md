@@ -1,5 +1,5 @@
 ---
-title: marzenie-basi-T | Patromierz
+title: "marzenie-basi-T | Patromierz"
 permalink: /marzenie-basi-T
 ---
 
@@ -7,7 +7,7 @@ permalink: /marzenie-basi-T
 <script type="text/javascript" src="data/m/marzenie-basi-T.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marzenie-basi-T](https://patronite.pl/marzenie-basi-T)
+# [Barbara Tukendorf](https://patronite.pl/marzenie-basi-T)
 
 ## Miesięczne wsparcie
 

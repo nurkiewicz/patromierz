@@ -1,5 +1,5 @@
 ---
-title: PolskiInkwizytor | Patromierz
+title: "PolskiInkwizytor | Patromierz"
 permalink: /PolskiInkwizytor
 ---
 
@@ -7,7 +7,7 @@ permalink: /PolskiInkwizytor
 <script type="text/javascript" src="data/p/PolskiInkwizytor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PolskiInkwizytor](https://patronite.pl/PolskiInkwizytor)
+# [Polski Inkwizytor](https://patronite.pl/PolskiInkwizytor)
 
 ## Miesięczne wsparcie
 

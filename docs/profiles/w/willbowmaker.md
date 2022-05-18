@@ -1,5 +1,5 @@
 ---
-title: willbowmaker | Patromierz
+title: "willbowmaker | Patromierz"
 permalink: /willbowmaker
 ---
 
@@ -7,7 +7,7 @@ permalink: /willbowmaker
 <script type="text/javascript" src="data/w/willbowmaker.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [willbowmaker](https://patronite.pl/willbowmaker)
+# [Will Bowmaker](https://patronite.pl/willbowmaker)
 
 ## Miesięczne wsparcie
 

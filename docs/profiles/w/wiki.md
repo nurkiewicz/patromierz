@@ -1,5 +1,5 @@
 ---
-title: wiki | Patromierz
+title: "wiki | Patromierz"
 permalink: /wiki
 ---
 
@@ -7,7 +7,7 @@ permalink: /wiki
 <script type="text/javascript" src="data/w/wiki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wiki](https://patronite.pl/wiki)
+# [Wiktoria Prakapiec](https://patronite.pl/wiki)
 
 ## Miesięczne wsparcie
 

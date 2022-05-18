@@ -1,5 +1,5 @@
 ---
-title: AmstaffyNiczyje | Patromierz
+title: "AmstaffyNiczyje | Patromierz"
 permalink: /AmstaffyNiczyje
 ---
 
@@ -7,7 +7,7 @@ permalink: /AmstaffyNiczyje
 <script type="text/javascript" src="data/a/AmstaffyNiczyje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AmstaffyNiczyje](https://patronite.pl/AmstaffyNiczyje)
+# [Amstaffy Niczyje](https://patronite.pl/AmstaffyNiczyje)
 
 ## Miesięczne wsparcie
 

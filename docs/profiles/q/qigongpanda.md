@@ -1,5 +1,5 @@
 ---
-title: qigongpanda | Patromierz
+title: "qigongpanda | Patromierz"
 permalink: /qigongpanda
 ---
 
@@ -7,7 +7,7 @@ permalink: /qigongpanda
 <script type="text/javascript" src="data/q/qigongpanda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [qigongpanda](https://patronite.pl/qigongpanda)
+# [QIGONG PANDA](https://patronite.pl/qigongpanda)
 
 ## Miesięczne wsparcie
 

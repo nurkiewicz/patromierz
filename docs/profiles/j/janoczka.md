@@ -1,5 +1,5 @@
 ---
-title: janoczka | Patromierz
+title: "janoczka | Patromierz"
 permalink: /janoczka
 ---
 
@@ -7,7 +7,7 @@ permalink: /janoczka
 <script type="text/javascript" src="data/j/janoczka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [janoczka](https://patronite.pl/janoczka)
+# [an_mari_now](https://patronite.pl/janoczka)
 
 ## Miesięczne wsparcie
 

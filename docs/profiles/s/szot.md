@@ -1,5 +1,5 @@
 ---
-title: szot | Patromierz
+title: "szot | Patromierz"
 permalink: /szot
 ---
 
@@ -7,7 +7,7 @@ permalink: /szot
 <script type="text/javascript" src="data/s/szot.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szot](https://patronite.pl/szot)
+# [Wojtek Szot - Zdaniem Szota](https://patronite.pl/szot)
 
 ## Miesięczne wsparcie
 

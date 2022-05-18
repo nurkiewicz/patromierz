@@ -1,5 +1,5 @@
 ---
-title: Kadosz | Patromierz
+title: "Kadosz | Patromierz"
 permalink: /Kadosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kadosz
 <script type="text/javascript" src="data/k/Kadosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kadosz](https://patronite.pl/Kadosz)
+# [Fundacja Kadosz Uwielbienie](https://patronite.pl/Kadosz)
 
 ## Miesięczne wsparcie
 

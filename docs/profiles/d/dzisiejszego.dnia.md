@@ -1,5 +1,5 @@
 ---
-title: dzisiejszego.dnia | Patromierz
+title: "dzisiejszego.dnia | Patromierz"
 permalink: /dzisiejszego.dnia
 ---
 
@@ -7,7 +7,7 @@ permalink: /dzisiejszego.dnia
 <script type="text/javascript" src="data/d/dzisiejszego.dnia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dzisiejszego.dnia](https://patronite.pl/dzisiejszego.dnia)
+# [Dzisiejszego dnia](https://patronite.pl/dzisiejszego.dnia)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KucharzMaciej | Patromierz
+title: "KucharzMaciej | Patromierz"
 permalink: /KucharzMaciej
 ---
 
@@ -7,7 +7,7 @@ permalink: /KucharzMaciej
 <script type="text/javascript" src="data/k/KucharzMaciej.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KucharzMaciej](https://patronite.pl/KucharzMaciej)
+# [Kucharz Maciej](https://patronite.pl/KucharzMaciej)
 
 ## Miesięczne wsparcie
 

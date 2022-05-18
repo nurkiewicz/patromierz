@@ -1,5 +1,5 @@
 ---
-title: zadzieramkieceilece | Patromierz
+title: "zadzieramkieceilece | Patromierz"
 permalink: /zadzieramkieceilece
 ---
 
@@ -7,7 +7,7 @@ permalink: /zadzieramkieceilece
 <script type="text/javascript" src="data/z/zadzieramkieceilece.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zadzieramkieceilece](https://patronite.pl/zadzieramkieceilece)
+# [Zadzieram kiecę i lecę ](https://patronite.pl/zadzieramkieceilece)
 
 ## Miesięczne wsparcie
 

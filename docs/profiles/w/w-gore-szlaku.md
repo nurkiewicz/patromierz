@@ -1,5 +1,5 @@
 ---
-title: w-gore-szlaku | Patromierz
+title: "w-gore-szlaku | Patromierz"
 permalink: /w-gore-szlaku
 ---
 
@@ -7,7 +7,7 @@ permalink: /w-gore-szlaku
 <script type="text/javascript" src="data/w/w-gore-szlaku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [w-gore-szlaku](https://patronite.pl/w-gore-szlaku)
+# [W Górę Szlaku](https://patronite.pl/w-gore-szlaku)
 
 ## Miesięczne wsparcie
 

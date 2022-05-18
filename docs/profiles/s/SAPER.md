@@ -1,5 +1,5 @@
 ---
-title: SAPER | Patromierz
+title: "SAPER | Patromierz"
 permalink: /SAPER
 ---
 
@@ -7,7 +7,7 @@ permalink: /SAPER
 <script type="text/javascript" src="data/s/SAPER.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SAPER](https://patronite.pl/SAPER)
+# [Artur Troncik](https://patronite.pl/SAPER)
 
 ## Miesięczne wsparcie
 

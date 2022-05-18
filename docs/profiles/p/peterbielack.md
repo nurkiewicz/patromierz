@@ -1,5 +1,5 @@
 ---
-title: peterbielack | Patromierz
+title: "peterbielack | Patromierz"
 permalink: /peterbielack
 ---
 
@@ -7,7 +7,7 @@ permalink: /peterbielack
 <script type="text/javascript" src="data/p/peterbielack.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [peterbielack](https://patronite.pl/peterbielack)
+# [Peter Bielack](https://patronite.pl/peterbielack)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: FundacjaWolnośćodReligii | Patromierz
+title: "FundacjaWolnośćodReligii | Patromierz"
 permalink: /FundacjaWolnośćodReligii
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaWolnośćodReligii
 <script type="text/javascript" src="data/f/FundacjaWolnośćodReligii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaWolnośćodReligii](https://patronite.pl/FundacjaWolnośćodReligii)
+# [Fundacja Wolność od Religii](https://patronite.pl/FundacjaWolnośćodReligii)
 
 ## Miesięczne wsparcie
 

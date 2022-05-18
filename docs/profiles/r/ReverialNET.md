@@ -1,5 +1,5 @@
 ---
-title: ReverialNET | Patromierz
+title: "ReverialNET | Patromierz"
 permalink: /ReverialNET
 ---
 
@@ -7,7 +7,7 @@ permalink: /ReverialNET
 <script type="text/javascript" src="data/r/ReverialNET.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ReverialNET](https://patronite.pl/ReverialNET)
+# [Reverial.net](https://patronite.pl/ReverialNET)
 
 ## Miesięczne wsparcie
 

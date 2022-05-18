@@ -1,5 +1,5 @@
 ---
-title: Portal-Lowking-Pl | Patromierz
+title: "Portal-Lowking-Pl | Patromierz"
 permalink: /Portal-Lowking-Pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /Portal-Lowking-Pl
 <script type="text/javascript" src="data/p/Portal-Lowking-Pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Portal-Lowking-Pl](https://patronite.pl/Portal-Lowking-Pl)
+# [Lowking.pl](https://patronite.pl/Portal-Lowking-Pl)
 
 ## Miesięczne wsparcie
 

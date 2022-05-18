@@ -1,5 +1,5 @@
 ---
-title: MiserArt | Patromierz
+title: "MiserArt | Patromierz"
 permalink: /MiserArt
 ---
 
@@ -7,7 +7,7 @@ permalink: /MiserArt
 <script type="text/javascript" src="data/m/MiserArt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MiserArt](https://patronite.pl/MiserArt)
+# [MiserArt – strefa kreatywna w labiryncie wykluczenia](https://patronite.pl/MiserArt)
 
 ## Miesięczne wsparcie
 

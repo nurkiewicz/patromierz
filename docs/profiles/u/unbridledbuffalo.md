@@ -1,5 +1,5 @@
 ---
-title: unbridledbuffalo | Patromierz
+title: "unbridledbuffalo | Patromierz"
 permalink: /unbridledbuffalo
 ---
 
@@ -7,7 +7,7 @@ permalink: /unbridledbuffalo
 <script type="text/javascript" src="data/u/unbridledbuffalo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [unbridledbuffalo](https://patronite.pl/unbridledbuffalo)
+# [Unbridled Buffalo ?](https://patronite.pl/unbridledbuffalo)
 
 ## Miesięczne wsparcie
 

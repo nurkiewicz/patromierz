@@ -1,5 +1,5 @@
 ---
-title: medievalheritage | Patromierz
+title: "medievalheritage | Patromierz"
 permalink: /medievalheritage
 ---
 
@@ -7,7 +7,7 @@ permalink: /medievalheritage
 <script type="text/javascript" src="data/m/medievalheritage.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [medievalheritage](https://patronite.pl/medievalheritage)
+# [medievalheritage.eu](https://patronite.pl/medievalheritage)
 
 ## Miesięczne wsparcie
 

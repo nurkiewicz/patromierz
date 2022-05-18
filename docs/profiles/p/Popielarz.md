@@ -1,5 +1,5 @@
 ---
-title: Popielarz | Patromierz
+title: "Popielarz | Patromierz"
 permalink: /Popielarz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Popielarz
 <script type="text/javascript" src="data/p/Popielarz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Popielarz](https://patronite.pl/Popielarz)
+# [Wojciech Popielarz](https://patronite.pl/Popielarz)
 
 ## Miesięczne wsparcie
 

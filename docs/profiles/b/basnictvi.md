@@ -1,5 +1,5 @@
 ---
-title: basnictvi | Patromierz
+title: "basnictvi | Patromierz"
 permalink: /basnictvi
 ---
 
@@ -7,7 +7,7 @@ permalink: /basnictvi
 <script type="text/javascript" src="data/b/basnictvi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [basnictvi](https://patronite.pl/basnictvi)
+# [basnictvi ](https://patronite.pl/basnictvi)
 
 ## Miesięczne wsparcie
 

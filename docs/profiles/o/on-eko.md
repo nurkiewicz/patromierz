@@ -1,5 +1,5 @@
 ---
-title: on-eko | Patromierz
+title: "on-eko | Patromierz"
 permalink: /on-eko
 ---
 
@@ -7,7 +7,7 @@ permalink: /on-eko
 <script type="text/javascript" src="data/o/on-eko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [on-eko](https://patronite.pl/on-eko)
+# [On-Eko](https://patronite.pl/on-eko)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Lifyen | Patromierz
+title: "Lifyen | Patromierz"
 permalink: /Lifyen
 ---
 
@@ -7,7 +7,7 @@ permalink: /Lifyen
 <script type="text/javascript" src="data/l/Lifyen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Lifyen](https://patronite.pl/Lifyen)
+# ["Lifyen"](https://patronite.pl/Lifyen)
 
 ## Miesięczne wsparcie
 

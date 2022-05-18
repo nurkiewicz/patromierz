@@ -1,5 +1,5 @@
 ---
-title: tablao | Patromierz
+title: "tablao | Patromierz"
 permalink: /tablao
 ---
 
@@ -7,7 +7,7 @@ permalink: /tablao
 <script type="text/javascript" src="data/t/tablao.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tablao](https://patronite.pl/tablao)
+# [Tablao Flamenco Warszawa](https://patronite.pl/tablao)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: fitamakota | Patromierz
+title: "fitamakota | Patromierz"
 permalink: /fitamakota
 ---
 
@@ -7,7 +7,7 @@ permalink: /fitamakota
 <script type="text/javascript" src="data/f/fitamakota.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fitamakota](https://patronite.pl/fitamakota)
+# [Fita ma kota](https://patronite.pl/fitamakota)
 
 ## Miesięczne wsparcie
 

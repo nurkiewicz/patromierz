@@ -1,5 +1,5 @@
 ---
-title: terefereUKU | Patromierz
+title: "terefereUKU | Patromierz"
 permalink: /terefereUKU
 ---
 
@@ -7,7 +7,7 @@ permalink: /terefereUKU
 <script type="text/javascript" src="data/t/terefereUKU.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [terefereUKU](https://patronite.pl/terefereUKU)
+# [tere-fere-UKU - czyli hUKU wiELE z UKULELE](https://patronite.pl/terefereUKU)
 
 ## Miesięczne wsparcie
 

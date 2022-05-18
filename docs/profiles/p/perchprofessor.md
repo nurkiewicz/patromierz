@@ -1,5 +1,5 @@
 ---
-title: perchprofessor | Patromierz
+title: "perchprofessor | Patromierz"
 permalink: /perchprofessor
 ---
 
@@ -7,7 +7,7 @@ permalink: /perchprofessor
 <script type="text/javascript" src="data/p/perchprofessor.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [perchprofessor](https://patronite.pl/perchprofessor)
+# [Perch Professor](https://patronite.pl/perchprofessor)
 
 ## Miesięczne wsparcie
 

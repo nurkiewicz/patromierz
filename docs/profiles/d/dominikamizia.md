@@ -1,5 +1,5 @@
 ---
-title: dominikamizia | Patromierz
+title: "dominikamizia | Patromierz"
 permalink: /dominikamizia
 ---
 
@@ -7,7 +7,7 @@ permalink: /dominikamizia
 <script type="text/javascript" src="data/d/dominikamizia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dominikamizia](https://patronite.pl/dominikamizia)
+# [Dominika Mizia](https://patronite.pl/dominikamizia)
 
 ## Miesięczne wsparcie
 

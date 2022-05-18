@@ -1,5 +1,5 @@
 ---
-title: historiabywłoch | Patromierz
+title: "historiabywłoch | Patromierz"
 permalink: /historiabywłoch
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiabywłoch
 <script type="text/javascript" src="data/h/historiabywłoch.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiabywłoch](https://patronite.pl/historiabywłoch)
+# [Marcin Włoch](https://patronite.pl/historiabywłoch)
 
 ## Miesięczne wsparcie
 

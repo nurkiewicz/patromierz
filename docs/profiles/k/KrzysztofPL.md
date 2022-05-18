@@ -1,5 +1,5 @@
 ---
-title: KrzysztofPL | Patromierz
+title: "KrzysztofPL | Patromierz"
 permalink: /KrzysztofPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /KrzysztofPL
 <script type="text/javascript" src="data/k/KrzysztofPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KrzysztofPL](https://patronite.pl/KrzysztofPL)
+# [Krzysztof PL](https://patronite.pl/KrzysztofPL)
 
 ## Miesięczne wsparcie
 

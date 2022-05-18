@@ -1,5 +1,5 @@
 ---
-title: TBiMZ | Patromierz
+title: "TBiMZ | Patromierz"
 permalink: /TBiMZ
 ---
 
@@ -7,7 +7,7 @@ permalink: /TBiMZ
 <script type="text/javascript" src="data/t/TBiMZ.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TBiMZ](https://patronite.pl/TBiMZ)
+# [Telefony bardziej i mniej znane (TBiMZ)](https://patronite.pl/TBiMZ)
 
 ## Miesięczne wsparcie
 

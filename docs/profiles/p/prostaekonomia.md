@@ -1,5 +1,5 @@
 ---
-title: prostaekonomia | Patromierz
+title: "prostaekonomia | Patromierz"
 permalink: /prostaekonomia
 ---
 
@@ -7,7 +7,7 @@ permalink: /prostaekonomia
 <script type="text/javascript" src="data/p/prostaekonomia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [prostaekonomia](https://patronite.pl/prostaekonomia)
+# [Prosta Ekonomia](https://patronite.pl/prostaekonomia)
 
 ## Miesięczne wsparcie
 

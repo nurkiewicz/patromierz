@@ -1,5 +1,5 @@
 ---
-title: httpswwwyoutubecomcDzikiDziki | Patromierz
+title: "httpswwwyoutubecomcDzikiDziki | Patromierz"
 permalink: /httpswwwyoutubecomcDzikiDziki
 ---
 
@@ -7,7 +7,7 @@ permalink: /httpswwwyoutubecomcDzikiDziki
 <script type="text/javascript" src="data/h/httpswwwyoutubecomcDzikiDziki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [httpswwwyoutubecomcDzikiDziki](https://patronite.pl/httpswwwyoutubecomcDzikiDziki)
+# [Dziki  Urbex](https://patronite.pl/httpswwwyoutubecomcDzikiDziki)
 
 ## Miesięczne wsparcie
 

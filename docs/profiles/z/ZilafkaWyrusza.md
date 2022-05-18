@@ -1,5 +1,5 @@
 ---
-title: ZilafkaWyrusza | Patromierz
+title: "ZilafkaWyrusza | Patromierz"
 permalink: /ZilafkaWyrusza
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZilafkaWyrusza
 <script type="text/javascript" src="data/z/ZilafkaWyrusza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZilafkaWyrusza](https://patronite.pl/ZilafkaWyrusza)
+# [Zilafka Wyrusza](https://patronite.pl/ZilafkaWyrusza)
 
 ## Miesięczne wsparcie
 

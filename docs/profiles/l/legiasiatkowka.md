@@ -1,5 +1,5 @@
 ---
-title: legiasiatkowka | Patromierz
+title: "legiasiatkowka | Patromierz"
 permalink: /legiasiatkowka
 ---
 
@@ -7,7 +7,7 @@ permalink: /legiasiatkowka
 <script type="text/javascript" src="data/l/legiasiatkowka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [legiasiatkowka](https://patronite.pl/legiasiatkowka)
+# [Sekcja Siatkówki Legii Warszawa](https://patronite.pl/legiasiatkowka)
 
 ## Miesięczne wsparcie
 

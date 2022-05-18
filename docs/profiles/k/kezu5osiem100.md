@@ -1,5 +1,5 @@
 ---
-title: kezu5osiem100 | Patromierz
+title: "kezu5osiem100 | Patromierz"
 permalink: /kezu5osiem100
 ---
 
@@ -7,7 +7,7 @@ permalink: /kezu5osiem100
 <script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kezu5osiem100](https://patronite.pl/kezu5osiem100)
+# [Olaf "KeZu" Osienienko - Projekt Travel Rap](https://patronite.pl/kezu5osiem100)
 
 ## Miesięczne wsparcie
 

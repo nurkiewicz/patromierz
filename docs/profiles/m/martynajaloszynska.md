@@ -1,5 +1,5 @@
 ---
-title: martynajaloszynska | Patromierz
+title: "martynajaloszynska | Patromierz"
 permalink: /martynajaloszynska
 ---
 
@@ -7,7 +7,7 @@ permalink: /martynajaloszynska
 <script type="text/javascript" src="data/m/martynajaloszynska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [martynajaloszynska](https://patronite.pl/martynajaloszynska)
+# [Martyna Jałoszyńska](https://patronite.pl/martynajaloszynska)
 
 ## Miesięczne wsparcie
 

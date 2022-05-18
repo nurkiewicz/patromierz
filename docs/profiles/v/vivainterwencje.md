@@ -1,5 +1,5 @@
 ---
-title: vivainterwencje | Patromierz
+title: "vivainterwencje | Patromierz"
 permalink: /vivainterwencje
 ---
 
@@ -7,7 +7,7 @@ permalink: /vivainterwencje
 <script type="text/javascript" src="data/v/vivainterwencje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vivainterwencje](https://patronite.pl/vivainterwencje)
+# [Viva! Interwencje ](https://patronite.pl/vivainterwencje)
 
 ## Miesięczne wsparcie
 

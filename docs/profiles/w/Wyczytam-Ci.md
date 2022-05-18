@@ -1,5 +1,5 @@
 ---
-title: Wyczytam-Ci | Patromierz
+title: "Wyczytam-Ci | Patromierz"
 permalink: /Wyczytam-Ci
 ---
 
@@ -7,7 +7,7 @@ permalink: /Wyczytam-Ci
 <script type="text/javascript" src="data/w/Wyczytam-Ci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Wyczytam-Ci](https://patronite.pl/Wyczytam-Ci)
+# [Mich Pabian czytacz_szperacz](https://patronite.pl/Wyczytam-Ci)
 
 ## Miesięczne wsparcie
 

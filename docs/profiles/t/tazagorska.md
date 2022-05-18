@@ -1,5 +1,5 @@
 ---
-title: tazagorska | Patromierz
+title: "tazagorska | Patromierz"
 permalink: /tazagorska
 ---
 
@@ -7,7 +7,7 @@ permalink: /tazagorska
 <script type="text/javascript" src="data/t/tazagorska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tazagorska](https://patronite.pl/tazagorska)
+# [Paulina Zagórska](https://patronite.pl/tazagorska)
 
 ## Miesięczne wsparcie
 

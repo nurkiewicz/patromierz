@@ -1,5 +1,5 @@
 ---
-title: csowicze | Patromierz
+title: "csowicze | Patromierz"
 permalink: /csowicze
 ---
 
@@ -7,7 +7,7 @@ permalink: /csowicze
 <script type="text/javascript" src="data/c/csowicze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [csowicze](https://patronite.pl/csowicze)
+# [CSowicze.pl](https://patronite.pl/csowicze)
 
 ## Miesięczne wsparcie
 

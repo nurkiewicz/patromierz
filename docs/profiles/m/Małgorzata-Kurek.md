@@ -1,5 +1,5 @@
 ---
-title: Małgorzata-Kurek | Patromierz
+title: "Małgorzata-Kurek | Patromierz"
 permalink: /Małgorzata-Kurek
 ---
 
@@ -7,7 +7,7 @@ permalink: /Małgorzata-Kurek
 <script type="text/javascript" src="data/m/Małgorzata-Kurek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Małgorzata-Kurek](https://patronite.pl/Małgorzata-Kurek)
+# [Małgorzata Kurek](https://patronite.pl/Małgorzata-Kurek)
 
 ## Miesięczne wsparcie
 

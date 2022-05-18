@@ -1,5 +1,5 @@
 ---
-title: combatalert | Patromierz
+title: "combatalert | Patromierz"
 permalink: /combatalert
 ---
 
@@ -7,7 +7,7 @@ permalink: /combatalert
 <script type="text/javascript" src="data/c/combatalert.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [combatalert](https://patronite.pl/combatalert)
+# [FUNDACJA NA RZECZ OBRONNOŚCI I BEZPIECZEŃSTWA KRAJU "COMBAT ALERT"](https://patronite.pl/combatalert)
 
 ## Miesięczne wsparcie
 

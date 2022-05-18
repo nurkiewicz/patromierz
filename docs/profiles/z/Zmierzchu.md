@@ -1,5 +1,5 @@
 ---
-title: Zmierzchu | Patromierz
+title: "Zmierzchu | Patromierz"
 permalink: /Zmierzchu
 ---
 
@@ -7,7 +7,7 @@ permalink: /Zmierzchu
 <script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Zmierzchu](https://patronite.pl/Zmierzchu)
+# [Niedźwiecka o Zmierzchu](https://patronite.pl/Zmierzchu)
 
 ## Miesięczne wsparcie
 

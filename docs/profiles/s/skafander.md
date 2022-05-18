@@ -1,5 +1,5 @@
 ---
-title: skafander | Patromierz
+title: "skafander | Patromierz"
 permalink: /skafander
 ---
 
@@ -7,7 +7,7 @@ permalink: /skafander
 <script type="text/javascript" src="data/s/skafander.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skafander](https://patronite.pl/skafander)
+# [Skafander Klingerta](https://patronite.pl/skafander)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Auxilium-Dzieciom | Patromierz
+title: "Auxilium-Dzieciom | Patromierz"
 permalink: /Auxilium-Dzieciom
 ---
 
@@ -7,7 +7,7 @@ permalink: /Auxilium-Dzieciom
 <script type="text/javascript" src="data/a/Auxilium-Dzieciom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Auxilium-Dzieciom](https://patronite.pl/Auxilium-Dzieciom)
+# [Fundacja Auxilium - Dzieciom](https://patronite.pl/Auxilium-Dzieciom)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kamilsj | Patromierz
+title: "kamilsj | Patromierz"
 permalink: /kamilsj
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilsj
 <script type="text/javascript" src="data/k/kamilsj.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilsj](https://patronite.pl/kamilsj)
+# [Kamil Boberek](https://patronite.pl/kamilsj)
 
 ## Miesięczne wsparcie
 

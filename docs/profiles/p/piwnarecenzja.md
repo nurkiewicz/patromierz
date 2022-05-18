@@ -1,5 +1,5 @@
 ---
-title: piwnarecenzja | Patromierz
+title: "piwnarecenzja | Patromierz"
 permalink: /piwnarecenzja
 ---
 
@@ -7,7 +7,7 @@ permalink: /piwnarecenzja
 <script type="text/javascript" src="data/p/piwnarecenzja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piwnarecenzja](https://patronite.pl/piwnarecenzja)
+# [PiwnaRecenzja - Przemysław  Stefańczyk](https://patronite.pl/piwnarecenzja)
 
 ## Miesięczne wsparcie
 

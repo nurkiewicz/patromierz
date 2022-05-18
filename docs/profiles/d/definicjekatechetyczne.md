@@ -1,5 +1,5 @@
 ---
-title: definicjekatechetyczne | Patromierz
+title: "definicjekatechetyczne | Patromierz"
 permalink: /definicjekatechetyczne
 ---
 
@@ -7,7 +7,7 @@ permalink: /definicjekatechetyczne
 <script type="text/javascript" src="data/d/definicjekatechetyczne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [definicjekatechetyczne](https://patronite.pl/definicjekatechetyczne)
+# [Definicje Katechetyczne Braci](https://patronite.pl/definicjekatechetyczne)
 
 ## Miesięczne wsparcie
 

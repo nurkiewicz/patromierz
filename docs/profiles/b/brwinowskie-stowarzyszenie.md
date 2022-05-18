@@ -1,5 +1,5 @@
 ---
-title: brwinowskie-stowarzyszenie | Patromierz
+title: "brwinowskie-stowarzyszenie | Patromierz"
 permalink: /brwinowskie-stowarzyszenie
 ---
 
@@ -7,7 +7,7 @@ permalink: /brwinowskie-stowarzyszenie
 <script type="text/javascript" src="data/b/brwinowskie-stowarzyszenie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brwinowskie-stowarzyszenie](https://patronite.pl/brwinowskie-stowarzyszenie)
+# [Stowarzyszenie Koty Prezesowej ](https://patronite.pl/brwinowskie-stowarzyszenie)
 
 ## Miesięczne wsparcie
 

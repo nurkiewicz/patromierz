@@ -1,5 +1,5 @@
 ---
-title: Augustynowicz | Patromierz
+title: "Augustynowicz | Patromierz"
 permalink: /Augustynowicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Augustynowicz
 <script type="text/javascript" src="data/a/Augustynowicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Augustynowicz](https://patronite.pl/Augustynowicz)
+# [Magdalena Augustynowicz](https://patronite.pl/Augustynowicz)
 
 ## Miesięczne wsparcie
 

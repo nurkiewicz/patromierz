@@ -1,5 +1,5 @@
 ---
-title: Spox_2 | Patromierz
+title: "Spox_2 | Patromierz"
 permalink: /Spox_2
 ---
 
@@ -7,7 +7,7 @@ permalink: /Spox_2
 <script type="text/javascript" src="data/s/Spox_2.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Spox_2](https://patronite.pl/Spox_2)
+# [Szymon Byra](https://patronite.pl/Spox_2)
 
 ## Miesięczne wsparcie
 

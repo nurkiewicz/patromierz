@@ -1,5 +1,5 @@
 ---
-title: tomaszpiwowarskiblades | Patromierz
+title: "tomaszpiwowarskiblades | Patromierz"
 permalink: /tomaszpiwowarskiblades
 ---
 
@@ -7,7 +7,7 @@ permalink: /tomaszpiwowarskiblades
 <script type="text/javascript" src="data/t/tomaszpiwowarskiblades.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tomaszpiwowarskiblades](https://patronite.pl/tomaszpiwowarskiblades)
+# [Tomasz Piwowarski Blades](https://patronite.pl/tomaszpiwowarskiblades)
 
 ## Miesięczne wsparcie
 

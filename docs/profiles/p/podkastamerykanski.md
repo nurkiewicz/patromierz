@@ -1,5 +1,5 @@
 ---
-title: podkastamerykanski | Patromierz
+title: "podkastamerykanski | Patromierz"
 permalink: /podkastamerykanski
 ---
 
@@ -7,7 +7,7 @@ permalink: /podkastamerykanski
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podkastamerykanski](https://patronite.pl/podkastamerykanski)
+# [Podkast amerykański](https://patronite.pl/podkastamerykanski)
 
 ## Miesięczne wsparcie
 

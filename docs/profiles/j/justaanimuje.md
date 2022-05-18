@@ -1,5 +1,5 @@
 ---
-title: justaanimuje | Patromierz
+title: "justaanimuje | Patromierz"
 permalink: /justaanimuje
 ---
 
@@ -7,7 +7,7 @@ permalink: /justaanimuje
 <script type="text/javascript" src="data/j/justaanimuje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [justaanimuje](https://patronite.pl/justaanimuje)
+# [Justyna Margielewska](https://patronite.pl/justaanimuje)
 
 ## Miesięczne wsparcie
 

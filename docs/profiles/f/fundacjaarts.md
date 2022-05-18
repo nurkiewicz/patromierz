@@ -1,5 +1,5 @@
 ---
-title: fundacjaarts | Patromierz
+title: "fundacjaarts | Patromierz"
 permalink: /fundacjaarts
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaarts
 <script type="text/javascript" src="data/f/fundacjaarts.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaarts](https://patronite.pl/fundacjaarts)
+# [Fundacja ARTS](https://patronite.pl/fundacjaarts)
 
 ## Miesięczne wsparcie
 

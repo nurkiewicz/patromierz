@@ -1,5 +1,5 @@
 ---
-title: wojtekrysuje | Patromierz
+title: "wojtekrysuje | Patromierz"
 permalink: /wojtekrysuje
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojtekrysuje
 <script type="text/javascript" src="data/w/wojtekrysuje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojtekrysuje](https://patronite.pl/wojtekrysuje)
+# [Wojtek WU Zieliński ](https://patronite.pl/wojtekrysuje)
 
 ## Miesięczne wsparcie
 

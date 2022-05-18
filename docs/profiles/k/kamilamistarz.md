@@ -1,5 +1,5 @@
 ---
-title: kamilamistarz | Patromierz
+title: "kamilamistarz | Patromierz"
 permalink: /kamilamistarz
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilamistarz
 <script type="text/javascript" src="data/k/kamilamistarz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilamistarz](https://patronite.pl/kamilamistarz)
+# [Kamila Mistarz](https://patronite.pl/kamilamistarz)
 
 ## Miesięczne wsparcie
 

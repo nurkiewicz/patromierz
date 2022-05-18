@@ -1,5 +1,5 @@
 ---
-title: warsawsirens | Patromierz
+title: "warsawsirens | Patromierz"
 permalink: /warsawsirens
 ---
 
@@ -7,7 +7,7 @@ permalink: /warsawsirens
 <script type="text/javascript" src="data/w/warsawsirens.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [warsawsirens](https://patronite.pl/warsawsirens)
+# [Warsaw Sirens](https://patronite.pl/warsawsirens)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: chce | Patromierz
+title: "chce | Patromierz"
 permalink: /chce
 ---
 
@@ -7,7 +7,7 @@ permalink: /chce
 <script type="text/javascript" src="data/c/chce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chce](https://patronite.pl/chce)
+# [Chrześcijańskie Centrum Ewangelizacji](https://patronite.pl/chce)
 
 ## Miesięczne wsparcie
 

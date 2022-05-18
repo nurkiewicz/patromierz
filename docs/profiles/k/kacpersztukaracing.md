@@ -1,5 +1,5 @@
 ---
-title: kacpersztukaracing | Patromierz
+title: "kacpersztukaracing | Patromierz"
 permalink: /kacpersztukaracing
 ---
 
@@ -7,7 +7,7 @@ permalink: /kacpersztukaracing
 <script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kacpersztukaracing](https://patronite.pl/kacpersztukaracing)
+# [Kacper Sztuka Racing](https://patronite.pl/kacpersztukaracing)
 
 ## Miesięczne wsparcie
 

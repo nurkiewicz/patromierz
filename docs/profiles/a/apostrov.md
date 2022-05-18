@@ -1,5 +1,5 @@
 ---
-title: apostrov | Patromierz
+title: "apostrov | Patromierz"
 permalink: /apostrov
 ---
 
@@ -7,7 +7,7 @@ permalink: /apostrov
 <script type="text/javascript" src="data/a/apostrov.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [apostrov](https://patronite.pl/apostrov)
+# [Team Apostrov](https://patronite.pl/apostrov)
 
 ## Miesięczne wsparcie
 

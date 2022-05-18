@@ -1,5 +1,5 @@
 ---
-title: michalkrol | Patromierz
+title: "michalkrol | Patromierz"
 permalink: /michalkrol
 ---
 
@@ -7,7 +7,7 @@ permalink: /michalkrol
 <script type="text/javascript" src="data/m/michalkrol.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michalkrol](https://patronite.pl/michalkrol)
+# [Michał Król](https://patronite.pl/michalkrol)
 
 ## Miesięczne wsparcie
 

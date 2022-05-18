@@ -1,5 +1,5 @@
 ---
-title: grykzwp | Patromierz
+title: "grykzwp | Patromierz"
 permalink: /grykzwp
 ---
 
@@ -7,7 +7,7 @@ permalink: /grykzwp
 <script type="text/javascript" src="data/g/grykzwp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [grykzwp](https://patronite.pl/grykzwp)
+# [GryKZWP](https://patronite.pl/grykzwp)
 
 ## Miesięczne wsparcie
 

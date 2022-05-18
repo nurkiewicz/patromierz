@@ -1,5 +1,5 @@
 ---
-title: stowarzyszeniegospel | Patromierz
+title: "stowarzyszeniegospel | Patromierz"
 permalink: /stowarzyszeniegospel
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszeniegospel
 <script type="text/javascript" src="data/s/stowarzyszeniegospel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszeniegospel](https://patronite.pl/stowarzyszeniegospel)
+# [Stowarzyszenie Gospel](https://patronite.pl/stowarzyszeniegospel)
 
 ## Miesięczne wsparcie
 

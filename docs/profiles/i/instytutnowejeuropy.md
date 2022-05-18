@@ -1,5 +1,5 @@
 ---
-title: instytutnowejeuropy | Patromierz
+title: "instytutnowejeuropy | Patromierz"
 permalink: /instytutnowejeuropy
 ---
 
@@ -7,7 +7,7 @@ permalink: /instytutnowejeuropy
 <script type="text/javascript" src="data/i/instytutnowejeuropy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [instytutnowejeuropy](https://patronite.pl/instytutnowejeuropy)
+# [Instytut Nowej Europy](https://patronite.pl/instytutnowejeuropy)
 
 ## Miesięczne wsparcie
 

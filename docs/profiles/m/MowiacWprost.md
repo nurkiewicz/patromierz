@@ -1,5 +1,5 @@
 ---
-title: MowiacWprost | Patromierz
+title: "MowiacWprost | Patromierz"
 permalink: /MowiacWprost
 ---
 
@@ -7,7 +7,7 @@ permalink: /MowiacWprost
 <script type="text/javascript" src="data/m/MowiacWprost.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MowiacWprost](https://patronite.pl/MowiacWprost)
+# [Mówiąc Wprost](https://patronite.pl/MowiacWprost)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wdzieczne_serce | Patromierz
+title: "wdzieczne_serce | Patromierz"
 permalink: /wdzieczne_serce
 ---
 
@@ -7,7 +7,7 @@ permalink: /wdzieczne_serce
 <script type="text/javascript" src="data/w/wdzieczne_serce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wdzieczne_serce](https://patronite.pl/wdzieczne_serce)
+# [Wdzięczne Serce](https://patronite.pl/wdzieczne_serce)
 
 ## Miesięczne wsparcie
 

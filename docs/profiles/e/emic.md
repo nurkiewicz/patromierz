@@ -1,5 +1,5 @@
 ---
-title: emic | Patromierz
+title: "emic | Patromierz"
 permalink: /emic
 ---
 
@@ -7,7 +7,7 @@ permalink: /emic
 <script type="text/javascript" src="data/e/emic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [emic](https://patronite.pl/emic)
+# [Fundacja Emic](https://patronite.pl/emic)
 
 ## Miesięczne wsparcie
 

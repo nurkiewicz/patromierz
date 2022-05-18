@@ -1,5 +1,5 @@
 ---
-title: smiechawatv | Patromierz
+title: "smiechawatv | Patromierz"
 permalink: /smiechawatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /smiechawatv
 <script type="text/javascript" src="data/s/smiechawatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smiechawatv](https://patronite.pl/smiechawatv)
+# [Śmiechawa TV](https://patronite.pl/smiechawatv)
 
 ## Miesięczne wsparcie
 

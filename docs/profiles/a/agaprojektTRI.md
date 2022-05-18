@@ -1,5 +1,5 @@
 ---
-title: agaprojektTRI | Patromierz
+title: "agaprojektTRI | Patromierz"
 permalink: /agaprojektTRI
 ---
 
@@ -7,7 +7,7 @@ permalink: /agaprojektTRI
 <script type="text/javascript" src="data/a/agaprojektTRI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [agaprojektTRI](https://patronite.pl/agaprojektTRI)
+# [Agnieszka Badyna-Graczyk](https://patronite.pl/agaprojektTRI)
 
 ## Miesięczne wsparcie
 

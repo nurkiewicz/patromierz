@@ -1,5 +1,5 @@
 ---
-title: planetaabstrakcja | Patromierz
+title: "planetaabstrakcja | Patromierz"
 permalink: /planetaabstrakcja
 ---
 
@@ -7,7 +7,7 @@ permalink: /planetaabstrakcja
 <script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [planetaabstrakcja](https://patronite.pl/planetaabstrakcja)
+# [Planeta Abstrakcja](https://patronite.pl/planetaabstrakcja)
 
 ## Miesięczne wsparcie
 

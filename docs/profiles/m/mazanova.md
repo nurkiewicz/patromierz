@@ -1,5 +1,5 @@
 ---
-title: mazanova | Patromierz
+title: "mazanova | Patromierz"
 permalink: /mazanova
 ---
 
@@ -7,7 +7,7 @@ permalink: /mazanova
 <script type="text/javascript" src="data/m/mazanova.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mazanova](https://patronite.pl/mazanova)
+# [Helen Mazanova](https://patronite.pl/mazanova)
 
 ## Miesięczne wsparcie
 

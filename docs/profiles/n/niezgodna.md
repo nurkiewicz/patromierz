@@ -1,5 +1,5 @@
 ---
-title: niezgodna | Patromierz
+title: "niezgodna | Patromierz"
 permalink: /niezgodna
 ---
 
@@ -7,7 +7,7 @@ permalink: /niezgodna
 <script type="text/javascript" src="data/n/niezgodna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niezgodna](https://patronite.pl/niezgodna)
+# [NIEZGODNA - Iza Nazaria Mościcka](https://patronite.pl/niezgodna)
 
 ## Miesięczne wsparcie
 

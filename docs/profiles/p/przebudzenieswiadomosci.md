@@ -1,5 +1,5 @@
 ---
-title: przebudzenieswiadomosci | Patromierz
+title: "przebudzenieswiadomosci | Patromierz"
 permalink: /przebudzenieswiadomosci
 ---
 
@@ -7,7 +7,7 @@ permalink: /przebudzenieswiadomosci
 <script type="text/javascript" src="data/p/przebudzenieswiadomosci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [przebudzenieswiadomosci](https://patronite.pl/przebudzenieswiadomosci)
+# [Przebudzenie Świadomości](https://patronite.pl/przebudzenieswiadomosci)
 
 ## Miesięczne wsparcie
 

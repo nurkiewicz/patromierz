@@ -1,5 +1,5 @@
 ---
-title: ryzykonarracyjne | Patromierz
+title: "ryzykonarracyjne | Patromierz"
 permalink: /ryzykonarracyjne
 ---
 
@@ -7,7 +7,7 @@ permalink: /ryzykonarracyjne
 <script type="text/javascript" src="data/r/ryzykonarracyjne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ryzykonarracyjne](https://patronite.pl/ryzykonarracyjne)
+# [Ryzyko Narracyjne](https://patronite.pl/ryzykonarracyjne)
 
 ## Miesięczne wsparcie
 

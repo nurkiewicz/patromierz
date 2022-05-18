@@ -1,5 +1,5 @@
 ---
-title: tlumaczeniahillsong | Patromierz
+title: "tlumaczeniahillsong | Patromierz"
 permalink: /tlumaczeniahillsong
 ---
 
@@ -7,7 +7,7 @@ permalink: /tlumaczeniahillsong
 <script type="text/javascript" src="data/t/tlumaczeniahillsong.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tlumaczeniahillsong](https://patronite.pl/tlumaczeniahillsong)
+# [Tłumaczenia Hillsong](https://patronite.pl/tlumaczeniahillsong)
 
 ## Miesięczne wsparcie
 

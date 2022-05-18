@@ -1,5 +1,5 @@
 ---
-title: driftingowynerd | Patromierz
+title: "driftingowynerd | Patromierz"
 permalink: /driftingowynerd
 ---
 
@@ -7,7 +7,7 @@ permalink: /driftingowynerd
 <script type="text/javascript" src="data/d/driftingowynerd.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [driftingowynerd](https://patronite.pl/driftingowynerd)
+# [Driftingowy Nerd](https://patronite.pl/driftingowynerd)
 
 ## Miesięczne wsparcie
 

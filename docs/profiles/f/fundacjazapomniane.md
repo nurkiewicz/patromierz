@@ -1,5 +1,5 @@
 ---
-title: fundacjazapomniane | Patromierz
+title: "fundacjazapomniane | Patromierz"
 permalink: /fundacjazapomniane
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjazapomniane
 <script type="text/javascript" src="data/f/fundacjazapomniane.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjazapomniane](https://patronite.pl/fundacjazapomniane)
+# [Fundacja Zapomniane](https://patronite.pl/fundacjazapomniane)
 
 ## Miesięczne wsparcie
 

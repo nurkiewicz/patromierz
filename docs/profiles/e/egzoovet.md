@@ -1,5 +1,5 @@
 ---
-title: egzoovet | Patromierz
+title: "egzoovet | Patromierz"
 permalink: /egzoovet
 ---
 
@@ -7,7 +7,7 @@ permalink: /egzoovet
 <script type="text/javascript" src="data/e/egzoovet.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [egzoovet](https://patronite.pl/egzoovet)
+# [Egzoovet](https://patronite.pl/egzoovet)
 
 ## Miesięczne wsparcie
 

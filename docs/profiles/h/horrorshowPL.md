@@ -1,5 +1,5 @@
 ---
-title: horrorshowPL | Patromierz
+title: "horrorshowPL | Patromierz"
 permalink: /horrorshowPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /horrorshowPL
 <script type="text/javascript" src="data/h/horrorshowPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [horrorshowPL](https://patronite.pl/horrorshowPL)
+# [Horrorshow.pl](https://patronite.pl/horrorshowPL)
 
 ## Miesięczne wsparcie
 

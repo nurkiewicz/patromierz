@@ -1,5 +1,5 @@
 ---
-title: daniel-kasprowicz | Patromierz
+title: "daniel-kasprowicz | Patromierz"
 permalink: /daniel-kasprowicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /daniel-kasprowicz
 <script type="text/javascript" src="data/d/daniel-kasprowicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [daniel-kasprowicz](https://patronite.pl/daniel-kasprowicz)
+# [Daniel Kasprowicz](https://patronite.pl/daniel-kasprowicz)
 
 ## Miesięczne wsparcie
 

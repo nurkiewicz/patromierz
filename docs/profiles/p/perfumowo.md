@@ -1,5 +1,5 @@
 ---
-title: perfumowo | Patromierz
+title: "perfumowo | Patromierz"
 permalink: /perfumowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /perfumowo
 <script type="text/javascript" src="data/p/perfumowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [perfumowo](https://patronite.pl/perfumowo)
+# [perfumowo by Adam Engler ](https://patronite.pl/perfumowo)
 
 ## Miesięczne wsparcie
 

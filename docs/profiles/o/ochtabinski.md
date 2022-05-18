@@ -1,5 +1,5 @@
 ---
-title: ochtabinski | Patromierz
+title: "ochtabinski | Patromierz"
 permalink: /ochtabinski
 ---
 
@@ -7,7 +7,7 @@ permalink: /ochtabinski
 <script type="text/javascript" src="data/o/ochtabinski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ochtabinski](https://patronite.pl/ochtabinski)
+# [Ochtabiński](https://patronite.pl/ochtabinski)
 
 ## Miesięczne wsparcie
 

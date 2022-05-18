@@ -1,5 +1,5 @@
 ---
-title: jasiekolejniczak | Patromierz
+title: "jasiekolejniczak | Patromierz"
 permalink: /jasiekolejniczak
 ---
 
@@ -7,7 +7,7 @@ permalink: /jasiekolejniczak
 <script type="text/javascript" src="data/j/jasiekolejniczak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jasiekolejniczak](https://patronite.pl/jasiekolejniczak)
+# [Jasiek Olejniczak](https://patronite.pl/jasiekolejniczak)
 
 ## Miesięczne wsparcie
 

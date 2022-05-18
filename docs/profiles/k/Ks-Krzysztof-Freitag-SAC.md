@@ -1,5 +1,5 @@
 ---
-title: Ks-Krzysztof-Freitag-SAC | Patromierz
+title: "Ks-Krzysztof-Freitag-SAC | Patromierz"
 permalink: /Ks-Krzysztof-Freitag-SAC
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ks-Krzysztof-Freitag-SAC
 <script type="text/javascript" src="data/k/Ks-Krzysztof-Freitag-SAC.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ks-Krzysztof-Freitag-SAC](https://patronite.pl/Ks-Krzysztof-Freitag-SAC)
+# [Krzysztof Freitag](https://patronite.pl/Ks-Krzysztof-Freitag-SAC)
 
 ## Miesięczne wsparcie
 

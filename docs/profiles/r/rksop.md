@@ -1,5 +1,5 @@
 ---
-title: rksop | Patromierz
+title: "rksop | Patromierz"
 permalink: /rksop
 ---
 
@@ -7,7 +7,7 @@ permalink: /rksop
 <script type="text/javascript" src="data/r/rksop.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rksop](https://patronite.pl/rksop)
+# [RKSOP AKJ](https://patronite.pl/rksop)
 
 ## Miesięczne wsparcie
 

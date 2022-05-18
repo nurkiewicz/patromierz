@@ -1,5 +1,5 @@
 ---
-title: odpowiedzialnamoda | Patromierz
+title: "odpowiedzialnamoda | Patromierz"
 permalink: /odpowiedzialnamoda
 ---
 
@@ -7,7 +7,7 @@ permalink: /odpowiedzialnamoda
 <script type="text/javascript" src="data/o/odpowiedzialnamoda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [odpowiedzialnamoda](https://patronite.pl/odpowiedzialnamoda)
+# [Odpowiedzialna Moda - Katarzyna Zajączkowska](https://patronite.pl/odpowiedzialnamoda)
 
 ## Miesięczne wsparcie
 

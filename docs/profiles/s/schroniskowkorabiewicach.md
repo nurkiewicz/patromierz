@@ -1,5 +1,5 @@
 ---
-title: schroniskowkorabiewicach | Patromierz
+title: "schroniskowkorabiewicach | Patromierz"
 permalink: /schroniskowkorabiewicach
 ---
 
@@ -7,7 +7,7 @@ permalink: /schroniskowkorabiewicach
 <script type="text/javascript" src="data/s/schroniskowkorabiewicach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [schroniskowkorabiewicach](https://patronite.pl/schroniskowkorabiewicach)
+# [Schronisko w Korabiewicach VIVA](https://patronite.pl/schroniskowkorabiewicach)
 
 ## Miesięczne wsparcie
 

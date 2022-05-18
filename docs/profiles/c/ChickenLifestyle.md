@@ -1,5 +1,5 @@
 ---
-title: ChickenLifestyle | Patromierz
+title: "ChickenLifestyle | Patromierz"
 permalink: /ChickenLifestyle
 ---
 
@@ -7,7 +7,7 @@ permalink: /ChickenLifestyle
 <script type="text/javascript" src="data/c/ChickenLifestyle.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ChickenLifestyle](https://patronite.pl/ChickenLifestyle)
+# [Chicken Lifestyle](https://patronite.pl/ChickenLifestyle)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Herpetolog | Patromierz
+title: "Herpetolog | Patromierz"
 permalink: /Herpetolog
 ---
 
@@ -7,7 +7,7 @@ permalink: /Herpetolog
 <script type="text/javascript" src="data/h/Herpetolog.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Herpetolog](https://patronite.pl/Herpetolog)
+# [Piotr Kazimirski](https://patronite.pl/Herpetolog)
 
 ## Miesięczne wsparcie
 

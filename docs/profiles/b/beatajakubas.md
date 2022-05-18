@@ -1,5 +1,5 @@
 ---
-title: beatajakubas | Patromierz
+title: "beatajakubas | Patromierz"
 permalink: /beatajakubas
 ---
 
@@ -7,7 +7,7 @@ permalink: /beatajakubas
 <script type="text/javascript" src="data/b/beatajakubas.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [beatajakubas](https://patronite.pl/beatajakubas)
+# [Beata Jakubas Fotografia Światłem Malowana ](https://patronite.pl/beatajakubas)
 
 ## Miesięczne wsparcie
 

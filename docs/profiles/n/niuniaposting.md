@@ -1,5 +1,5 @@
 ---
-title: niuniaposting | Patromierz
+title: "niuniaposting | Patromierz"
 permalink: /niuniaposting
 ---
 
@@ -7,7 +7,7 @@ permalink: /niuniaposting
 <script type="text/javascript" src="data/n/niuniaposting.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niuniaposting](https://patronite.pl/niuniaposting)
+# [Niunia posting](https://patronite.pl/niuniaposting)
 
 ## Miesięczne wsparcie
 

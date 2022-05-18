@@ -1,5 +1,5 @@
 ---
-title: dzieciwnature | Patromierz
+title: "dzieciwnature | Patromierz"
 permalink: /dzieciwnature
 ---
 
@@ -7,7 +7,7 @@ permalink: /dzieciwnature
 <script type="text/javascript" src="data/d/dzieciwnature.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dzieciwnature](https://patronite.pl/dzieciwnature)
+# [Fundacja Dzieci w Naturę](https://patronite.pl/dzieciwnature)
 
 ## Miesięczne wsparcie
 

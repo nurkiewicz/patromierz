@@ -1,5 +1,5 @@
 ---
-title: elanguages | Patromierz
+title: "elanguages | Patromierz"
 permalink: /elanguages
 ---
 
@@ -7,7 +7,7 @@ permalink: /elanguages
 <script type="text/javascript" src="data/e/elanguages.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elanguages](https://patronite.pl/elanguages)
+# [Elanguages](https://patronite.pl/elanguages)
 
 ## Miesięczne wsparcie
 

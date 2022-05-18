@@ -1,5 +1,5 @@
 ---
-title: Drzewiński | Patromierz
+title: "Drzewiński | Patromierz"
 permalink: /Drzewiński
 ---
 
@@ -7,7 +7,7 @@ permalink: /Drzewiński
 <script type="text/javascript" src="data/d/Drzewiński.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Drzewiński](https://patronite.pl/Drzewiński)
+# [DRZEWIŃSKI O FOTOGRAFII](https://patronite.pl/Drzewiński)
 
 ## Miesięczne wsparcie
 

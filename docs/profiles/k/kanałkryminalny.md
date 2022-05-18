@@ -1,5 +1,5 @@
 ---
-title: kanałkryminalny | Patromierz
+title: "kanałkryminalny | Patromierz"
 permalink: /kanałkryminalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /kanałkryminalny
 <script type="text/javascript" src="data/k/kanałkryminalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kanałkryminalny](https://patronite.pl/kanałkryminalny)
+# [KANAŁ KRYMINALNY](https://patronite.pl/kanałkryminalny)
 
 ## Miesięczne wsparcie
 

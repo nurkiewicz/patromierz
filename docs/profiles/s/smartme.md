@@ -1,5 +1,5 @@
 ---
-title: smartme | Patromierz
+title: "smartme | Patromierz"
 permalink: /smartme
 ---
 
@@ -7,7 +7,7 @@ permalink: /smartme
 <script type="text/javascript" src="data/s/smartme.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smartme](https://patronite.pl/smartme)
+# [SmartMe](https://patronite.pl/smartme)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: SpotkaniaNaSzlaku | Patromierz
+title: "SpotkaniaNaSzlaku | Patromierz"
 permalink: /SpotkaniaNaSzlaku
 ---
 
@@ -7,7 +7,7 @@ permalink: /SpotkaniaNaSzlaku
 <script type="text/javascript" src="data/s/SpotkaniaNaSzlaku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SpotkaniaNaSzlaku](https://patronite.pl/SpotkaniaNaSzlaku)
+# [Spotkania na Szlaku](https://patronite.pl/SpotkaniaNaSzlaku)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KronikaLudwika | Patromierz
+title: "KronikaLudwika | Patromierz"
 permalink: /KronikaLudwika
 ---
 
@@ -7,7 +7,7 @@ permalink: /KronikaLudwika
 <script type="text/javascript" src="data/k/KronikaLudwika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KronikaLudwika](https://patronite.pl/KronikaLudwika)
+# [Kronika Ludwika](https://patronite.pl/KronikaLudwika)
 
 ## Miesięczne wsparcie
 

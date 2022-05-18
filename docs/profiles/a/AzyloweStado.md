@@ -1,5 +1,5 @@
 ---
-title: AzyloweStado | Patromierz
+title: "AzyloweStado | Patromierz"
 permalink: /AzyloweStado
 ---
 
@@ -7,7 +7,7 @@ permalink: /AzyloweStado
 <script type="text/javascript" src="data/a/AzyloweStado.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AzyloweStado](https://patronite.pl/AzyloweStado)
+# [Azylowe Stado](https://patronite.pl/AzyloweStado)
 
 ## Miesięczne wsparcie
 

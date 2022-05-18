@@ -1,5 +1,5 @@
 ---
-title: Beata | Patromierz
+title: "Beata | Patromierz"
 permalink: /Beata
 ---
 
@@ -7,7 +7,7 @@ permalink: /Beata
 <script type="text/javascript" src="data/b/Beata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Beata](https://patronite.pl/Beata)
+# [Beata Niemyjska](https://patronite.pl/Beata)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: okonwsieci | Patromierz
+title: "okonwsieci | Patromierz"
 permalink: /okonwsieci
 ---
 
@@ -7,7 +7,7 @@ permalink: /okonwsieci
 <script type="text/javascript" src="data/o/okonwsieci.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [okonwsieci](https://patronite.pl/okonwsieci)
+# [Okoń w sieci](https://patronite.pl/okonwsieci)
 
 ## Miesięczne wsparcie
 

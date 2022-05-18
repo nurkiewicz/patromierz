@@ -1,5 +1,5 @@
 ---
-title: krea-k-tywny | Patromierz
+title: "krea-k-tywny | Patromierz"
 permalink: /krea-k-tywny
 ---
 
@@ -7,7 +7,7 @@ permalink: /krea-k-tywny
 <script type="text/javascript" src="data/k/krea-k-tywny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [krea-k-tywny](https://patronite.pl/krea-k-tywny)
+# [Krea.k.tywny](https://patronite.pl/krea-k-tywny)
 
 ## Miesięczne wsparcie
 

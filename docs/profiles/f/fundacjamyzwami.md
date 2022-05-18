@@ -1,5 +1,5 @@
 ---
-title: fundacjamyzwami | Patromierz
+title: "fundacjamyzwami | Patromierz"
 permalink: /fundacjamyzwami
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjamyzwami
 <script type="text/javascript" src="data/f/fundacjamyzwami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjamyzwami](https://patronite.pl/fundacjamyzwami)
+# [Fundacja My z Wami](https://patronite.pl/fundacjamyzwami)
 
 ## Miesięczne wsparcie
 

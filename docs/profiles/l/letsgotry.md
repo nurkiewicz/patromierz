@@ -1,5 +1,5 @@
 ---
-title: letsgotry | Patromierz
+title: "letsgotry | Patromierz"
 permalink: /letsgotry
 ---
 
@@ -7,7 +7,7 @@ permalink: /letsgotry
 <script type="text/javascript" src="data/l/letsgotry.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [letsgotry](https://patronite.pl/letsgotry)
+# [LetsGoTry](https://patronite.pl/letsgotry)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: KlasyczneJachty | Patromierz
+title: "KlasyczneJachty | Patromierz"
 permalink: /KlasyczneJachty
 ---
 
@@ -7,7 +7,7 @@ permalink: /KlasyczneJachty
 <script type="text/javascript" src="data/k/KlasyczneJachty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KlasyczneJachty](https://patronite.pl/KlasyczneJachty)
+# [Fundacja Klasyczne Jachty](https://patronite.pl/KlasyczneJachty)
 
 ## Miesięczne wsparcie
 

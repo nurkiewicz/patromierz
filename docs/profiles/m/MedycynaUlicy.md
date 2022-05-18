@@ -1,5 +1,5 @@
 ---
-title: MedycynaUlicy | Patromierz
+title: "MedycynaUlicy | Patromierz"
 permalink: /MedycynaUlicy
 ---
 
@@ -7,7 +7,7 @@ permalink: /MedycynaUlicy
 <script type="text/javascript" src="data/m/MedycynaUlicy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MedycynaUlicy](https://patronite.pl/MedycynaUlicy)
+# [Medycy na Ulicy](https://patronite.pl/MedycynaUlicy)
 
 ## Miesięczne wsparcie
 

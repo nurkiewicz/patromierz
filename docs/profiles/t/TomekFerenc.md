@@ -1,5 +1,5 @@
 ---
-title: TomekFerenc | Patromierz
+title: "TomekFerenc | Patromierz"
 permalink: /TomekFerenc
 ---
 
@@ -7,7 +7,7 @@ permalink: /TomekFerenc
 <script type="text/javascript" src="data/t/TomekFerenc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TomekFerenc](https://patronite.pl/TomekFerenc)
+# [Tomek Ferenc](https://patronite.pl/TomekFerenc)
 
 ## Miesięczne wsparcie
 

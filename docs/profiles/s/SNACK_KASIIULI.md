@@ -1,5 +1,5 @@
 ---
-title: SNACK_KASIIULI | Patromierz
+title: "SNACK_KASIIULI | Patromierz"
 permalink: /SNACK_KASIIULI
 ---
 
@@ -7,7 +7,7 @@ permalink: /SNACK_KASIIULI
 <script type="text/javascript" src="data/s/SNACK_KASIIULI.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SNACK_KASIIULI](https://patronite.pl/SNACK_KASIIULI)
+# [SNACK Kasi i Uli](https://patronite.pl/SNACK_KASIIULI)
 
 ## Miesięczne wsparcie
 

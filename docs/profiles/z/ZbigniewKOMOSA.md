@@ -1,5 +1,5 @@
 ---
-title: ZbigniewKOMOSA | Patromierz
+title: "ZbigniewKOMOSA | Patromierz"
 permalink: /ZbigniewKOMOSA
 ---
 
@@ -7,7 +7,7 @@ permalink: /ZbigniewKOMOSA
 <script type="text/javascript" src="data/z/ZbigniewKOMOSA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ZbigniewKOMOSA](https://patronite.pl/ZbigniewKOMOSA)
+# [Zbigniew Komosa](https://patronite.pl/ZbigniewKOMOSA)
 
 ## Miesięczne wsparcie
 

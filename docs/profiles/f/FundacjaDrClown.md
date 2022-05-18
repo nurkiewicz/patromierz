@@ -1,5 +1,5 @@
 ---
-title: FundacjaDrClown | Patromierz
+title: "FundacjaDrClown | Patromierz"
 permalink: /FundacjaDrClown
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaDrClown
 <script type="text/javascript" src="data/f/FundacjaDrClown.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaDrClown](https://patronite.pl/FundacjaDrClown)
+# [Fundacja Dr Clown](https://patronite.pl/FundacjaDrClown)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: dzialzagraniczny | Patromierz
+title: "dzialzagraniczny | Patromierz"
 permalink: /dzialzagraniczny
 ---
 
@@ -7,7 +7,7 @@ permalink: /dzialzagraniczny
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dzialzagraniczny](https://patronite.pl/dzialzagraniczny)
+# [Dział Zagraniczny](https://patronite.pl/dzialzagraniczny)
 
 ## Miesięczne wsparcie
 

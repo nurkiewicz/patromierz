@@ -1,5 +1,5 @@
 ---
-title: chaosiinnepietra | Patromierz
+title: "chaosiinnepietra | Patromierz"
 permalink: /chaosiinnepietra
 ---
 
@@ -7,7 +7,7 @@ permalink: /chaosiinnepietra
 <script type="text/javascript" src="data/c/chaosiinnepietra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chaosiinnepietra](https://patronite.pl/chaosiinnepietra)
+# [Chaos i inne piętra - Kaja Kowalewska ](https://patronite.pl/chaosiinnepietra)
 
 ## Miesięczne wsparcie
 

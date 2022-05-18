@@ -1,5 +1,5 @@
 ---
-title: Graczfun | Patromierz
+title: "Graczfun | Patromierz"
 permalink: /Graczfun
 ---
 
@@ -7,7 +7,7 @@ permalink: /Graczfun
 <script type="text/javascript" src="data/g/Graczfun.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Graczfun](https://patronite.pl/Graczfun)
+# [GraczFun](https://patronite.pl/Graczfun)
 
 ## Miesięczne wsparcie
 

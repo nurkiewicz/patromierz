@@ -1,5 +1,5 @@
 ---
-title: sutari | Patromierz
+title: "sutari | Patromierz"
 permalink: /sutari
 ---
 
@@ -7,7 +7,7 @@ permalink: /sutari
 <script type="text/javascript" src="data/s/sutari.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sutari](https://patronite.pl/sutari)
+# [SUTARI](https://patronite.pl/sutari)
 
 ## Miesięczne wsparcie
 

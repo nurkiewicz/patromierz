@@ -1,5 +1,5 @@
 ---
-title: JacentyWie | Patromierz
+title: "JacentyWie | Patromierz"
 permalink: /JacentyWie
 ---
 

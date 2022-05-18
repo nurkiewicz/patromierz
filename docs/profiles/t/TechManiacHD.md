@@ -1,5 +1,5 @@
 ---
-title: TechManiacHD | Patromierz
+title: "TechManiacHD | Patromierz"
 permalink: /TechManiacHD
 ---
 

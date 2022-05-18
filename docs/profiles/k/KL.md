@@ -1,5 +1,5 @@
 ---
-title: KL | Patromierz
+title: "KL | Patromierz"
 permalink: /KL
 ---
 
@@ -7,7 +7,7 @@ permalink: /KL
 <script type="text/javascript" src="data/k/KL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KL](https://patronite.pl/KL)
+# [Kultura Liberalna](https://patronite.pl/KL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: dwutygodnik | Patromierz
+title: "dwutygodnik | Patromierz"
 permalink: /dwutygodnik
 ---
 
@@ -7,7 +7,7 @@ permalink: /dwutygodnik
 <script type="text/javascript" src="data/d/dwutygodnik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dwutygodnik](https://patronite.pl/dwutygodnik)
+# [Dwutygodnik.com](https://patronite.pl/dwutygodnik)
 
 ## Miesięczne wsparcie
 

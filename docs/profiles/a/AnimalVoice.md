@@ -1,5 +1,5 @@
 ---
-title: AnimalVoice | Patromierz
+title: "AnimalVoice | Patromierz"
 permalink: /AnimalVoice
 ---
 
@@ -7,7 +7,7 @@ permalink: /AnimalVoice
 <script type="text/javascript" src="data/a/AnimalVoice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AnimalVoice](https://patronite.pl/AnimalVoice)
+# [Animal Voice Warszawa](https://patronite.pl/AnimalVoice)
 
 ## Miesięczne wsparcie
 

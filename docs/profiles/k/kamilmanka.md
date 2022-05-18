@@ -1,5 +1,5 @@
 ---
-title: kamilmanka | Patromierz
+title: "kamilmanka | Patromierz"
 permalink: /kamilmanka
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilmanka
 <script type="text/javascript" src="data/k/kamilmanka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilmanka](https://patronite.pl/kamilmanka)
+# [Magnanima - Kamil Mańka](https://patronite.pl/kamilmanka)
 
 ## Miesięczne wsparcie
 

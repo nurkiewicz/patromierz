@@ -1,5 +1,5 @@
 ---
-title: OnkoFitkaLidka | Patromierz
+title: "OnkoFitkaLidka | Patromierz"
 permalink: /OnkoFitkaLidka
 ---
 
@@ -7,7 +7,7 @@ permalink: /OnkoFitkaLidka
 <script type="text/javascript" src="data/o/OnkoFitkaLidka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OnkoFitkaLidka](https://patronite.pl/OnkoFitkaLidka)
+# [OnkoFitka Lidka](https://patronite.pl/OnkoFitkaLidka)
 
 ## Miesięczne wsparcie
 

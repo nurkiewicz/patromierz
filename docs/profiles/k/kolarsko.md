@@ -1,5 +1,5 @@
 ---
-title: kolarsko | Patromierz
+title: "kolarsko | Patromierz"
 permalink: /kolarsko
 ---
 
@@ -7,7 +7,7 @@ permalink: /kolarsko
 <script type="text/javascript" src="data/k/kolarsko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kolarsko](https://patronite.pl/kolarsko)
+# [Kolarsko.pl](https://patronite.pl/kolarsko)
 
 ## Miesięczne wsparcie
 

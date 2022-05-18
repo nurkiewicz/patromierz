@@ -1,5 +1,5 @@
 ---
-title: KowalonekSongwriter | Patromierz
+title: "KowalonekSongwriter | Patromierz"
 permalink: /KowalonekSongwriter
 ---
 
@@ -7,7 +7,7 @@ permalink: /KowalonekSongwriter
 <script type="text/javascript" src="data/k/KowalonekSongwriter.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KowalonekSongwriter](https://patronite.pl/KowalonekSongwriter)
+# [Michał Kowalonek](https://patronite.pl/KowalonekSongwriter)
 
 ## Miesięczne wsparcie
 

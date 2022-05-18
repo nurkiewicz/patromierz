@@ -1,5 +1,5 @@
 ---
-title: wszystkoobiznesie | Patromierz
+title: "wszystkoobiznesie | Patromierz"
 permalink: /wszystkoobiznesie
 ---
 
@@ -7,7 +7,7 @@ permalink: /wszystkoobiznesie
 <script type="text/javascript" src="data/w/wszystkoobiznesie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wszystkoobiznesie](https://patronite.pl/wszystkoobiznesie)
+# [WOB](https://patronite.pl/wszystkoobiznesie)
 
 ## Miesięczne wsparcie
 

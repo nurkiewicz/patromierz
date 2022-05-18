@@ -1,5 +1,5 @@
 ---
-title: Narrator | Patromierz
+title: "Narrator | Patromierz"
 permalink: /Narrator
 ---
 
@@ -7,7 +7,7 @@ permalink: /Narrator
 <script type="text/javascript" src="data/n/Narrator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Narrator](https://patronite.pl/Narrator)
+# [Refur Narrator](https://patronite.pl/Narrator)
 
 ## Miesięczne wsparcie
 

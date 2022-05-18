@@ -1,5 +1,5 @@
 ---
-title: ameryka-dla-podroznika | Patromierz
+title: "ameryka-dla-podroznika | Patromierz"
 permalink: /ameryka-dla-podroznika
 ---
 
@@ -7,7 +7,7 @@ permalink: /ameryka-dla-podroznika
 <script type="text/javascript" src="data/a/ameryka-dla-podroznika.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ameryka-dla-podroznika](https://patronite.pl/ameryka-dla-podroznika)
+# [Ameryka dla Podróźnika](https://patronite.pl/ameryka-dla-podroznika)
 
 ## Miesięczne wsparcie
 

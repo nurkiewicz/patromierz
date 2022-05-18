@@ -1,5 +1,5 @@
 ---
-title: podcastspecjalny | Patromierz
+title: "podcastspecjalny | Patromierz"
 permalink: /podcastspecjalny
 ---
 
@@ -7,7 +7,7 @@ permalink: /podcastspecjalny
 <script type="text/javascript" src="data/p/podcastspecjalny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podcastspecjalny](https://patronite.pl/podcastspecjalny)
+# [Podcast Specjalny](https://patronite.pl/podcastspecjalny)
 
 ## Miesięczne wsparcie
 

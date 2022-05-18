@@ -1,5 +1,5 @@
 ---
-title: transgrysy | Patromierz
+title: "transgrysy | Patromierz"
 permalink: /transgrysy
 ---
 
@@ -7,7 +7,7 @@ permalink: /transgrysy
 <script type="text/javascript" src="data/t/transgrysy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [transgrysy](https://patronite.pl/transgrysy)
+# [TransGrysy](https://patronite.pl/transgrysy)
 
 ## Miesięczne wsparcie
 

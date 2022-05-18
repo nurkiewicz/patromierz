@@ -1,5 +1,5 @@
 ---
-title: zestoickimspokojem | Patromierz
+title: "zestoickimspokojem | Patromierz"
 permalink: /zestoickimspokojem
 ---
 
@@ -7,7 +7,7 @@ permalink: /zestoickimspokojem
 <script type="text/javascript" src="data/z/zestoickimspokojem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zestoickimspokojem](https://patronite.pl/zestoickimspokojem)
+# [Ze stoickim spokojem](https://patronite.pl/zestoickimspokojem)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zycienawozku | Patromierz
+title: "zycienawozku | Patromierz"
 permalink: /zycienawozku
 ---
 
@@ -7,7 +7,7 @@ permalink: /zycienawozku
 <script type="text/javascript" src="data/z/zycienawozku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zycienawozku](https://patronite.pl/zycienawozku)
+# [Życie na Wózku](https://patronite.pl/zycienawozku)
 
 ## Miesięczne wsparcie
 

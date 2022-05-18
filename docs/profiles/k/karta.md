@@ -1,5 +1,5 @@
 ---
-title: karta | Patromierz
+title: "karta | Patromierz"
 permalink: /karta
 ---
 
@@ -7,7 +7,7 @@ permalink: /karta
 <script type="text/javascript" src="data/k/karta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karta](https://patronite.pl/karta)
+# [Fundacja Ośrodka KARTA](https://patronite.pl/karta)
 
 ## Miesięczne wsparcie
 

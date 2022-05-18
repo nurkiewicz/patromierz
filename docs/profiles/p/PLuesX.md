@@ -1,5 +1,5 @@
 ---
-title: PLuesX | Patromierz
+title: "PLuesX | Patromierz"
 permalink: /PLuesX
 ---
 
@@ -7,7 +7,7 @@ permalink: /PLuesX
 <script type="text/javascript" src="data/p/PLuesX.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PLuesX](https://patronite.pl/PLuesX)
+# [PLues X deConstruction of Bar's bLues](https://patronite.pl/PLuesX)
 
 ## Miesięczne wsparcie
 

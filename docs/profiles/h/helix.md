@@ -1,5 +1,5 @@
 ---
-title: helix | Patromierz
+title: "helix | Patromierz"
 permalink: /helix
 ---
 
@@ -7,7 +7,7 @@ permalink: /helix
 <script type="text/javascript" src="data/h/helix.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [helix](https://patronite.pl/helix)
+# [Aleksandra Helix](https://patronite.pl/helix)
 
 ## Miesięczne wsparcie
 

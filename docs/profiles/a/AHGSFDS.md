@@ -1,5 +1,5 @@
 ---
-title: AHGSFDS | Patromierz
+title: "AHGSFDS | Patromierz"
 permalink: /AHGSFDS
 ---
 
@@ -7,7 +7,7 @@ permalink: /AHGSFDS
 <script type="text/javascript" src="data/a/AHGSFDS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AHGSFDS](https://patronite.pl/AHGSFDS)
+# [Zapisz obrazek jako ahgsfds](https://patronite.pl/AHGSFDS)
 
 ## Miesięczne wsparcie
 

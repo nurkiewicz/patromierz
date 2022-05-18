@@ -1,5 +1,5 @@
 ---
-title: osiemprzezdwa | Patromierz
+title: "osiemprzezdwa | Patromierz"
 permalink: /osiemprzezdwa
 ---
 
@@ -7,7 +7,7 @@ permalink: /osiemprzezdwa
 <script type="text/javascript" src="data/o/osiemprzezdwa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [osiemprzezdwa](https://patronite.pl/osiemprzezdwa)
+# [OsiemPrzezDwa](https://patronite.pl/osiemprzezdwa)
 
 ## Miesięczne wsparcie
 

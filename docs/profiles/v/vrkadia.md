@@ -1,5 +1,5 @@
 ---
-title: vrkadia | Patromierz
+title: "vrkadia | Patromierz"
 permalink: /vrkadia
 ---
 
@@ -7,7 +7,7 @@ permalink: /vrkadia
 <script type="text/javascript" src="data/v/vrkadia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vrkadia](https://patronite.pl/vrkadia)
+# [VRkadia Polska](https://patronite.pl/vrkadia)
 
 ## Miesięczne wsparcie
 

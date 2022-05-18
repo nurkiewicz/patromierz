@@ -1,5 +1,5 @@
 ---
-title: gdzielosponiesie | Patromierz
+title: "gdzielosponiesie | Patromierz"
 permalink: /gdzielosponiesie
 ---
 
@@ -7,7 +7,7 @@ permalink: /gdzielosponiesie
 <script type="text/javascript" src="data/g/gdzielosponiesie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gdzielosponiesie](https://patronite.pl/gdzielosponiesie)
+# [Gdzie Los Poniesie](https://patronite.pl/gdzielosponiesie)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Skinderr | Patromierz
+title: "Skinderr | Patromierz"
 permalink: /Skinderr
 ---
 
@@ -7,7 +7,7 @@ permalink: /Skinderr
 <script type="text/javascript" src="data/s/Skinderr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Skinderr](https://patronite.pl/Skinderr)
+# [Skinder Garage](https://patronite.pl/Skinderr)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: elzbietastawnicka | Patromierz
+title: "elzbietastawnicka | Patromierz"
 permalink: /elzbietastawnicka
 ---
 
@@ -7,7 +7,7 @@ permalink: /elzbietastawnicka
 <script type="text/javascript" src="data/e/elzbietastawnicka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [elzbietastawnicka](https://patronite.pl/elzbietastawnicka)
+# [Elżbieta Stawnicka](https://patronite.pl/elzbietastawnicka)
 
 ## Miesięczne wsparcie
 

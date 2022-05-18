@@ -1,5 +1,5 @@
 ---
-title: radiooliwia | Patromierz
+title: "radiooliwia | Patromierz"
 permalink: /radiooliwia
 ---
 
@@ -7,7 +7,7 @@ permalink: /radiooliwia
 <script type="text/javascript" src="data/r/radiooliwia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [radiooliwia](https://patronite.pl/radiooliwia)
+# [Radio Oliwia](https://patronite.pl/radiooliwia)
 
 ## Miesięczne wsparcie
 

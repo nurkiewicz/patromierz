@@ -1,5 +1,5 @@
 ---
-title: fundacjabliskodomu | Patromierz
+title: "fundacjabliskodomu | Patromierz"
 permalink: /fundacjabliskodomu
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjabliskodomu
 <script type="text/javascript" src="data/f/fundacjabliskodomu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjabliskodomu](https://patronite.pl/fundacjabliskodomu)
+# [Fundacja Blisko Domu](https://patronite.pl/fundacjabliskodomu)
 
 ## Miesięczne wsparcie
 

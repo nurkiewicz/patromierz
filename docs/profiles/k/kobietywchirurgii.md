@@ -1,5 +1,5 @@
 ---
-title: kobietywchirurgii | Patromierz
+title: "kobietywchirurgii | Patromierz"
 permalink: /kobietywchirurgii
 ---
 
@@ -7,7 +7,7 @@ permalink: /kobietywchirurgii
 <script type="text/javascript" src="data/k/kobietywchirurgii.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kobietywchirurgii](https://patronite.pl/kobietywchirurgii)
+# [Fundacja Kobiety w chirurgii](https://patronite.pl/kobietywchirurgii)
 
 ## Miesięczne wsparcie
 

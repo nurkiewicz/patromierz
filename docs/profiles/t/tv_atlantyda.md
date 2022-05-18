@@ -1,5 +1,5 @@
 ---
-title: tv_atlantyda | Patromierz
+title: "tv_atlantyda | Patromierz"
 permalink: /tv_atlantyda
 ---
 
@@ -7,7 +7,7 @@ permalink: /tv_atlantyda
 <script type="text/javascript" src="data/t/tv_atlantyda.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tv_atlantyda](https://patronite.pl/tv_atlantyda)
+# [TV Atlantyda / Marcelo Zammenhoff](https://patronite.pl/tv_atlantyda)
 
 ## Miesięczne wsparcie
 

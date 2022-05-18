@@ -1,5 +1,5 @@
 ---
-title: ASKSoliDeo | Patromierz
+title: "ASKSoliDeo | Patromierz"
 permalink: /ASKSoliDeo
 ---
 
@@ -7,7 +7,7 @@ permalink: /ASKSoliDeo
 <script type="text/javascript" src="data/a/ASKSoliDeo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ASKSoliDeo](https://patronite.pl/ASKSoliDeo)
+# [ASK Soli Deo](https://patronite.pl/ASKSoliDeo)
 
 ## Miesięczne wsparcie
 

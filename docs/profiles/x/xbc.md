@@ -1,5 +1,5 @@
 ---
-title: xbc | Patromierz
+title: "xbc | Patromierz"
 permalink: /xbc
 ---
 
@@ -7,7 +7,7 @@ permalink: /xbc
 <script type="text/javascript" src="data/x/xbc.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [xbc](https://patronite.pl/xbc)
+# [XBestCinema](https://patronite.pl/xbc)
 
 ## Miesięczne wsparcie
 

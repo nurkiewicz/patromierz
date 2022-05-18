@@ -1,5 +1,5 @@
 ---
-title: papierwdole666 | Patromierz
+title: "papierwdole666 | Patromierz"
 permalink: /papierwdole666
 ---
 
@@ -7,7 +7,7 @@ permalink: /papierwdole666
 <script type="text/javascript" src="data/p/papierwdole666.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [papierwdole666](https://patronite.pl/papierwdole666)
+# [Papierwdole](https://patronite.pl/papierwdole666)
 
 ## Miesięczne wsparcie
 

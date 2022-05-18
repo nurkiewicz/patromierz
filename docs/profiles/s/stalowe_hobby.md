@@ -1,5 +1,5 @@
 ---
-title: stalowe_hobby | Patromierz
+title: "stalowe_hobby | Patromierz"
 permalink: /stalowe_hobby
 ---
 
@@ -7,7 +7,7 @@ permalink: /stalowe_hobby
 <script type="text/javascript" src="data/s/stalowe_hobby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stalowe_hobby](https://patronite.pl/stalowe_hobby)
+# [Stalowe hobby](https://patronite.pl/stalowe_hobby)
 
 ## Miesięczne wsparcie
 

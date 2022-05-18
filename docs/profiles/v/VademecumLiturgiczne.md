@@ -1,5 +1,5 @@
 ---
-title: VademecumLiturgiczne | Patromierz
+title: "VademecumLiturgiczne | Patromierz"
 permalink: /VademecumLiturgiczne
 ---
 
@@ -7,7 +7,7 @@ permalink: /VademecumLiturgiczne
 <script type="text/javascript" src="data/v/VademecumLiturgiczne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [VademecumLiturgiczne](https://patronite.pl/VademecumLiturgiczne)
+# [Vademecum Liturgiczne](https://patronite.pl/VademecumLiturgiczne)
 
 ## Miesięczne wsparcie
 

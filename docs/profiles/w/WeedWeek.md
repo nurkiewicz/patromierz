@@ -1,5 +1,5 @@
 ---
-title: WeedWeek | Patromierz
+title: "WeedWeek | Patromierz"
 permalink: /WeedWeek
 ---
 
@@ -7,7 +7,7 @@ permalink: /WeedWeek
 <script type="text/javascript" src="data/w/WeedWeek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WeedWeek](https://patronite.pl/WeedWeek)
+# [Weed Week](https://patronite.pl/WeedWeek)
 
 ## Miesięczne wsparcie
 

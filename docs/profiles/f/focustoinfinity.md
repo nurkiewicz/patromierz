@@ -1,5 +1,5 @@
 ---
-title: focustoinfinity | Patromierz
+title: "focustoinfinity | Patromierz"
 permalink: /focustoinfinity
 ---
 
@@ -7,7 +7,7 @@ permalink: /focustoinfinity
 <script type="text/javascript" src="data/f/focustoinfinity.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [focustoinfinity](https://patronite.pl/focustoinfinity)
+# [Focus to Infinity](https://patronite.pl/focustoinfinity)
 
 ## Miesięczne wsparcie
 

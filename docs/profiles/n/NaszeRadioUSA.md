@@ -1,5 +1,5 @@
 ---
-title: NaszeRadioUSA | Patromierz
+title: "NaszeRadioUSA | Patromierz"
 permalink: /NaszeRadioUSA
 ---
 
@@ -7,7 +7,7 @@ permalink: /NaszeRadioUSA
 <script type="text/javascript" src="data/n/NaszeRadioUSA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [NaszeRadioUSA](https://patronite.pl/NaszeRadioUSA)
+# [Nasze Radio USA](https://patronite.pl/NaszeRadioUSA)
 
 ## Miesięczne wsparcie
 

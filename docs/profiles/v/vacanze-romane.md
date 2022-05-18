@@ -1,5 +1,5 @@
 ---
-title: vacanze-romane | Patromierz
+title: "vacanze-romane | Patromierz"
 permalink: /vacanze-romane
 ---
 
@@ -7,7 +7,7 @@ permalink: /vacanze-romane
 <script type="text/javascript" src="data/v/vacanze-romane.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [vacanze-romane](https://patronite.pl/vacanze-romane)
+# [Język włoski z "Vacanze Romane"](https://patronite.pl/vacanze-romane)
 
 ## Miesięczne wsparcie
 

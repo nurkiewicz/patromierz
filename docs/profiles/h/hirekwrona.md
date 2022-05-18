@@ -1,5 +1,5 @@
 ---
-title: hirekwrona | Patromierz
+title: "hirekwrona | Patromierz"
 permalink: /hirekwrona
 ---
 
@@ -7,7 +7,7 @@ permalink: /hirekwrona
 <script type="text/javascript" src="data/h/hirekwrona.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hirekwrona](https://patronite.pl/hirekwrona)
+# [Hirek Wrona](https://patronite.pl/hirekwrona)
 
 ## Miesięczne wsparcie
 

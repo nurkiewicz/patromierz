@@ -1,5 +1,5 @@
 ---
-title: WokółPonurego | Patromierz
+title: "WokółPonurego | Patromierz"
 permalink: /WokółPonurego
 ---
 
@@ -7,7 +7,7 @@ permalink: /WokółPonurego
 <script type="text/javascript" src="data/w/WokółPonurego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [WokółPonurego](https://patronite.pl/WokółPonurego)
+# [Wokół „Ponurego” - Historia AK](https://patronite.pl/WokółPonurego)
 
 ## Miesięczne wsparcie
 

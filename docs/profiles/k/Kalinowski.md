@@ -1,5 +1,5 @@
 ---
-title: Kalinowski | Patromierz
+title: "Kalinowski | Patromierz"
 permalink: /Kalinowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kalinowski
 <script type="text/javascript" src="data/k/Kalinowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kalinowski](https://patronite.pl/Kalinowski)
+# [Sylwester Kalinowski](https://patronite.pl/Kalinowski)
 
 ## Miesięczne wsparcie
 

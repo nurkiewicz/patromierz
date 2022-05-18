@@ -1,5 +1,5 @@
 ---
-title: fundacjaanalizsztuki | Patromierz
+title: "fundacjaanalizsztuki | Patromierz"
 permalink: /fundacjaanalizsztuki
 ---
 
@@ -7,7 +7,7 @@ permalink: /fundacjaanalizsztuki
 <script type="text/javascript" src="data/f/fundacjaanalizsztuki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [fundacjaanalizsztuki](https://patronite.pl/fundacjaanalizsztuki)
+# [Fundacja Analiz Sztuki](https://patronite.pl/fundacjaanalizsztuki)
 
 ## Miesięczne wsparcie
 

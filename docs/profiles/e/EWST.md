@@ -1,5 +1,5 @@
 ---
-title: EWST | Patromierz
+title: "EWST | Patromierz"
 permalink: /EWST
 ---
 
@@ -7,7 +7,7 @@ permalink: /EWST
 <script type="text/javascript" src="data/e/EWST.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [EWST](https://patronite.pl/EWST)
+# [Ewangelikalna Wyższa Szkoła Teologiczna](https://patronite.pl/EWST)
 
 ## Miesięczne wsparcie
 

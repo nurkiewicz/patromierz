@@ -1,5 +1,5 @@
 ---
-title: pokochajgada | Patromierz
+title: "pokochajgada | Patromierz"
 permalink: /pokochajgada
 ---
 
@@ -7,7 +7,7 @@ permalink: /pokochajgada
 <script type="text/javascript" src="data/p/pokochajgada.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pokochajgada](https://patronite.pl/pokochajgada)
+# [Fundacja Pokochaj Gada](https://patronite.pl/pokochajgada)
 
 ## Miesięczne wsparcie
 

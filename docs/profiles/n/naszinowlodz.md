@@ -1,5 +1,5 @@
 ---
-title: naszinowlodz | Patromierz
+title: "naszinowlodz | Patromierz"
 permalink: /naszinowlodz
 ---
 
@@ -7,7 +7,7 @@ permalink: /naszinowlodz
 <script type="text/javascript" src="data/n/naszinowlodz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naszinowlodz](https://patronite.pl/naszinowlodz)
+# [NaszInowlodz.PL](https://patronite.pl/naszinowlodz)
 
 ## Miesięczne wsparcie
 

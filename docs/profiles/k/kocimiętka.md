@@ -1,5 +1,5 @@
 ---
-title: kocimiętka | Patromierz
+title: "kocimiętka | Patromierz"
 permalink: /kocimiętka
 ---
 

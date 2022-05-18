@@ -1,5 +1,5 @@
 ---
-title: bawer-aondo | Patromierz
+title: "bawer-aondo | Patromierz"
 permalink: /bawer-aondo
 ---
 
@@ -7,7 +7,7 @@ permalink: /bawer-aondo
 <script type="text/javascript" src="data/b/bawer-aondo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bawer-aondo](https://patronite.pl/bawer-aondo)
+# [Bawer Aondo-Akaa](https://patronite.pl/bawer-aondo)
 
 ## Miesięczne wsparcie
 

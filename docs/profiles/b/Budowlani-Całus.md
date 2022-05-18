@@ -1,5 +1,5 @@
 ---
-title: Budowlani-Całus | Patromierz
+title: "Budowlani-Całus | Patromierz"
 permalink: /Budowlani-Całus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Budowlani-Całus
 <script type="text/javascript" src="data/b/Budowlani-Całus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Budowlani-Całus](https://patronite.pl/Budowlani-Całus)
+# [LKS Budowlani-Całus](https://patronite.pl/Budowlani-Całus)
 
 ## Miesięczne wsparcie
 

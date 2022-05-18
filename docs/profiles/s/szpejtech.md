@@ -1,5 +1,5 @@
 ---
-title: szpejtech | Patromierz
+title: "szpejtech | Patromierz"
 permalink: /szpejtech
 ---
 
@@ -7,7 +7,7 @@ permalink: /szpejtech
 <script type="text/javascript" src="data/s/szpejtech.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szpejtech](https://patronite.pl/szpejtech)
+# [Szpej Tech](https://patronite.pl/szpejtech)
 
 ## Miesięczne wsparcie
 

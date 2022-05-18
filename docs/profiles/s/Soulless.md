@@ -1,5 +1,5 @@
 ---
-title: Soulless | Patromierz
+title: "Soulless | Patromierz"
 permalink: /Soulless
 ---
 
@@ -7,7 +7,7 @@ permalink: /Soulless
 <script type="text/javascript" src="data/s/Soulless.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Soulless](https://patronite.pl/Soulless)
+# [Andrzej „Soulless” Kozakowski Fantastycznie!](https://patronite.pl/Soulless)
 
 ## Miesięczne wsparcie
 

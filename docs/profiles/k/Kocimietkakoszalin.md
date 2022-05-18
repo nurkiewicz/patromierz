@@ -1,5 +1,5 @@
 ---
-title: Kocimietkakoszalin | Patromierz
+title: "Kocimietkakoszalin | Patromierz"
 permalink: /Kocimietkakoszalin
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kocimietkakoszalin
 <script type="text/javascript" src="data/k/Kocimietkakoszalin.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kocimietkakoszalin](https://patronite.pl/Kocimietkakoszalin)
+# [Koci miętka](https://patronite.pl/Kocimietkakoszalin)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: akademia | Patromierz
+title: "akademia | Patromierz"
 permalink: /akademia
 ---
 
@@ -7,7 +7,7 @@ permalink: /akademia
 <script type="text/javascript" src="data/a/akademia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [akademia](https://patronite.pl/akademia)
+# [Akademia Kabały Luriańskiej](https://patronite.pl/akademia)
 
 ## Miesięczne wsparcie
 

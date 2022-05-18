@@ -1,5 +1,5 @@
 ---
-title: Auto-Bachus | Patromierz
+title: "Auto-Bachus | Patromierz"
 permalink: /Auto-Bachus
 ---
 
@@ -7,7 +7,7 @@ permalink: /Auto-Bachus
 <script type="text/javascript" src="data/a/Auto-Bachus.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Auto-Bachus](https://patronite.pl/Auto-Bachus)
+# [AUTO-BACHUS Naczelny Bezczelny Nosacz Wśród Januszy-Kamil :)](https://patronite.pl/Auto-Bachus)
 
 ## Miesięczne wsparcie
 

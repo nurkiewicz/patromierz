@@ -1,5 +1,5 @@
 ---
-title: podrozodbyta | Patromierz
+title: "podrozodbyta | Patromierz"
 permalink: /podrozodbyta
 ---
 
@@ -7,7 +7,7 @@ permalink: /podrozodbyta
 <script type="text/javascript" src="data/p/podrozodbyta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podrozodbyta](https://patronite.pl/podrozodbyta)
+# [Podróż Odbyta](https://patronite.pl/podrozodbyta)
 
 ## Miesięczne wsparcie
 

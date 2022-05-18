@@ -1,5 +1,5 @@
 ---
-title: panpiotr | Patromierz
+title: "panpiotr | Patromierz"
 permalink: /panpiotr
 ---
 
@@ -7,7 +7,7 @@ permalink: /panpiotr
 <script type="text/javascript" src="data/p/panpiotr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [panpiotr](https://patronite.pl/panpiotr)
+# [Pan Piotr](https://patronite.pl/panpiotr)
 
 ## Miesięczne wsparcie
 

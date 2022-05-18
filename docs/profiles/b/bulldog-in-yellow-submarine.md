@@ -1,5 +1,5 @@
 ---
-title: bulldog-in-yellow-submarine | Patromierz
+title: "bulldog-in-yellow-submarine | Patromierz"
 permalink: /bulldog-in-yellow-submarine
 ---
 
@@ -7,7 +7,7 @@ permalink: /bulldog-in-yellow-submarine
 <script type="text/javascript" src="data/b/bulldog-in-yellow-submarine.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bulldog-in-yellow-submarine](https://patronite.pl/bulldog-in-yellow-submarine)
+# [Bulldog in Yellow Submarine](https://patronite.pl/bulldog-in-yellow-submarine)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: gospodarpg | Patromierz
+title: "gospodarpg | Patromierz"
 permalink: /gospodarpg
 ---
 
@@ -7,7 +7,7 @@ permalink: /gospodarpg
 <script type="text/javascript" src="data/g/gospodarpg.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gospodarpg](https://patronite.pl/gospodarpg)
+# [Gospoda RPG](https://patronite.pl/gospodarpg)
 
 ## Miesięczne wsparcie
 

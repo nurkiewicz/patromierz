@@ -1,5 +1,5 @@
 ---
-title: ostojazubra | Patromierz
+title: "ostojazubra | Patromierz"
 permalink: /ostojazubra
 ---
 
@@ -7,7 +7,7 @@ permalink: /ostojazubra
 <script type="text/javascript" src="data/o/ostojazubra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ostojazubra](https://patronite.pl/ostojazubra)
+# [Ostoja Żubra](https://patronite.pl/ostojazubra)
 
 ## Miesięczne wsparcie
 

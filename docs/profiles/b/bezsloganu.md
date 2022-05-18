@@ -1,5 +1,5 @@
 ---
-title: bezsloganu | Patromierz
+title: "bezsloganu | Patromierz"
 permalink: /bezsloganu
 ---
 
@@ -7,7 +7,7 @@ permalink: /bezsloganu
 <script type="text/javascript" src="data/b/bezsloganu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bezsloganu](https://patronite.pl/bezsloganu)
+# [bEZ sLOGANU](https://patronite.pl/bezsloganu)
 
 ## Miesięczne wsparcie
 

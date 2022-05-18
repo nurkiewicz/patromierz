@@ -1,5 +1,5 @@
 ---
-title: Pysiek | Patromierz
+title: "Pysiek | Patromierz"
 permalink: /Pysiek
 ---
 

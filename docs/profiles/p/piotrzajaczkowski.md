@@ -1,5 +1,5 @@
 ---
-title: piotrzajaczkowski | Patromierz
+title: "piotrzajaczkowski | Patromierz"
 permalink: /piotrzajaczkowski
 ---
 
@@ -7,7 +7,7 @@ permalink: /piotrzajaczkowski
 <script type="text/javascript" src="data/p/piotrzajaczkowski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [piotrzajaczkowski](https://patronite.pl/piotrzajaczkowski)
+# [Weekend Małżeński - br. Piotr Zajączkowski OFMCap](https://patronite.pl/piotrzajaczkowski)
 
 ## Miesięczne wsparcie
 

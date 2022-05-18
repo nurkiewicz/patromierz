@@ -1,5 +1,5 @@
 ---
-title: Rock-n-roll-baby | Patromierz
+title: "Rock-n-roll-baby | Patromierz"
 permalink: /Rock-n-roll-baby
 ---
 
@@ -7,7 +7,7 @@ permalink: /Rock-n-roll-baby
 <script type="text/javascript" src="data/r/Rock-n-roll-baby.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Rock-n-roll-baby](https://patronite.pl/Rock-n-roll-baby)
+# [Rock n roll Baby](https://patronite.pl/Rock-n-roll-baby)
 
 ## Miesięczne wsparcie
 

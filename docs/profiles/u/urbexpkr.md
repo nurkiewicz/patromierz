@@ -1,5 +1,5 @@
 ---
-title: urbexpkr | Patromierz
+title: "urbexpkr | Patromierz"
 permalink: /urbexpkr
 ---
 
@@ -7,7 +7,7 @@ permalink: /urbexpkr
 <script type="text/javascript" src="data/u/urbexpkr.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [urbexpkr](https://patronite.pl/urbexpkr)
+# [Urbex PKR](https://patronite.pl/urbexpkr)
 
 ## Miesięczne wsparcie
 

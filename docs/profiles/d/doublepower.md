@@ -1,5 +1,5 @@
 ---
-title: doublepower | Patromierz
+title: "doublepower | Patromierz"
 permalink: /doublepower
 ---
 
@@ -7,7 +7,7 @@ permalink: /doublepower
 <script type="text/javascript" src="data/d/doublepower.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [doublepower](https://patronite.pl/doublepower)
+# [Double Power](https://patronite.pl/doublepower)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: maurycypolewski | Patromierz
+title: "maurycypolewski | Patromierz"
 permalink: /maurycypolewski
 ---
 
@@ -7,7 +7,7 @@ permalink: /maurycypolewski
 <script type="text/javascript" src="data/m/maurycypolewski.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [maurycypolewski](https://patronite.pl/maurycypolewski)
+# [Maurycy Polewski](https://patronite.pl/maurycypolewski)
 
 ## Miesięczne wsparcie
 

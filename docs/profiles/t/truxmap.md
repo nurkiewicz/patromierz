@@ -1,5 +1,5 @@
 ---
-title: truxmap | Patromierz
+title: "truxmap | Patromierz"
 permalink: /truxmap
 ---
 
@@ -7,7 +7,7 @@ permalink: /truxmap
 <script type="text/javascript" src="data/t/truxmap.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [truxmap](https://patronite.pl/truxmap)
+# [truxmap.eu](https://patronite.pl/truxmap)
 
 ## Miesięczne wsparcie
 

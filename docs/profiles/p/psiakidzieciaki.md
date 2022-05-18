@@ -1,5 +1,5 @@
 ---
-title: psiakidzieciaki | Patromierz
+title: "psiakidzieciaki | Patromierz"
 permalink: /psiakidzieciaki
 ---
 
@@ -7,7 +7,7 @@ permalink: /psiakidzieciaki
 <script type="text/javascript" src="data/p/psiakidzieciaki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [psiakidzieciaki](https://patronite.pl/psiakidzieciaki)
+# [Psiaki i dzieciaki](https://patronite.pl/psiakidzieciaki)
 
 ## Miesięczne wsparcie
 

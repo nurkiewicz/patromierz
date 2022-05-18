@@ -1,5 +1,5 @@
 ---
-title: hubertwiecek | Patromierz
+title: "hubertwiecek | Patromierz"
 permalink: /hubertwiecek
 ---
 
@@ -7,7 +7,7 @@ permalink: /hubertwiecek
 <script type="text/javascript" src="data/h/hubertwiecek.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hubertwiecek](https://patronite.pl/hubertwiecek)
+# [Hubert Więcek](https://patronite.pl/hubertwiecek)
 
 ## Miesięczne wsparcie
 

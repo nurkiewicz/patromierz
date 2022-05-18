@@ -1,5 +1,5 @@
 ---
-title: GastroIIRP | Patromierz
+title: "GastroIIRP | Patromierz"
 permalink: /GastroIIRP
 ---
 
@@ -7,7 +7,7 @@ permalink: /GastroIIRP
 <script type="text/javascript" src="data/g/GastroIIRP.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GastroIIRP](https://patronite.pl/GastroIIRP)
+# [Przedwojenne Restauracje, Bary i Hotele ](https://patronite.pl/GastroIIRP)
 
 ## Miesięczne wsparcie
 

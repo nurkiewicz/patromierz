@@ -1,5 +1,5 @@
 ---
-title: KMAG_Radio | Patromierz
+title: "KMAG_Radio | Patromierz"
 permalink: /KMAG_Radio
 ---
 
@@ -7,7 +7,7 @@ permalink: /KMAG_Radio
 <script type="text/javascript" src="data/k/KMAG_Radio.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KMAG_Radio](https://patronite.pl/KMAG_Radio)
+# [K MAG Radio Podcast](https://patronite.pl/KMAG_Radio)
 
 ## Miesięczne wsparcie
 

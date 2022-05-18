@@ -1,5 +1,5 @@
 ---
-title: voiceinprogress-joannakurzynsk | Patromierz
+title: "voiceinprogress-joannakurzynsk | Patromierz"
 permalink: /voiceinprogress-joannakurzynsk
 ---
 
@@ -7,7 +7,7 @@ permalink: /voiceinprogress-joannakurzynsk
 <script type="text/javascript" src="data/v/voiceinprogress-joannakurzynsk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [voiceinprogress-joannakurzynsk](https://patronite.pl/voiceinprogress-joannakurzynsk)
+# [VoiceInProgress - Joanna Kurzyńska](https://patronite.pl/voiceinprogress-joannakurzynsk)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: revolshen | Patromierz
+title: "revolshen | Patromierz"
 permalink: /revolshen
 ---
 
@@ -7,7 +7,7 @@ permalink: /revolshen
 <script type="text/javascript" src="data/r/revolshen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [revolshen](https://patronite.pl/revolshen)
+# [Revolshen](https://patronite.pl/revolshen)
 
 ## Miesięczne wsparcie
 

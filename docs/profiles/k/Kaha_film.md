@@ -1,5 +1,5 @@
 ---
-title: Kaha_film | Patromierz
+title: "Kaha_film | Patromierz"
 permalink: /Kaha_film
 ---
 
@@ -7,7 +7,7 @@ permalink: /Kaha_film
 <script type="text/javascript" src="data/k/Kaha_film.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kaha_film](https://patronite.pl/Kaha_film)
+# [Kaha Hoffmann](https://patronite.pl/Kaha_film)
 
 ## Miesięczne wsparcie
 

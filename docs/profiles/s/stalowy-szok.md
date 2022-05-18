@@ -1,5 +1,5 @@
 ---
-title: stalowy-szok | Patromierz
+title: "stalowy-szok | Patromierz"
 permalink: /stalowy-szok
 ---
 
@@ -7,7 +7,7 @@ permalink: /stalowy-szok
 <script type="text/javascript" src="data/s/stalowy-szok.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stalowy-szok](https://patronite.pl/stalowy-szok)
+# [Stalowy Szok](https://patronite.pl/stalowy-szok)
 
 ## Miesięczne wsparcie
 

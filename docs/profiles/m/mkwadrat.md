@@ -1,5 +1,5 @@
 ---
-title: mkwadrat | Patromierz
+title: "mkwadrat | Patromierz"
 permalink: /mkwadrat
 ---
 
@@ -7,7 +7,7 @@ permalink: /mkwadrat
 <script type="text/javascript" src="data/m/mkwadrat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mkwadrat](https://patronite.pl/mkwadrat)
+# [MKwadrat Podcast](https://patronite.pl/mkwadrat)
 
 ## Miesięczne wsparcie
 

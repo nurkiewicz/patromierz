@@ -1,5 +1,5 @@
 ---
-title: zostanwege | Patromierz
+title: "zostanwege | Patromierz"
 permalink: /zostanwege
 ---
 
@@ -7,7 +7,7 @@ permalink: /zostanwege
 <script type="text/javascript" src="data/z/zostanwege.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zostanwege](https://patronite.pl/zostanwege)
+# [Zostań Wege - Fundacja Viva!](https://patronite.pl/zostanwege)
 
 ## Miesięczne wsparcie
 

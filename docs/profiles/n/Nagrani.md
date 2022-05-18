@@ -1,5 +1,5 @@
 ---
-title: Nagrani | Patromierz
+title: "Nagrani | Patromierz"
 permalink: /Nagrani
 ---
 
@@ -7,7 +7,7 @@ permalink: /Nagrani
 <script type="text/javascript" src="data/n/Nagrani.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Nagrani](https://patronite.pl/Nagrani)
+# [Na Grani](https://patronite.pl/Nagrani)
 
 ## Miesięczne wsparcie
 

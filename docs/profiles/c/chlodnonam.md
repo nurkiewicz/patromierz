@@ -1,5 +1,5 @@
 ---
-title: chlodnonam | Patromierz
+title: "chlodnonam | Patromierz"
 permalink: /chlodnonam
 ---
 
@@ -7,7 +7,7 @@ permalink: /chlodnonam
 <script type="text/javascript" src="data/c/chlodnonam.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chlodnonam](https://patronite.pl/chlodnonam)
+# [Chłodno](https://patronite.pl/chlodnonam)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: aleksnadramachniak | Patromierz
+title: "aleksnadramachniak | Patromierz"
 permalink: /aleksnadramachniak
 ---
 
@@ -7,7 +7,7 @@ permalink: /aleksnadramachniak
 <script type="text/javascript" src="data/a/aleksnadramachniak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [aleksnadramachniak](https://patronite.pl/aleksnadramachniak)
+# [Aleksandra Machniak](https://patronite.pl/aleksnadramachniak)
 
 ## Miesięczne wsparcie
 

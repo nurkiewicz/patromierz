@@ -1,5 +1,5 @@
 ---
-title: FundacjaFilmowaPowolany | Patromierz
+title: "FundacjaFilmowaPowolany | Patromierz"
 permalink: /FundacjaFilmowaPowolany
 ---
 
@@ -7,7 +7,7 @@ permalink: /FundacjaFilmowaPowolany
 <script type="text/javascript" src="data/f/FundacjaFilmowaPowolany.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [FundacjaFilmowaPowolany](https://patronite.pl/FundacjaFilmowaPowolany)
+# [Fundacja Filmowa Powołany](https://patronite.pl/FundacjaFilmowaPowolany)
 
 ## Miesięczne wsparcie
 

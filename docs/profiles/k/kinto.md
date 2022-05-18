@@ -1,5 +1,5 @@
 ---
-title: kinto | Patromierz
+title: "kinto | Patromierz"
 permalink: /kinto
 ---
 
@@ -7,7 +7,7 @@ permalink: /kinto
 <script type="text/javascript" src="data/k/kinto.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kinto](https://patronite.pl/kinto)
+# [Krzysztof Dziewiątkowski](https://patronite.pl/kinto)
 
 ## Miesięczne wsparcie
 

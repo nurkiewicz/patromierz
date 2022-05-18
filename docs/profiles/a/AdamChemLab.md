@@ -1,5 +1,5 @@
 ---
-title: AdamChemLab | Patromierz
+title: "AdamChemLab | Patromierz"
 permalink: /AdamChemLab
 ---
 
@@ -7,7 +7,7 @@ permalink: /AdamChemLab
 <script type="text/javascript" src="data/a/AdamChemLab.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AdamChemLab](https://patronite.pl/AdamChemLab)
+# [Adam ChemLab](https://patronite.pl/AdamChemLab)
 
 ## Miesięczne wsparcie
 

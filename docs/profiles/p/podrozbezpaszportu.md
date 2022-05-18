@@ -1,5 +1,5 @@
 ---
-title: podrozbezpaszportu | Patromierz
+title: "podrozbezpaszportu | Patromierz"
 permalink: /podrozbezpaszportu
 ---
 
@@ -7,7 +7,7 @@ permalink: /podrozbezpaszportu
 <script type="text/javascript" src="data/p/podrozbezpaszportu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [podrozbezpaszportu](https://patronite.pl/podrozbezpaszportu)
+# [Podróż bez Paszportu](https://patronite.pl/podrozbezpaszportu)
 
 ## Miesięczne wsparcie
 

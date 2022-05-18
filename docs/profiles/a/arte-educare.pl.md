@@ -1,5 +1,5 @@
 ---
-title: arte-educare.pl | Patromierz
+title: "arte-educare.pl | Patromierz"
 permalink: /arte-educare.pl
 ---
 
@@ -7,7 +7,7 @@ permalink: /arte-educare.pl
 <script type="text/javascript" src="data/a/arte-educare.pl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [arte-educare.pl](https://patronite.pl/arte-educare.pl)
+# [Arte Educare im. Michała Archanioła](https://patronite.pl/arte-educare.pl)
 
 ## Miesięczne wsparcie
 

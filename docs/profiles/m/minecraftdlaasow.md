@@ -1,5 +1,5 @@
 ---
-title: minecraftdlaasow | Patromierz
+title: "minecraftdlaasow | Patromierz"
 permalink: /minecraftdlaasow
 ---
 
@@ -7,7 +7,7 @@ permalink: /minecraftdlaasow
 <script type="text/javascript" src="data/m/minecraftdlaasow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [minecraftdlaasow](https://patronite.pl/minecraftdlaasow)
+# [Minecraft dla Asów](https://patronite.pl/minecraftdlaasow)
 
 ## Miesięczne wsparcie
 

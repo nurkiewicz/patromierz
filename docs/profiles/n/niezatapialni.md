@@ -1,5 +1,5 @@
 ---
-title: niezatapialni | Patromierz
+title: "niezatapialni | Patromierz"
 permalink: /niezatapialni
 ---
 
@@ -7,7 +7,7 @@ permalink: /niezatapialni
 <script type="text/javascript" src="data/n/niezatapialni.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [niezatapialni](https://patronite.pl/niezatapialni)
+# [Niezatapialni](https://patronite.pl/niezatapialni)
 
 ## Miesięczne wsparcie
 

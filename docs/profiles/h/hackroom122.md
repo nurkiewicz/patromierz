@@ -1,5 +1,5 @@
 ---
-title: hackroom122 | Patromierz
+title: "hackroom122 | Patromierz"
 permalink: /hackroom122
 ---
 
@@ -7,7 +7,7 @@ permalink: /hackroom122
 <script type="text/javascript" src="data/h/hackroom122.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hackroom122](https://patronite.pl/hackroom122)
+# [Hackroom122](https://patronite.pl/hackroom122)
 
 ## Miesięczne wsparcie
 

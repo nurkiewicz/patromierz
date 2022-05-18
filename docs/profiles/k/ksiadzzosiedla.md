@@ -1,5 +1,5 @@
 ---
-title: ksiadzzosiedla | Patromierz
+title: "ksiadzzosiedla | Patromierz"
 permalink: /ksiadzzosiedla
 ---
 
@@ -7,7 +7,7 @@ permalink: /ksiadzzosiedla
 <script type="text/javascript" src="data/k/ksiadzzosiedla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ksiadzzosiedla](https://patronite.pl/ksiadzzosiedla)
+# [Ksiądz z osiedla](https://patronite.pl/ksiadzzosiedla)
 
 ## Miesięczne wsparcie
 

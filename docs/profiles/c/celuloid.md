@@ -1,5 +1,5 @@
 ---
-title: celuloid | Patromierz
+title: "celuloid | Patromierz"
 permalink: /celuloid
 ---
 
@@ -7,7 +7,7 @@ permalink: /celuloid
 <script type="text/javascript" src="data/c/celuloid.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [celuloid](https://patronite.pl/celuloid)
+# [Celuloid i światło](https://patronite.pl/celuloid)
 
 ## Miesięczne wsparcie
 

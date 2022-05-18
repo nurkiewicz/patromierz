@@ -1,5 +1,5 @@
 ---
-title: cabriola | Patromierz
+title: "cabriola | Patromierz"
 permalink: /cabriola
 ---
 
@@ -7,7 +7,7 @@ permalink: /cabriola
 <script type="text/javascript" src="data/c/cabriola.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cabriola](https://patronite.pl/cabriola)
+# [Katarzyna Cygler](https://patronite.pl/cabriola)
 
 ## Miesięczne wsparcie
 

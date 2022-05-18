@@ -1,5 +1,5 @@
 ---
-title: ksaweryknotz | Patromierz
+title: "ksaweryknotz | Patromierz"
 permalink: /ksaweryknotz
 ---
 
@@ -7,7 +7,7 @@ permalink: /ksaweryknotz
 <script type="text/javascript" src="data/k/ksaweryknotz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ksaweryknotz](https://patronite.pl/ksaweryknotz)
+# [Ksawery Knotz OFMCap](https://patronite.pl/ksaweryknotz)
 
 ## Miesięczne wsparcie
 

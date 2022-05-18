@@ -1,5 +1,5 @@
 ---
-title: kitkowo | Patromierz
+title: "kitkowo | Patromierz"
 permalink: /kitkowo
 ---
 
@@ -7,7 +7,7 @@ permalink: /kitkowo
 <script type="text/javascript" src="data/k/kitkowo.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kitkowo](https://patronite.pl/kitkowo)
+# [Kitkow - Toruńskie Bezdomniaki](https://patronite.pl/kitkowo)
 
 ## Miesięczne wsparcie
 

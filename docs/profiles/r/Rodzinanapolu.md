@@ -1,5 +1,5 @@
 ---
-title: Rodzinanapolu | Patromierz
+title: "Rodzinanapolu | Patromierz"
 permalink: /Rodzinanapolu
 ---
 
@@ -7,7 +7,7 @@ permalink: /Rodzinanapolu
 <script type="text/javascript" src="data/r/Rodzinanapolu.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Rodzinanapolu](https://patronite.pl/Rodzinanapolu)
+# [Rodzina na polu](https://patronite.pl/Rodzinanapolu)
 
 ## Miesięczne wsparcie
 

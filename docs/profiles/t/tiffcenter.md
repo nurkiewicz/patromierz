@@ -1,5 +1,5 @@
 ---
-title: tiffcenter | Patromierz
+title: "tiffcenter | Patromierz"
 permalink: /tiffcenter
 ---
 
@@ -7,7 +7,7 @@ permalink: /tiffcenter
 <script type="text/javascript" src="data/t/tiffcenter.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tiffcenter](https://patronite.pl/tiffcenter)
+# [TIFF Center](https://patronite.pl/tiffcenter)
 
 ## Miesięczne wsparcie
 

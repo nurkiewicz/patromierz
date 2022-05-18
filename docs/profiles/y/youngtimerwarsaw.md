@@ -1,5 +1,5 @@
 ---
-title: youngtimerwarsaw | Patromierz
+title: "youngtimerwarsaw | Patromierz"
 permalink: /youngtimerwarsaw
 ---
 
@@ -7,7 +7,7 @@ permalink: /youngtimerwarsaw
 <script type="text/javascript" src="data/y/youngtimerwarsaw.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [youngtimerwarsaw](https://patronite.pl/youngtimerwarsaw)
+# [Youngtimer Warsaw](https://patronite.pl/youngtimerwarsaw)
 
 ## Miesięczne wsparcie
 

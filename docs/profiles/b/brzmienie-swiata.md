@@ -1,5 +1,5 @@
 ---
-title: brzmienie-swiata | Patromierz
+title: "brzmienie-swiata | Patromierz"
 permalink: /brzmienie-swiata
 ---
 
@@ -7,7 +7,7 @@ permalink: /brzmienie-swiata
 <script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [brzmienie-swiata](https://patronite.pl/brzmienie-swiata)
+# [Brzmienie Świata z lotu Drozda](https://patronite.pl/brzmienie-swiata)
 
 ## Miesięczne wsparcie
 

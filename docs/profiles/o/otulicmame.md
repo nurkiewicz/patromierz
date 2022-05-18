@@ -1,5 +1,5 @@
 ---
-title: otulicmame | Patromierz
+title: "otulicmame | Patromierz"
 permalink: /otulicmame
 ---
 
@@ -7,7 +7,7 @@ permalink: /otulicmame
 <script type="text/javascript" src="data/o/otulicmame.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [otulicmame](https://patronite.pl/otulicmame)
+# [Otulić Mamę](https://patronite.pl/otulicmame)
 
 ## Miesięczne wsparcie
 

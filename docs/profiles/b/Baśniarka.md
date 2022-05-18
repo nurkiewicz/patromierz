@@ -1,5 +1,5 @@
 ---
-title: Baśniarka | Patromierz
+title: "Baśniarka | Patromierz"
 permalink: /Baśniarka
 ---
 
@@ -7,7 +7,7 @@ permalink: /Baśniarka
 <script type="text/javascript" src="data/b/Baśniarka.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Baśniarka](https://patronite.pl/Baśniarka)
+# [DOTYKAM ŻYCIA](https://patronite.pl/Baśniarka)
 
 ## Miesięczne wsparcie
 

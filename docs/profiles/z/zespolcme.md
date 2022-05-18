@@ -1,5 +1,5 @@
 ---
-title: zespolcme | Patromierz
+title: "zespolcme | Patromierz"
 permalink: /zespolcme
 ---
 
@@ -7,7 +7,7 @@ permalink: /zespolcme
 <script type="text/javascript" src="data/z/zespolcme.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zespolcme](https://patronite.pl/zespolcme)
+# [Zespół CME](https://patronite.pl/zespolcme)
 
 ## Miesięczne wsparcie
 

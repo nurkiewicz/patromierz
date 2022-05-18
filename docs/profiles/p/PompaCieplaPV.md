@@ -1,5 +1,5 @@
 ---
-title: PompaCieplaPV | Patromierz
+title: "PompaCieplaPV | Patromierz"
 permalink: /PompaCieplaPV
 ---
 
@@ -7,7 +7,7 @@ permalink: /PompaCieplaPV
 <script type="text/javascript" src="data/p/PompaCieplaPV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PompaCieplaPV](https://patronite.pl/PompaCieplaPV)
+# [Pompa Ciepła i PV](https://patronite.pl/PompaCieplaPV)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: BigBandDobczyce | Patromierz
+title: "BigBandDobczyce | Patromierz"
 permalink: /BigBandDobczyce
 ---
 
@@ -7,7 +7,7 @@ permalink: /BigBandDobczyce
 <script type="text/javascript" src="data/b/BigBandDobczyce.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [BigBandDobczyce](https://patronite.pl/BigBandDobczyce)
+# [Big Band Dobczyce](https://patronite.pl/BigBandDobczyce)
 
 ## Miesięczne wsparcie
 

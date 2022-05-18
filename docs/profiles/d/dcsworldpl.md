@@ -1,5 +1,5 @@
 ---
-title: dcsworldpl | Patromierz
+title: "dcsworldpl | Patromierz"
 permalink: /dcsworldpl
 ---
 
@@ -7,7 +7,7 @@ permalink: /dcsworldpl
 <script type="text/javascript" src="data/d/dcsworldpl.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [dcsworldpl](https://patronite.pl/dcsworldpl)
+# [DCS World - Szkoła latania](https://patronite.pl/dcsworldpl)
 
 ## Miesięczne wsparcie
 

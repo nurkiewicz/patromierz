@@ -1,5 +1,5 @@
 ---
-title: strzelnicatv | Patromierz
+title: "strzelnicatv | Patromierz"
 permalink: /strzelnicatv
 ---
 
@@ -7,7 +7,7 @@ permalink: /strzelnicatv
 <script type="text/javascript" src="data/s/strzelnicatv.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [strzelnicatv](https://patronite.pl/strzelnicatv)
+# [Strzelnica Tv](https://patronite.pl/strzelnicatv)
 
 ## Miesięczne wsparcie
 

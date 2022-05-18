@@ -1,5 +1,5 @@
 ---
-title: kosmiczny-szaman | Patromierz
+title: "kosmiczny-szaman | Patromierz"
 permalink: /kosmiczny-szaman
 ---
 
@@ -7,7 +7,7 @@ permalink: /kosmiczny-szaman
 <script type="text/javascript" src="data/k/kosmiczny-szaman.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kosmiczny-szaman](https://patronite.pl/kosmiczny-szaman)
+# [Gniewomir Skrzysiński](https://patronite.pl/kosmiczny-szaman)
 
 ## Miesięczne wsparcie
 

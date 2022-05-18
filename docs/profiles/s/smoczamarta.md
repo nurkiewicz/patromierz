@@ -1,5 +1,5 @@
 ---
-title: smoczamarta | Patromierz
+title: "smoczamarta | Patromierz"
 permalink: /smoczamarta
 ---
 
@@ -7,7 +7,7 @@ permalink: /smoczamarta
 <script type="text/javascript" src="data/s/smoczamarta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [smoczamarta](https://patronite.pl/smoczamarta)
+# [Marta Kurek](https://patronite.pl/smoczamarta)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: AdamRaziel | Patromierz
+title: "AdamRaziel | Patromierz"
 permalink: /AdamRaziel
 ---
 
@@ -7,7 +7,7 @@ permalink: /AdamRaziel
 <script type="text/javascript" src="data/a/AdamRaziel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AdamRaziel](https://patronite.pl/AdamRaziel)
+# [Adam Raziel](https://patronite.pl/AdamRaziel)
 
 ## Miesięczne wsparcie
 

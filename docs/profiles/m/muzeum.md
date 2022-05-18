@@ -1,5 +1,5 @@
 ---
-title: muzeum | Patromierz
+title: "muzeum | Patromierz"
 permalink: /muzeum
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzeum
 <script type="text/javascript" src="data/m/muzeum.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzeum](https://patronite.pl/muzeum)
+# [Muzeum Historii Ubioru ](https://patronite.pl/muzeum)
 
 ## Miesięczne wsparcie
 

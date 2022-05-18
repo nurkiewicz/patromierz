@@ -1,5 +1,5 @@
 ---
-title: mr-fahrenheit | Patromierz
+title: "mr-fahrenheit | Patromierz"
 permalink: /mr-fahrenheit
 ---
 
@@ -7,7 +7,7 @@ permalink: /mr-fahrenheit
 <script type="text/javascript" src="data/m/mr-fahrenheit.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mr-fahrenheit](https://patronite.pl/mr-fahrenheit)
+# [Mr Fahrenheit CubeSat](https://patronite.pl/mr-fahrenheit)
 
 ## Miesięczne wsparcie
 

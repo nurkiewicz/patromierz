@@ -1,5 +1,5 @@
 ---
-title: MyTaple | Patromierz
+title: "MyTaple | Patromierz"
 permalink: /MyTaple
 ---
 
@@ -7,7 +7,7 @@ permalink: /MyTaple
 <script type="text/javascript" src="data/m/MyTaple.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MyTaple](https://patronite.pl/MyTaple)
+# [mytaple](https://patronite.pl/MyTaple)
 
 ## Miesięczne wsparcie
 

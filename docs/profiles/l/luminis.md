@@ -1,5 +1,5 @@
 ---
-title: luminis | Patromierz
+title: "luminis | Patromierz"
 permalink: /luminis
 ---
 
@@ -7,7 +7,7 @@ permalink: /luminis
 <script type="text/javascript" src="data/l/luminis.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [luminis](https://patronite.pl/luminis)
+# [Luminis oświetlenie](https://patronite.pl/luminis)
 
 ## Miesięczne wsparcie
 

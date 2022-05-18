@@ -1,5 +1,5 @@
 ---
-title: CDAp | Patromierz
+title: "CDAp | Patromierz"
 permalink: /CDAp
 ---
 
@@ -7,7 +7,7 @@ permalink: /CDAp
 <script type="text/javascript" src="data/c/CDAp.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CDAp](https://patronite.pl/CDAp)
+# [Artur Molendowski - Chwila Dla Admina](https://patronite.pl/CDAp)
 
 ## Miesięczne wsparcie
 

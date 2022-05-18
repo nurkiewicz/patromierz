@@ -1,5 +1,5 @@
 ---
-title: MonitorLesny | Patromierz
+title: "MonitorLesny | Patromierz"
 permalink: /MonitorLesny
 ---
 
@@ -7,7 +7,7 @@ permalink: /MonitorLesny
 <script type="text/javascript" src="data/m/MonitorLesny.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MonitorLesny](https://patronite.pl/MonitorLesny)
+# [Rafał Chudy](https://patronite.pl/MonitorLesny)
 
 ## Miesięczne wsparcie
 

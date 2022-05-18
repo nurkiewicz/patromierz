@@ -1,5 +1,5 @@
 ---
-title: MazurskieTajemnice | Patromierz
+title: "MazurskieTajemnice | Patromierz"
 permalink: /MazurskieTajemnice
 ---
 
@@ -7,7 +7,7 @@ permalink: /MazurskieTajemnice
 <script type="text/javascript" src="data/m/MazurskieTajemnice.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MazurskieTajemnice](https://patronite.pl/MazurskieTajemnice)
+# [Mazurskie Tajemnice](https://patronite.pl/MazurskieTajemnice)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kamilakielar | Patromierz
+title: "kamilakielar | Patromierz"
 permalink: /kamilakielar
 ---
 
@@ -7,7 +7,7 @@ permalink: /kamilakielar
 <script type="text/javascript" src="data/k/kamilakielar.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kamilakielar](https://patronite.pl/kamilakielar)
+# [Drzazgi Świata // Kamila Kielar](https://patronite.pl/kamilakielar)
 
 ## Miesięczne wsparcie
 

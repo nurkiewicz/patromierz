@@ -1,5 +1,5 @@
 ---
-title: sedzia | Patromierz
+title: "sedzia | Patromierz"
 permalink: /sedzia
 ---
 
@@ -7,7 +7,7 @@ permalink: /sedzia
 <script type="text/javascript" src="data/s/sedzia.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [sedzia](https://patronite.pl/sedzia)
+# [Rafał Rostkowski](https://patronite.pl/sedzia)
 
 ## Miesięczne wsparcie
 

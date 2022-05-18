@@ -1,5 +1,5 @@
 ---
-title: rcnennox | Patromierz
+title: "rcnennox | Patromierz"
 permalink: /rcnennox
 ---
 
@@ -7,7 +7,7 @@ permalink: /rcnennox
 <script type="text/javascript" src="data/r/rcnennox.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [rcnennox](https://patronite.pl/rcnennox)
+# [RC Nennox](https://patronite.pl/rcnennox)
 
 ## Miesięczne wsparcie
 

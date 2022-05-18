@@ -1,5 +1,5 @@
 ---
-title: tchnieniegrozy | Patromierz
+title: "tchnieniegrozy | Patromierz"
 permalink: /tchnieniegrozy
 ---
 
@@ -7,7 +7,7 @@ permalink: /tchnieniegrozy
 <script type="text/javascript" src="data/t/tchnieniegrozy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tchnieniegrozy](https://patronite.pl/tchnieniegrozy)
+# [Tchnienie Grozy](https://patronite.pl/tchnieniegrozy)
 
 ## Miesięczne wsparcie
 

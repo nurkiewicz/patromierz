@@ -1,5 +1,5 @@
 ---
-title: simpxon | Patromierz
+title: "simpxon | Patromierz"
 permalink: /simpxon
 ---
 
@@ -7,7 +7,7 @@ permalink: /simpxon
 <script type="text/javascript" src="data/s/simpxon.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [simpxon](https://patronite.pl/simpxon)
+# [martwy simpxon](https://patronite.pl/simpxon)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: slowianskie-demony | Patromierz
+title: "slowianskie-demony | Patromierz"
 permalink: /slowianskie-demony
 ---
 
@@ -7,7 +7,7 @@ permalink: /slowianskie-demony
 <script type="text/javascript" src="data/s/slowianskie-demony.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slowianskie-demony](https://patronite.pl/slowianskie-demony)
+# [Słowiańskie Demony](https://patronite.pl/slowianskie-demony)
 
 ## Miesięczne wsparcie
 

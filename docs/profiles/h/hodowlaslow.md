@@ -1,5 +1,5 @@
 ---
-title: hodowlaslow | Patromierz
+title: "hodowlaslow | Patromierz"
 permalink: /hodowlaslow
 ---
 
@@ -7,7 +7,7 @@ permalink: /hodowlaslow
 <script type="text/javascript" src="data/h/hodowlaslow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [hodowlaslow](https://patronite.pl/hodowlaslow)
+# [Hodowla Słów](https://patronite.pl/hodowlaslow)
 
 ## Miesięczne wsparcie
 

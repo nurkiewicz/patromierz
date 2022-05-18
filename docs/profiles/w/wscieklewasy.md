@@ -1,5 +1,5 @@
 ---
-title: wscieklewasy | Patromierz
+title: "wscieklewasy | Patromierz"
 permalink: /wscieklewasy
 ---
 
@@ -7,7 +7,7 @@ permalink: /wscieklewasy
 <script type="text/javascript" src="data/w/wscieklewasy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wscieklewasy](https://patronite.pl/wscieklewasy)
+# [Wściekłe Wąsy](https://patronite.pl/wscieklewasy)
 
 ## Miesięczne wsparcie
 

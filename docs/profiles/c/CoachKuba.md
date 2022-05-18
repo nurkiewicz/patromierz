@@ -1,5 +1,5 @@
 ---
-title: CoachKuba | Patromierz
+title: "CoachKuba | Patromierz"
 permalink: /CoachKuba
 ---
 
@@ -7,7 +7,7 @@ permalink: /CoachKuba
 <script type="text/javascript" src="data/c/CoachKuba.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [CoachKuba](https://patronite.pl/CoachKuba)
+# [Kuba Rosinski](https://patronite.pl/CoachKuba)
 
 ## Miesięczne wsparcie
 

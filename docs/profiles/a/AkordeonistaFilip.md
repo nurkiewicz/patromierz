@@ -1,5 +1,5 @@
 ---
-title: AkordeonistaFilip | Patromierz
+title: "AkordeonistaFilip | Patromierz"
 permalink: /AkordeonistaFilip
 ---
 
@@ -7,7 +7,7 @@ permalink: /AkordeonistaFilip
 <script type="text/javascript" src="data/a/AkordeonistaFilip.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AkordeonistaFilip](https://patronite.pl/AkordeonistaFilip)
+# [Akordeonista Filip](https://patronite.pl/AkordeonistaFilip)
 
 ## Miesięczne wsparcie
 

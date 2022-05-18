@@ -1,5 +1,5 @@
 ---
-title: stowarzyszeniemuzycznecanon | Patromierz
+title: "stowarzyszeniemuzycznecanon | Patromierz"
 permalink: /stowarzyszeniemuzycznecanon
 ---
 
@@ -7,7 +7,7 @@ permalink: /stowarzyszeniemuzycznecanon
 <script type="text/javascript" src="data/s/stowarzyszeniemuzycznecanon.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [stowarzyszeniemuzycznecanon](https://patronite.pl/stowarzyszeniemuzycznecanon)
+# [Stowarzyszenie Muzyczne Canon w Nowym Wiśniczu](https://patronite.pl/stowarzyszeniemuzycznecanon)
 
 ## Miesięczne wsparcie
 

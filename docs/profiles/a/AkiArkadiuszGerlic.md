@@ -1,5 +1,5 @@
 ---
-title: AkiArkadiuszGerlic | Patromierz
+title: "AkiArkadiuszGerlic | Patromierz"
 permalink: /AkiArkadiuszGerlic
 ---
 
@@ -7,7 +7,7 @@ permalink: /AkiArkadiuszGerlic
 <script type="text/javascript" src="data/a/AkiArkadiuszGerlic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AkiArkadiuszGerlic](https://patronite.pl/AkiArkadiuszGerlic)
+# [Aki Arkadiusz Gerlic](https://patronite.pl/AkiArkadiuszGerlic)
 
 ## Miesięczne wsparcie
 

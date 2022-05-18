@@ -1,5 +1,5 @@
 ---
-title: KKO | Patromierz
+title: "KKO | Patromierz"
 permalink: /KKO
 ---
 
@@ -7,7 +7,7 @@ permalink: /KKO
 <script type="text/javascript" src="data/k/KKO.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [KKO](https://patronite.pl/KKO)
+# [Koszykarski Klub Oleśnica](https://patronite.pl/KKO)
 
 ## Miesięczne wsparcie
 

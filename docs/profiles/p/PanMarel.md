@@ -1,5 +1,5 @@
 ---
-title: PanMarel | Patromierz
+title: "PanMarel | Patromierz"
 permalink: /PanMarel
 ---
 
@@ -7,7 +7,7 @@ permalink: /PanMarel
 <script type="text/javascript" src="data/p/PanMarel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [PanMarel](https://patronite.pl/PanMarel)
+# [Pan Mareł](https://patronite.pl/PanMarel)
 
 ## Miesięczne wsparcie
 

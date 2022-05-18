@@ -1,5 +1,5 @@
 ---
-title: IdziemyDla | Patromierz
+title: "IdziemyDla | Patromierz"
 permalink: /IdziemyDla
 ---
 
@@ -7,7 +7,7 @@ permalink: /IdziemyDla
 <script type="text/javascript" src="data/i/IdziemyDla.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IdziemyDla](https://patronite.pl/IdziemyDla)
+# [Idziemy Dla](https://patronite.pl/IdziemyDla)
 
 ## Miesięczne wsparcie
 

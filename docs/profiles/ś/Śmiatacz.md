@@ -1,5 +1,5 @@
 ---
-title: Śmiatacz | Patromierz
+title: "Śmiatacz | Patromierz"
 permalink: /Śmiatacz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Śmiatacz
 <script type="text/javascript" src="data/ś/Śmiatacz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Śmiatacz](https://patronite.pl/Śmiatacz)
+# [Mateusz Śmiatacz & RobCoins](https://patronite.pl/Śmiatacz)
 
 ## Miesięczne wsparcie
 

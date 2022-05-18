@@ -1,5 +1,5 @@
 ---
-title: polawiacze | Patromierz
+title: "polawiacze | Patromierz"
 permalink: /polawiacze
 ---
 
@@ -7,7 +7,7 @@ permalink: /polawiacze
 <script type="text/javascript" src="data/p/polawiacze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [polawiacze](https://patronite.pl/polawiacze)
+# [Poławiacze Pereł Improv Teatr](https://patronite.pl/polawiacze)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Fundacja-ARKA | Patromierz
+title: "Fundacja-ARKA | Patromierz"
 permalink: /Fundacja-ARKA
 ---
 
@@ -7,7 +7,7 @@ permalink: /Fundacja-ARKA
 <script type="text/javascript" src="data/f/Fundacja-ARKA.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Fundacja-ARKA](https://patronite.pl/Fundacja-ARKA)
+# [Fundacja ekologiczna ARKA](https://patronite.pl/Fundacja-ARKA)
 
 ## Miesięczne wsparcie
 

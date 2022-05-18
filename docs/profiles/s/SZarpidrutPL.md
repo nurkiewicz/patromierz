@@ -1,5 +1,5 @@
 ---
-title: SZarpidrutPL | Patromierz
+title: "SZarpidrutPL | Patromierz"
 permalink: /SZarpidrutPL
 ---
 
@@ -7,7 +7,7 @@ permalink: /SZarpidrutPL
 <script type="text/javascript" src="data/s/SZarpidrutPL.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [SZarpidrutPL](https://patronite.pl/SZarpidrutPL)
+# [SZarpidrut.PL](https://patronite.pl/SZarpidrutPL)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: znaki-riese | Patromierz
+title: "znaki-riese | Patromierz"
 permalink: /znaki-riese
 ---
 
@@ -7,7 +7,7 @@ permalink: /znaki-riese
 <script type="text/javascript" src="data/z/znaki-riese.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znaki-riese](https://patronite.pl/znaki-riese)
+# [Znaki](https://patronite.pl/znaki-riese)
 
 ## Miesięczne wsparcie
 

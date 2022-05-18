@@ -1,5 +1,5 @@
 ---
-title: AlphaPolska | Patromierz
+title: "AlphaPolska | Patromierz"
 permalink: /AlphaPolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /AlphaPolska
 <script type="text/javascript" src="data/a/AlphaPolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AlphaPolska](https://patronite.pl/AlphaPolska)
+# [Alpha Polska](https://patronite.pl/AlphaPolska)
 
 ## Miesięczne wsparcie
 

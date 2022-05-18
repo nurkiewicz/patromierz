@@ -1,5 +1,5 @@
 ---
-title: slimak | Patromierz
+title: "slimak | Patromierz"
 permalink: /slimak
 ---
 
@@ -7,7 +7,7 @@ permalink: /slimak
 <script type="text/javascript" src="data/s/slimak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [slimak](https://patronite.pl/slimak)
+# [Maciej "Ślimak" Starosta](https://patronite.pl/slimak)
 
 ## Miesięczne wsparcie
 

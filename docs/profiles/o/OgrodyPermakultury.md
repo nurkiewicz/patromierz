@@ -1,5 +1,5 @@
 ---
-title: OgrodyPermakultury | Patromierz
+title: "OgrodyPermakultury | Patromierz"
 permalink: /OgrodyPermakultury
 ---
 
@@ -7,7 +7,7 @@ permalink: /OgrodyPermakultury
 <script type="text/javascript" src="data/o/OgrodyPermakultury.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OgrodyPermakultury](https://patronite.pl/OgrodyPermakultury)
+# [Edukacyjne Centrum Ogrody Permakultury](https://patronite.pl/OgrodyPermakultury)
 
 ## Miesięczne wsparcie
 

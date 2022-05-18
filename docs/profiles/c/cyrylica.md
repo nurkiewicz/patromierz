@@ -1,5 +1,5 @@
 ---
-title: cyrylica | Patromierz
+title: "cyrylica | Patromierz"
 permalink: /cyrylica
 ---
 
@@ -7,7 +7,7 @@ permalink: /cyrylica
 <script type="text/javascript" src="data/c/cyrylica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cyrylica](https://patronite.pl/cyrylica)
+# [CYЯYLICA](https://patronite.pl/cyrylica)
 
 ## Miesięczne wsparcie
 

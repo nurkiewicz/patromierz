@@ -1,5 +1,5 @@
 ---
-title: TeKo | Patromierz
+title: "TeKo | Patromierz"
 permalink: /TeKo
 ---
 

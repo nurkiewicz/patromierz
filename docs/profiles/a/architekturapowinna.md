@@ -1,5 +1,5 @@
 ---
-title: architekturapowinna | Patromierz
+title: "architekturapowinna | Patromierz"
 permalink: /architekturapowinna
 ---
 
@@ -7,7 +7,7 @@ permalink: /architekturapowinna
 <script type="text/javascript" src="data/a/architekturapowinna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [architekturapowinna](https://patronite.pl/architekturapowinna)
+# [Architektura Powinna](https://patronite.pl/architekturapowinna)
 
 ## Miesięczne wsparcie
 

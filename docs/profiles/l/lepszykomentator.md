@@ -1,5 +1,5 @@
 ---
-title: lepszykomentator | Patromierz
+title: "lepszykomentator | Patromierz"
 permalink: /lepszykomentator
 ---
 
@@ -7,7 +7,7 @@ permalink: /lepszykomentator
 <script type="text/javascript" src="data/l/lepszykomentator.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [lepszykomentator](https://patronite.pl/lepszykomentator)
+# [Lepszy Komentator](https://patronite.pl/lepszykomentator)
 
 ## Miesięczne wsparcie
 

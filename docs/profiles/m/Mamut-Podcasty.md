@@ -1,5 +1,5 @@
 ---
-title: Mamut-Podcasty | Patromierz
+title: "Mamut-Podcasty | Patromierz"
 permalink: /Mamut-Podcasty
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mamut-Podcasty
 <script type="text/javascript" src="data/m/Mamut-Podcasty.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mamut-Podcasty](https://patronite.pl/Mamut-Podcasty)
+# [Mamut](https://patronite.pl/Mamut-Podcasty)
 
 ## Miesięczne wsparcie
 

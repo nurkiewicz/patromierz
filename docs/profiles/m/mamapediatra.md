@@ -1,5 +1,5 @@
 ---
-title: mamapediatra | Patromierz
+title: "mamapediatra | Patromierz"
 permalink: /mamapediatra
 ---
 
@@ -7,7 +7,7 @@ permalink: /mamapediatra
 <script type="text/javascript" src="data/m/mamapediatra.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mamapediatra](https://patronite.pl/mamapediatra)
+# [MamaPediatra](https://patronite.pl/mamapediatra)
 
 ## Miesięczne wsparcie
 

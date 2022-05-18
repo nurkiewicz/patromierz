@@ -1,5 +1,5 @@
 ---
-title: Gogetters | Patromierz
+title: "Gogetters | Patromierz"
 permalink: /Gogetters
 ---
 
@@ -7,7 +7,7 @@ permalink: /Gogetters
 <script type="text/javascript" src="data/g/Gogetters.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Gogetters](https://patronite.pl/Gogetters)
+# [GoGetters](https://patronite.pl/Gogetters)
 
 ## Miesięczne wsparcie
 

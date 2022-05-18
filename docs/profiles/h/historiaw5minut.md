@@ -1,5 +1,5 @@
 ---
-title: historiaw5minut | Patromierz
+title: "historiaw5minut | Patromierz"
 permalink: /historiaw5minut
 ---
 
@@ -7,7 +7,7 @@ permalink: /historiaw5minut
 <script type="text/javascript" src="data/h/historiaw5minut.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [historiaw5minut](https://patronite.pl/historiaw5minut)
+# [Historia w 5 minut](https://patronite.pl/historiaw5minut)
 
 ## Miesięczne wsparcie
 

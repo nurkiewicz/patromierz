@@ -1,5 +1,5 @@
 ---
-title: LapaDzieciom | Patromierz
+title: "LapaDzieciom | Patromierz"
 permalink: /LapaDzieciom
 ---
 
@@ -7,7 +7,7 @@ permalink: /LapaDzieciom
 <script type="text/javascript" src="data/l/LapaDzieciom.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LapaDzieciom](https://patronite.pl/LapaDzieciom)
+# [Łapa Dzieciom](https://patronite.pl/LapaDzieciom)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: szymonwarsz | Patromierz
+title: "szymonwarsz | Patromierz"
 permalink: /szymonwarsz
 ---
 
@@ -7,7 +7,7 @@ permalink: /szymonwarsz
 <script type="text/javascript" src="data/s/szymonwarsz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [szymonwarsz](https://patronite.pl/szymonwarsz)
+# [Szymon Warsz - Szlakiem w nieznane](https://patronite.pl/szymonwarsz)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: pykpuff | Patromierz
+title: "pykpuff | Patromierz"
 permalink: /pykpuff
 ---
 
@@ -7,7 +7,7 @@ permalink: /pykpuff
 <script type="text/javascript" src="data/p/pykpuff.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pykpuff](https://patronite.pl/pykpuff)
+# [Pyk Puff - fajka tradycyjna](https://patronite.pl/pykpuff)
 
 ## Miesięczne wsparcie
 

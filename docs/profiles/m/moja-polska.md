@@ -1,5 +1,5 @@
 ---
-title: moja-polska | Patromierz
+title: "moja-polska | Patromierz"
 permalink: /moja-polska
 ---
 
@@ -7,7 +7,7 @@ permalink: /moja-polska
 <script type="text/javascript" src="data/m/moja-polska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [moja-polska](https://patronite.pl/moja-polska)
+# [Grzegorz Płaczek](https://patronite.pl/moja-polska)
 
 ## Miesięczne wsparcie
 

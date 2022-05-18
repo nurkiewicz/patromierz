@@ -1,5 +1,5 @@
 ---
-title: oronowicz | Patromierz
+title: "oronowicz | Patromierz"
 permalink: /oronowicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /oronowicz
 <script type="text/javascript" src="data/o/oronowicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [oronowicz](https://patronite.pl/oronowicz)
+# [Niebieskie SOS](https://patronite.pl/oronowicz)
 
 ## Miesięczne wsparcie
 

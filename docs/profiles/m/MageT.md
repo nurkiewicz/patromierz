@@ -1,5 +1,5 @@
 ---
-title: MageT | Patromierz
+title: "MageT | Patromierz"
 permalink: /MageT
 ---
 

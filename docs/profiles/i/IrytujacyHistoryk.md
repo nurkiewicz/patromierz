@@ -1,5 +1,5 @@
 ---
-title: IrytujacyHistoryk | Patromierz
+title: "IrytujacyHistoryk | Patromierz"
 permalink: /IrytujacyHistoryk
 ---
 
@@ -7,7 +7,7 @@ permalink: /IrytujacyHistoryk
 <script type="text/javascript" src="data/i/IrytujacyHistoryk.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IrytujacyHistoryk](https://patronite.pl/IrytujacyHistoryk)
+# [Irytujący Historyk](https://patronite.pl/IrytujacyHistoryk)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: annabojarska | Patromierz
+title: "annabojarska | Patromierz"
 permalink: /annabojarska
 ---
 
@@ -7,7 +7,7 @@ permalink: /annabojarska
 <script type="text/javascript" src="data/a/annabojarska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [annabojarska](https://patronite.pl/annabojarska)
+# [Anna Bojarska](https://patronite.pl/annabojarska)
 
 ## Miesięczne wsparcie
 

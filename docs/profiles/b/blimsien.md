@@ -1,5 +1,5 @@
 ---
-title: blimsien | Patromierz
+title: "blimsien | Patromierz"
 permalink: /blimsien
 ---
 
@@ -7,7 +7,7 @@ permalink: /blimsien
 <script type="text/javascript" src="data/b/blimsien.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [blimsien](https://patronite.pl/blimsien)
+# [Blimsien](https://patronite.pl/blimsien)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: wostokpodroze | Patromierz
+title: "wostokpodroze | Patromierz"
 permalink: /wostokpodroze
 ---
 
@@ -7,7 +7,7 @@ permalink: /wostokpodroze
 <script type="text/javascript" src="data/w/wostokpodroze.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wostokpodroze](https://patronite.pl/wostokpodroze)
+# [Wostok Podróże - Tomek Jeżowski](https://patronite.pl/wostokpodroze)
 
 ## Miesięczne wsparcie
 

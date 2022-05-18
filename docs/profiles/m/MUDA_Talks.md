@@ -1,5 +1,5 @@
 ---
-title: MUDA_Talks | Patromierz
+title: "MUDA_Talks | Patromierz"
 permalink: /MUDA_Talks
 ---
 
@@ -7,7 +7,7 @@ permalink: /MUDA_Talks
 <script type="text/javascript" src="data/m/MUDA_Talks.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [MUDA_Talks](https://patronite.pl/MUDA_Talks)
+# [MUDA Talks](https://patronite.pl/MUDA_Talks)
 
 ## Miesięczne wsparcie
 

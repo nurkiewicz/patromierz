@@ -1,5 +1,5 @@
 ---
-title: flowtoslow | Patromierz
+title: "flowtoslow | Patromierz"
 permalink: /flowtoslow
 ---
 
@@ -7,7 +7,7 @@ permalink: /flowtoslow
 <script type="text/javascript" src="data/f/flowtoslow.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [flowtoslow](https://patronite.pl/flowtoslow)
+# [Flow to slow](https://patronite.pl/flowtoslow)
 
 ## Miesięczne wsparcie
 

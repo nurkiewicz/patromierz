@@ -1,5 +1,5 @@
 ---
-title: zupelnieinnyswiat | Patromierz
+title: "zupelnieinnyswiat | Patromierz"
 permalink: /zupelnieinnyswiat
 ---
 
@@ -7,7 +7,7 @@ permalink: /zupelnieinnyswiat
 <script type="text/javascript" src="data/z/zupelnieinnyswiat.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zupelnieinnyswiat](https://patronite.pl/zupelnieinnyswiat)
+# [Zupełnie Inny Świat](https://patronite.pl/zupelnieinnyswiat)
 
 ## Miesięczne wsparcie
 

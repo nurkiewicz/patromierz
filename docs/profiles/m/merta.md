@@ -1,5 +1,5 @@
 ---
-title: merta | Patromierz
+title: "merta | Patromierz"
 permalink: /merta
 ---
 
@@ -7,7 +7,7 @@ permalink: /merta
 <script type="text/javascript" src="data/m/merta.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [merta](https://patronite.pl/merta)
+# [Merta](https://patronite.pl/merta)
 
 ## Miesięczne wsparcie
 

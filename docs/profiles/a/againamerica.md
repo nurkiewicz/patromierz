@@ -1,5 +1,5 @@
 ---
-title: againamerica | Patromierz
+title: "againamerica | Patromierz"
 permalink: /againamerica
 ---
 
@@ -7,7 +7,7 @@ permalink: /againamerica
 <script type="text/javascript" src="data/a/againamerica.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [againamerica](https://patronite.pl/againamerica)
+# [Aga Kirchner](https://patronite.pl/againamerica)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: karotashi | Patromierz
+title: "karotashi | Patromierz"
 permalink: /karotashi
 ---
 
@@ -7,7 +7,7 @@ permalink: /karotashi
 <script type="text/javascript" src="data/k/karotashi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [karotashi](https://patronite.pl/karotashi)
+# [Karo Tashi](https://patronite.pl/karotashi)
 
 ## Miesięczne wsparcie
 

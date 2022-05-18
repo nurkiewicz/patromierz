@@ -1,5 +1,5 @@
 ---
-title: marcinstrzyzewskioRosji | Patromierz
+title: "marcinstrzyzewskioRosji | Patromierz"
 permalink: /marcinstrzyzewskioRosji
 ---
 
@@ -7,7 +7,7 @@ permalink: /marcinstrzyzewskioRosji
 <script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [marcinstrzyzewskioRosji](https://patronite.pl/marcinstrzyzewskioRosji)
+# [Marcin Strzyżewski](https://patronite.pl/marcinstrzyzewskioRosji)
 
 ## Miesięczne wsparcie
 

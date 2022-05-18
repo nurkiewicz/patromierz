@@ -1,5 +1,5 @@
 ---
-title: NieDaRadek | Patromierz
+title: "NieDaRadek | Patromierz"
 permalink: /NieDaRadek
 ---
 

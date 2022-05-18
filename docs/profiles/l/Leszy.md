@@ -1,5 +1,5 @@
 ---
-title: Leszy | Patromierz
+title: "Leszy | Patromierz"
 permalink: /Leszy
 ---
 
@@ -7,7 +7,7 @@ permalink: /Leszy
 <script type="text/javascript" src="data/l/Leszy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Leszy](https://patronite.pl/Leszy)
+# [Leszy - Miłośnicy Czystych Lasów](https://patronite.pl/Leszy)
 
 ## Miesięczne wsparcie
 

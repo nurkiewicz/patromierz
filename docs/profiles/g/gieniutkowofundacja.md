@@ -1,5 +1,5 @@
 ---
-title: gieniutkowofundacja | Patromierz
+title: "gieniutkowofundacja | Patromierz"
 permalink: /gieniutkowofundacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /gieniutkowofundacja
 <script type="text/javascript" src="data/g/gieniutkowofundacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gieniutkowofundacja](https://patronite.pl/gieniutkowofundacja)
+# [Fundacja prosiaczka Eugeniusza Gieniutkowo](https://patronite.pl/gieniutkowofundacja)
 
 ## Miesięczne wsparcie
 

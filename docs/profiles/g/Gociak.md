@@ -1,5 +1,5 @@
 ---
-title: Gociak | Patromierz
+title: "Gociak | Patromierz"
 permalink: /Gociak
 ---
 
@@ -7,7 +7,7 @@ permalink: /Gociak
 <script type="text/javascript" src="data/g/Gociak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Gociak](https://patronite.pl/Gociak)
+# [Irys Korsak](https://patronite.pl/Gociak)
 
 ## Miesięczne wsparcie
 

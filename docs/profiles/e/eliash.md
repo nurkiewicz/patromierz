@@ -1,5 +1,5 @@
 ---
-title: eliash | Patromierz
+title: "eliash | Patromierz"
 permalink: /eliash
 ---
 
@@ -7,7 +7,7 @@ permalink: /eliash
 <script type="text/javascript" src="data/e/eliash.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [eliash](https://patronite.pl/eliash)
+# [Eliash](https://patronite.pl/eliash)
 
 ## Miesięczne wsparcie
 

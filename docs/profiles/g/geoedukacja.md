@@ -1,5 +1,5 @@
 ---
-title: geoedukacja | Patromierz
+title: "geoedukacja | Patromierz"
 permalink: /geoedukacja
 ---
 
@@ -7,7 +7,7 @@ permalink: /geoedukacja
 <script type="text/javascript" src="data/g/geoedukacja.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [geoedukacja](https://patronite.pl/geoedukacja)
+# [GeoEdukacja](https://patronite.pl/geoedukacja)
 
 ## Miesięczne wsparcie
 

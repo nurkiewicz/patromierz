@@ -1,5 +1,5 @@
 ---
-title: torbareportera | Patromierz
+title: "torbareportera | Patromierz"
 permalink: /torbareportera
 ---
 
@@ -7,7 +7,7 @@ permalink: /torbareportera
 <script type="text/javascript" src="data/t/torbareportera.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [torbareportera](https://patronite.pl/torbareportera)
+# [Torba Reportera i Podcastera](https://patronite.pl/torbareportera)
 
 ## Miesięczne wsparcie
 

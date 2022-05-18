@@ -1,5 +1,5 @@
 ---
-title: michałzygmunt | Patromierz
+title: "michałzygmunt | Patromierz"
 permalink: /michałzygmunt
 ---
 
@@ -7,7 +7,7 @@ permalink: /michałzygmunt
 <script type="text/javascript" src="data/m/michałzygmunt.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [michałzygmunt](https://patronite.pl/michałzygmunt)
+# [Michał Zygmunt ](https://patronite.pl/michałzygmunt)
 
 ## Miesięczne wsparcie
 

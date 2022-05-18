@@ -1,5 +1,5 @@
 ---
-title: Ciekawi_Krakowa | Patromierz
+title: "Ciekawi_Krakowa | Patromierz"
 permalink: /Ciekawi_Krakowa
 ---
 
@@ -7,7 +7,7 @@ permalink: /Ciekawi_Krakowa
 <script type="text/javascript" src="data/c/Ciekawi_Krakowa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Ciekawi_Krakowa](https://patronite.pl/Ciekawi_Krakowa)
+# [Ciekawi Krakowa](https://patronite.pl/Ciekawi_Krakowa)
 
 ## Miesięczne wsparcie
 

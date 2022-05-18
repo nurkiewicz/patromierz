@@ -1,5 +1,5 @@
 ---
-title: babaodpolskiego | Patromierz
+title: "babaodpolskiego | Patromierz"
 permalink: /babaodpolskiego
 ---
 
@@ -7,7 +7,7 @@ permalink: /babaodpolskiego
 <script type="text/javascript" src="data/b/babaodpolskiego.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [babaodpolskiego](https://patronite.pl/babaodpolskiego)
+# [Baba od polskiego](https://patronite.pl/babaodpolskiego)
 
 ## Miesięczne wsparcie
 

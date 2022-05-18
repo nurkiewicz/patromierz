@@ -1,5 +1,5 @@
 ---
-title: teofilzkatowic | Patromierz
+title: "teofilzkatowic | Patromierz"
 permalink: /teofilzkatowic
 ---
 
@@ -7,7 +7,7 @@ permalink: /teofilzkatowic
 <script type="text/javascript" src="data/t/teofilzkatowic.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [teofilzkatowic](https://patronite.pl/teofilzkatowic)
+# [Teofil z Katowic](https://patronite.pl/teofilzkatowic)
 
 ## Miesięczne wsparcie
 

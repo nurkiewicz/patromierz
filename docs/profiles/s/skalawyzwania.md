@@ -1,5 +1,5 @@
 ---
-title: skalawyzwania | Patromierz
+title: "skalawyzwania | Patromierz"
 permalink: /skalawyzwania
 ---
 
@@ -7,7 +7,7 @@ permalink: /skalawyzwania
 <script type="text/javascript" src="data/s/skalawyzwania.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [skalawyzwania](https://patronite.pl/skalawyzwania)
+# [Skala Wyzwania](https://patronite.pl/skalawyzwania)
 
 ## Miesięczne wsparcie
 

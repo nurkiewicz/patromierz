@@ -1,5 +1,5 @@
 ---
-title: meteomodel | Patromierz
+title: "meteomodel | Patromierz"
 permalink: /meteomodel
 ---
 
@@ -7,7 +7,7 @@ permalink: /meteomodel
 <script type="text/javascript" src="data/m/meteomodel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [meteomodel](https://patronite.pl/meteomodel)
+# [Meteomodel](https://patronite.pl/meteomodel)
 
 ## Miesięczne wsparcie
 

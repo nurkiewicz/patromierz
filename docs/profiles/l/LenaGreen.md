@@ -1,5 +1,5 @@
 ---
-title: LenaGreen | Patromierz
+title: "LenaGreen | Patromierz"
 permalink: /LenaGreen
 ---
 
@@ -7,7 +7,7 @@ permalink: /LenaGreen
 <script type="text/javascript" src="data/l/LenaGreen.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [LenaGreen](https://patronite.pl/LenaGreen)
+# [Elena Zielińska](https://patronite.pl/LenaGreen)
 
 ## Miesięczne wsparcie
 

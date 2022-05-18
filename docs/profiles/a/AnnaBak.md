@@ -1,5 +1,5 @@
 ---
-title: AnnaBak | Patromierz
+title: "AnnaBak | Patromierz"
 permalink: /AnnaBak
 ---
 
@@ -7,7 +7,7 @@ permalink: /AnnaBak
 <script type="text/javascript" src="data/a/AnnaBak.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AnnaBak](https://patronite.pl/AnnaBak)
+# [Anna Bąk](https://patronite.pl/AnnaBak)
 
 ## Miesięczne wsparcie
 

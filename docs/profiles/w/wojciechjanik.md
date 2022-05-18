@@ -1,5 +1,5 @@
 ---
-title: wojciechjanik | Patromierz
+title: "wojciechjanik | Patromierz"
 permalink: /wojciechjanik
 ---
 
@@ -7,7 +7,7 @@ permalink: /wojciechjanik
 <script type="text/javascript" src="data/w/wojciechjanik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [wojciechjanik](https://patronite.pl/wojciechjanik)
+# [Wojciech Janik](https://patronite.pl/wojciechjanik)
 
 ## Miesięczne wsparcie
 

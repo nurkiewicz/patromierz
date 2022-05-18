@@ -1,5 +1,5 @@
 ---
-title: umagdy | Patromierz
+title: "umagdy | Patromierz"
 permalink: /umagdy
 ---
 
@@ -7,7 +7,7 @@ permalink: /umagdy
 <script type="text/javascript" src="data/u/umagdy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [umagdy](https://patronite.pl/umagdy)
+# [Tymczasem u Magdy](https://patronite.pl/umagdy)
 
 ## Miesięczne wsparcie
 

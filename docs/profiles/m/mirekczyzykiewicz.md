@@ -1,5 +1,5 @@
 ---
-title: mirekczyzykiewicz | Patromierz
+title: "mirekczyzykiewicz | Patromierz"
 permalink: /mirekczyzykiewicz
 ---
 
@@ -7,7 +7,7 @@ permalink: /mirekczyzykiewicz
 <script type="text/javascript" src="data/m/mirekczyzykiewicz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [mirekczyzykiewicz](https://patronite.pl/mirekczyzykiewicz)
+# [Mirek Czyżykiewicz ](https://patronite.pl/mirekczyzykiewicz)
 
 ## Miesięczne wsparcie
 

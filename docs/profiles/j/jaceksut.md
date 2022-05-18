@@ -1,5 +1,5 @@
 ---
-title: jaceksut | Patromierz
+title: "jaceksut | Patromierz"
 permalink: /jaceksut
 ---
 
@@ -7,7 +7,7 @@ permalink: /jaceksut
 <script type="text/javascript" src="data/j/jaceksut.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [jaceksut](https://patronite.pl/jaceksut)
+# [Jacek Sut](https://patronite.pl/jaceksut)
 
 ## Miesięczne wsparcie
 

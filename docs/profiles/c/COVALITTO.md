@@ -1,5 +1,5 @@
 ---
-title: COVALITTO | Patromierz
+title: "COVALITTO | Patromierz"
 permalink: /COVALITTO
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: HisTravel | Patromierz
+title: "HisTravel | Patromierz"
 permalink: /HisTravel
 ---
 
@@ -7,7 +7,7 @@ permalink: /HisTravel
 <script type="text/javascript" src="data/h/HisTravel.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [HisTravel](https://patronite.pl/HisTravel)
+# [Historian's Journeys - blog podróżniczy ](https://patronite.pl/HisTravel)
 
 ## Miesięczne wsparcie
 

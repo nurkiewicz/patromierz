@@ -1,5 +1,5 @@
 ---
-title: AntoniMaluje | Patromierz
+title: "AntoniMaluje | Patromierz"
 permalink: /AntoniMaluje
 ---
 
@@ -7,7 +7,7 @@ permalink: /AntoniMaluje
 <script type="text/javascript" src="data/a/AntoniMaluje.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [AntoniMaluje](https://patronite.pl/AntoniMaluje)
+# [Antoni Maluje](https://patronite.pl/AntoniMaluje)
 
 ## Miesięczne wsparcie
 

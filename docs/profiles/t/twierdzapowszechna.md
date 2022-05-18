@@ -1,5 +1,5 @@
 ---
-title: twierdzapowszechna | Patromierz
+title: "twierdzapowszechna | Patromierz"
 permalink: /twierdzapowszechna
 ---
 
@@ -7,7 +7,7 @@ permalink: /twierdzapowszechna
 <script type="text/javascript" src="data/t/twierdzapowszechna.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [twierdzapowszechna](https://patronite.pl/twierdzapowszechna)
+# [Twierdza Powszechna](https://patronite.pl/twierdzapowszechna)
 
 ## Miesięczne wsparcie
 

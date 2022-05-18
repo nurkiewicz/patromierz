@@ -1,5 +1,5 @@
 ---
-title: krzysztof_piersa | Patromierz
+title: "krzysztof_piersa | Patromierz"
 permalink: /krzysztof_piersa
 ---
 
@@ -7,7 +7,7 @@ permalink: /krzysztof_piersa
 <script type="text/javascript" src="data/k/krzysztof_piersa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [krzysztof_piersa](https://patronite.pl/krzysztof_piersa)
+# [Krzysztof Piersa](https://patronite.pl/krzysztof_piersa)
 
 ## Miesięczne wsparcie
 

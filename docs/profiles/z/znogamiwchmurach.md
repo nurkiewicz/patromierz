@@ -1,5 +1,5 @@
 ---
-title: znogamiwchmurach | Patromierz
+title: "znogamiwchmurach | Patromierz"
 permalink: /znogamiwchmurach
 ---
 
@@ -7,7 +7,7 @@ permalink: /znogamiwchmurach
 <script type="text/javascript" src="data/z/znogamiwchmurach.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [znogamiwchmurach](https://patronite.pl/znogamiwchmurach)
+# [Przemysław Stupnowicz Z nogami w chmurach](https://patronite.pl/znogamiwchmurach)
 
 ## Miesięczne wsparcie
 

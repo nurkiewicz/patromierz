@@ -1,5 +1,5 @@
 ---
-title: ArtBene | Patromierz
+title: "ArtBene | Patromierz"
 permalink: /ArtBene
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: IzabelaWolska | Patromierz
+title: "IzabelaWolska | Patromierz"
 permalink: /IzabelaWolska
 ---
 
@@ -7,7 +7,7 @@ permalink: /IzabelaWolska
 <script type="text/javascript" src="data/i/IzabelaWolska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [IzabelaWolska](https://patronite.pl/IzabelaWolska)
+# [Izabela Wolska](https://patronite.pl/IzabelaWolska)
 
 ## Miesięczne wsparcie
 

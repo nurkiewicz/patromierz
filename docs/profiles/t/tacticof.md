@@ -1,5 +1,5 @@
 ---
-title: tacticof | Patromierz
+title: "tacticof | Patromierz"
 permalink: /tacticof
 ---
 
@@ -7,7 +7,7 @@ permalink: /tacticof
 <script type="text/javascript" src="data/t/tacticof.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [tacticof](https://patronite.pl/tacticof)
+# [tactic of...](https://patronite.pl/tacticof)
 
 ## Miesięczne wsparcie
 

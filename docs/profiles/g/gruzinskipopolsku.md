@@ -1,5 +1,5 @@
 ---
-title: gruzinskipopolsku | Patromierz
+title: "gruzinskipopolsku | Patromierz"
 permalink: /gruzinskipopolsku
 ---
 
@@ -7,7 +7,7 @@ permalink: /gruzinskipopolsku
 <script type="text/javascript" src="data/g/gruzinskipopolsku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gruzinskipopolsku](https://patronite.pl/gruzinskipopolsku)
+# [Gruziński po polsku](https://patronite.pl/gruzinskipopolsku)
 
 ## Miesięczne wsparcie
 

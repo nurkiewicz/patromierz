@@ -1,5 +1,5 @@
 ---
-title: centerko | Patromierz
+title: "centerko | Patromierz"
 permalink: /centerko
 ---
 
@@ -7,7 +7,7 @@ permalink: /centerko
 <script type="text/javascript" src="data/c/centerko.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [centerko](https://patronite.pl/centerko)
+# [CENTERKO](https://patronite.pl/centerko)
 
 ## Miesięczne wsparcie
 

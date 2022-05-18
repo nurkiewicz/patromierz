@@ -1,5 +1,5 @@
 ---
-title: chodlik | Patromierz
+title: "chodlik | Patromierz"
 permalink: /chodlik
 ---
 
@@ -7,7 +7,7 @@ permalink: /chodlik
 <script type="text/javascript" src="data/c/chodlik.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [chodlik](https://patronite.pl/chodlik)
+# [Misja Archeologiczna w Chodliku](https://patronite.pl/chodlik)
 
 ## Miesięczne wsparcie
 

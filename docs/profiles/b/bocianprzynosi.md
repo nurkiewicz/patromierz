@@ -1,5 +1,5 @@
 ---
-title: bocianprzynosi | Patromierz
+title: "bocianprzynosi | Patromierz"
 permalink: /bocianprzynosi
 ---
 
@@ -7,7 +7,7 @@ permalink: /bocianprzynosi
 <script type="text/javascript" src="data/b/bocianprzynosi.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [bocianprzynosi](https://patronite.pl/bocianprzynosi)
+# [Bocian Przynosi Płyty](https://patronite.pl/bocianprzynosi)
 
 ## Miesięczne wsparcie
 

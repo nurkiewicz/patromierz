@@ -1,5 +1,5 @@
 ---
-title: GMCLAN | Patromierz
+title: "GMCLAN | Patromierz"
 permalink: /GMCLAN
 ---
 
@@ -7,7 +7,7 @@ permalink: /GMCLAN
 <script type="text/javascript" src="data/g/GMCLAN.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GMCLAN](https://patronite.pl/GMCLAN)
+# [GMCLAN.org](https://patronite.pl/GMCLAN)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: TawernaBajarza | Patromierz
+title: "TawernaBajarza | Patromierz"
 permalink: /TawernaBajarza
 ---
 
@@ -7,7 +7,7 @@ permalink: /TawernaBajarza
 <script type="text/javascript" src="data/t/TawernaBajarza.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [TawernaBajarza](https://patronite.pl/TawernaBajarza)
+# [Tawerna Bajarza](https://patronite.pl/TawernaBajarza)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: cojestnietakzkrakowem | Patromierz
+title: "cojestnietakzkrakowem | Patromierz"
 permalink: /cojestnietakzkrakowem
 ---
 
@@ -7,7 +7,7 @@ permalink: /cojestnietakzkrakowem
 <script type="text/javascript" src="data/c/cojestnietakzkrakowem.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cojestnietakzkrakowem](https://patronite.pl/cojestnietakzkrakowem)
+# [Co jest nie tak z Krakowem](https://patronite.pl/cojestnietakzkrakowem)
 
 ## Miesięczne wsparcie
 

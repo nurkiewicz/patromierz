@@ -1,5 +1,5 @@
 ---
-title: Włodek-Biliński | Patromierz
+title: "Włodek-Biliński | Patromierz"
 permalink: /Włodek-Biliński
 ---
 
@@ -7,7 +7,7 @@ permalink: /Włodek-Biliński
 <script type="text/javascript" src="data/w/Włodek-Biliński.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Włodek-Biliński](https://patronite.pl/Włodek-Biliński)
+# [A W Bilińscy - fotografia przyrodnicza](https://patronite.pl/Włodek-Biliński)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: Joanna-Obuchowska | Patromierz
+title: "Joanna-Obuchowska | Patromierz"
 permalink: /Joanna-Obuchowska
 ---
 
@@ -7,7 +7,7 @@ permalink: /Joanna-Obuchowska
 <script type="text/javascript" src="data/j/Joanna-Obuchowska.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Joanna-Obuchowska](https://patronite.pl/Joanna-Obuchowska)
+# [Joanna Obuchowska](https://patronite.pl/Joanna-Obuchowska)
 
 ## Miesięczne wsparcie
 

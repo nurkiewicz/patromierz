@@ -1,5 +1,5 @@
 ---
-title: gryfnyslub | Patromierz
+title: "gryfnyslub | Patromierz"
 permalink: /gryfnyslub
 ---
 
@@ -7,7 +7,7 @@ permalink: /gryfnyslub
 <script type="text/javascript" src="data/g/gryfnyslub.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [gryfnyslub](https://patronite.pl/gryfnyslub)
+# [Gryfny Ślub](https://patronite.pl/gryfnyslub)
 
 ## Miesięczne wsparcie
 

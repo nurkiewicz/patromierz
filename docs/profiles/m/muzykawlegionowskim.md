@@ -1,5 +1,5 @@
 ---
-title: muzykawlegionowskim | Patromierz
+title: "muzykawlegionowskim | Patromierz"
 permalink: /muzykawlegionowskim
 ---
 
@@ -7,7 +7,7 @@ permalink: /muzykawlegionowskim
 <script type="text/javascript" src="data/m/muzykawlegionowskim.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [muzykawlegionowskim](https://patronite.pl/muzykawlegionowskim)
+# [Muzyka w legionowskim](https://patronite.pl/muzykawlegionowskim)
 
 ## Miesięczne wsparcie
 

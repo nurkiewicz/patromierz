@@ -1,5 +1,5 @@
 ---
-title: povagowani | Patromierz
+title: "povagowani | Patromierz"
 permalink: /povagowani
 ---
 
@@ -7,7 +7,7 @@ permalink: /povagowani
 <script type="text/javascript" src="data/p/povagowani.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [povagowani](https://patronite.pl/povagowani)
+# [Povagowani](https://patronite.pl/povagowani)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: zolaceramics | Patromierz
+title: "zolaceramics | Patromierz"
 permalink: /zolaceramics
 ---
 
@@ -7,7 +7,7 @@ permalink: /zolaceramics
 <script type="text/javascript" src="data/z/zolaceramics.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [zolaceramics](https://patronite.pl/zolaceramics)
+# [maria zola](https://patronite.pl/zolaceramics)
 
 ## Miesięczne wsparcie
 

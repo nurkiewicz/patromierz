@@ -1,5 +1,5 @@
 ---
-title: naglesami | Patromierz
+title: "naglesami | Patromierz"
 permalink: /naglesami
 ---
 
@@ -7,7 +7,7 @@ permalink: /naglesami
 <script type="text/javascript" src="data/n/naglesami.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [naglesami](https://patronite.pl/naglesami)
+# [Linia wsparcia dla osób po stracie](https://patronite.pl/naglesami)
 
 ## Miesięczne wsparcie
 

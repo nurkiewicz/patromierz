@@ -1,5 +1,5 @@
 ---
-title: -EwaeM- | Patromierz
+title: "-EwaeM- | Patromierz"
 permalink: /-EwaeM-
 ---
 
@@ -7,7 +7,7 @@ permalink: /-EwaeM-
 <script type="text/javascript" src="data/-/-EwaeM-.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [-EwaeM-](https://patronite.pl/-EwaeM-)
+# [Ewa eM](https://patronite.pl/-EwaeM-)
 
 ## Miesięczne wsparcie
 

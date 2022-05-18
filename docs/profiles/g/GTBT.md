@@ -1,5 +1,5 @@
 ---
-title: GTBT | Patromierz
+title: "GTBT | Patromierz"
 permalink: /GTBT
 ---
 
@@ -7,7 +7,7 @@ permalink: /GTBT
 <script type="text/javascript" src="data/g/GTBT.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [GTBT](https://patronite.pl/GTBT)
+# [Good Times Bad Times](https://patronite.pl/GTBT)
 
 ## Miesięczne wsparcie
 

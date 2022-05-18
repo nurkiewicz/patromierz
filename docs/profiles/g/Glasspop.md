@@ -1,5 +1,5 @@
 ---
-title: Glasspop | Patromierz
+title: "Glasspop | Patromierz"
 permalink: /Glasspop
 ---
 

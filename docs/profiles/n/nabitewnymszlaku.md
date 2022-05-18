@@ -1,5 +1,5 @@
 ---
-title: nabitewnymszlaku | Patromierz
+title: "nabitewnymszlaku | Patromierz"
 permalink: /nabitewnymszlaku
 ---
 
@@ -7,7 +7,7 @@ permalink: /nabitewnymszlaku
 <script type="text/javascript" src="data/n/nabitewnymszlaku.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [nabitewnymszlaku](https://patronite.pl/nabitewnymszlaku)
+# [Na bitewnym szlaku](https://patronite.pl/nabitewnymszlaku)
 
 ## Miesięczne wsparcie
 

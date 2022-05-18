@@ -1,5 +1,5 @@
 ---
-title: pogotowiepsychologiczne | Patromierz
+title: "pogotowiepsychologiczne | Patromierz"
 permalink: /pogotowiepsychologiczne
 ---
 
@@ -7,7 +7,7 @@ permalink: /pogotowiepsychologiczne
 <script type="text/javascript" src="data/p/pogotowiepsychologiczne.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [pogotowiepsychologiczne](https://patronite.pl/pogotowiepsychologiczne)
+# [Pogotowie Psychologiczne](https://patronite.pl/pogotowiepsychologiczne)
 
 ## Miesięczne wsparcie
 

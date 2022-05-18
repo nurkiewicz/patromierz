@@ -1,5 +1,5 @@
 ---
-title: Muzeum-ks-Jerzego-Popieluszki | Patromierz
+title: "Muzeum-ks-Jerzego-Popieluszki | Patromierz"
 permalink: /Muzeum-ks-Jerzego-Popieluszki
 ---
 
@@ -7,7 +7,7 @@ permalink: /Muzeum-ks-Jerzego-Popieluszki
 <script type="text/javascript" src="data/m/Muzeum-ks-Jerzego-Popieluszki.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Muzeum-ks-Jerzego-Popieluszki](https://patronite.pl/Muzeum-ks-Jerzego-Popieluszki)
+# [Muzeum ks. Jerzego Popiełuszki](https://patronite.pl/Muzeum-ks-Jerzego-Popieluszki)
 
 ## Miesięczne wsparcie
 

@@ -1,5 +1,5 @@
 ---
-title: kryminalnehistorie | Patromierz
+title: "kryminalnehistorie | Patromierz"
 permalink: /kryminalnehistorie
 ---
 
@@ -7,7 +7,7 @@ permalink: /kryminalnehistorie
 <script type="text/javascript" src="data/k/kryminalnehistorie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [kryminalnehistorie](https://patronite.pl/kryminalnehistorie)
+# [Kryminalne Historie](https://patronite.pl/kryminalnehistorie)
 
 ## Miesięczne wsparcie
 

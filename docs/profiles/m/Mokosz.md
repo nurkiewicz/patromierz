@@ -1,5 +1,5 @@
 ---
-title: Mokosz | Patromierz
+title: "Mokosz | Patromierz"
 permalink: /Mokosz
 ---
 
@@ -7,7 +7,7 @@ permalink: /Mokosz
 <script type="text/javascript" src="data/m/Mokosz.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Mokosz](https://patronite.pl/Mokosz)
+# [MokoszOfficial ](https://patronite.pl/Mokosz)
 
 ## Miesięczne wsparcie
 

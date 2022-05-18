@@ -1,5 +1,5 @@
 ---
-title: OdbierzWiadomoscOdPanaBoga | Patromierz
+title: "OdbierzWiadomoscOdPanaBoga | Patromierz"
 permalink: /OdbierzWiadomoscOdPanaBoga
 ---
 
@@ -7,7 +7,7 @@ permalink: /OdbierzWiadomoscOdPanaBoga
 <script type="text/javascript" src="data/o/OdbierzWiadomoscOdPanaBoga.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [OdbierzWiadomoscOdPanaBoga](https://patronite.pl/OdbierzWiadomoscOdPanaBoga)
+# [Odbierz wiadomość od Pana Boga](https://patronite.pl/OdbierzWiadomoscOdPanaBoga)
 
 ## Miesięczne wsparcie
 

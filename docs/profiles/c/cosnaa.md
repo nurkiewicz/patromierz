@@ -1,5 +1,5 @@
 ---
-title: cosnaa | Patromierz
+title: "cosnaa | Patromierz"
 permalink: /cosnaa
 ---
 
@@ -7,7 +7,7 @@ permalink: /cosnaa
 <script type="text/javascript" src="data/c/cosnaa.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [cosnaa](https://patronite.pl/cosnaa)
+# [Coś na A](https://patronite.pl/cosnaa)
 
 ## Miesięczne wsparcie
 

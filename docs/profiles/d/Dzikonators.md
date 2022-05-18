@@ -1,5 +1,5 @@
 ---
-title: Dzikonators | Patromierz
+title: "Dzikonators | Patromierz"
 permalink: /Dzikonators
 ---
 

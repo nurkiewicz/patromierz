@@ -1,5 +1,5 @@
 ---
-title: powojnie | Patromierz
+title: "powojnie | Patromierz"
 permalink: /powojnie
 ---
 
@@ -7,7 +7,7 @@ permalink: /powojnie
 <script type="text/javascript" src="data/p/powojnie.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [powojnie](https://patronite.pl/powojnie)
+# [POWOJNIE](https://patronite.pl/powojnie)
 
 ## Miesięczne wsparcie
 
