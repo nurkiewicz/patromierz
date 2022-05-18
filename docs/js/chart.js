@@ -56,4 +56,5 @@ function drawCharts(data) {
     drawBasic(data, 2, 'chart_supporters', 'Patroni');
     drawBasic(data, 3, 'chart_average', 'Średnie wsparcie', 'currency');
     drawBasic(data, 4, 'chart_total', 'Łącznie', 'currency');
+    drawBasic(data, 5, 'chart_increase', 'Zmiana dzienna', 'currency');
 }
