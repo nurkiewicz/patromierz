@@ -1,5 +1,5 @@
 ---
-title: apocomitamatma | Patromierz
+title: "apocomitamatma | Patromierz"
 permalink: /apocomitamatma
 ---
 
@@ -7,7 +7,7 @@ permalink: /apocomitamatma
 <script type="text/javascript" src="data/a/apocomitamatma.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [apocomitamatma](https://patronite.pl/apocomitamatma)
+# [A po co MI ta MATMA?](https://patronite.pl/apocomitamatma)
 
 ## Miesięczne wsparcie
 
@@ -25,6 +25,14 @@ permalink: /apocomitamatma
 
 <div id="chart_average" class="chart"></div>
 
+## Wzrost dzienny
+
+<div id="chart_increase" class="chart"></div>
+
+Średnia z 28 dni
+
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["apocomitamatma"]);
 </script>
+
+Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

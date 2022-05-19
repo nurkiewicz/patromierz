@@ -25,6 +25,12 @@ permalink: /fundacjapomost
 
 <div id="chart_average" class="chart"></div>
 
+## Wzrost dzienny
+
+<div id="chart_increase" class="chart"></div>
+
+Średnia z 28 dni
+
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjapomost"]);
 </script>
