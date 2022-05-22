@@ -113,4 +113,7 @@ profiles["IdziemyDla"] = [
 	[1652744329,30,null,null,1405,null],
 	[1652864023,30,null,null,1405,null],
 	[1652923086,30,null,null,1405,null],
+	[1653009691,30,null,null,1405,null],
+	[1653095863,30,null,null,1405,null],
+	[1653182021,30,1,30.0,1435,null],
 ];

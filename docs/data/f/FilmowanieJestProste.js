@@ -113,4 +113,7 @@ profiles["FilmowanieJestProste"] = [
 	[1652743805,5,1,5.0,1180,null],
 	[1652863949,null,1,null,1180,null],
 	[1652922567,null,1,null,1180,null],
+	[1653009178,null,1,null,1180,null],
+	[1653095349,null,1,null,1180,null],
+	[1653181506,null,1,null,1180,null],
 ];

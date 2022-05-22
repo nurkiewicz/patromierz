@@ -113,4 +113,7 @@ profiles["RozWojownicy"] = [
 	[1652746796,500,1,500.0,28000,null],
 	[1652864373,500,null,null,28000,null],
 	[1652925533,500,null,null,28000,null],
+	[1653012109,500,null,null,28000,null],
+	[1653098265,500,null,null,28000,null],
+	[1653184427,500,null,null,28000,null],
 ];

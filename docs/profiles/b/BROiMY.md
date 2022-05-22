@@ -7,7 +7,7 @@ permalink: /BROiMY
 <script type="text/javascript" src="data/b/BROiMY.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [#BROiMYmusic | dla muzyki ](https://patronite.pl/BROiMY)
+# [#BROiMYrecycling #BROiMYfitline #BROiMYmusic ](https://patronite.pl/BROiMY)
 
 ## Miesięczne wsparcie
 

@@ -1,0 +1,7 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["KongresKK"] = [
+	[1652923554,5,1,5.0,5,null],
+	[1653010151,85,3,28.33,85,null],
+	[1653096324,85,3,28.33,85,null],
+	[1653182483,85,3,28.33,85,null],
+];

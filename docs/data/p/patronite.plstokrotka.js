@@ -52,4 +52,7 @@ profiles["patronite.plstokrotka"] = [
 	[1652754992,null,1,null,20,null],
 	[1652865674,null,1,null,20,null],
 	[1652933680,null,1,null,20,null],
+	[1653020079,null,1,null,20,null],
+	[1653106409,null,1,null,20,null],
+	[1653192533,null,1,null,20,null],
 ];
