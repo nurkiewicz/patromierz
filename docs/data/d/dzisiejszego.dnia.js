@@ -21,4 +21,6 @@ profiles["dzisiejszego.dnia"] = [
 	[1653015435,null,1,null,5,null],
 	[1653101603,null,1,null,5,null],
 	[1653187773,null,1,null,5,null],
+	[1653274353,null,1,null,5,null],
+	[1653360805,null,1,null,5,null],
 ];

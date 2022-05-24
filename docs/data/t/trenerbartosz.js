@@ -26,4 +26,6 @@ profiles["trenerbartosz"] = [
 	[1653023231,null,1,null,7,null],
 	[1653109563,null,1,null,7,null],
 	[1653195704,null,1,null,7,null],
+	[1653282205,null,1,null,7,null],
+	[1653368671,null,1,null,7,null],
 ];
