@@ -34,5 +34,3 @@ permalink: /radio357
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radio357"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.
