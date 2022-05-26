@@ -34,5 +34,3 @@ permalink: /PFWK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PFWK"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

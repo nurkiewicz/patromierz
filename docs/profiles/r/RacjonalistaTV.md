@@ -34,5 +34,3 @@ permalink: /RacjonalistaTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RacjonalistaTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

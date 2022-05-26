@@ -34,5 +34,3 @@ permalink: /chrzescijanin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chrzescijanin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

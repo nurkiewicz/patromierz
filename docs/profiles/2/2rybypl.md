@@ -34,5 +34,3 @@ permalink: /2rybypl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["2rybypl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

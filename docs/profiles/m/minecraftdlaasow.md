@@ -34,5 +34,3 @@ permalink: /minecraftdlaasow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["minecraftdlaasow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

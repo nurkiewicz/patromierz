@@ -34,5 +34,3 @@ permalink: /fundacja-kot
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja-kot"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

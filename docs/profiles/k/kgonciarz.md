@@ -34,5 +34,3 @@ permalink: /kgonciarz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kgonciarz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

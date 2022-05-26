@@ -34,5 +34,3 @@ permalink: /hecticmagazyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hecticmagazyn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

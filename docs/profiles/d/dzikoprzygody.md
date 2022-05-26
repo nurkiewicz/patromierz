@@ -34,5 +34,3 @@ permalink: /dzikoprzygody
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dzikoprzygody"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

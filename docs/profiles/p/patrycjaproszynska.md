@@ -34,5 +34,3 @@ permalink: /patrycjaproszynska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patrycjaproszynska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

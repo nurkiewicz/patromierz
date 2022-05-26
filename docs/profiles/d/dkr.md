@@ -34,5 +34,3 @@ permalink: /dkr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dkr"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

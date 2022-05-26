@@ -34,5 +34,3 @@ permalink: /postaw-na-siebie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["postaw-na-siebie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

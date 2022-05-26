@@ -34,5 +34,3 @@ permalink: /TorbaczWombat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TorbaczWombat"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

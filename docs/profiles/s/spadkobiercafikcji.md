@@ -34,5 +34,3 @@ permalink: /spadkobiercafikcji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spadkobiercafikcji"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

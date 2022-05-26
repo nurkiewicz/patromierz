@@ -34,5 +34,3 @@ permalink: /niskopodlogowiec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niskopodlogowiec"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

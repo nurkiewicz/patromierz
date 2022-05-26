@@ -34,5 +34,3 @@ permalink: /rlyehcafe
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rlyehcafe"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

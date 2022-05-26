@@ -34,5 +34,3 @@ permalink: /zainspirowany
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zainspirowany"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

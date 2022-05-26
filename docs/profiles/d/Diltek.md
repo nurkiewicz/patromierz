@@ -34,5 +34,3 @@ permalink: /Diltek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Diltek"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

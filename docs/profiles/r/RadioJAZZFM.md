@@ -34,5 +34,3 @@ permalink: /RadioJAZZFM
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadioJAZZFM"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

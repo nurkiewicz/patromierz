@@ -34,5 +34,3 @@ permalink: /fundacja-loyola
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja-loyola"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /iFrancja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["iFrancja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

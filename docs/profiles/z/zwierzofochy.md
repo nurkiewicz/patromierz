@@ -34,5 +34,3 @@ permalink: /zwierzofochy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zwierzofochy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

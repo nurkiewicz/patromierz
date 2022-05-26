@@ -34,5 +34,3 @@ permalink: /fundacjabanina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjabanina"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

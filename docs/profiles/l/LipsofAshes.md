@@ -34,5 +34,3 @@ permalink: /LipsofAshes
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LipsofAshes"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

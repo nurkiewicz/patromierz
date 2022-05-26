@@ -34,5 +34,3 @@ permalink: /Kudlatykumpel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kudlatykumpel"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

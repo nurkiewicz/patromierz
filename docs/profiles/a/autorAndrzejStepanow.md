@@ -34,5 +34,3 @@ permalink: /autorAndrzejStepanow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["autorAndrzejStepanow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

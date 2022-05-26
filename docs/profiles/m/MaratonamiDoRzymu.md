@@ -34,5 +34,3 @@ permalink: /MaratonamiDoRzymu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MaratonamiDoRzymu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

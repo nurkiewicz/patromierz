@@ -34,5 +34,3 @@ permalink: /Igiełka-MB
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Igiełka-MB"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

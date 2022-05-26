@@ -34,5 +34,3 @@ permalink: /AgataTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AgataTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

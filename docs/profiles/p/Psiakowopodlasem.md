@@ -34,5 +34,3 @@ permalink: /Psiakowopodlasem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Psiakowopodlasem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

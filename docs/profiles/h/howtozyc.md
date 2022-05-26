@@ -34,5 +34,3 @@ permalink: /howtozyc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["howtozyc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

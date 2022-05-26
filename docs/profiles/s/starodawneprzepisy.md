@@ -34,5 +34,3 @@ permalink: /starodawneprzepisy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["starodawneprzepisy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

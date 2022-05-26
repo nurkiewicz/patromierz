@@ -34,5 +34,3 @@ permalink: /BikeparkKazoora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BikeparkKazoora"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

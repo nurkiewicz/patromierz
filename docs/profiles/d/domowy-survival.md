@@ -34,5 +34,3 @@ permalink: /domowy-survival
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["domowy-survival"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

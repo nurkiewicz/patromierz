@@ -34,5 +34,3 @@ permalink: /marzenie-basi-T
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marzenie-basi-T"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

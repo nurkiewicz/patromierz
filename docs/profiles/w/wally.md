@@ -34,5 +34,3 @@ permalink: /wally
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wally"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

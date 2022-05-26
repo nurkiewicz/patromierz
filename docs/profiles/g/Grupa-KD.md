@@ -34,5 +34,3 @@ permalink: /Grupa-KD
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Grupa-KD"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

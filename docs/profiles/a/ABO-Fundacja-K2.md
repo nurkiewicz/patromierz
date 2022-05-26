@@ -34,5 +34,3 @@ permalink: /ABO-Fundacja-K2
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ABO-Fundacja-K2"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

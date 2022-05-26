@@ -34,5 +34,3 @@ permalink: /DziewuchyDziewuchom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DziewuchyDziewuchom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

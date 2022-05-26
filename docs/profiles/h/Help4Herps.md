@@ -34,5 +34,3 @@ permalink: /Help4Herps
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Help4Herps"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

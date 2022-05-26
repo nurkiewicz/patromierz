@@ -34,5 +34,3 @@ permalink: /SasanaPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SasanaPL"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

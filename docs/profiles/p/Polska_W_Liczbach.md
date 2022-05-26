@@ -34,5 +34,3 @@ permalink: /Polska_W_Liczbach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Polska_W_Liczbach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

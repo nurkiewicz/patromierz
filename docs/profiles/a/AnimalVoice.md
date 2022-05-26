@@ -34,5 +34,3 @@ permalink: /AnimalVoice
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AnimalVoice"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

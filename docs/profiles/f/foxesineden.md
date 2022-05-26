@@ -34,5 +34,3 @@ permalink: /foxesineden
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["foxesineden"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

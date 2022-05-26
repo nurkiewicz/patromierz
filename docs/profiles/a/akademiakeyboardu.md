@@ -34,5 +34,3 @@ permalink: /akademiakeyboardu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akademiakeyboardu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

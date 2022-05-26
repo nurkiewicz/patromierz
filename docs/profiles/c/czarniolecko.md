@@ -34,5 +34,3 @@ permalink: /czarniolecko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["czarniolecko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

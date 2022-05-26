@@ -34,5 +34,3 @@ permalink: /orienteering
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["orienteering"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

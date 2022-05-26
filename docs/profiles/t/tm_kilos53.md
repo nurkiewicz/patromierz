@@ -34,5 +34,3 @@ permalink: /tm_kilos53
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tm_kilos53"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

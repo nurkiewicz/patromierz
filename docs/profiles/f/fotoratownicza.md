@@ -34,5 +34,3 @@ permalink: /fotoratownicza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fotoratownicza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /elanguages
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["elanguages"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

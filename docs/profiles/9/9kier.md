@@ -34,5 +34,3 @@ permalink: /9kier
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["9kier"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

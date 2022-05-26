@@ -34,5 +34,3 @@ permalink: /otwarte-kaszuby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["otwarte-kaszuby"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

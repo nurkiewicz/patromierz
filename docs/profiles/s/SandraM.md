@@ -34,5 +34,3 @@ permalink: /SandraM
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SandraM"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /KobietydlaSwiata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KobietydlaSwiata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

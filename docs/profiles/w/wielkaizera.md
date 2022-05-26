@@ -34,5 +34,3 @@ permalink: /wielkaizera
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wielkaizera"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

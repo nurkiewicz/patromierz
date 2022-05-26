@@ -34,5 +34,3 @@ permalink: /Fileus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fileus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

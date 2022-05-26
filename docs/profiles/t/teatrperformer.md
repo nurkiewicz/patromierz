@@ -34,5 +34,3 @@ permalink: /teatrperformer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["teatrperformer"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

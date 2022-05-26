@@ -34,5 +34,3 @@ permalink: /Szum-Islandia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Szum-Islandia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /KaoriCosplayArt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KaoriCosplayArt"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

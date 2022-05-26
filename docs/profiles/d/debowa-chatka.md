@@ -34,5 +34,3 @@ permalink: /debowa-chatka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["debowa-chatka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

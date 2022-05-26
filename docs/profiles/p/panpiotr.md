@@ -34,5 +34,3 @@ permalink: /panpiotr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["panpiotr"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

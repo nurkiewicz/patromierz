@@ -34,5 +34,3 @@ permalink: /fundacja_chmura
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja_chmura"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

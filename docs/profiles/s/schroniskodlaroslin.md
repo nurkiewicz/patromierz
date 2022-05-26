@@ -34,5 +34,3 @@ permalink: /schroniskodlaroslin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["schroniskodlaroslin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

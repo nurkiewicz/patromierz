@@ -34,5 +34,3 @@ permalink: /KotyzInterwencji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KotyzInterwencji"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

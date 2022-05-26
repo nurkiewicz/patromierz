@@ -34,5 +34,3 @@ permalink: /blimsien
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["blimsien"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

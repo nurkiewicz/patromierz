@@ -34,5 +34,3 @@ permalink: /KAPITANLISOWSKI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KAPITANLISOWSKI"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

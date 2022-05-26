@@ -34,5 +34,3 @@ permalink: /SyndikateCo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SyndikateCo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

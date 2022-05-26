@@ -34,5 +34,3 @@ permalink: /proanima
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["proanima"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /michaltreutler
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["michaltreutler"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /zrozumiec-szczura
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zrozumiec-szczura"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

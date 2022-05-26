@@ -34,5 +34,3 @@ permalink: /elizamichalik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["elizamichalik"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

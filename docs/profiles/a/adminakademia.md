@@ -34,5 +34,3 @@ permalink: /adminakademia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adminakademia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

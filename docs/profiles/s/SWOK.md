@@ -34,5 +34,3 @@ permalink: /SWOK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SWOK"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /loverowi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["loverowi"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

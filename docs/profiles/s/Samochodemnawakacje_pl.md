@@ -34,5 +34,3 @@ permalink: /Samochodemnawakacje_pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Samochodemnawakacje_pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

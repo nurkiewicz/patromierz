@@ -34,5 +34,3 @@ permalink: /Cak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Cak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

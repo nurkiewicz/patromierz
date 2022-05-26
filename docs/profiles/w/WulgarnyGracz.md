@@ -34,5 +34,3 @@ permalink: /WulgarnyGracz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WulgarnyGracz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

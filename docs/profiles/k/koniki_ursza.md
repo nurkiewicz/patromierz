@@ -34,5 +34,3 @@ permalink: /koniki_ursza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["koniki_ursza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

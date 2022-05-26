@@ -34,5 +34,3 @@ permalink: /komandos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["komandos"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

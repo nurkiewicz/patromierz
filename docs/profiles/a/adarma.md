@@ -34,5 +34,3 @@ permalink: /adarma
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adarma"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

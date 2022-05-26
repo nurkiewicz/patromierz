@@ -34,5 +34,3 @@ permalink: /sierp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sierp"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

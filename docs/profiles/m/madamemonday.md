@@ -34,5 +34,3 @@ permalink: /madamemonday
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["madamemonday"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

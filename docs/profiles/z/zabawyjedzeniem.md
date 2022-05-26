@@ -34,5 +34,3 @@ permalink: /zabawyjedzeniem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zabawyjedzeniem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /majaklemp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["majaklemp"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

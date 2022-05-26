@@ -34,5 +34,3 @@ permalink: /smile
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["smile"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

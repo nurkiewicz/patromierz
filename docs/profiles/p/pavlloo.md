@@ -34,5 +34,3 @@ permalink: /pavlloo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pavlloo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

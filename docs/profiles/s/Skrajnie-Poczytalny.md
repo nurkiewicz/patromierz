@@ -34,5 +34,3 @@ permalink: /Skrajnie-Poczytalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Skrajnie-Poczytalny"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

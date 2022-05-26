@@ -34,5 +34,3 @@ permalink: /AgaHerrmann
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AgaHerrmann"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

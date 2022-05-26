@@ -34,5 +34,3 @@ permalink: /toomacz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["toomacz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

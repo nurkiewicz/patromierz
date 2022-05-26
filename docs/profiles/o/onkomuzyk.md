@@ -34,5 +34,3 @@ permalink: /onkomuzyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["onkomuzyk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /PaniEndorfina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PaniEndorfina"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

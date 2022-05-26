@@ -34,5 +34,3 @@ permalink: /Fojerman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fojerman"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

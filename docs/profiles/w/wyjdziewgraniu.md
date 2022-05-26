@@ -34,5 +34,3 @@ permalink: /wyjdziewgraniu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wyjdziewgraniu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

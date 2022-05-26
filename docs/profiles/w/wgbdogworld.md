@@ -34,5 +34,3 @@ permalink: /wgbdogworld
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wgbdogworld"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

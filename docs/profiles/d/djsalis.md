@@ -34,5 +34,3 @@ permalink: /djsalis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["djsalis"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

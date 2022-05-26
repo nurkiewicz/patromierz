@@ -34,5 +34,3 @@ permalink: /OnkoFitkaLidka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OnkoFitkaLidka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /fundacjaarts
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaarts"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

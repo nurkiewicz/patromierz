@@ -34,5 +34,3 @@ permalink: /HWRG
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HWRG"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Alpinizm
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Alpinizm"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /arhneu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["arhneu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

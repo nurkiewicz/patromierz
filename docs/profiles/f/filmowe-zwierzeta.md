@@ -34,5 +34,3 @@ permalink: /filmowe-zwierzeta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filmowe-zwierzeta"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /konopny_recenzent
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["konopny_recenzent"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

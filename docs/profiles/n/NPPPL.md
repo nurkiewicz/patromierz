@@ -34,5 +34,3 @@ permalink: /NPPPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NPPPL"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

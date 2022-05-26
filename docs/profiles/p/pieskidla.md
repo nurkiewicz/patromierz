@@ -34,5 +34,3 @@ permalink: /pieskidla
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pieskidla"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

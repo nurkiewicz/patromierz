@@ -34,5 +34,3 @@ permalink: /wdzdla
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wdzdla"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

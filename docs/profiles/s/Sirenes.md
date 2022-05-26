@@ -34,5 +34,3 @@ permalink: /Sirenes
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sirenes"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

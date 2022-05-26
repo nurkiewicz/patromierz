@@ -34,5 +34,3 @@ permalink: /przymierzemilosierdzia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przymierzemilosierdzia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

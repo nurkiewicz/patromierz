@@ -34,5 +34,3 @@ permalink: /grupa-arashi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grupa-arashi"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

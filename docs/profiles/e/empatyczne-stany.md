@@ -34,5 +34,3 @@ permalink: /empatyczne-stany
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["empatyczne-stany"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /BezSchematu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BezSchematu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

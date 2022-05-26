@@ -34,5 +34,3 @@ permalink: /podcastyatlasa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podcastyatlasa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ProfiloweWPaincie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ProfiloweWPaincie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

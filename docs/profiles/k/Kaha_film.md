@@ -34,5 +34,3 @@ permalink: /Kaha_film
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kaha_film"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

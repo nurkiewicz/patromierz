@@ -34,5 +34,3 @@ permalink: /duchowoscwbiznesie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["duchowoscwbiznesie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

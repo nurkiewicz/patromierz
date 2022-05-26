@@ -34,5 +34,3 @@ permalink: /stowarzyszenieteczowispoleczni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stowarzyszenieteczowispoleczni"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /przyrodadzieciom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przyrodadzieciom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

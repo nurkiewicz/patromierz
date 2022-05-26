@@ -34,5 +34,3 @@ permalink: /klub-rozrywki-i-pomyslunku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klub-rozrywki-i-pomyslunku"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

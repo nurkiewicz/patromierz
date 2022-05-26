@@ -34,5 +34,3 @@ permalink: /StoryYelling
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StoryYelling"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

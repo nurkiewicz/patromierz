@@ -34,5 +34,3 @@ permalink: /kobylewski.poezja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kobylewski.poezja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

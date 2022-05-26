@@ -34,5 +34,3 @@ permalink: /natalia.sosin.krosnowska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["natalia.sosin.krosnowska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

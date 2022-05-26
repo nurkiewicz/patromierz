@@ -34,5 +34,3 @@ permalink: /Fundacjatheosis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fundacjatheosis"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

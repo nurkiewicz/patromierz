@@ -34,5 +34,3 @@ permalink: /monika-gorska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["monika-gorska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

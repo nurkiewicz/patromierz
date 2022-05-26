@@ -34,5 +34,3 @@ permalink: /budnikipokrzywinski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["budnikipokrzywinski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

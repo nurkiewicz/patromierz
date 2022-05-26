@@ -34,5 +34,3 @@ permalink: /againamerica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["againamerica"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

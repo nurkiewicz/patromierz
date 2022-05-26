@@ -34,5 +34,3 @@ permalink: /pmm
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pmm"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

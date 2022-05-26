@@ -34,5 +34,3 @@ permalink: /z-pogranicza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["z-pogranicza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

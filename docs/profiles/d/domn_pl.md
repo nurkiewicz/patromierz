@@ -34,5 +34,3 @@ permalink: /domn_pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["domn_pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

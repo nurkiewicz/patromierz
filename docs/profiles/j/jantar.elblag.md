@@ -34,5 +34,3 @@ permalink: /jantar.elblag
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jantar.elblag"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

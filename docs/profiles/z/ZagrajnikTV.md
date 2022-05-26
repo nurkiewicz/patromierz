@@ -34,5 +34,3 @@ permalink: /ZagrajnikTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZagrajnikTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

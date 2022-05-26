@@ -34,5 +34,3 @@ permalink: /psychowiedza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psychowiedza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

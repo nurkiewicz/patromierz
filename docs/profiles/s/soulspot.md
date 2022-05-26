@@ -34,5 +34,3 @@ permalink: /soulspot
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["soulspot"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

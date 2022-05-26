@@ -34,5 +34,3 @@ permalink: /palhajstv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["palhajstv"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

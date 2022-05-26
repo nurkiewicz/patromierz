@@ -34,5 +34,3 @@ permalink: /WędkarskiOdjazd
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WędkarskiOdjazd"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

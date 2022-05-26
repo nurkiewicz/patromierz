@@ -34,5 +34,3 @@ permalink: /micula
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["micula"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

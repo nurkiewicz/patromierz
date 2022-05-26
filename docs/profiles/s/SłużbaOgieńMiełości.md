@@ -34,5 +34,3 @@ permalink: /SłużbaOgieńMiełości
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SłużbaOgieńMiełości"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

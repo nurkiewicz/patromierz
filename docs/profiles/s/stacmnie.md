@@ -34,5 +34,3 @@ permalink: /stacmnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stacmnie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

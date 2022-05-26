@@ -34,5 +34,3 @@ permalink: /AntoniMaluje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AntoniMaluje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

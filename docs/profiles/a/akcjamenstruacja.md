@@ -34,5 +34,3 @@ permalink: /akcjamenstruacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akcjamenstruacja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

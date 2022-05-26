@@ -34,5 +34,3 @@ permalink: /odwyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odwyk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

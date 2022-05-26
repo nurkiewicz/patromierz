@@ -34,5 +34,3 @@ permalink: /Rakietomania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Rakietomania"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

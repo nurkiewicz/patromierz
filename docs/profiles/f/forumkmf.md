@@ -34,5 +34,3 @@ permalink: /forumkmf
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["forumkmf"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

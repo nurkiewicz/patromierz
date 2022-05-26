@@ -34,5 +34,3 @@ permalink: /quaz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["quaz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

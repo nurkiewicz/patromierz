@@ -34,5 +34,3 @@ permalink: /jaktodaleko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jaktodaleko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

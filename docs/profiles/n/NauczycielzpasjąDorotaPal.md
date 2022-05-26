@@ -34,5 +34,3 @@ permalink: /NauczycielzpasjąDorotaPal
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NauczycielzpasjąDorotaPal"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

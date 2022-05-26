@@ -34,5 +34,3 @@ permalink: /dobryHR
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dobryHR"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

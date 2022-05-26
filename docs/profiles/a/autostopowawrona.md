@@ -34,5 +34,3 @@ permalink: /autostopowawrona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["autostopowawrona"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

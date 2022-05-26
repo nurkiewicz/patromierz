@@ -34,5 +34,3 @@ permalink: /RugbyPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RugbyPL"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

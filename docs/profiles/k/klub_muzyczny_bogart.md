@@ -34,5 +34,3 @@ permalink: /klub_muzyczny_bogart
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klub_muzyczny_bogart"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

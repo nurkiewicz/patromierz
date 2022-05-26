@@ -34,5 +34,3 @@ permalink: /xAyumix
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["xAyumix"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

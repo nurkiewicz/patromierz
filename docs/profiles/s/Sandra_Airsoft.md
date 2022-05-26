@@ -34,5 +34,3 @@ permalink: /Sandra_Airsoft
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Sandra_Airsoft"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

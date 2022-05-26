@@ -34,5 +34,3 @@ permalink: /ZewOceanu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZewOceanu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

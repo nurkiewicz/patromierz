@@ -34,5 +34,3 @@ permalink: /Pyrkon
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Pyrkon"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

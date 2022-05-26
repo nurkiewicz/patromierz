@@ -34,5 +34,3 @@ permalink: /AplikacjaDrogowskaz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AplikacjaDrogowskaz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

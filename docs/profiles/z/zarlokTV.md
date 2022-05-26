@@ -34,5 +34,3 @@ permalink: /zarlokTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zarlokTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

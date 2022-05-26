@@ -34,5 +34,3 @@ permalink: /goodvibefestival
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["goodvibefestival"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

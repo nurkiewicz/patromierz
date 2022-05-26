@@ -34,5 +34,3 @@ permalink: /Piknik-na-skraju-głupoty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Piknik-na-skraju-głupoty"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

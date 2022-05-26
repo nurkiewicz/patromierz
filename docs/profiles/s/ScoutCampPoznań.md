@@ -34,5 +34,3 @@ permalink: /ScoutCampPoznań
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ScoutCampPoznań"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

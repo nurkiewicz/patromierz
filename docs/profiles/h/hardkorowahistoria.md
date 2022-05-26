@@ -34,5 +34,3 @@ permalink: /hardkorowahistoria
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hardkorowahistoria"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

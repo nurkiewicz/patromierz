@@ -34,5 +34,3 @@ permalink: /fundacja-ekologicznie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja-ekologicznie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

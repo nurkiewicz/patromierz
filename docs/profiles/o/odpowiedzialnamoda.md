@@ -34,5 +34,3 @@ permalink: /odpowiedzialnamoda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odpowiedzialnamoda"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

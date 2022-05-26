@@ -34,5 +34,3 @@ permalink: /smoczamarta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["smoczamarta"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

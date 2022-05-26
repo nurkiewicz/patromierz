@@ -34,5 +34,3 @@ permalink: /Percival
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Percival"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

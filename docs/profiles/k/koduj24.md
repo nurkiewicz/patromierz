@@ -34,5 +34,3 @@ permalink: /koduj24
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["koduj24"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ZenonAqua
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZenonAqua"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

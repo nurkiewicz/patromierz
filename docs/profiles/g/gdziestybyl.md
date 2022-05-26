@@ -34,5 +34,3 @@ permalink: /gdziestybyl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gdziestybyl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

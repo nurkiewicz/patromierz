@@ -34,5 +34,3 @@ permalink: /nadzwierzakiem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nadzwierzakiem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

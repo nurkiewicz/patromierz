@@ -34,5 +34,3 @@ permalink: /napiasku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["napiasku"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

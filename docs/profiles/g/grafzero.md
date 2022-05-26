@@ -34,5 +34,3 @@ permalink: /grafzero
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grafzero"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

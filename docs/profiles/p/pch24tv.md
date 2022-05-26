@@ -34,5 +34,3 @@ permalink: /pch24tv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pch24tv"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

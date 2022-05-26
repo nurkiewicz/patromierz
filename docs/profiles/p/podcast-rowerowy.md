@@ -34,5 +34,3 @@ permalink: /podcast-rowerowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podcast-rowerowy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

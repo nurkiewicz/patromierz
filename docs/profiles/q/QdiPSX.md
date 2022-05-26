@@ -34,5 +34,3 @@ permalink: /QdiPSX
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["QdiPSX"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

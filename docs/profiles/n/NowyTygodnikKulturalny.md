@@ -34,5 +34,3 @@ permalink: /NowyTygodnikKulturalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NowyTygodnikKulturalny"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

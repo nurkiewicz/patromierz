@@ -34,5 +34,3 @@ permalink: /pelnymigarsciami
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pelnymigarsciami"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

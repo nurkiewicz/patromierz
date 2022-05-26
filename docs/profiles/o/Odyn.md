@@ -34,5 +34,3 @@ permalink: /Odyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Odyn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

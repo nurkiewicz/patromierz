@@ -34,5 +34,3 @@ permalink: /muzeumpc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzeumpc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

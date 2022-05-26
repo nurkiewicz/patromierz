@@ -34,5 +34,3 @@ permalink: /wiampl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wiampl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

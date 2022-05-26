@@ -34,5 +34,3 @@ permalink: /planety
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["planety"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

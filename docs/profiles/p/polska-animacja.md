@@ -34,5 +34,3 @@ permalink: /polska-animacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polska-animacja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

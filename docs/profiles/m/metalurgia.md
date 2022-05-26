@@ -34,5 +34,3 @@ permalink: /metalurgia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["metalurgia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

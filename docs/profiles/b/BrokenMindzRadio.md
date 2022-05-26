@@ -34,5 +34,3 @@ permalink: /BrokenMindzRadio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BrokenMindzRadio"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

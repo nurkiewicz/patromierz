@@ -34,5 +34,3 @@ permalink: /jednymsercem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jednymsercem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

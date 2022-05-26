@@ -34,5 +34,3 @@ permalink: /wulkanyswiata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wulkanyswiata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /GrapplerINFO
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GrapplerINFO"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

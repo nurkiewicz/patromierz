@@ -34,5 +34,3 @@ permalink: /www.zen.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www.zen.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

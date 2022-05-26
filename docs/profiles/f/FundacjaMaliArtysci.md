@@ -34,5 +34,3 @@ permalink: /FundacjaMaliArtysci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaMaliArtysci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

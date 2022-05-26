@@ -34,5 +34,3 @@ permalink: /DoulaZuzanna-KragWsparcia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DoulaZuzanna-KragWsparcia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

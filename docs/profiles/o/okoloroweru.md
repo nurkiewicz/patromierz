@@ -34,5 +34,3 @@ permalink: /okoloroweru
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["okoloroweru"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

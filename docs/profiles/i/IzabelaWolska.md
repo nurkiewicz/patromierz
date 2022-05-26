@@ -34,5 +34,3 @@ permalink: /IzabelaWolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["IzabelaWolska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

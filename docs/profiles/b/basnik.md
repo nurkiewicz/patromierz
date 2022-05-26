@@ -34,5 +34,3 @@ permalink: /basnik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["basnik"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

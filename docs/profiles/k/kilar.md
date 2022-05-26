@@ -34,5 +34,3 @@ permalink: /kilar
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kilar"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

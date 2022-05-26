@@ -34,5 +34,3 @@ permalink: /magnapolonia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magnapolonia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

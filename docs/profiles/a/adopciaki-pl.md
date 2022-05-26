@@ -34,5 +34,3 @@ permalink: /adopciaki-pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adopciaki-pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

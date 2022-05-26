@@ -34,5 +34,3 @@ permalink: /PTPA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PTPA"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

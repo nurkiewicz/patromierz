@@ -34,5 +34,3 @@ permalink: /akropolis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akropolis"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

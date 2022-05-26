@@ -34,5 +34,3 @@ permalink: /Krzyzaniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Krzyzaniak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

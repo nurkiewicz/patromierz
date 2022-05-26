@@ -34,5 +34,3 @@ permalink: /patronite-pl-tadeusz-wozniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["patronite-pl-tadeusz-wozniak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

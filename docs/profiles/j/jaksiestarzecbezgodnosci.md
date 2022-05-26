@@ -34,5 +34,3 @@ permalink: /jaksiestarzecbezgodnosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jaksiestarzecbezgodnosci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

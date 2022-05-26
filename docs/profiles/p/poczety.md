@@ -34,5 +34,3 @@ permalink: /poczety
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poczety"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /IntuicjanaTarot
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["IntuicjanaTarot"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

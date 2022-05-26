@@ -34,5 +34,3 @@ permalink: /tablao
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tablao"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

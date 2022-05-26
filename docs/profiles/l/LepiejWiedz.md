@@ -34,5 +34,3 @@ permalink: /LepiejWiedz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LepiejWiedz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /dixracingpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dixracingpl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

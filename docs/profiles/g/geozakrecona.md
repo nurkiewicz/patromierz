@@ -34,5 +34,3 @@ permalink: /geozakrecona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["geozakrecona"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

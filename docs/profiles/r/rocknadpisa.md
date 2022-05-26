@@ -34,5 +34,3 @@ permalink: /rocknadpisa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rocknadpisa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

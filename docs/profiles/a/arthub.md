@@ -34,5 +34,3 @@ permalink: /arthub
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["arthub"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /mietekszczesniak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mietekszczesniak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

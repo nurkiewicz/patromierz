@@ -34,5 +34,3 @@ permalink: /gc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

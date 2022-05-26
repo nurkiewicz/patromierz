@@ -34,5 +34,3 @@ permalink: /katshakti
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["katshakti"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /historia-nie-jest-nudna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historia-nie-jest-nudna"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

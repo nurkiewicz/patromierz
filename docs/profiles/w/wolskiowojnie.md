@@ -34,5 +34,3 @@ permalink: /wolskiowojnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wolskiowojnie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

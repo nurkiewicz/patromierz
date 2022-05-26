@@ -34,5 +34,3 @@ permalink: /tajnekomplety
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tajnekomplety"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

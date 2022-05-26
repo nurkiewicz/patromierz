@@ -34,5 +34,3 @@ permalink: /sietra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sietra"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

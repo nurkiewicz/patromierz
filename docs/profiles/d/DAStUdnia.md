@@ -34,5 +34,3 @@ permalink: /DAStUdnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DAStUdnia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

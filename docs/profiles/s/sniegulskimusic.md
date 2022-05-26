@@ -34,5 +34,3 @@ permalink: /sniegulskimusic
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sniegulskimusic"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

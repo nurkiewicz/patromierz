@@ -34,5 +34,3 @@ permalink: /FreezerSIG
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FreezerSIG"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

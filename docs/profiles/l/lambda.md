@@ -34,5 +34,3 @@ permalink: /lambda
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lambda"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

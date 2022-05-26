@@ -34,5 +34,3 @@ permalink: /niarukochan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niarukochan"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

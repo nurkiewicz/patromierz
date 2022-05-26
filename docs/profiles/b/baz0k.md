@@ -34,5 +34,3 @@ permalink: /baz0k
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["baz0k"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

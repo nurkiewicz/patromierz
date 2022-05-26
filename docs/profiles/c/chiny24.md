@@ -34,5 +34,3 @@ permalink: /chiny24
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chiny24"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

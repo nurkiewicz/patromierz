@@ -34,5 +34,3 @@ permalink: /OneWayTicket
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OneWayTicket"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /imperiumromanum
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["imperiumromanum"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

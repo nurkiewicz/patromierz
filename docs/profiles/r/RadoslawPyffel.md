@@ -34,5 +34,3 @@ permalink: /RadoslawPyffel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RadoslawPyffel"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

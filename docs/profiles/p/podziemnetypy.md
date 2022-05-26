@@ -34,5 +34,3 @@ permalink: /podziemnetypy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podziemnetypy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

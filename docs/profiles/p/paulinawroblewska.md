@@ -34,5 +34,3 @@ permalink: /paulinawroblewska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paulinawroblewska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

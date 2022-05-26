@@ -34,5 +34,3 @@ permalink: /CPPHN
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CPPHN"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ograniczam-sie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ograniczam-sie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

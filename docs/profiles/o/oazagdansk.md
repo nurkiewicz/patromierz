@@ -34,5 +34,3 @@ permalink: /oazagdansk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["oazagdansk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

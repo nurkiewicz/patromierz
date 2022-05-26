@@ -34,5 +34,3 @@ permalink: /Herrhamburger
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Herrhamburger"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

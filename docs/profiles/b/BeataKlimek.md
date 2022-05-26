@@ -34,5 +34,3 @@ permalink: /BeataKlimek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BeataKlimek"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

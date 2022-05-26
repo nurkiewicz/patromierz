@@ -34,5 +34,3 @@ permalink: /filipbrzoskakkwnexelowalbrzych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filipbrzoskakkwnexelowalbrzych"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

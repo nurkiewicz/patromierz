@@ -34,5 +34,3 @@ permalink: /OKIEM-PILOTA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OKIEM-PILOTA"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

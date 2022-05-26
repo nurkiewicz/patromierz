@@ -34,5 +34,3 @@ permalink: /krowoderska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["krowoderska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

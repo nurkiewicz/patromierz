@@ -34,5 +34,3 @@ permalink: /punkoweradiounderground
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["punkoweradiounderground"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

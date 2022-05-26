@@ -34,5 +34,3 @@ permalink: /Muzeum-ks-Jerzego-Popieluszki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Muzeum-ks-Jerzego-Popieluszki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

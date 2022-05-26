@@ -34,5 +34,3 @@ permalink: /rockyourenglish
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rockyourenglish"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

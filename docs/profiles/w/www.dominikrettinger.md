@@ -34,5 +34,3 @@ permalink: /www.dominikrettinger
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www.dominikrettinger"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

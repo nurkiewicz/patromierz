@@ -34,5 +34,3 @@ permalink: /ANOWA
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ANOWA"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /gieniutkowofundacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gieniutkowofundacja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

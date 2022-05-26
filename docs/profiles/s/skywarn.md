@@ -34,5 +34,3 @@ permalink: /skywarn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["skywarn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

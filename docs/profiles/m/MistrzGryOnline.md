@@ -34,5 +34,3 @@ permalink: /MistrzGryOnline
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MistrzGryOnline"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

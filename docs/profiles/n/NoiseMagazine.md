@@ -34,5 +34,3 @@ permalink: /NoiseMagazine
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NoiseMagazine"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

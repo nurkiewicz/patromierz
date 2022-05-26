@@ -34,5 +34,3 @@ permalink: /tatti-nizovaya
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tatti-nizovaya"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

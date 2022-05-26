@@ -34,5 +34,3 @@ permalink: /nippongo20
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nippongo20"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

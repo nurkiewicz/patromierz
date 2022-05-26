@@ -34,5 +34,3 @@ permalink: /tosachiny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tosachiny"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

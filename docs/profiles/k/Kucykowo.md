@@ -34,5 +34,3 @@ permalink: /Kucykowo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kucykowo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

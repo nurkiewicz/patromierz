@@ -34,5 +34,3 @@ permalink: /moznazwariowac
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["moznazwariowac"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

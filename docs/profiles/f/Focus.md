@@ -34,5 +34,3 @@ permalink: /Focus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Focus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

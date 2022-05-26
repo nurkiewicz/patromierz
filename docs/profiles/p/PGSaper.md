@@ -34,5 +34,3 @@ permalink: /PGSaper
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PGSaper"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

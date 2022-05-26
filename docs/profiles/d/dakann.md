@@ -34,5 +34,3 @@ permalink: /dakann
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dakann"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

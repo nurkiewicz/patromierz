@@ -34,5 +34,3 @@ permalink: /ambicje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ambicje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

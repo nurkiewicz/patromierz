@@ -34,5 +34,3 @@ permalink: /panika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["panika"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

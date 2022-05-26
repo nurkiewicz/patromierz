@@ -34,5 +34,3 @@ permalink: /pattirotithor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pattirotithor"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

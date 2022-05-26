@@ -34,5 +34,3 @@ permalink: /szpiedzywiedzy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szpiedzywiedzy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /elzjur
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["elzjur"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /arte-educare.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["arte-educare.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

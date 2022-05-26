@@ -34,5 +34,3 @@ permalink: /drkacperlukasiewicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drkacperlukasiewicz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

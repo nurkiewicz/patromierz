@@ -34,5 +34,3 @@ permalink: /Autor-NorbertKosciesza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Autor-NorbertKosciesza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

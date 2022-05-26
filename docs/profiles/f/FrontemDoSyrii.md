@@ -34,5 +34,3 @@ permalink: /FrontemDoSyrii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FrontemDoSyrii"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

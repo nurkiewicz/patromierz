@@ -34,5 +34,3 @@ permalink: /3DStudioByBUSER
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["3DStudioByBUSER"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

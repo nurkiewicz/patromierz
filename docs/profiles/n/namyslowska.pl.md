@@ -34,5 +34,3 @@ permalink: /namyslowska.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["namyslowska.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

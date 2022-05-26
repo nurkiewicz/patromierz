@@ -34,5 +34,3 @@ permalink: /GGDuo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GGDuo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /lechiarugby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lechiarugby"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

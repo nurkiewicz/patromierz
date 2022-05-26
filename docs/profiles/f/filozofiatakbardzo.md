@@ -34,5 +34,3 @@ permalink: /filozofiatakbardzo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filozofiatakbardzo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

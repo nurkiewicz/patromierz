@@ -34,5 +34,3 @@ permalink: /CriticalUSG
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["CriticalUSG"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

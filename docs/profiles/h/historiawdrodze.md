@@ -34,5 +34,3 @@ permalink: /historiawdrodze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["historiawdrodze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

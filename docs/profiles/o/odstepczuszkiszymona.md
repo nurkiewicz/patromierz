@@ -34,5 +34,3 @@ permalink: /odstepczuszkiszymona
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odstepczuszkiszymona"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

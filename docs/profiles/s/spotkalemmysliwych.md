@@ -34,5 +34,3 @@ permalink: /spotkalemmysliwych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spotkalemmysliwych"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

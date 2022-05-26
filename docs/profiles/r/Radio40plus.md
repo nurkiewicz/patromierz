@@ -34,5 +34,3 @@ permalink: /Radio40plus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Radio40plus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

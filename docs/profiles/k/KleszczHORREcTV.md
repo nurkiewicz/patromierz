@@ -34,5 +34,3 @@ permalink: /KleszczHORREcTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KleszczHORREcTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

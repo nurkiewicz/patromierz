@@ -34,5 +34,3 @@ permalink: /LapaDzieciom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LapaDzieciom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

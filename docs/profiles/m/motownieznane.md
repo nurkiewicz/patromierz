@@ -34,5 +34,3 @@ permalink: /motownieznane
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["motownieznane"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

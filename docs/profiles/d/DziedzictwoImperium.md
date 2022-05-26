@@ -34,5 +34,3 @@ permalink: /DziedzictwoImperium
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DziedzictwoImperium"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

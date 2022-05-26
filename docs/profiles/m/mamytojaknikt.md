@@ -34,5 +34,3 @@ permalink: /mamytojaknikt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mamytojaknikt"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

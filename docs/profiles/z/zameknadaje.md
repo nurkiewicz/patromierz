@@ -34,5 +34,3 @@ permalink: /zameknadaje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zameknadaje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

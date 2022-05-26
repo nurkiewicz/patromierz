@@ -34,5 +34,3 @@ permalink: /dem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

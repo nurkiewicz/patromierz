@@ -34,5 +34,3 @@ permalink: /PrzySobieStan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PrzySobieStan"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

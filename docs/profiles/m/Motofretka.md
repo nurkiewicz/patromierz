@@ -34,5 +34,3 @@ permalink: /Motofretka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Motofretka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

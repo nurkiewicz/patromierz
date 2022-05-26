@@ -34,5 +34,3 @@ permalink: /odzyskani
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odzyskani"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

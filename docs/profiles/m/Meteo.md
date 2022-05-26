@@ -34,5 +34,3 @@ permalink: /Meteo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Meteo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

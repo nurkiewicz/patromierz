@@ -34,5 +34,3 @@ permalink: /kolejbeskidzka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kolejbeskidzka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

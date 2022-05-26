@@ -34,5 +34,3 @@ permalink: /konopiankakonopki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["konopiankakonopki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

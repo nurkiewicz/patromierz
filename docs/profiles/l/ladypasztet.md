@@ -34,5 +34,3 @@ permalink: /ladypasztet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ladypasztet"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

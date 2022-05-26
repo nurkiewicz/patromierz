@@ -34,5 +34,3 @@ permalink: /ftd
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ftd"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /RetroGralnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RetroGralnia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

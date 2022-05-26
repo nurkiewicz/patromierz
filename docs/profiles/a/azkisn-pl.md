@@ -34,5 +34,3 @@ permalink: /azkisn-pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["azkisn-pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

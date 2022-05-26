@@ -34,5 +34,3 @@ permalink: /poza-ciałem-fizycznym
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poza-ciałem-fizycznym"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

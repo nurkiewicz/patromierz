@@ -34,5 +34,3 @@ permalink: /KociŁapci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KociŁapci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

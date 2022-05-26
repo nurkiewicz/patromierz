@@ -34,5 +34,3 @@ permalink: /akuma-inn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["akuma-inn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /SecondHandy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SecondHandy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /reministry
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["reministry"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

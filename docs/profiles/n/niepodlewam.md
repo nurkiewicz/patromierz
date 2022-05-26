@@ -34,5 +34,3 @@ permalink: /niepodlewam
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niepodlewam"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

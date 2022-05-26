@@ -34,5 +34,3 @@ permalink: /radiozqltura
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radiozqltura"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

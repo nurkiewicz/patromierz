@@ -34,5 +34,3 @@ permalink: /kamil-z-zielonej
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kamil-z-zielonej"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Radio-Widzew
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Radio-Widzew"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

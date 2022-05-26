@@ -34,5 +34,3 @@ permalink: /otwartapracownia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["otwartapracownia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

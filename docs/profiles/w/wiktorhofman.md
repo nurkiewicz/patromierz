@@ -34,5 +34,3 @@ permalink: /wiktorhofman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wiktorhofman"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

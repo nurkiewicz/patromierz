@@ -34,5 +34,3 @@ permalink: /lysyzmarvela
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lysyzmarvela"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

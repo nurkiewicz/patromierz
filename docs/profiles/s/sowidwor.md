@@ -34,5 +34,3 @@ permalink: /sowidwor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sowidwor"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

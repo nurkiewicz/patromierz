@@ -34,5 +34,3 @@ permalink: /agrounia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["agrounia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

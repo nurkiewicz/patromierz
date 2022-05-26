@@ -34,5 +34,3 @@ permalink: /dzieci-świata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dzieci-świata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

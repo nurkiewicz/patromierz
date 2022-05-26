@@ -34,5 +34,3 @@ permalink: /proscenium
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["proscenium"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

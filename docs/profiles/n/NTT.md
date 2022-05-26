@@ -34,5 +34,3 @@ permalink: /NTT
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NTT"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

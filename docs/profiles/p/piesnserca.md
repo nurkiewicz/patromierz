@@ -34,5 +34,3 @@ permalink: /piesnserca
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["piesnserca"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

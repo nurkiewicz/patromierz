@@ -34,5 +34,3 @@ permalink: /SilentHeroesPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SilentHeroesPL"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

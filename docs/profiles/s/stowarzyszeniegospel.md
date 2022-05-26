@@ -34,5 +34,3 @@ permalink: /stowarzyszeniegospel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stowarzyszeniegospel"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

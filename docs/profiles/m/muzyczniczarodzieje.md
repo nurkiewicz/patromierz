@@ -34,5 +34,3 @@ permalink: /muzyczniczarodzieje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzyczniczarodzieje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

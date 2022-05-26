@@ -34,5 +34,3 @@ permalink: /Mekatron
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mekatron"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

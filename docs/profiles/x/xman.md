@@ -34,5 +34,3 @@ permalink: /xman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["xman"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /PsiLuz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PsiLuz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

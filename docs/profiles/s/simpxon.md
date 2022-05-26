@@ -34,5 +34,3 @@ permalink: /simpxon
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["simpxon"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

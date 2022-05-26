@@ -34,5 +34,3 @@ permalink: /STSamba
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["STSamba"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

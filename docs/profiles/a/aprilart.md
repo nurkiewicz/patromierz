@@ -34,5 +34,3 @@ permalink: /aprilart
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["aprilart"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

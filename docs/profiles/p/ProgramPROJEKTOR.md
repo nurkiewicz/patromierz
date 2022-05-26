@@ -34,5 +34,3 @@ permalink: /ProgramPROJEKTOR
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ProgramPROJEKTOR"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

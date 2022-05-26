@@ -34,5 +34,3 @@ permalink: /Dailytips
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dailytips"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

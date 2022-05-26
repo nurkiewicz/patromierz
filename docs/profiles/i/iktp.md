@@ -34,5 +34,3 @@ permalink: /iktp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["iktp"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

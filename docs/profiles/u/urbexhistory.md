@@ -34,5 +34,3 @@ permalink: /urbexhistory
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["urbexhistory"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /podrozodbyta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podrozodbyta"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

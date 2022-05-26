@@ -34,5 +34,3 @@ permalink: /pixelretroshop
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pixelretroshop"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

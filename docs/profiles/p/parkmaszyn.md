@@ -34,5 +34,3 @@ permalink: /parkmaszyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["parkmaszyn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

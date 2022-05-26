@@ -34,5 +34,3 @@ permalink: /SZarpidrutPL
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SZarpidrutPL"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

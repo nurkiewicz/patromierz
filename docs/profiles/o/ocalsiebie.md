@@ -34,5 +34,3 @@ permalink: /ocalsiebie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ocalsiebie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

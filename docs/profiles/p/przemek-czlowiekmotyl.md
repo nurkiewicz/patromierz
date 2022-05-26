@@ -34,5 +34,3 @@ permalink: /przemek-czlowiekmotyl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przemek-czlowiekmotyl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /BooksJarkaHoldena
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BooksJarkaHoldena"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

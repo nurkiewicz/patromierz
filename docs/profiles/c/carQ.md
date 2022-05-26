@@ -34,5 +34,3 @@ permalink: /carQ
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["carQ"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

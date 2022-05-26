@@ -34,5 +34,3 @@ permalink: /idzpodprad
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["idzpodprad"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

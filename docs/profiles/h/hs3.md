@@ -34,5 +34,3 @@ permalink: /hs3
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hs3"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

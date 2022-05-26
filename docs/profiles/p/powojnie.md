@@ -34,5 +34,3 @@ permalink: /powojnie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["powojnie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

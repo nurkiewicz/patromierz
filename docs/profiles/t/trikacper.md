@@ -34,5 +34,3 @@ permalink: /trikacper
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["trikacper"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

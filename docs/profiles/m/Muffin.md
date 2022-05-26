@@ -34,5 +34,3 @@ permalink: /Muffin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Muffin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

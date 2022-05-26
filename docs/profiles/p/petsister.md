@@ -34,5 +34,3 @@ permalink: /petsister
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["petsister"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

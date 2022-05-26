@@ -34,5 +34,3 @@ permalink: /PlayStationTech
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PlayStationTech"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

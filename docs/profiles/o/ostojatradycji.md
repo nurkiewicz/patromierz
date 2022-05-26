@@ -34,5 +34,3 @@ permalink: /ostojatradycji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ostojatradycji"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

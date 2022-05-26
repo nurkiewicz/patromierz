@@ -34,5 +34,3 @@ permalink: /zdrowepasje-pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zdrowepasje-pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

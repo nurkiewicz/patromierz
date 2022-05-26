@@ -34,5 +34,3 @@ permalink: /egzoovet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["egzoovet"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

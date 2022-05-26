@@ -34,5 +34,3 @@ permalink: /mazurek-photographer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mazurek-photographer"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /tpbocian
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tpbocian"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

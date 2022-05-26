@@ -34,5 +34,3 @@ permalink: /agaprojektTRI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["agaprojektTRI"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

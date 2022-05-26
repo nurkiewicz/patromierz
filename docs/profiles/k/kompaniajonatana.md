@@ -34,5 +34,3 @@ permalink: /kompaniajonatana
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kompaniajonatana"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

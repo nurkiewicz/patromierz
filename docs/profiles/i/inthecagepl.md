@@ -34,5 +34,3 @@ permalink: /inthecagepl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["inthecagepl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

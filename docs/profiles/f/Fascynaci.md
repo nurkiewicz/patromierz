@@ -34,5 +34,3 @@ permalink: /Fascynaci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fascynaci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

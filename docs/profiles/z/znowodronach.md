@@ -34,5 +34,3 @@ permalink: /znowodronach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["znowodronach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

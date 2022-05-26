@@ -34,5 +34,3 @@ permalink: /boguslawjasiewicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["boguslawjasiewicz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

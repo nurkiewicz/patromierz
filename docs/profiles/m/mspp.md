@@ -34,5 +34,3 @@ permalink: /mspp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mspp"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

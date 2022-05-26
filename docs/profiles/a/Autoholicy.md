@@ -34,5 +34,3 @@ permalink: /Autoholicy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Autoholicy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

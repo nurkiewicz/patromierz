@@ -34,5 +34,3 @@ permalink: /ucieczkazarkham
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ucieczkazarkham"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

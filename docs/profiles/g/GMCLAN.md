@@ -34,5 +34,3 @@ permalink: /GMCLAN
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["GMCLAN"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

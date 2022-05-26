@@ -34,5 +34,3 @@ permalink: /gdzielosponiesie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gdzielosponiesie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

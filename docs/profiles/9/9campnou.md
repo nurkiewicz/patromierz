@@ -34,5 +34,3 @@ permalink: /9campnou
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["9campnou"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

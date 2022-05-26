@@ -34,5 +34,3 @@ permalink: /sensownieosamochodach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sensownieosamochodach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

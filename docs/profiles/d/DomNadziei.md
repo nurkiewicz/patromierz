@@ -34,5 +34,3 @@ permalink: /DomNadziei
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DomNadziei"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /AHGSFDS
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AHGSFDS"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

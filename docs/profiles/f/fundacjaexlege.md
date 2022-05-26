@@ -34,5 +34,3 @@ permalink: /fundacjaexlege
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjaexlege"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

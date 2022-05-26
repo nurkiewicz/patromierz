@@ -34,5 +34,3 @@ permalink: /SiłyZbrojne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SiłyZbrojne"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

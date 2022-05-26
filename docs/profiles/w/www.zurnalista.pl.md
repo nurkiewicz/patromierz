@@ -34,5 +34,3 @@ permalink: /www.zurnalista.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www.zurnalista.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

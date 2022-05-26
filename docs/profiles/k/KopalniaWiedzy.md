@@ -34,5 +34,3 @@ permalink: /KopalniaWiedzy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KopalniaWiedzy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

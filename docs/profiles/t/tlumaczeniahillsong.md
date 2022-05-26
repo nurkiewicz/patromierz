@@ -34,5 +34,3 @@ permalink: /tlumaczeniahillsong
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tlumaczeniahillsong"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /dobre-wiadomosci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dobre-wiadomosci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

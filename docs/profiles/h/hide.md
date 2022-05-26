@@ -34,5 +34,3 @@ permalink: /hide
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hide"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

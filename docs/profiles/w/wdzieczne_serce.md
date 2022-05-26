@@ -34,5 +34,3 @@ permalink: /wdzieczne_serce
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wdzieczne_serce"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

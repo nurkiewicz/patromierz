@@ -34,5 +34,3 @@ permalink: /swiftscibo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["swiftscibo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

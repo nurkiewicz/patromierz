@@ -34,5 +34,3 @@ permalink: /curves.cats.crafts
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["curves.cats.crafts"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

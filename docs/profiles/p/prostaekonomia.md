@@ -34,5 +34,3 @@ permalink: /prostaekonomia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prostaekonomia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

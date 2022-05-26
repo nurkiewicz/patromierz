@@ -34,5 +34,3 @@ permalink: /Astromiasto
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Astromiasto"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

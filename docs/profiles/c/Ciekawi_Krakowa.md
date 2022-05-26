@@ -34,5 +34,3 @@ permalink: /Ciekawi_Krakowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ciekawi_Krakowa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

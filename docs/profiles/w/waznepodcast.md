@@ -34,5 +34,3 @@ permalink: /waznepodcast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["waznepodcast"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /chaosientropia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chaosientropia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

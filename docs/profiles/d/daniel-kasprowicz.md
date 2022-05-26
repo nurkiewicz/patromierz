@@ -34,5 +34,3 @@ permalink: /daniel-kasprowicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["daniel-kasprowicz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

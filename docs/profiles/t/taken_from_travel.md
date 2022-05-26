@@ -34,5 +34,3 @@ permalink: /taken_from_travel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["taken_from_travel"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

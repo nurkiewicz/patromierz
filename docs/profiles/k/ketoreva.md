@@ -34,5 +34,3 @@ permalink: /ketoreva
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ketoreva"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

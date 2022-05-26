@@ -34,5 +34,3 @@ permalink: /PogodnyWalbrzych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PogodnyWalbrzych"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

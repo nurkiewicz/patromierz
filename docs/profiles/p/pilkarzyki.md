@@ -34,5 +34,3 @@ permalink: /pilkarzyki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pilkarzyki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

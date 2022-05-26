@@ -34,5 +34,3 @@ permalink: /SNACK_KASIIULI
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SNACK_KASIIULI"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

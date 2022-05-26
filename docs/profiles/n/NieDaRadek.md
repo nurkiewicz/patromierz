@@ -34,5 +34,3 @@ permalink: /NieDaRadek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NieDaRadek"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

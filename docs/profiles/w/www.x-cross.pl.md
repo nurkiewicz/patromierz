@@ -34,5 +34,3 @@ permalink: /www.x-cross.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www.x-cross.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

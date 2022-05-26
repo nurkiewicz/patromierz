@@ -34,5 +34,3 @@ permalink: /NowoczesnaMyslNarodowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NowoczesnaMyslNarodowa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

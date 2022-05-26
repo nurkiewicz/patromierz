@@ -34,5 +34,3 @@ permalink: /vingardiumgrubiosa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vingardiumgrubiosa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

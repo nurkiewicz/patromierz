@@ -34,5 +34,3 @@ permalink: /joganidra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["joganidra"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

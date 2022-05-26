@@ -34,5 +34,3 @@ permalink: /budzimy-kosciol
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["budzimy-kosciol"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

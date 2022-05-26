@@ -34,5 +34,3 @@ permalink: /apostrov
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["apostrov"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

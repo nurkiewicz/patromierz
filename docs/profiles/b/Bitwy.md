@@ -34,5 +34,3 @@ permalink: /Bitwy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bitwy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

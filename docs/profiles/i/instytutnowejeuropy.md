@@ -34,5 +34,3 @@ permalink: /instytutnowejeuropy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["instytutnowejeuropy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

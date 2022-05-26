@@ -34,5 +34,3 @@ permalink: /anatomiajogi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anatomiajogi"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

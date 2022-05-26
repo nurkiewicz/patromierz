@@ -34,5 +34,3 @@ permalink: /keepthebeat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["keepthebeat"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

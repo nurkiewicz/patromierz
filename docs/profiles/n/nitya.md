@@ -34,5 +34,3 @@ permalink: /nitya
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nitya"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

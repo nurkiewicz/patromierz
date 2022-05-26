@@ -34,5 +34,3 @@ permalink: /tapicerwakcji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tapicerwakcji"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

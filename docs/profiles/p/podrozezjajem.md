@@ -34,5 +34,3 @@ permalink: /podrozezjajem
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podrozezjajem"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

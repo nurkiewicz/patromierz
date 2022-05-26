@@ -34,5 +34,3 @@ permalink: /neuroatypowe
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["neuroatypowe"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

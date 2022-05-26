@@ -34,5 +34,3 @@ permalink: /dobreadopcje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dobreadopcje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

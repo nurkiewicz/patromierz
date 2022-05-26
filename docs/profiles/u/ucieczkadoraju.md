@@ -34,5 +34,3 @@ permalink: /ucieczkadoraju
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ucieczkadoraju"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

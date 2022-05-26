@@ -34,5 +34,3 @@ permalink: /FlyingShoes-MagdalenaCzechoska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FlyingShoes-MagdalenaCzechoska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

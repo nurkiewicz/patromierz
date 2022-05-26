@@ -34,5 +34,3 @@ permalink: /niewyparzonapudernica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["niewyparzonapudernica"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

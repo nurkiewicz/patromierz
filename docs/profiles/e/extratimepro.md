@@ -34,5 +34,3 @@ permalink: /extratimepro
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["extratimepro"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

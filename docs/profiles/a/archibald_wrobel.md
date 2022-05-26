@@ -34,5 +34,3 @@ permalink: /archibald_wrobel
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["archibald_wrobel"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

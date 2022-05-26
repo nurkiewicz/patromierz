@@ -34,5 +34,3 @@ permalink: /FOLK24
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FOLK24"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

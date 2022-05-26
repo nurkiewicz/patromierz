@@ -34,5 +34,3 @@ permalink: /paramedic
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paramedic"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

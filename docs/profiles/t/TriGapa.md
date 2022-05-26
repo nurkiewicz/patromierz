@@ -34,5 +34,3 @@ permalink: /TriGapa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TriGapa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

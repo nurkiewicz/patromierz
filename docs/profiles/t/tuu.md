@@ -34,5 +34,3 @@ permalink: /tuu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tuu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

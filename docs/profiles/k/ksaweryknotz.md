@@ -34,5 +34,3 @@ permalink: /ksaweryknotz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ksaweryknotz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

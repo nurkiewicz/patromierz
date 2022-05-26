@@ -34,5 +34,3 @@ permalink: /TomekFerenc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TomekFerenc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

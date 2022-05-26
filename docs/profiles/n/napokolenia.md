@@ -34,5 +34,3 @@ permalink: /napokolenia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["napokolenia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /magikdyspozytor
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magikdyspozytor"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Forestowo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Forestowo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

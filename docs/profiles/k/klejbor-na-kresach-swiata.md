@@ -34,5 +34,3 @@ permalink: /klejbor-na-kresach-swiata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klejbor-na-kresach-swiata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /PolskaTradycja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolskaTradycja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

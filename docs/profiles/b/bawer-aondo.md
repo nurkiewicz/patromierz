@@ -34,5 +34,3 @@ permalink: /bawer-aondo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bawer-aondo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

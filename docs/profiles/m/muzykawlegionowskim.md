@@ -34,5 +34,3 @@ permalink: /muzykawlegionowskim
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["muzykawlegionowskim"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

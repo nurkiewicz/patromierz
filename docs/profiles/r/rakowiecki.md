@@ -34,5 +34,3 @@ permalink: /rakowiecki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rakowiecki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

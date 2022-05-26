@@ -34,5 +34,3 @@ permalink: /milos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["milos"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

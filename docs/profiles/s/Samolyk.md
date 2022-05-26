@@ -34,5 +34,3 @@ permalink: /Samolyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Samolyk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

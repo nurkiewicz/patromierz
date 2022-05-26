@@ -34,5 +34,3 @@ permalink: /Tenisklub
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Tenisklub"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

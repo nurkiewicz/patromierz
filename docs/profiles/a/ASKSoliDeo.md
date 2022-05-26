@@ -34,5 +34,3 @@ permalink: /ASKSoliDeo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ASKSoliDeo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

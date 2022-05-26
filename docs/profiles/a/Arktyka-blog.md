@@ -34,5 +34,3 @@ permalink: /Arktyka-blog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Arktyka-blog"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

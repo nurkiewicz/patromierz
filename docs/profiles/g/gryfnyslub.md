@@ -34,5 +34,3 @@ permalink: /gryfnyslub
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gryfnyslub"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /BiznesBezStresu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BiznesBezStresu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

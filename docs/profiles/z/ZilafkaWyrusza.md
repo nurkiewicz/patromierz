@@ -34,5 +34,3 @@ permalink: /ZilafkaWyrusza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZilafkaWyrusza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

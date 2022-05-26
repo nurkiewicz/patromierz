@@ -34,5 +34,3 @@ permalink: /Barysta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Barysta"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

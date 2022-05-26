@@ -34,5 +34,3 @@ permalink: /nie-mam-czasu-na-szkole
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nie-mam-czasu-na-szkole"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

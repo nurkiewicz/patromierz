@@ -34,5 +34,3 @@ permalink: /letsgrajmy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["letsgrajmy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

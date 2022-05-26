@@ -34,5 +34,3 @@ permalink: /darekmalina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["darekmalina"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

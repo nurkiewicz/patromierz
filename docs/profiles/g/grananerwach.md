@@ -34,5 +34,3 @@ permalink: /grananerwach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grananerwach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

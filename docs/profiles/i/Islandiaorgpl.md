@@ -34,5 +34,3 @@ permalink: /Islandiaorgpl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Islandiaorgpl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /koroluk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["koroluk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

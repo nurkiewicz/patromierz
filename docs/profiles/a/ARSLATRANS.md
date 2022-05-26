@@ -34,5 +34,3 @@ permalink: /ARSLATRANS
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ARSLATRANS"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /homokomando
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["homokomando"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

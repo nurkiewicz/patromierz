@@ -34,5 +34,3 @@ permalink: /RodzinnePodróże
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RodzinnePodróże"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

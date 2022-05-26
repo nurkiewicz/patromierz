@@ -34,5 +34,3 @@ permalink: /zielonyatom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zielonyatom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

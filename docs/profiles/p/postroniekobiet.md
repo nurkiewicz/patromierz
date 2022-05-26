@@ -34,5 +34,3 @@ permalink: /postroniekobiet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["postroniekobiet"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

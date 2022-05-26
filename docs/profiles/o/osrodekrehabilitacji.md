@@ -34,5 +34,3 @@ permalink: /osrodekrehabilitacji
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["osrodekrehabilitacji"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

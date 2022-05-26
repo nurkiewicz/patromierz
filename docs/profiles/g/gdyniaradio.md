@@ -34,5 +34,3 @@ permalink: /gdyniaradio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gdyniaradio"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

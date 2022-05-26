@@ -34,5 +34,3 @@ permalink: /Portal-Lowking-Pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Portal-Lowking-Pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /whyfrompoland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["whyfrompoland"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

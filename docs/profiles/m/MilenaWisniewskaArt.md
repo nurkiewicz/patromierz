@@ -34,5 +34,3 @@ permalink: /MilenaWisniewskaArt
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MilenaWisniewskaArt"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

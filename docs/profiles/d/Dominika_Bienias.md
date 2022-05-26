@@ -34,5 +34,3 @@ permalink: /Dominika_Bienias
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dominika_Bienias"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

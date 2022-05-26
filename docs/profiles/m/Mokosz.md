@@ -34,5 +34,3 @@ permalink: /Mokosz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mokosz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

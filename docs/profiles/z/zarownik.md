@@ -34,5 +34,3 @@ permalink: /zarownik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zarownik"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

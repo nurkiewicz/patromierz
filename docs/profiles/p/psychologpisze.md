@@ -34,5 +34,3 @@ permalink: /psychologpisze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psychologpisze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

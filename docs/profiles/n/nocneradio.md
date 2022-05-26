@@ -34,5 +34,3 @@ permalink: /nocneradio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nocneradio"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /domeq
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["domeq"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

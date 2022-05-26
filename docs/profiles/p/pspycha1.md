@@ -34,5 +34,3 @@ permalink: /pspycha1
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pspycha1"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

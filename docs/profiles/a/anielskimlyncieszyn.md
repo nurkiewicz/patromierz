@@ -34,5 +34,3 @@ permalink: /anielskimlyncieszyn
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anielskimlyncieszyn"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

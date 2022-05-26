@@ -34,5 +34,3 @@ permalink: /wolnawisla
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wolnawisla"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

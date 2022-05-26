@@ -34,5 +34,3 @@ permalink: /kapszlak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kapszlak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

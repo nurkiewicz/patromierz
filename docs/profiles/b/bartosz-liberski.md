@@ -34,5 +34,3 @@ permalink: /bartosz-liberski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bartosz-liberski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

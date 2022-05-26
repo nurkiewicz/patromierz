@@ -34,5 +34,3 @@ permalink: /Kompulik89
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kompulik89"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

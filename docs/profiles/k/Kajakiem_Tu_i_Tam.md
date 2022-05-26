@@ -34,5 +34,3 @@ permalink: /Kajakiem_Tu_i_Tam
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kajakiem_Tu_i_Tam"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

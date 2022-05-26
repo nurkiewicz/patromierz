@@ -34,5 +34,3 @@ permalink: /kinobajka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kinobajka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

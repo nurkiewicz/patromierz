@@ -34,5 +34,3 @@ permalink: /pogotowiepsychologiczne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pogotowiepsychologiczne"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

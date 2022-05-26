@@ -34,5 +34,3 @@ permalink: /Dzejms_Blont
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Dzejms_Blont"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

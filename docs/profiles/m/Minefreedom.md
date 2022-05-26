@@ -34,5 +34,3 @@ permalink: /Minefreedom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Minefreedom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

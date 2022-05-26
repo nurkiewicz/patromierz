@@ -34,5 +34,3 @@ permalink: /OSFISTeam
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OSFISTeam"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

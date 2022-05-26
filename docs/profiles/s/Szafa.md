@@ -34,5 +34,3 @@ permalink: /Szafa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Szafa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

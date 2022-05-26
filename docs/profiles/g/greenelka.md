@@ -34,5 +34,3 @@ permalink: /greenelka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["greenelka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

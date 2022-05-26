@@ -34,5 +34,3 @@ permalink: /DOMANproject
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DOMANproject"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

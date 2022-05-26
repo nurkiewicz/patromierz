@@ -34,5 +34,3 @@ permalink: /emteroo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["emteroo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

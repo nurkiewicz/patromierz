@@ -34,5 +34,3 @@ permalink: /prostesprawy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prostesprawy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

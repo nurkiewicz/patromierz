@@ -34,5 +34,3 @@ permalink: /KamikazeLDZ
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KamikazeLDZ"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

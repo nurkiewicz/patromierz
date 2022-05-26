@@ -34,5 +34,3 @@ permalink: /milartsy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["milartsy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

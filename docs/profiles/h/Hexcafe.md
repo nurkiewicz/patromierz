@@ -34,5 +34,3 @@ permalink: /Hexcafe
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Hexcafe"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

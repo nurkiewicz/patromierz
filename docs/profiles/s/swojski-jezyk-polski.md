@@ -34,5 +34,3 @@ permalink: /swojski-jezyk-polski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["swojski-jezyk-polski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

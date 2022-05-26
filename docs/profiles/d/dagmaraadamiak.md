@@ -34,5 +34,3 @@ permalink: /dagmaraadamiak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["dagmaraadamiak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

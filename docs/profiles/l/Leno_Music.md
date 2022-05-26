@@ -34,5 +34,3 @@ permalink: /Leno_Music
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Leno_Music"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /medicineitaly
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["medicineitaly"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

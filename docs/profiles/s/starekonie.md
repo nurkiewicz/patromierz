@@ -34,5 +34,3 @@ permalink: /starekonie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["starekonie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /kronikahistorii
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kronikahistorii"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

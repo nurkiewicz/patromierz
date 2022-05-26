@@ -34,5 +34,3 @@ permalink: /Coryllus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Coryllus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

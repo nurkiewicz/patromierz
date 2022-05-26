@@ -34,5 +34,3 @@ permalink: /helix
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["helix"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

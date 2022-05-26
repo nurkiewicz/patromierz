@@ -34,5 +34,3 @@ permalink: /polfan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polfan"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

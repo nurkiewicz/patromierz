@@ -34,5 +34,3 @@ permalink: /Kocimietkakoszalin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kocimietkakoszalin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Mosak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mosak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /choroba_stargardta
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["choroba_stargardta"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

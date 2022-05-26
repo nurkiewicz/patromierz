@@ -34,5 +34,3 @@ permalink: /Woglan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Woglan"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

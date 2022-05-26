@@ -34,5 +34,3 @@ permalink: /stalowy-szok
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stalowy-szok"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

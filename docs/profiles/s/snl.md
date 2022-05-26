@@ -34,5 +34,3 @@ permalink: /snl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["snl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

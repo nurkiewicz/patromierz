@@ -34,5 +34,3 @@ permalink: /ezoja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ezoja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

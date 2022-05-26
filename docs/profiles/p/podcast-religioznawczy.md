@@ -34,5 +34,3 @@ permalink: /podcast-religioznawczy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podcast-religioznawczy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /41hdz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["41hdz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /MichalWlodarczyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MichalWlodarczyk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

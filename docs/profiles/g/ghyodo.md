@@ -34,5 +34,3 @@ permalink: /ghyodo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ghyodo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

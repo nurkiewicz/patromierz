@@ -34,5 +34,3 @@ permalink: /mamcialo-podcast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mamcialo-podcast"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

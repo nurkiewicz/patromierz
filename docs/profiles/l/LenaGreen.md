@@ -34,5 +34,3 @@ permalink: /LenaGreen
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LenaGreen"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

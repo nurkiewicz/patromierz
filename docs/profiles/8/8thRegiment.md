@@ -34,5 +34,3 @@ permalink: /8thRegiment
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["8thRegiment"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

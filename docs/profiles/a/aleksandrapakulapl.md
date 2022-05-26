@@ -34,5 +34,3 @@ permalink: /aleksandrapakulapl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["aleksandrapakulapl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

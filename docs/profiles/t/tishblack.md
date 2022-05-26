@@ -34,5 +34,3 @@ permalink: /tishblack
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tishblack"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

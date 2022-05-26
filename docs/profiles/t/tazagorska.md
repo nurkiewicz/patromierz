@@ -34,5 +34,3 @@ permalink: /tazagorska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tazagorska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /polnischestheaterberlin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polnischestheaterberlin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

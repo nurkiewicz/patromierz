@@ -34,5 +34,3 @@ permalink: /KapitanB
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KapitanB"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

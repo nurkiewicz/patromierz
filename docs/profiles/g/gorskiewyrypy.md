@@ -34,5 +34,3 @@ permalink: /gorskiewyrypy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gorskiewyrypy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /apocomitamatma
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["apocomitamatma"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /naszinowlodz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["naszinowlodz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

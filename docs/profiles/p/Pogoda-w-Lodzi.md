@@ -34,5 +34,3 @@ permalink: /Pogoda-w-Lodzi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Pogoda-w-Lodzi"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

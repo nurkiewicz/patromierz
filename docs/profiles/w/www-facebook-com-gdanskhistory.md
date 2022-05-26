@@ -34,5 +34,3 @@ permalink: /www-facebook-com-gdanskhistory
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www-facebook-com-gdanskhistory"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

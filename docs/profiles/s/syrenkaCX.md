@@ -34,5 +34,3 @@ permalink: /syrenkaCX
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["syrenkaCX"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

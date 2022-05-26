@@ -34,5 +34,3 @@ permalink: /quidamcorvus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["quidamcorvus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

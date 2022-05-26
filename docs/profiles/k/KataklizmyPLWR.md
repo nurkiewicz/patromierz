@@ -34,5 +34,3 @@ permalink: /KataklizmyPLWR
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KataklizmyPLWR"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

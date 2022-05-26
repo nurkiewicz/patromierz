@@ -34,5 +34,3 @@ permalink: /KasiaD
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KasiaD"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

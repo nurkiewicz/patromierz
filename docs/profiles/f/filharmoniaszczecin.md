@@ -34,5 +34,3 @@ permalink: /filharmoniaszczecin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["filharmoniaszczecin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

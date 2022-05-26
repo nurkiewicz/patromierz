@@ -34,5 +34,3 @@ permalink: /FDZ_Animalia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FDZ_Animalia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

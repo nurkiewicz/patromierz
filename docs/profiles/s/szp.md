@@ -34,5 +34,3 @@ permalink: /szp
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["szp"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

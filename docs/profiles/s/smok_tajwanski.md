@@ -34,5 +34,3 @@ permalink: /smok_tajwanski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["smok_tajwanski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

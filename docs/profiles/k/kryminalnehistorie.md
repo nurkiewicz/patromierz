@@ -34,5 +34,3 @@ permalink: /kryminalnehistorie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kryminalnehistorie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Justyna-Jaworska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Justyna-Jaworska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

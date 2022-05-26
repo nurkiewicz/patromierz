@@ -34,5 +34,3 @@ permalink: /zawszepomorze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zawszepomorze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

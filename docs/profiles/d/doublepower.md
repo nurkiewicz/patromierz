@@ -34,5 +34,3 @@ permalink: /doublepower
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["doublepower"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

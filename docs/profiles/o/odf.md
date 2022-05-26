@@ -34,5 +34,3 @@ permalink: /odf
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odf"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

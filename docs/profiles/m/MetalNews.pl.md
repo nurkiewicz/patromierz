@@ -34,5 +34,3 @@ permalink: /MetalNews.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MetalNews.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

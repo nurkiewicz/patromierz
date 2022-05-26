@@ -34,5 +34,3 @@ permalink: /voiceinprogress-joannakurzynsk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["voiceinprogress-joannakurzynsk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

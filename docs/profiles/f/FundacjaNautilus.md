@@ -34,5 +34,3 @@ permalink: /FundacjaNautilus
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaNautilus"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

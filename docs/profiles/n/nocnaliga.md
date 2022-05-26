@@ -34,5 +34,3 @@ permalink: /nocnaliga
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nocnaliga"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

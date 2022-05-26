@@ -34,5 +34,3 @@ permalink: /ciekawostkiteatralne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ciekawostkiteatralne"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ZpilkanaTY
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZpilkanaTY"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

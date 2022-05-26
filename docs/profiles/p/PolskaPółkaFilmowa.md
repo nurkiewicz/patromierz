@@ -34,5 +34,3 @@ permalink: /PolskaPółkaFilmowa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PolskaPółkaFilmowa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

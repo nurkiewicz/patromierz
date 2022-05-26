@@ -34,5 +34,3 @@ permalink: /marianaitaliana
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marianaitaliana"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

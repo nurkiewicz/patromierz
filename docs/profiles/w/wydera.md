@@ -34,5 +34,3 @@ permalink: /wydera
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["wydera"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

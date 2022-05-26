@@ -34,5 +34,3 @@ permalink: /gupia_nauka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gupia_nauka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

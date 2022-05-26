@@ -34,5 +34,3 @@ permalink: /FighTimeTV
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FighTimeTV"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

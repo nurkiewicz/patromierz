@@ -34,5 +34,3 @@ permalink: /Cozahistoria
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Cozahistoria"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

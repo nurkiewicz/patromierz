@@ -34,5 +34,3 @@ permalink: /znamiotemnadachu.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["znamiotemnadachu.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

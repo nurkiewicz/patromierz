@@ -34,5 +34,3 @@ permalink: /12kamieni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["12kamieni"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

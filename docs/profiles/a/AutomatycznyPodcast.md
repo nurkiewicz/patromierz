@@ -34,5 +34,3 @@ permalink: /AutomatycznyPodcast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AutomatycznyPodcast"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

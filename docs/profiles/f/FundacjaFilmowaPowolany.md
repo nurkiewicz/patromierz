@@ -34,5 +34,3 @@ permalink: /FundacjaFilmowaPowolany
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FundacjaFilmowaPowolany"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

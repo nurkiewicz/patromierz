@@ -34,5 +34,3 @@ permalink: /spokojnietotylkoADHD
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["spokojnietotylkoADHD"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

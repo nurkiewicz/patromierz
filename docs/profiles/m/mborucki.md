@@ -34,5 +34,3 @@ permalink: /mborucki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mborucki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

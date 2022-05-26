@@ -34,5 +34,3 @@ permalink: /DziennikEurowizyjny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DziennikEurowizyjny"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /pasjowspieracze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pasjowspieracze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

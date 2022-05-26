@@ -34,5 +34,3 @@ permalink: /PodcastProNGO
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PodcastProNGO"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

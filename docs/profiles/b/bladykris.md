@@ -34,5 +34,3 @@ permalink: /bladykris
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bladykris"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

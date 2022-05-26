@@ -34,5 +34,3 @@ permalink: /fundacjadzieciompomagaj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjadzieciompomagaj"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

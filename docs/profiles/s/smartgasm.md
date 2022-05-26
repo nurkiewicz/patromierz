@@ -34,5 +34,3 @@ permalink: /smartgasm
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["smartgasm"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

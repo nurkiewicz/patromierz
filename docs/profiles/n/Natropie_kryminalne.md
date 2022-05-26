@@ -34,5 +34,3 @@ permalink: /Natropie_kryminalne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Natropie_kryminalne"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

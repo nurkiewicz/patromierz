@@ -34,5 +34,3 @@ permalink: /Herpetolog
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Herpetolog"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

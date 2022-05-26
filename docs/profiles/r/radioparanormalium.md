@@ -34,5 +34,3 @@ permalink: /radioparanormalium
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radioparanormalium"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

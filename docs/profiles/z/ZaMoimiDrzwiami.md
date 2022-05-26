@@ -34,5 +34,3 @@ permalink: /ZaMoimiDrzwiami
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ZaMoimiDrzwiami"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

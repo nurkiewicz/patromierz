@@ -34,5 +34,3 @@ permalink: /staremaniowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["staremaniowy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

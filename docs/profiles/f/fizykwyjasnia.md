@@ -34,5 +34,3 @@ permalink: /fizykwyjasnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fizykwyjasnia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

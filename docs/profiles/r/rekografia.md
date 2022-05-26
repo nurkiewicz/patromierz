@@ -34,5 +34,3 @@ permalink: /rekografia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rekografia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

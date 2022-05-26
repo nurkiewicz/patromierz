@@ -34,5 +34,3 @@ permalink: /mywonderland_com_pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mywonderland_com_pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

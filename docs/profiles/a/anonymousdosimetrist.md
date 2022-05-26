@@ -34,5 +34,3 @@ permalink: /anonymousdosimetrist
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["anonymousdosimetrist"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

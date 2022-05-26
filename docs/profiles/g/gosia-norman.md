@@ -34,5 +34,3 @@ permalink: /gosia-norman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gosia-norman"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /zexcet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zexcet"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

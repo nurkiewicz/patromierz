@@ -34,5 +34,3 @@ permalink: /catvloguje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["catvloguje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

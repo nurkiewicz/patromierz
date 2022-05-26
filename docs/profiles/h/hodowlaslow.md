@@ -34,5 +34,3 @@ permalink: /hodowlaslow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["hodowlaslow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

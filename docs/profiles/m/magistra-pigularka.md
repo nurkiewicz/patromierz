@@ -34,5 +34,3 @@ permalink: /magistra-pigularka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["magistra-pigularka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

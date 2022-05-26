@@ -34,5 +34,3 @@ permalink: /zbudzsie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zbudzsie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

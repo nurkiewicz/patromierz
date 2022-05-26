@@ -34,5 +34,3 @@ permalink: /paryzewo
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paryzewo"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /marcinrudawski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["marcinrudawski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

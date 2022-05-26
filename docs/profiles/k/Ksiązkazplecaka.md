@@ -34,5 +34,3 @@ permalink: /Ksiązkazplecaka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ksiązkazplecaka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

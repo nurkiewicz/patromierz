@@ -34,5 +34,3 @@ permalink: /MarianczelloDominoni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MarianczelloDominoni"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

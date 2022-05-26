@@ -34,5 +34,3 @@ permalink: /truxmap
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["truxmap"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

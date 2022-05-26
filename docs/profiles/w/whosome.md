@@ -34,5 +34,3 @@ permalink: /whosome
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["whosome"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /glowadogory_podcast
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["glowadogory_podcast"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

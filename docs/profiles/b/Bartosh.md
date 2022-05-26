@@ -34,5 +34,3 @@ permalink: /Bartosh
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Bartosh"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

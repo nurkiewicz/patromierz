@@ -34,5 +34,3 @@ permalink: /Hubal.Pientaszek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Hubal.Pientaszek"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

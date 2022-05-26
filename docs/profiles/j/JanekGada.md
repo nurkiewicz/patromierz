@@ -34,5 +34,3 @@ permalink: /JanekGada
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JanekGada"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /www.fairracing.com.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["www.fairracing.com.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

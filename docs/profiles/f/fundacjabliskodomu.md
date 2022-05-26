@@ -34,5 +34,3 @@ permalink: /fundacjabliskodomu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjabliskodomu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

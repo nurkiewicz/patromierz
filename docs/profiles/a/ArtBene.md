@@ -34,5 +34,3 @@ permalink: /ArtBene
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ArtBene"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

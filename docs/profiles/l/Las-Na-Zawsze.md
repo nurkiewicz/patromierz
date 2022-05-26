@@ -34,5 +34,3 @@ permalink: /Las-Na-Zawsze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Las-Na-Zawsze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

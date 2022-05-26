@@ -34,5 +34,3 @@ permalink: /achodzzenapole
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["achodzzenapole"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

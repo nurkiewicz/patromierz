@@ -34,5 +34,3 @@ permalink: /StopChamWarszawa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StopChamWarszawa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

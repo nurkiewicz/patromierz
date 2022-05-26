@@ -34,5 +34,3 @@ permalink: /projektmuzyka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["projektmuzyka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

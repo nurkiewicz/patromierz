@@ -34,5 +34,3 @@ permalink: /romanfanpolszy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["romanfanpolszy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /FishingWithAce
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FishingWithAce"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

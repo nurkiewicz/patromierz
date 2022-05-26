@@ -34,5 +34,3 @@ permalink: /panimonia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["panimonia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

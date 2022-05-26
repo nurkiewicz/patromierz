@@ -34,5 +34,3 @@ permalink: /gitarafan
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gitarafan"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /rotflpg
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["rotflpg"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

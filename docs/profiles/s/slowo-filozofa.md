@@ -34,5 +34,3 @@ permalink: /slowo-filozofa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slowo-filozofa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

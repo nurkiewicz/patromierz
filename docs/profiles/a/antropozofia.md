@@ -34,5 +34,3 @@ permalink: /antropozofia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["antropozofia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

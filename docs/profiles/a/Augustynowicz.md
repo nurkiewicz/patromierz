@@ -34,5 +34,3 @@ permalink: /Augustynowicz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Augustynowicz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

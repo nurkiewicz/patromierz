@@ -34,5 +34,3 @@ permalink: /avozdacapoeira
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["avozdacapoeira"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

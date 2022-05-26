@@ -34,5 +34,3 @@ permalink: /brodate_dzwieki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["brodate_dzwieki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

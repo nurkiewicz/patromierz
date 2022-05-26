@@ -34,5 +34,3 @@ permalink: /Station-Nord
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Station-Nord"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

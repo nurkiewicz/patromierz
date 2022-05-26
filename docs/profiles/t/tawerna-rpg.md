@@ -34,5 +34,3 @@ permalink: /tawerna-rpg
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tawerna-rpg"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

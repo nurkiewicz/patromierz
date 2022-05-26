@@ -34,5 +34,3 @@ permalink: /VIKING
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["VIKING"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

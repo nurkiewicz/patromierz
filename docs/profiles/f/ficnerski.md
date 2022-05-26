@@ -34,5 +34,3 @@ permalink: /ficnerski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ficnerski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ratujemysaabine
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ratujemysaabine"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

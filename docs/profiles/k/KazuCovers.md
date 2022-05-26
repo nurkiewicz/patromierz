@@ -34,5 +34,3 @@ permalink: /KazuCovers
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KazuCovers"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

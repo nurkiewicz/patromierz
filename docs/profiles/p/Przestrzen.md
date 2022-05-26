@@ -34,5 +34,3 @@ permalink: /Przestrzen
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Przestrzen"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

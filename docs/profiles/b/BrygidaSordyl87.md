@@ -34,5 +34,3 @@ permalink: /BrygidaSordyl87
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BrygidaSordyl87"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /harfiarka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["harfiarka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

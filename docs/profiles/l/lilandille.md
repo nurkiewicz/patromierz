@@ -34,5 +34,3 @@ permalink: /lilandille
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lilandille"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Po-Dzielnia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Po-Dzielnia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

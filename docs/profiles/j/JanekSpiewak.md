@@ -34,5 +34,3 @@ permalink: /JanekSpiewak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JanekSpiewak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

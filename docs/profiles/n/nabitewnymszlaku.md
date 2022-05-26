@@ -34,5 +34,3 @@ permalink: /nabitewnymszlaku
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nabitewnymszlaku"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

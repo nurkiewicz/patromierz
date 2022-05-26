@@ -34,5 +34,3 @@ permalink: /MartaKrajewskaAutorka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MartaKrajewskaAutorka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

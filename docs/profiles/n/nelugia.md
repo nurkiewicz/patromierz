@@ -34,5 +34,3 @@ permalink: /nelugia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nelugia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

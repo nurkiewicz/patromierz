@@ -34,5 +34,3 @@ permalink: /blaugranapl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["blaugranapl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

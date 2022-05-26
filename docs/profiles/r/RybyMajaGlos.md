@@ -34,5 +34,3 @@ permalink: /RybyMajaGlos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RybyMajaGlos"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

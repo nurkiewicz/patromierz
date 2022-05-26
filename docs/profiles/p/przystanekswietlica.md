@@ -34,5 +34,3 @@ permalink: /przystanekswietlica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przystanekswietlica"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

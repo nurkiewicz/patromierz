@@ -34,5 +34,3 @@ permalink: /zyciebezstresu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zyciebezstresu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

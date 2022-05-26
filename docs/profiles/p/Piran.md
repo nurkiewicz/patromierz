@@ -34,5 +34,3 @@ permalink: /Piran
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Piran"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /zbigniewsyc-sztuki-walki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zbigniewsyc-sztuki-walki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

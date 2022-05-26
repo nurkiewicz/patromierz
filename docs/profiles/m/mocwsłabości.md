@@ -34,5 +34,3 @@ permalink: /mocwsłabości
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mocwsłabości"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

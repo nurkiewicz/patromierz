@@ -34,5 +34,3 @@ permalink: /michalczejgis
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["michalczejgis"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /napisacwschod
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["napisacwschod"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

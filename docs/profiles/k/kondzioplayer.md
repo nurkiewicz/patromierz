@@ -34,5 +34,3 @@ permalink: /kondzioplayer
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kondzioplayer"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

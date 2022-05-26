@@ -34,5 +34,3 @@ permalink: /tomaszjezewski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["tomaszjezewski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /metanoia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["metanoia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

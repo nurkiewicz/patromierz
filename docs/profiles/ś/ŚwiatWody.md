@@ -34,5 +34,3 @@ permalink: /ŚwiatWody
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ŚwiatWody"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

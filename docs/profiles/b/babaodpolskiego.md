@@ -34,5 +34,3 @@ permalink: /babaodpolskiego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["babaodpolskiego"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /prepostevolution
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["prepostevolution"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

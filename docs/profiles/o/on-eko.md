@@ -34,5 +34,3 @@ permalink: /on-eko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["on-eko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

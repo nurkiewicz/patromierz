@@ -34,5 +34,3 @@ permalink: /grycharytatywne
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["grycharytatywne"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

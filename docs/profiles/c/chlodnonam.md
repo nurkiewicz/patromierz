@@ -34,5 +34,3 @@ permalink: /chlodnonam
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["chlodnonam"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

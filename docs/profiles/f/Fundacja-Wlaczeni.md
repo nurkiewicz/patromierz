@@ -34,5 +34,3 @@ permalink: /Fundacja-Wlaczeni
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fundacja-Wlaczeni"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

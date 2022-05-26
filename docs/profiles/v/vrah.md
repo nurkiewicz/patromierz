@@ -34,5 +34,3 @@ permalink: /vrah
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vrah"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

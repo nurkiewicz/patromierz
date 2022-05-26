@@ -34,5 +34,3 @@ permalink: /medievalheritage
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["medievalheritage"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

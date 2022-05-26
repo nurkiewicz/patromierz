@@ -34,5 +34,3 @@ permalink: /NauczSieGrac
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NauczSieGrac"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

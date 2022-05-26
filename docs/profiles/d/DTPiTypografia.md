@@ -34,5 +34,3 @@ permalink: /DTPiTypografia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DTPiTypografia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

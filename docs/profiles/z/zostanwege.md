@@ -34,5 +34,3 @@ permalink: /zostanwege
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zostanwege"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

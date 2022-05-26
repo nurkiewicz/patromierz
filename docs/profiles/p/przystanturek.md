@@ -34,5 +34,3 @@ permalink: /przystanturek
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["przystanturek"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

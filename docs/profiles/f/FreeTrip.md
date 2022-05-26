@@ -34,5 +34,3 @@ permalink: /FreeTrip
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FreeTrip"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

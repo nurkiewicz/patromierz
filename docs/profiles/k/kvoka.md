@@ -34,5 +34,3 @@ permalink: /kvoka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kvoka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

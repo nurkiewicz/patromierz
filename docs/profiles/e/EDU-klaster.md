@@ -34,5 +34,3 @@ permalink: /EDU-klaster
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["EDU-klaster"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

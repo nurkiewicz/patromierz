@@ -34,5 +34,3 @@ permalink: /yorika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["yorika"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

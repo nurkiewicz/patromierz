@@ -34,5 +34,3 @@ permalink: /gospodarpg
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gospodarpg"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

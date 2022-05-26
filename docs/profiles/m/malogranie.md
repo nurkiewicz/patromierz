@@ -34,5 +34,3 @@ permalink: /malogranie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["malogranie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

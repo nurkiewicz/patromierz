@@ -34,5 +34,3 @@ permalink: /blizejzwierzat
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["blizejzwierzat"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

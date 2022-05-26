@@ -34,5 +34,3 @@ permalink: /inwestowanie20
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["inwestowanie20"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

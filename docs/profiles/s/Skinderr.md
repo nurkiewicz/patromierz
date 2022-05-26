@@ -34,5 +34,3 @@ permalink: /Skinderr
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Skinderr"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

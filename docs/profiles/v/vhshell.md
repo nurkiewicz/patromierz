@@ -34,5 +34,3 @@ permalink: /vhshell
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["vhshell"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Cronica
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Cronica"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

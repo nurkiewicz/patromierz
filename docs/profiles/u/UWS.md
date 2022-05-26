@@ -34,5 +34,3 @@ permalink: /UWS
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["UWS"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Python
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Python"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

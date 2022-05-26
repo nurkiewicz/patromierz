@@ -34,5 +34,3 @@ permalink: /StudioPaulinianumJasnaGora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StudioPaulinianumJasnaGora"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

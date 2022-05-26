@@ -34,5 +34,3 @@ permalink: /gprla
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gprla"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

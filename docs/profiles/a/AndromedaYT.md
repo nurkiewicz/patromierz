@@ -34,5 +34,3 @@ permalink: /AndromedaYT
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AndromedaYT"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

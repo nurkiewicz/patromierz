@@ -34,5 +34,3 @@ permalink: /eliash
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eliash"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

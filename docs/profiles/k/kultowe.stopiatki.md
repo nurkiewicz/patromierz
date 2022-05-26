@@ -34,5 +34,3 @@ permalink: /kultowe.stopiatki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kultowe.stopiatki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

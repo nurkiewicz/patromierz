@@ -34,5 +34,3 @@ permalink: /Fundacja-Joachima-Lelewela
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Fundacja-Joachima-Lelewela"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

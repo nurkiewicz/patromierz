@@ -34,5 +34,3 @@ permalink: /overdrive
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["overdrive"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

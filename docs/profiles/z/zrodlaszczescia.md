@@ -34,5 +34,3 @@ permalink: /zrodlaszczescia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zrodlaszczescia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

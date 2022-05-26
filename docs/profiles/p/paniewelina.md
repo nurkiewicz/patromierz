@@ -34,5 +34,3 @@ permalink: /paniewelina
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["paniewelina"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /annamaruszeczko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["annamaruszeczko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

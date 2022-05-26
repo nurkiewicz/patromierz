@@ -34,5 +34,3 @@ permalink: /kalkulator-gieldowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kalkulator-gieldowy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

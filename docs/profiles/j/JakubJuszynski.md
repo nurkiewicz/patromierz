@@ -34,5 +34,3 @@ permalink: /JakubJuszynski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JakubJuszynski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

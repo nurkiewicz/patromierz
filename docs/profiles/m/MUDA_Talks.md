@@ -34,5 +34,3 @@ permalink: /MUDA_Talks
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MUDA_Talks"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

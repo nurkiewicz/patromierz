@@ -34,5 +34,3 @@ permalink: /nomada
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nomada"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /fundacja-weblex
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja-weblex"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /drzewo-zycia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drzewo-zycia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

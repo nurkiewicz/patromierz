@@ -34,5 +34,3 @@ permalink: /profideadlakobiet
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["profideadlakobiet"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

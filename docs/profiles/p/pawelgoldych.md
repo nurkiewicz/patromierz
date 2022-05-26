@@ -34,5 +34,3 @@ permalink: /pawelgoldych
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pawelgoldych"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

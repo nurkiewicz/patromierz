@@ -34,5 +34,3 @@ permalink: /fundacjakapucynska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjakapucynska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

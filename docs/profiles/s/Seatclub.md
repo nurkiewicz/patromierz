@@ -34,5 +34,3 @@ permalink: /Seatclub
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Seatclub"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

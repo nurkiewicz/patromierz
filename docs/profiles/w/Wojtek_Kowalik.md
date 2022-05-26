@@ -34,5 +34,3 @@ permalink: /Wojtek_Kowalik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Wojtek_Kowalik"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /zyciewartejestrozmowy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zyciewartejestrozmowy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

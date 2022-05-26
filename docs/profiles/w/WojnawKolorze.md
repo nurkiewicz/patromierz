@@ -34,5 +34,3 @@ permalink: /WojnawKolorze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["WojnawKolorze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

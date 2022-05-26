@@ -34,5 +34,3 @@ permalink: /film_trismegistos
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["film_trismegistos"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /MarcinMizgalski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MarcinMizgalski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /simekrysuje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["simekrysuje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /ambasada
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ambasada"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

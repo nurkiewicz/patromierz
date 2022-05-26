@@ -34,5 +34,3 @@ permalink: /bocianprzynosi
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bocianprzynosi"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

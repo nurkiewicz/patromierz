@@ -34,5 +34,3 @@ permalink: /HEra
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HEra"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

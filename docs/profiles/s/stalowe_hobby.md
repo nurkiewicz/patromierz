@@ -34,5 +34,3 @@ permalink: /stalowe_hobby
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stalowe_hobby"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

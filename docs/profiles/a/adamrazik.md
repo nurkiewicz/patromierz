@@ -34,5 +34,3 @@ permalink: /adamrazik
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["adamrazik"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

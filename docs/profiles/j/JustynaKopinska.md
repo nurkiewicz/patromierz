@@ -34,5 +34,3 @@ permalink: /JustynaKopinska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["JustynaKopinska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

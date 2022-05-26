@@ -34,5 +34,3 @@ permalink: /KMSzczecin
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KMSzczecin"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

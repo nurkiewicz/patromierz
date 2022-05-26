@@ -34,5 +34,3 @@ permalink: /kwestiakultury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kwestiakultury"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /cech-optykow-w-warszawie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cech-optykow-w-warszawie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

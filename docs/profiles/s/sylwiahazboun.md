@@ -34,5 +34,3 @@ permalink: /sylwiahazboun
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sylwiahazboun"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

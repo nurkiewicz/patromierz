@@ -34,5 +34,3 @@ permalink: /amberisosom
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["amberisosom"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

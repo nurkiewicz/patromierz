@@ -34,5 +34,3 @@ permalink: /autor-bartosz-brzezinski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["autor-bartosz-brzezinski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

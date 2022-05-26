@@ -34,5 +34,3 @@ permalink: /gamemusic
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gamemusic"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

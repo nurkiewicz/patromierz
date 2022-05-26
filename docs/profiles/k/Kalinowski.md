@@ -34,5 +34,3 @@ permalink: /Kalinowski
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Kalinowski"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

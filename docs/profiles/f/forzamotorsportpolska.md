@@ -34,5 +34,3 @@ permalink: /forzamotorsportpolska
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["forzamotorsportpolska"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

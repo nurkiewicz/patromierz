@@ -34,5 +34,3 @@ permalink: /ptasiastrefa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ptasiastrefa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

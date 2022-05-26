@@ -34,5 +34,3 @@ permalink: /skatehistoria
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["skatehistoria"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

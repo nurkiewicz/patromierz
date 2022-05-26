@@ -34,5 +34,3 @@ permalink: /NieMaLekko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NieMaLekko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

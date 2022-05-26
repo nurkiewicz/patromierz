@@ -34,5 +34,3 @@ permalink: /gildiapiora
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["gildiapiora"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

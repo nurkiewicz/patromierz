@@ -34,5 +34,3 @@ permalink: /odkrywcy
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["odkrywcy"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

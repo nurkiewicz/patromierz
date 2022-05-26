@@ -34,5 +34,3 @@ permalink: /DIOZ
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["DIOZ"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

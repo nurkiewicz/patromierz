@@ -34,5 +34,3 @@ permalink: /slimak
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slimak"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

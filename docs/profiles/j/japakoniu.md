@@ -34,5 +34,3 @@ permalink: /japakoniu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["japakoniu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

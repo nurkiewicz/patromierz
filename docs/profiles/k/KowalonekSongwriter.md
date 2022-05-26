@@ -34,5 +34,3 @@ permalink: /KowalonekSongwriter
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KowalonekSongwriter"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

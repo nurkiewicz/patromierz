@@ -34,5 +34,3 @@ permalink: /ajkaminimalistka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ajkaminimalistka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

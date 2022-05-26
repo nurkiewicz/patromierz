@@ -34,5 +34,3 @@ permalink: /bajanienascianie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["bajanienascianie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

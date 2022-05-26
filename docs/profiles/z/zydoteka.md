@@ -34,5 +34,3 @@ permalink: /zydoteka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["zydoteka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

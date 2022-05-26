@@ -34,5 +34,3 @@ permalink: /RejsDookolaSwiata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["RejsDookolaSwiata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

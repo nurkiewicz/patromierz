@@ -34,5 +34,3 @@ permalink: /baumgartner.store
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["baumgartner.store"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

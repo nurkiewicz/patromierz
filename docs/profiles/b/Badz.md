@@ -34,5 +34,3 @@ permalink: /Badz
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Badz"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

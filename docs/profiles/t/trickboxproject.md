@@ -34,5 +34,3 @@ permalink: /trickboxproject
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["trickboxproject"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /posluchajoanarchizmie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["posluchajoanarchizmie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

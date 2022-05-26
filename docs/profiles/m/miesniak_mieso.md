@@ -34,5 +34,3 @@ permalink: /miesniak_mieso
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["miesniak_mieso"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

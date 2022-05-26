@@ -34,5 +34,3 @@ permalink: /MieszkoKomiks
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MieszkoKomiks"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

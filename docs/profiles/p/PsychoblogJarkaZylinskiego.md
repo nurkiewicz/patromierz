@@ -34,5 +34,3 @@ permalink: /PsychoblogJarkaZylinskiego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["PsychoblogJarkaZylinskiego"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

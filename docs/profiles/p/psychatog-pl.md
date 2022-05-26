@@ -34,5 +34,3 @@ permalink: /psychatog-pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["psychatog-pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

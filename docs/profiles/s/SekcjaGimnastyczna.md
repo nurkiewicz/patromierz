@@ -34,5 +34,3 @@ permalink: /SekcjaGimnastyczna
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SekcjaGimnastyczna"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

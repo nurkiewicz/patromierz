@@ -34,5 +34,3 @@ permalink: /ksol
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ksol"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

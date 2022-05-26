@@ -34,5 +34,3 @@ permalink: /2plus4
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["2plus4"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

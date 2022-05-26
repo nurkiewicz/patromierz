@@ -34,5 +34,3 @@ permalink: /kontynenty
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kontynenty"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

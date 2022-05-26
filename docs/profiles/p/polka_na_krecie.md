@@ -34,5 +34,3 @@ permalink: /polka_na_krecie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["polka_na_krecie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /kryminalnaskandynawia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kryminalnaskandynawia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

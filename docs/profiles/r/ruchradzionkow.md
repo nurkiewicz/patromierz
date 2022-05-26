@@ -34,5 +34,3 @@ permalink: /ruchradzionkow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ruchradzionkow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /timetravelbee
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["timetravelbee"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

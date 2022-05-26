@@ -34,5 +34,3 @@ permalink: /queerstorie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["queerstorie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

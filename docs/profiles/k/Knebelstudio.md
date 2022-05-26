@@ -34,5 +34,3 @@ permalink: /Knebelstudio
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Knebelstudio"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

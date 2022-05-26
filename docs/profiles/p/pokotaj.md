@@ -34,5 +34,3 @@ permalink: /pokotaj
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pokotaj"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

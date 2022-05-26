@@ -34,5 +34,3 @@ permalink: /OKK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OKK"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

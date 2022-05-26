@@ -34,5 +34,3 @@ permalink: /maszynista-eu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["maszynista-eu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

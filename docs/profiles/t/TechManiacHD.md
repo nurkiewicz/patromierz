@@ -34,5 +34,3 @@ permalink: /TechManiacHD
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TechManiacHD"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

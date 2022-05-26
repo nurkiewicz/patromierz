@@ -34,5 +34,3 @@ permalink: /poland-rebuilding
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["poland-rebuilding"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

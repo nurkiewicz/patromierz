@@ -34,5 +34,3 @@ permalink: /nowakonfederacja
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nowakonfederacja"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

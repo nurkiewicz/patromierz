@@ -34,5 +34,3 @@ permalink: /nanowosmieci
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nanowosmieci"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

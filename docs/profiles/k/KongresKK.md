@@ -34,5 +34,3 @@ permalink: /KongresKK
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KongresKK"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

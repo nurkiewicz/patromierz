@@ -34,5 +34,3 @@ permalink: /taegozen.pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["taegozen.pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

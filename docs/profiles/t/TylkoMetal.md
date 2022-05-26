@@ -34,5 +34,3 @@ permalink: /TylkoMetal
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TylkoMetal"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

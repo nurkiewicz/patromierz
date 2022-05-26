@@ -34,5 +34,3 @@ permalink: /fundacjatotatua
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacjatotatua"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

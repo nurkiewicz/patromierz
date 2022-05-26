@@ -34,5 +34,3 @@ permalink: /swider
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["swider"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

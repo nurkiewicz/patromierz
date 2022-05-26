@@ -34,5 +34,3 @@ permalink: /znokautujbukmachera
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["znokautujbukmachera"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

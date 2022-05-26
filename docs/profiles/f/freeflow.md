@@ -34,5 +34,3 @@ permalink: /freeflow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["freeflow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /goroholiczka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["goroholiczka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

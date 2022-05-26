@@ -34,5 +34,3 @@ permalink: /Piotr-Wierzbick-zdjecia-lepsze
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Piotr-Wierzbick-zdjecia-lepsze"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

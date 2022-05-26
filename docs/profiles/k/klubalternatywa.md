@@ -34,5 +34,3 @@ permalink: /klubalternatywa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["klubalternatywa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /TruckmechanicfromPoland
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["TruckmechanicfromPoland"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

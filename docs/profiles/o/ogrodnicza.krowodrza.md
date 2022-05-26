@@ -34,5 +34,3 @@ permalink: /ogrodnicza.krowodrza
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ogrodnicza.krowodrza"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

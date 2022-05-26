@@ -34,5 +34,3 @@ permalink: /Zeszyt_do_polskiego
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Zeszyt_do_polskiego"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /jandziekonskionieruchomosciach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jandziekonskionieruchomosciach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

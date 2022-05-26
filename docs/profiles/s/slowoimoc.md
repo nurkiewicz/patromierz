@@ -34,5 +34,3 @@ permalink: /slowoimoc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["slowoimoc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

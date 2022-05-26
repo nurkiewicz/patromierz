@@ -34,5 +34,3 @@ permalink: /FucksFashion
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["FucksFashion"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /OmnisArma
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["OmnisArma"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

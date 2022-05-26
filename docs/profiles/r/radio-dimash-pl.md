@@ -34,5 +34,3 @@ permalink: /radio-dimash-pl
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["radio-dimash-pl"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

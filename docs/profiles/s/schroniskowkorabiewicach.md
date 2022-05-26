@@ -34,5 +34,3 @@ permalink: /schroniskowkorabiewicach
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["schroniskowkorabiewicach"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

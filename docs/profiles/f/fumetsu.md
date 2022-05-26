@@ -34,5 +34,3 @@ permalink: /fumetsu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fumetsu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

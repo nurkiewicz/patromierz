@@ -34,5 +34,3 @@ permalink: /Marcinowe_Recenzje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Marcinowe_Recenzje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

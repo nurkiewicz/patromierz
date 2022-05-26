@@ -34,5 +34,3 @@ permalink: /fundacja-savchenko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["fundacja-savchenko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

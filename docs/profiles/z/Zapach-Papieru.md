@@ -34,5 +34,3 @@ permalink: /Zapach-Papieru
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Zapach-Papieru"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

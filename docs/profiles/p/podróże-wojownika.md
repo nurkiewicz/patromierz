@@ -34,5 +34,3 @@ permalink: /podróże-wojownika
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["podróże-wojownika"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

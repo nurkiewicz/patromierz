@@ -34,5 +34,3 @@ permalink: /okonski-art
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["okonski-art"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

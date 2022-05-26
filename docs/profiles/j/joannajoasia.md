@@ -34,5 +34,3 @@ permalink: /joannajoasia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["joannajoasia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

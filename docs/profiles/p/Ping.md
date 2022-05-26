@@ -34,5 +34,3 @@ permalink: /Ping
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Ping"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

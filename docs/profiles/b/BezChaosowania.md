@@ -34,5 +34,3 @@ permalink: /BezChaosowania
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["BezChaosowania"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

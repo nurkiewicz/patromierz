@@ -34,5 +34,3 @@ permalink: /iSAP
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["iSAP"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

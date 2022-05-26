@@ -34,5 +34,3 @@ permalink: /SmartDartsTraining
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["SmartDartsTraining"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

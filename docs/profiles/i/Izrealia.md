@@ -34,5 +34,3 @@ permalink: /Izrealia
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Izrealia"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

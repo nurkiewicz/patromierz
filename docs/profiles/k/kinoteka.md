@@ -34,5 +34,3 @@ permalink: /kinoteka
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kinoteka"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

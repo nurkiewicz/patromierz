@@ -34,5 +34,3 @@ permalink: /eunomia.astrology
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["eunomia.astrology"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /LigaSuperbohaterow
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["LigaSuperbohaterow"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

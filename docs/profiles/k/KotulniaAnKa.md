@@ -34,5 +34,3 @@ permalink: /KotulniaAnKa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["KotulniaAnKa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

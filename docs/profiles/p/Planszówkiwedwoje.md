@@ -34,5 +34,3 @@ permalink: /Planszówkiwedwoje
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Planszówkiwedwoje"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

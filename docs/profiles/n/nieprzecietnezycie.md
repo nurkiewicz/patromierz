@@ -34,5 +34,3 @@ permalink: /nieprzecietnezycie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["nieprzecietnezycie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /Białogród
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Białogród"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

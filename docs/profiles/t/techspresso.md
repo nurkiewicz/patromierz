@@ -34,5 +34,3 @@ permalink: /techspresso
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["techspresso"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

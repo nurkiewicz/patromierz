@@ -34,5 +34,3 @@ permalink: /Mileobrazki
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Mileobrazki"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

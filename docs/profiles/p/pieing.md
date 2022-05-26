@@ -34,5 +34,3 @@ permalink: /pieing
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pieing"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

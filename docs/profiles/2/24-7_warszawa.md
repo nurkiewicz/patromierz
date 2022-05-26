@@ -34,5 +34,3 @@ permalink: /24-7_warszawa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["24-7_warszawa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /sieciowisko
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["sieciowisko"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

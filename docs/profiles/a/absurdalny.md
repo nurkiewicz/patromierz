@@ -34,5 +34,3 @@ permalink: /absurdalny
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["absurdalny"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

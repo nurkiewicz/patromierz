@@ -34,5 +34,3 @@ permalink: /egitarzystatv
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["egitarzystatv"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

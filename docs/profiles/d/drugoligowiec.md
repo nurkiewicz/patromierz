@@ -34,5 +34,3 @@ permalink: /drugoligowiec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["drugoligowiec"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

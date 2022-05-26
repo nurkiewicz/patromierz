@@ -34,5 +34,3 @@ permalink: /mazanova
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["mazanova"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

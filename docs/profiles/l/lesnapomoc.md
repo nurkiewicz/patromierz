@@ -34,5 +34,3 @@ permalink: /lesnapomoc
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["lesnapomoc"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

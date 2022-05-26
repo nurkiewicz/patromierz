@@ -34,5 +34,3 @@ permalink: /AgaVibesASMR
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["AgaVibesASMR"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

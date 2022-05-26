@@ -34,5 +34,3 @@ permalink: /NiepokalanejApologetyk
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["NiepokalanejApologetyk"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

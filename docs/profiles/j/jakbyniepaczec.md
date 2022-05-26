@@ -34,5 +34,3 @@ permalink: /jakbyniepaczec
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jakbyniepaczec"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

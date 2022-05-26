@@ -34,5 +34,3 @@ permalink: /ChwytyDozwolone
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ChwytyDozwolone"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

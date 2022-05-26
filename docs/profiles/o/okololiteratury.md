@@ -34,5 +34,3 @@ permalink: /okololiteratury
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["okololiteratury"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

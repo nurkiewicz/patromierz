@@ -34,5 +34,3 @@ permalink: /cosnaa
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["cosnaa"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

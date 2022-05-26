@@ -34,5 +34,3 @@ permalink: /kosmiczny-szaman
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kosmiczny-szaman"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /StrefaKonfliktu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["StrefaKonfliktu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

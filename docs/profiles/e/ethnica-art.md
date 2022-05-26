@@ -34,5 +34,3 @@ permalink: /ethnica-art
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["ethnica-art"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

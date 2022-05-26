@@ -34,5 +34,3 @@ permalink: /Art43-salezjanie
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["Art43-salezjanie"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

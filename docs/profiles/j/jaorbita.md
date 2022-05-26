@@ -34,5 +34,3 @@ permalink: /jaorbita
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["jaorbita"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

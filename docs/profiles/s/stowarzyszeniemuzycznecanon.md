@@ -34,5 +34,3 @@ permalink: /stowarzyszeniemuzycznecanon
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["stowarzyszeniemuzycznecanon"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

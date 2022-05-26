@@ -34,5 +34,3 @@ permalink: /pchamdoprzodu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["pchamdoprzodu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

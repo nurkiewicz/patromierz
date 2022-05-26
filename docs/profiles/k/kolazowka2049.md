@@ -34,5 +34,3 @@ permalink: /kolazowka2049
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kolazowka2049"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

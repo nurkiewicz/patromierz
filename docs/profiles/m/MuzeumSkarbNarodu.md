@@ -34,5 +34,3 @@ permalink: /MuzeumSkarbNarodu
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["MuzeumSkarbNarodu"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

@@ -34,5 +34,3 @@ permalink: /brzmienie-swiata
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["brzmienie-swiata"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

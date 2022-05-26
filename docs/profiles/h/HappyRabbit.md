@@ -34,5 +34,3 @@ permalink: /HappyRabbit
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["HappyRabbit"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.

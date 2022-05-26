@@ -34,5 +34,3 @@ permalink: /kochamdziwnekino
 <script type="text/javascript">
     window.onload = () => drawCharts(profiles["kochamdziwnekino"]);
 </script>
-
-Ostatnia aktualizacja: {{ "now" | date: "%Y-%m-%d %H:%M" }}.
