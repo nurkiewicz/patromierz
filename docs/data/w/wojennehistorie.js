@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["wojennehistorie"] = [
+	[1653715341,100,2,50.0,120,null],
+	[1653801627,120,3,40.0,140,null],
+	[1653887899,120,3,40.0,140,null],
+];
