@@ -55,4 +55,7 @@ profiles["arturgalaktyka"] = [
 	[1653705253,10,1,10.0,10,null],
 	[1653791498,10,1,10.0,10,null],
 	[1653877927,10,null,null,10,null],
+	[1653964332,10,null,null,10,null],
+	[1654051041,10,null,null,10,null],
+	[1654137174,10,null,null,10,null],
 ];
