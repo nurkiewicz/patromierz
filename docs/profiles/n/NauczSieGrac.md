@@ -7,7 +7,7 @@ permalink: /NauczSieGrac
 <script type="text/javascript" src="data/n/NauczSieGrac.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Naucz sie grac](https://patronite.pl/NauczSieGrac)
+# [Naucz się grać](https://patronite.pl/NauczSieGrac)
 
 ## Miesięczne wsparcie
 

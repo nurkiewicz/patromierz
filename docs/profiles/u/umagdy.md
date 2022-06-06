@@ -7,7 +7,7 @@ permalink: /umagdy
 <script type="text/javascript" src="data/u/umagdy.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Tymczasem u Magdy](https://patronite.pl/umagdy)
+# [Fundacja "Tymczasem u Magdy"](https://patronite.pl/umagdy)
 
 ## Miesięczne wsparcie
 
