@@ -7,7 +7,7 @@ permalink: /AgataTV
 <script type="text/javascript" src="data/a/AgataTV.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Agata](https://patronite.pl/AgataTV)
+# [Agata Jung](https://patronite.pl/AgataTV)
 
 ## Miesięczne wsparcie
 
