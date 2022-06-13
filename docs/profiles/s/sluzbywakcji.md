@@ -7,7 +7,7 @@ permalink: /sluzbywakcji
 <script type="text/javascript" src="data/s/sluzbywakcji.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Służby  w akcji](https://patronite.pl/sluzbywakcji)
+# [Służby w akcji](https://patronite.pl/sluzbywakcji)
 
 ## Miesięczne wsparcie
 
