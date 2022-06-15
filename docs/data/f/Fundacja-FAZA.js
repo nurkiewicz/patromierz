@@ -138,4 +138,6 @@ profiles["Fundacja-FAZA"] = [
 	[1654909999,null,1,null,280,null],
 	[1654996417,null,1,null,280,null],
 	[1655082887,null,1,null,280,null],
+	[1655169249,null,1,null,280,null],
+	[1655255858,null,1,null,280,null],
 ];

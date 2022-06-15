@@ -132,4 +132,6 @@ profiles["NiepokalanejApologetyk"] = [
 	[1654911981,100,1,100.0,5795,null],
 	[1654998419,100,null,null,5795,null],
 	[1655084893,100,null,null,5795,null],
+	[1655171217,100,null,null,5795,null],
+	[1655257853,100,null,null,5795,null],
 ];

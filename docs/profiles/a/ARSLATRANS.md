@@ -7,7 +7,7 @@ permalink: /ARSLATRANS
 <script type="text/javascript" src="data/a/ARSLATRANS.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [ARS  LATRANS](https://patronite.pl/ARSLATRANS)
+# [ARS LATRANS](https://patronite.pl/ARSLATRANS)
 
 ## Miesięczne wsparcie
 

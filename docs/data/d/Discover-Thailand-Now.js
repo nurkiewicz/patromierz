@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Discover-Thailand-Now"] = [
+	[1620345600,10,1,10.0,30,null],
 	[1643360724,null,null,null,50,null],
 	[1643434792,null,null,null,50,null],
 	[1643517300,null,null,null,50,null],
@@ -138,4 +139,6 @@ profiles["Discover-Thailand-Now"] = [
 	[1654909564,50,3,16.66,210,null],
 	[1654995977,50,3,16.66,210,null],
 	[1655082450,30,3,10.0,210,-1.0],
+	[1655168815,30,3,10.0,210,-1.0],
+	[1655255423,30,2,15.0,210,-1.0],
 ];

@@ -7,7 +7,7 @@ permalink: /Kropka308
 <script type="text/javascript" src="data/k/Kropka308.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-# [Kropka308](https://patronite.pl/Kropka308)
+# [Profil dalej nieczynny](https://patronite.pl/Kropka308)
 
 ## Miesięczne wsparcie
 
