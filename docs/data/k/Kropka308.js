@@ -140,4 +140,9 @@ profiles["Kropka308"] = [
 	[1655083909,null,1,null,1594,null],
 	[1655170254,null,1,null,1594,null],
 	[1655256877,null,1,null,1594,null],
+	[1655343162,null,1,null,1594,null],
+	[1655429426,null,1,null,1594,null],
+	[1655515858,null,1,null,1594,null],
+	[1655602312,null,1,null,1594,-18.0],
+	[1655688421,null,1,null,1594,-18.0],
 ];

@@ -1,0 +1,7 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["migaia"] = [
+	[1655438349,21,2,10.5,21,null],
+	[1655524986,21,2,10.5,21,null],
+	[1655611195,21,2,10.5,21,null],
+	[1655697241,21,2,10.5,21,null],
+];

@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["ligowiec"] = [
+	[1655524197,170,12,14.16,291,null],
+	[1655610337,191,13,14.69,312,null],
+	[1655696479,191,13,14.69,312,null],
+];

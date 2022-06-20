@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["MichalWi"] = [
+	[1655516467,10,1,10.0,10,null],
+	[1655602900,10,1,10.0,10,null],
+	[1655689012,10,1,10.0,10,null],
+];

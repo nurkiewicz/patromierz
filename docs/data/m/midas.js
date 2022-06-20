@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["midas"] = [
+	[1655524967,220,2,110.0,250,null],
+	[1655611177,220,2,110.0,250,null],
+	[1655697222,260,4,65.0,290,null],
+];
