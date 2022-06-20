@@ -4,34 +4,6 @@ title: tyskiflesz.pl | Patromierz
 permalink: /sbuturla
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/s/sbuturla.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [tyskiflesz.pl](https://patronite.pl/sbuturla)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["sbuturla"]);
-</script>
+{% include profile.md name="sbuturla" prefix="s" %}

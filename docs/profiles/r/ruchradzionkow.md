@@ -4,34 +4,6 @@ title: "Ruch Radzionk\xF3w | Patromierz"
 permalink: /ruchradzionkow
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Ruch Radzionków](https://patronite.pl/ruchradzionkow)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["ruchradzionkow"]);
-</script>
+{% include profile.md name="ruchradzionkow" prefix="r" %}

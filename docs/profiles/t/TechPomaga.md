@@ -4,34 +4,6 @@ title: Fundacja TechPomaga | Patromierz
 permalink: /TechPomaga
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/t/TechPomaga.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Fundacja TechPomaga](https://patronite.pl/TechPomaga)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["TechPomaga"]);
-</script>
+{% include profile.md name="TechPomaga" prefix="t" %}

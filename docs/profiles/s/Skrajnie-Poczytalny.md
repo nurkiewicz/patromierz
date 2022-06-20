@@ -4,34 +4,6 @@ title: Adrian Kaszuba | Patromierz
 permalink: /Skrajnie-Poczytalny
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/s/Skrajnie-Poczytalny.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Adrian Kaszuba](https://patronite.pl/Skrajnie-Poczytalny)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["Skrajnie-Poczytalny"]);
-</script>
+{% include profile.md name="Skrajnie-Poczytalny" prefix="s" %}

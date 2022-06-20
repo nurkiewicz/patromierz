@@ -4,34 +4,6 @@ title: "Projekt  W Zespole Si\u0142a  | Patromierz"
 permalink: /projektwzepolesila
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/projektwzepolesila.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Projekt  W Zespole Siła ](https://patronite.pl/projektwzepolesila)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["projektwzepolesila"]);
-</script>
+{% include profile.md name="projektwzepolesila" prefix="p" %}

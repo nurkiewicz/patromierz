@@ -4,34 +4,6 @@ title: "Pies moj\u0105 mi\u0142o\u015Bci\u0105  | Patromierz"
 permalink: /piesmojamiloscia
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/piesmojamiloscia.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Pies moją miłością ](https://patronite.pl/piesmojamiloscia)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["piesmojamiloscia"]);
-</script>
+{% include profile.md name="piesmojamiloscia" prefix="p" %}

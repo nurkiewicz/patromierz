@@ -4,34 +4,6 @@ title: "\u015Acie\u017Cka \u0141ucznicza     | Patromierz"
 permalink: /sciezkalucznicza
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/s/sciezkalucznicza.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Ścieżka Łucznicza    ](https://patronite.pl/sciezkalucznicza)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["sciezkalucznicza"]);
-</script>
+{% include profile.md name="sciezkalucznicza" prefix="s" %}

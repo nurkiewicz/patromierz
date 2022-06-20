@@ -4,34 +4,6 @@ title: Resort Komedii | Patromierz
 permalink: /RESORTKOMEDII
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/r/RESORTKOMEDII.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Resort Komedii](https://patronite.pl/RESORTKOMEDII)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["RESORTKOMEDII"]);
-</script>
+{% include profile.md name="RESORTKOMEDII" prefix="r" %}

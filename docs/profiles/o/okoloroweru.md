@@ -4,34 +4,6 @@ title: "Kamil Ariel M\u0105kosza | Patromierz"
 permalink: /okoloroweru
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/o/okoloroweru.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Kamil Ariel Mąkosza](https://patronite.pl/okoloroweru)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["okoloroweru"]);
-</script>
+{% include profile.md name="okoloroweru" prefix="o" %}

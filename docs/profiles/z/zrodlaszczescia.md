@@ -4,34 +4,6 @@ title: "\u0179r\xF3d\u0142a Szcz\u0119\u015Bcia - wed\u0142ug Chmielewskiego | P
 permalink: /zrodlaszczescia
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/z/zrodlaszczescia.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Źródła Szczęścia - według Chmielewskiego](https://patronite.pl/zrodlaszczescia)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["zrodlaszczescia"]);
-</script>
+{% include profile.md name="zrodlaszczescia" prefix="z" %}

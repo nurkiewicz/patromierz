@@ -4,34 +4,6 @@ title: Podcast "Co w tym kosz(yk)u" | Patromierz
 permalink: /nanowosmieci
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/n/nanowosmieci.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Podcast "Co w tym kosz(yk)u"](https://patronite.pl/nanowosmieci)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["nanowosmieci"]);
-</script>
+{% include profile.md name="nanowosmieci" prefix="n" %}

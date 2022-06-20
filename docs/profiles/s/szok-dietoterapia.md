@@ -4,34 +4,6 @@ title: SZOK dietoterapia | Patromierz
 permalink: /szok-dietoterapia
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/s/szok-dietoterapia.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [SZOK dietoterapia](https://patronite.pl/szok-dietoterapia)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["szok-dietoterapia"]);
-</script>
+{% include profile.md name="szok-dietoterapia" prefix="s" %}

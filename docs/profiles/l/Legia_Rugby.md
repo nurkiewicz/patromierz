@@ -4,34 +4,6 @@ title: Legia Rugby | Patromierz
 permalink: /Legia_Rugby
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/l/Legia_Rugby.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Legia Rugby](https://patronite.pl/Legia_Rugby)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["Legia_Rugby"]);
-</script>
+{% include profile.md name="Legia_Rugby" prefix="l" %}

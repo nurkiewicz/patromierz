@@ -4,34 +4,6 @@ title: Karolina Strzelczyk-Weichert ( HEra) | Patromierz
 permalink: /HEra
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/h/HEra.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Karolina Strzelczyk-Weichert ( HEra)](https://patronite.pl/HEra)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["HEra"]);
-</script>
+{% include profile.md name="HEra" prefix="h" %}

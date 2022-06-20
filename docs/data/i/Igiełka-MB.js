@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Igiełka-MB"] = [
+	[1635811200,93,5,18.6,179,null],
 	[1643857097,50,3,16.66,395,null],
 	[1643943517,50,3,16.66,395,null],
 	[1644029911,50,3,16.66,395,null],

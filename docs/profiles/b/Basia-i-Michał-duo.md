@@ -4,34 +4,6 @@ title: "Basia Pospieszalska i Micha\u0142 B\u0105k  | Patromierz"
 permalink: /Basia-i-Michał-duo
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/b/Basia-i-Michał-duo.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Basia Pospieszalska i Michał Bąk ](https://patronite.pl/Basia-i-Michał-duo)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["Basia-i-Michał-duo"]);
-</script>
+{% include profile.md name="Basia-i-Michał-duo" prefix="b" %}

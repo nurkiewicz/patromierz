@@ -4,34 +4,6 @@ title: "Oko\u0144 w sieci | Patromierz"
 permalink: /okonwsieci
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/o/okonwsieci.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Okoń w sieci](https://patronite.pl/okonwsieci)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["okonwsieci"]);
-</script>
+{% include profile.md name="okonwsieci" prefix="o" %}

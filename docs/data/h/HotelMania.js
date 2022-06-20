@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["HotelMania"] = [
+	[1620345600,20,2,10.0,20,null],
 	[1643356097,40,2,20.0,1080,null],
 	[1643430175,40,2,20.0,1080,null],
 	[1643513013,40,2,20.0,1080,null],

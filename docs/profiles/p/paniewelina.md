@@ -4,34 +4,6 @@ title: Pani Ewelina | Patromierz
 permalink: /paniewelina
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/paniewelina.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Pani Ewelina](https://patronite.pl/paniewelina)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["paniewelina"]);
-</script>
+{% include profile.md name="paniewelina" prefix="p" %}

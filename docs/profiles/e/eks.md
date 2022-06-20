@@ -4,34 +4,6 @@ title: "EKS - chrze\u015Bcija\u0144ski przekaz w rapie | Patromierz"
 permalink: /eks
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/e/eks.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [EKS - chrześcijański przekaz w rapie](https://patronite.pl/eks)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["eks"]);
-</script>
+{% include profile.md name="eks" prefix="e" %}

@@ -4,34 +4,6 @@ title: "AKS Z\u0141Y - klub sportowy w modelu spo\u0142eczno\u015Bciowym | Patro
 permalink: /akszly
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/a/akszly.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [AKS ZŁY - klub sportowy w modelu społecznościowym](https://patronite.pl/akszly)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["akszly"]);
-</script>
+{% include profile.md name="akszly" prefix="a" %}

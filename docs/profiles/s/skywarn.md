@@ -4,34 +4,6 @@ title: "Skywarn Polska (Polscy \u0141owcy Burz) | Patromierz"
 permalink: /skywarn
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/s/skywarn.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Skywarn Polska (Polscy Łowcy Burz)](https://patronite.pl/skywarn)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["skywarn"]);
-</script>
+{% include profile.md name="skywarn" prefix="s" %}

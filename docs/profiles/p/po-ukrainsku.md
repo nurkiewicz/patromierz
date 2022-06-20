@@ -5,34 +5,6 @@ title: "Po ukrai\u0144sku - \u041F\u043E-\u0443\u043A\u0440\u0430\u0457\u043D\u0
 permalink: /po-ukrainsku
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/po-ukrainsku.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Po ukraińsku - По-українськи](https://patronite.pl/po-ukrainsku)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["po-ukrainsku"]);
-</script>
+{% include profile.md name="po-ukrainsku" prefix="p" %}

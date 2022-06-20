@@ -4,34 +4,6 @@ title: "ks. Maciej S\u0142y\u017C  | Patromierz"
 permalink: /xmslyz
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/x/xmslyz.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [ks. Maciej Słyż ](https://patronite.pl/xmslyz)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["xmslyz"]);
-</script>
+{% include profile.md name="xmslyz" prefix="x" %}

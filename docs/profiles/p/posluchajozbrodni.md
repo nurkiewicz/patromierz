@@ -4,34 +4,6 @@ title: "Pos\u0142uchaj o Zbrodni/ Z Autopsji | Patromierz"
 permalink: /posluchajozbrodni
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/posluchajozbrodni.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Posłuchaj o Zbrodni/ Z Autopsji](https://patronite.pl/posluchajozbrodni)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["posluchajozbrodni"]);
-</script>
+{% include profile.md name="posluchajozbrodni" prefix="p" %}

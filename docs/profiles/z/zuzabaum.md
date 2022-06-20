@@ -4,34 +4,6 @@ title: ZUZA BAUM | Patromierz
 permalink: /zuzabaum
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/z/zuzabaum.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [ZUZA BAUM](https://patronite.pl/zuzabaum)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["zuzabaum"]);
-</script>
+{% include profile.md name="zuzabaum" prefix="z" %}

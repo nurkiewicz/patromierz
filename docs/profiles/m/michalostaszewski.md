@@ -4,34 +4,6 @@ title: "Micha\u0142 Ostaszewski | Patromierz"
 permalink: /michalostaszewski
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/m/michalostaszewski.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Michał Ostaszewski](https://patronite.pl/michalostaszewski)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["michalostaszewski"]);
-</script>
+{% include profile.md name="michalostaszewski" prefix="m" %}

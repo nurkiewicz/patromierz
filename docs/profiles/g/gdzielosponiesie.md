@@ -4,34 +4,6 @@ title: Gdzie Los Poniesie | Patromierz
 permalink: /gdzielosponiesie
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/g/gdzielosponiesie.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Gdzie Los Poniesie](https://patronite.pl/gdzielosponiesie)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["gdzielosponiesie"]);
-</script>
+{% include profile.md name="gdzielosponiesie" prefix="g" %}

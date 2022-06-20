@@ -4,34 +4,6 @@ title: OcalSiebie | Patromierz
 permalink: /ocalsiebie
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/o/ocalsiebie.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [OcalSiebie](https://patronite.pl/ocalsiebie)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["ocalsiebie"]);
-</script>
+{% include profile.md name="ocalsiebie" prefix="o" %}

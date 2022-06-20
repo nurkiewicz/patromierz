@@ -4,34 +4,6 @@ title: Wioska Kobiet | Patromierz
 permalink: /wioskakobiet
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/w/wioskakobiet.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Wioska Kobiet](https://patronite.pl/wioskakobiet)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["wioskakobiet"]);
-</script>
+{% include profile.md name="wioskakobiet" prefix="w" %}

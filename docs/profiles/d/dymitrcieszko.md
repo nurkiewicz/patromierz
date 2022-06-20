@@ -4,34 +4,6 @@ title: Dymitr Cieszko | Patromierz
 permalink: /dymitrcieszko
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/d/dymitrcieszko.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Dymitr Cieszko](https://patronite.pl/dymitrcieszko)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["dymitrcieszko"]);
-</script>
+{% include profile.md name="dymitrcieszko" prefix="d" %}

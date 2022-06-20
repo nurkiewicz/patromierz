@@ -4,34 +4,6 @@ title: "Nieprzeci\u0119tne \u017Bycie | Patromierz"
 permalink: /nieprzecietnezycie
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/n/nieprzecietnezycie.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Nieprzeciętne Życie](https://patronite.pl/nieprzecietnezycie)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["nieprzecietnezycie"]);
-</script>
+{% include profile.md name="nieprzecietnezycie" prefix="n" %}

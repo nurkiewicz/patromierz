@@ -4,34 +4,6 @@ title: "Czu\u0142e Punkty // Sylwia \"Nikko\" Biernacka  | Patromierz"
 permalink: /czulepunkty
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/c/czulepunkty.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Czułe Punkty // Sylwia "Nikko" Biernacka ](https://patronite.pl/czulepunkty)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["czulepunkty"]);
-</script>
+{% include profile.md name="czulepunkty" prefix="c" %}

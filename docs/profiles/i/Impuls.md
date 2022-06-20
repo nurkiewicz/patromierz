@@ -4,34 +4,6 @@ title: "Salka pr\xF3b - Stowarzyszenie Impuls | Patromierz"
 permalink: /Impuls
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/i/Impuls.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Salka prób - Stowarzyszenie Impuls](https://patronite.pl/Impuls)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["Impuls"]);
-</script>
+{% include profile.md name="Impuls" prefix="i" %}

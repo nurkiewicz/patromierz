@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["BartłomiejPopławski-Leather"] = [
+	[1614902400,70,4,17.5,80,null],
+	[1621209600,150,8,18.75,340,null],
 	[1643855738,120,6,20.0,1630,null],
 	[1643942162,120,6,20.0,1650,null],
 	[1644028547,120,6,20.0,1650,null],

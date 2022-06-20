@@ -4,34 +4,6 @@ title: Z morderstwem im do twarzy | Patromierz
 permalink: /zmorderstwem
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/z/zmorderstwem.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Z morderstwem im do twarzy](https://patronite.pl/zmorderstwem)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["zmorderstwem"]);
-</script>
+{% include profile.md name="zmorderstwem" prefix="z" %}

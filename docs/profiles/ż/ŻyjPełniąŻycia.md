@@ -4,34 +4,6 @@ title: "\u017Byj Pe\u0142ni\u0105 \u017Bycia - Magdalena Wo\u0142ochowicz | Patr
 permalink: /ŻyjPełniąŻycia
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/ż/ŻyjPełniąŻycia.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Żyj Pełnią Życia - Magdalena Wołochowicz](https://patronite.pl/ŻyjPełniąŻycia)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["ŻyjPełniąŻycia"]);
-</script>
+{% include profile.md name="ŻyjPełniąŻycia" prefix="ż" %}

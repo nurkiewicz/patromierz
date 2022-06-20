@@ -4,34 +4,6 @@ title: Maszynista.eu | Patromierz
 permalink: /maszynista-eu
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/m/maszynista-eu.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Maszynista.eu](https://patronite.pl/maszynista-eu)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["maszynista-eu"]);
-</script>
+{% include profile.md name="maszynista-eu" prefix="m" %}

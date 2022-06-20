@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["HistorieNaFaktach"] = [
+	[1618704000,450,17,26.47,3270,null],
 	[1643351444,520,20,26.0,7705,null],
 	[1643435475,520,20,26.0,7755,null],
 	[1643519257,520,20,26.0,7755,null],

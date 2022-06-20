@@ -4,34 +4,6 @@ title: Miejska Partyzantka Ogrodnicza | Patromierz
 permalink: /partyzantka
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/p/partyzantka.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Miejska Partyzantka Ogrodnicza](https://patronite.pl/partyzantka)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["partyzantka"]);
-</script>
+{% include profile.md name="partyzantka" prefix="p" %}

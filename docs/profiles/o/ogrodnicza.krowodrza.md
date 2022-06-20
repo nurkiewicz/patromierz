@@ -4,34 +4,6 @@ title: Ogrodnicza Krowodrza | Patromierz
 permalink: /ogrodnicza.krowodrza
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/o/ogrodnicza.krowodrza.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Ogrodnicza Krowodrza](https://patronite.pl/ogrodnicza.krowodrza)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["ogrodnicza.krowodrza"]);
-</script>
+{% include profile.md name="ogrodnicza.krowodrza" prefix="o" %}

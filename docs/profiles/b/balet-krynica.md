@@ -4,34 +4,6 @@ title: "Krynickie Studio Baletowe im. W\u0142adys\u0142awa Szl\u0119ka | Patromi
 permalink: /balet-krynica
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/b/balet-krynica.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [Krynickie Studio Baletowe im. Władysława Szlęka](https://patronite.pl/balet-krynica)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["balet-krynica"]);
-</script>
+{% include profile.md name="balet-krynica" prefix="b" %}

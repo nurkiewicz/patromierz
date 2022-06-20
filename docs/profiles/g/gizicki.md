@@ -4,34 +4,6 @@ title: "KSI\u0104\u017BKA - \"Wsp\xF3\u0142czesny polski komiks\" | Patromierz"
 permalink: /gizicki
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/g/gizicki.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-
 # [KSIĄŻKA - "Współczesny polski komiks"](https://patronite.pl/gizicki)
 
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-## Wzrost dzienny
-
-<div id="chart_increase" class="chart"></div>
-
-Średnia z 28 dni
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["gizicki"]);
-</script>
+{% include profile.md name="gizicki" prefix="g" %}
