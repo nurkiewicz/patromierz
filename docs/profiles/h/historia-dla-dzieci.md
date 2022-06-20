@@ -1,5 +1,6 @@
 ---
-title: "historia-dla-dzieci | Patromierz"
+title: Piotr Borowski | Patromierz
+
 permalink: /historia-dla-dzieci
 ---
 

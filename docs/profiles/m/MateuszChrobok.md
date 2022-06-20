@@ -1,5 +1,6 @@
 ---
-title: "MateuszChrobok | Patromierz"
+title: Mateusz Chrobok | Patromierz
+
 permalink: /MateuszChrobok
 ---
 

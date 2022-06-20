@@ -1,5 +1,6 @@
 ---
-title: "BarcaFansPL | Patromierz"
+title: BarcaFans.pl | Patromierz
+
 permalink: /BarcaFansPL
 ---
 

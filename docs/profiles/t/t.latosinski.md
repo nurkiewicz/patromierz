@@ -1,5 +1,6 @@
 ---
-title: "t.latosinski | Patromierz"
+title: "Tomasz Latosi\u0144ski | Patromierz"
+
 permalink: /t.latosinski
 ---
 

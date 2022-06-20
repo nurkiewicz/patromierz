@@ -1,5 +1,6 @@
 ---
-title: "SzymonKosek | Patromierz"
+title: Szymon Kosek | Patromierz
+
 permalink: /SzymonKosek
 ---
 

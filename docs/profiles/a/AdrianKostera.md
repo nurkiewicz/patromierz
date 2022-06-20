@@ -1,5 +1,6 @@
 ---
-title: "AdrianKostera | Patromierz"
+title: Adrian Kostera | Patromierz
+
 permalink: /AdrianKostera
 ---
 

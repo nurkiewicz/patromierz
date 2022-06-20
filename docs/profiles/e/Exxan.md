@@ -1,5 +1,6 @@
 ---
-title: "Exxan | Patromierz"
+title: Tomasz Szewczyk | Patromierz
+
 permalink: /Exxan
 ---
 

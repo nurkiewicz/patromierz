@@ -1,5 +1,6 @@
 ---
-title: "flyingbag | Patromierz"
+title: Kira Sukhoboichenko | Patromierz
+
 permalink: /flyingbag
 ---
 

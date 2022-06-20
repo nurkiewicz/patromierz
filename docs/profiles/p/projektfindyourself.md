@@ -1,5 +1,6 @@
 ---
-title: "projektfindyourself | Patromierz"
+title: "Damian Soba\u0144ski | Patromierz"
+
 permalink: /projektfindyourself
 ---
 

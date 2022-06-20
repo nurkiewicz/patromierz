@@ -1,5 +1,6 @@
 ---
-title: "ksiadzzosiedla | Patromierz"
+title: "Ksi\u0105dz z osiedla | Patromierz"
+
 permalink: /ksiadzzosiedla
 ---
 

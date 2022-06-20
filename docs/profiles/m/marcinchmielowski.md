@@ -1,5 +1,6 @@
 ---
-title: "marcinchmielowski | Patromierz"
+title: "Przedsi\u0119biorca idei. Podcast Marcina Chmielowskiego | Patromierz"
+
 permalink: /marcinchmielowski
 ---
 

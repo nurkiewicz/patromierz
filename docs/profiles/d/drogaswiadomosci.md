@@ -1,5 +1,6 @@
 ---
-title: "drogaswiadomosci | Patromierz"
+title: "Droga \u015Awiadomo\u015Bci | Patromierz"
+
 permalink: /drogaswiadomosci
 ---
 

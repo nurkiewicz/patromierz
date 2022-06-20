@@ -1,5 +1,6 @@
 ---
-title: "Sfilmowani | Patromierz"
+title: Sfilmowani | Patromierz
+
 permalink: /Sfilmowani
 ---
 

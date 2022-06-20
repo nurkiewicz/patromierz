@@ -1,5 +1,6 @@
 ---
-title: "langustanapalmie | Patromierz"
+title: Langusta na palmie | Patromierz
+
 permalink: /langustanapalmie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "patrykmatula | Patromierz"
+title: "Patryk Matu\u0142a | Patromierz"
+
 permalink: /patrykmatula
 ---
 

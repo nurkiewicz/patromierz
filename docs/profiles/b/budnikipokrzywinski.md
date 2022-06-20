@@ -1,5 +1,6 @@
 ---
-title: "budnikipokrzywinski | Patromierz"
+title: "Budnik i Pokrzywi\u0144ski | Patromierz"
+
 permalink: /budnikipokrzywinski
 ---
 

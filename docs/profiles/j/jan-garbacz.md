@@ -1,5 +1,6 @@
 ---
-title: "jan-garbacz | Patromierz"
+title: Jan Garbacz | Patromierz
+
 permalink: /jan-garbacz
 ---
 

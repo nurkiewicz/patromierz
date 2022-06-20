@@ -1,5 +1,6 @@
 ---
-title: "Bikedreams | Patromierz"
+title: "Rafa\u0142 Gr\u0119\u017Alikowski | Patromierz"
+
 permalink: /Bikedreams
 ---
 

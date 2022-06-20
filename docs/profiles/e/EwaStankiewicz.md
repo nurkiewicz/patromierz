@@ -1,5 +1,6 @@
 ---
-title: "EwaStankiewicz | Patromierz"
+title: Ewa  Stankiewicz | Patromierz
+
 permalink: /EwaStankiewicz
 ---
 

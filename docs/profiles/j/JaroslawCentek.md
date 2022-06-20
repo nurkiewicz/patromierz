@@ -1,5 +1,6 @@
 ---
-title: "JaroslawCentek | Patromierz"
+title: "Jaros\u0142aw Centek | Patromierz"
+
 permalink: /JaroslawCentek
 ---
 

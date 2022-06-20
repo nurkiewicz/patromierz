@@ -1,5 +1,6 @@
 ---
-title: "forzamotorsportpolska | Patromierz"
+title: Forza Motorsport Polska | Patromierz
+
 permalink: /forzamotorsportpolska
 ---
 

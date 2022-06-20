@@ -1,5 +1,6 @@
 ---
-title: "motowizja | Patromierz"
+title: Motowizja  | Patromierz
+
 permalink: /motowizja
 ---
 

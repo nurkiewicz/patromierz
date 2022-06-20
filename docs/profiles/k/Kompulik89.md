@@ -1,5 +1,6 @@
 ---
-title: "Kompulik89 | Patromierz"
+title: Z ArPiwum X | Patromierz
+
 permalink: /Kompulik89
 ---
 

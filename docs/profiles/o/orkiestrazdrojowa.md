@@ -1,5 +1,6 @@
 ---
-title: "orkiestrazdrojowa | Patromierz"
+title: "Krynicka Orkiestra  Zdrojowa im. Adama Wro\u0144skiego | Patromierz"
+
 permalink: /orkiestrazdrojowa
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "harcapp | Patromierz"
+title: Daniel Iwanicki | Patromierz
+
 permalink: /harcapp
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Fundacja_BLU | Patromierz"
+title: Fundacja B.L.U. | Patromierz
+
 permalink: /Fundacja_BLU
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "projektprzebudzenie | Patromierz"
+title: ' Projekt Przebudzenie | Patromierz'
+
 permalink: /projektprzebudzenie
 ---
 

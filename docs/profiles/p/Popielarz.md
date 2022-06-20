@@ -1,5 +1,6 @@
 ---
-title: "Popielarz | Patromierz"
+title: Wojciech Popielarz | Patromierz
+
 permalink: /Popielarz
 ---
 

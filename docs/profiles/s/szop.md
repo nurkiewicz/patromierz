@@ -1,5 +1,6 @@
 ---
-title: "szop | Patromierz"
+title: SzopDemaskuje | Patromierz
+
 permalink: /szop
 ---
 

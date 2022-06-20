@@ -1,5 +1,6 @@
 ---
-title: "gdzielosponiesie | Patromierz"
+title: Gdzie Los Poniesie | Patromierz
+
 permalink: /gdzielosponiesie
 ---
 

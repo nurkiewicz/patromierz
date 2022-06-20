@@ -1,5 +1,6 @@
 ---
-title: "JustynaKopinska | Patromierz"
+title: "Justyna Kopi\u0144ska | Patromierz"
+
 permalink: /JustynaKopinska
 ---
 

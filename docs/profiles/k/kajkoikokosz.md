@@ -1,5 +1,6 @@
 ---
-title: "kajkoikokosz | Patromierz"
+title: Kajko i Kokosz | Patromierz
+
 permalink: /kajkoikokosz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "halodziewczyny | Patromierz"
+title: Halo, Dziewczyny! | Patromierz
+
 permalink: /halodziewczyny
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "www.widzialne.com.pl | Patromierz"
+title: "Fundacja Widzialne - Zmiana jest Kobiet\u0105 | Patromierz"
+
 permalink: /www.widzialne.com.pl
 ---
 

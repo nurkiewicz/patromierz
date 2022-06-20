@@ -1,5 +1,6 @@
 ---
-title: "strajk | Patromierz"
+title: strajk.eu | Patromierz
+
 permalink: /strajk
 ---
 

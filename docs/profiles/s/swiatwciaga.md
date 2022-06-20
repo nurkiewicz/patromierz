@@ -1,5 +1,6 @@
 ---
-title: "swiatwciaga | Patromierz"
+title: "\u015AWIAT WCI\u0104GA - Wojciech Piestrak | Patromierz"
+
 permalink: /swiatwciaga
 ---
 

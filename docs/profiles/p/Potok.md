@@ -1,5 +1,6 @@
 ---
-title: "Potok | Patromierz"
+title: Potok Drugi Dom Ludzi Rocka | Patromierz
+
 permalink: /Potok
 ---
 

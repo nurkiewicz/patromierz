@@ -1,5 +1,6 @@
 ---
-title: "hecticmagazyn | Patromierz"
+title: Hectic Magazyn | Patromierz
+
 permalink: /hecticmagazyn
 ---
 

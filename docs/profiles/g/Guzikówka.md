@@ -1,5 +1,6 @@
 ---
-title: "Guzikówka | Patromierz"
+title: "Guzik\xF3wka Krosno/Koniczynka Krosno | Patromierz"
+
 permalink: /Guzikówka
 ---
 

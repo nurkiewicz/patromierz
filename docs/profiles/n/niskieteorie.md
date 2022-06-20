@@ -1,5 +1,6 @@
 ---
-title: "niskieteorie | Patromierz"
+title: niskie teorie | Patromierz
+
 permalink: /niskieteorie
 ---
 

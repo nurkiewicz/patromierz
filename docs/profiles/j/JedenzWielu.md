@@ -1,5 +1,6 @@
 ---
-title: "JedenzWielu | Patromierz"
+title: Jeden z Wielu | Patromierz
+
 permalink: /JedenzWielu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Białogród | Patromierz"
+title: "Bia\u0142ogr\xF3d - osada warowna z X w. | Patromierz"
+
 permalink: /Białogród
 ---
 

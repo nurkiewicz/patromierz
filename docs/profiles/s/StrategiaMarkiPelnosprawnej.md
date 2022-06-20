@@ -1,5 +1,6 @@
 ---
-title: "StrategiaMarkiPelnosprawnej | Patromierz"
+title: "Strategia Marki Pe\u0142nosprawnej | Patromierz"
+
 permalink: /StrategiaMarkiPelnosprawnej
 ---
 

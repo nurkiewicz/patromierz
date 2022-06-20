@@ -1,5 +1,6 @@
 ---
-title: "Antycznyblog | Patromierz"
+title: Antyczny.blog | Patromierz
+
 permalink: /Antycznyblog
 ---
 

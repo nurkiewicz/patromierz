@@ -1,5 +1,6 @@
 ---
-title: "InspirowAnka | Patromierz"
+title: Anna Kurtasz/Inspirow.Anka | Patromierz
+
 permalink: /InspirowAnka
 ---
 

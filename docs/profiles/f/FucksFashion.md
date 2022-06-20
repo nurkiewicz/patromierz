@@ -1,5 +1,6 @@
 ---
-title: "FucksFashion | Patromierz"
+title: Aleksandra Miernik | Patromierz
+
 permalink: /FucksFashion
 ---
 

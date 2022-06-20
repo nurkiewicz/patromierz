@@ -1,5 +1,6 @@
 ---
-title: "TomorrowLost | Patromierz"
+title: ToxicTree Studio | Patromierz
+
 permalink: /TomorrowLost
 ---
 

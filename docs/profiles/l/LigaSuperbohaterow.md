@@ -1,5 +1,6 @@
 ---
-title: "LigaSuperbohaterow | Patromierz"
+title: "Liga Superbohater\xF3w | Patromierz"
+
 permalink: /LigaSuperbohaterow
 ---
 

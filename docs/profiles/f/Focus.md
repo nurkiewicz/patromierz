@@ -1,5 +1,6 @@
 ---
-title: "Focus | Patromierz"
+title: Ford Focus MK3 Zetec S | Patromierz
+
 permalink: /Focus
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ratujemysaabine | Patromierz"
+title: RatujemySAABine | Patromierz
+
 permalink: /ratujemysaabine
 ---
 

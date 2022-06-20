@@ -1,5 +1,6 @@
 ---
-title: "kotypodgora | Patromierz"
+title: "Koty pod G\xF3r\u0105 | Patromierz"
+
 permalink: /kotypodgora
 ---
 

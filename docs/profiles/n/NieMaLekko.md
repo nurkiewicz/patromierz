@@ -1,5 +1,6 @@
 ---
-title: "NieMaLekko | Patromierz"
+title: "Nie Ma Lekko Kornel P\u0119ksa | Patromierz"
+
 permalink: /NieMaLekko
 ---
 

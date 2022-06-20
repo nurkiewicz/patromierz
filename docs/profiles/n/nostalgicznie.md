@@ -1,5 +1,6 @@
 ---
-title: "nostalgicznie | Patromierz"
+title: Nasze Radio 92,1 FM... nostalgicznie | Patromierz
+
 permalink: /nostalgicznie
 ---
 

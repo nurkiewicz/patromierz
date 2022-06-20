@@ -1,5 +1,6 @@
 ---
-title: "minecraftdlaasow | Patromierz"
+title: "Minecraft dla As\xF3w | Patromierz"
+
 permalink: /minecraftdlaasow
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "PlanszowniaGrodzisk | Patromierz"
+title: Planszownia Grodzisk | Patromierz
+
 permalink: /PlanszowniaGrodzisk
 ---
 

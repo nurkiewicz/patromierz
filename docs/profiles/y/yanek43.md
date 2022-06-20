@@ -1,5 +1,6 @@
 ---
-title: "yanek43 | Patromierz"
+title: Yanek43 | Patromierz
+
 permalink: /yanek43
 ---
 

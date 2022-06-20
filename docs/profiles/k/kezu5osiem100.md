@@ -1,5 +1,6 @@
 ---
-title: "kezu5osiem100 | Patromierz"
+title: Olaf "KeZu" Osienienko - Projekt Travel Rap | Patromierz
+
 permalink: /kezu5osiem100
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "rozmowyzbozkiem | Patromierz"
+title: "Rozmowy z Bo\u017Ckiem | Patromierz"
+
 permalink: /rozmowyzbozkiem
 ---
 

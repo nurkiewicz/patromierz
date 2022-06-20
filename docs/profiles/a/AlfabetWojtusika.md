@@ -1,5 +1,6 @@
 ---
-title: "AlfabetWojtusika | Patromierz"
+title: Alfabet Wojtusika | Patromierz
+
 permalink: /AlfabetWojtusika
 ---
 

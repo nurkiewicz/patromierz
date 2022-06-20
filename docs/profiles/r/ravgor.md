@@ -1,5 +1,6 @@
 ---
-title: "ravgor | Patromierz"
+title: Ravgor | Patromierz
+
 permalink: /ravgor
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "janauczyciel | Patromierz"
+title: Fundacja Ja, Nauczyciel | Patromierz
+
 permalink: /janauczyciel
 ---
 

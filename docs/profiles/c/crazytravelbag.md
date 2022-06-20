@@ -1,5 +1,6 @@
 ---
-title: "crazytravelbag | Patromierz"
+title: Crazytravelbag | Patromierz
+
 permalink: /crazytravelbag
 ---
 

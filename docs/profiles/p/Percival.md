@@ -1,5 +1,6 @@
 ---
-title: "Percival | Patromierz"
+title: PERCIVAL SCHUTTENBACH | Patromierz
+
 permalink: /Percival
 ---
 

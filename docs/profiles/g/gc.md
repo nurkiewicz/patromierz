@@ -1,5 +1,6 @@
 ---
-title: "gc | Patromierz"
+title: ' Gentleman''s Club Warszawa | Patromierz'
+
 permalink: /gc
 ---
 

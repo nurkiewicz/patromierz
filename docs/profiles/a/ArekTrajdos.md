@@ -1,5 +1,6 @@
 ---
-title: "ArekTrajdos | Patromierz"
+title: Arek Trajdos | Patromierz
+
 permalink: /ArekTrajdos
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "firmazzasadami | Patromierz"
+title: Firma z zasadami | Patromierz
+
 permalink: /firmazzasadami
 ---
 

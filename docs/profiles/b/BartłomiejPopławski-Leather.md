@@ -1,5 +1,6 @@
 ---
-title: "BartłomiejPopławski-Leather | Patromierz"
+title: "Bart\u0142omiej Pop\u0142awski-Leatherworks | Patromierz"
+
 permalink: /BartłomiejPopławski-Leather
 ---
 

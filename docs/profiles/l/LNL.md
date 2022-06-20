@@ -1,5 +1,6 @@
 ---
-title: "LNL | Patromierz"
+title: Dariusz Popiela | Patromierz
+
 permalink: /LNL
 ---
 

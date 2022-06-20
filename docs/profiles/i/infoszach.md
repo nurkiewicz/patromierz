@@ -1,5 +1,6 @@
 ---
-title: "infoszach | Patromierz"
+title: infoszach | Patromierz
+
 permalink: /infoszach
 ---
 

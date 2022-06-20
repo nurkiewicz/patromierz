@@ -1,5 +1,6 @@
 ---
-title: "LifeTrip | Patromierz"
+title: LifeTrip - Survival & Bushcraft | Patromierz
+
 permalink: /LifeTrip
 ---
 

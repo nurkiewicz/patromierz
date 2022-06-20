@@ -1,5 +1,6 @@
 ---
-title: "vingardiumgrubiosa | Patromierz"
+title: Vingardium Grubiosa | Patromierz
+
 permalink: /vingardiumgrubiosa
 ---
 

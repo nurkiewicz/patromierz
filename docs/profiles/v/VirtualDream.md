@@ -1,5 +1,6 @@
 ---
-title: "VirtualDream | Patromierz"
+title: "Virtual Dream - Piotr \u0141\xF3j | Patromierz"
+
 permalink: /VirtualDream
 ---
 

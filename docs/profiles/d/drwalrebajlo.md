@@ -1,5 +1,6 @@
 ---
-title: "drwalrebajlo | Patromierz"
+title: "Drwal R\u0119baj\u0142o | Patromierz"
+
 permalink: /drwalrebajlo
 ---
 

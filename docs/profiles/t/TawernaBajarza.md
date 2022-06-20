@@ -1,5 +1,6 @@
 ---
-title: "TawernaBajarza | Patromierz"
+title: Tawerna Bajarza | Patromierz
+
 permalink: /TawernaBajarza
 ---
 

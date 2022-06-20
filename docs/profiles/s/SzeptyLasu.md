@@ -1,5 +1,6 @@
 ---
-title: "SzeptyLasu | Patromierz"
+title: Szepty Lasu | Patromierz
+
 permalink: /SzeptyLasu
 ---
 

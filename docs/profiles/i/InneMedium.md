@@ -1,5 +1,6 @@
 ---
-title: "InneMedium | Patromierz"
+title: Inne Medium | Patromierz
+
 permalink: /InneMedium
 ---
 

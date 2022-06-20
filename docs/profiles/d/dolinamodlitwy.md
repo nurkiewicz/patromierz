@@ -1,5 +1,6 @@
 ---
-title: "dolinamodlitwy | Patromierz"
+title: Dolina Modlitwy | Patromierz
+
 permalink: /dolinamodlitwy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "dixracingpl | Patromierz"
+title: Liga Dix-Racing.pl | Patromierz
+
 permalink: /dixracingpl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "AUTOJTL | Patromierz"
+title: AUTO JAK TA LALA | Patromierz
+
 permalink: /AUTOJTL
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zyciewzeszycie | Patromierz"
+title: "\u017Bycie w Zeszycie | Patromierz"
+
 permalink: /zyciewzeszycie
 ---
 

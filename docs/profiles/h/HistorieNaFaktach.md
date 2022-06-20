@@ -1,5 +1,6 @@
 ---
-title: "HistorieNaFaktach | Patromierz"
+title: Historie na Faktach | Patromierz
+
 permalink: /HistorieNaFaktach
 ---
 

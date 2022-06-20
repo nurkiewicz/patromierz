@@ -1,5 +1,6 @@
 ---
-title: "SAPER | Patromierz"
+title: Artur Troncik | Patromierz
+
 permalink: /SAPER
 ---
 

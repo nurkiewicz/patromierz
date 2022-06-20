@@ -1,5 +1,6 @@
 ---
-title: "Freaky-Ton | Patromierz"
+title: Kamila Engelhardt | Patromierz
+
 permalink: /Freaky-Ton
 ---
 

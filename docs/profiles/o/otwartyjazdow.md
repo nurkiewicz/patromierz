@@ -1,5 +1,6 @@
 ---
-title: "otwartyjazdow | Patromierz"
+title: "Otwarty Jazd\xF3w | Patromierz"
+
 permalink: /otwartyjazdow
 ---
 

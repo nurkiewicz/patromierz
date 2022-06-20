@@ -1,5 +1,6 @@
 ---
-title: "KawaiiQueenMagdalena | Patromierz"
+title: Magdalena Organa | Patromierz
+
 permalink: /KawaiiQueenMagdalena
 ---
 

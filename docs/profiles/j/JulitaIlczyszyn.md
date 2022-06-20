@@ -1,5 +1,6 @@
 ---
-title: "JulitaIlczyszyn | Patromierz"
+title: Julita Ilczyszyn | Patromierz
+
 permalink: /JulitaIlczyszyn
 ---
 

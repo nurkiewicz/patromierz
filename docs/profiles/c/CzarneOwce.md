@@ -1,5 +1,6 @@
 ---
-title: "CzarneOwce | Patromierz"
+title: Czarne Owce | Patromierz
+
 permalink: /CzarneOwce
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "arhneu | Patromierz"
+title: arhn.eu | Patromierz
+
 permalink: /arhneu
 ---
 

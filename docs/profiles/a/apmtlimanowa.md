@@ -1,5 +1,6 @@
 ---
-title: "apmtlimanowa | Patromierz"
+title: "FUNDACJA AKADEMIA PI\u0141KARSKA MAM TALENT LIMANOWA | Patromierz"
+
 permalink: /apmtlimanowa
 ---
 

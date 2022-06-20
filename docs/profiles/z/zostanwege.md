@@ -1,5 +1,6 @@
 ---
-title: "zostanwege | Patromierz"
+title: "Zosta\u0144 Wege - Fundacja Viva! | Patromierz"
+
 permalink: /zostanwege
 ---
 

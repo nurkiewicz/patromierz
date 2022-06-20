@@ -1,5 +1,6 @@
 ---
-title: "Stockup | Patromierz"
+title: StockUp | Patromierz
+
 permalink: /Stockup
 ---
 

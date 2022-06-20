@@ -1,5 +1,6 @@
 ---
-title: "jtal | Patromierz"
+title: Just Take a Lesson | Patromierz
+
 permalink: /jtal
 ---
 

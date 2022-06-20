@@ -1,5 +1,6 @@
 ---
-title: "waznepodcast | Patromierz"
+title: "Dominika Klimek - #wa\u017Cne podcast | Patromierz"
+
 permalink: /waznepodcast
 ---
 

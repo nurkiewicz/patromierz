@@ -1,5 +1,7 @@
 ---
-title: "combatalert | Patromierz"
+title: "FUNDACJA NA RZECZ OBRONNO\u015ACI I BEZPIECZE\u0143STWA KRAJU \"COMBAT ALERT\"\
+  \ | Patromierz"
+
 permalink: /combatalert
 ---
 

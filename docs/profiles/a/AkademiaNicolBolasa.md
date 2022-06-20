@@ -1,5 +1,6 @@
 ---
-title: "AkademiaNicolBolasa | Patromierz"
+title: Akademia Nicol Bolasa | Patromierz
+
 permalink: /AkademiaNicolBolasa
 ---
 

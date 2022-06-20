@@ -1,5 +1,6 @@
 ---
-title: "tablao | Patromierz"
+title: Tablao Flamenco Warszawa | Patromierz
+
 permalink: /tablao
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "unbridledbuffalo | Patromierz"
+title: Unbridled Buffalo ? | Patromierz
+
 permalink: /unbridledbuffalo
 ---
 

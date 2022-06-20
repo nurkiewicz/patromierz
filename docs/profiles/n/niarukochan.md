@@ -1,5 +1,6 @@
 ---
-title: "niarukochan | Patromierz"
+title: Niaruko_chan | Patromierz
+
 permalink: /niarukochan
 ---
 

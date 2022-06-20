@@ -1,5 +1,6 @@
 ---
-title: "sietra | Patromierz"
+title: Sietra | Patromierz
+
 permalink: /sietra
 ---
 

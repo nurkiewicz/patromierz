@@ -1,5 +1,6 @@
 ---
-title: "spw | Patromierz"
+title: "Sp\xF3\u0142dzielnia Praktyk Wywrotowych | Patromierz"
+
 permalink: /spw
 ---
 

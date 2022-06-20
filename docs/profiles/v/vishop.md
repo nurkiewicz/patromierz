@@ -1,5 +1,6 @@
 ---
-title: "vishop | Patromierz"
+title: VIshop | Patromierz
+
 permalink: /vishop
 ---
 

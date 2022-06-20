@@ -1,5 +1,6 @@
 ---
-title: "fundacjaanalizsztuki | Patromierz"
+title: Fundacja Analiz Sztuki | Patromierz
+
 permalink: /fundacjaanalizsztuki
 ---
 

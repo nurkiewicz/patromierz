@@ -1,5 +1,6 @@
 ---
-title: "boklazec | Patromierz"
+title: "Jerzy Bok\u0142a\u017Cec | Patromierz"
+
 permalink: /boklazec
 ---
 

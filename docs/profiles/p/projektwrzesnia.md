@@ -1,5 +1,6 @@
 ---
-title: "projektwrzesnia | Patromierz"
+title: "Projekt Wrze\u015Bnia | Patromierz"
+
 permalink: /projektwrzesnia
 ---
 

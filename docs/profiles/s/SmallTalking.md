@@ -1,5 +1,6 @@
 ---
-title: "SmallTalking | Patromierz"
+title: Small Talking | Patromierz
+
 permalink: /SmallTalking
 ---
 

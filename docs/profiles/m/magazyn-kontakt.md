@@ -1,5 +1,6 @@
 ---
-title: "magazyn-kontakt | Patromierz"
+title: Magazyn Kontakt | Patromierz
+
 permalink: /magazyn-kontakt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "bonsaidiscovery | Patromierz"
+title: Bonsai Discovery - Bartosz Warwas | Patromierz
+
 permalink: /bonsaidiscovery
 ---
 

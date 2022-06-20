@@ -1,5 +1,6 @@
 ---
-title: "japonskaprowincja | Patromierz"
+title: "JAPO\u0143SKA PROWINCJA  | Patromierz"
+
 permalink: /japonskaprowincja
 ---
 

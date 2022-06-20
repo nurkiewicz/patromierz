@@ -1,5 +1,6 @@
 ---
-title: "eduafryka | Patromierz"
+title: EDU Afryka | Patromierz
+
 permalink: /eduafryka
 ---
 

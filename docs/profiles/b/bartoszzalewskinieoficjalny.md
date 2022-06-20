@@ -1,5 +1,6 @@
 ---
-title: "bartoszzalewskinieoficjalny | Patromierz"
+title: Bartosz Zalewski Nieoficjalny | Patromierz
+
 permalink: /bartoszzalewskinieoficjalny
 ---
 

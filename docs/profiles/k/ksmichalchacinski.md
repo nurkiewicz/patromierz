@@ -1,5 +1,6 @@
 ---
-title: "ksmichalchacinski | Patromierz"
+title: "Ksi\u0105dz Micha\u0142 Chaci\u0144ski | Patromierz"
+
 permalink: /ksmichalchacinski
 ---
 

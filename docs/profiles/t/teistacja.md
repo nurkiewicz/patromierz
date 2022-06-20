@@ -1,5 +1,6 @@
 ---
-title: "teistacja | Patromierz"
+title: TeiStacja | Patromierz
+
 permalink: /teistacja
 ---
 

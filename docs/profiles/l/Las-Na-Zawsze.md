@@ -1,5 +1,6 @@
 ---
-title: "Las-Na-Zawsze | Patromierz"
+title: Las Na Zawsze | Fundacja | Patromierz
+
 permalink: /Las-Na-Zawsze
 ---
 

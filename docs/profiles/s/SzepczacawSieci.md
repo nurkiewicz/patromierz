@@ -1,5 +1,6 @@
 ---
-title: "SzepczacawSieci | Patromierz"
+title: "Szepcz\u0105ca w Sieci ASMR | Patromierz"
+
 permalink: /SzepczacawSieci
 ---
 

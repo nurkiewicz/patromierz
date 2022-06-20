@@ -1,5 +1,6 @@
 ---
-title: "planjanusza | Patromierz"
+title: Plan Janusza | Patromierz
+
 permalink: /planjanusza
 ---
 

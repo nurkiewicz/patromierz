@@ -1,5 +1,6 @@
 ---
-title: "brunokadyna | Patromierz"
+title: Bruno Kadyna | Patromierz
+
 permalink: /brunokadyna
 ---
 

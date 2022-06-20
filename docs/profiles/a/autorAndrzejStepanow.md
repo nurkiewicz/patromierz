@@ -1,5 +1,6 @@
 ---
-title: "autorAndrzejStepanow | Patromierz"
+title: Andrzej Stepanow | Patromierz
+
 permalink: /autorAndrzejStepanow
 ---
 

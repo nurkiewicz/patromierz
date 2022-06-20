@@ -1,5 +1,6 @@
 ---
-title: "tomaszkostecki | Patromierz"
+title: Fundacja DDC | Patromierz
+
 permalink: /tomaszkostecki
 ---
 

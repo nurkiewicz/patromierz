@@ -1,5 +1,6 @@
 ---
-title: "Demonidias | Patromierz"
+title: Demonidias | Patromierz
+
 permalink: /Demonidias
 ---
 

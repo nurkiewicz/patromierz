@@ -1,5 +1,6 @@
 ---
-title: "ZagrajnikTV | Patromierz"
+title: "J\u0119drzej Szweda - ZagrajnikTV | Patromierz"
+
 permalink: /ZagrajnikTV
 ---
 

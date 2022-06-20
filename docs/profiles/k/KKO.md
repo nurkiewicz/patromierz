@@ -1,5 +1,6 @@
 ---
-title: "KKO | Patromierz"
+title: "Koszykarski Klub Ole\u015Bnica | Patromierz"
+
 permalink: /KKO
 ---
 

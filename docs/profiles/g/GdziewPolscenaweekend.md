@@ -1,5 +1,6 @@
 ---
-title: "GdziewPolscenaweekend | Patromierz"
+title: Gdzie w Polsce na weekend? | Patromierz
+
 permalink: /GdziewPolscenaweekend
 ---
 

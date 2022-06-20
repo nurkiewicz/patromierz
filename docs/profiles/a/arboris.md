@@ -1,5 +1,6 @@
 ---
-title: "arboris | Patromierz"
+title: "Patroni Ogrodu Tw\xF3rz Zielone Pi\u0119kno | Patromierz"
+
 permalink: /arboris
 ---
 

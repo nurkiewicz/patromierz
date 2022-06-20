@@ -1,5 +1,6 @@
 ---
-title: "pharmacopola | Patromierz"
+title: Pharmacopola | Patromierz
+
 permalink: /pharmacopola
 ---
 

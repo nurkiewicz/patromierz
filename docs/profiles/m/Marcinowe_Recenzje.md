@@ -1,5 +1,6 @@
 ---
-title: "Marcinowe_Recenzje | Patromierz"
+title: Marcinowe Recenzje | Patromierz
+
 permalink: /Marcinowe_Recenzje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "PanOdGitary | Patromierz"
+title: Pan od Gitary | Patromierz
+
 permalink: /PanOdGitary
 ---
 

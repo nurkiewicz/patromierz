@@ -1,5 +1,6 @@
 ---
-title: "Euforis | Patromierz"
+title: "Stowarzyszenie Artyst\xF3w Euforis | Patromierz"
+
 permalink: /Euforis
 ---
 

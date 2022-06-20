@@ -1,5 +1,6 @@
 ---
-title: "katshakti | Patromierz"
+title: Kat Shakti | Patromierz
+
 permalink: /katshakti
 ---
 

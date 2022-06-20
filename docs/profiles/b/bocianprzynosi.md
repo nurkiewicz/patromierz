@@ -1,5 +1,6 @@
 ---
-title: "bocianprzynosi | Patromierz"
+title: "Bocian Przynosi P\u0142yty | Patromierz"
+
 permalink: /bocianprzynosi
 ---
 

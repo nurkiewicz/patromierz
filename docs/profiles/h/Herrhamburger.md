@@ -1,5 +1,6 @@
 ---
-title: "Herrhamburger | Patromierz"
+title: Herr Hamburger  | Patromierz
+
 permalink: /Herrhamburger
 ---
 

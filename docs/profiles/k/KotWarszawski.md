@@ -1,5 +1,6 @@
 ---
-title: "KotWarszawski | Patromierz"
+title: Kot Warszawski | Patromierz
+
 permalink: /KotWarszawski
 ---
 

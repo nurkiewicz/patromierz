@@ -1,5 +1,6 @@
 ---
-title: "9campnou | Patromierz"
+title: 9CAMPNOU | Patromierz
+
 permalink: /9campnou
 ---
 

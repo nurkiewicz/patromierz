@@ -1,5 +1,6 @@
 ---
-title: "SalamLab | Patromierz"
+title: SalamLab.pl | Patromierz
+
 permalink: /SalamLab
 ---
 

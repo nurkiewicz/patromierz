@@ -1,5 +1,6 @@
 ---
-title: "sztukanawynos | Patromierz"
+title: sztuka na wynos | Patromierz
+
 permalink: /sztukanawynos
 ---
 

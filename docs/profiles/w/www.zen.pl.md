@@ -1,5 +1,6 @@
 ---
-title: "www.zen.pl | Patromierz"
+title: "Szko\u0142a Zen Kwan Um | Patromierz"
+
 permalink: /www.zen.pl
 ---
 

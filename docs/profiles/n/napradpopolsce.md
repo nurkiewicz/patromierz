@@ -1,5 +1,6 @@
 ---
-title: "napradpopolsce | Patromierz"
+title: "Na pr\u0105d po Polsce  | Patromierz"
+
 permalink: /napradpopolsce
 ---
 

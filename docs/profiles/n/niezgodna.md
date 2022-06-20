@@ -1,5 +1,6 @@
 ---
-title: "niezgodna | Patromierz"
+title: "NIEZGODNA - Iza Nazaria Mo\u015Bcicka | Patromierz"
+
 permalink: /niezgodna
 ---
 

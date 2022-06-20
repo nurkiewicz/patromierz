@@ -1,5 +1,6 @@
 ---
-title: "ZeroZalamki | Patromierz"
+title: "Zero Za\u0142amki - road to Paralympics | Patromierz"
+
 permalink: /ZeroZalamki
 ---
 

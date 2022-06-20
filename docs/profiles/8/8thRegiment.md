@@ -1,5 +1,6 @@
 ---
-title: "8thRegiment | Patromierz"
+title: 8th Regiment | Patromierz
+
 permalink: /8thRegiment
 ---
 

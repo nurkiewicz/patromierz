@@ -1,5 +1,6 @@
 ---
-title: "allegretto | Patromierz"
+title: "ALLEGRETTO Autorska Szko\u0142a Muzyki | Patromierz"
+
 permalink: /allegretto
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "waginybezspiny | Patromierz"
+title: Waginy Bez Spiny | Patromierz
+
 permalink: /waginybezspiny
 ---
 

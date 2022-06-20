@@ -1,5 +1,7 @@
 ---
-title: "puchaczówka | Patromierz"
+title: "O\u015Brodek Leczenia i Rehabilitacji Dzikich Zwierz\u0105t \"Puchacz\xF3\
+  wka\" | Patromierz"
+
 permalink: /puchaczówka
 ---
 

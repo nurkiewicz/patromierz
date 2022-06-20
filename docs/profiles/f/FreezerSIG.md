@@ -1,5 +1,6 @@
 ---
-title: "FreezerSIG | Patromierz"
+title: FreezerSIG | Patromierz
+
 permalink: /FreezerSIG
 ---
 

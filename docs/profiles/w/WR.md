@@ -1,5 +1,6 @@
 ---
-title: "WR | Patromierz"
+title: "Wydzia\u0142 Remontowy | Patromierz"
+
 permalink: /WR
 ---
 

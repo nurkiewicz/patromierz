@@ -1,5 +1,6 @@
 ---
-title: "LukasczykLeatherworks | Patromierz"
+title: "Lukasczyk Wyroby Sk\xF3rzane | Patromierz"
+
 permalink: /LukasczykLeatherworks
 ---
 

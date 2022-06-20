@@ -1,5 +1,6 @@
 ---
-title: "stettin3d | Patromierz"
+title: Stettin 3d | Patromierz
+
 permalink: /stettin3d
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Dailytips | Patromierz"
+title: Dailytips.pl | Patromierz
+
 permalink: /Dailytips
 ---
 

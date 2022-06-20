@@ -1,5 +1,6 @@
 ---
-title: "RadioKoncao | Patromierz"
+title: Tomek Konca - Radio Koncao | Patromierz
+
 permalink: /RadioKoncao
 ---
 

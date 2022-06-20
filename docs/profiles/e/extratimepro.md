@@ -1,5 +1,6 @@
 ---
-title: "extratimepro | Patromierz"
+title: EXTRA TIME - PRO  | Patromierz
+
 permalink: /extratimepro
 ---
 

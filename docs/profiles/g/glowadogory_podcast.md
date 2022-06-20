@@ -1,5 +1,6 @@
 ---
-title: "glowadogory_podcast | Patromierz"
+title: "G\u0142owa do g\xF3ry - Podcast | Patromierz"
+
 permalink: /glowadogory_podcast
 ---
 

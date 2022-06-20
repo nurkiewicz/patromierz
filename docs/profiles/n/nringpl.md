@@ -1,5 +1,6 @@
 ---
-title: "nringpl | Patromierz"
+title: "Nring.pl | \u0141ukasz Formella | Patromierz"
+
 permalink: /nringpl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Samochodemnawakacje_pl | Patromierz"
+title: Samochodem na wakacje.pl | Patromierz
+
 permalink: /Samochodemnawakacje_pl
 ---
 

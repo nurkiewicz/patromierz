@@ -1,5 +1,6 @@
 ---
-title: "motozagwozdki | Patromierz"
+title: Moto Zagwozdki | Patromierz
+
 permalink: /motozagwozdki
 ---
 

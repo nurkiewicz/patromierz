@@ -1,5 +1,6 @@
 ---
-title: "EWST | Patromierz"
+title: "Ewangelikalna Wy\u017Csza Szko\u0142a Teologiczna | Patromierz"
+
 permalink: /EWST
 ---
 

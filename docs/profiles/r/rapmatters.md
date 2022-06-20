@@ -1,5 +1,6 @@
 ---
-title: "rapmatters | Patromierz"
+title: Rap MATTers | Patromierz
+
 permalink: /rapmatters
 ---
 

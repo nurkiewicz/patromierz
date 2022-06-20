@@ -1,5 +1,6 @@
 ---
-title: "naukowo | Patromierz"
+title: Podkast Naukowo | Patromierz
+
 permalink: /naukowo
 ---
 

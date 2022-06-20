@@ -1,5 +1,6 @@
 ---
-title: "PZL | Patromierz"
+title: Pan z Loombardu | Patromierz
+
 permalink: /PZL
 ---
 

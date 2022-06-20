@@ -1,5 +1,6 @@
 ---
-title: "graff.omania | Patromierz"
+title: Grafiki Graff.omania | Patromierz
+
 permalink: /graff.omania
 ---
 

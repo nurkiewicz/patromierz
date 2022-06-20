@@ -1,5 +1,6 @@
 ---
-title: "klubtygodnika | Patromierz"
+title: Kluby "Tygodnika Powszechnego" | Patromierz
+
 permalink: /klubtygodnika
 ---
 

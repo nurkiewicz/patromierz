@@ -1,5 +1,6 @@
 ---
-title: "ciekawostnik | Patromierz"
+title: Ciekawostnik.pl | Patromierz
+
 permalink: /ciekawostnik
 ---
 

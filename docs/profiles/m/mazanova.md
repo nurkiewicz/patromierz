@@ -1,5 +1,6 @@
 ---
-title: "mazanova | Patromierz"
+title: Helen Mazanova | Patromierz
+
 permalink: /mazanova
 ---
 

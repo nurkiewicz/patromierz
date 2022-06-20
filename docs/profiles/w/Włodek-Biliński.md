@@ -1,5 +1,6 @@
 ---
-title: "Włodek-Biliński | Patromierz"
+title: "A W Bili\u0144scy - fotografia przyrodnicza | Patromierz"
+
 permalink: /Włodek-Biliński
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ChSA | Patromierz"
+title: "Chodzieskie S\u0142u\u017Cby Alarmowo | Patromierz"
+
 permalink: /ChSA
 ---
 

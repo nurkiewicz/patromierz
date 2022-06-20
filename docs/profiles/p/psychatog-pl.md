@@ -1,5 +1,6 @@
 ---
-title: "psychatog-pl | Patromierz"
+title: Psychatog.pl | Patromierz
+
 permalink: /psychatog-pl
 ---
 

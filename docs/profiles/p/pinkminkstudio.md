@@ -1,5 +1,6 @@
 ---
-title: "pinkminkstudio | Patromierz"
+title: Kasia - PINK MINK Studio | Patromierz
+
 permalink: /pinkminkstudio
 ---
 

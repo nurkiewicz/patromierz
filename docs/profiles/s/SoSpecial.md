@@ -1,5 +1,6 @@
 ---
-title: "SoSpecial | Patromierz"
+title: SoSpecial  | Patromierz
+
 permalink: /SoSpecial
 ---
 

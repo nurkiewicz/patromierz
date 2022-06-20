@@ -1,5 +1,6 @@
 ---
-title: "mirekczyzykiewicz | Patromierz"
+title: "Mirek Czy\u017Cykiewicz  | Patromierz"
+
 permalink: /mirekczyzykiewicz
 ---
 

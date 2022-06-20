@@ -1,5 +1,6 @@
 ---
-title: "Piran | Patromierz"
+title: Piran | Patromierz
+
 permalink: /Piran
 ---
 

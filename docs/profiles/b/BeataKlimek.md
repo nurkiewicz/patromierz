@@ -1,5 +1,6 @@
 ---
-title: "BeataKlimek | Patromierz"
+title: Beata Klimek | Patromierz
+
 permalink: /BeataKlimek
 ---
 

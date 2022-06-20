@@ -1,5 +1,6 @@
 ---
-title: "aPieceofPaper | Patromierz"
+title: a Piece of Paper | Patromierz
+
 permalink: /aPieceofPaper
 ---
 

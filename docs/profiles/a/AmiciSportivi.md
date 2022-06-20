@@ -1,5 +1,6 @@
 ---
-title: "AmiciSportivi | Patromierz"
+title: Amici Sportivi | Patromierz
+
 permalink: /AmiciSportivi
 ---
 

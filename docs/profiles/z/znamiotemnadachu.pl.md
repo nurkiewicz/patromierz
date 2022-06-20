@@ -1,5 +1,6 @@
 ---
-title: "znamiotemnadachu.pl | Patromierz"
+title: GibkoLand - zNamiotemNaDachu.pl | Patromierz
+
 permalink: /znamiotemnadachu.pl
 ---
 

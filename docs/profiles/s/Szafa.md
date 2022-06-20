@@ -1,5 +1,6 @@
 ---
-title: "Szafa | Patromierz"
+title: Mocny Vlog | Patromierz
+
 permalink: /Szafa
 ---
 

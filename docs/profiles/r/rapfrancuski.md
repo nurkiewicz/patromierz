@@ -1,5 +1,6 @@
 ---
-title: "rapfrancuski | Patromierz"
+title: RapFrancuski.pl | Patromierz
+
 permalink: /rapfrancuski
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "malerzeki | Patromierz"
+title: Maciej Bonk | Patromierz
+
 permalink: /malerzeki
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "StowarzyszenieTeczowka | Patromierz"
+title: "Stowarzyszenie T\u0119cz\xF3wka | Patromierz"
+
 permalink: /StowarzyszenieTeczowka
 ---
 

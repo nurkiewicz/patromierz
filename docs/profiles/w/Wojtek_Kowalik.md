@@ -1,5 +1,6 @@
 ---
-title: "Wojtek_Kowalik | Patromierz"
+title: Wojciech Kowalik eventing | Patromierz
+
 permalink: /Wojtek_Kowalik
 ---
 

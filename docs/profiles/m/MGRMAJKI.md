@@ -1,5 +1,6 @@
 ---
-title: "MGRMAJKI | Patromierz"
+title: MGR.MAJKI | Patromierz
+
 permalink: /MGRMAJKI
 ---
 

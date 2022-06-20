@@ -1,5 +1,6 @@
 ---
-title: "juszkiewicz | Patromierz"
+title: "Jaros\u0142aw Juszkiewicz | Patromierz"
+
 permalink: /juszkiewicz
 ---
 

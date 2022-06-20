@@ -1,5 +1,6 @@
 ---
-title: "vlognaskale | Patromierz"
+title: Vlog na Skale / Sacerdos.pl | Patromierz
+
 permalink: /vlognaskale
 ---
 

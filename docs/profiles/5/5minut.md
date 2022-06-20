@@ -1,5 +1,6 @@
 ---
-title: "5minut | Patromierz"
+title: 5 MINUT (Billie Sparrow i Hania Es) | Patromierz
+
 permalink: /5minut
 ---
 

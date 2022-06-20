@@ -1,5 +1,6 @@
 ---
-title: "kgonciarz | Patromierz"
+title: Krzysztof Gonciarz | Patromierz
+
 permalink: /kgonciarz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "trickboxproject | Patromierz"
+title: "Trickbox.Project - Pawe\u0142 Kowalczyk  | Patromierz"
+
 permalink: /trickboxproject
 ---
 

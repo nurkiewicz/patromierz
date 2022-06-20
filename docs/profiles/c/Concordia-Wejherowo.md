@@ -1,5 +1,6 @@
 ---
-title: "Concordia-Wejherowo | Patromierz"
+title: "Duszpasterstwo M\u0142odzie\u017Cy Concordia | Patromierz"
+
 permalink: /Concordia-Wejherowo
 ---
 

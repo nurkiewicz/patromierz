@@ -1,5 +1,6 @@
 ---
-title: "Art43-salezjanie | Patromierz"
+title: Art. 43 | Patromierz
+
 permalink: /Art43-salezjanie
 ---
 

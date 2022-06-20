@@ -1,5 +1,6 @@
 ---
-title: "bksbochnia | Patromierz"
+title: BKS Bochnia | Patromierz
+
 permalink: /bksbochnia
 ---
 

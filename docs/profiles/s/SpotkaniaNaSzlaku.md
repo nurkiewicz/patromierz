@@ -1,5 +1,6 @@
 ---
-title: "SpotkaniaNaSzlaku | Patromierz"
+title: Spotkania na Szlaku | Patromierz
+
 permalink: /SpotkaniaNaSzlaku
 ---
 

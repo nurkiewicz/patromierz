@@ -1,5 +1,6 @@
 ---
-title: "TATAVlog | Patromierz"
+title: TATA Vlog | Patromierz
+
 permalink: /TATAVlog
 ---
 

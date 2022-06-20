@@ -1,5 +1,6 @@
 ---
-title: "schroniskowkorabiewicach | Patromierz"
+title: Schronisko w Korabiewicach VIVA | Patromierz
+
 permalink: /schroniskowkorabiewicach
 ---
 

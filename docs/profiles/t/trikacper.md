@@ -1,5 +1,6 @@
 ---
-title: "trikacper | Patromierz"
+title: "Kacper Kurzyd\u0142o | Patromierz"
+
 permalink: /trikacper
 ---
 

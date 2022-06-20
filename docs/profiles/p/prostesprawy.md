@@ -1,5 +1,6 @@
 ---
-title: "prostesprawy | Patromierz"
+title: Proste Sprawy | Patromierz
+
 permalink: /prostesprawy
 ---
 

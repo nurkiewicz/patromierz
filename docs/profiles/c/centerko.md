@@ -1,5 +1,6 @@
 ---
-title: "centerko | Patromierz"
+title: CENTERKO | Patromierz
+
 permalink: /centerko
 ---
 

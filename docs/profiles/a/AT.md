@@ -1,5 +1,6 @@
 ---
-title: "AT | Patromierz"
+title: Alpha Team | Patromierz
+
 permalink: /AT
 ---
 

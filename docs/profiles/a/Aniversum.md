@@ -1,5 +1,6 @@
 ---
-title: "Aniversum | Patromierz"
+title: Aniversum | Patromierz
+
 permalink: /Aniversum
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "andrzejwlusek | Patromierz"
+title: "Andrzej W\u0142usek - Historia poza horyzont  | Patromierz"
+
 permalink: /andrzejwlusek
 ---
 

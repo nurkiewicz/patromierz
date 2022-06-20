@@ -1,5 +1,6 @@
 ---
-title: "zmorderstwem | Patromierz"
+title: Z morderstwem im do twarzy | Patromierz
+
 permalink: /zmorderstwem
 ---
 

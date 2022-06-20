@@ -1,5 +1,6 @@
 ---
-title: "MarcinMizgalski | Patromierz"
+title: Marcin Mizgalski | Patromierz
+
 permalink: /MarcinMizgalski
 ---
 

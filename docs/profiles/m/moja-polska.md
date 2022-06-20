@@ -1,5 +1,6 @@
 ---
-title: "moja-polska | Patromierz"
+title: "Grzegorz P\u0142aczek | Patromierz"
+
 permalink: /moja-polska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "TomekFerenc | Patromierz"
+title: Tomek Ferenc | Patromierz
+
 permalink: /TomekFerenc
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "panmysza | Patromierz"
+title: Pan Mysza | Patromierz
+
 permalink: /panmysza
 ---
 

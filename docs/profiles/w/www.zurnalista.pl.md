@@ -1,5 +1,6 @@
 ---
-title: "www.zurnalista.pl | Patromierz"
+title: "\u017Burnalista | Patromierz"
+
 permalink: /www.zurnalista.pl
 ---
 

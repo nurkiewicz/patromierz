@@ -1,5 +1,6 @@
 ---
-title: "insidebaseball | Patromierz"
+title: Inside Baseball | Patromierz
+
 permalink: /insidebaseball
 ---
 

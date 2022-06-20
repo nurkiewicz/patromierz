@@ -1,5 +1,6 @@
 ---
-title: "technokrata | Patromierz"
+title: Technokrata | Patromierz
+
 permalink: /technokrata
 ---
 

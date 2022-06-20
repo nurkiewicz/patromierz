@@ -1,5 +1,6 @@
 ---
-title: "piotrhorzela | Patromierz"
+title: Piotr Horzela - Opowiada | Patromierz
+
 permalink: /piotrhorzela
 ---
 

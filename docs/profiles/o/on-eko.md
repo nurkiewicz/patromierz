@@ -1,5 +1,6 @@
 ---
-title: "on-eko | Patromierz"
+title: On-Eko | Patromierz
+
 permalink: /on-eko
 ---
 

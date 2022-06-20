@@ -1,5 +1,6 @@
 ---
-title: "gospodarpg | Patromierz"
+title: Gospoda RPG | Patromierz
+
 permalink: /gospodarpg
 ---
 

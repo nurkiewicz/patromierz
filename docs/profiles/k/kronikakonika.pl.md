@@ -1,5 +1,6 @@
 ---
-title: "kronikakonika.pl | Patromierz"
+title: Kronika Konika | Patromierz
+
 permalink: /kronikakonika.pl
 ---
 

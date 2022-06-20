@@ -1,5 +1,7 @@
 ---
-title: "Meteo | Patromierz"
+title: "\"Sorry. Taki mamy klimat\", czyli pogoda pod oknem Jaros\u0142awa Tura\u0142\
+  y | Patromierz"
+
 permalink: /Meteo
 ---
 

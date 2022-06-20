@@ -1,5 +1,6 @@
 ---
-title: "agnieszkazebradziadek | Patromierz"
+title: Agnieszka "Zebra" Dziadek | Patromierz
+
 permalink: /agnieszkazebradziadek
 ---
 

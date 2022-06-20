@@ -1,5 +1,6 @@
 ---
-title: "MistrzGryOnline | Patromierz"
+title: Mistrz Gry Online | Patromierz
+
 permalink: /MistrzGryOnline
 ---
 

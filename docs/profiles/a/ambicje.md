@@ -1,5 +1,6 @@
 ---
-title: "ambicje | Patromierz"
+title: Adam Sornek & Fundacja Ambicje.org  | Patromierz
+
 permalink: /ambicje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zazirbk | Patromierz"
+title: Zazi | Patromierz
+
 permalink: /zazirbk
 ---
 

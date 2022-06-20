@@ -1,5 +1,6 @@
 ---
-title: "bartosz-liberski | Patromierz"
+title: Bartosz Liberski | Patromierz
+
 permalink: /bartosz-liberski
 ---
 

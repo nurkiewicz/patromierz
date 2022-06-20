@@ -1,5 +1,6 @@
 ---
-title: "otwieramy-przestrzeń | Patromierz"
+title: "Otwieramy Przestrze\u0144 Stajnia Truskawka | Patromierz"
+
 permalink: /otwieramy-przestrzeń
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tosachiny | Patromierz"
+title: "To s\u0105 Chiny | Patromierz"
+
 permalink: /tosachiny
 ---
 

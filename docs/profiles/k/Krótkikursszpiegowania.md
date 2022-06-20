@@ -1,5 +1,6 @@
 ---
-title: "Krótkikursszpiegowania | Patromierz"
+title: "\"Kr\xF3tki kurs szpiegowania\" - Piotr Niemczyk | Patromierz"
+
 permalink: /Krótkikursszpiegowania
 ---
 

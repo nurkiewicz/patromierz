@@ -1,5 +1,6 @@
 ---
-title: "hearthemusic | Patromierz"
+title: HearTheMusic (HTM) | Patromierz
+
 permalink: /hearthemusic
 ---
 

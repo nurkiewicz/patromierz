@@ -1,5 +1,6 @@
 ---
-title: "KobietydlaSwiata | Patromierz"
+title: "Kobiety dla \u015Awiata Siostrzana Pomoc | Patromierz"
+
 permalink: /KobietydlaSwiata
 ---
 

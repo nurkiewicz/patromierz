@@ -1,5 +1,6 @@
 ---
-title: "Modzelewski | Patromierz"
+title: Karol Modzelewski | Patromierz
+
 permalink: /Modzelewski
 ---
 

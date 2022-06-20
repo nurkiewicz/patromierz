@@ -1,5 +1,6 @@
 ---
-title: "radio357 | Patromierz"
+title: Radio 357 | Patromierz
+
 permalink: /radio357
 ---
 

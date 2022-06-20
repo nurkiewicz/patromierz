@@ -1,5 +1,6 @@
 ---
-title: "podcast-rowerowy | Patromierz"
+title: Podcast Rowerowy | Patromierz
+
 permalink: /podcast-rowerowy
 ---
 

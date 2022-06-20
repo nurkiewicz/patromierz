@@ -1,5 +1,6 @@
 ---
-title: "ketoreva | Patromierz"
+title: KetoReva.pl | Patromierz
+
 permalink: /ketoreva
 ---
 

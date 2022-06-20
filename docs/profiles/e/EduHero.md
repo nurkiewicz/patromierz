@@ -1,5 +1,6 @@
 ---
-title: "EduHero | Patromierz"
+title: EduHero | Patromierz
+
 permalink: /EduHero
 ---
 

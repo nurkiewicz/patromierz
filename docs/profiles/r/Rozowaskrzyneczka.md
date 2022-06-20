@@ -1,5 +1,6 @@
 ---
-title: "Rozowaskrzyneczka | Patromierz"
+title: "Fundacja R\xF3\u017Cowa Skrzyneczka | Patromierz"
+
 permalink: /Rozowaskrzyneczka
 ---
 

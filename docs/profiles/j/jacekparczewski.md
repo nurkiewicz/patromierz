@@ -1,5 +1,6 @@
 ---
-title: "jacekparczewski | Patromierz"
+title: Jacek Parczewski | Patromierz
+
 permalink: /jacekparczewski
 ---
 

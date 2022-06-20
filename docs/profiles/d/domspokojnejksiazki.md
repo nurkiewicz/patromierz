@@ -1,5 +1,6 @@
 ---
-title: "domspokojnejksiazki | Patromierz"
+title: "DOM SPOKOJNEJ KSI\u0104\u017BKI | Patromierz"
+
 permalink: /domspokojnejksiazki
 ---
 

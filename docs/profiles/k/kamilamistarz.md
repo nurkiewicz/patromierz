@@ -1,5 +1,6 @@
 ---
-title: "kamilamistarz | Patromierz"
+title: Kamila Mistarz | Patromierz
+
 permalink: /kamilamistarz
 ---
 

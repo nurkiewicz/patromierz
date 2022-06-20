@@ -1,5 +1,6 @@
 ---
-title: "jaorbita | Patromierz"
+title: Anna Ulatowska | Patromierz
+
 permalink: /jaorbita
 ---
 

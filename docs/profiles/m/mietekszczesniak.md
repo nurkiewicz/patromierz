@@ -1,5 +1,6 @@
 ---
-title: "mietekszczesniak | Patromierz"
+title: "Mietek  Szcze\u015Bniak | Patromierz"
+
 permalink: /mietekszczesniak
 ---
 

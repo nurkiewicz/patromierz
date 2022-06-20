@@ -1,5 +1,6 @@
 ---
-title: "medievalheritage | Patromierz"
+title: medievalheritage.eu | Patromierz
+
 permalink: /medievalheritage
 ---
 

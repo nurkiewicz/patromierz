@@ -1,5 +1,6 @@
 ---
-title: "kubazaborski | Patromierz"
+title: Kuba Zaborski | Patromierz
+
 permalink: /kubazaborski
 ---
 

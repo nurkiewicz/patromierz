@@ -1,5 +1,6 @@
 ---
-title: "betlejewski | Patromierz"
+title: "Rafa\u0142 Betlejewski | Patromierz"
+
 permalink: /betlejewski
 ---
 

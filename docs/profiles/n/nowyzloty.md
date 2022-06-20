@@ -1,5 +1,6 @@
 ---
-title: "nowyzloty | Patromierz"
+title: "NOWY Z\u0141OTY | Patromierz"
+
 permalink: /nowyzloty
 ---
 

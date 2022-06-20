@@ -1,5 +1,6 @@
 ---
-title: "ChwytyDozwolone | Patromierz"
+title: CHWYTY DOZWOLONE | Patromierz
+
 permalink: /ChwytyDozwolone
 ---
 

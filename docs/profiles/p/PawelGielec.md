@@ -1,5 +1,6 @@
 ---
-title: "PawelGielec | Patromierz"
+title: Tu i Teraz - Podcast | Patromierz
+
 permalink: /PawelGielec
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fundacjaktos | Patromierz"
+title: "Fundacja KTO\u015A | Patromierz"
+
 permalink: /fundacjaktos
 ---
 

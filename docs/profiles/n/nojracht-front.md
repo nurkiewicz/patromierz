@@ -1,5 +1,6 @@
 ---
-title: "nojracht-front | Patromierz"
+title: NOJRACHT/ FRONT - REKONSTRUKCJA | Patromierz
+
 permalink: /nojracht-front
 ---
 

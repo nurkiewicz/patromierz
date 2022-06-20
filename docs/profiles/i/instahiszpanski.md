@@ -1,5 +1,6 @@
 ---
-title: "instahiszpanski | Patromierz"
+title: "Akademia Instahiszpa\u0144ski | Patromierz"
+
 permalink: /instahiszpanski
 ---
 

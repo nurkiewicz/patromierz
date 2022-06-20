@@ -1,5 +1,6 @@
 ---
-title: "YaniKa | Patromierz"
+title: YaniKa | Patromierz
+
 permalink: /YaniKa
 ---
 

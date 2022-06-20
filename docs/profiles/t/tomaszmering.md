@@ -1,5 +1,6 @@
 ---
-title: "tomaszmering | Patromierz"
+title: Tomasz Mering | Patromierz
+
 permalink: /tomaszmering
 ---
 

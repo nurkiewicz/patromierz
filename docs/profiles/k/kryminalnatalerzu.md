@@ -1,5 +1,6 @@
 ---
-title: "kryminalnatalerzu | Patromierz"
+title: "Krymina\u0142 na talerzu | Patromierz"
+
 permalink: /kryminalnatalerzu
 ---
 

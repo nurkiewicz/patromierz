@@ -1,5 +1,6 @@
 ---
-title: "naislandii | Patromierz"
+title: "Ewelina G\u0105ciarska | Patromierz"
+
 permalink: /naislandii
 ---
 

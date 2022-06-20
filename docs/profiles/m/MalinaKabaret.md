@@ -1,5 +1,6 @@
 ---
-title: "MalinaKabaret | Patromierz"
+title: Kabaret Malina | Patromierz
+
 permalink: /MalinaKabaret
 ---
 

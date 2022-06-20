@@ -1,5 +1,6 @@
 ---
-title: "domn_pl | Patromierz"
+title: "Zadaszone Parki i Ogr\xF3dki Dzia\u0142kowe | Patromierz"
+
 permalink: /domn_pl
 ---
 

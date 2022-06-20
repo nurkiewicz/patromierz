@@ -1,5 +1,6 @@
 ---
-title: "magic-realizm-agzer | Patromierz"
+title: "Ag \u017Ber | Patromierz"
+
 permalink: /magic-realizm-agzer
 ---
 

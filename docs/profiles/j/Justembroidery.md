@@ -1,5 +1,6 @@
 ---
-title: "Justembroidery | Patromierz"
+title: Justyna Kuligowska | Patromierz
+
 permalink: /Justembroidery
 ---
 

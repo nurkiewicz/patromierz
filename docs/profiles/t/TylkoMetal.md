@@ -1,5 +1,6 @@
 ---
-title: "TylkoMetal | Patromierz"
+title: Tylko Metal | Patromierz
+
 permalink: /TylkoMetal
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "simpxon | Patromierz"
+title: martwy simpxon | Patromierz
+
 permalink: /simpxon
 ---
 

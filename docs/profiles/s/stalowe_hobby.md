@@ -1,5 +1,6 @@
 ---
-title: "stalowe_hobby | Patromierz"
+title: Stalowe hobby | Patromierz
+
 permalink: /stalowe_hobby
 ---
 

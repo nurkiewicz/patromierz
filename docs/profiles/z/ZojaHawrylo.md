@@ -1,5 +1,6 @@
 ---
-title: "ZojaHawrylo | Patromierz"
+title: "Zoja Hawry\u0142o | Patromierz"
+
 permalink: /ZojaHawrylo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "suwaczkowo | Patromierz"
+title: Suwaczkowo | Patromierz
+
 permalink: /suwaczkowo
 ---
 

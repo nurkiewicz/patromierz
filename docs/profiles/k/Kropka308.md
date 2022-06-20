@@ -1,5 +1,6 @@
 ---
-title: "Kropka308 | Patromierz"
+title: Profil dalej nieczynny | Patromierz
+
 permalink: /Kropka308
 ---
 

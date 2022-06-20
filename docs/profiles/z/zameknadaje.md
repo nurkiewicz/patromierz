@@ -1,5 +1,6 @@
 ---
-title: "zameknadaje | Patromierz"
+title: Radio Zamek Nadaje | Patromierz
+
 permalink: /zameknadaje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ffpw | Patromierz"
+title: "Fundacja Filmowa Polscy Wychod\u017Acy | Patromierz"
+
 permalink: /ffpw
 ---
 

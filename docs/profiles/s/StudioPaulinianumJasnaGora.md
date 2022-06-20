@@ -1,5 +1,6 @@
 ---
-title: "StudioPaulinianumJasnaGora | Patromierz"
+title: "Wydawnictwo i Studio Paulinianum z Jasnej G\xF3ry | Patromierz"
+
 permalink: /StudioPaulinianumJasnaGora
 ---
 

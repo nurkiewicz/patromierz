@@ -1,5 +1,6 @@
 ---
-title: "dlarodziny | Patromierz"
+title: Fundacja dla Rodziny | Patromierz
+
 permalink: /dlarodziny
 ---
 

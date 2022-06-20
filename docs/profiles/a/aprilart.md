@@ -1,5 +1,6 @@
 ---
-title: "aprilart | Patromierz"
+title: ApriL ArtAnimation | Patromierz
+
 permalink: /aprilart
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "czeskapiviarnia | Patromierz"
+title: Czeska Piviarnia | Patromierz
+
 permalink: /czeskapiviarnia
 ---
 

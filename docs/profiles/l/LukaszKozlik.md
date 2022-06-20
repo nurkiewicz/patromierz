@@ -1,5 +1,6 @@
 ---
-title: "LukaszKozlik | Patromierz"
+title: "\u0141ukasz Ko\u017Alik | Patromierz"
+
 permalink: /LukaszKozlik
 ---
 

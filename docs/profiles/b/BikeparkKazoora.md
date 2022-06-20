@@ -1,5 +1,6 @@
 ---
-title: "BikeparkKazoora | Patromierz"
+title: Bikepark Kazoora  | Patromierz
+
 permalink: /BikeparkKazoora
 ---
 

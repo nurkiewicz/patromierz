@@ -1,5 +1,6 @@
 ---
-title: "strefawodza | Patromierz"
+title: Strefa Wodza | Patromierz
+
 permalink: /strefawodza
 ---
 

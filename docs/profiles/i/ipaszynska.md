@@ -1,5 +1,6 @@
 ---
-title: "ipaszynska | Patromierz"
+title: Iryna Pashyska | Patromierz
+
 permalink: /ipaszynska
 ---
 

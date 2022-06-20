@@ -1,5 +1,6 @@
 ---
-title: "whosome | Patromierz"
+title: Whosome.pl | Patromierz
+
 permalink: /whosome
 ---
 

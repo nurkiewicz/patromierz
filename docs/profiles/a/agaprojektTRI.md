@@ -1,5 +1,6 @@
 ---
-title: "agaprojektTRI | Patromierz"
+title: Agnieszka Badyna-Graczyk | Patromierz
+
 permalink: /agaprojektTRI
 ---
 

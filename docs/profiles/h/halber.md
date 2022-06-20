@@ -1,5 +1,6 @@
 ---
-title: "halber | Patromierz"
+title: Malgorzata Halber | Patromierz
+
 permalink: /halber
 ---
 

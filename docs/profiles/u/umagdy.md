@@ -1,5 +1,6 @@
 ---
-title: "umagdy | Patromierz"
+title: Fundacja "Tymczasem u Magdy" | Patromierz
+
 permalink: /umagdy
 ---
 

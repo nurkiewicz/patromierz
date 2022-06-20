@@ -1,5 +1,6 @@
 ---
-title: "rafalhetman | Patromierz"
+title: "Rafa\u0142 Hetman o ksi\u0105\u017Ckach | Patromierz"
+
 permalink: /rafalhetman
 ---
 

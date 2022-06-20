@@ -1,5 +1,6 @@
 ---
-title: "fundacjabliskodomu | Patromierz"
+title: Fundacja Blisko Domu | Patromierz
+
 permalink: /fundacjabliskodomu
 ---
 

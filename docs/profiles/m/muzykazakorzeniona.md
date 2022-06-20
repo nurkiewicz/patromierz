@@ -1,5 +1,6 @@
 ---
-title: "muzykazakorzeniona | Patromierz"
+title: Muzyka Zakorzeniona | Patromierz
+
 permalink: /muzykazakorzeniona
 ---
 

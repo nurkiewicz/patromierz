@@ -1,5 +1,6 @@
 ---
-title: "kotytozlo | Patromierz"
+title: Pracownia Cioci Kot | Patromierz
+
 permalink: /kotytozlo
 ---
 

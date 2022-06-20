@@ -1,5 +1,6 @@
 ---
-title: "prostowkanal | Patromierz"
+title: "PROSTO W KANA\u0141 | Patromierz"
+
 permalink: /prostowkanal
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "PanMarel | Patromierz"
+title: "Pan Mare\u0142 | Patromierz"
+
 permalink: /PanMarel
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "daniel-kasprowicz | Patromierz"
+title: Daniel Kasprowicz | Patromierz
+
 permalink: /daniel-kasprowicz
 ---
 

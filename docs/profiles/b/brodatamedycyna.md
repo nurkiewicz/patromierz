@@ -1,5 +1,6 @@
 ---
-title: "brodatamedycyna | Patromierz"
+title: Brodata Medycyna | Patromierz
+
 permalink: /brodatamedycyna
 ---
 

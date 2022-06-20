@@ -1,5 +1,6 @@
 ---
-title: "wizje | Patromierz"
+title: Magazyn Wizje | Patromierz
+
 permalink: /wizje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "karoinna | Patromierz"
+title: Karoinna | Patromierz
+
 permalink: /karoinna
 ---
 

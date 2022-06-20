@@ -1,5 +1,6 @@
 ---
-title: "MyTaple | Patromierz"
+title: mytaple | Patromierz
+
 permalink: /MyTaple
 ---
 

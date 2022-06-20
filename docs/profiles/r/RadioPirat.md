@@ -1,5 +1,6 @@
 ---
-title: "RadioPirat | Patromierz"
+title: Radio Pirat | Patromierz
+
 permalink: /RadioPirat
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Dominika_Bienias | Patromierz"
+title: Dominika Bienias | Patromierz
+
 permalink: /Dominika_Bienias
 ---
 

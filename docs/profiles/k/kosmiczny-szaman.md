@@ -1,5 +1,6 @@
 ---
-title: "kosmiczny-szaman | Patromierz"
+title: "Gniewomir Skrzysi\u0144ski | Patromierz"
+
 permalink: /kosmiczny-szaman
 ---
 

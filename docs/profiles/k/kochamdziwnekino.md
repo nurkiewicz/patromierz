@@ -1,5 +1,6 @@
 ---
-title: "kochamdziwnekino | Patromierz"
+title: KochamDziwneKino | Patromierz
+
 permalink: /kochamdziwnekino
 ---
 

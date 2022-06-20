@@ -1,5 +1,6 @@
 ---
-title: "WiedxmaGames | Patromierz"
+title: Wiedxma | Patromierz
+
 permalink: /WiedxmaGames
 ---
 

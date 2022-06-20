@@ -1,5 +1,6 @@
 ---
-title: "Noworudzianin | Patromierz"
+title: NoworudzianiN | Patromierz
+
 permalink: /Noworudzianin
 ---
 

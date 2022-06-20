@@ -1,5 +1,6 @@
 ---
-title: "PFWK | Patromierz"
+title: "Polska Federacja W\u0119dkarstwa Karpiowego | Patromierz"
+
 permalink: /PFWK
 ---
 

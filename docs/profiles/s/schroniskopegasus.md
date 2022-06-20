@@ -1,5 +1,6 @@
 ---
-title: "schroniskopegasus | Patromierz"
+title: Schronisko Pegasus | Patromierz
+
 permalink: /schroniskopegasus
 ---
 

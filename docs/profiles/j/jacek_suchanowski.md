@@ -1,5 +1,6 @@
 ---
-title: "jacek_suchanowski | Patromierz"
+title: Jacek Suchanowski | Patromierz
+
 permalink: /jacek_suchanowski
 ---
 

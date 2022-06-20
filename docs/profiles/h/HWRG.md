@@ -1,5 +1,6 @@
 ---
-title: "HWRG | Patromierz"
+title: "Historia w roli g\u0142\xF3wnej | Patromierz"
+
 permalink: /HWRG
 ---
 

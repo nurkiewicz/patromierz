@@ -1,5 +1,6 @@
 ---
-title: "HisTravel | Patromierz"
+title: "Historian's Journeys - blog podr\xF3\u017Cniczy  | Patromierz"
+
 permalink: /HisTravel
 ---
 

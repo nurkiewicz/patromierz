@@ -1,5 +1,6 @@
 ---
-title: "freeflow | Patromierz"
+title: Free Flow Energy | Patromierz
+
 permalink: /freeflow
 ---
 

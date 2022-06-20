@@ -1,5 +1,6 @@
 ---
-title: "Piknik-na-skraju-głupoty | Patromierz"
+title: "Piknik na skraju g\u0142upoty | Patromierz"
+
 permalink: /Piknik-na-skraju-głupoty
 ---
 

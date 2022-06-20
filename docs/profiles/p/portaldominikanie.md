@@ -1,5 +1,6 @@
 ---
-title: "portaldominikanie | Patromierz"
+title: Dominikanie.pl | Patromierz
+
 permalink: /portaldominikanie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kultowe.stopiatki | Patromierz"
+title: "\u0141ukasz Kuczewski | Patromierz"
+
 permalink: /kultowe.stopiatki
 ---
 

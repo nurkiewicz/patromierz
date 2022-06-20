@@ -1,5 +1,6 @@
 ---
-title: "larchepoznan | Patromierz"
+title: "L'Arche Pozna\u0144 | Patromierz"
+
 permalink: /larchepoznan
 ---
 

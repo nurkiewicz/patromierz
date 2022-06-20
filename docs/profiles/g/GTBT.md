@@ -1,5 +1,6 @@
 ---
-title: "GTBT | Patromierz"
+title: Good Times Bad Times | Patromierz
+
 permalink: /GTBT
 ---
 

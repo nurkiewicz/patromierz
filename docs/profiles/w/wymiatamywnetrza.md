@@ -1,5 +1,6 @@
 ---
-title: "wymiatamywnetrza | Patromierz"
+title: "WYMIATAMY WN\u0118TRZA w ARCHICAD - dla ka\u017Cdego | Patromierz"
+
 permalink: /wymiatamywnetrza
 ---
 

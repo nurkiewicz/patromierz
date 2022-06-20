@@ -1,5 +1,6 @@
 ---
-title: "baz0k | Patromierz"
+title: Bartosz Bazok Zelek | Patromierz
+
 permalink: /baz0k
 ---
 

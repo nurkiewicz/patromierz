@@ -1,5 +1,6 @@
 ---
-title: "SejmLog | Patromierz"
+title: Fundacja SejmLog | Patromierz
+
 permalink: /SejmLog
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "klubalternatywa | Patromierz"
+title: "Klub M\u0142odzie\u017Cowy \"Alternatywa\" | Patromierz"
+
 permalink: /klubalternatywa
 ---
 

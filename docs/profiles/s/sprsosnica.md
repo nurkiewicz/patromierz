@@ -1,5 +1,6 @@
 ---
-title: "sprsosnica | Patromierz"
+title: "SPR So\u015Bnica Gliwice | Patromierz"
+
 permalink: /sprsosnica
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "podrozbezpaszportu | Patromierz"
+title: "Podr\xF3\u017C bez Paszportu | Patromierz"
+
 permalink: /podrozbezpaszportu
 ---
 

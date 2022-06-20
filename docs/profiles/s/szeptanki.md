@@ -1,5 +1,6 @@
 ---
-title: "szeptanki | Patromierz"
+title: Szeptanki | Patromierz
+
 permalink: /szeptanki
 ---
 

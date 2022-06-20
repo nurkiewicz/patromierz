@@ -1,5 +1,6 @@
 ---
-title: "ShiftHigher | Patromierz"
+title: Shift Higher | Patromierz
+
 permalink: /ShiftHigher
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "perkun | Patromierz"
+title: Stowarzyszenie Eksploracji Perkun  | Patromierz
+
 permalink: /perkun
 ---
 

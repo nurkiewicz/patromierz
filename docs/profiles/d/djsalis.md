@@ -1,5 +1,6 @@
 ---
-title: "djsalis | Patromierz"
+title: DJ Salis | Patromierz
+
 permalink: /djsalis
 ---
 

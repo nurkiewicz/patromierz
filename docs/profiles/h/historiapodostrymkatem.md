@@ -1,5 +1,6 @@
 ---
-title: "historiapodostrymkatem | Patromierz"
+title: "Historia pod ostrym k\u0105tem | Patromierz"
+
 permalink: /historiapodostrymkatem
 ---
 

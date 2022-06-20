@@ -1,5 +1,6 @@
 ---
-title: "OnkoFitkaLidka | Patromierz"
+title: OnkoFitka Lidka | Patromierz
+
 permalink: /OnkoFitkaLidka
 ---
 

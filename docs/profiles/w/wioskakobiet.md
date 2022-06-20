@@ -1,5 +1,6 @@
 ---
-title: "wioskakobiet | Patromierz"
+title: Wioska Kobiet | Patromierz
+
 permalink: /wioskakobiet
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fundacjamigawka | Patromierz"
+title: Fundacja Migawka | Patromierz
+
 permalink: /fundacjamigawka
 ---
 

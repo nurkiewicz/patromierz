@@ -1,5 +1,6 @@
 ---
-title: "dymitrcieszko | Patromierz"
+title: Dymitr Cieszko | Patromierz
+
 permalink: /dymitrcieszko
 ---
 

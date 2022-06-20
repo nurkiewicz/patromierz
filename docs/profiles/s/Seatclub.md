@@ -1,5 +1,6 @@
 ---
-title: "Seatclub | Patromierz"
+title: Seatclub.pl | Patromierz
+
 permalink: /Seatclub
 ---
 

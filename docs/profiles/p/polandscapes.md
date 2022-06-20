@@ -1,5 +1,6 @@
 ---
-title: "polandscapes | Patromierz"
+title: Polandscapes | Patromierz
+
 permalink: /polandscapes
 ---
 

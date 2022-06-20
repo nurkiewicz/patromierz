@@ -1,5 +1,6 @@
 ---
-title: "Graczfun | Patromierz"
+title: GraczFun | Patromierz
+
 permalink: /Graczfun
 ---
 

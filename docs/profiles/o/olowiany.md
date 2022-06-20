@@ -1,5 +1,6 @@
 ---
-title: "olowiany | Patromierz"
+title: "O\u0142owiany Podcast / Gunpoint TV | Patromierz"
+
 permalink: /olowiany
 ---
 

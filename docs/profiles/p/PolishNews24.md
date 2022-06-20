@@ -1,5 +1,6 @@
 ---
-title: "PolishNews24 | Patromierz"
+title: PolishNews24.com | Patromierz
+
 permalink: /PolishNews24
 ---
 

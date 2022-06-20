@@ -1,5 +1,6 @@
 ---
-title: "klasowyksiegowy.pl | Patromierz"
+title: "Rados\u0142aw Gromek | Patromierz"
+
 permalink: /klasowyksiegowy.pl
 ---
 

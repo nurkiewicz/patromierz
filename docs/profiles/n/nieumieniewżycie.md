@@ -1,5 +1,6 @@
 ---
-title: "nieumieniewżycie | Patromierz"
+title: "Nieumienie w \u017Cycie | Patromierz"
+
 permalink: /nieumieniewżycie
 ---
 

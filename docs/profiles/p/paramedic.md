@@ -1,5 +1,6 @@
 ---
-title: "paramedic | Patromierz"
+title: "SGR PARAMEDIC/ GPR KO\u0141OBRZEG | Patromierz"
+
 permalink: /paramedic
 ---
 

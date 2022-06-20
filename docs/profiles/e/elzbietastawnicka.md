@@ -1,5 +1,6 @@
 ---
-title: "elzbietastawnicka | Patromierz"
+title: "El\u017Cbieta Stawnicka | Patromierz"
+
 permalink: /elzbietastawnicka
 ---
 

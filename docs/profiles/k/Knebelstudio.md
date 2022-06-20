@@ -1,5 +1,6 @@
 ---
-title: "Knebelstudio | Patromierz"
+title: Knebel studio Makleros | Patromierz
+
 permalink: /Knebelstudio
 ---
 

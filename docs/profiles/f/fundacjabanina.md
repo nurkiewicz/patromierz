@@ -1,5 +1,6 @@
 ---
-title: "fundacjabanina | Patromierz"
+title: Fundacja Banina | Patromierz
+
 permalink: /fundacjabanina
 ---
 

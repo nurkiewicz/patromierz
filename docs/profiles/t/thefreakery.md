@@ -1,5 +1,6 @@
 ---
-title: "thefreakery | Patromierz"
+title: Freakery | Patromierz
+
 permalink: /thefreakery
 ---
 

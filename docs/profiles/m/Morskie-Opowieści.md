@@ -1,5 +1,6 @@
 ---
-title: "Morskie-Opowieści | Patromierz"
+title: "Morskie Opowie\u015Bci | Patromierz"
+
 permalink: /Morskie-Opowieści
 ---
 

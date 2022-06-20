@@ -1,5 +1,6 @@
 ---
-title: "eunomia.astrology | Patromierz"
+title: Eunomia | Patromierz
+
 permalink: /eunomia.astrology
 ---
 

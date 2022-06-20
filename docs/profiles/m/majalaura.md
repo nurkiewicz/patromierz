@@ -1,5 +1,6 @@
 ---
-title: "majalaura | Patromierz"
+title: Maja Laura  | Patromierz
+
 permalink: /majalaura
 ---
 

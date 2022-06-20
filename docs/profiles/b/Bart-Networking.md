@@ -1,5 +1,6 @@
 ---
-title: "Bart-Networking | Patromierz"
+title: 'Bart : Biz & Chill Networking biznesowy | Patromierz'
+
 permalink: /Bart-Networking
 ---
 

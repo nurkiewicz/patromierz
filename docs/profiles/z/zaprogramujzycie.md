@@ -1,5 +1,6 @@
 ---
-title: "zaprogramujzycie | Patromierz"
+title: "Zaprogramuj \u017Bycie | Patromierz"
+
 permalink: /zaprogramujzycie
 ---
 

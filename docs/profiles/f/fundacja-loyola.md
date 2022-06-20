@@ -1,5 +1,6 @@
 ---
-title: "fundacja-loyola | Patromierz"
+title: "Fundacja im. \u015Bw. Ignacego Loyoli | Patromierz"
+
 permalink: /fundacja-loyola
 ---
 

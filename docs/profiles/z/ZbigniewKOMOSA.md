@@ -1,5 +1,6 @@
 ---
-title: "ZbigniewKOMOSA | Patromierz"
+title: Zbigniew Komosa | Patromierz
+
 permalink: /ZbigniewKOMOSA
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "psiakidzieciaki | Patromierz"
+title: Psiaki i dzieciaki | Patromierz
+
 permalink: /psiakidzieciaki
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "muzeum | Patromierz"
+title: Muzeum Historii Ubioru  | Patromierz
+
 permalink: /muzeum
 ---
 

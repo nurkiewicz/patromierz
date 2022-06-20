@@ -1,5 +1,6 @@
 ---
-title: "koduj24 | Patromierz"
+title: koduj24.pl | Patromierz
+
 permalink: /koduj24
 ---
 

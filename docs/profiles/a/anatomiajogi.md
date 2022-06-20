@@ -1,5 +1,6 @@
 ---
-title: "anatomiajogi | Patromierz"
+title: Anatomia Jogi | Patromierz
+
 permalink: /anatomiajogi
 ---
 

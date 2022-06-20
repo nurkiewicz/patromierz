@@ -1,5 +1,6 @@
 ---
-title: "Loesje | Patromierz"
+title: Loesje | Patromierz
+
 permalink: /Loesje
 ---
 

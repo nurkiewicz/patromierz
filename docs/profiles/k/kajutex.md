@@ -1,5 +1,6 @@
 ---
-title: "kajutex | Patromierz"
+title: Kaja Klimek - Kajutex | Patromierz
+
 permalink: /kajutex
 ---
 

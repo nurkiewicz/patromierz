@@ -1,5 +1,6 @@
 ---
-title: "insanim | Patromierz"
+title: INS Anim | Patromierz
+
 permalink: /insanim
 ---
 

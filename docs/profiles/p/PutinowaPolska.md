@@ -1,5 +1,6 @@
 ---
-title: "PutinowaPolska | Patromierz"
+title: Doniesienia z putinowskiej Polski | Patromierz
+
 permalink: /PutinowaPolska
 ---
 

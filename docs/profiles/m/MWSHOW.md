@@ -1,5 +1,6 @@
 ---
-title: "MWSHOW | Patromierz"
+title: "Micha\u0142 Witkowski SHOW | Patromierz"
+
 permalink: /MWSHOW
 ---
 

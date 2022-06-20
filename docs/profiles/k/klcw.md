@@ -1,5 +1,6 @@
 ---
-title: "klcw | Patromierz"
+title: Hanna Maria Giza | Patromierz
+
 permalink: /klcw
 ---
 

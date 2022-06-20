@@ -1,5 +1,6 @@
 ---
-title: "slawatchorzewska | Patromierz"
+title: "S\u0142awa Tch\xF3rzewska | Patromierz"
+
 permalink: /slawatchorzewska
 ---
 

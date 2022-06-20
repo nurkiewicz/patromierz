@@ -1,5 +1,6 @@
 ---
-title: "kolezankiporozmawiajmy | Patromierz"
+title: "Podcast \"Kole\u017Canki, porozmawiajmy\", Martyna Kraus | Patromierz"
+
 permalink: /kolezankiporozmawiajmy
 ---
 

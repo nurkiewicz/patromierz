@@ -1,5 +1,6 @@
 ---
-title: "poglebiarka | Patromierz"
+title: Poglebiarka.pl | Patromierz
+
 permalink: /poglebiarka
 ---
 

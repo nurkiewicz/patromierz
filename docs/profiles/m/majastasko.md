@@ -1,5 +1,6 @@
 ---
-title: "majastasko | Patromierz"
+title: "Maja Sta\u015Bko | Patromierz"
+
 permalink: /majastasko
 ---
 

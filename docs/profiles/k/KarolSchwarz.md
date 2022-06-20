@@ -1,5 +1,6 @@
 ---
-title: "KarolSchwarz | Patromierz"
+title: Karol Schwarz | Patromierz
+
 permalink: /KarolSchwarz
 ---
 

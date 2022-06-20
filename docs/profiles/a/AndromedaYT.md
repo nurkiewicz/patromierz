@@ -1,5 +1,6 @@
 ---
-title: "AndromedaYT | Patromierz"
+title: Andromeda | Patromierz
+
 permalink: /AndromedaYT
 ---
 

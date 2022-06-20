@@ -1,5 +1,6 @@
 ---
-title: "Grota | Patromierz"
+title: Stowarzyszenie Grota | Patromierz
+
 permalink: /Grota
 ---
 

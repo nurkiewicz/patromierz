@@ -1,5 +1,6 @@
 ---
-title: "Piotrekwpodrozy | Patromierz"
+title: "Piotrek W Podr\xF3\u017Cy | Patromierz"
+
 permalink: /Piotrekwpodrozy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "musicmasterclass | Patromierz"
+title: Music MasterClass | Patromierz
+
 permalink: /musicmasterclass
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "LipsofAshes | Patromierz"
+title: Lips of Ashes band | Patromierz
+
 permalink: /LipsofAshes
 ---
 

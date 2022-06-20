@@ -1,5 +1,6 @@
 ---
-title: "www.x-cross.pl | Patromierz"
+title: X-cross | Patromierz
+
 permalink: /www.x-cross.pl
 ---
 

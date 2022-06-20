@@ -1,5 +1,6 @@
 ---
-title: "tchnieniegrozy | Patromierz"
+title: Tchnienie Grozy | Patromierz
+
 permalink: /tchnieniegrozy
 ---
 

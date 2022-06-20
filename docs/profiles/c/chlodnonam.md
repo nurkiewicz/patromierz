@@ -1,5 +1,6 @@
 ---
-title: "chlodnonam | Patromierz"
+title: "Ch\u0142odno | Patromierz"
+
 permalink: /chlodnonam
 ---
 

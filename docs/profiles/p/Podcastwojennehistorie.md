@@ -1,5 +1,6 @@
 ---
-title: "Podcastwojennehistorie | Patromierz"
+title: Podcast Wojenne Historie | Patromierz
+
 permalink: /Podcastwojennehistorie
 ---
 

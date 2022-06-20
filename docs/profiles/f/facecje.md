@@ -1,5 +1,6 @@
 ---
-title: "facecje | Patromierz"
+title: Facecje | Patromierz
+
 permalink: /facecje
 ---
 

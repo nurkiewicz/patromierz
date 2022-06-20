@@ -1,5 +1,6 @@
 ---
-title: "wygramymuzyka | Patromierz"
+title: "Wygramy Muzyk\u0105 | Patromierz"
+
 permalink: /wygramymuzyka
 ---
 

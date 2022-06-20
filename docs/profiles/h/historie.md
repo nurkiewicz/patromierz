@@ -1,5 +1,6 @@
 ---
-title: "historie | Patromierz"
+title: HISTORIE | Patromierz
+
 permalink: /historie
 ---
 

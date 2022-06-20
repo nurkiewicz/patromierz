@@ -1,5 +1,6 @@
 ---
-title: "Muzeum-Zydow-Bialystok | Patromierz"
+title: JewishBialystok.pl | Patromierz
+
 permalink: /Muzeum-Zydow-Bialystok
 ---
 

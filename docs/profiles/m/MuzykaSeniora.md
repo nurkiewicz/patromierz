@@ -1,5 +1,6 @@
 ---
-title: "MuzykaSeniora | Patromierz"
+title: "Eugeniusz Tiemnikow (\u017Benia) | Patromierz"
+
 permalink: /MuzykaSeniora
 ---
 

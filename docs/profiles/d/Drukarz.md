@@ -1,5 +1,6 @@
 ---
-title: "Drukarz | Patromierz"
+title: Drukarz | Patromierz
+
 permalink: /Drukarz
 ---
 

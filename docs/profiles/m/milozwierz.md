@@ -1,5 +1,6 @@
 ---
-title: "milozwierz | Patromierz"
+title: "Mi\u0142ozwierz | Patromierz"
+
 permalink: /milozwierz
 ---
 

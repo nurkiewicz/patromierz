@@ -1,5 +1,6 @@
 ---
-title: "nasladowca | Patromierz"
+title: "Na\u015Bladowca | Patromierz"
+
 permalink: /nasladowca
 ---
 

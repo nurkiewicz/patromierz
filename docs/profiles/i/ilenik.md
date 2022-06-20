@@ -1,5 +1,6 @@
 ---
-title: "ilenik | Patromierz"
+title: Ilona Lenik | Patromierz
+
 permalink: /ilenik
 ---
 

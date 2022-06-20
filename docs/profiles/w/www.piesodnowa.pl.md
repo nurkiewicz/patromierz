@@ -1,5 +1,6 @@
 ---
-title: "www.piesodnowa.pl | Patromierz"
+title: Fundacja Pies OD-nowa | Patromierz
+
 permalink: /www.piesodnowa.pl
 ---
 

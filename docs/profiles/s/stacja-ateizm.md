@@ -1,5 +1,6 @@
 ---
-title: "stacja-ateizm | Patromierz"
+title: Stacja Ateizm | Patromierz
+
 permalink: /stacja-ateizm
 ---
 

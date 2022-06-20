@@ -1,5 +1,6 @@
 ---
-title: "GrubyMisio | Patromierz"
+title: Gruby Misio na hulajnodze | Patromierz
+
 permalink: /GrubyMisio
 ---
 

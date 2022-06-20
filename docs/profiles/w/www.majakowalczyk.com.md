@@ -1,5 +1,6 @@
 ---
-title: "www.majakowalczyk.com | Patromierz"
+title: Maja Kowalczyk | Patromierz
+
 permalink: /www.majakowalczyk.com
 ---
 

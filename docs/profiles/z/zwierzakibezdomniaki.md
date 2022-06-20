@@ -1,5 +1,6 @@
 ---
-title: "zwierzakibezdomniaki | Patromierz"
+title: Stowarzyszenie Zwierzaki Bezdomniaki Home for pets | Patromierz
+
 permalink: /zwierzakibezdomniaki
 ---
 

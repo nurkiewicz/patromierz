@@ -1,5 +1,6 @@
 ---
-title: "sonic1994pl | Patromierz"
+title: Granie Na Spontanie | Patromierz
+
 permalink: /sonic1994pl
 ---
 

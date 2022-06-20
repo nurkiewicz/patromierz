@@ -1,5 +1,6 @@
 ---
-title: "qwitu | Patromierz"
+title: Psychiczne Pojednanie | Patromierz
+
 permalink: /qwitu
 ---
 

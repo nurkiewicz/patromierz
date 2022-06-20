@@ -1,5 +1,6 @@
 ---
-title: "zdrowepasje-pl | Patromierz"
+title: Zdrowe Pasje | Patromierz
+
 permalink: /zdrowepasje-pl
 ---
 

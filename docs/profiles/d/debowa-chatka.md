@@ -1,5 +1,6 @@
 ---
-title: "debowa-chatka | Patromierz"
+title: Damian D. | Patromierz
+
 permalink: /debowa-chatka
 ---
 

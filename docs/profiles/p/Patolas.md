@@ -1,5 +1,6 @@
 ---
-title: "Patolas | Patromierz"
+title: "Opowie\u015Bci z Patolasu | Patromierz"
+
 permalink: /Patolas
 ---
 

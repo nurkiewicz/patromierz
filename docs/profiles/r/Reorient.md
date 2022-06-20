@@ -1,5 +1,6 @@
 ---
-title: "Reorient | Patromierz"
+title: 'Reorient: kultura i nauka | Patromierz'
+
 permalink: /Reorient
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wyprawa | Patromierz"
+title: "Wyprawa na koniec \u017Cycia | Patromierz"
+
 permalink: /wyprawa
 ---
 

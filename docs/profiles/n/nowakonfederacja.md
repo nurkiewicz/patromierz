@@ -1,5 +1,6 @@
 ---
-title: "nowakonfederacja | Patromierz"
+title: Nowa Konfederacja | Patromierz
+
 permalink: /nowakonfederacja
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "miastoodnowa | Patromierz"
+title: Miasto Odnowa | Patromierz
+
 permalink: /miastoodnowa
 ---
 

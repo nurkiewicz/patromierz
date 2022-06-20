@@ -1,5 +1,6 @@
 ---
-title: "pathlife | Patromierz"
+title: Pathlife muzyka | Patromierz
+
 permalink: /pathlife
 ---
 

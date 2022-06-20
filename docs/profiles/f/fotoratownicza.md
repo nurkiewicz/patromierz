@@ -1,5 +1,6 @@
 ---
-title: "fotoratownicza | Patromierz"
+title: Fotografia Ratownicza Konrad Sikorski | Patromierz
+
 permalink: /fotoratownicza
 ---
 

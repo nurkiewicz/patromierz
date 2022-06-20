@@ -1,5 +1,6 @@
 ---
-title: "kotbezwyobrazni | Patromierz"
+title: "Kot Bez Wyobra\u017Ani \u2219 Gosia Gawlik | Patromierz"
+
 permalink: /kotbezwyobrazni
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "militarnajazda | Patromierz"
+title: Militarnajazda - Przewodnik po Atrakcjach Militarnych Polski | Patromierz
+
 permalink: /militarnajazda
 ---
 

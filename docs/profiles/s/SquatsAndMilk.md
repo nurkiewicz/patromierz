@@ -1,5 +1,6 @@
 ---
-title: "SquatsAndMilk | Patromierz"
+title: Squats And Milk | Patromierz
+
 permalink: /SquatsAndMilk
 ---
 

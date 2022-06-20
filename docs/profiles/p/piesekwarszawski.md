@@ -1,5 +1,6 @@
 ---
-title: "piesekwarszawski | Patromierz"
+title: PIESEK WARSZAWSKI | Patromierz
+
 permalink: /piesekwarszawski
 ---
 

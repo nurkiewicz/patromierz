@@ -1,5 +1,6 @@
 ---
-title: "intopassion | Patromierz"
+title: INTOPASSION.COM | Patromierz
+
 permalink: /intopassion
 ---
 

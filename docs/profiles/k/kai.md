@@ -1,5 +1,6 @@
 ---
-title: "kai | Patromierz"
+title: Katolicka Agencja Informacyjna KAI | Patromierz
+
 permalink: /kai
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fundacjamyzwami | Patromierz"
+title: Fundacja My z Wami | Patromierz
+
 permalink: /fundacjamyzwami
 ---
 

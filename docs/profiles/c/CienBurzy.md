@@ -1,5 +1,6 @@
 ---
-title: "CienBurzy | Patromierz"
+title: Piotr Dudek | Patromierz
+
 permalink: /CienBurzy
 ---
 

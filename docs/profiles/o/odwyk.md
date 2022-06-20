@@ -1,5 +1,6 @@
 ---
-title: "odwyk | Patromierz"
+title: Martin Lechowicz | Patromierz
+
 permalink: /odwyk
 ---
 

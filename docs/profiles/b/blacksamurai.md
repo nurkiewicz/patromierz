@@ -1,5 +1,6 @@
 ---
-title: "blacksamurai | Patromierz"
+title: The Black Samurai | Patromierz
+
 permalink: /blacksamurai
 ---
 

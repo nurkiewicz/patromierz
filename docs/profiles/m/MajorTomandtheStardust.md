@@ -1,5 +1,6 @@
 ---
-title: "MajorTomandtheStardust | Patromierz"
+title: Major Tom and the Stardust | Patromierz
+
 permalink: /MajorTomandtheStardust
 ---
 

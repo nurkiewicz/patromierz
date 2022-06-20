@@ -1,5 +1,6 @@
 ---
-title: "upgrademozg | Patromierz"
+title: "M\xD3ZG UPGRADE | Patromierz"
+
 permalink: /upgrademozg
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "pafere | Patromierz"
+title: "Polsko Ameryka\u0144ska Fundacja Edukacji i Rozwoju Ekonomicznego | Patromierz"
+
 permalink: /pafere
 ---
 

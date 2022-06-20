@@ -1,5 +1,6 @@
 ---
-title: "A-G | Patromierz"
+title: "Alina & Grzegorz \"Moment\" P\u0142aczek | Patromierz"
+
 permalink: /A-G
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "rocknadpisa | Patromierz"
+title: "Rock Nad Pis\u0105 | Patromierz"
+
 permalink: /rocknadpisa
 ---
 

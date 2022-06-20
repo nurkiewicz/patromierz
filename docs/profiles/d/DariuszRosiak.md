@@ -1,5 +1,6 @@
 ---
-title: "DariuszRosiak | Patromierz"
+title: Dariusz Rosiak | Patromierz
+
 permalink: /DariuszRosiak
 ---
 

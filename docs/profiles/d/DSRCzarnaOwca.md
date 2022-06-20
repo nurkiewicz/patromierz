@@ -1,5 +1,6 @@
 ---
-title: "DSRCzarnaOwca | Patromierz"
+title: DSR Czarna Owca | Patromierz
+
 permalink: /DSRCzarnaOwca
 ---
 

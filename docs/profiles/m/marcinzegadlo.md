@@ -1,5 +1,6 @@
 ---
-title: "marcinzegadlo | Patromierz"
+title: "Marcin Zegad\u0142o | Patromierz"
+
 permalink: /marcinzegadlo
 ---
 

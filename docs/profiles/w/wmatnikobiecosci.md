@@ -1,5 +1,6 @@
 ---
-title: "wmatnikobiecosci | Patromierz"
+title: "Ma\u0142gorzata Szafra\u0144ska | Patromierz"
+
 permalink: /wmatnikobiecosci
 ---
 

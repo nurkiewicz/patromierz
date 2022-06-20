@@ -1,5 +1,6 @@
 ---
-title: "ewokracja | Patromierz"
+title: Ewokracja | Patromierz
+
 permalink: /ewokracja
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "yuriprime | Patromierz"
+title: YuriPRIME - Bitewny Biurokrata | Patromierz
+
 permalink: /yuriprime
 ---
 

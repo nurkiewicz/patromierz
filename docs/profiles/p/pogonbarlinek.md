@@ -1,5 +1,6 @@
 ---
-title: "pogonbarlinek | Patromierz"
+title: "Pogo\u0144 Barlinek | Patromierz"
+
 permalink: /pogonbarlinek
 ---
 

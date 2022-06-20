@@ -1,5 +1,6 @@
 ---
-title: "daneradarowe | Patromierz"
+title: daneradarowe.pl | Patromierz
+
 permalink: /daneradarowe
 ---
 

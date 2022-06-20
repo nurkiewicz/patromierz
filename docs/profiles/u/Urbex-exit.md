@@ -1,5 +1,6 @@
 ---
-title: "Urbex-exit | Patromierz"
+title: Urbex exit | Patromierz
+
 permalink: /Urbex-exit
 ---
 

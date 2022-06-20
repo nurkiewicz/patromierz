@@ -1,5 +1,6 @@
 ---
-title: "ghyodo | Patromierz"
+title: Gabriel Hyodo | Patromierz
+
 permalink: /ghyodo
 ---
 

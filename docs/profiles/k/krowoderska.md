@@ -1,5 +1,6 @@
 ---
-title: "krowoderska | Patromierz"
+title: Krowoderska.pl | Patromierz
+
 permalink: /krowoderska
 ---
 

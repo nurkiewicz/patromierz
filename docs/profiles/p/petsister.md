@@ -1,5 +1,6 @@
 ---
-title: "petsister | Patromierz"
+title: PetSister | Patromierz
+
 permalink: /petsister
 ---
 

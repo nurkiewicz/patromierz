@@ -1,5 +1,6 @@
 ---
-title: "pawelgoldych | Patromierz"
+title: "Pawe\u0142 Go\u0142dych | Patromierz"
+
 permalink: /pawelgoldych
 ---
 

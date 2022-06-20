@@ -1,5 +1,6 @@
 ---
-title: "historiarealna | Patromierz"
+title: Historia Realna - Piotr Zychowicz | Patromierz
+
 permalink: /historiarealna
 ---
 

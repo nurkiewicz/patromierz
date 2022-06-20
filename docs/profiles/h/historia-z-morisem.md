@@ -1,5 +1,6 @@
 ---
-title: "historia-z-morisem | Patromierz"
+title: Historia z Morisem | Patromierz
+
 permalink: /historia-z-morisem
 ---
 

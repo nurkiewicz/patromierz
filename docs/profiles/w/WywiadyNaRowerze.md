@@ -1,5 +1,6 @@
 ---
-title: "WywiadyNaRowerze | Patromierz"
+title: "\u0141ukasz Marks - Wywiady na Rowerze | Patromierz"
+
 permalink: /WywiadyNaRowerze
 ---
 

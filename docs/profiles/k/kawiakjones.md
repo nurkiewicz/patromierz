@@ -1,5 +1,6 @@
 ---
-title: "kawiakjones | Patromierz"
+title: Kawiak Jones | Patromierz
+
 permalink: /kawiakjones
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "bardonatropietajemnichistorii | Patromierz"
+title: Bardo - na tropie tajemnic historii | Patromierz
+
 permalink: /bardonatropietajemnichistorii
 ---
 

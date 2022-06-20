@@ -1,5 +1,6 @@
 ---
-title: "AkordeonistaFilip | Patromierz"
+title: Akordeonista Filip | Patromierz
+
 permalink: /AkordeonistaFilip
 ---
 

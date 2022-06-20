@@ -1,5 +1,6 @@
 ---
-title: "strefaciekawosci | Patromierz"
+title: "Strefa Ciekawo\u015Bci | Patromierz"
+
 permalink: /strefaciekawosci
 ---
 

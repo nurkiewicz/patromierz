@@ -1,5 +1,6 @@
 ---
-title: "DAStUdnia | Patromierz"
+title: DDA StUdnia | Patromierz
+
 permalink: /DAStUdnia
 ---
 

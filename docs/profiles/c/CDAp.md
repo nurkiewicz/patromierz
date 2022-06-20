@@ -1,5 +1,6 @@
 ---
-title: "CDAp | Patromierz"
+title: Artur Molendowski - Chwila Dla Admina | Patromierz
+
 permalink: /CDAp
 ---
 

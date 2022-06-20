@@ -1,5 +1,6 @@
 ---
-title: "arthub | Patromierz"
+title: ART HUB | Patromierz
+
 permalink: /arthub
 ---
 

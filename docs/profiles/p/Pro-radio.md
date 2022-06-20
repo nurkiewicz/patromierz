@@ -1,5 +1,6 @@
 ---
-title: "Pro-radio | Patromierz"
+title: Pro-Radio | Patromierz
+
 permalink: /Pro-radio
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ucieczkazarkham | Patromierz"
+title: Ucieczka z Arkham | Patromierz
+
 permalink: /ucieczkazarkham
 ---
 

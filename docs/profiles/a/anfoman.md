@@ -1,5 +1,6 @@
 ---
-title: "anfoman | Patromierz"
+title: LeKret | Patromierz
+
 permalink: /anfoman
 ---
 

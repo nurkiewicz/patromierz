@@ -1,5 +1,6 @@
 ---
-title: "interameryka | Patromierz"
+title: InterAmeryka | Patromierz
+
 permalink: /interameryka
 ---
 

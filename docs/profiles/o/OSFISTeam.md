@@ -1,5 +1,6 @@
 ---
-title: "OSFISTeam | Patromierz"
+title: Stowarzyszenie OSFIS | Patromierz
+
 permalink: /OSFISTeam
 ---
 

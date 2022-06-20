@@ -1,5 +1,6 @@
 ---
-title: "szczecińskiruchmiejski | Patromierz"
+title: "Szczeci\u0144ski Ruch Miejski | Patromierz"
+
 permalink: /szczecińskiruchmiejski
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "festiwalempatia | Patromierz"
+title: Festiwal Akcja Empatia | Patromierz
+
 permalink: /festiwalempatia
 ---
 

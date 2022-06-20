@@ -1,5 +1,6 @@
 ---
-title: "radioparanormalium | Patromierz"
+title: Radio Paranormalium | Patromierz
+
 permalink: /radioparanormalium
 ---
 

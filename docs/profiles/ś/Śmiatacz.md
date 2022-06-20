@@ -1,5 +1,6 @@
 ---
-title: "Śmiatacz | Patromierz"
+title: "Mateusz \u015Amiatacz & RobCoins | Patromierz"
+
 permalink: /Śmiatacz
 ---
 

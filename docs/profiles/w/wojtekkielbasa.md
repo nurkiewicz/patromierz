@@ -1,5 +1,6 @@
 ---
-title: "wojtekkielbasa | Patromierz"
+title: "Wojtek Kie\u0142basa | Patromierz"
+
 permalink: /wojtekkielbasa
 ---
 

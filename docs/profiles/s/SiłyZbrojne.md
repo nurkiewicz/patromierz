@@ -1,5 +1,6 @@
 ---
-title: "SiłyZbrojne | Patromierz"
+title: "Si\u0142y Zbrojne | Patromierz"
+
 permalink: /SiłyZbrojne
 ---
 

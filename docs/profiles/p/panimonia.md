@@ -1,5 +1,6 @@
 ---
-title: "panimonia | Patromierz"
+title: Pani Monia  | Patromierz
+
 permalink: /panimonia
 ---
 

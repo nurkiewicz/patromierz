@@ -1,5 +1,6 @@
 ---
-title: "czemplikmusic | Patromierz"
+title: czemplikmusic | Patromierz
+
 permalink: /czemplikmusic
 ---
 

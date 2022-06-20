@@ -1,5 +1,6 @@
 ---
-title: "shandyandeva | Patromierz"
+title: Shandy & Eva | Patromierz
+
 permalink: /shandyandeva
 ---
 

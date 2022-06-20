@@ -1,5 +1,6 @@
 ---
-title: "podziemnetypy | Patromierz"
+title: Podziemne Typy | Patromierz
+
 permalink: /podziemnetypy
 ---
 

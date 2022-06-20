@@ -1,5 +1,6 @@
 ---
-title: "Szczytomaniak | Patromierz"
+title: Szczytomaniak | Patromierz
+
 permalink: /Szczytomaniak
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "TMEŁKHŁódź | Patromierz"
+title: "TME \u0141KH \u0141\xF3d\u017A | Patromierz"
+
 permalink: /TMEŁKHŁódź
 ---
 

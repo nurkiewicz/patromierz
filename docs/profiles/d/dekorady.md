@@ -1,5 +1,6 @@
 ---
-title: "dekorady | Patromierz"
+title: dekorady Klaudia Jachna | Patromierz
+
 permalink: /dekorady
 ---
 

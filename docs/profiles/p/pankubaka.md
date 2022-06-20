@@ -1,5 +1,6 @@
 ---
-title: "pankubaka | Patromierz"
+title: Pan KuBaka | Patromierz
+
 permalink: /pankubaka
 ---
 

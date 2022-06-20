@@ -1,5 +1,6 @@
 ---
-title: "rekografia | Patromierz"
+title: Rekografia | Patromierz
+
 permalink: /rekografia
 ---
 

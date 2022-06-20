@@ -1,5 +1,6 @@
 ---
-title: "ing | Patromierz"
+title: Johan Ingeborg - Gothicowe filmy animowane | Patromierz
+
 permalink: /ing
 ---
 

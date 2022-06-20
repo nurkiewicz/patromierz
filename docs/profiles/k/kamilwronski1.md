@@ -1,5 +1,6 @@
 ---
-title: "kamilwronski1 | Patromierz"
+title: "Kamil Wro\u0144ski - nastoletni student | Patromierz"
+
 permalink: /kamilwronski1
 ---
 

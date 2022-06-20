@@ -1,5 +1,6 @@
 ---
-title: "Alpinizm | Patromierz"
+title: "Bartek Wn\u0119k | Patromierz"
+
 permalink: /Alpinizm
 ---
 

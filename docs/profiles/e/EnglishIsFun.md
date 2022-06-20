@@ -1,5 +1,6 @@
 ---
-title: "EnglishIsFun | Patromierz"
+title: English is FUN | Patromierz
+
 permalink: /EnglishIsFun
 ---
 

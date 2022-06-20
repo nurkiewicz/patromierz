@@ -1,5 +1,6 @@
 ---
-title: "chidusz | Patromierz"
+title: "magazyn \u017Cydowski \u201EChidusz\" | Patromierz"
+
 permalink: /chidusz
 ---
 

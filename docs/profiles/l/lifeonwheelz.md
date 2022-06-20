@@ -1,5 +1,6 @@
 ---
-title: "lifeonwheelz | Patromierz"
+title: Life On Wheelz | Patromierz
+
 permalink: /lifeonwheelz
 ---
 

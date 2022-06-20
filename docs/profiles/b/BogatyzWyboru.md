@@ -1,5 +1,6 @@
 ---
-title: "BogatyzWyboru | Patromierz"
+title: "Rafa\u0142 Walaszek | Patromierz"
+
 permalink: /BogatyzWyboru
 ---
 

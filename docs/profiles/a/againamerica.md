@@ -1,5 +1,6 @@
 ---
-title: "againamerica | Patromierz"
+title: Aga Kirchner | Patromierz
+
 permalink: /againamerica
 ---
 

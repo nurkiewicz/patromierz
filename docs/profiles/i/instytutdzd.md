@@ -1,5 +1,6 @@
 ---
-title: "instytutdzd | Patromierz"
+title: Instytut Danych z D... Polska | Patromierz
+
 permalink: /instytutdzd
 ---
 

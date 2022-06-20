@@ -1,5 +1,6 @@
 ---
-title: "KolektywPOGODA | Patromierz"
+title: Kolektyw POGODA | Patromierz
+
 permalink: /KolektywPOGODA
 ---
 

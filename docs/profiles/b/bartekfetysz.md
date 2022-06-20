@@ -1,5 +1,6 @@
 ---
-title: "bartekfetysz | Patromierz"
+title: Bartek Fetysz | Patromierz
+
 permalink: /bartekfetysz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "punkoweradiounderground | Patromierz"
+title: Punkowe Radio Underground | Patromierz
+
 permalink: /punkoweradiounderground
 ---
 

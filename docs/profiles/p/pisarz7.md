@@ -1,5 +1,6 @@
 ---
-title: "pisarz7 | Patromierz"
+title: Davey - Kryminalnie  | Patromierz
+
 permalink: /pisarz7
 ---
 

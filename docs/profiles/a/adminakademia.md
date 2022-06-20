@@ -1,5 +1,6 @@
 ---
-title: "adminakademia | Patromierz"
+title: AdminAkademia | Patromierz
+
 permalink: /adminakademia
 ---
 

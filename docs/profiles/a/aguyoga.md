@@ -1,5 +1,6 @@
 ---
-title: "aguyoga | Patromierz"
+title: aguYoga | Patromierz
+
 permalink: /aguyoga
 ---
 

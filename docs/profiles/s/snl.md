@@ -1,5 +1,6 @@
 ---
-title: "snl | Patromierz"
+title: "Fundacja Stawiamy na \u0141apy | Patromierz"
+
 permalink: /snl
 ---
 

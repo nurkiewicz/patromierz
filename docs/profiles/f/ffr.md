@@ -1,5 +1,6 @@
 ---
-title: "ffr | Patromierz"
+title: Fundacja First Responder | Patromierz
+
 permalink: /ffr
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "radykalnysymetryzm | Patromierz"
+title: Radykalny symetryzm | Patromierz
+
 permalink: /radykalnysymetryzm
 ---
 

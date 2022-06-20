@@ -1,5 +1,6 @@
 ---
-title: "dagmaraadamiak | Patromierz"
+title: Dagmara Adamiak | Patromierz
+
 permalink: /dagmaraadamiak
 ---
 

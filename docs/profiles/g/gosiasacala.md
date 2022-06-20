@@ -1,5 +1,6 @@
 ---
-title: "gosiasacala | Patromierz"
+title: "Gosia Saca\u0142a jedzie do Etiopii! | Patromierz"
+
 permalink: /gosiasacala
 ---
 

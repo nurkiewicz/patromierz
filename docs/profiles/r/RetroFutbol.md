@@ -1,5 +1,6 @@
 ---
-title: "RetroFutbol | Patromierz"
+title: RetroFutbol | Patromierz
+
 permalink: /RetroFutbol
 ---
 

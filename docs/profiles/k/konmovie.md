@@ -1,5 +1,6 @@
 ---
-title: "konmovie | Patromierz"
+title: "Ko\u0144 Movie - filmy, seriale | Patromierz"
+
 permalink: /konmovie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chaosientropia | Patromierz"
+title: Chaos i Entropia | Patromierz
+
 permalink: /chaosientropia
 ---
 

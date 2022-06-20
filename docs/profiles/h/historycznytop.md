@@ -1,5 +1,6 @@
 ---
-title: "historycznytop | Patromierz"
+title: Historyczny Top | Patromierz
+
 permalink: /historycznytop
 ---
 

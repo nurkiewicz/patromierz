@@ -1,5 +1,6 @@
 ---
-title: "applemuzeumpolska | Patromierz"
+title: APPLE MUZEUM POLSKA | Patromierz
+
 permalink: /applemuzeumpolska
 ---
 

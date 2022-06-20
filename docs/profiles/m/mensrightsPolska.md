@@ -1,5 +1,6 @@
 ---
-title: "mensrightsPolska | Patromierz"
+title: Men's Rights Polska | Patromierz
+
 permalink: /mensrightsPolska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "jakubowski | Patromierz"
+title: Krzysztof Jakubowski | Patromierz
+
 permalink: /jakubowski
 ---
 

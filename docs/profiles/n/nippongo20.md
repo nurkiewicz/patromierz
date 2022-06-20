@@ -1,5 +1,6 @@
 ---
-title: "nippongo20 | Patromierz"
+title: "J\u0119zyk japo\u0144ski - NipponGo! (nie tylko od podstaw) | Patromierz"
+
 permalink: /nippongo20
 ---
 

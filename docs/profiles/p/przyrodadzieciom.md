@@ -1,5 +1,6 @@
 ---
-title: "przyrodadzieciom | Patromierz"
+title: Przyroda Dzieciom | Patromierz
+
 permalink: /przyrodadzieciom
 ---
 

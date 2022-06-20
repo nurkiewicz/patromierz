@@ -1,5 +1,6 @@
 ---
-title: "Kaha_film | Patromierz"
+title: Kaha Hoffmann | Patromierz
+
 permalink: /Kaha_film
 ---
 

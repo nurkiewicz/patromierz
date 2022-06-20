@@ -1,5 +1,6 @@
 ---
-title: "kondzioplayer | Patromierz"
+title: Kondzio Player | Patromierz
+
 permalink: /kondzioplayer
 ---
 

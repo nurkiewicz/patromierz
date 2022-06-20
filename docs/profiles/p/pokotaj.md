@@ -1,5 +1,6 @@
 ---
-title: "pokotaj | Patromierz"
+title: Stowarzyszenie Pokotaj | Patromierz
+
 permalink: /pokotaj
 ---
 

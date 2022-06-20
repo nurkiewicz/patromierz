@@ -1,5 +1,6 @@
 ---
-title: "kupachrustu | Patromierz"
+title: Kupa Chrustu | Patromierz
+
 permalink: /kupachrustu
 ---
 

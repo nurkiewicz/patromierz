@@ -1,5 +1,6 @@
 ---
-title: "FundacjaRAP | Patromierz"
+title: Fundacja RAP | Patromierz
+
 permalink: /FundacjaRAP
 ---
 

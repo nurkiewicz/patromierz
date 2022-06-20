@@ -1,5 +1,6 @@
 ---
-title: "MJN | Patromierz"
+title: Miasto Jest Nasze | Patromierz
+
 permalink: /MJN
 ---
 

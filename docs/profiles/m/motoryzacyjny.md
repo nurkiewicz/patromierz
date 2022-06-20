@@ -1,5 +1,6 @@
 ---
-title: "motoryzacyjny | Patromierz"
+title: "Motoryzacyjny Skr\xF3t Tygodnia | Patromierz"
+
 permalink: /motoryzacyjny
 ---
 

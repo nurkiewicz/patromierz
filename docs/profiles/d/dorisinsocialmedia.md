@@ -1,5 +1,6 @@
 ---
-title: "dorisinsocialmedia | Patromierz"
+title: Doris in Social Media | Patromierz
+
 permalink: /dorisinsocialmedia
 ---
 

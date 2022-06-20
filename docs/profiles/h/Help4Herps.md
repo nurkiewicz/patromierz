@@ -1,5 +1,6 @@
 ---
-title: "Help4Herps | Patromierz"
+title: Fundacja Help4Herps | Patromierz
+
 permalink: /Help4Herps
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "panpiotr | Patromierz"
+title: Pan Piotr | Patromierz
+
 permalink: /panpiotr
 ---
 

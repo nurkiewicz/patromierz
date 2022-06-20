@@ -1,5 +1,6 @@
 ---
-title: "ewtn | Patromierz"
+title: EWTN Polska | Patromierz
+
 permalink: /ewtn
 ---
 

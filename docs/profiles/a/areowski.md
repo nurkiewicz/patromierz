@@ -1,5 +1,6 @@
 ---
-title: "areowski | Patromierz"
+title: Areowski | Patromierz
+
 permalink: /areowski
 ---
 

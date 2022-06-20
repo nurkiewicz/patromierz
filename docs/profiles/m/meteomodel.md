@@ -1,5 +1,6 @@
 ---
-title: "meteomodel | Patromierz"
+title: Meteomodel | Patromierz
+
 permalink: /meteomodel
 ---
 

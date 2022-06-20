@@ -1,5 +1,6 @@
 ---
-title: "agnesonthecloud | Patromierz"
+title: Agnes on the cloud. | Patromierz
+
 permalink: /agnesonthecloud
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "cierpkawisnia | Patromierz"
+title: "Karo Wi\u015Bniewska | Patromierz"
+
 permalink: /cierpkawisnia
 ---
 

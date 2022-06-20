@@ -1,5 +1,6 @@
 ---
-title: "Rakietomania | Patromierz"
+title: Rakietomania | Patromierz
+
 permalink: /Rakietomania
 ---
 

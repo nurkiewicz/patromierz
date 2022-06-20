@@ -1,5 +1,6 @@
 ---
-title: "mkwadrat | Patromierz"
+title: MKwadrat Podcast | Patromierz
+
 permalink: /mkwadrat
 ---
 

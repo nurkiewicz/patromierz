@@ -1,5 +1,6 @@
 ---
-title: "podcastspecjalny | Patromierz"
+title: Podcast Specjalny | Patromierz
+
 permalink: /podcastspecjalny
 ---
 

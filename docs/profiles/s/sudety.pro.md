@@ -1,5 +1,6 @@
 ---
-title: "sudety.pro | Patromierz"
+title: Sudety.pro | Patromierz
+
 permalink: /sudety.pro
 ---
 

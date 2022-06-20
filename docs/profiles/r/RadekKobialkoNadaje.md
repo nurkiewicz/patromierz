@@ -1,5 +1,6 @@
 ---
-title: "RadekKobialkoNadaje | Patromierz"
+title: "Radek Kobia\u0142ko Nadaje | Patromierz"
+
 permalink: /RadekKobialkoNadaje
 ---
 

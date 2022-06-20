@@ -1,5 +1,6 @@
 ---
-title: "Marekirosliny | Patromierz"
+title: "Marek i ro\u015Bliny | Patromierz"
+
 permalink: /Marekirosliny
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kamilsj | Patromierz"
+title: Kamil Boberek | Patromierz
+
 permalink: /kamilsj
 ---
 

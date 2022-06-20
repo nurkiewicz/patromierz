@@ -1,5 +1,6 @@
 ---
-title: "Klasyczny__ | Patromierz"
+title: "Przemys\u0142aw Sumyk | Patromierz"
+
 permalink: /Klasyczny__
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kebson | Patromierz"
+title: "Kebson - Podr\xF3\u017Ce Za Kebabem | Patromierz"
+
 permalink: /kebson
 ---
 

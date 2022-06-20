@@ -1,5 +1,6 @@
 ---
-title: "RatujRyby | Patromierz"
+title: Ratuj Ryby | Patromierz
+
 permalink: /RatujRyby
 ---
 

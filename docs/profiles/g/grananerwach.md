@@ -1,5 +1,6 @@
 ---
-title: "grananerwach | Patromierz"
+title: Gra na nerwach | Patromierz
+
 permalink: /grananerwach
 ---
 

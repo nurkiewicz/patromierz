@@ -1,5 +1,6 @@
 ---
-title: "blizejlasu | Patromierz"
+title: "Daniel Mr\xF3z | Patromierz"
+
 permalink: /blizejlasu
 ---
 

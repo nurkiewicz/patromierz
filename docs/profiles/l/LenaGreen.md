@@ -1,5 +1,6 @@
 ---
-title: "LenaGreen | Patromierz"
+title: "Elena Zieli\u0144ska | Patromierz"
+
 permalink: /LenaGreen
 ---
 

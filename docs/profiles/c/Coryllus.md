@@ -1,5 +1,6 @@
 ---
-title: "Coryllus | Patromierz"
+title: Gabriel Maciejewski | Patromierz
+
 permalink: /Coryllus
 ---
 

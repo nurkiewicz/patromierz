@@ -1,5 +1,6 @@
 ---
-title: "OspWolica | Patromierz"
+title: OSP Wolica | Patromierz
+
 permalink: /OspWolica
 ---
 

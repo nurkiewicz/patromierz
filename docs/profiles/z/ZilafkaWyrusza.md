@@ -1,5 +1,6 @@
 ---
-title: "ZilafkaWyrusza | Patromierz"
+title: Zilafka Wyrusza | Patromierz
+
 permalink: /ZilafkaWyrusza
 ---
 

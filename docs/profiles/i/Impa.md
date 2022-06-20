@@ -1,5 +1,6 @@
 ---
-title: "Impa | Patromierz"
+title: "Impa_Cz\u0142owiek rower :) | Patromierz"
+
 permalink: /Impa
 ---
 

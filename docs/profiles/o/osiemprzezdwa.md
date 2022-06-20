@@ -1,5 +1,6 @@
 ---
-title: "osiemprzezdwa | Patromierz"
+title: OsiemPrzezDwa | Patromierz
+
 permalink: /osiemprzezdwa
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Autor-NorbertKosciesza | Patromierz"
+title: "Norbert Grzegorz Ko\u015Bciesza | Patromierz"
+
 permalink: /Autor-NorbertKosciesza
 ---
 

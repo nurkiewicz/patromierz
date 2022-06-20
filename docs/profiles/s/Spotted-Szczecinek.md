@@ -1,5 +1,6 @@
 ---
-title: "Spotted-Szczecinek | Patromierz"
+title: Spotted Szczecinek | Patromierz
+
 permalink: /Spotted-Szczecinek
 ---
 

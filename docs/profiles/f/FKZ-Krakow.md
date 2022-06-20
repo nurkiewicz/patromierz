@@ -1,5 +1,6 @@
 ---
-title: "FKZ-Krakow | Patromierz"
+title: "Festiwal Kultury \u017Bydowskiej w Krakowie | Patromierz"
+
 permalink: /FKZ-Krakow
 ---
 

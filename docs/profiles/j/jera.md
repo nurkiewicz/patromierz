@@ -1,5 +1,6 @@
 ---
-title: "jera | Patromierz"
+title: Marta Jermaczek-Sitak | Patromierz
+
 permalink: /jera
 ---
 

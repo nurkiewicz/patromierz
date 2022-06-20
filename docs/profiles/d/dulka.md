@@ -1,5 +1,6 @@
 ---
-title: "dulka | Patromierz"
+title: Jan Dulka | Patromierz
+
 permalink: /dulka
 ---
 

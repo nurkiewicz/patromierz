@@ -1,5 +1,6 @@
 ---
-title: "poszlakontra | Patromierz"
+title: "Posz\u0142a Kontra | Patromierz"
+
 permalink: /poszlakontra
 ---
 

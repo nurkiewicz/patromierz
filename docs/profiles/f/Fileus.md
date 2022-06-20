@@ -1,5 +1,6 @@
 ---
-title: "Fileus | Patromierz"
+title: Marcin 'Fileus' Tarka | Patromierz
+
 permalink: /Fileus
 ---
 

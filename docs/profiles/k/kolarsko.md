@@ -1,5 +1,6 @@
 ---
-title: "kolarsko | Patromierz"
+title: Kolarsko.pl | Patromierz
+
 permalink: /kolarsko
 ---
 

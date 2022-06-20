@@ -1,5 +1,6 @@
 ---
-title: "fikoty | Patromierz"
+title: Fikoty | Patromierz
+
 permalink: /fikoty
 ---
 

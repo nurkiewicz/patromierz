@@ -1,5 +1,6 @@
 ---
-title: "sniegulskimusic | Patromierz"
+title: "Mariusz \u015Aniegulski | Patromierz"
+
 permalink: /sniegulskimusic
 ---
 

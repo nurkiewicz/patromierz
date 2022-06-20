@@ -1,5 +1,6 @@
 ---
-title: "oratowski | Patromierz"
+title: Adrian Oratowski | Patromierz
+
 permalink: /oratowski
 ---
 

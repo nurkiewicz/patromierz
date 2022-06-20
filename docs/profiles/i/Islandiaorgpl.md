@@ -1,5 +1,6 @@
 ---
-title: "Islandiaorgpl | Patromierz"
+title: Islandia.org.pl | Patromierz
+
 permalink: /Islandiaorgpl
 ---
 

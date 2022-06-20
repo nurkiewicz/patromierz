@@ -1,5 +1,6 @@
 ---
-title: "zurek | Patromierz"
+title: "Emilia Maria \u017Burek | Patromierz"
+
 permalink: /zurek
 ---
 

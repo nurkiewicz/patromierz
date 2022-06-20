@@ -1,5 +1,6 @@
 ---
-title: "absurdalny | Patromierz"
+title: "Cz\u0142owiek Absurdalny | Patromierz"
+
 permalink: /absurdalny
 ---
 

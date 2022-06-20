@@ -1,5 +1,6 @@
 ---
-title: "Magiaumyslu | Patromierz"
+title: Karolina Borowiec | Patromierz
+
 permalink: /Magiaumyslu
 ---
 

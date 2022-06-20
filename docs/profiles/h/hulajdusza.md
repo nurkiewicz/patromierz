@@ -1,5 +1,6 @@
 ---
-title: "hulajdusza | Patromierz"
+title: Hulaj Dusza | Patromierz
+
 permalink: /hulajdusza
 ---
 

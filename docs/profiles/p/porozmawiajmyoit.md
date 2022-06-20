@@ -1,5 +1,6 @@
 ---
-title: "porozmawiajmyoit | Patromierz"
+title: "Krzysztof Kempi\u0144ski | Patromierz"
+
 permalink: /porozmawiajmyoit
 ---
 

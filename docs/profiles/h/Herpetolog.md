@@ -1,5 +1,6 @@
 ---
-title: "Herpetolog | Patromierz"
+title: Piotr Kazimirski | Patromierz
+
 permalink: /Herpetolog
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ogrodnicza.krowodrza | Patromierz"
+title: Ogrodnicza Krowodrza | Patromierz
+
 permalink: /ogrodnicza.krowodrza
 ---
 

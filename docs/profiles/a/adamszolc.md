@@ -1,5 +1,6 @@
 ---
-title: "adamszolc | Patromierz"
+title: Adam Szolc | Patromierz
+
 permalink: /adamszolc
 ---
 

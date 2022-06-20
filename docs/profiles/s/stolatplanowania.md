@@ -1,5 +1,6 @@
 ---
-title: "stolatplanowania | Patromierz"
+title: Sto Lat Planowania | Patromierz
+
 permalink: /stolatplanowania
 ---
 

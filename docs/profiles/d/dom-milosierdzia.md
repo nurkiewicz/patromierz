@@ -1,5 +1,6 @@
 ---
-title: "dom-milosierdzia | Patromierz"
+title: "Dom Mi\u0142osierdzia w Otmuchowie | Patromierz"
+
 permalink: /dom-milosierdzia
 ---
 

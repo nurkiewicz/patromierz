@@ -1,5 +1,6 @@
 ---
-title: "imaginariumrpg | Patromierz"
+title: Imaginarium RPG | Patromierz
+
 permalink: /imaginariumrpg
 ---
 

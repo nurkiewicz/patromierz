@@ -1,5 +1,6 @@
 ---
-title: "csowicze | Patromierz"
+title: CSowicze.pl | Patromierz
+
 permalink: /csowicze
 ---
 

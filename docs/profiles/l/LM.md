@@ -1,5 +1,6 @@
 ---
-title: "LM | Patromierz"
+title: Lans Macabre | Patromierz
+
 permalink: /LM
 ---
 

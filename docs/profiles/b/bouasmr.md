@@ -1,5 +1,6 @@
 ---
-title: "bouasmr | Patromierz"
+title: Bou ASMR | Patromierz
+
 permalink: /bouasmr
 ---
 

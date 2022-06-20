@@ -1,5 +1,6 @@
 ---
-title: "fika | Patromierz"
+title: Fika Szczecin | Patromierz
+
 permalink: /fika
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kochamnarty | Patromierz"
+title: Forum Narciarskie KochamNarty.pl  | Patromierz
+
 permalink: /kochamnarty
 ---
 

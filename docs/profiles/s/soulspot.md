@@ -1,5 +1,6 @@
 ---
-title: "soulspot | Patromierz"
+title: Soulspot | Patromierz
+
 permalink: /soulspot
 ---
 

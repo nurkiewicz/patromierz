@@ -1,5 +1,6 @@
 ---
-title: "Machinesmaker | Patromierz"
+title: "Adam Maszynotw\xF3r | Patromierz"
+
 permalink: /Machinesmaker
 ---
 

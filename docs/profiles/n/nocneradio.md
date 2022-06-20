@@ -1,5 +1,6 @@
 ---
-title: "nocneradio | Patromierz"
+title: Nocne Radio | Patromierz
+
 permalink: /nocneradio
 ---
 

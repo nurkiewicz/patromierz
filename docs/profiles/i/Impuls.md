@@ -1,5 +1,6 @@
 ---
-title: "Impuls | Patromierz"
+title: "Salka pr\xF3b - Stowarzyszenie Impuls | Patromierz"
+
 permalink: /Impuls
 ---
 

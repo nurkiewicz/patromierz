@@ -1,5 +1,6 @@
 ---
-title: "skazanynafilm | Patromierz"
+title: Skazany na film | Patromierz
+
 permalink: /skazanynafilm
 ---
 

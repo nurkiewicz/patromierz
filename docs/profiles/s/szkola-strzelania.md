@@ -1,5 +1,6 @@
 ---
-title: "szkola-strzelania | Patromierz"
+title: "Szko\u0142a Strzelania | Patromierz"
+
 permalink: /szkola-strzelania
 ---
 

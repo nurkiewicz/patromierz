@@ -1,5 +1,6 @@
 ---
-title: "akademiakeyboardu | Patromierz"
+title: Akademia Keyboardu KeyboardWay | Patromierz
+
 permalink: /akademiakeyboardu
 ---
 

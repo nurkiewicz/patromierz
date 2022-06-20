@@ -1,5 +1,6 @@
 ---
-title: "FundacjaSAWANCI | Patromierz"
+title: Fundacja SAWANCI | Patromierz
+
 permalink: /FundacjaSAWANCI
 ---
 

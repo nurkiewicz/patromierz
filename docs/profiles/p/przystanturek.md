@@ -1,5 +1,6 @@
 ---
-title: "przystanturek | Patromierz"
+title: "Stowarzyszenie PRZYSTA\u0143 | Patromierz"
+
 permalink: /przystanturek
 ---
 

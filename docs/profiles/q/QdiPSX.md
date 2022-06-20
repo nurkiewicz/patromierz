@@ -1,5 +1,6 @@
 ---
-title: "QdiPSX | Patromierz"
+title: QdiPSX | Patromierz
+
 permalink: /QdiPSX
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Gitarowanie | Patromierz"
+title: StivO Gitarowanie | Patromierz
+
 permalink: /Gitarowanie
 ---
 

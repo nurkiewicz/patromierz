@@ -1,5 +1,6 @@
 ---
-title: "TorbaczWombat | Patromierz"
+title: Torbacz Wombat | Patromierz
+
 permalink: /TorbaczWombat
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kajaziomek | Patromierz"
+title: Kaja Ziomek | Patromierz
+
 permalink: /kajaziomek
 ---
 

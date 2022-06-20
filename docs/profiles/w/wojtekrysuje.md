@@ -1,5 +1,6 @@
 ---
-title: "wojtekrysuje | Patromierz"
+title: "Wojtek WU Zieli\u0144ski  | Patromierz"
+
 permalink: /wojtekrysuje
 ---
 

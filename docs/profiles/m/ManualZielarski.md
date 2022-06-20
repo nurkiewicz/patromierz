@@ -1,5 +1,6 @@
 ---
-title: "ManualZielarski | Patromierz"
+title: "Manua\u0142 Zielarski | Patromierz"
+
 permalink: /ManualZielarski
 ---
 

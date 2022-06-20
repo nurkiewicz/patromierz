@@ -1,5 +1,6 @@
 ---
-title: "miloszszymanski | Patromierz"
+title: "Mi\u0142osz Szyma\u0144ski | Patromierz"
+
 permalink: /miloszszymanski
 ---
 

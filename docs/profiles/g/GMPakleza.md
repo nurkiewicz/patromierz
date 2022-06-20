@@ -1,5 +1,6 @@
 ---
-title: "GMPakleza | Patromierz"
+title: Zbigniew Pakleza | Patromierz
+
 permalink: /GMPakleza
 ---
 

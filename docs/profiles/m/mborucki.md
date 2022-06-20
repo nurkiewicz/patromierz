@@ -1,5 +1,6 @@
 ---
-title: "mborucki | Patromierz"
+title: "Micha\u0142 Jan Borucki | Patromierz"
+
 permalink: /mborucki
 ---
 

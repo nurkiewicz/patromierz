@@ -1,5 +1,6 @@
 ---
-title: "jasnapolska | Patromierz"
+title: Jasna Polska | Patromierz
+
 permalink: /jasnapolska
 ---
 

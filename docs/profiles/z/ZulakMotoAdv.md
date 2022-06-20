@@ -1,5 +1,6 @@
 ---
-title: "ZulakMotoAdv | Patromierz"
+title: Zulak MotoAdv | Patromierz
+
 permalink: /ZulakMotoAdv
 ---
 

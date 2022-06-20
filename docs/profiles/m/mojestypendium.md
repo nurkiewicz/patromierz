@@ -1,5 +1,6 @@
 ---
-title: "mojestypendium | Patromierz"
+title: Moje Stypendium | Patromierz
+
 permalink: /mojestypendium
 ---
 

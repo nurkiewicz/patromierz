@@ -1,5 +1,6 @@
 ---
-title: "kazik-tv | Patromierz"
+title: Kazik.TV | Patromierz
+
 permalink: /kazik-tv
 ---
 

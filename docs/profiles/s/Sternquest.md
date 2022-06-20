@@ -1,5 +1,6 @@
 ---
-title: "Sternquest | Patromierz"
+title: Sternquest | Patromierz
+
 permalink: /Sternquest
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KazuCovers | Patromierz"
+title: Kazu | Patromierz
+
 permalink: /KazuCovers
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "TeoriaElektryki | Patromierz"
+title: TeoriaElektryki.pl | Patromierz
+
 permalink: /TeoriaElektryki
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kalkulator-gieldowy | Patromierz"
+title: Kalkulatorgieldowy.pl | Patromierz
+
 permalink: /kalkulator-gieldowy
 ---
 

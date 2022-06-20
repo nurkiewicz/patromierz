@@ -1,5 +1,6 @@
 ---
-title: "zyciepw | Patromierz"
+title: "\u017Bycie Powiatu na Mazowszu | Patromierz"
+
 permalink: /zyciepw
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "szpejtech | Patromierz"
+title: Szpej Tech | Patromierz
+
 permalink: /szpejtech
 ---
 

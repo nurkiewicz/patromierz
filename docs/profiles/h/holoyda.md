@@ -1,5 +1,6 @@
 ---
-title: "holoyda | Patromierz"
+title: Daniel Holoyda Snooker | Patromierz
+
 permalink: /holoyda
 ---
 

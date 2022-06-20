@@ -1,5 +1,6 @@
 ---
-title: "PIANA | Patromierz"
+title: Galeria Piana | Patromierz
+
 permalink: /PIANA
 ---
 

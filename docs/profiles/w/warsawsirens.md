@@ -1,5 +1,6 @@
 ---
-title: "warsawsirens | Patromierz"
+title: Warsaw Sirens | Patromierz
+
 permalink: /warsawsirens
 ---
 

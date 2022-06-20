@@ -1,5 +1,6 @@
 ---
-title: "fik | Patromierz"
+title: Forum Inspiracji Kulturalnych  | Patromierz
+
 permalink: /fik
 ---
 

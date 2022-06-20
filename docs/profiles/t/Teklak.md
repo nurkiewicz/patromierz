@@ -1,5 +1,6 @@
 ---
-title: "Teklak | Patromierz"
+title: Radek Teklak | Patromierz
+
 permalink: /Teklak
 ---
 

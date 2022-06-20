@@ -1,5 +1,6 @@
 ---
-title: "sedzia | Patromierz"
+title: "Rafa\u0142 Rostkowski | Patromierz"
+
 permalink: /sedzia
 ---
 

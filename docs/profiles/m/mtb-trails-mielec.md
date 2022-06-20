@@ -1,5 +1,6 @@
 ---
-title: "mtb-trails-mielec | Patromierz"
+title: MTB Trails Mielec | Patromierz
+
 permalink: /mtb-trails-mielec
 ---
 

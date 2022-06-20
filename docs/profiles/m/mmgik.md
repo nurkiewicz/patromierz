@@ -1,5 +1,6 @@
 ---
-title: "mmgik | Patromierz"
+title: "Milanowskie Muzeum Gier i Komputer\xF3w | Patromierz"
+
 permalink: /mmgik
 ---
 

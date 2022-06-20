@@ -1,5 +1,6 @@
 ---
-title: "paniliterka | Patromierz"
+title: pani.literka | Patromierz
+
 permalink: /paniliterka
 ---
 

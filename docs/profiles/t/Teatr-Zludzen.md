@@ -1,5 +1,6 @@
 ---
-title: "Teatr-Zludzen | Patromierz"
+title: "Teatr Z\u0142udze\u0144 prezentuje: IMP | Patromierz"
+
 permalink: /Teatr-Zludzen
 ---
 

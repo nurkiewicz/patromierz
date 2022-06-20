@@ -1,5 +1,6 @@
 ---
-title: "ryzykonarracyjne | Patromierz"
+title: Ryzyko Narracyjne | Patromierz
+
 permalink: /ryzykonarracyjne
 ---
 

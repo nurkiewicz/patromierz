@@ -1,5 +1,6 @@
 ---
-title: "dzieciwnature | Patromierz"
+title: "Fundacja Dzieci w Natur\u0119 | Patromierz"
+
 permalink: /dzieciwnature
 ---
 

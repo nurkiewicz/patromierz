@@ -1,5 +1,6 @@
 ---
-title: "FrontemDoSyrii | Patromierz"
+title: Frontem do Syrii | Patromierz
+
 permalink: /FrontemDoSyrii
 ---
 

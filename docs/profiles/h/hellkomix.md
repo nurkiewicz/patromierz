@@ -1,5 +1,6 @@
 ---
-title: "hellkomix | Patromierz"
+title: Hellkomix | Patromierz
+
 permalink: /hellkomix
 ---
 

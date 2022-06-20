@@ -1,5 +1,6 @@
 ---
-title: "Motofretka | Patromierz"
+title: "Kamila Pa\u0142ka | Patromierz"
+
 permalink: /Motofretka
 ---
 

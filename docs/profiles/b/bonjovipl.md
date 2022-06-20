@@ -1,5 +1,6 @@
 ---
-title: "bonjovipl | Patromierz"
+title: Always - Bon Jovi Portal | Patromierz
+
 permalink: /bonjovipl
 ---
 

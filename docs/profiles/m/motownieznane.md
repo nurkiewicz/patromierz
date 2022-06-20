@@ -1,5 +1,6 @@
 ---
-title: "motownieznane | Patromierz"
+title: Motocyklem w Nieznane | Patromierz
+
 permalink: /motownieznane
 ---
 

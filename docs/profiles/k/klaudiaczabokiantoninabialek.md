@@ -1,5 +1,6 @@
 ---
-title: "klaudiaczabokiantoninabialek | Patromierz"
+title: "Klaudia Czabok i Antonina Bia\u0142ek | Patromierz"
+
 permalink: /klaudiaczabokiantoninabialek
 ---
 

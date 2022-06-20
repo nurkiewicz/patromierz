@@ -1,5 +1,6 @@
 ---
-title: "radiosk | Patromierz"
+title: Radio SK - Polski podcast o Stephenie Kingu | Patromierz
+
 permalink: /radiosk
 ---
 

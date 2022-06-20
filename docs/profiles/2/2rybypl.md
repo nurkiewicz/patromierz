@@ -1,5 +1,6 @@
 ---
-title: "2rybypl | Patromierz"
+title: 2ryby.pl | Patromierz
+
 permalink: /2rybypl
 ---
 

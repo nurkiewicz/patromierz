@@ -1,5 +1,6 @@
 ---
-title: "szepthanki | Patromierz"
+title: Szepthanki Podcast | Patromierz
+
 permalink: /szepthanki
 ---
 

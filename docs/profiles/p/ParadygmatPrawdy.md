@@ -1,5 +1,6 @@
 ---
-title: "ParadygmatPrawdy | Patromierz"
+title: Paradygmat Prawdy | Patromierz
+
 permalink: /ParadygmatPrawdy
 ---
 

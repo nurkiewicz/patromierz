@@ -1,5 +1,6 @@
 ---
-title: "godlewskiart | Patromierz"
+title: "\u0141ukasz Godlewski | Patromierz"
+
 permalink: /godlewskiart
 ---
 

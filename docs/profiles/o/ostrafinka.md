@@ -1,5 +1,6 @@
 ---
-title: "ostrafinka | Patromierz"
+title: Ostra FINKA | Patromierz
+
 permalink: /ostrafinka
 ---
 

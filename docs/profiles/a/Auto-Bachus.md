@@ -1,5 +1,6 @@
 ---
-title: "Auto-Bachus | Patromierz"
+title: "AUTO-BACHUS Naczelny Bezczelny Nosacz W\u015Br\xF3d Januszy-Kamil :) | Patromierz"
+
 permalink: /Auto-Bachus
 ---
 

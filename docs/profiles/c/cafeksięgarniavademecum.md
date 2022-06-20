@@ -1,5 +1,6 @@
 ---
-title: "cafeksięgarniavademecum | Patromierz"
+title: "Cafe Ksi\u0119garnia Vademecum | Patromierz"
+
 permalink: /cafeksięgarniavademecum
 ---
 

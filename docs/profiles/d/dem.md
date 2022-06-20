@@ -1,5 +1,6 @@
 ---
-title: "dem | Patromierz"
+title: Dem | Patromierz
+
 permalink: /dem
 ---
 

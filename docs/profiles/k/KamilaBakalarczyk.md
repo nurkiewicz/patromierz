@@ -1,5 +1,6 @@
 ---
-title: "KamilaBakalarczyk | Patromierz"
+title: Kamila Bakalarczyk | Patromierz
+
 permalink: /KamilaBakalarczyk
 ---
 

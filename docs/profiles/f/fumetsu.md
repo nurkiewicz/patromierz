@@ -1,5 +1,6 @@
 ---
-title: "fumetsu | Patromierz"
+title: Fumetsu Subs | Patromierz
+
 permalink: /fumetsu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "CezaryGutowski | Patromierz"
+title: Cezary Gutowski | Patromierz
+
 permalink: /CezaryGutowski
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "SPTGADZIARNIA | Patromierz"
+title: GADZIARNIA | Patromierz
+
 permalink: /SPTGADZIARNIA
 ---
 

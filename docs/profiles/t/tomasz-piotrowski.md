@@ -1,5 +1,6 @@
 ---
-title: "tomasz-piotrowski | Patromierz"
+title: Tomasz Piotrowski | Patromierz
+
 permalink: /tomasz-piotrowski
 ---
 

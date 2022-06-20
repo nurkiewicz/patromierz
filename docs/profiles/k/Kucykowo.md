@@ -1,5 +1,6 @@
 ---
-title: "Kucykowo | Patromierz"
+title: Fundacja Azyl dla Koni Kucykowo | Patromierz
+
 permalink: /Kucykowo
 ---
 

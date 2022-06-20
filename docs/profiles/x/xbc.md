@@ -1,5 +1,6 @@
 ---
-title: "xbc | Patromierz"
+title: XBestCinema | Patromierz
+
 permalink: /xbc
 ---
 

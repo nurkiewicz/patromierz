@@ -1,5 +1,6 @@
 ---
-title: "romanfanpolszy | Patromierz"
+title: Roman FanPolszy | Patromierz
+
 permalink: /romanfanpolszy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "blaugranapl | Patromierz"
+title: Blaugrana.pl | Patromierz
+
 permalink: /blaugranapl
 ---
 

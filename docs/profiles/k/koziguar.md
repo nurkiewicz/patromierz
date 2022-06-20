@@ -1,5 +1,6 @@
 ---
-title: "koziguar | Patromierz"
+title: Koziguar | Patromierz
+
 permalink: /koziguar
 ---
 

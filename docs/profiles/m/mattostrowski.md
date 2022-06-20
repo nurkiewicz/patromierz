@@ -1,5 +1,6 @@
 ---
-title: "mattostrowski | Patromierz"
+title: Matt Ostrowski | Patromierz
+
 permalink: /mattostrowski
 ---
 

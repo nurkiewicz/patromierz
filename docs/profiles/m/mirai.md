@@ -1,5 +1,6 @@
 ---
-title: "mirai | Patromierz"
+title: Grupa Mirai | Patromierz
+
 permalink: /mirai
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "skarpa | Patromierz"
+title: Bikepark Skarpa | Patromierz
+
 permalink: /skarpa
 ---
 

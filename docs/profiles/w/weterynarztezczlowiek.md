@@ -1,5 +1,6 @@
 ---
-title: "weterynarztezczlowiek | Patromierz"
+title: weterynarz.tez.czlowiek - M.Firlej-Oliwa | Patromierz
+
 permalink: /weterynarztezczlowiek
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "matrik | Patromierz"
+title: MATRIK | Patromierz
+
 permalink: /matrik
 ---
 

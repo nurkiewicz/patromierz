@@ -1,5 +1,6 @@
 ---
-title: "ubogapodcast | Patromierz"
+title: UBoga. Podcast z Ducha strony | Patromierz
+
 permalink: /ubogapodcast
 ---
 

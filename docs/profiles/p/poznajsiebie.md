@@ -1,5 +1,6 @@
 ---
-title: "poznajsiebie | Patromierz"
+title: Poznaj Siebie | Patromierz
+
 permalink: /poznajsiebie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ajkaminimalistka | Patromierz"
+title: Anna Mularczyk-Meyer | Patromierz
+
 permalink: /ajkaminimalistka
 ---
 

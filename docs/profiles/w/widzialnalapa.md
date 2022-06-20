@@ -1,5 +1,6 @@
 ---
-title: "widzialnalapa | Patromierz"
+title: "Widzialna \u0141apa | Patromierz"
+
 permalink: /widzialnalapa
 ---
 

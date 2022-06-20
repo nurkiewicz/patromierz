@@ -1,5 +1,6 @@
 ---
-title: "dobrywieczoreuropo | Patromierz"
+title: "Dobry wiecz\xF3r Europo! | Patromierz"
+
 permalink: /dobrywieczoreuropo
 ---
 

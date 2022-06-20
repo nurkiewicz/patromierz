@@ -1,5 +1,6 @@
 ---
-title: "freszowo | Patromierz"
+title: Tomasz Rudolf | Patromierz
+
 permalink: /freszowo
 ---
 

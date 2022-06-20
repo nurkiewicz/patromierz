@@ -1,5 +1,6 @@
 ---
-title: "duchyimperiumrosyjskiego | Patromierz"
+title: Duchy Imperium Rosyjskiego | Patromierz
+
 permalink: /duchyimperiumrosyjskiego
 ---
 

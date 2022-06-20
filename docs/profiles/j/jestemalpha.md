@@ -1,5 +1,6 @@
 ---
-title: "jestemalpha | Patromierz"
+title: jestemAlpha. | Patromierz
+
 permalink: /jestemalpha
 ---
 

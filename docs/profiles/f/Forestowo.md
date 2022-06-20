@@ -1,5 +1,6 @@
 ---
-title: "Forestowo | Patromierz"
+title: Forestowo | Patromierz
+
 permalink: /Forestowo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "VademecumLiturgiczne | Patromierz"
+title: Vademecum Liturgiczne | Patromierz
+
 permalink: /VademecumLiturgiczne
 ---
 

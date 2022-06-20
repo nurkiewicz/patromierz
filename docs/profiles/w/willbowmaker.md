@@ -1,5 +1,6 @@
 ---
-title: "willbowmaker | Patromierz"
+title: Will Bowmaker | Patromierz
+
 permalink: /willbowmaker
 ---
 

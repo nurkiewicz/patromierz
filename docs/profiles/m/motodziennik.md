@@ -1,5 +1,6 @@
 ---
-title: "motodziennik | Patromierz"
+title: MotoDziennik  | Patromierz
+
 permalink: /motodziennik
 ---
 

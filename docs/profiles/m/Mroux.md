@@ -1,5 +1,6 @@
 ---
-title: "Mroux | Patromierz"
+title: Mroux  | Patromierz
+
 permalink: /Mroux
 ---
 

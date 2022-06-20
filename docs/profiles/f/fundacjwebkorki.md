@@ -1,5 +1,6 @@
 ---
-title: "fundacjwebkorki | Patromierz"
+title: Fundacja WEB-KORKI | Patromierz
+
 permalink: /fundacjwebkorki
 ---
 

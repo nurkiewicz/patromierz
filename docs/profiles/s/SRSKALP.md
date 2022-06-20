@@ -1,5 +1,6 @@
 ---
-title: "SRSKALP | Patromierz"
+title: "Stowarzyszenie Robotyk\xF3w SKALP | Patromierz"
+
 permalink: /SRSKALP
 ---
 

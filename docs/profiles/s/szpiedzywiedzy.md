@@ -1,5 +1,6 @@
 ---
-title: "szpiedzywiedzy | Patromierz"
+title: SzpiedzyWiedzy.pl | Patromierz
+
 permalink: /szpiedzywiedzy
 ---
 

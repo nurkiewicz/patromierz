@@ -1,5 +1,6 @@
 ---
-title: "filozofuj | Patromierz"
+title: Filozofuj! | Patromierz
+
 permalink: /filozofuj
 ---
 

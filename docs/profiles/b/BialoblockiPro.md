@@ -1,5 +1,6 @@
 ---
-title: "BialoblockiPro | Patromierz"
+title: BIALOBLOCKI PRO COACHING TEAM | Patromierz
+
 permalink: /BialoblockiPro
 ---
 

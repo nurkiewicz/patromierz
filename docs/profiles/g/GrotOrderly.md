@@ -1,5 +1,6 @@
 ---
-title: "GrotOrderly | Patromierz"
+title: Grot Orderly | Patromierz
+
 permalink: /GrotOrderly
 ---
 

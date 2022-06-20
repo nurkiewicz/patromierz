@@ -1,5 +1,6 @@
 ---
-title: "Odyn | Patromierz"
+title: Odyn | Patromierz
+
 permalink: /Odyn
 ---
 

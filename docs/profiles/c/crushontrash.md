@@ -1,5 +1,6 @@
 ---
-title: "crushontrash | Patromierz"
+title: Crush On Trash | Patromierz
+
 permalink: /crushontrash
 ---
 

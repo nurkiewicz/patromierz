@@ -1,5 +1,6 @@
 ---
-title: "tzt | Patromierz"
+title: "Tak\u017BeTego | Patromierz"
+
 permalink: /tzt
 ---
 

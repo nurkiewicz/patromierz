@@ -1,5 +1,6 @@
 ---
-title: "hardkorowahistoria | Patromierz"
+title: Hardkorowa Historia | Patromierz
+
 permalink: /hardkorowahistoria
 ---
 

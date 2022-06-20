@@ -1,5 +1,7 @@
 ---
-title: "ogien-przebudzenia | Patromierz"
+title: "Tomasz Doro\u017Ca\u0142a - S\u0142u\u017Cba Apostolska \"Ogie\u0144 Przebudzenia\"\
+  \ | Patromierz"
+
 permalink: /ogien-przebudzenia
 ---
 

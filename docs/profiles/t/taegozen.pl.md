@@ -1,5 +1,6 @@
 ---
-title: "taegozen.pl | Patromierz"
+title: "Szko\u0142a Zen Taego | Patromierz"
+
 permalink: /taegozen.pl
 ---
 

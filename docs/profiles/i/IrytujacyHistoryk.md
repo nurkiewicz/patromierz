@@ -1,5 +1,6 @@
 ---
-title: "IrytujacyHistoryk | Patromierz"
+title: "Irytuj\u0105cy Historyk | Patromierz"
+
 permalink: /IrytujacyHistoryk
 ---
 

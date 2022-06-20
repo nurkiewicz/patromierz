@@ -1,5 +1,6 @@
 ---
-title: "agnieszkakowalska | Patromierz"
+title: Agnieszka Kowalska | Patromierz
+
 permalink: /agnieszkakowalska
 ---
 

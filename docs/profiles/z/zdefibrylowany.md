@@ -1,5 +1,6 @@
 ---
-title: "zdefibrylowany | Patromierz"
+title: Zdefibrylowany | Patromierz
+
 permalink: /zdefibrylowany
 ---
 

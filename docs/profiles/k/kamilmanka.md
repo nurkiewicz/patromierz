@@ -1,5 +1,6 @@
 ---
-title: "kamilmanka | Patromierz"
+title: "Magnanima - Kamil Ma\u0144ka | Patromierz"
+
 permalink: /kamilmanka
 ---
 

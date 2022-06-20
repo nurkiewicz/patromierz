@@ -1,5 +1,6 @@
 ---
-title: "lepszykomentator | Patromierz"
+title: Lepszy Komentator | Patromierz
+
 permalink: /lepszykomentator
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "mieczyslaw_lusiak | Patromierz"
+title: "Mieczys\u0142aw \u0141usiak SJ | Patromierz"
+
 permalink: /mieczyslaw_lusiak
 ---
 

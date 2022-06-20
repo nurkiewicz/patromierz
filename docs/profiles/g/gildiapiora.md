@@ -1,5 +1,6 @@
 ---
-title: "gildiapiora | Patromierz"
+title: "Gildia Pi\xF3ra | Patromierz"
+
 permalink: /gildiapiora
 ---
 

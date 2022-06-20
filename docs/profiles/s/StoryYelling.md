@@ -1,5 +1,6 @@
 ---
-title: "StoryYelling | Patromierz"
+title: "Maciej G\u0142owacki | Patromierz"
+
 permalink: /StoryYelling
 ---
 

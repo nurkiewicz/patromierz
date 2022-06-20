@@ -1,5 +1,6 @@
 ---
-title: "ucieczkadoraju | Patromierz"
+title: Damian Drazek | Patromierz
+
 permalink: /ucieczkadoraju
 ---
 

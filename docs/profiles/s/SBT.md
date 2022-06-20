@@ -1,5 +1,6 @@
 ---
-title: "SBT | Patromierz"
+title: Wojciech Ciemski | SecurityBezTabu.pl | Patromierz
+
 permalink: /SBT
 ---
 

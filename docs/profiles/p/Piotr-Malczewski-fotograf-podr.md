@@ -1,5 +1,6 @@
 ---
-title: "Piotr-Malczewski-fotograf-podr | Patromierz"
+title: Piotr Malczewski | Patromierz
+
 permalink: /Piotr-Malczewski-fotograf-podr
 ---
 

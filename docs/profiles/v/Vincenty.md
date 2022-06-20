@@ -1,5 +1,6 @@
 ---
-title: "Vincenty | Patromierz"
+title: Vincenty Docent | Patromierz
+
 permalink: /Vincenty
 ---
 

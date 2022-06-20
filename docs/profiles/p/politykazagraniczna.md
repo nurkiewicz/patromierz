@@ -1,5 +1,6 @@
 ---
-title: "politykazagraniczna | Patromierz"
+title: Polityka Zagraniczna | Patromierz
+
 permalink: /politykazagraniczna
 ---
 

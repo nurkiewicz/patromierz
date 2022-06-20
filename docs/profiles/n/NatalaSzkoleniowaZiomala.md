@@ -1,5 +1,6 @@
 ---
-title: "NatalaSzkoleniowaZiomala | Patromierz"
+title: Natala Szkoleniowa Ziomala | Patromierz
+
 permalink: /NatalaSzkoleniowaZiomala
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wrapstermateuszpopow | Patromierz"
+title: Wrapster | Mateusz Popow | Patromierz
+
 permalink: /wrapstermateuszpopow
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "OgniwoSzczecin | Patromierz"
+title: Ogniwo Szczecin | Patromierz
+
 permalink: /OgniwoSzczecin
 ---
 

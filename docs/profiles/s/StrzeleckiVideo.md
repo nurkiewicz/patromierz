@@ -1,5 +1,6 @@
 ---
-title: "StrzeleckiVideo | Patromierz"
+title: Adam Strzelecki | Patromierz
+
 permalink: /StrzeleckiVideo
 ---
 

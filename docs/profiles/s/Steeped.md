@@ -1,5 +1,6 @@
 ---
-title: "Steeped | Patromierz"
+title: STEEPED | Patromierz
+
 permalink: /Steeped
 ---
 

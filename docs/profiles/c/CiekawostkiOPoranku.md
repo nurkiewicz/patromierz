@@ -1,5 +1,6 @@
 ---
-title: "CiekawostkiOPoranku | Patromierz"
+title: Ciekawostki o Poranku | Patromierz
+
 permalink: /CiekawostkiOPoranku
 ---
 

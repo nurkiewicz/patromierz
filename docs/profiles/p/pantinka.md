@@ -1,5 +1,6 @@
 ---
-title: "pantinka | Patromierz"
+title: Pantinka | Patromierz
+
 permalink: /pantinka
 ---
 

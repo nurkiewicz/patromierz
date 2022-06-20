@@ -1,5 +1,6 @@
 ---
-title: "spadkobiercafikcji | Patromierz"
+title: "Micha\u0142 Rain | Patromierz"
+
 permalink: /spadkobiercafikcji
 ---
 

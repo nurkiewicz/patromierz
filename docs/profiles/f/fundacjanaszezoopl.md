@@ -1,5 +1,6 @@
 ---
-title: "fundacjanaszezoopl | Patromierz"
+title: Fundacja NaszeZoo.pl | Patromierz
+
 permalink: /fundacjanaszezoopl
 ---
 

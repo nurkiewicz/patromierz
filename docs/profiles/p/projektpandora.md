@@ -1,5 +1,6 @@
 ---
-title: "projektpandora | Patromierz"
+title: Projekt Pandora | Patromierz
+
 permalink: /projektpandora
 ---
 

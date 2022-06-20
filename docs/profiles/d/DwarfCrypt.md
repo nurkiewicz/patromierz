@@ -1,5 +1,6 @@
 ---
-title: "DwarfCrypt | Patromierz"
+title: "Micha\u0142 Kucharski | Patromierz"
+
 permalink: /DwarfCrypt
 ---
 

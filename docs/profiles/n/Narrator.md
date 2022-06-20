@@ -1,5 +1,6 @@
 ---
-title: "Narrator | Patromierz"
+title: Refur Narrator | Patromierz
+
 permalink: /Narrator
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "skatehistoria | Patromierz"
+title: Skatehistoria.pl - Historia Polskiej Deskorolki | Patromierz
+
 permalink: /skatehistoria
 ---
 

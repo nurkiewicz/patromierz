@@ -1,5 +1,6 @@
 ---
-title: "Tusiefilmuje | Patromierz"
+title: "Miros\u0142aw Mi\u015Btak | Patromierz"
+
 permalink: /Tusiefilmuje
 ---
 

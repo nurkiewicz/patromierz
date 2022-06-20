@@ -1,5 +1,6 @@
 ---
-title: "okruchykultury | Patromierz"
+title: Okruchy Kultury | Patromierz
+
 permalink: /okruchykultury
 ---
 

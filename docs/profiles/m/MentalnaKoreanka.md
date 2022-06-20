@@ -1,5 +1,6 @@
 ---
-title: "MentalnaKoreanka | Patromierz"
+title: Agata Jung | Patromierz
+
 permalink: /MentalnaKoreanka
 ---
 

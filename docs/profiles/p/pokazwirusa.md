@@ -1,5 +1,6 @@
 ---
-title: "pokazwirusa | Patromierz"
+title: pokazwirusa.pl | Patromierz
+
 permalink: /pokazwirusa
 ---
 

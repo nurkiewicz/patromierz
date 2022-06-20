@@ -1,5 +1,6 @@
 ---
-title: "nietylkobajki | Patromierz"
+title: Nie Tylko Bajki | Patromierz
+
 permalink: /nietylkobajki
 ---
 

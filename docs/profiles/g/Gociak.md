@@ -1,5 +1,6 @@
 ---
-title: "Gociak | Patromierz"
+title: Irys Korsak | Patromierz
+
 permalink: /Gociak
 ---
 

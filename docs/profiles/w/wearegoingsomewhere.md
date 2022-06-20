@@ -1,5 +1,6 @@
 ---
-title: "wearegoingsomewhere | Patromierz"
+title: DavidM (WeAreGoingSomewhere) | Patromierz
+
 permalink: /wearegoingsomewhere
 ---
 

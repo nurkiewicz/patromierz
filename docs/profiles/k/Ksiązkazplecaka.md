@@ -1,5 +1,6 @@
 ---
-title: "Ksiązkazplecaka | Patromierz"
+title: Lech Giemza | Patromierz
+
 permalink: /Ksiązkazplecaka
 ---
 

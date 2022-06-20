@@ -1,5 +1,6 @@
 ---
-title: "teatrprzypadkowferalnych | Patromierz"
+title: "Teatr Przypadk\xF3w Feralnych | Patromierz"
+
 permalink: /teatrprzypadkowferalnych
 ---
 

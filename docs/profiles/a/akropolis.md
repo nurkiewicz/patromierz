@@ -1,5 +1,6 @@
 ---
-title: "akropolis | Patromierz"
+title: Nowa Akropolis | Patromierz
+
 permalink: /akropolis
 ---
 

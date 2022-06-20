@@ -1,5 +1,6 @@
 ---
-title: "www.dominikrettinger | Patromierz"
+title: Dominik Wieczorkowski-Rettinger | Patromierz
+
 permalink: /www.dominikrettinger
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "klejbor-na-kresach-swiata | Patromierz"
+title: "Klejbor na Kresach \u015Awiata | Patromierz"
+
 permalink: /klejbor-na-kresach-swiata
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kreskowkast | Patromierz"
+title: "Kresk\xF3wkast | Patromierz"
+
 permalink: /kreskowkast
 ---
 

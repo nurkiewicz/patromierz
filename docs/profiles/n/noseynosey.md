@@ -1,5 +1,6 @@
 ---
-title: "noseynosey | Patromierz"
+title: Nosey Nosey | Patromierz
+
 permalink: /noseynosey
 ---
 

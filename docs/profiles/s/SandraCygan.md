@@ -1,5 +1,6 @@
 ---
-title: "SandraCygan | Patromierz"
+title: Sandra Cygan | Patromierz
+
 permalink: /SandraCygan
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "stalinek7 | Patromierz"
+title: Filipiny moja historia | Patromierz
+
 permalink: /stalinek7
 ---
 

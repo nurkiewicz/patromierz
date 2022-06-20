@@ -1,5 +1,6 @@
 ---
-title: "dzialzagraniczny | Patromierz"
+title: "Dzia\u0142 Zagraniczny | Patromierz"
+
 permalink: /dzialzagraniczny
 ---
 

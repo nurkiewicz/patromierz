@@ -1,5 +1,6 @@
 ---
-title: "Boudicca | Patromierz"
+title: "Okr\u0119t Boudicca | Patromierz"
+
 permalink: /Boudicca
 ---
 

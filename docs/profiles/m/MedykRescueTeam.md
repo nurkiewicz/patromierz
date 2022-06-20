@@ -1,5 +1,6 @@
 ---
-title: "MedykRescueTeam | Patromierz"
+title: MEDYK RESCUE TEAM | Patromierz
+
 permalink: /MedykRescueTeam
 ---
 

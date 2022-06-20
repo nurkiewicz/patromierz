@@ -1,5 +1,6 @@
 ---
-title: "sokayka | Patromierz"
+title: So Kayka | Patromierz
+
 permalink: /sokayka
 ---
 

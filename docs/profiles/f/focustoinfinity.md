@@ -1,5 +1,6 @@
 ---
-title: "focustoinfinity | Patromierz"
+title: Focus to Infinity | Patromierz
+
 permalink: /focustoinfinity
 ---
 

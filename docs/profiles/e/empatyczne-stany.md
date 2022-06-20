@@ -1,5 +1,6 @@
 ---
-title: "empatyczne-stany | Patromierz"
+title: "Empatyczne Stany \u015Awiadomo\u015Bci | Patromierz"
+
 permalink: /empatyczne-stany
 ---
 

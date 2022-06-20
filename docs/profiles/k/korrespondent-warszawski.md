@@ -1,5 +1,6 @@
 ---
-title: "korrespondent-warszawski | Patromierz"
+title: Korrespondent Warszawski | Patromierz
+
 permalink: /korrespondent-warszawski
 ---
 

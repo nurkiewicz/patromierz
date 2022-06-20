@@ -1,5 +1,6 @@
 ---
-title: "healthnature | Patromierz"
+title: Health & Nature | Patromierz
+
 permalink: /healthnature
 ---
 

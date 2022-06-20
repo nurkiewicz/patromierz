@@ -1,5 +1,6 @@
 ---
-title: "sztucznefiolki | Patromierz"
+title: "Sztuczne Fio\u0142ki | Patromierz"
+
 permalink: /sztucznefiolki
 ---
 

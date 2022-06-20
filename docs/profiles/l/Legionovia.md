@@ -1,5 +1,6 @@
 ---
-title: "Legionovia | Patromierz"
+title: "I\u0141 Capital Legionovia Legionowo | Patromierz"
+
 permalink: /Legionovia
 ---
 

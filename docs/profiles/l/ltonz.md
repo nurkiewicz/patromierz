@@ -1,5 +1,6 @@
 ---
-title: "ltonz | Patromierz"
+title: "\u0141\xF3dzkie Towarzystwo Opieki nad Zwierz\u0119tami | Patromierz"
+
 permalink: /ltonz
 ---
 

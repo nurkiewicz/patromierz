@@ -1,5 +1,6 @@
 ---
-title: "SekcjaGimnastyczna | Patromierz"
+title: Sekcja Gimnastyczna | Patromierz
+
 permalink: /SekcjaGimnastyczna
 ---
 

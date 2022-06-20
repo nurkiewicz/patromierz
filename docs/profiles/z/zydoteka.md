@@ -1,5 +1,6 @@
 ---
-title: "zydoteka | Patromierz"
+title: "\u017Bydoteka | Patromierz"
+
 permalink: /zydoteka
 ---
 

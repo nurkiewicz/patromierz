@@ -1,5 +1,6 @@
 ---
-title: "rcc | Patromierz"
+title: "Rugby Club Cz\u0119stochowa | Patromierz"
+
 permalink: /rcc
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "pch24tv | Patromierz"
+title: PCh24TV | Patromierz
+
 permalink: /pch24tv
 ---
 

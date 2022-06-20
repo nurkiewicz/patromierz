@@ -1,5 +1,6 @@
 ---
-title: "jwesolowski | Patromierz"
+title: "Jacek Weso\u0142owski | Patromierz"
+
 permalink: /jwesolowski
 ---
 

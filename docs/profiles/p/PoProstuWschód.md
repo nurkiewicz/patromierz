@@ -1,5 +1,6 @@
 ---
-title: "PoProstuWschód | Patromierz"
+title: Piotr Pogorzelski | Patromierz
+
 permalink: /PoProstuWschód
 ---
 

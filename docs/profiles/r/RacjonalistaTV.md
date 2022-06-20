@@ -1,5 +1,6 @@
 ---
-title: "RacjonalistaTV | Patromierz"
+title: Racjonalista.tv | Patromierz
+
 permalink: /RacjonalistaTV
 ---
 

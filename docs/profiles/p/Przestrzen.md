@@ -1,5 +1,6 @@
 ---
-title: "Przestrzen | Patromierz"
+title: Grzegorz Krzeminski | Patromierz
+
 permalink: /Przestrzen
 ---
 

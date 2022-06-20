@@ -1,5 +1,6 @@
 ---
-title: "typowyjedrzej | Patromierz"
+title: "Typowy J\u0119drzej | Patromierz"
+
 permalink: /typowyjedrzej
 ---
 

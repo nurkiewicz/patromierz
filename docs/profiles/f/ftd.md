@@ -1,5 +1,6 @@
 ---
-title: "ftd | Patromierz"
+title: Fundacja Twoje Dziedzictwo | Patromierz
+
 permalink: /ftd
 ---
 

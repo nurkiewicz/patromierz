@@ -1,5 +1,6 @@
 ---
-title: "szeptykniei | Patromierz"
+title: Sebastian Czeremcha | Patromierz
+
 permalink: /szeptykniei
 ---
 

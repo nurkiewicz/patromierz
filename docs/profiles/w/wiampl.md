@@ -1,5 +1,6 @@
 ---
-title: "wiampl | Patromierz"
+title: WIAM.pl | Patromierz
+
 permalink: /wiampl
 ---
 

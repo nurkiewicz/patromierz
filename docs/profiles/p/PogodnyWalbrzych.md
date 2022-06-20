@@ -1,5 +1,6 @@
 ---
-title: "PogodnyWalbrzych | Patromierz"
+title: "Pogodny Wa\u0142brzych | Patromierz"
+
 permalink: /PogodnyWalbrzych
 ---
 

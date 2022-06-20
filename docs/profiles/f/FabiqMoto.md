@@ -1,5 +1,6 @@
 ---
-title: "FabiqMoto | Patromierz"
+title: "Fabiq Moto i Martu\u015B | Patromierz"
+
 permalink: /FabiqMoto
 ---
 

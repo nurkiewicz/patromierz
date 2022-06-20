@@ -1,5 +1,6 @@
 ---
-title: "lukaszcf | Patromierz"
+title: "\u0141ukasz  Szetela  | Patromierz"
+
 permalink: /lukaszcf
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "dlapragi | Patromierz"
+title: Porozumienie dla Pragi | Patromierz
+
 permalink: /dlapragi
 ---
 

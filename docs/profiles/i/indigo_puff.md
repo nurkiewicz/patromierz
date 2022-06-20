@@ -1,5 +1,6 @@
 ---
-title: "indigo_puff | Patromierz"
+title: Indigo Puff | Patromierz
+
 permalink: /indigo_puff
 ---
 

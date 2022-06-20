@@ -1,5 +1,6 @@
 ---
-title: "nantai-tv | Patromierz"
+title: "Pawe\u0142 Vogelsinger | Patromierz"
+
 permalink: /nantai-tv
 ---
 

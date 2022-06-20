@@ -1,5 +1,6 @@
 ---
-title: "frmp | Patromierz"
+title: Fundacja Ratownictwo Motocyklowe Polska  | Patromierz
+
 permalink: /frmp
 ---
 

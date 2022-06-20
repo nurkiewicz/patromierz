@@ -1,5 +1,6 @@
 ---
-title: "Gogetters | Patromierz"
+title: GoGetters | Patromierz
+
 permalink: /Gogetters
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "CoachKuba | Patromierz"
+title: Kuba Rosinski | Patromierz
+
 permalink: /CoachKuba
 ---
 

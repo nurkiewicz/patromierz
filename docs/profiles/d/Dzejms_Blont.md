@@ -1,5 +1,6 @@
 ---
-title: "Dzejms_Blont | Patromierz"
+title: "D\u017Cejms B\u0142ont | Patromierz"
+
 permalink: /Dzejms_Blont
 ---
 

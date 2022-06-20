@@ -1,5 +1,6 @@
 ---
-title: "magnapolonia | Patromierz"
+title: Magna Polonia | Patromierz
+
 permalink: /magnapolonia
 ---
 

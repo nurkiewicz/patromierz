@@ -1,5 +1,6 @@
 ---
-title: "FundacjaZMilosciDoZwierzat | Patromierz"
+title: "FUNDACJA Z MI\u0141O\u015ACI DO ZWIERZ\u0104T | Patromierz"
+
 permalink: /FundacjaZMilosciDoZwierzat
 ---
 

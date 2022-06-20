@@ -1,5 +1,6 @@
 ---
-title: "metanoia | Patromierz"
+title: Metanoia | Patromierz
+
 permalink: /metanoia
 ---
 

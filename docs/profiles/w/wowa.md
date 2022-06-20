@@ -1,5 +1,6 @@
 ---
-title: "wowa | Patromierz"
+title: WOWA | Patromierz
+
 permalink: /wowa
 ---
 

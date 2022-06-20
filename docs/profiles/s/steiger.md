@@ -1,5 +1,6 @@
 ---
-title: "steiger | Patromierz"
+title: Steiger Polska | Patromierz
+
 permalink: /steiger
 ---
 

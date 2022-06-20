@@ -1,5 +1,6 @@
 ---
-title: "Szum-Islandia | Patromierz"
+title: Szum/Islandia | Patromierz
+
 permalink: /Szum-Islandia
 ---
 

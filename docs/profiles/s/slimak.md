@@ -1,5 +1,6 @@
 ---
-title: "slimak | Patromierz"
+title: "Maciej \"\u015Alimak\" Starosta | Patromierz"
+
 permalink: /slimak
 ---
 

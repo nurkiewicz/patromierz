@@ -1,5 +1,6 @@
 ---
-title: "sabinajeszka | Patromierz"
+title: Sabina Jeszka | Patromierz
+
 permalink: /sabinajeszka
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tacticof | Patromierz"
+title: tactic of... | Patromierz
+
 permalink: /tacticof
 ---
 

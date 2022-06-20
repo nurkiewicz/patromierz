@@ -1,5 +1,6 @@
 ---
-title: "sutari | Patromierz"
+title: SUTARI | Patromierz
+
 permalink: /sutari
 ---
 

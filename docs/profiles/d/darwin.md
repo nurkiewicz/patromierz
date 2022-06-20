@@ -1,5 +1,6 @@
 ---
-title: "darwin | Patromierz"
+title: Grupa Filmowa Darwin  | Patromierz
+
 permalink: /darwin
 ---
 

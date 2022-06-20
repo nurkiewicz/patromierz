@@ -1,5 +1,6 @@
 ---
-title: "wrocpp | Patromierz"
+title: Wro.cpp | Patromierz
+
 permalink: /wrocpp
 ---
 

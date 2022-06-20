@@ -1,5 +1,6 @@
 ---
-title: "sciezkalucznicza | Patromierz"
+title: "\u015Acie\u017Cka \u0141ucznicza     | Patromierz"
+
 permalink: /sciezkalucznicza
 ---
 

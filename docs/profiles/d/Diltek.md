@@ -1,5 +1,6 @@
 ---
-title: "Diltek | Patromierz"
+title: Diltek | Patromierz
+
 permalink: /Diltek
 ---
 

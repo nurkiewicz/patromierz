@@ -1,5 +1,6 @@
 ---
-title: "tatti-nizovaya | Patromierz"
+title: Tatti Nizovaya | Patromierz
+
 permalink: /tatti-nizovaya
 ---
 

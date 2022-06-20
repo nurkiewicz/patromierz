@@ -1,5 +1,6 @@
 ---
-title: "povagowani | Patromierz"
+title: Povagowani | Patromierz
+
 permalink: /povagowani
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fundacjaarp | Patromierz"
+title: Fundacja Animal Rescue Poland | Patromierz
+
 permalink: /fundacjaarp
 ---
 

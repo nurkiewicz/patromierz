@@ -1,5 +1,6 @@
 ---
-title: "Permisie | Patromierz"
+title: "Wojciech G\xF3rny Permisie.pl | Patromierz"
+
 permalink: /Permisie
 ---
 

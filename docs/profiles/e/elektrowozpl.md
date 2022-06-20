@@ -1,5 +1,6 @@
 ---
-title: "elektrowozpl | Patromierz"
+title: www.elektrowoz.pl | Patromierz
+
 permalink: /elektrowozpl
 ---
 

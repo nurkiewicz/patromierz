@@ -1,5 +1,6 @@
 ---
-title: "annabojarska | Patromierz"
+title: Anna Bojarska | Patromierz
+
 permalink: /annabojarska
 ---
 

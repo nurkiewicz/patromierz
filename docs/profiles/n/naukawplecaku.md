@@ -1,5 +1,6 @@
 ---
-title: "naukawplecaku | Patromierz"
+title: "Nauka w plecaku - Sabina Pi\u0142at | Patromierz"
+
 permalink: /naukawplecaku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "lubiekomiksy.pl | Patromierz"
+title: "Jarek z Lubi\u0119 komiksy | Patromierz"
+
 permalink: /lubiekomiksy.pl
 ---
 

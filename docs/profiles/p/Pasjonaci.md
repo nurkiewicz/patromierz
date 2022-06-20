@@ -1,5 +1,6 @@
 ---
-title: "Pasjonaci | Patromierz"
+title: Pasjonaci | Patromierz
+
 permalink: /Pasjonaci
 ---
 

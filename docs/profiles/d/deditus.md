@@ -1,5 +1,6 @@
 ---
-title: "deditus | Patromierz"
+title: Aplikacja Deditus | Patromierz
+
 permalink: /deditus
 ---
 

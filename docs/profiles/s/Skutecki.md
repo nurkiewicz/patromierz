@@ -1,5 +1,6 @@
 ---
-title: "Skutecki | Patromierz"
+title: "Pawe\u0142 Skutecki | Patromierz"
+
 permalink: /Skutecki
 ---
 

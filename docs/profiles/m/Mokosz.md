@@ -1,5 +1,6 @@
 ---
-title: "Mokosz | Patromierz"
+title: MokoszOfficial  | Patromierz
+
 permalink: /Mokosz
 ---
 

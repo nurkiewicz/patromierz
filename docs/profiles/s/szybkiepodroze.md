@@ -1,5 +1,6 @@
 ---
-title: "szybkiepodroze | Patromierz"
+title: "Szybkie Podr\xF3\u017Ce | Patromierz"
+
 permalink: /szybkiepodroze
 ---
 

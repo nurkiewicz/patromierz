@@ -1,5 +1,6 @@
 ---
-title: "rakowiecki | Patromierz"
+title: Daniel Rakowiecki | Patromierz
+
 permalink: /rakowiecki
 ---
 

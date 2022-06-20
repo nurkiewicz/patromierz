@@ -1,5 +1,6 @@
 ---
-title: "Brakkultury | Patromierz"
+title: Brak Kultury by snp | Patromierz
+
 permalink: /Brakkultury
 ---
 

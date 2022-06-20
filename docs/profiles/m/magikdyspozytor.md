@@ -1,5 +1,6 @@
 ---
-title: "magikdyspozytor | Patromierz"
+title: Magik Dyspozytor | Patromierz
+
 permalink: /magikdyspozytor
 ---
 

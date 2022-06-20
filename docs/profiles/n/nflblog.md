@@ -1,5 +1,6 @@
 ---
-title: "nflblog | Patromierz"
+title: NFLBlog.pl | Patromierz
+
 permalink: /nflblog
 ---
 

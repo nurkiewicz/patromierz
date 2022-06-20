@@ -1,5 +1,6 @@
 ---
-title: "fundacja-weblex | Patromierz"
+title: Fundacja web.lex | Patromierz
+
 permalink: /fundacja-weblex
 ---
 

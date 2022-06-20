@@ -1,5 +1,6 @@
 ---
-title: "zupanapietrynie | Patromierz"
+title: Zupa Na Pietrynie | Patromierz
+
 permalink: /zupanapietrynie
 ---
 

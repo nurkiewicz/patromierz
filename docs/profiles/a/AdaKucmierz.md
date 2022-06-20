@@ -1,5 +1,6 @@
 ---
-title: "AdaKucmierz | Patromierz"
+title: "Ada Ku\u0107mierz | Patromierz"
+
 permalink: /AdaKucmierz
 ---
 

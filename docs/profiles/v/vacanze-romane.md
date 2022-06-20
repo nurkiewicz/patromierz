@@ -1,5 +1,6 @@
 ---
-title: "vacanze-romane | Patromierz"
+title: "J\u0119zyk w\u0142oski z \"Vacanze Romane\" | Patromierz"
+
 permalink: /vacanze-romane
 ---
 

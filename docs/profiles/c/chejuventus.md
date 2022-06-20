@@ -1,5 +1,6 @@
 ---
-title: "chejuventus | Patromierz"
+title: Che Juventus | Patromierz
+
 permalink: /chejuventus
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "IT_i_Ty | Patromierz"
+title: "Damian Ruci\u0144ski | Patromierz"
+
 permalink: /IT_i_Ty
 ---
 

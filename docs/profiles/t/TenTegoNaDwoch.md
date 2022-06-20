@@ -1,5 +1,6 @@
 ---
-title: "TenTegoNaDwoch | Patromierz"
+title: Teillman | Patromierz
+
 permalink: /TenTegoNaDwoch
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "agatastrzyzewska | Patromierz"
+title: "Agata Strzy\u017Cewska | Patromierz"
+
 permalink: /agatastrzyzewska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "lysyzmarvela | Patromierz"
+title: "\u0141ysy z Marvela | Patromierz"
+
 permalink: /lysyzmarvela
 ---
 

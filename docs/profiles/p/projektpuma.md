@@ -1,5 +1,6 @@
 ---
-title: "projektpuma | Patromierz"
+title: Projekt Puma | Patromierz
+
 permalink: /projektpuma
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "definicjekatechetyczne | Patromierz"
+title: Definicje Katechetyczne Braci | Patromierz
+
 permalink: /definicjekatechetyczne
 ---
 

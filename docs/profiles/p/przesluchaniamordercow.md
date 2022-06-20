@@ -1,5 +1,6 @@
 ---
-title: "przesluchaniamordercow | Patromierz"
+title: "Przes\u0142uchania Morderc\xF3w | Patromierz"
+
 permalink: /przesluchaniamordercow
 ---
 

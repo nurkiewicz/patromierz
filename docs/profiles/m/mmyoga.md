@@ -1,5 +1,6 @@
 ---
-title: "mmyoga | Patromierz"
+title: "Ma\u0142gorzata Mostowska | Patromierz"
+
 permalink: /mmyoga
 ---
 

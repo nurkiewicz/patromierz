@@ -1,5 +1,6 @@
 ---
-title: "legiasiatkowka | Patromierz"
+title: "Sekcja Siatk\xF3wki Legii Warszawa | Patromierz"
+
 permalink: /legiasiatkowka
 ---
 

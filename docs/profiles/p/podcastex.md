@@ -1,5 +1,6 @@
 ---
-title: "podcastex | Patromierz"
+title: Podcastex | Patromierz
+
 permalink: /podcastex
 ---
 

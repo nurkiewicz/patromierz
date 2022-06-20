@@ -1,5 +1,6 @@
 ---
-title: "maciejkazmierczak | Patromierz"
+title: "Maciej Ka\u017Amierczak | Patromierz"
+
 permalink: /maciejkazmierczak
 ---
 

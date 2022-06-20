@@ -1,5 +1,6 @@
 ---
-title: "wcisnijstart | Patromierz"
+title: "Wci\u015Bnij Start | Patromierz"
+
 permalink: /wcisnijstart
 ---
 

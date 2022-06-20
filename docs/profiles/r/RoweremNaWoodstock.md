@@ -1,5 +1,6 @@
 ---
-title: "RoweremNaWoodstock | Patromierz"
+title: "Rafa\u0142 Babi\u0144ski | Patromierz"
+
 permalink: /RoweremNaWoodstock
 ---
 

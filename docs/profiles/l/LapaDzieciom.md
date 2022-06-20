@@ -1,5 +1,6 @@
 ---
-title: "LapaDzieciom | Patromierz"
+title: "\u0141apa Dzieciom | Patromierz"
+
 permalink: /LapaDzieciom
 ---
 

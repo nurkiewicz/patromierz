@@ -1,5 +1,6 @@
 ---
-title: "wszystkoobiznesie | Patromierz"
+title: WOB | Patromierz
+
 permalink: /wszystkoobiznesie
 ---
 

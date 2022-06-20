@@ -1,5 +1,6 @@
 ---
-title: "menedzerplus | Patromierz"
+title: "Mened\u017Cer Plus | Mariusz Chrapko | Patromierz"
+
 permalink: /menedzerplus
 ---
 

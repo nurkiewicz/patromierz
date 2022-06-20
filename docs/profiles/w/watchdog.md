@@ -1,5 +1,6 @@
 ---
-title: "watchdog | Patromierz"
+title: "Sie\u0107 Obywatelska Watchdog Polska | Patromierz"
+
 permalink: /watchdog
 ---
 

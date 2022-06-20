@@ -1,5 +1,6 @@
 ---
-title: "BabaduTV | Patromierz"
+title: Babadu TV - Piosenki dla dzieci | Patromierz
+
 permalink: /BabaduTV
 ---
 

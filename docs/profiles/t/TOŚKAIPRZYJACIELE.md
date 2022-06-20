@@ -1,5 +1,6 @@
 ---
-title: "TOŚKAIPRZYJACIELE | Patromierz"
+title: "FUNDACJA TO\u015AKA I PRZYJACIELE | Patromierz"
+
 permalink: /TOŚKAIPRZYJACIELE
 ---
 

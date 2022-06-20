@@ -1,5 +1,6 @@
 ---
-title: "jakzostacprogramistanet | Patromierz"
+title: "Jak zosta\u0107 programist\u0105 .NET | Patromierz"
+
 permalink: /jakzostacprogramistanet
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KaoriCosplayArt | Patromierz"
+title: Kaori CosplayArt | Patromierz
+
 permalink: /KaoriCosplayArt
 ---
 

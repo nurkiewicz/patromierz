@@ -1,5 +1,6 @@
 ---
-title: "WyspaHistorii | Patromierz"
+title: Wyspa Historii | Patromierz
+
 permalink: /WyspaHistorii
 ---
 

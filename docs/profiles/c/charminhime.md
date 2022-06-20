@@ -1,5 +1,6 @@
 ---
-title: "charminhime | Patromierz"
+title: Charmin hime | Patromierz
+
 permalink: /charminhime
 ---
 

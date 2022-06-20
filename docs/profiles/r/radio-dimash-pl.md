@@ -1,5 +1,6 @@
 ---
-title: "radio-dimash-pl | Patromierz"
+title: RadioDimash.pl    | Patromierz
+
 permalink: /radio-dimash-pl
 ---
 

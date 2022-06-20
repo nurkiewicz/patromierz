@@ -1,5 +1,6 @@
 ---
-title: "BiznesBezStresu | Patromierz"
+title: Biznes Bez Stresu | Patromierz
+
 permalink: /BiznesBezStresu
 ---
 

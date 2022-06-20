@@ -1,5 +1,6 @@
 ---
-title: "autostopowawrona | Patromierz"
+title: Autostopowa Wrona | Patromierz
+
 permalink: /autostopowawrona
 ---
 

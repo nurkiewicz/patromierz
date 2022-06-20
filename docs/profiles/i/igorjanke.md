@@ -1,5 +1,6 @@
 ---
-title: "igorjanke | Patromierz"
+title: "Igor Janke. Uk\u0142ad otwarty | Patromierz"
+
 permalink: /igorjanke
 ---
 

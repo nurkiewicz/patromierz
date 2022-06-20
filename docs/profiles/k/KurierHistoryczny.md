@@ -1,5 +1,6 @@
 ---
-title: "KurierHistoryczny | Patromierz"
+title: Kurier Historyczny | Patromierz
+
 permalink: /KurierHistoryczny
 ---
 

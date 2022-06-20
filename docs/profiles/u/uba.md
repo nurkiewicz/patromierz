@@ -1,5 +1,6 @@
 ---
-title: "uba | Patromierz"
+title: Zaneta Uba | Patromierz
+
 permalink: /uba
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "marcinzielinski | Patromierz"
+title: "Marcin Zieli\u0144ski | Patromierz"
+
 permalink: /marcinzielinski
 ---
 

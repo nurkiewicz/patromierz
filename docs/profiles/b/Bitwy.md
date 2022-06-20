@@ -1,5 +1,6 @@
 ---
-title: "Bitwy | Patromierz"
+title: "Pawe\u0142 Szczabel | Patromierz"
+
 permalink: /Bitwy
 ---
 

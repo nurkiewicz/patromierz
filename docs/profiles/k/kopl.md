@@ -1,5 +1,6 @@
 ---
-title: "kopl | Patromierz"
+title: "Zenobia \u017Baczek | Patromierz"
+
 permalink: /kopl
 ---
 

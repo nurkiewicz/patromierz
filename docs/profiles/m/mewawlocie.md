@@ -1,5 +1,6 @@
 ---
-title: "mewawlocie | Patromierz"
+title: Mewa w locie | Patromierz
+
 permalink: /mewawlocie
 ---
 

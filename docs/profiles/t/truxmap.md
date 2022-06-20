@@ -1,5 +1,6 @@
 ---
-title: "truxmap | Patromierz"
+title: truxmap.eu | Patromierz
+
 permalink: /truxmap
 ---
 

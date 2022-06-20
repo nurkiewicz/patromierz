@@ -1,5 +1,6 @@
 ---
-title: "akszly | Patromierz"
+title: "AKS Z\u0141Y - klub sportowy w modelu spo\u0142eczno\u015Bciowym | Patromierz"
+
 permalink: /akszly
 ---
 

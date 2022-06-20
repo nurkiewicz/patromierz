@@ -1,5 +1,6 @@
 ---
-title: "PlayStationTech | Patromierz"
+title: PlayStation Tech | Patromierz
+
 permalink: /PlayStationTech
 ---
 

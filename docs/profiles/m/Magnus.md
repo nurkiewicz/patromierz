@@ -1,5 +1,6 @@
 ---
-title: "Magnus | Patromierz"
+title: Magnus | Patromierz
+
 permalink: /Magnus
 ---
 

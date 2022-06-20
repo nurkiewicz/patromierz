@@ -1,5 +1,6 @@
 ---
-title: "jandziekonskionieruchomosciach | Patromierz"
+title: "Jan Dzieko\u0144ski o Nieruchomo\u015Bciach | Patromierz"
+
 permalink: /jandziekonskionieruchomosciach
 ---
 

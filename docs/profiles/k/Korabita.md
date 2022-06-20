@@ -1,5 +1,6 @@
 ---
-title: "Korabita | Patromierz"
+title: Jacek Korabita Kowalski | Patromierz
+
 permalink: /Korabita
 ---
 

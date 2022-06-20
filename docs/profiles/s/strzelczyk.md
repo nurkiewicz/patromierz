@@ -1,5 +1,6 @@
 ---
-title: "strzelczyk | Patromierz"
+title: "B\u0142a\u017Cej Strzelczyk | Patromierz"
+
 permalink: /strzelczyk
 ---
 

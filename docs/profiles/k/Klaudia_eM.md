@@ -1,5 +1,6 @@
 ---
-title: "Klaudia_eM | Patromierz"
+title: Klaudia eM | Patromierz
+
 permalink: /Klaudia_eM
 ---
 

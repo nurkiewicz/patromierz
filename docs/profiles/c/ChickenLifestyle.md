@@ -1,5 +1,6 @@
 ---
-title: "ChickenLifestyle | Patromierz"
+title: Chicken Lifestyle | Patromierz
+
 permalink: /ChickenLifestyle
 ---
 

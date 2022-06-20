@@ -1,5 +1,6 @@
 ---
-title: "Karpiowy | Patromierz"
+title: Karpiowy | Patromierz
+
 permalink: /Karpiowy
 ---
 

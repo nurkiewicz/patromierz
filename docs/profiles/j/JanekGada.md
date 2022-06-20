@@ -1,5 +1,6 @@
 ---
-title: "JanekGada | Patromierz"
+title: Janek Gada | Patromierz
+
 permalink: /JanekGada
 ---
 

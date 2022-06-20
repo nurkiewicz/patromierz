@@ -1,5 +1,6 @@
 ---
-title: "UCbk59Os6vf0Ui73j15Yf_ug | Patromierz"
+title: Tarka W Drodze | Patromierz
+
 permalink: /UCbk59Os6vf0Ui73j15Yf_ug
 ---
 

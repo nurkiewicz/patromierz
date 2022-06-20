@@ -1,5 +1,6 @@
 ---
-title: "odjechanezwierzatka | Patromierz"
+title: "Odjechane zwierz\u0105tka i jak ich szuka\u0107 w internecie | Patromierz"
+
 permalink: /odjechanezwierzatka
 ---
 

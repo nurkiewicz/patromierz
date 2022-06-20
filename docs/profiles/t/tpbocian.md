@@ -1,5 +1,6 @@
 ---
-title: "tpbocian | Patromierz"
+title: Towarzystwo Przyrodnicze "Bocian" | Patromierz
+
 permalink: /tpbocian
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "negatywkatv | Patromierz"
+title: NEGATYWKA TV | Patromierz
+
 permalink: /negatywkatv
 ---
 

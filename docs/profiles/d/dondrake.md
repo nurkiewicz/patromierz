@@ -1,5 +1,6 @@
 ---
-title: "dondrake | Patromierz"
+title: Don Drake | Patromierz
+
 permalink: /dondrake
 ---
 

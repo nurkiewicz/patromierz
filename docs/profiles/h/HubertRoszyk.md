@@ -1,5 +1,6 @@
 ---
-title: "HubertRoszyk | Patromierz"
+title: Hubert Roszyk | Patromierz
+
 permalink: /HubertRoszyk
 ---
 

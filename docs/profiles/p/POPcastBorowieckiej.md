@@ -1,5 +1,6 @@
 ---
-title: "POPcastBorowieckiej | Patromierz"
+title: Katarzyna Borowiecka | Patromierz
+
 permalink: /POPcastBorowieckiej
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KamuflazOficjalnie | Patromierz"
+title: "Kamufla\u017C Oficjalnie | Patromierz"
+
 permalink: /KamuflazOficjalnie
 ---
 

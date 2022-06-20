@@ -1,5 +1,6 @@
 ---
-title: "magazyn-kreski | Patromierz"
+title: Magazyn Kreski | Patromierz
+
 permalink: /magazyn-kreski
 ---
 

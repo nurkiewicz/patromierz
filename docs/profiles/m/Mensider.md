@@ -1,5 +1,6 @@
 ---
-title: "Mensider | Patromierz"
+title: Mensider Magazine | Patromierz
+
 permalink: /Mensider
 ---
 

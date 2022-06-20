@@ -1,5 +1,6 @@
 ---
-title: "ziarnonadziei | Patromierz"
+title: Ziarno Nadziei | Patromierz
+
 permalink: /ziarnonadziei
 ---
 

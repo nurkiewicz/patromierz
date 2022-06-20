@@ -1,5 +1,6 @@
 ---
-title: "wiktordoktor | Patromierz"
+title: "Wiktor Dokt\xF3r | Patromierz"
+
 permalink: /wiktordoktor
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Augustynowicz | Patromierz"
+title: Magdalena Augustynowicz | Patromierz
+
 permalink: /Augustynowicz
 ---
 

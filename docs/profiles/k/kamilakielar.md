@@ -1,5 +1,6 @@
 ---
-title: "kamilakielar | Patromierz"
+title: "Drzazgi \u015Awiata // Kamila Kielar | Patromierz"
+
 permalink: /kamilakielar
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "energy-instrat-PL | Patromierz"
+title: Fundacja Instrat | Patromierz
+
 permalink: /energy-instrat-PL
 ---
 

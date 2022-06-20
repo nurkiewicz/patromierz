@@ -1,5 +1,6 @@
 ---
-title: "CityWilanów | Patromierz"
+title: "City Wilan\xF3w | Patromierz"
+
 permalink: /CityWilanów
 ---
 

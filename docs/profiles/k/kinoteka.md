@@ -1,5 +1,6 @@
 ---
-title: "kinoteka | Patromierz"
+title: Kinoteka | Patromierz
+
 permalink: /kinoteka
 ---
 

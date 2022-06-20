@@ -1,5 +1,6 @@
 ---
-title: "michalmarszal | Patromierz"
+title: "Micha\u0142 Marsza\u0142 | Patromierz"
+
 permalink: /michalmarszal
 ---
 

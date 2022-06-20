@@ -1,5 +1,6 @@
 ---
-title: "dzikoprzygody | Patromierz"
+title: Dzikoprzygody | Patromierz
+
 permalink: /dzikoprzygody
 ---
 

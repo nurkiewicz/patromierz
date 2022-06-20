@@ -1,5 +1,6 @@
 ---
-title: "PiotrSobotaMojePolskieRadjo | Patromierz"
+title: Piotr Sobota | Patromierz
+
 permalink: /PiotrSobotaMojePolskieRadjo
 ---
 

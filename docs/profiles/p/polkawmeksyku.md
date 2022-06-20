@@ -1,5 +1,6 @@
 ---
-title: "polkawmeksyku | Patromierz"
+title: POLKA W MEKSYKU | Patromierz
+
 permalink: /polkawmeksyku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Rodzinanapolu | Patromierz"
+title: Rodzina na polu | Patromierz
+
 permalink: /Rodzinanapolu
 ---
 

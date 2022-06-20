@@ -1,5 +1,6 @@
 ---
-title: "Muzykuj | Patromierz"
+title: "MUZYKUJ PAWE\u0141 LEMA\u0143SKI | Patromierz"
+
 permalink: /Muzykuj
 ---
 

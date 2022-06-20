@@ -1,5 +1,6 @@
 ---
-title: "aleksnadramachniak | Patromierz"
+title: Aleksandra Machniak | Patromierz
+
 permalink: /aleksnadramachniak
 ---
 

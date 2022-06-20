@@ -1,5 +1,6 @@
 ---
-title: "pawelzlublina | Patromierz"
+title: Pawel z Lublina | Patromierz
+
 permalink: /pawelzlublina
 ---
 

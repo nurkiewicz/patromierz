@@ -1,5 +1,6 @@
 ---
-title: "PannaKlementyna | Patromierz"
+title: "Magdalena  Bia\u0142asiewicz  | Patromierz"
+
 permalink: /PannaKlementyna
 ---
 

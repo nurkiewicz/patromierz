@@ -1,5 +1,6 @@
 ---
-title: "TCW | Patromierz"
+title: Tarnobrzeskie Centrum Wolontariatu | Patromierz
+
 permalink: /TCW
 ---
 

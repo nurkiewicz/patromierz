@@ -1,5 +1,6 @@
 ---
-title: "calaprawda | Patromierz"
+title: "Ca\u0142a Prawda | Patromierz"
+
 permalink: /calaprawda
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Michal_Backiel | Patromierz"
+title: "Micha\u0142 Backiel | Patromierz"
+
 permalink: /Michal_Backiel
 ---
 

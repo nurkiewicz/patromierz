@@ -1,5 +1,6 @@
 ---
-title: "Hexcafe | Patromierz"
+title: Hex Cafe | Patromierz
+
 permalink: /Hexcafe
 ---
 

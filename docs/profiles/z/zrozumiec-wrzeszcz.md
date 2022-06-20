@@ -1,5 +1,6 @@
 ---
-title: "zrozumiec-wrzeszcz | Patromierz"
+title: "Zrozumie\u0107 Wrzeszcz | Patromierz"
+
 permalink: /zrozumiec-wrzeszcz
 ---
 

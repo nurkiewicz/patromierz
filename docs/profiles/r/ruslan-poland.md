@@ -1,5 +1,6 @@
 ---
-title: "ruslan-poland | Patromierz"
+title: Ruslan Poland | Patromierz
+
 permalink: /ruslan-poland
 ---
 

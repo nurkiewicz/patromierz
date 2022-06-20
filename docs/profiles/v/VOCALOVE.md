@@ -1,5 +1,6 @@
 ---
-title: "VOCALOVE | Patromierz"
+title: "Zesp\xF3\u0142 VOCALOVE | Patromierz"
+
 permalink: /VOCALOVE
 ---
 

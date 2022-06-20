@@ -1,5 +1,6 @@
 ---
-title: "ReverialNET | Patromierz"
+title: Reverial.net | Patromierz
+
 permalink: /ReverialNET
 ---
 

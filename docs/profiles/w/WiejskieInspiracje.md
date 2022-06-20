@@ -1,5 +1,6 @@
 ---
-title: "WiejskieInspiracje | Patromierz"
+title: Wiejskie Inspiracje | Patromierz
+
 permalink: /WiejskieInspiracje
 ---
 

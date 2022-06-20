@@ -1,5 +1,6 @@
 ---
-title: "Kmitoska | Patromierz"
+title: Alicja Kmita | Patromierz
+
 permalink: /Kmitoska
 ---
 

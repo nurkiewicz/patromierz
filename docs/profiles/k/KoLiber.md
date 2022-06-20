@@ -1,5 +1,6 @@
 ---
-title: "KoLiber | Patromierz"
+title: Stowarzyszenie KoLiber | Patromierz
+
 permalink: /KoLiber
 ---
 

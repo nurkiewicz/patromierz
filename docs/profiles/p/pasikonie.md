@@ -1,5 +1,6 @@
 ---
-title: "pasikonie | Patromierz"
+title: Marta  z Pasikoni | Patromierz
+
 permalink: /pasikonie
 ---
 

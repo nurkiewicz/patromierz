@@ -1,5 +1,6 @@
 ---
-title: "fundacja-savchenko | Patromierz"
+title: Fundacja Savchenko | Patromierz
+
 permalink: /fundacja-savchenko
 ---
 

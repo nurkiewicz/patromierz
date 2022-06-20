@@ -1,5 +1,6 @@
 ---
-title: "monikajaruzelska | Patromierz"
+title: Monika Jaruzelska | Patromierz
+
 permalink: /monikajaruzelska
 ---
 

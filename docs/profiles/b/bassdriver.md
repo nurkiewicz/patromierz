@@ -1,5 +1,6 @@
 ---
-title: "bassdriver | Patromierz"
+title: Bassdriver | Patromierz
+
 permalink: /bassdriver
 ---
 

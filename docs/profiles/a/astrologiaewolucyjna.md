@@ -1,5 +1,6 @@
 ---
-title: "astrologiaewolucyjna | Patromierz"
+title: Bartek  Sawicki - Astrologia Ewolucyjna | Patromierz
+
 permalink: /astrologiaewolucyjna
 ---
 

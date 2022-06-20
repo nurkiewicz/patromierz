@@ -1,5 +1,6 @@
 ---
-title: "debski | Patromierz"
+title: "Bart\u0142omiej D\u0119bski | Patromierz"
+
 permalink: /debski
 ---
 

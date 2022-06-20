@@ -1,5 +1,6 @@
 ---
-title: "dobryHR | Patromierz"
+title: Jakub Iciaszek | Patromierz
+
 permalink: /dobryHR
 ---
 

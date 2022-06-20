@@ -1,5 +1,6 @@
 ---
-title: "nitya | Patromierz"
+title: Nitya Patrycja Pruchnik | Patromierz
+
 permalink: /nitya
 ---
 

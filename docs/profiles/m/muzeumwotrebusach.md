@@ -1,5 +1,6 @@
 ---
-title: "muzeumwotrebusach | Patromierz"
+title: "Muzeum Motoryzacji i Techniki w Otr\u0119busach | Patromierz"
+
 permalink: /muzeumwotrebusach
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KopalniaIgnacy | Patromierz"
+title: Zabytkowa Kopalnia Ignacy | Patromierz
+
 permalink: /KopalniaIgnacy
 ---
 

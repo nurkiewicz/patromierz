@@ -1,5 +1,6 @@
 ---
-title: "GMCLAN | Patromierz"
+title: GMCLAN.org | Patromierz
+
 permalink: /GMCLAN
 ---
 

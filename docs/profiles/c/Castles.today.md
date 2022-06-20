@@ -1,5 +1,6 @@
 ---
-title: "Castles.today | Patromierz"
+title: Castles.today | Patromierz
+
 permalink: /Castles.today
 ---
 

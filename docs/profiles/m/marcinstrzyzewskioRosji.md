@@ -1,5 +1,6 @@
 ---
-title: "marcinstrzyzewskioRosji | Patromierz"
+title: "Marcin Strzy\u017Cewski | Patromierz"
+
 permalink: /marcinstrzyzewskioRosji
 ---
 

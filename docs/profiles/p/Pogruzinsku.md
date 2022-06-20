@@ -1,5 +1,6 @@
 ---
-title: "Pogruzinsku | Patromierz"
+title: Jakub Luczak | Patromierz
+
 permalink: /Pogruzinsku
 ---
 

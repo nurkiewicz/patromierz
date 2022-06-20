@@ -1,5 +1,6 @@
 ---
-title: "noniegadaj | Patromierz"
+title: Podcast "No Nie Gadaj..." | Patromierz
+
 permalink: /noniegadaj
 ---
 

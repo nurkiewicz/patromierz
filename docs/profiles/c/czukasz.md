@@ -1,5 +1,6 @@
 ---
-title: "czukasz | Patromierz"
+title: Czukasz | Patromierz
+
 permalink: /czukasz
 ---
 

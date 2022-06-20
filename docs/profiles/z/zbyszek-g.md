@@ -1,5 +1,6 @@
 ---
-title: "zbyszek-g | Patromierz"
+title: Zbyszek G | Patromierz
+
 permalink: /zbyszek-g
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "pjrodan | Patromierz"
+title: "Notatnik Re\u017Cysera by Pawe\u0142 J. Rodan | Patromierz"
+
 permalink: /pjrodan
 ---
 

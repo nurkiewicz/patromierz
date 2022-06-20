@@ -1,5 +1,6 @@
 ---
-title: "Kobalt | Patromierz"
+title: Kobalt  | Patromierz
+
 permalink: /Kobalt
 ---
 

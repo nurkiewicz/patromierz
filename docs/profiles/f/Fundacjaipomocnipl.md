@@ -1,5 +1,6 @@
 ---
-title: "Fundacjaipomocnipl | Patromierz"
+title: Fundacja ipomocni.pl | Patromierz
+
 permalink: /Fundacjaipomocnipl
 ---
 

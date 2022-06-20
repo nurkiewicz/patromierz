@@ -1,5 +1,6 @@
 ---
-title: "BabskaKorba | Patromierz"
+title: BABSKA KORBA | Patromierz
+
 permalink: /BabskaKorba
 ---
 

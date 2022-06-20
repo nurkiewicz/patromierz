@@ -1,5 +1,6 @@
 ---
-title: "iSAP | Patromierz"
+title: "iSAP S\u0142owia\u0144ska Agencja Prasowa | Patromierz"
+
 permalink: /iSAP
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "pwp | Patromierz"
+title: Polish Women Photographers | Patromierz
+
 permalink: /pwp
 ---
 

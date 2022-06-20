@@ -1,5 +1,6 @@
 ---
-title: "mowrzepczyno | Patromierz"
+title: "M\u0142odzie\u017Cowy O\u015Brodek Wychowawczy w Rzepczynie | Patromierz"
+
 permalink: /mowrzepczyno
 ---
 

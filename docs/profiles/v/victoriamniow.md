@@ -1,5 +1,6 @@
 ---
-title: "victoriamniow | Patromierz"
+title: "Victoria Mni\xF3w | Patromierz"
+
 permalink: /victoriamniow
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chce | Patromierz"
+title: "Chrze\u015Bcija\u0144skie Centrum Ewangelizacji | Patromierz"
+
 permalink: /chce
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "mayawasserman | Patromierz"
+title: Maya Wasserman | Patromierz
+
 permalink: /mayawasserman
 ---
 

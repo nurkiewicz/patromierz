@@ -1,5 +1,6 @@
 ---
-title: "doublepower | Patromierz"
+title: Double Power | Patromierz
+
 permalink: /doublepower
 ---
 

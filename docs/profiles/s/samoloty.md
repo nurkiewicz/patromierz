@@ -1,5 +1,6 @@
 ---
-title: "samoloty | Patromierz"
+title: Samoloty | Patromierz
+
 permalink: /samoloty
 ---
 

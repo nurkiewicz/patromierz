@@ -1,5 +1,6 @@
 ---
-title: "Malaczarnaipyskata | Patromierz"
+title: "Ma\u0142a Czarna i Pyskata | Patromierz"
+
 permalink: /Malaczarnaipyskata
 ---
 

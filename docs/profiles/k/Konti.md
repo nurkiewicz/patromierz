@@ -1,5 +1,6 @@
 ---
-title: "Konti | Patromierz"
+title: Konti | Patromierz
+
 permalink: /Konti
 ---
 

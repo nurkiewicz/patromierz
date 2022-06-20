@@ -1,5 +1,6 @@
 ---
-title: "maciej-wielobob | Patromierz"
+title: "Maciej Wielob\xF3b | Patromierz"
+
 permalink: /maciej-wielobob
 ---
 

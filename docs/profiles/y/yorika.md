@@ -1,5 +1,6 @@
 ---
-title: "yorika | Patromierz"
+title: Jolka Rebejko | Patromierz
+
 permalink: /yorika
 ---
 

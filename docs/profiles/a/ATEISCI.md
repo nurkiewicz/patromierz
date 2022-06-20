@@ -1,5 +1,6 @@
 ---
-title: "ATEISCI | Patromierz"
+title: zenon kalafaticz | Patromierz
+
 permalink: /ATEISCI
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "sylwiadudziak-travllersgeograp | Patromierz"
+title: Sylwia Dudziak - TravellersGeographic | Patromierz
+
 permalink: /sylwiadudziak-travllersgeograp
 ---
 

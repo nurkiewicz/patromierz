@@ -1,5 +1,6 @@
 ---
-title: "Sandra-Santi | Patromierz"
+title: Sandra Santi | Patromierz
+
 permalink: /Sandra-Santi
 ---
 

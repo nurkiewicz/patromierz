@@ -1,5 +1,6 @@
 ---
-title: "Catowice | Patromierz"
+title: Piotr Gierwatowski | Patromierz
+
 permalink: /Catowice
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ajgorignacy | Patromierz"
+title: Ajgor Ignacy | Patromierz
+
 permalink: /ajgorignacy
 ---
 

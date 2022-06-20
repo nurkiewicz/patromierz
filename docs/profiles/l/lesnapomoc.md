@@ -1,5 +1,7 @@
 ---
-title: "lesnapomoc | Patromierz"
+title: "Fundacja Le\u015Bna Pomoc - O\u015Brodek Rehabilitacji Dzikich Zwierz\u0105\
+  t | Patromierz"
+
 permalink: /lesnapomoc
 ---
 

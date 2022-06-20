@@ -1,5 +1,6 @@
 ---
-title: "sekielski | Patromierz"
+title: Sekielski Brothers Studio | Patromierz
+
 permalink: /sekielski
 ---
 

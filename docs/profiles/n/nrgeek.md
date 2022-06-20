@@ -1,5 +1,6 @@
 ---
-title: "nrgeek | Patromierz"
+title: NRGeek | Patromierz
+
 permalink: /nrgeek
 ---
 

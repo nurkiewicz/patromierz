@@ -1,5 +1,6 @@
 ---
-title: "fundacjakapucynska | Patromierz"
+title: "Fundacja Kapucy\u0144ska im. b\u0142. Aniceta Kopli\u0144skiego | Patromierz"
+
 permalink: /fundacjakapucynska
 ---
 

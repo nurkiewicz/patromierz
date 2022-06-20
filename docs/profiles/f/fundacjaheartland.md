@@ -1,5 +1,6 @@
 ---
-title: "fundacjaheartland | Patromierz"
+title: Fundacja Heartland | Patromierz
+
 permalink: /fundacjaheartland
 ---
 

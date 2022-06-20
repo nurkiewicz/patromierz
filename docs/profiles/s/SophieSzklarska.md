@@ -1,5 +1,6 @@
 ---
-title: "SophieSzklarska | Patromierz"
+title: Sophie Szklarska | Patromierz
+
 permalink: /SophieSzklarska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "eduobywatelska | Patromierz"
+title: Fundacja Edukacji Obywatelskiej | Patromierz
+
 permalink: /eduobywatelska
 ---
 

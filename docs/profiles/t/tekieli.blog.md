@@ -1,5 +1,7 @@
 ---
-title: "tekieli.blog | Patromierz"
+title: ROBERT TEKIELI                           Wielka Encyklopedia Manipulacji |
+  Patromierz
+
 permalink: /tekieli.blog
 ---
 

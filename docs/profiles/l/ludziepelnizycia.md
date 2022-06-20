@@ -1,5 +1,6 @@
 ---
-title: "ludziepelnizycia | Patromierz"
+title: "Ludzie Pe\u0142ni \u017Bycia | Patromierz"
+
 permalink: /ludziepelnizycia
 ---
 

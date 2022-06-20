@@ -1,5 +1,6 @@
 ---
-title: "postroniekobiet | Patromierz"
+title: Po stronie kobiet | Patromierz
+
 permalink: /postroniekobiet
 ---
 

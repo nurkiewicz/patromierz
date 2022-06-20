@@ -1,5 +1,6 @@
 ---
-title: "MarekOpowiada | Patromierz"
+title: Marek Rocki | Patromierz
+
 permalink: /MarekOpowiada
 ---
 

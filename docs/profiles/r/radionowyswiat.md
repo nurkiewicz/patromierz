@@ -1,5 +1,6 @@
 ---
-title: "radionowyswiat | Patromierz"
+title: "Radio Nowy \u015Awiat | Patromierz"
+
 permalink: /radionowyswiat
 ---
 

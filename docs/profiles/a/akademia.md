@@ -1,5 +1,6 @@
 ---
-title: "akademia | Patromierz"
+title: "Akademia Kaba\u0142y Luria\u0144skiej | Patromierz"
+
 permalink: /akademia
 ---
 

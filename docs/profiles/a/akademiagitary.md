@@ -1,5 +1,6 @@
 ---
-title: "akademiagitary | Patromierz"
+title: Akademia Gitary | Patromierz
+
 permalink: /akademiagitary
 ---
 

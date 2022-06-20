@@ -1,5 +1,6 @@
 ---
-title: "stosunkowobliskiwschod | Patromierz"
+title: "Stosunkowo Bliski Wsch\xF3d | Patromierz"
+
 permalink: /stosunkowobliskiwschod
 ---
 

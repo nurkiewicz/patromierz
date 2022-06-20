@@ -1,5 +1,6 @@
 ---
-title: "rugbykobietkrakow | Patromierz"
+title: RUGBY KRAKOW | Patromierz
+
 permalink: /rugbykobietkrakow
 ---
 

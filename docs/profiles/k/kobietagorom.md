@@ -1,5 +1,6 @@
 ---
-title: "kobietagorom | Patromierz"
+title: "Kobieta G\xF3rom | Patromierz"
+
 permalink: /kobietagorom
 ---
 

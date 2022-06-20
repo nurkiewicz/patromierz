@@ -1,5 +1,6 @@
 ---
-title: "helix | Patromierz"
+title: Aleksandra Helix | Patromierz
+
 permalink: /helix
 ---
 

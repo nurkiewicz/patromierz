@@ -1,5 +1,6 @@
 ---
-title: "oki | Patromierz"
+title: "Olimpijskie Ko\u0142o Informatyczne | Patromierz"
+
 permalink: /oki
 ---
 

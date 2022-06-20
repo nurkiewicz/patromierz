@@ -1,5 +1,6 @@
 ---
-title: "zarlokTV | Patromierz"
+title: "\u017Bar\u0142okTV | Patromierz"
+
 permalink: /zarlokTV
 ---
 

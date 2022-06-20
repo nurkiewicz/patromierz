@@ -1,5 +1,6 @@
 ---
-title: "WędkarskiOdjazd | Patromierz"
+title: "W\u0119dkarski Odjazd | Patromierz"
+
 permalink: /WędkarskiOdjazd
 ---
 

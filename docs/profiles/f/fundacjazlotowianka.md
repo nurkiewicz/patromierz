@@ -1,5 +1,6 @@
 ---
-title: "fundacjazlotowianka | Patromierz"
+title: "Fundacja Z\u0142otowianka | Patromierz"
+
 permalink: /fundacjazlotowianka
 ---
 

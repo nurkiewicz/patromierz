@@ -1,5 +1,6 @@
 ---
-title: "mateuszrajski | Patromierz"
+title: Mateusz Rajski | Patromierz
+
 permalink: /mateuszrajski
 ---
 

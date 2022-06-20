@@ -1,5 +1,6 @@
 ---
-title: "aleksanderdmowski | Patromierz"
+title: Aleksander Dmowski | Patromierz
+
 permalink: /aleksanderdmowski
 ---
 

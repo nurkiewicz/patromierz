@@ -1,5 +1,6 @@
 ---
-title: "lgrzybowski | Patromierz"
+title: Wszystko o Warszawie | Patromierz
+
 permalink: /lgrzybowski
 ---
 

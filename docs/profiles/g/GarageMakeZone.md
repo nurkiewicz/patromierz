@@ -1,5 +1,6 @@
 ---
-title: "GarageMakeZone | Patromierz"
+title: Garage Make Zone | Patromierz
+
 permalink: /GarageMakeZone
 ---
 

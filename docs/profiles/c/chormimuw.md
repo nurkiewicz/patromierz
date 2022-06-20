@@ -1,5 +1,6 @@
 ---
-title: "chormimuw | Patromierz"
+title: "Ch\xF3r MIM UW | Patromierz"
+
 permalink: /chormimuw
 ---
 

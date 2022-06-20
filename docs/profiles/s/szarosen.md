@@ -1,5 +1,6 @@
 ---
-title: "szarosen | Patromierz"
+title: Szarosen | Patromierz
+
 permalink: /szarosen
 ---
 

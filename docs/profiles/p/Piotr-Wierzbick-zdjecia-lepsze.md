@@ -1,5 +1,6 @@
 ---
-title: "Piotr-Wierzbick-zdjecia-lepsze | Patromierz"
+title: Piotr Wierzbicki | Patromierz
+
 permalink: /Piotr-Wierzbick-zdjecia-lepsze
 ---
 

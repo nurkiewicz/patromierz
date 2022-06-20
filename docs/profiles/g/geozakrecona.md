@@ -1,5 +1,6 @@
 ---
-title: "geozakrecona | Patromierz"
+title: "Monika Karli\u0144ska | Patromierz"
+
 permalink: /geozakrecona
 ---
 

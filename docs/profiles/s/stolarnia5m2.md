@@ -1,5 +1,6 @@
 ---
-title: "stolarnia5m2 | Patromierz"
+title: "\u0141ukasz Giergasz | Patromierz"
+
 permalink: /stolarnia5m2
 ---
 

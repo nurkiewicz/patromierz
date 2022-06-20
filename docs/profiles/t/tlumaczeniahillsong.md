@@ -1,5 +1,6 @@
 ---
-title: "tlumaczeniahillsong | Patromierz"
+title: "T\u0142umaczenia Hillsong | Patromierz"
+
 permalink: /tlumaczeniahillsong
 ---
 

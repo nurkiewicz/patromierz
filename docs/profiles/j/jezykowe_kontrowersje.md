@@ -1,5 +1,6 @@
 ---
-title: "jezykowe_kontrowersje | Patromierz"
+title: "J\u0119zykowe Kontrowersje | Patromierz"
+
 permalink: /jezykowe_kontrowersje
 ---
 

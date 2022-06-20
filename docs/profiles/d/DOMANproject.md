@@ -1,5 +1,6 @@
 ---
-title: "DOMANproject | Patromierz"
+title: DOMAN project - blacharstwo samochodowe bez fikcji | Patromierz
+
 permalink: /DOMANproject
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Radio40plus | Patromierz"
+title: Radio FortyPlus  | Patromierz
+
 permalink: /Radio40plus
 ---
 

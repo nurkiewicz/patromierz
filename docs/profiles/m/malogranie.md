@@ -1,5 +1,6 @@
 ---
-title: "malogranie | Patromierz"
+title: MaloGranie  | Patromierz
+
 permalink: /malogranie
 ---
 

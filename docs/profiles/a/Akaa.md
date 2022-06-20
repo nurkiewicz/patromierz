@@ -1,5 +1,6 @@
 ---
-title: "Akaa | Patromierz"
+title: Akaa | Patromierz
+
 permalink: /Akaa
 ---
 

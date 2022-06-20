@@ -1,5 +1,6 @@
 ---
-title: "gdyniaradio | Patromierz"
+title: Gdynia Radio | Patromierz
+
 permalink: /gdyniaradio
 ---
 

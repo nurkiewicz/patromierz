@@ -1,5 +1,6 @@
 ---
-title: "tomaszslodki | Patromierz"
+title: "Tomasz S\u0142odki | Patromierz"
+
 permalink: /tomaszslodki
 ---
 

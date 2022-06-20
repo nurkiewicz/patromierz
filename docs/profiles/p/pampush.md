@@ -1,5 +1,6 @@
 ---
-title: "pampush | Patromierz"
+title: Pampush | Patromierz
+
 permalink: /pampush
 ---
 

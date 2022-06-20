@@ -1,5 +1,6 @@
 ---
-title: "MonikaMatusik | Patromierz"
+title: Monika Matusik | Patromierz
+
 permalink: /MonikaMatusik
 ---
 

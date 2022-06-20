@@ -1,5 +1,6 @@
 ---
-title: "profideadlakobiet | Patromierz"
+title: "Tamara G\xF3recka-Wero\u0144ska | Patromierz"
+
 permalink: /profideadlakobiet
 ---
 

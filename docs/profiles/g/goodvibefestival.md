@@ -1,5 +1,6 @@
 ---
-title: "goodvibefestival | Patromierz"
+title: Good Vibe Festival | Patromierz
+
 permalink: /goodvibefestival
 ---
 

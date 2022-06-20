@@ -1,5 +1,6 @@
 ---
-title: "Rebeliant | Patromierz"
+title: Rebeliant Admin MDR | Patromierz
+
 permalink: /Rebeliant
 ---
 

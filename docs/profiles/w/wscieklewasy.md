@@ -1,5 +1,6 @@
 ---
-title: "wscieklewasy | Patromierz"
+title: "W\u015Bciek\u0142e W\u0105sy | Patromierz"
+
 permalink: /wscieklewasy
 ---
 

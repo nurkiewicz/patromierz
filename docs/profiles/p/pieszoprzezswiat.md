@@ -1,5 +1,6 @@
 ---
-title: "pieszoprzezswiat | Patromierz"
+title: "Pieszo przez \u015Bwiat  | Patromierz"
+
 permalink: /pieszoprzezswiat
 ---
 

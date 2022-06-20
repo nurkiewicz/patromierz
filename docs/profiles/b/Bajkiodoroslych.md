@@ -1,5 +1,6 @@
 ---
-title: "Bajkiodoroslych | Patromierz"
+title: "Bajki o  Doros\u0142ych | Patromierz"
+
 permalink: /Bajkiodoroslych
 ---
 

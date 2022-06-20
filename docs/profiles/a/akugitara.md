@@ -1,5 +1,6 @@
 ---
-title: "akugitara | Patromierz"
+title: AkuGitara | Patromierz
+
 permalink: /akugitara
 ---
 

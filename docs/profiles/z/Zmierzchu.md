@@ -1,5 +1,6 @@
 ---
-title: "Zmierzchu | Patromierz"
+title: "Nied\u017Awiecka o Zmierzchu | Patromierz"
+
 permalink: /Zmierzchu
 ---
 

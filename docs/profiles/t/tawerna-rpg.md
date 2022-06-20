@@ -1,5 +1,6 @@
 ---
-title: "tawerna-rpg | Patromierz"
+title: Tawerna Sesje RPG | Patromierz
+
 permalink: /tawerna-rpg
 ---
 

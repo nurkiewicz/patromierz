@@ -1,5 +1,6 @@
 ---
-title: "gospel | Patromierz"
+title: "Stowarzyszenie Gospel Nad Rab\u0105 | Patromierz"
+
 permalink: /gospel
 ---
 

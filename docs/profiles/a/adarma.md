@@ -1,5 +1,6 @@
 ---
-title: "adarma | Patromierz"
+title: Fundacja Ad Arma | Patromierz
+
 permalink: /adarma
 ---
 

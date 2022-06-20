@@ -1,5 +1,6 @@
 ---
-title: "wolnesady | Patromierz"
+title: "Fundacja Wolne S\u0105dy | Patromierz"
+
 permalink: /wolnesady
 ---
 

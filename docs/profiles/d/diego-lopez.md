@@ -1,5 +1,6 @@
 ---
-title: "diego-lopez | Patromierz"
+title: "Diego Lopez \u2013 Sztuka Argumentacji | Patromierz"
+
 permalink: /diego-lopez
 ---
 

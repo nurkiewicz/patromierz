@@ -1,5 +1,6 @@
 ---
-title: "Profesorchris | Patromierz"
+title: Profesor Chris | Patromierz
+
 permalink: /Profesorchris
 ---
 

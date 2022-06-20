@@ -1,5 +1,6 @@
 ---
-title: "chodznaslowko | Patromierz"
+title: "Chod\u017A na S\u0142\xF3wko | Patromierz"
+
 permalink: /chodznaslowko
 ---
 

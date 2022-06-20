@@ -1,5 +1,6 @@
 ---
-title: "filozofiadlajanuszy | Patromierz"
+title: Filozofia dla januszy | Patromierz
+
 permalink: /filozofiadlajanuszy
 ---
 

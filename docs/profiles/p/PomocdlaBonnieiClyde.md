@@ -1,5 +1,6 @@
 ---
-title: "PomocdlaBonnieiClyde | Patromierz"
+title: Pomoc dla Bonnie & Clyde | Patromierz
+
 permalink: /PomocdlaBonnieiClyde
 ---
 

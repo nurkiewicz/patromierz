@@ -1,5 +1,6 @@
 ---
-title: "RODK | Patromierz"
+title: "Wojciech Str\xF3zik | Patromierz"
+
 permalink: /RODK
 ---
 

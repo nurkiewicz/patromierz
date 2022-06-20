@@ -1,5 +1,6 @@
 ---
-title: "rcnennox | Patromierz"
+title: RC Nennox | Patromierz
+
 permalink: /rcnennox
 ---
 

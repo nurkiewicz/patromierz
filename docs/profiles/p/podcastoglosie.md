@@ -1,5 +1,6 @@
 ---
-title: "podcastoglosie | Patromierz"
+title: Monika Adamska | Patromierz
+
 permalink: /podcastoglosie
 ---
 

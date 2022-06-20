@@ -1,5 +1,6 @@
 ---
-title: "pieing | Patromierz"
+title: PIEING Magdalena Milert  | Patromierz
+
 permalink: /pieing
 ---
 

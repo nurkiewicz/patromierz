@@ -1,5 +1,6 @@
 ---
-title: "znowodronach | Patromierz"
+title: "A TEN ZN\xD3W O DRONACH! | Patromierz"
+
 permalink: /znowodronach
 ---
 

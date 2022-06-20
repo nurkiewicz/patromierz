@@ -1,5 +1,6 @@
 ---
-title: "szczesliwyziemniak | Patromierz"
+title: "Szcz\u0119\u015Bliwy Ziemniak | Patromierz"
+
 permalink: /szczesliwyziemniak
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "grupawydawniczafantazmaty | Patromierz"
+title: Fantazmaty | Patromierz
+
 permalink: /grupawydawniczafantazmaty
 ---
 

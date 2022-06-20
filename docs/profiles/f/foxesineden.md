@@ -1,5 +1,6 @@
 ---
-title: "foxesineden | Patromierz"
+title: Foxes in Eden | Patromierz
+
 permalink: /foxesineden
 ---
 

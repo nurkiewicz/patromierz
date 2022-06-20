@@ -1,5 +1,6 @@
 ---
-title: "xAyumix | Patromierz"
+title: Natalia D. - Ayumi. | Patromierz
+
 permalink: /xAyumix
 ---
 

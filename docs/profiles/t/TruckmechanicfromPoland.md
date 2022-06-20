@@ -1,5 +1,6 @@
 ---
-title: "TruckmechanicfromPoland | Patromierz"
+title: Truck Mechanic from Poland | Patromierz
+
 permalink: /TruckmechanicfromPoland
 ---
 

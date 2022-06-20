@@ -1,5 +1,6 @@
 ---
-title: "menudorotki | Patromierz"
+title: MENU Dorotki | Patromierz
+
 permalink: /menudorotki
 ---
 

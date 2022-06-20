@@ -1,5 +1,6 @@
 ---
-title: "gdziestybyl | Patromierz"
+title: "Gdzie\u015BTyBy\u0142 | Patromierz"
+
 permalink: /gdziestybyl
 ---
 

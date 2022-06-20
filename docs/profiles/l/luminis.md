@@ -1,5 +1,6 @@
 ---
-title: "luminis | Patromierz"
+title: "Luminis o\u015Bwietlenie | Patromierz"
+
 permalink: /luminis
 ---
 

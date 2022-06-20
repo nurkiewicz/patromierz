@@ -1,5 +1,6 @@
 ---
-title: "KSKNotec | Patromierz"
+title: "KSK Note\u0107 Inowroc\u0142aw | Patromierz"
+
 permalink: /KSKNotec
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chrzescijanin | Patromierz"
+title: "Radio Chrze\u015Bcijanin | Patromierz"
+
 permalink: /chrzescijanin
 ---
 

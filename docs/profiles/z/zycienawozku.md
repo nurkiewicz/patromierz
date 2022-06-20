@@ -1,5 +1,6 @@
 ---
-title: "zycienawozku | Patromierz"
+title: "\u017Bycie na W\xF3zku | Patromierz"
+
 permalink: /zycienawozku
 ---
 

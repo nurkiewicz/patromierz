@@ -1,5 +1,6 @@
 ---
-title: "NoiseMagazine | Patromierz"
+title: NOISE Magazine | Patromierz
+
 permalink: /NoiseMagazine
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "psierociniec | Patromierz"
+title: PSIEROCINIEC | Patromierz
+
 permalink: /psierociniec
 ---
 

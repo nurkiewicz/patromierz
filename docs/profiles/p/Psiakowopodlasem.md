@@ -1,5 +1,6 @@
 ---
-title: "Psiakowopodlasem | Patromierz"
+title: Fundacja Psiakowo pod lasem | Patromierz
+
 permalink: /Psiakowopodlasem
 ---
 

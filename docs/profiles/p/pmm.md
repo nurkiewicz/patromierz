@@ -1,5 +1,6 @@
 ---
-title: "pmm | Patromierz"
+title: Polska Misja Medyczna i Radio 357 | Patromierz
+
 permalink: /pmm
 ---
 

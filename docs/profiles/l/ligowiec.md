@@ -1,5 +1,6 @@
 ---
-title: "ligowiec | Patromierz"
+title: Ligowiec | Patromierz
+
 permalink: /ligowiec
 ---
 

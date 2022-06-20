@@ -1,5 +1,6 @@
 ---
-title: "SzaryBurek | Patromierz"
+title: Szary Burek | Patromierz
+
 permalink: /SzaryBurek
 ---
 

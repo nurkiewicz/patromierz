@@ -1,5 +1,6 @@
 ---
-title: "koronawirusunas | Patromierz"
+title: Koronawirusunas.pl | Patromierz
+
 permalink: /koronawirusunas
 ---
 

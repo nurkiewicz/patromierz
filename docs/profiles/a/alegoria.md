@@ -1,5 +1,6 @@
 ---
-title: "alegoria | Patromierz"
+title: Fundacja Alegoria  | Patromierz
+
 permalink: /alegoria
 ---
 

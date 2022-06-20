@@ -1,5 +1,6 @@
 ---
-title: "adamrazik | Patromierz"
+title: Adam Razik | Patromierz
+
 permalink: /adamrazik
 ---
 

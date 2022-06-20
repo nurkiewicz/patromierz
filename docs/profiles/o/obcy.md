@@ -1,5 +1,6 @@
 ---
-title: "obcy | Patromierz"
+title: obcy artist run space | Patromierz
+
 permalink: /obcy
 ---
 

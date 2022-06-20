@@ -1,5 +1,6 @@
 ---
-title: "Biwak-PolanaSzeptow | Patromierz"
+title: Biwak-Polana Szeptow | Patromierz
+
 permalink: /Biwak-PolanaSzeptow
 ---
 

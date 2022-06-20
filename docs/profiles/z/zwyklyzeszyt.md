@@ -1,5 +1,6 @@
 ---
-title: "zwyklyzeszyt | Patromierz"
+title: "Zwyk\u0142y Zeszyt | Patromierz"
+
 permalink: /zwyklyzeszyt
 ---
 

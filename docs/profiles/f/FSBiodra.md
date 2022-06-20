@@ -1,5 +1,6 @@
 ---
-title: "FSBiodra | Patromierz"
+title: "Fajny Sprz\u0119t Biodra | Patromierz"
+
 permalink: /FSBiodra
 ---
 

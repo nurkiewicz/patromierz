@@ -1,5 +1,6 @@
 ---
-title: "kartografianiepraktyczna | Patromierz"
+title: Kartografia Niepraktyczna | Patromierz
+
 permalink: /kartografianiepraktyczna
 ---
 

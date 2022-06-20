@@ -1,5 +1,6 @@
 ---
-title: "germanistka | Patromierz"
+title: Germanistka po godzinach | Patromierz
+
 permalink: /germanistka
 ---
 

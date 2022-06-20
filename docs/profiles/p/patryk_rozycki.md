@@ -1,5 +1,6 @@
 ---
-title: "patryk_rozycki | Patromierz"
+title: "Patryk R\xF3\u017Cycki | Patromierz"
+
 permalink: /patryk_rozycki
 ---
 

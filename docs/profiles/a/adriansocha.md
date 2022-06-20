@@ -1,5 +1,6 @@
 ---
-title: "adriansocha | Patromierz"
+title: ADRIAN SOCHA | Patromierz
+
 permalink: /adriansocha
 ---
 

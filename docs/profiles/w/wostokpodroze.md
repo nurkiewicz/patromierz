@@ -1,5 +1,6 @@
 ---
-title: "wostokpodroze | Patromierz"
+title: "Wostok Podr\xF3\u017Ce - Tomek Je\u017Cowski | Patromierz"
+
 permalink: /wostokpodroze
 ---
 

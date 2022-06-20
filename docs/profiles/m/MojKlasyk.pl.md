@@ -1,5 +1,6 @@
 ---
-title: "MojKlasyk.pl | Patromierz"
+title: Sebastian Wojciechowski | Patromierz
+
 permalink: /MojKlasyk.pl
 ---
 

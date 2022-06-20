@@ -1,5 +1,6 @@
 ---
-title: "lemisz | Patromierz"
+title: Jakub Lemiszewski | Patromierz
+
 permalink: /lemisz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fundacjaobywatelska | Patromierz"
+title: Halo.Radio  | Patromierz
+
 permalink: /fundacjaobywatelska
 ---
 

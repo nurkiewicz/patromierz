@@ -1,5 +1,6 @@
 ---
-title: "japakoniu | Patromierz"
+title: Japa Koniu | Patromierz
+
 permalink: /japakoniu
 ---
 

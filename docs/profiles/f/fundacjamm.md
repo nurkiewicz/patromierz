@@ -1,5 +1,6 @@
 ---
-title: "fundacjamm | Patromierz"
+title: Fundacja Maria Magdalena  | Patromierz
+
 permalink: /fundacjamm
 ---
 

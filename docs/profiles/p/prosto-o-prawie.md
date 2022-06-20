@@ -1,5 +1,6 @@
 ---
-title: "prosto-o-prawie | Patromierz"
+title: Prosto o Prawie | Patromierz
+
 permalink: /prosto-o-prawie
 ---
 

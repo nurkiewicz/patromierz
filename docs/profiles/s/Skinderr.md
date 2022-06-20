@@ -1,5 +1,6 @@
 ---
-title: "Skinderr | Patromierz"
+title: Skinder Garage | Patromierz
+
 permalink: /Skinderr
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ivonafranek | Patromierz"
+title: ivona franek | Patromierz
+
 permalink: /ivonafranek
 ---
 

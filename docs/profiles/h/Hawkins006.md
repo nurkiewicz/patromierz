@@ -1,5 +1,6 @@
 ---
-title: "Hawkins006 | Patromierz"
+title: Hawkins006 | Patromierz
+
 permalink: /Hawkins006
 ---
 

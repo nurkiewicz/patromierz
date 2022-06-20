@@ -1,5 +1,6 @@
 ---
-title: "PTPA | Patromierz"
+title: Polskie Towarzystwo Prawa Antydyskryminacyjnego | Patromierz
+
 permalink: /PTPA
 ---
 

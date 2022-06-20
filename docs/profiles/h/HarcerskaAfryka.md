@@ -1,5 +1,6 @@
 ---
-title: "HarcerskaAfryka | Patromierz"
+title: Harcerska Afryka | Patromierz
+
 permalink: /HarcerskaAfryka
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "vivainterwencje | Patromierz"
+title: Viva! Interwencje  | Patromierz
+
 permalink: /vivainterwencje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Jogisza | Patromierz"
+title: "Katarzyna  Szyma\u0144ska  | Patromierz"
+
 permalink: /Jogisza
 ---
 

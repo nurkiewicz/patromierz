@@ -1,5 +1,6 @@
 ---
-title: "DTF-Solutions | Patromierz"
+title: DTF Solutions | Patromierz
+
 permalink: /DTF-Solutions
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "MotoryzacjaDzieciom | Patromierz"
+title: Fundacja Motoryzacja Dzieciom | Patromierz
+
 permalink: /MotoryzacjaDzieciom
 ---
 

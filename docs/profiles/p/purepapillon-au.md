@@ -1,5 +1,6 @@
 ---
-title: "purepapillon-au | Patromierz"
+title: PurePapillon - Alternatywne Uniwersa  | Patromierz
+
 permalink: /purepapillon-au
 ---
 

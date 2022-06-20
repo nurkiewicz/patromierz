@@ -1,5 +1,6 @@
 ---
-title: "annaklosowska | Patromierz"
+title: "Anna K\u0142osowska - Odm\u0119ty Absurdu | Patromierz"
+
 permalink: /annaklosowska
 ---
 

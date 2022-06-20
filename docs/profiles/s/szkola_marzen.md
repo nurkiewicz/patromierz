@@ -1,5 +1,6 @@
 ---
-title: "szkola_marzen | Patromierz"
+title: "Szko\u0142a Marze\u0144 | Patromierz"
+
 permalink: /szkola_marzen
 ---
 

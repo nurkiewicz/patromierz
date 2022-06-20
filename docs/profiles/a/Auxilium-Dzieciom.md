@@ -1,5 +1,6 @@
 ---
-title: "Auxilium-Dzieciom | Patromierz"
+title: Fundacja Auxilium - Dzieciom | Patromierz
+
 permalink: /Auxilium-Dzieciom
 ---
 

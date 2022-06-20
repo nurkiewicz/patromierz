@@ -1,5 +1,6 @@
 ---
-title: "www-facebook-com-gdanskhistory | Patromierz"
+title: "Gda\u0144sk Historyczny | Patromierz"
+
 permalink: /www-facebook-com-gdanskhistory
 ---
 

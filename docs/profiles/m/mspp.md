@@ -1,5 +1,6 @@
 ---
-title: "mspp | Patromierz"
+title: "M\u0142oda Sztuka Po Polsku | Patromierz"
+
 permalink: /mspp
 ---
 

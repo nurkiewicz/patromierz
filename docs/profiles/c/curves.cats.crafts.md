@@ -1,5 +1,6 @@
 ---
-title: "curves.cats.crafts | Patromierz"
+title: Curves Cats Crafts | Patromierz
+
 permalink: /curves.cats.crafts
 ---
 

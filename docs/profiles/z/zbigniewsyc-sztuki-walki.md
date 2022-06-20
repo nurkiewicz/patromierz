@@ -1,5 +1,6 @@
 ---
-title: "zbigniewsyc-sztuki-walki | Patromierz"
+title: Zbigniew Syc - Sztuki Walki | Patromierz
+
 permalink: /zbigniewsyc-sztuki-walki
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "klubjagiellonski | Patromierz"
+title: "Klub Jagiello\u0144ski | Patromierz"
+
 permalink: /klubjagiellonski
 ---
 

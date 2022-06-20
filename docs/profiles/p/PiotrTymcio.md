@@ -1,5 +1,6 @@
 ---
-title: "PiotrTymcio | Patromierz"
+title: Piotr Tymcio | Patromierz
+
 permalink: /PiotrTymcio
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "podcastpzw | Patromierz"
+title: "Przedsi\u0119biorcy z Wyboru | Patromierz"
+
 permalink: /podcastpzw
 ---
 

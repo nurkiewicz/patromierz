@@ -1,5 +1,6 @@
 ---
-title: "ignacjanski | Patromierz"
+title: "Ignacja\u0144ski rachunek sumienia | Patromierz"
+
 permalink: /ignacjanski
 ---
 

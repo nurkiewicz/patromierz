@@ -1,5 +1,6 @@
 ---
-title: "ZbigniewDylewski | Patromierz"
+title: Zbigniew Dylewski | Patromierz
+
 permalink: /ZbigniewDylewski
 ---
 

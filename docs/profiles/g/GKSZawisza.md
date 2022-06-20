@@ -1,5 +1,6 @@
 ---
-title: "GKSZawisza | Patromierz"
+title: "GKS ZAWISZA Ro\u017Cn\xF3w | Patromierz"
+
 permalink: /GKSZawisza
 ---
 

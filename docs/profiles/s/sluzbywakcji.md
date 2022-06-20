@@ -1,5 +1,6 @@
 ---
-title: "sluzbywakcji | Patromierz"
+title: "S\u0142u\u017Cby w akcji | Patromierz"
+
 permalink: /sluzbywakcji
 ---
 

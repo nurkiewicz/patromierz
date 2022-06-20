@@ -1,5 +1,6 @@
 ---
-title: "ObywatelIntruz | Patromierz"
+title: Obywatel Intruz | Patromierz
+
 permalink: /ObywatelIntruz
 ---
 

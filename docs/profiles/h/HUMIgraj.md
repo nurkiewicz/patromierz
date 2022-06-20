@@ -1,5 +1,6 @@
 ---
-title: "HUMIgraj | Patromierz"
+title: HUMIGRAJ | Patromierz
+
 permalink: /HUMIgraj
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "patrycjahurlak | Patromierz"
+title: Patrycja Hurlak | Patromierz
+
 permalink: /patrycjahurlak
 ---
 

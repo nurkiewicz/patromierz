@@ -1,5 +1,6 @@
 ---
-title: "peterbielack | Patromierz"
+title: Peter Bielack | Patromierz
+
 permalink: /peterbielack
 ---
 

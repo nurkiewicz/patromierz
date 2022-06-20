@@ -1,5 +1,6 @@
 ---
-title: "sailoceans | Patromierz"
+title: "Jachtem przez \u015Awiat - SailOceans | Patromierz"
+
 permalink: /sailoceans
 ---
 

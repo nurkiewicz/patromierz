@@ -1,5 +1,6 @@
 ---
-title: "artkoval | Patromierz"
+title: ArtKoval | Patromierz
+
 permalink: /artkoval
 ---
 

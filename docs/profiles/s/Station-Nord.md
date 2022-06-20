@@ -1,5 +1,6 @@
 ---
-title: "Station-Nord | Patromierz"
+title: Station Nord | Patromierz
+
 permalink: /Station-Nord
 ---
 

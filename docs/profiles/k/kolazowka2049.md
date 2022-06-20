@@ -1,5 +1,6 @@
 ---
-title: "kolazowka2049 | Patromierz"
+title: "kola\u017C\xF3wka2049 | Patromierz"
+
 permalink: /kolazowka2049
 ---
 

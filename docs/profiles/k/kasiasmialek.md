@@ -1,5 +1,6 @@
 ---
-title: "kasiasmialek | Patromierz"
+title: "Kasia \u015Amia\u0142ek | Patromierz"
+
 permalink: /kasiasmialek
 ---
 

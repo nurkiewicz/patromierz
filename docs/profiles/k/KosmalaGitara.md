@@ -1,5 +1,6 @@
 ---
-title: "KosmalaGitara | Patromierz"
+title: "Micha\u0142 Kosmala | Patromierz"
+
 permalink: /KosmalaGitara
 ---
 

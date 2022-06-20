@@ -1,5 +1,6 @@
 ---
-title: "artdelic | Patromierz"
+title: Fundacja Artdelic | Patromierz
+
 permalink: /artdelic
 ---
 

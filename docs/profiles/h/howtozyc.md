@@ -1,5 +1,6 @@
 ---
-title: "howtozyc | Patromierz"
+title: "How To \u017By\u0107 | Patromierz"
+
 permalink: /howtozyc
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "szg | Patromierz"
+title: Stary Znowu Gra | Patromierz
+
 permalink: /szg
 ---
 

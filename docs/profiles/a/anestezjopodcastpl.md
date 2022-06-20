@@ -1,5 +1,6 @@
 ---
-title: "anestezjopodcastpl | Patromierz"
+title: Laryngoskop | Patromierz
+
 permalink: /anestezjopodcastpl
 ---
 

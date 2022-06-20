@@ -1,5 +1,6 @@
 ---
-title: "arkadikuss | Patromierz"
+title: Arkadikuss | Patromierz
+
 permalink: /arkadikuss
 ---
 

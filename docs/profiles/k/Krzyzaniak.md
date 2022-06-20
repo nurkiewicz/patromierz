@@ -1,5 +1,7 @@
 ---
-title: "Krzyzaniak | Patromierz"
+title: "Wojtek Krzy\u017Caniak: G\u0142os Szczerej S\u0142owia\u0144skiej Szydery\
+  \ | Patromierz"
+
 permalink: /Krzyzaniak
 ---
 

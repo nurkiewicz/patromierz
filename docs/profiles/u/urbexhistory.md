@@ -1,5 +1,6 @@
 ---
-title: "urbexhistory | Patromierz"
+title: Urbex History | Patromierz
+
 permalink: /urbexhistory
 ---
 

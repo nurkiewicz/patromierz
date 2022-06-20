@@ -1,5 +1,6 @@
 ---
-title: "Ironbro | Patromierz"
+title: IRON BRO | Patromierz
+
 permalink: /Ironbro
 ---
 

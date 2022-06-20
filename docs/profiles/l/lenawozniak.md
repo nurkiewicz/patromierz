@@ -1,5 +1,6 @@
 ---
-title: "lenawozniak | Patromierz"
+title: "Lena Wo\u017Aniak | Patromierz"
+
 permalink: /lenawozniak
 ---
 

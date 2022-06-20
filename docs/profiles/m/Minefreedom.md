@@ -1,5 +1,6 @@
 ---
-title: "Minefreedom | Patromierz"
+title: Eryk Skrzypczak | Patromierz
+
 permalink: /Minefreedom
 ---
 

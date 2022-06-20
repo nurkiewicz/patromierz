@@ -1,5 +1,6 @@
 ---
-title: "KMAG_Radio | Patromierz"
+title: K MAG Radio Podcast | Patromierz
+
 permalink: /KMAG_Radio
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tomaszpiwowarskiblades | Patromierz"
+title: Tomasz Piwowarski Blades | Patromierz
+
 permalink: /tomaszpiwowarskiblades
 ---
 

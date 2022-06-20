@@ -1,5 +1,6 @@
 ---
-title: "budzimy-kosciol | Patromierz"
+title: "Fundacja Nowa Pi\u0119\u0107dziesi\u0105tnica | Patromierz"
+
 permalink: /budzimy-kosciol
 ---
 

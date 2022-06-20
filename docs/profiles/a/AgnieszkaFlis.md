@@ -1,5 +1,6 @@
 ---
-title: "AgnieszkaFlis | Patromierz"
+title: Agnieszka  Flis / Agnes Violin | Patromierz
+
 permalink: /AgnieszkaFlis
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "lenaczerniawska | Patromierz"
+title: Lena  Czerniawska | Patromierz
+
 permalink: /lenaczerniawska
 ---
 

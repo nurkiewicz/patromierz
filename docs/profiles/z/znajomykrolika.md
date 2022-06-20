@@ -1,5 +1,6 @@
 ---
-title: "znajomykrolika | Patromierz"
+title: ZnajomyKRoLIKA | Patromierz
+
 permalink: /znajomykrolika
 ---
 

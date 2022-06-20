@@ -1,5 +1,6 @@
 ---
-title: "AnnaBak | Patromierz"
+title: "Anna B\u0105k | Patromierz"
+
 permalink: /AnnaBak
 ---
 

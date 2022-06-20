@@ -1,5 +1,6 @@
 ---
-title: "whiskyzcola | Patromierz"
+title: "Whisky z Col\u0105 | Patromierz"
+
 permalink: /whiskyzcola
 ---
 

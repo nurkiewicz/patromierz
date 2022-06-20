@@ -1,5 +1,6 @@
 ---
-title: "polskirock | Patromierz"
+title: Archiwum Polskiego Rocka - Polski Rock w najlepszym wydaniu | Patromierz
+
 permalink: /polskirock
 ---
 

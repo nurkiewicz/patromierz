@@ -1,5 +1,6 @@
 ---
-title: "projectexplore | Patromierz"
+title: Project Explore | Patromierz
+
 permalink: /projectexplore
 ---
 

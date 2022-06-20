@@ -1,5 +1,6 @@
 ---
-title: "wdzdla | Patromierz"
+title: "Wd\u017B dla zaawansowanych | Patromierz"
+
 permalink: /wdzdla
 ---
 

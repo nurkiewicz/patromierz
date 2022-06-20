@@ -1,5 +1,6 @@
 ---
-title: "adamstachowiak | Patromierz"
+title: Adam Stachowiak | Patromierz
+
 permalink: /adamstachowiak
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KL | Patromierz"
+title: Kultura Liberalna | Patromierz
+
 permalink: /KL
 ---
 

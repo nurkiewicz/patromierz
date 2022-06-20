@@ -1,5 +1,6 @@
 ---
-title: "JuliaJantarska | Patromierz"
+title: 'Julia Jantarska #roadtoMOTOGP | Patromierz'
+
 permalink: /JuliaJantarska
 ---
 

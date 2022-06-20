@@ -1,5 +1,6 @@
 ---
-title: "smakksiazki | Patromierz"
+title: smakksiazki.pl | Patromierz
+
 permalink: /smakksiazki
 ---
 

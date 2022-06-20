@@ -1,5 +1,6 @@
 ---
-title: "blizejzwierzat | Patromierz"
+title: "Bli\u017Cej Zwierz\u0105t | Patromierz"
+
 permalink: /blizejzwierzat
 ---
 

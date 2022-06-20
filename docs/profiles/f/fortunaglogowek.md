@@ -1,5 +1,6 @@
 ---
-title: "fortunaglogowek | Patromierz"
+title: "Fortuna G\u0142og\xF3wek | Patromierz"
+
 permalink: /fortunaglogowek
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fizykwyjasnia | Patromierz"
+title: "Fizyk Wyja\u015Bnia | Patromierz"
+
 permalink: /fizykwyjasnia
 ---
 

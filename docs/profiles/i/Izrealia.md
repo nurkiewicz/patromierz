@@ -1,5 +1,6 @@
 ---
-title: "Izrealia | Patromierz"
+title: Izrealia - Agata Tarnowska | Patromierz
+
 permalink: /Izrealia
 ---
 

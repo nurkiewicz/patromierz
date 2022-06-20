@@ -1,5 +1,6 @@
 ---
-title: "bieszczady | Patromierz"
+title: Bieszczady.Land | Patromierz
+
 permalink: /bieszczady
 ---
 

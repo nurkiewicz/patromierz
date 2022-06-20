@@ -1,5 +1,6 @@
 ---
-title: "podnaporem | Patromierz"
+title: Pod Naporem | Patromierz
+
 permalink: /podnaporem
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "bulldog-in-yellow-submarine | Patromierz"
+title: Bulldog in Yellow Submarine | Patromierz
+
 permalink: /bulldog-in-yellow-submarine
 ---
 

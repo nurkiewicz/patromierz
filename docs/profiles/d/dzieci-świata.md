@@ -1,5 +1,6 @@
 ---
-title: "dzieci-świata | Patromierz"
+title: "Dzieci \u015Awiata - Marzena Figiel | Patromierz"
+
 permalink: /dzieci-świata
 ---
 

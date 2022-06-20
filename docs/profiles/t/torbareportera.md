@@ -1,5 +1,6 @@
 ---
-title: "torbareportera | Patromierz"
+title: Torba Reportera i Podcastera | Patromierz
+
 permalink: /torbareportera
 ---
 

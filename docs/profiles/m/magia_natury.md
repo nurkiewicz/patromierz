@@ -1,5 +1,6 @@
 ---
-title: "magia_natury | Patromierz"
+title: Magia Natury | Patromierz
+
 permalink: /magia_natury
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "PodcastLepiejTeraz | Patromierz"
+title: "Rados\u0142aw Budnicki | Patromierz"
+
 permalink: /PodcastLepiejTeraz
 ---
 

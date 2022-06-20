@@ -1,5 +1,6 @@
 ---
-title: "adopciaki-pl | Patromierz"
+title: "Adopciaki.pl - adopcje z dom\xF3w tymczasowych | Patromierz"
+
 permalink: /adopciaki-pl
 ---
 

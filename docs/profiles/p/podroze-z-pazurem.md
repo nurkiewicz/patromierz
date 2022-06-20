@@ -1,5 +1,6 @@
 ---
-title: "podroze-z-pazurem | Patromierz"
+title: "Podr\xF3\u017Ce z Pazurem | Patromierz"
+
 permalink: /podroze-z-pazurem
 ---
 

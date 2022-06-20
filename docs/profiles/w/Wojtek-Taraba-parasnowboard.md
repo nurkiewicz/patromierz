@@ -1,5 +1,6 @@
 ---
-title: "Wojtek-Taraba-parasnowboard | Patromierz"
+title: Wojciech Taraba | Patromierz
+
 permalink: /Wojtek-Taraba-parasnowboard
 ---
 

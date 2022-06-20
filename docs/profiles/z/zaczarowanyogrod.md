@@ -1,5 +1,6 @@
 ---
-title: "zaczarowanyogrod | Patromierz"
+title: "Zaczarowany Ogr\xF3d | Patromierz"
+
 permalink: /zaczarowanyogrod
 ---
 

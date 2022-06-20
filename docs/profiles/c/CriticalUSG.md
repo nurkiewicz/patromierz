@@ -1,5 +1,6 @@
 ---
-title: "CriticalUSG | Patromierz"
+title: CriticalUSG | Patromierz
+
 permalink: /CriticalUSG
 ---
 

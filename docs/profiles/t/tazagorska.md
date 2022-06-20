@@ -1,5 +1,6 @@
 ---
-title: "tazagorska | Patromierz"
+title: "Paulina Zag\xF3rska | Patromierz"
+
 permalink: /tazagorska
 ---
 

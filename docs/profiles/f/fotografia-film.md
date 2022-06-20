@@ -1,5 +1,6 @@
 ---
-title: "fotografia-film | Patromierz"
+title: "Pawe\u0142 Gofer Krymarys | Patromierz"
+
 permalink: /fotografia-film
 ---
 

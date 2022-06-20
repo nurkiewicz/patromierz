@@ -1,5 +1,6 @@
 ---
-title: "Sierzant_Bagieta | Patromierz"
+title: "Sier\u017Cant Bagieta | Patromierz"
+
 permalink: /Sierzant_Bagieta
 ---
 

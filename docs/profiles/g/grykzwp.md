@@ -1,5 +1,6 @@
 ---
-title: "grykzwp | Patromierz"
+title: GryKZWP | Patromierz
+
 permalink: /grykzwp
 ---
 

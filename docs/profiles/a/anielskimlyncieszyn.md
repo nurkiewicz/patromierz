@@ -1,5 +1,6 @@
 ---
-title: "anielskimlyncieszyn | Patromierz"
+title: "Klub muzyczny Anielski M\u0142yn | Patromierz"
+
 permalink: /anielskimlyncieszyn
 ---
 

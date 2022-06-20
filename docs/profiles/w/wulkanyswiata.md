@@ -1,5 +1,6 @@
 ---
-title: "wulkanyswiata | Patromierz"
+title: "Wulkany \u015Bwiata | Patromierz"
+
 permalink: /wulkanyswiata
 ---
 

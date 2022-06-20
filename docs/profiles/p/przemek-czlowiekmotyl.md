@@ -1,5 +1,6 @@
 ---
-title: "przemek-czlowiekmotyl | Patromierz"
+title: "Przemys\u0142aw Sobieszczuk | Patromierz"
+
 permalink: /przemek-czlowiekmotyl
 ---
 

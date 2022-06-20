@@ -1,5 +1,6 @@
 ---
-title: "swiatusy | Patromierz"
+title: "\u015Awiatusy | Patromierz"
+
 permalink: /swiatusy
 ---
 

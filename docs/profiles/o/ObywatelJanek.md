@@ -1,5 +1,6 @@
 ---
-title: "ObywatelJanek | Patromierz"
+title: Obywatel Janek | Patromierz
+
 permalink: /ObywatelJanek
 ---
 

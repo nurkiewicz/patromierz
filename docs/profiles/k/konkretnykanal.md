@@ -1,5 +1,6 @@
 ---
-title: "konkretnykanal | Patromierz"
+title: "Konkretny Kana\u0142 | Patromierz"
+
 permalink: /konkretnykanal
 ---
 

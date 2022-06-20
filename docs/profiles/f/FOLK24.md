@@ -1,5 +1,6 @@
 ---
-title: "FOLK24 | Patromierz"
+title: FOLK24 Magazyn | Patromierz
+
 permalink: /FOLK24
 ---
 

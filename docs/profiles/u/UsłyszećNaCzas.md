@@ -1,5 +1,6 @@
 ---
-title: "UsłyszećNaCzas | Patromierz"
+title: "Us\u0142ysze\u0107 Na Czas | Patromierz"
+
 permalink: /UsłyszećNaCzas
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "w-podskokach | Patromierz"
+title: W PODSKOKACH | Patromierz
+
 permalink: /w-podskokach
 ---
 

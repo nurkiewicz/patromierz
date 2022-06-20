@@ -1,5 +1,6 @@
 ---
-title: "fabisz | Patromierz"
+title: Fabisz | Patromierz
+
 permalink: /fabisz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chpd | Patromierz"
+title: Chujowa Pani Domu  | Patromierz
+
 permalink: /chpd
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "pchamdoprzodu | Patromierz"
+title: Pcham Do Przodu | Patromierz
+
 permalink: /pchamdoprzodu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wiedzmi_las | Patromierz"
+title: "Wied\u017Ami Las | Patromierz"
+
 permalink: /wiedzmi_las
 ---
 

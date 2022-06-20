@@ -1,5 +1,6 @@
 ---
-title: "Grupa-KD | Patromierz"
+title: Grupa KD | Patromierz
+
 permalink: /Grupa-KD
 ---
 

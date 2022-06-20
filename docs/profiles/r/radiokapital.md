@@ -1,5 +1,6 @@
 ---
-title: "radiokapital | Patromierz"
+title: "Radio Kapita\u0142 | Patromierz"
+
 permalink: /radiokapital
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "riennahera | Patromierz"
+title: Riennahera | Patromierz
+
 permalink: /riennahera
 ---
 

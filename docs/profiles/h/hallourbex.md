@@ -1,5 +1,6 @@
 ---
-title: "hallourbex | Patromierz"
+title: Hallo Urbex | Patromierz
+
 permalink: /hallourbex
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "MojaAstronomia | Patromierz"
+title: MojaAstronomiaPL | Patromierz
+
 permalink: /MojaAstronomia
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "duchowoscwbiznesie | Patromierz"
+title: Judyta Jaworska | Patromierz
+
 permalink: /duchowoscwbiznesie
 ---
 

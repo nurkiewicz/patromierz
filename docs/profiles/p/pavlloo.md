@@ -1,5 +1,6 @@
 ---
-title: "pavlloo | Patromierz"
+title: pavlloo | Patromierz
+
 permalink: /pavlloo
 ---
 

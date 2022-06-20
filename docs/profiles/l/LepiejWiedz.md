@@ -1,5 +1,6 @@
 ---
-title: "LepiejWiedz | Patromierz"
+title: "Lepiej Wiedzie\u0107 | Patromierz"
+
 permalink: /LepiejWiedz
 ---
 

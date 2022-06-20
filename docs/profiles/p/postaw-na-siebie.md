@@ -1,5 +1,6 @@
 ---
-title: "postaw-na-siebie | Patromierz"
+title: Postaw na siebie! | Patromierz
+
 permalink: /postaw-na-siebie
 ---
 

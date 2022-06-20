@@ -1,5 +1,6 @@
 ---
-title: "joannajoasia | Patromierz"
+title: "Joanna P\u0142onka - muzycznie | Patromierz"
+
 permalink: /joannajoasia
 ---
 

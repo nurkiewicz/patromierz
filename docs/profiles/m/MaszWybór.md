@@ -1,5 +1,6 @@
 ---
-title: "MaszWybór | Patromierz"
+title: Wydawnictwo Wielokrotnego Wyboru | Patromierz
+
 permalink: /MaszWybór
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "posluchajozbrodni | Patromierz"
+title: "Pos\u0142uchaj o Zbrodni/ Z Autopsji | Patromierz"
+
 permalink: /posluchajozbrodni
 ---
 

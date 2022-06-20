@@ -1,5 +1,6 @@
 ---
-title: "zbudzsie | Patromierz"
+title: "Zbud\u017A si\u0119 | Patromierz"
+
 permalink: /zbudzsie
 ---
 

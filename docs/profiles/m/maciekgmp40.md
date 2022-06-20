@@ -1,5 +1,6 @@
 ---
-title: "maciekgmp40 | Patromierz"
+title: MaciekGMP40 | Patromierz
+
 permalink: /maciekgmp40
 ---
 

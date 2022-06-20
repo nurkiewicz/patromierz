@@ -1,5 +1,6 @@
 ---
-title: "MiserArt | Patromierz"
+title: "MiserArt \u2013 strefa kreatywna w labiryncie wykluczenia | Patromierz"
+
 permalink: /MiserArt
 ---
 

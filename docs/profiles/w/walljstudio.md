@@ -1,5 +1,6 @@
 ---
-title: "walljstudio | Patromierz"
+title: Wall J Studio | Patromierz
+
 permalink: /walljstudio
 ---
 

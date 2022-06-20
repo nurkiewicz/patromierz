@@ -1,5 +1,6 @@
 ---
-title: "jack_and_dog | Patromierz"
+title: Jacek i Diego | Patromierz
+
 permalink: /jack_and_dog
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Arktyka-blog | Patromierz"
+title: "Arktyczny L\xF3d blog | Patromierz"
+
 permalink: /Arktyka-blog
 ---
 

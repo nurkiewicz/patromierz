@@ -1,5 +1,6 @@
 ---
-title: "internet-czas-dzialac | Patromierz"
+title: "Internet. Czas dzia\u0142a\u0107! | Patromierz"
+
 permalink: /internet-czas-dzialac
 ---
 

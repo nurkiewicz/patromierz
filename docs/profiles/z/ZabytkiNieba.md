@@ -1,5 +1,6 @@
 ---
-title: "ZabytkiNieba | Patromierz"
+title: Zabytki Nieba | Patromierz
+
 permalink: /ZabytkiNieba
 ---
 

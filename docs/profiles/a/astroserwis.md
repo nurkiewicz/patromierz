@@ -1,5 +1,6 @@
 ---
-title: "astroserwis | Patromierz"
+title: Astroserwis | Patromierz
+
 permalink: /astroserwis
 ---
 

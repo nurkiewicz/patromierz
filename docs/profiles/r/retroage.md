@@ -1,5 +1,6 @@
 ---
-title: "retroage | Patromierz"
+title: RetroAge | Patromierz
+
 permalink: /retroage
 ---
 

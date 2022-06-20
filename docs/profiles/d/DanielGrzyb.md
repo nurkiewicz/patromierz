@@ -1,5 +1,6 @@
 ---
-title: "DanielGrzyb | Patromierz"
+title: Daniel Grzyb | Patromierz
+
 permalink: /DanielGrzyb
 ---
 

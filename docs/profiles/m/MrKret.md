@@ -1,5 +1,6 @@
 ---
-title: "MrKret | Patromierz"
+title: MrKret | Patromierz
+
 permalink: /MrKret
 ---
 

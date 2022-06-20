@@ -1,5 +1,6 @@
 ---
-title: "piwnarecenzja | Patromierz"
+title: "PiwnaRecenzja - Przemys\u0142aw  Stefa\u0144czyk | Patromierz"
+
 permalink: /piwnarecenzja
 ---
 

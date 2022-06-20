@@ -1,5 +1,6 @@
 ---
-title: "FlyingShoes-MagdalenaCzechoska | Patromierz"
+title: Magdalena Czechoska | Patromierz
+
 permalink: /FlyingShoes-MagdalenaCzechoska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "4latanarowerze | Patromierz"
+title: 4 lata na rowerze | Patromierz
+
 permalink: /4latanarowerze
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zadzieramkieceilece | Patromierz"
+title: "Zadzieram kiec\u0119 i lec\u0119  | Patromierz"
+
 permalink: /zadzieramkieceilece
 ---
 

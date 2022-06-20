@@ -1,5 +1,6 @@
 ---
-title: "RetroGralnia | Patromierz"
+title: RetroGralnia | Patromierz
+
 permalink: /RetroGralnia
 ---
 

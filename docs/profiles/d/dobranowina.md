@@ -1,5 +1,6 @@
 ---
-title: "dobranowina | Patromierz"
+title: DobraNowina.net | Patromierz
+
 permalink: /dobranowina
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "carpigiani | Patromierz"
+title: Lista Carpigiani | Patromierz
+
 permalink: /carpigiani
 ---
 

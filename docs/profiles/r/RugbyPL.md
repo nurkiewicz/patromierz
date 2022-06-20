@@ -1,5 +1,6 @@
 ---
-title: "RugbyPL | Patromierz"
+title: RugbyPL  | Patromierz
+
 permalink: /RugbyPL
 ---
 

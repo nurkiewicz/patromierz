@@ -1,5 +1,6 @@
 ---
-title: "michalzerka | Patromierz"
+title: "Micha\u0142 Zerka | Patromierz"
+
 permalink: /michalzerka
 ---
 

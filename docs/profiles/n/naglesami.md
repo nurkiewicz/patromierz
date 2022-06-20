@@ -1,5 +1,6 @@
 ---
-title: "naglesami | Patromierz"
+title: "Linia wsparcia dla os\xF3b po stracie | Patromierz"
+
 permalink: /naglesami
 ---
 

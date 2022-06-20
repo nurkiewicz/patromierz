@@ -1,5 +1,6 @@
 ---
-title: "ogniwo | Patromierz"
+title: "Sp\xF3\u0142dzielnia Ogniwo  | Patromierz"
+
 permalink: /ogniwo
 ---
 

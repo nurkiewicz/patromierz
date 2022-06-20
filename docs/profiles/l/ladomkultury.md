@@ -1,5 +1,6 @@
 ---
-title: "ladomkultury | Patromierz"
+title: Ladom Kultury | Patromierz
+
 permalink: /ladomkultury
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "DziedzictwoImperium | Patromierz"
+title: "Jakub Zapa\u0142a | Patromierz"
+
 permalink: /DziedzictwoImperium
 ---
 

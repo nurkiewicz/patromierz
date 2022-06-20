@@ -1,5 +1,6 @@
 ---
-title: "SiatkarskiePodroze | Patromierz"
+title: "Siatkarskie Podr\xF3\u017Ce | Patromierz"
+
 permalink: /SiatkarskiePodroze
 ---
 

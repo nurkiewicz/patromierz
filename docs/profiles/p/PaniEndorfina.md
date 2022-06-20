@@ -1,5 +1,6 @@
 ---
-title: "PaniEndorfina | Patromierz"
+title: Pani Endorfina | Patromierz
+
 permalink: /PaniEndorfina
 ---
 

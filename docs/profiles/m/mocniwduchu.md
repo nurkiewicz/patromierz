@@ -1,5 +1,6 @@
 ---
-title: "mocniwduchu | Patromierz"
+title: Mocni w Duchu | Patromierz
+
 permalink: /mocniwduchu
 ---
 

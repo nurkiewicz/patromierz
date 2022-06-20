@@ -1,5 +1,6 @@
 ---
-title: "LucyPhere | Patromierz"
+title: Lucy Phere | Patromierz
+
 permalink: /LucyPhere
 ---
 

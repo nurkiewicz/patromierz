@@ -1,5 +1,6 @@
 ---
-title: "blogka | Patromierz"
+title: "Ka \u2013 Transp\u0142ciowa Dziewczyna | Patromierz"
+
 permalink: /blogka
 ---
 

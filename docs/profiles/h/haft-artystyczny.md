@@ -1,5 +1,6 @@
 ---
-title: "haft-artystyczny | Patromierz"
+title: Izabela_BO | Patromierz
+
 permalink: /haft-artystyczny
 ---
 

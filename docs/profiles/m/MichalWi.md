@@ -1,5 +1,6 @@
 ---
-title: "MichalWi | Patromierz"
+title: "Micha\u0142 Wi | Patromierz"
+
 permalink: /MichalWi
 ---
 

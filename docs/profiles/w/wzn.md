@@ -1,5 +1,6 @@
 ---
-title: "wzn | Patromierz"
+title: Wyrwani z Niewoli | Patromierz
+
 permalink: /wzn
 ---
 

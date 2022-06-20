@@ -1,5 +1,6 @@
 ---
-title: "w-gore-szlaku | Patromierz"
+title: "W G\xF3r\u0119 Szlaku | Patromierz"
+
 permalink: /w-gore-szlaku
 ---
 

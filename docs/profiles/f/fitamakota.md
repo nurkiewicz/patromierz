@@ -1,5 +1,6 @@
 ---
-title: "fitamakota | Patromierz"
+title: Fita ma kota | Patromierz
+
 permalink: /fitamakota
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "SudeckaOstoja | Patromierz"
+title: Sudecka Ostoja | Patromierz
+
 permalink: /SudeckaOstoja
 ---
 

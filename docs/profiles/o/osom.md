@@ -1,5 +1,6 @@
 ---
-title: "osom | Patromierz"
+title: OSOM | Patromierz
+
 permalink: /osom
 ---
 

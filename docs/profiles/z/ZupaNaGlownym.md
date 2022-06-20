@@ -1,5 +1,6 @@
 ---
-title: "ZupaNaGlownym | Patromierz"
+title: "Zupa na G\u0142\xF3wnym | Patromierz"
+
 permalink: /ZupaNaGlownym
 ---
 

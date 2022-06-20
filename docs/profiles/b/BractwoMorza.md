@@ -1,5 +1,6 @@
 ---
-title: "BractwoMorza | Patromierz"
+title: Bractwo Morza | Patromierz
+
 permalink: /BractwoMorza
 ---
 

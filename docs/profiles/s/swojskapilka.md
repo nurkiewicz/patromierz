@@ -1,5 +1,6 @@
 ---
-title: "swojskapilka | Patromierz"
+title: "Swojska Pi\u0142ka | Patromierz"
+
 permalink: /swojskapilka
 ---
 

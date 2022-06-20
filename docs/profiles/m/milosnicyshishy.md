@@ -1,5 +1,6 @@
 ---
-title: "milosnicyshishy | Patromierz"
+title: "Mi\u0142o\u015Bnicy shishy | Patromierz"
+
 permalink: /milosnicyshishy
 ---
 

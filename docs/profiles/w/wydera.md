@@ -1,5 +1,6 @@
 ---
-title: "wydera | Patromierz"
+title: Wydera | Patromierz
+
 permalink: /wydera
 ---
 

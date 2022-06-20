@@ -1,5 +1,6 @@
 ---
-title: "VolnyChor | Patromierz"
+title: Volny Chor | Patromierz
+
 permalink: /VolnyChor
 ---
 

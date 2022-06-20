@@ -1,5 +1,6 @@
 ---
-title: "fcbarca-com | Patromierz"
+title: FCBarca.com | Patromierz
+
 permalink: /fcbarca-com
 ---
 

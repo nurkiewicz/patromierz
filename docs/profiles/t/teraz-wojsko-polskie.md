@@ -1,5 +1,6 @@
 ---
-title: "teraz-wojsko-polskie | Patromierz"
+title: Fundacja Teraz Wojsko Polskie | Patromierz
+
 permalink: /teraz-wojsko-polskie
 ---
 

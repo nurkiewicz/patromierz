@@ -1,5 +1,6 @@
 ---
-title: "synopsa | Patromierz"
+title: synopsa.pl | Patromierz
+
 permalink: /synopsa
 ---
 

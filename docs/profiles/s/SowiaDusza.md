@@ -1,5 +1,6 @@
 ---
-title: "SowiaDusza | Patromierz"
+title: Sowia Dusza | Patromierz
+
 permalink: /SowiaDusza
 ---
 

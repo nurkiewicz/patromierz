@@ -1,5 +1,6 @@
 ---
-title: "nona | Patromierz"
+title: Nona | Patromierz
+
 permalink: /nona
 ---
 

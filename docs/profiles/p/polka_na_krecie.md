@@ -1,5 +1,6 @@
 ---
-title: "polka_na_krecie | Patromierz"
+title: Polka na Krecie | Patromierz
+
 permalink: /polka_na_krecie
 ---
 

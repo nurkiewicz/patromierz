@@ -1,5 +1,6 @@
 ---
-title: "BlogMundurowy | Patromierz"
+title: Blog Mundurowy  | Patromierz
+
 permalink: /BlogMundurowy
 ---
 

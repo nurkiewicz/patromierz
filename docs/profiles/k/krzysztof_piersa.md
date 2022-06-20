@@ -1,5 +1,6 @@
 ---
-title: "krzysztof_piersa | Patromierz"
+title: Krzysztof Piersa | Patromierz
+
 permalink: /krzysztof_piersa
 ---
 

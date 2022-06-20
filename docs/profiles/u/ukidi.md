@@ -1,5 +1,6 @@
 ---
-title: "ukidi | Patromierz"
+title: "ukidi - Video blog - ro\u015Bliny tropikalne | Patromierz"
+
 permalink: /ukidi
 ---
 

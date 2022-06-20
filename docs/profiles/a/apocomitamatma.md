@@ -1,5 +1,6 @@
 ---
-title: "apocomitamatma | Patromierz"
+title: A po co MI ta MATMA? | Patromierz
+
 permalink: /apocomitamatma
 ---
 

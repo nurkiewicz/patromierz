@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Grota"] = [
+	[1596931200,55,5,11.0,425,null],
 	[1643364400,20,1,20.0,650,null],
 	[1643435816,20,1,20.0,650,null],
 	[1643524669,20,1,20.0,650,null],

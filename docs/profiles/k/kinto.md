@@ -1,5 +1,6 @@
 ---
-title: "kinto | Patromierz"
+title: "Krzysztof Dziewi\u0105tkowski | Patromierz"
+
 permalink: /kinto
 ---
 

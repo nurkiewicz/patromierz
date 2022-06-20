@@ -1,5 +1,6 @@
 ---
-title: "swiatokiembiegacza | Patromierz"
+title: Florian Pyszel | Patromierz
+
 permalink: /swiatokiembiegacza
 ---
 

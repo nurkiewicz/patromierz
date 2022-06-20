@@ -1,5 +1,6 @@
 ---
-title: "szymonwarsz | Patromierz"
+title: Szymon Warsz - Szlakiem w nieznane | Patromierz
+
 permalink: /szymonwarsz
 ---
 

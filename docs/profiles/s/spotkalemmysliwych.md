@@ -1,5 +1,6 @@
 ---
-title: "spotkalemmysliwych | Patromierz"
+title: Tadeusz Mirczewski | Patromierz
+
 permalink: /spotkalemmysliwych
 ---
 

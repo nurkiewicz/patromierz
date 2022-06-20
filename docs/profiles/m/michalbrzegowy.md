@@ -1,5 +1,6 @@
 ---
-title: "michalbrzegowy | Patromierz"
+title: "Micha\u0142 Brzegowy | Patromierz"
+
 permalink: /michalbrzegowy
 ---
 

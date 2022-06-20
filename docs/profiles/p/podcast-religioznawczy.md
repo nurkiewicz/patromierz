@@ -1,5 +1,6 @@
 ---
-title: "podcast-religioznawczy | Patromierz"
+title: Podcast Religioznawczy | Patromierz
+
 permalink: /podcast-religioznawczy
 ---
 

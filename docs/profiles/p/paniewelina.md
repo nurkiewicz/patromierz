@@ -1,5 +1,6 @@
 ---
-title: "paniewelina | Patromierz"
+title: Pani Ewelina | Patromierz
+
 permalink: /paniewelina
 ---
 

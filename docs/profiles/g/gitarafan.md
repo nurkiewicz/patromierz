@@ -1,5 +1,6 @@
 ---
-title: "gitarafan | Patromierz"
+title: Piotr Lessaer | Patromierz
+
 permalink: /gitarafan
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Wachtyrz | Patromierz"
+title: Wachtyrz.eu | Patromierz
+
 permalink: /Wachtyrz
 ---
 

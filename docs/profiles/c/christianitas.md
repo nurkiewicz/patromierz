@@ -1,5 +1,6 @@
 ---
-title: "christianitas | Patromierz"
+title: Christianitas | Patromierz
+
 permalink: /christianitas
 ---
 

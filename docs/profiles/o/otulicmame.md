@@ -1,5 +1,6 @@
 ---
-title: "otulicmame | Patromierz"
+title: "Otuli\u0107 Mam\u0119 | Patromierz"
+
 permalink: /otulicmame
 ---
 

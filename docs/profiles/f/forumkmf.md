@@ -1,5 +1,6 @@
 ---
-title: "forumkmf | Patromierz"
+title: Forum KMF | Patromierz
+
 permalink: /forumkmf
 ---
 

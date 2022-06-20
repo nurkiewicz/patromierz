@@ -1,5 +1,6 @@
 ---
-title: "FundacjaMamMarzenie | Patromierz"
+title: Fundacja Mam Marzenie | Patromierz
+
 permalink: /FundacjaMamMarzenie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ASKSoliDeo | Patromierz"
+title: ASK Soli Deo | Patromierz
+
 permalink: /ASKSoliDeo
 ---
 

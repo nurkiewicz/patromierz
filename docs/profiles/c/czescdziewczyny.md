@@ -1,5 +1,6 @@
 ---
-title: "czescdziewczyny | Patromierz"
+title: "Cze\u015B\u0107 Dziewczyny! | Patromierz"
+
 permalink: /czescdziewczyny
 ---
 

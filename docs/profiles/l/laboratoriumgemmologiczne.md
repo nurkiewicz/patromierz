@@ -1,5 +1,6 @@
 ---
-title: "laboratoriumgemmologiczne | Patromierz"
+title: Krzysztof Stankiewicz | Patromierz
+
 permalink: /laboratoriumgemmologiczne
 ---
 

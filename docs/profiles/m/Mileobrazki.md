@@ -1,5 +1,6 @@
 ---
-title: "Mileobrazki | Patromierz"
+title: "Mi\u0142e Obrazki - Maria Kaczorowska | Patromierz"
+
 permalink: /Mileobrazki
 ---
 

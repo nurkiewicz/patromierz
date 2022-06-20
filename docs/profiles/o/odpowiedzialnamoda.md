@@ -1,5 +1,6 @@
 ---
-title: "odpowiedzialnamoda | Patromierz"
+title: "Odpowiedzialna Moda - Katarzyna Zaj\u0105czkowska | Patromierz"
+
 permalink: /odpowiedzialnamoda
 ---
 

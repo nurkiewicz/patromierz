@@ -1,5 +1,6 @@
 ---
-title: "PrzySobieStan | Patromierz"
+title: "PrzySobieSta\u0144 | Patromierz"
+
 permalink: /PrzySobieStan
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "amstaffazyl | Patromierz"
+title: Fundacja Amstaff Azyl | Patromierz
+
 permalink: /amstaffazyl
 ---
 

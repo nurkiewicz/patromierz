@@ -1,5 +1,6 @@
 ---
-title: "alewinoshow | Patromierz"
+title: Ale Wino Show | Patromierz
+
 permalink: /alewinoshow
 ---
 

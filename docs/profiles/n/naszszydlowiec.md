@@ -1,5 +1,6 @@
 ---
-title: "naszszydlowiec | Patromierz"
+title: "Klub Przyjaci\xF3\u0142 portalu \"Nasz Szyd\u0142owiec\" | Patromierz"
+
 permalink: /naszszydlowiec
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "VIKING | Patromierz"
+title: Jacek VIKING | Patromierz
+
 permalink: /VIKING
 ---
 

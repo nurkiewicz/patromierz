@@ -1,5 +1,6 @@
 ---
-title: "gajapisze | Patromierz"
+title: Katarzyna Gajewska GajaPisze.pl | Patromierz
+
 permalink: /gajapisze
 ---
 

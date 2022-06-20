@@ -1,5 +1,6 @@
 ---
-title: "gamemusic | Patromierz"
+title: Fundacja Game Music | Patromierz
+
 permalink: /gamemusic
 ---
 

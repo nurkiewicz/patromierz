@@ -1,5 +1,6 @@
 ---
-title: "gree | Patromierz"
+title: Gree | Patromierz
+
 permalink: /gree
 ---
 

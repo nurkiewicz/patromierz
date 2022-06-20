@@ -1,5 +1,6 @@
 ---
-title: "dotykobecnosci | Patromierz"
+title: "Dotyk Obecno\u015Bci | Patromierz"
+
 permalink: /dotykobecnosci
 ---
 

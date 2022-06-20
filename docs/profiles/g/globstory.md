@@ -1,5 +1,6 @@
 ---
-title: "globstory | Patromierz"
+title: Globstory  | Patromierz
+
 permalink: /globstory
 ---
 

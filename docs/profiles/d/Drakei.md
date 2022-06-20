@@ -1,5 +1,6 @@
 ---
-title: "Drakei | Patromierz"
+title: Drakei | Patromierz
+
 permalink: /Drakei
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "gravityrevolt | Patromierz"
+title: Gravity Revolt | Patromierz
+
 permalink: /gravityrevolt
 ---
 

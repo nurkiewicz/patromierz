@@ -1,5 +1,6 @@
 ---
-title: "joganidra | Patromierz"
+title: Kasia Klimczewska | Patromierz
+
 permalink: /joganidra
 ---
 

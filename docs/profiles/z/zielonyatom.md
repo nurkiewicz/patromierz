@@ -1,5 +1,6 @@
 ---
-title: "zielonyatom | Patromierz"
+title: Zielony Atom | Patromierz
+
 permalink: /zielonyatom
 ---
 

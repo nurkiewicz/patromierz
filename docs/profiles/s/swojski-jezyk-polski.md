@@ -1,5 +1,6 @@
 ---
-title: "swojski-jezyk-polski | Patromierz"
+title: "Swojski J\u0119zyk Polski | Patromierz"
+
 permalink: /swojski-jezyk-polski
 ---
 

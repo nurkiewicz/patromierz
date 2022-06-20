@@ -1,5 +1,6 @@
 ---
-title: "PrzegladBaltycki | Patromierz"
+title: "Przegl\u0105d Ba\u0142tycki | Patromierz"
+
 permalink: /PrzegladBaltycki
 ---
 

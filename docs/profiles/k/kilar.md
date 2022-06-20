@@ -1,5 +1,6 @@
 ---
-title: "kilar | Patromierz"
+title: Adrian Kilar | Patromierz
+
 permalink: /kilar
 ---
 

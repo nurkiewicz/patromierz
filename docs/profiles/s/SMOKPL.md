@@ -1,5 +1,7 @@
 ---
-title: "SMOKPL | Patromierz"
+title: "Klubowe muzeum retro komputer\xF3w Stowarzyszenia Mi\u0142o\u015Bnik\xF3w\
+  \ Oldschoolowych Komputer\xF3w SMOK | Patromierz"
+
 permalink: /SMOKPL
 ---
 

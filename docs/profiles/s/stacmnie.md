@@ -1,5 +1,6 @@
 ---
-title: "stacmnie | Patromierz"
+title: "Sta\u0107 Mnie | Patromierz"
+
 permalink: /stacmnie
 ---
 

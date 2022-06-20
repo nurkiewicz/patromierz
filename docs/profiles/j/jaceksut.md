@@ -1,5 +1,6 @@
 ---
-title: "jaceksut | Patromierz"
+title: Jacek Sut | Patromierz
+
 permalink: /jaceksut
 ---
 

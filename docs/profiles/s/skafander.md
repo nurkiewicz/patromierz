@@ -1,5 +1,6 @@
 ---
-title: "skafander | Patromierz"
+title: Skafander Klingerta | Patromierz
+
 permalink: /skafander
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "xmslyz | Patromierz"
+title: "ks. Maciej S\u0142y\u017C  | Patromierz"
+
 permalink: /xmslyz
 ---
 

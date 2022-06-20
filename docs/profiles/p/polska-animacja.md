@@ -1,5 +1,7 @@
 ---
-title: "polska-animacja | Patromierz"
+title: 'Piotr Kardas | Autorskie Festiwale Animacji: O!PLA, Rising of Lusitania |
+  Patromierz'
+
 permalink: /polska-animacja
 ---
 

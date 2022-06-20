@@ -1,5 +1,6 @@
 ---
-title: "EchazFestungBreslau | Patromierz"
+title: Echa z Festung Breslau | Patromierz
+
 permalink: /EchazFestungBreslau
 ---
 

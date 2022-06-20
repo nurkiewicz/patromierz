@@ -1,5 +1,6 @@
 ---
-title: "fundacja_kundelek | Patromierz"
+title: Fundacja Kundelek | Patromierz
+
 permalink: /fundacja_kundelek
 ---
 

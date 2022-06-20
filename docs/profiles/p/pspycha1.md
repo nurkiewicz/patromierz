@@ -1,5 +1,6 @@
 ---
-title: "pspycha1 | Patromierz"
+title: "Paulina Spycha\u0142a | Patromierz"
+
 permalink: /pspycha1
 ---
 

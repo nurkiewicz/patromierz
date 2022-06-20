@@ -1,5 +1,6 @@
 ---
-title: "nataliabrand | Patromierz"
+title: "Historie Os\xF3b Zaginionych  | Patromierz"
+
 permalink: /nataliabrand
 ---
 

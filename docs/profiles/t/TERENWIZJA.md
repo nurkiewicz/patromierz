@@ -1,5 +1,6 @@
 ---
-title: "TERENWIZJA | Patromierz"
+title: TERENWIZJA | Patromierz
+
 permalink: /TERENWIZJA
 ---
 

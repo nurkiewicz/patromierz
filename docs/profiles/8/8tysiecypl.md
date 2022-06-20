@@ -1,5 +1,6 @@
 ---
-title: "8tysiecypl | Patromierz"
+title: 8tysiecy.pl | Patromierz
+
 permalink: /8tysiecypl
 ---
 

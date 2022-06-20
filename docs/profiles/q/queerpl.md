@@ -1,5 +1,6 @@
 ---
-title: "queerpl | Patromierz"
+title: Queer.pl | Patromierz
+
 permalink: /queerpl
 ---
 

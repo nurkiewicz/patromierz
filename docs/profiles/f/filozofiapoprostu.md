@@ -1,5 +1,6 @@
 ---
-title: "filozofiapoprostu | Patromierz"
+title: Filozofia Po Prostu | Patromierz
+
 permalink: /filozofiapoprostu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "SilentHeroesPL | Patromierz"
+title: SilentHeroesPL | Patromierz
+
 permalink: /SilentHeroesPL
 ---
 

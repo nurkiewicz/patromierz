@@ -1,5 +1,6 @@
 ---
-title: "fizykwargentynie | Patromierz"
+title: 'Wojciech Ganczarek (dawniej: Fizyk w Argentynie) | Patromierz'
+
 permalink: /fizykwargentynie
 ---
 

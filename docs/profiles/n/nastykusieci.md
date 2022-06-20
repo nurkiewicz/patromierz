@@ -1,5 +1,6 @@
 ---
-title: "nastykusieci | Patromierz"
+title: Na Styku Sieci | Patromierz
+
 permalink: /nastykusieci
 ---
 

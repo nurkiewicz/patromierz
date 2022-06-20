@@ -1,5 +1,6 @@
 ---
-title: "greenelka | Patromierz"
+title: Greenelka by Agnieszka Moitrot | Patromierz
+
 permalink: /greenelka
 ---
 

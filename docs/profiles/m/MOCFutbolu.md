@@ -1,5 +1,6 @@
 ---
-title: "MOCFutbolu | Patromierz"
+title: MOC Futbolu | Patromierz
+
 permalink: /MOCFutbolu
 ---
 

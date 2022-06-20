@@ -1,5 +1,6 @@
 ---
-title: "bsfbochnia | Patromierz"
+title: BSF Bochnia | Patromierz
+
 permalink: /bsfbochnia
 ---
 

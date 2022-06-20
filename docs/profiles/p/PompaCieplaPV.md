@@ -1,5 +1,6 @@
 ---
-title: "PompaCieplaPV | Patromierz"
+title: "Pompa Ciep\u0142a i PV | Patromierz"
+
 permalink: /PompaCieplaPV
 ---
 

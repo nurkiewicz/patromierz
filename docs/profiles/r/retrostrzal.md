@@ -1,5 +1,6 @@
 ---
-title: "retrostrzal | Patromierz"
+title: "RETROSTRZA\u0141 | Patromierz"
+
 permalink: /retrostrzal
 ---
 

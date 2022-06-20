@@ -1,5 +1,6 @@
 ---
-title: "RunningMachine | Patromierz"
+title: Running Machine | Patromierz
+
 permalink: /RunningMachine
 ---
 

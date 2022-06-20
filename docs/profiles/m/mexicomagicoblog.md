@@ -1,5 +1,6 @@
 ---
-title: "mexicomagicoblog | Patromierz"
+title: Mexico Magico Blog | Patromierz
+
 permalink: /mexicomagicoblog
 ---
 

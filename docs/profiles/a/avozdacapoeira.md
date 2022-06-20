@@ -1,5 +1,6 @@
 ---
-title: "avozdacapoeira | Patromierz"
+title: A Voz Da Capoeira | Patromierz
+
 permalink: /avozdacapoeira
 ---
 

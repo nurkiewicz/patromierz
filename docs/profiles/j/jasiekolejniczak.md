@@ -1,5 +1,6 @@
 ---
-title: "jasiekolejniczak | Patromierz"
+title: Jasiek Olejniczak | Patromierz
+
 permalink: /jasiekolejniczak
 ---
 

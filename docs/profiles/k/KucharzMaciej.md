@@ -1,5 +1,6 @@
 ---
-title: "KucharzMaciej | Patromierz"
+title: Kucharz Maciej | Patromierz
+
 permalink: /KucharzMaciej
 ---
 

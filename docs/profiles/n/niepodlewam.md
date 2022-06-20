@@ -1,5 +1,6 @@
 ---
-title: "niepodlewam | Patromierz"
+title: Niepodlewam.pl | Patromierz
+
 permalink: /niepodlewam
 ---
 

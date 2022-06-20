@@ -1,5 +1,6 @@
 ---
-title: "splendidsound | Patromierz"
+title: Splendid Sound | Patromierz
+
 permalink: /splendidsound
 ---
 

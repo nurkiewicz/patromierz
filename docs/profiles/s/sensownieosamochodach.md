@@ -1,5 +1,6 @@
 ---
-title: "sensownieosamochodach | Patromierz"
+title: Marek Narkiewicz | Patromierz
+
 permalink: /sensownieosamochodach
 ---
 

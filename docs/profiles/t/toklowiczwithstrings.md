@@ -1,5 +1,6 @@
 ---
-title: "toklowiczwithstrings | Patromierz"
+title: "Tok\u0142owicz with strings   | Patromierz"
+
 permalink: /toklowiczwithstrings
 ---
 

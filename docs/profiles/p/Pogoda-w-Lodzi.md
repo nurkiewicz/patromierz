@@ -1,5 +1,6 @@
 ---
-title: "Pogoda-w-Lodzi | Patromierz"
+title: "Pogoda w \u0141odzi | Patromierz"
+
 permalink: /Pogoda-w-Lodzi
 ---
 

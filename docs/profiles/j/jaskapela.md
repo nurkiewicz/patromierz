@@ -1,5 +1,6 @@
 ---
-title: "jaskapela | Patromierz"
+title: "Ja\u015B Kapela | Patromierz"
+
 permalink: /jaskapela
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "majakarinarozbicka | Patromierz"
+title: Maja Karina Rozbicka | Patromierz
+
 permalink: /majakarinarozbicka
 ---
 

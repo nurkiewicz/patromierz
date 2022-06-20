@@ -1,5 +1,6 @@
 ---
-title: "halogorlice-info | Patromierz"
+title: Informacyjny Portal Internetowy halogorlice.info  | Patromierz
+
 permalink: /halogorlice-info
 ---
 

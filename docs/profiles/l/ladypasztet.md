@@ -1,5 +1,6 @@
 ---
-title: "ladypasztet | Patromierz"
+title: Lady Pasztet | Patromierz
+
 permalink: /ladypasztet
 ---
 

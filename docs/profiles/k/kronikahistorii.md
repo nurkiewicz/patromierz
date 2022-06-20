@@ -1,5 +1,6 @@
 ---
-title: "kronikahistorii | Patromierz"
+title: Kronika Historii | Patromierz
+
 permalink: /kronikahistorii
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "michal_kot | Patromierz"
+title: "Micha\u0142 Kot | Patromierz"
+
 permalink: /michal_kot
 ---
 

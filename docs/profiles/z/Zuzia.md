@@ -1,5 +1,6 @@
 ---
-title: "Zuzia | Patromierz"
+title: Zuzanna Pawlikowska | Patromierz
+
 permalink: /Zuzia
 ---
 

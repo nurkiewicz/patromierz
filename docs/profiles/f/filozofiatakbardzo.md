@@ -1,5 +1,6 @@
 ---
-title: "filozofiatakbardzo | Patromierz"
+title: Filozofia tak bardzo | Patromierz
+
 permalink: /filozofiatakbardzo
 ---
 

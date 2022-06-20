@@ -1,5 +1,6 @@
 ---
-title: "madamemonday | Patromierz"
+title: Joanna Flis | Patromierz
+
 permalink: /madamemonday
 ---
 

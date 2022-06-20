@@ -1,5 +1,6 @@
 ---
-title: "fundacjaokowokozrakiem | Patromierz"
+title: Fundacja Oko w Oko z Rakiem | Patromierz
+
 permalink: /fundacjaokowokozrakiem
 ---
 

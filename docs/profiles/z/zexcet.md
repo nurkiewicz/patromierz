@@ -1,5 +1,6 @@
 ---
-title: "zexcet | Patromierz"
+title: Zexcet  | Patromierz
+
 permalink: /zexcet
 ---
 

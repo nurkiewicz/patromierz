@@ -1,5 +1,6 @@
 ---
-title: "MonitorLesny | Patromierz"
+title: "Rafa\u0142 Chudy | Patromierz"
+
 permalink: /MonitorLesny
 ---
 

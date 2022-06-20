@@ -1,5 +1,6 @@
 ---
-title: "KragBiblijny | Patromierz"
+title: "Kr\u0105g Biblijny | Patromierz"
+
 permalink: /KragBiblijny
 ---
 

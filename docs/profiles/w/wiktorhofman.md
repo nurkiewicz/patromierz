@@ -1,5 +1,6 @@
 ---
-title: "wiktorhofman | Patromierz"
+title: Wiktor Hofman | Patromierz
+
 permalink: /wiktorhofman
 ---
 

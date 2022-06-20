@@ -1,5 +1,6 @@
 ---
-title: "milenadunaj | Patromierz"
+title: Milena Dunaj | Patromierz
+
 permalink: /milenadunaj
 ---
 

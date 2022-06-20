@@ -1,5 +1,6 @@
 ---
-title: "drugiseans | Patromierz"
+title: Drugi Seans | Patromierz
+
 permalink: /drugiseans
 ---
 

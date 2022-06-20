@@ -1,5 +1,6 @@
 ---
-title: "KrzysztofPL | Patromierz"
+title: Krzysztof PL | Patromierz
+
 permalink: /KrzysztofPL
 ---
 

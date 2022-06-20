@@ -1,5 +1,6 @@
 ---
-title: "fundacjakatarzynykozyry | Patromierz"
+title: Fundacja Katarzyny Kozyry | Patromierz
+
 permalink: /fundacjakatarzynykozyry
 ---
 

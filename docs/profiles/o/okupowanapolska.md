@@ -1,5 +1,6 @@
 ---
-title: "okupowanapolska | Patromierz"
+title: Okupowana Polska | Patromierz
+
 permalink: /okupowanapolska
 ---
 

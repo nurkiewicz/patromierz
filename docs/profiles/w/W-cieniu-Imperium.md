@@ -1,5 +1,6 @@
 ---
-title: "W-cieniu-Imperium | Patromierz"
+title: W cieniu Imperium | Patromierz
+
 permalink: /W-cieniu-Imperium
 ---
 

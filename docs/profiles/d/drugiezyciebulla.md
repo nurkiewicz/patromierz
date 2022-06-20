@@ -1,5 +1,6 @@
 ---
-title: "drugiezyciebulla | Patromierz"
+title: "Drugie \u017Bycie Bulla | Patromierz"
+
 permalink: /drugiezyciebulla
 ---
 

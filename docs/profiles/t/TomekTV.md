@@ -1,5 +1,6 @@
 ---
-title: "TomekTV | Patromierz"
+title: TomekTV | Patromierz
+
 permalink: /TomekTV
 ---
 

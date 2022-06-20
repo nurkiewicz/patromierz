@@ -1,5 +1,6 @@
 ---
-title: "olafp | Patromierz"
+title: Olaf Popkiewicz | Patromierz
+
 permalink: /olafp
 ---
 

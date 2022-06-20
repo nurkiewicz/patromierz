@@ -1,5 +1,6 @@
 ---
-title: "mike-satoshi | Patromierz"
+title: Mike Satoshi | Patromierz
+
 permalink: /mike-satoshi
 ---
 

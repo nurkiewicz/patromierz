@@ -1,5 +1,6 @@
 ---
-title: "myslozbrodnia | Patromierz"
+title: "My\u015Blozbrodnia | Patromierz"
+
 permalink: /myslozbrodnia
 ---
 

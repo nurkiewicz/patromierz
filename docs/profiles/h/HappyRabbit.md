@@ -1,5 +1,6 @@
 ---
-title: "HappyRabbit | Patromierz"
+title: Happy Rabbit  | Patromierz
+
 permalink: /HappyRabbit
 ---
 

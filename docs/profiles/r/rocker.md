@@ -1,5 +1,6 @@
 ---
-title: "rocker | Patromierz"
+title: Rocker | Patromierz
+
 permalink: /rocker
 ---
 

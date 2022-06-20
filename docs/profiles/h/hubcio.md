@@ -1,5 +1,6 @@
 ---
-title: "hubcio | Patromierz"
+title: "Podr\xF3\u017Cniczy Hubcio | Patromierz"
+
 permalink: /hubcio
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ProjektDeepSouth | Patromierz"
+title: "Miko\u0142aj i Karol - Projekt Deep South | Patromierz"
+
 permalink: /ProjektDeepSouth
 ---
 

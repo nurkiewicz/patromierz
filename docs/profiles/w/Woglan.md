@@ -1,5 +1,6 @@
 ---
-title: "Woglan | Patromierz"
+title: Cham i Prostak | Patromierz
+
 permalink: /Woglan
 ---
 

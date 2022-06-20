@@ -1,5 +1,6 @@
 ---
-title: "paryzewo | Patromierz"
+title: "Pary\u017Cewo | Patromierz"
+
 permalink: /paryzewo
 ---
 

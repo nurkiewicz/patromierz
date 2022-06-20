@@ -1,5 +1,6 @@
 ---
-title: "RodzinnePodróże | Patromierz"
+title: "Rodzinne Podr\xF3\u017Ce  | Patromierz"
+
 permalink: /RodzinnePodróże
 ---
 

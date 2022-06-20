@@ -1,5 +1,6 @@
 ---
-title: "banasiewiczblog | Patromierz"
+title: Banasiewicz Blog | Patromierz
+
 permalink: /banasiewiczblog
 ---
 

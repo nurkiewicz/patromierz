@@ -1,5 +1,6 @@
 ---
-title: "PolskaPółkaFilmowa | Patromierz"
+title: "Polska P\xF3\u0142ka Filmowa | Patromierz"
+
 permalink: /PolskaPółkaFilmowa
 ---
 

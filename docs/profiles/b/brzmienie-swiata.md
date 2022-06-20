@@ -1,5 +1,6 @@
 ---
-title: "brzmienie-swiata | Patromierz"
+title: "Brzmienie \u015Awiata z lotu Drozda | Patromierz"
+
 permalink: /brzmienie-swiata
 ---
 

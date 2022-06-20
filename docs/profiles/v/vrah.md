@@ -1,5 +1,6 @@
 ---
-title: "vrah | Patromierz"
+title: Vrah | Patromierz
+
 permalink: /vrah
 ---
 

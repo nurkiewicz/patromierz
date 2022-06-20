@@ -1,5 +1,6 @@
 ---
-title: "staremaniowy | Patromierz"
+title: StareManiowy.pl | Patromierz
+
 permalink: /staremaniowy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "DziewuchyDziewuchom | Patromierz"
+title: Fundacja Dziewuchy Dziewuchom | Patromierz
+
 permalink: /DziewuchyDziewuchom
 ---
 

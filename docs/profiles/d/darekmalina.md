@@ -1,5 +1,6 @@
 ---
-title: "darekmalina | Patromierz"
+title: Darek Malinowski | Patromierz
+
 permalink: /darekmalina
 ---
 

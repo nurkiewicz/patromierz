@@ -1,5 +1,6 @@
 ---
-title: "sqrczybyk | Patromierz"
+title: SQrczybyk | Patromierz
+
 permalink: /sqrczybyk
 ---
 

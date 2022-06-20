@@ -1,5 +1,6 @@
 ---
-title: "DisneyLady | Patromierz"
+title: DisneyLady | Patromierz
+
 permalink: /DisneyLady
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "niphiliststudios | Patromierz"
+title: Niphilist Studios | Patromierz
+
 permalink: /niphiliststudios
 ---
 

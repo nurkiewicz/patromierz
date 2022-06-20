@@ -1,5 +1,6 @@
 ---
-title: "parkmaszyn | Patromierz"
+title: Park Maszyn | Patromierz
+
 permalink: /parkmaszyn
 ---
 

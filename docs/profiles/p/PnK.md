@@ -1,5 +1,6 @@
 ---
-title: "PnK | Patromierz"
+title: "Przerwa na kaw\u0119 | Patromierz"
+
 permalink: /PnK
 ---
 

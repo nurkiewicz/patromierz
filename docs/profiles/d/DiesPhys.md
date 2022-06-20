@@ -1,5 +1,6 @@
 ---
-title: "DiesPhys | Patromierz"
+title: "Fizyka dla Laika czyli Nauka dla T\u0142uka | Patromierz"
+
 permalink: /DiesPhys
 ---
 

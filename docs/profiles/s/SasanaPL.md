@@ -1,5 +1,6 @@
 ---
-title: "SasanaPL | Patromierz"
+title: SasanaPL | Patromierz
+
 permalink: /SasanaPL
 ---
 

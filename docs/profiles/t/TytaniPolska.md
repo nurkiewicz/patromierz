@@ -1,5 +1,6 @@
 ---
-title: "TytaniPolska | Patromierz"
+title: Tytani Polska | Patromierz
+
 permalink: /TytaniPolska
 ---
 

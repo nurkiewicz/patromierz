@@ -1,5 +1,6 @@
 ---
-title: "slasknet | Patromierz"
+title: www.slasknet.com | Patromierz
+
 permalink: /slasknet
 ---
 

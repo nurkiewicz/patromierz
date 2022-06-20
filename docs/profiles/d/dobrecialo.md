@@ -1,5 +1,6 @@
 ---
-title: "dobrecialo | Patromierz"
+title: "Dobre Cia\u0142o  | Patromierz"
+
 permalink: /dobrecialo
 ---
 

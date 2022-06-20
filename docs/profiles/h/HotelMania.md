@@ -1,5 +1,6 @@
 ---
-title: "HotelMania | Patromierz"
+title: HotelMania | Patromierz
+
 permalink: /HotelMania
 ---
 

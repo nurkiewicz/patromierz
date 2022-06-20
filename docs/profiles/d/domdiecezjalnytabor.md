@@ -1,5 +1,6 @@
 ---
-title: "domdiecezjalnytabor | Patromierz"
+title: Dom Diecezjalny TABOR | Patromierz
+
 permalink: /domdiecezjalnytabor
 ---
 

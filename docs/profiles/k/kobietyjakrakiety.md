@@ -1,5 +1,6 @@
 ---
-title: "kobietyjakrakiety | Patromierz"
+title: Kobiety jak Rakiety | Patromierz
+
 permalink: /kobietyjakrakiety
 ---
 

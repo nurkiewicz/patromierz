@@ -1,5 +1,6 @@
 ---
-title: "dcsworldpl | Patromierz"
+title: "DCS World - Szko\u0142a latania | Patromierz"
+
 permalink: /dcsworldpl
 ---
 

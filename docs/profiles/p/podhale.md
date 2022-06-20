@@ -1,5 +1,6 @@
 ---
-title: "podhale | Patromierz"
+title: Marian Gromala  | Patromierz
+
 permalink: /podhale
 ---
 

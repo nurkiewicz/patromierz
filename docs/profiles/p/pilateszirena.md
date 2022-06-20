@@ -1,5 +1,6 @@
 ---
-title: "pilateszirena | Patromierz"
+title: Irena Melcer | Patromierz
+
 permalink: /pilateszirena
 ---
 

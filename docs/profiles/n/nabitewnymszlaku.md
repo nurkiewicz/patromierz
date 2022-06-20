@@ -1,5 +1,6 @@
 ---
-title: "nabitewnymszlaku | Patromierz"
+title: Na bitewnym szlaku | Patromierz
+
 permalink: /nabitewnymszlaku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kawazmierniczym | Patromierz"
+title: '#kawazmierniczym | Patromierz'
+
 permalink: /kawazmierniczym
 ---
 

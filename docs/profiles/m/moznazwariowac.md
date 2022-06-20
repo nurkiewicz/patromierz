@@ -1,5 +1,6 @@
 ---
-title: "moznazwariowac | Patromierz"
+title: "Podcast Mo\u017Cna Zwariowa\u0107 | Patromierz"
+
 permalink: /moznazwariowac
 ---
 

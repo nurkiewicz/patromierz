@@ -1,5 +1,6 @@
 ---
-title: "lasy_janowskie_i_okolice | Patromierz"
+title: Lasy Janowskie i okolice | Patromierz
+
 permalink: /lasy_janowskie_i_okolice
 ---
 

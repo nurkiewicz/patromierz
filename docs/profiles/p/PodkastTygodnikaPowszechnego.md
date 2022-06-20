@@ -1,5 +1,6 @@
 ---
-title: "PodkastTygodnikaPowszechnego | Patromierz"
+title: Podkast Tygodnika Powszechnego | Patromierz
+
 permalink: /PodkastTygodnikaPowszechnego
 ---
 

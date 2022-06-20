@@ -1,5 +1,6 @@
 ---
-title: "AutomatycznyPodcast | Patromierz"
+title: Automatyczny Podcast | Patromierz
+
 permalink: /AutomatycznyPodcast
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "prawemnalewo | Patromierz"
+title: Prawem Na Lewo | Patromierz
+
 permalink: /prawemnalewo
 ---
 

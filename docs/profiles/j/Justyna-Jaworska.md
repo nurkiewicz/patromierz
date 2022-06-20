@@ -1,5 +1,6 @@
 ---
-title: "Justyna-Jaworska | Patromierz"
+title: Justyna Jaworska | Patromierz
+
 permalink: /Justyna-Jaworska
 ---
 

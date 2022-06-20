@@ -1,5 +1,6 @@
 ---
-title: "tetmajer | Patromierz"
+title: "Micha\u0142 Przerwa-Tetmajer | Patromierz"
+
 permalink: /tetmajer
 ---
 

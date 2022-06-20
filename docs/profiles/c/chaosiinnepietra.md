@@ -1,5 +1,6 @@
 ---
-title: "chaosiinnepietra | Patromierz"
+title: "Chaos i inne pi\u0119tra - Kaja Kowalewska  | Patromierz"
+
 permalink: /chaosiinnepietra
 ---
 

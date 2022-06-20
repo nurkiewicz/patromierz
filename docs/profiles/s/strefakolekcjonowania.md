@@ -1,5 +1,6 @@
 ---
-title: "strefakolekcjonowania | Patromierz"
+title: Strefa kolekcjonowania | Patromierz
+
 permalink: /strefakolekcjonowania
 ---
 

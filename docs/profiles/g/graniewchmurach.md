@@ -1,5 +1,6 @@
 ---
-title: "graniewchmurach | Patromierz"
+title: Granie w chmurach - Gry planszowe | Patromierz
+
 permalink: /graniewchmurach
 ---
 

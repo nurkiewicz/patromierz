@@ -1,5 +1,6 @@
 ---
-title: "DowytrenowAnia | Patromierz"
+title: DowytrenowAnia | Patromierz
+
 permalink: /DowytrenowAnia
 ---
 

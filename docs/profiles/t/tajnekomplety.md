@@ -1,5 +1,6 @@
 ---
-title: "tajnekomplety | Patromierz"
+title: "Cafe Ksi\u0119garnia Tajne Komplety | Patromierz"
+
 permalink: /tajnekomplety
 ---
 

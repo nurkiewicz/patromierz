@@ -1,5 +1,6 @@
 ---
-title: "djswiru | Patromierz"
+title: "DJ \u015AWIRU | Patromierz"
+
 permalink: /djswiru
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "PiterZrobToSam | Patromierz"
+title: "Piter Zr\xF3bToSam | Patromierz"
+
 permalink: /PiterZrobToSam
 ---
 

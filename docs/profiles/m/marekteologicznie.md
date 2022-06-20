@@ -1,5 +1,6 @@
 ---
-title: "marekteologicznie | Patromierz"
+title: Marek Teologicznie | Patromierz
+
 permalink: /marekteologicznie
 ---
 

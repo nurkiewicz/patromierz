@@ -1,5 +1,6 @@
 ---
-title: "BROiMY | Patromierz"
+title: '#BROiMYparkitlenowe #BROiMYrecycling #BROiMYfitline #BROiMYmusic  | Patromierz'
+
 permalink: /BROiMY
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "xman | Patromierz"
+title: "Pawe\u0142 Bu\u0142at | Patromierz"
+
 permalink: /xman
 ---
 

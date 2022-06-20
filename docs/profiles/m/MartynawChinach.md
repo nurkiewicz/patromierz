@@ -1,5 +1,6 @@
 ---
-title: "MartynawChinach | Patromierz"
+title: Martyna Krystek | Patromierz
+
 permalink: /MartynawChinach
 ---
 

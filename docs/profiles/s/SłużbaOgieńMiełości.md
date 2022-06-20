@@ -1,5 +1,6 @@
 ---
-title: "SłużbaOgieńMiełości | Patromierz"
+title: Grzegorz Miecznikowski | Patromierz
+
 permalink: /SłużbaOgieńMiełości
 ---
 

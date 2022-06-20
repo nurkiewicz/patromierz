@@ -1,5 +1,6 @@
 ---
-title: "amberisosom | Patromierz"
+title: amberisosom | Patromierz
+
 permalink: /amberisosom
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "dyaltaracreatrice | Patromierz"
+title: "Dyal Tara Creatrice - Uzdrawiaj\u0105ca Wibracja Mantr | Patromierz"
+
 permalink: /dyaltaracreatrice
 ---
 

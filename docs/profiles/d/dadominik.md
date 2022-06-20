@@ -1,5 +1,6 @@
 ---
-title: "dadominik | Patromierz"
+title: DA Dominik | Patromierz
+
 permalink: /dadominik
 ---
 

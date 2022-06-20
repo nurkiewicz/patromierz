@@ -1,5 +1,6 @@
 ---
-title: "aranzacjawnetrz | Patromierz"
+title: "Aran\u017Cacja Wn\u0119trz | Patromierz"
+
 permalink: /aranzacjawnetrz
 ---
 

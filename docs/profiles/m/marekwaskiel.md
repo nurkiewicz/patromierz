@@ -1,5 +1,6 @@
 ---
-title: "marekwaskiel | Patromierz"
+title: "Marek Wa\u015Bkiel | Patromierz"
+
 permalink: /marekwaskiel
 ---
 

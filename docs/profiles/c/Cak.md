@@ -1,5 +1,6 @@
 ---
-title: "Cak | Patromierz"
+title: CAK | Patromierz
+
 permalink: /Cak
 ---
 

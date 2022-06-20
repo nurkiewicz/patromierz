@@ -1,5 +1,6 @@
 ---
-title: "2padypl | Patromierz"
+title: Podcast 2pady.pl | Patromierz
+
 permalink: /2padypl
 ---
 

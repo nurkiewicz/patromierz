@@ -1,5 +1,6 @@
 ---
-title: "Wyczytam-Ci | Patromierz"
+title: Mich Pabian czytacz_szperacz | Patromierz
+
 permalink: /Wyczytam-Ci
 ---
 

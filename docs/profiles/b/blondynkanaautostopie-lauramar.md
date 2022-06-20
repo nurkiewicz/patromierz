@@ -1,5 +1,6 @@
 ---
-title: "blondynkanaautostopie-lauramar | Patromierz"
+title: Blondynka na autostopie podcast/Laura Maria | Patromierz
+
 permalink: /blondynkanaautostopie-lauramar
 ---
 

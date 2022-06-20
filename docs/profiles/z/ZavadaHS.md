@@ -1,5 +1,6 @@
 ---
-title: "ZavadaHS | Patromierz"
+title: ZavadaHS | Patromierz
+
 permalink: /ZavadaHS
 ---
 

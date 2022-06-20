@@ -1,5 +1,6 @@
 ---
-title: "ŚmiemWątpić | Patromierz"
+title: "\u015Amiem W\u0105tpi\u0107 | Patromierz"
+
 permalink: /ŚmiemWątpić
 ---
 

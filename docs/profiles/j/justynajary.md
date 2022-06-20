@@ -1,5 +1,6 @@
 ---
-title: "justynajary | Patromierz"
+title: Justyna Jary | Patromierz
+
 permalink: /justynajary
 ---
 

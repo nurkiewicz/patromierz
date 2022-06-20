@@ -1,5 +1,6 @@
 ---
-title: "polskiemarkimodowe | Patromierz"
+title: Polskie Marki Modowe | Patromierz
+
 permalink: /polskiemarkimodowe
 ---
 

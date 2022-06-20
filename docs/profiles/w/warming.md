@@ -1,5 +1,6 @@
 ---
-title: "warming | Patromierz"
+title: Warming | Patromierz
+
 permalink: /warming
 ---
 

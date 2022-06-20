@@ -1,5 +1,6 @@
 ---
-title: "Nightmaredoors | Patromierz"
+title: Nightmare Doors Studio | Patromierz
+
 permalink: /Nightmaredoors
 ---
 

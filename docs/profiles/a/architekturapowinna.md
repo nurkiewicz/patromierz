@@ -1,5 +1,6 @@
 ---
-title: "architekturapowinna | Patromierz"
+title: Architektura Powinna | Patromierz
+
 permalink: /architekturapowinna
 ---
 

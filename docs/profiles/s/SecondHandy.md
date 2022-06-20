@@ -1,5 +1,6 @@
 ---
-title: "SecondHandy | Patromierz"
+title: SecondHandy | Patromierz
+
 permalink: /SecondHandy
 ---
 

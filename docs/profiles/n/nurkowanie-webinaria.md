@@ -1,5 +1,6 @@
 ---
-title: "nurkowanie-webinaria | Patromierz"
+title: Irena Kosowska | Patromierz
+
 permalink: /nurkowanie-webinaria
 ---
 

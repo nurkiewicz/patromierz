@@ -1,5 +1,6 @@
 ---
-title: "Youngtimerbike | Patromierz"
+title: Youngtimerbike.pl  | Patromierz
+
 permalink: /Youngtimerbike
 ---
 

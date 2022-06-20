@@ -1,5 +1,6 @@
 ---
-title: "papina | Patromierz"
+title: "Pawe\u0142 Rupala | Patromierz"
+
 permalink: /papina
 ---
 

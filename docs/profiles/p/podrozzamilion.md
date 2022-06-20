@@ -1,5 +1,6 @@
 ---
-title: "podrozzamilion | Patromierz"
+title: "Podr\xF3\u017C Za Milion Zdj\u0119\u0107 | Patromierz"
+
 permalink: /podrozzamilion
 ---
 

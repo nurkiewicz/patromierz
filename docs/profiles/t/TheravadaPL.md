@@ -1,5 +1,6 @@
 ---
-title: "TheravadaPL | Patromierz"
+title: Fundacja "Theravada" | Patromierz
+
 permalink: /TheravadaPL
 ---
 

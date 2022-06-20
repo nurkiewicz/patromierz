@@ -1,5 +1,6 @@
 ---
-title: "pelnizycia | Patromierz"
+title: "Dom Pe\u0142ni \u017Bycia Gliwice | Patromierz"
+
 permalink: /pelnizycia
 ---
 

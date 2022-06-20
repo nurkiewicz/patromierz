@@ -1,5 +1,6 @@
 ---
-title: "karolinaanna | Patromierz"
+title: Karolina Anna | Patromierz
+
 permalink: /karolinaanna
 ---
 

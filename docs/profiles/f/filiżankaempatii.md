@@ -1,5 +1,6 @@
 ---
-title: "filiżankaempatii | Patromierz"
+title: "Fili\u017Canka Empatii | Patromierz"
+
 permalink: /filiżankaempatii
 ---
 

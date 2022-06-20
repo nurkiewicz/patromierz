@@ -1,5 +1,6 @@
 ---
-title: "TSMTB | Patromierz"
+title: "Stowarzyszenie Tr\xF3jmiejskie \u015Acie\u017Cki MTB | Patromierz"
+
 permalink: /TSMTB
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "slowo-filozofa | Patromierz"
+title: "S\u0141OWO FILOZOFA | Patromierz"
+
 permalink: /slowo-filozofa
 ---
 

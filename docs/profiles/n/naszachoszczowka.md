@@ -1,5 +1,6 @@
 ---
-title: "naszachoszczowka | Patromierz"
+title: "Nasza Choszcz\xF3wka | Patromierz"
+
 permalink: /naszachoszczowka
 ---
 

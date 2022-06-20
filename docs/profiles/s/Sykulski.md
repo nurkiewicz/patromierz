@@ -1,5 +1,6 @@
 ---
-title: "Sykulski | Patromierz"
+title: Leszek Sykulski | Patromierz
+
 permalink: /Sykulski
 ---
 

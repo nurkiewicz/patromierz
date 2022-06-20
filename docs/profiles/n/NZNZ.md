@@ -1,5 +1,6 @@
 ---
-title: "NZNZ | Patromierz"
+title: "NZN\u017B - Sekcja Wspomagaj\u0105ca | Patromierz"
+
 permalink: /NZNZ
 ---
 

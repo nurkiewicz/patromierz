@@ -1,5 +1,6 @@
 ---
-title: "lubomirwisniowa | Patromierz"
+title: "Lubomir Wi\u015Bniowa - sekcja kobiet | Patromierz"
+
 permalink: /lubomirwisniowa
 ---
 

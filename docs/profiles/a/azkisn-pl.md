@@ -1,5 +1,6 @@
 ---
-title: "azkisn-pl | Patromierz"
+title: "Antropogeniczne Zmiany Klimatu i \u015Arodowiska Naturalnego | Patromierz"
+
 permalink: /azkisn-pl
 ---
 

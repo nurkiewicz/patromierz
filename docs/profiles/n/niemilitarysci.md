@@ -1,5 +1,6 @@
 ---
-title: "niemilitarysci | Patromierz"
+title: Niemilitarysci | Patromierz
+
 permalink: /niemilitarysci
 ---
 

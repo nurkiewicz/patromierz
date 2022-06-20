@@ -1,5 +1,6 @@
 ---
-title: "MakeYourLifeGreener | Patromierz"
+title: Make Your Life Greener | Patromierz
+
 permalink: /MakeYourLifeGreener
 ---
 

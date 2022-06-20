@@ -1,5 +1,6 @@
 ---
-title: "Zeszyt_do_polskiego | Patromierz"
+title: Zeszyt do polskiego | Patromierz
+
 permalink: /Zeszyt_do_polskiego
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "michalnowaczyk | Patromierz"
+title: "Micha\u0142 Nowaczyk snowboarder | Patromierz"
+
 permalink: /michalnowaczyk
 ---
 

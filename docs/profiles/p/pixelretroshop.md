@@ -1,5 +1,6 @@
 ---
-title: "pixelretroshop | Patromierz"
+title: pixelretroshop.pl | Patromierz
+
 permalink: /pixelretroshop
 ---
 

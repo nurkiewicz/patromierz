@@ -1,5 +1,6 @@
 ---
-title: "merta | Patromierz"
+title: Merta | Patromierz
+
 permalink: /merta
 ---
 

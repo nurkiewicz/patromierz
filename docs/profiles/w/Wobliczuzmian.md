@@ -1,5 +1,6 @@
 ---
-title: "Wobliczuzmian | Patromierz"
+title: Dominik Czernik | Patromierz
+
 permalink: /Wobliczuzmian
 ---
 

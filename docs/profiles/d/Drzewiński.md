@@ -1,5 +1,6 @@
 ---
-title: "Drzewiński | Patromierz"
+title: "DRZEWI\u0143SKI O FOTOGRAFII | Patromierz"
+
 permalink: /Drzewiński
 ---
 

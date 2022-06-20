@@ -1,5 +1,6 @@
 ---
-title: "namaluj-mi | Patromierz"
+title: "Karola Ku\u0142aga | Patromierz"
+
 permalink: /namaluj-mi
 ---
 

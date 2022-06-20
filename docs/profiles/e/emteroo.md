@@ -1,5 +1,6 @@
 ---
-title: "emteroo | Patromierz"
+title: "Micha\u0142 Terpi\u0142owski - Emteroo | Patromierz"
+
 permalink: /emteroo
 ---
 

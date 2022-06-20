@@ -1,5 +1,6 @@
 ---
-title: "choroba_stargardta | Patromierz"
+title: Choroba_Stargardta  | Patromierz
+
 permalink: /choroba_stargardta
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "MDShooting | Patromierz"
+title: M.D. Shooting | Patromierz
+
 permalink: /MDShooting
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "michałzygmunt | Patromierz"
+title: "Micha\u0142 Zygmunt  | Patromierz"
+
 permalink: /michałzygmunt
 ---
 

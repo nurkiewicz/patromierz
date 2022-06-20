@@ -1,5 +1,6 @@
 ---
-title: "Joanna-Obuchowska | Patromierz"
+title: Joanna Obuchowska | Patromierz
+
 permalink: /Joanna-Obuchowska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wPogoniZaSumem | Patromierz"
+title: "Piotr Boufa\u0142 - W pogoni za sumem | Patromierz"
+
 permalink: /wPogoniZaSumem
 ---
 

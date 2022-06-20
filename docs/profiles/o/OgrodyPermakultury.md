@@ -1,5 +1,6 @@
 ---
-title: "OgrodyPermakultury | Patromierz"
+title: Edukacyjne Centrum Ogrody Permakultury | Patromierz
+
 permalink: /OgrodyPermakultury
 ---
 

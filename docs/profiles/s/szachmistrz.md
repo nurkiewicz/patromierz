@@ -1,5 +1,6 @@
 ---
-title: "szachmistrz | Patromierz"
+title: "Maciej Sroczy\u0144ski | Patromierz"
+
 permalink: /szachmistrz
 ---
 

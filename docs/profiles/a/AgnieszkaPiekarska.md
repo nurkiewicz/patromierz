@@ -1,5 +1,6 @@
 ---
-title: "AgnieszkaPiekarska | Patromierz"
+title: Agnieszka Piekarska | Patromierz
+
 permalink: /AgnieszkaPiekarska
 ---
 

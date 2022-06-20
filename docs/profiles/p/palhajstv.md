@@ -1,5 +1,6 @@
 ---
-title: "palhajstv | Patromierz"
+title: Pal Hajs TV | Patromierz
+
 permalink: /palhajstv
 ---
 

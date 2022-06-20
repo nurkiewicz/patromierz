@@ -1,5 +1,6 @@
 ---
-title: "VenomousArt | Patromierz"
+title: Venomous Art | Patromierz
+
 permalink: /VenomousArt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "piwnakompania | Patromierz"
+title: "Piwna Kompania - Podr\xF3\u017Ce przy dobrym piwie | Patromierz"
+
 permalink: /piwnakompania
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "OneMilionPortraits | Patromierz"
+title: "\u0141ukasz  Dro\u017Adzik | Patromierz"
+
 permalink: /OneMilionPortraits
 ---
 

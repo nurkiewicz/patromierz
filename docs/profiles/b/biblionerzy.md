@@ -1,5 +1,6 @@
 ---
-title: "biblionerzy | Patromierz"
+title: Biblionerzy.pl - quiz biblijny | Patromierz
+
 permalink: /biblionerzy
 ---
 

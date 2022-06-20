@@ -1,5 +1,6 @@
 ---
-title: "argonawija | Patromierz"
+title: ARGO NAWIJA - Gry Planszowe | Patromierz
+
 permalink: /argonawija
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "bajkartka | Patromierz"
+title: Bajkartka | Patromierz
+
 permalink: /bajkartka
 ---
 

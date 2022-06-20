@@ -1,5 +1,6 @@
 ---
-title: "antropozofia | Patromierz"
+title: Antropozofia | Patromierz
+
 permalink: /antropozofia
 ---
 

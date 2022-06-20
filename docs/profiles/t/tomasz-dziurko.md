@@ -1,5 +1,6 @@
 ---
-title: "tomasz-dziurko | Patromierz"
+title: Tomasz Dziurko | Patromierz
+
 permalink: /tomasz-dziurko
 ---
 

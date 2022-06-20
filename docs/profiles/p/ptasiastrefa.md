@@ -1,5 +1,6 @@
 ---
-title: "ptasiastrefa | Patromierz"
+title: Ptasia Strefa | Patromierz
+
 permalink: /ptasiastrefa
 ---
 

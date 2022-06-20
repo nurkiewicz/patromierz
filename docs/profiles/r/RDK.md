@@ -1,5 +1,6 @@
 ---
-title: "RDK | Patromierz"
+title: Rodzice Drugiej Kategorii | Patromierz
+
 permalink: /RDK
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "WMSSISETIA | Patromierz"
+title: WMSS ISETIA | Patromierz
+
 permalink: /WMSSISETIA
 ---
 

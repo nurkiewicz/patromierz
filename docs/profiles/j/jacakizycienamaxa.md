@@ -1,5 +1,6 @@
 ---
-title: "jacakizycienamaxa | Patromierz"
+title: "Jacaki - \u017Bycie na Maxa | Patromierz"
+
 permalink: /jacakizycienamaxa
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "paragrafwkieliszku | Patromierz"
+title: paragrafwkieliszku.pl  | Patromierz
+
 permalink: /paragrafwkieliszku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ambasada | Patromierz"
+title: Ambasada Krakowian | Patromierz
+
 permalink: /ambasada
 ---
 

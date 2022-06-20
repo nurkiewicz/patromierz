@@ -1,5 +1,6 @@
 ---
-title: "MartaKrajewskaAutorka | Patromierz"
+title: Marta Krajewska - autorka | Patromierz
+
 permalink: /MartaKrajewskaAutorka
 ---
 

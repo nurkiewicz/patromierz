@@ -1,5 +1,6 @@
 ---
-title: "martindesimmons | Patromierz"
+title: Martin de Simmons | Patromierz
+
 permalink: /martindesimmons
 ---
 

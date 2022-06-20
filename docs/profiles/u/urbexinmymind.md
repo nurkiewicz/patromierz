@@ -1,5 +1,6 @@
 ---
-title: "urbexinmymind | Patromierz"
+title: URBEX IN MY MIND | Patromierz
+
 permalink: /urbexinmymind
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "LEŚNY-REKONESANS | Patromierz"
+title: "LE\u015ANY REKONESANS | Patromierz"
+
 permalink: /LEŚNY-REKONESANS
 ---
 

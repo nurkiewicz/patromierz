@@ -1,5 +1,6 @@
 ---
-title: "kuracyja | Patromierz"
+title: Kuracyja | Patromierz
+
 permalink: /kuracyja
 ---
 

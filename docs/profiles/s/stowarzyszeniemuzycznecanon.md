@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszeniemuzycznecanon | Patromierz"
+title: "Stowarzyszenie Muzyczne Canon w Nowym Wi\u015Bniczu | Patromierz"
+
 permalink: /stowarzyszeniemuzycznecanon
 ---
 

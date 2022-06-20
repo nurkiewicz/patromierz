@@ -1,5 +1,6 @@
 ---
-title: "ProgramPROJEKTOR | Patromierz"
+title: Program PROJEKTOR | Patromierz
+
 permalink: /ProgramPROJEKTOR
 ---
 

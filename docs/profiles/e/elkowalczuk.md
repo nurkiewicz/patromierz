@@ -1,5 +1,6 @@
 ---
-title: "elkowalczuk | Patromierz"
+title: "\u0141ukasz Kowalczuk | Patromierz"
+
 permalink: /elkowalczuk
 ---
 

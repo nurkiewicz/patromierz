@@ -1,5 +1,6 @@
 ---
-title: "pan_jagoda | Patromierz"
+title: Pan Jagoda  | Patromierz
+
 permalink: /pan_jagoda
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Zazula | Patromierz"
+title: Zazula | Patromierz
+
 permalink: /Zazula
 ---
 

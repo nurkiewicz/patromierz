@@ -1,5 +1,6 @@
 ---
-title: "baumgartner.store | Patromierz"
+title: Joanna Baumgartner | Patromierz
+
 permalink: /baumgartner.store
 ---
 

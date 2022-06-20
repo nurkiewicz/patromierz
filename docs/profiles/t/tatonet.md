@@ -1,5 +1,6 @@
 ---
-title: "tatonet | Patromierz"
+title: Tato.Net | Patromierz
+
 permalink: /tatonet
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "mr-fahrenheit | Patromierz"
+title: Mr Fahrenheit CubeSat | Patromierz
+
 permalink: /mr-fahrenheit
 ---
 

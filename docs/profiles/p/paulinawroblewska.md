@@ -1,5 +1,6 @@
 ---
-title: "paulinawroblewska | Patromierz"
+title: "Paulina Wr\xF3blewska | Patromierz"
+
 permalink: /paulinawroblewska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ens | Patromierz"
+title: "Era Nowej Staro\u015Bci | Patromierz"
+
 permalink: /ens
 ---
 

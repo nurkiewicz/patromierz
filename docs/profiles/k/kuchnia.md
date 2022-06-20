@@ -1,5 +1,6 @@
 ---
-title: "kuchnia | Patromierz"
+title: KUCHNIA ON TOUR by Matthew  Clarck | Patromierz
+
 permalink: /kuchnia
 ---
 

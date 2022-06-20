@@ -1,5 +1,6 @@
 ---
-title: "ORB | Patromierz"
+title: ORB | Patromierz
+
 permalink: /ORB
 ---
 

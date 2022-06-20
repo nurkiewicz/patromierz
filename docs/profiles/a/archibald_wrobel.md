@@ -1,5 +1,6 @@
 ---
-title: "archibald_wrobel | Patromierz"
+title: Archibald_Wrobel | Patromierz
+
 permalink: /archibald_wrobel
 ---
 

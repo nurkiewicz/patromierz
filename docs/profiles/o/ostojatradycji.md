@@ -1,5 +1,6 @@
 ---
-title: "ostojatradycji | Patromierz"
+title: Ostoja Tradycji  | Patromierz
+
 permalink: /ostojatradycji
 ---
 

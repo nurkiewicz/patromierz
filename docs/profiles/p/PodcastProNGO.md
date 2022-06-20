@@ -1,5 +1,6 @@
 ---
-title: "PodcastProNGO | Patromierz"
+title: Grzegorz Ludwin | Patromierz
+
 permalink: /PodcastProNGO
 ---
 

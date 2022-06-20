@@ -1,5 +1,6 @@
 ---
-title: "lecimy | Patromierz"
+title: Lecimy.org | Patromierz
+
 permalink: /lecimy
 ---
 

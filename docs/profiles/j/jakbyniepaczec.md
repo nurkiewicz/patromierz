@@ -1,5 +1,6 @@
 ---
-title: "jakbyniepaczec | Patromierz"
+title: "Jakbyniepacze\u0107 | Patromierz"
+
 permalink: /jakbyniepaczec
 ---
 

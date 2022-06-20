@@ -1,5 +1,6 @@
 ---
-title: "OG | Patromierz"
+title: Obserwator Gospodarczy | Patromierz
+
 permalink: /OG
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "LUKASZLAMZA | Patromierz"
+title: "\u0141ukasz Lam\u017Ca | Patromierz"
+
 permalink: /LUKASZLAMZA
 ---
 

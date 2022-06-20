@@ -1,5 +1,6 @@
 ---
-title: "grodziskorzeczyca | Patromierz"
+title: Grodzisko Rzeczyca | Patromierz
+
 permalink: /grodziskorzeczyca
 ---
 

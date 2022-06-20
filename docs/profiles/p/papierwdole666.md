@@ -1,5 +1,6 @@
 ---
-title: "papierwdole666 | Patromierz"
+title: Papierwdole | Patromierz
+
 permalink: /papierwdole666
 ---
 

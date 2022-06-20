@@ -1,5 +1,6 @@
 ---
-title: "kongresswieckosci | Patromierz"
+title: "Kongres \u015Awiecko\u015Bci | Patromierz"
+
 permalink: /kongresswieckosci
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kwestiakultury | Patromierz"
+title: Kwestia Kultury | Patromierz
+
 permalink: /kwestiakultury
 ---
 

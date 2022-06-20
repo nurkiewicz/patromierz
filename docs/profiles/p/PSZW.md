@@ -1,5 +1,6 @@
 ---
-title: "PSZW | Patromierz"
+title: Polskie Stowarzyszenie Zero Waste   | Patromierz
+
 permalink: /PSZW
 ---
 

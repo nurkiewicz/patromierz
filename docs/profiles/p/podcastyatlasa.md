@@ -1,5 +1,6 @@
 ---
-title: "podcastyatlasa | Patromierz"
+title: Podcasty Atlasa | Patromierz
+
 permalink: /podcastyatlasa
 ---
 

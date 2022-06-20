@@ -1,5 +1,6 @@
 ---
-title: "akademia-majki-jezowskiej | Patromierz"
+title: "Akademia Edukacji i Rozwoju Majki Je\u017Cowskiej | Patromierz"
+
 permalink: /akademia-majki-jezowskiej
 ---
 

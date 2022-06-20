@@ -1,5 +1,6 @@
 ---
-title: "grycharytatywne | Patromierz"
+title: '#GryCharytatywne | Patromierz'
+
 permalink: /grycharytatywne
 ---
 

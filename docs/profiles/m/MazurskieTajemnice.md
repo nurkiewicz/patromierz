@@ -1,5 +1,6 @@
 ---
-title: "MazurskieTajemnice | Patromierz"
+title: Mazurskie Tajemnice | Patromierz
+
 permalink: /MazurskieTajemnice
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wdowka | Patromierz"
+title: Piotr Wdowka | Patromierz
+
 permalink: /wdowka
 ---
 

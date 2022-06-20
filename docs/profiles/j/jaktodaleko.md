@@ -1,5 +1,6 @@
 ---
-title: "jaktodaleko | Patromierz"
+title: Jak To daleko | Patromierz
+
 permalink: /jaktodaleko
 ---
 

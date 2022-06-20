@@ -1,5 +1,6 @@
 ---
-title: "Radio-Widzew | Patromierz"
+title: RadioWidzew.pl | Patromierz
+
 permalink: /Radio-Widzew
 ---
 

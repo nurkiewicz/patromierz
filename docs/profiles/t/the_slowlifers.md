@@ -1,5 +1,6 @@
 ---
-title: "the_slowlifers | Patromierz"
+title: the slowlifers | Patromierz
+
 permalink: /the_slowlifers
 ---
 

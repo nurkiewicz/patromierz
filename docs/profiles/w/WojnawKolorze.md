@@ -1,5 +1,6 @@
 ---
-title: "WojnawKolorze | Patromierz"
+title: "II Wojna \u015Awiatowa w Kolorze | Patromierz"
+
 permalink: /WojnawKolorze
 ---
 

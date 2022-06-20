@@ -1,5 +1,6 @@
 ---
-title: "KasiaD | Patromierz"
+title: Kasia D | Patromierz
+
 permalink: /KasiaD
 ---
 

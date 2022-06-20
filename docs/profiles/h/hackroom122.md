@@ -1,5 +1,6 @@
 ---
-title: "hackroom122 | Patromierz"
+title: Hackroom122 | Patromierz
+
 permalink: /hackroom122
 ---
 

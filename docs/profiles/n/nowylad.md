@@ -1,5 +1,6 @@
 ---
-title: "nowylad | Patromierz"
+title: "Portal publicystyczny Nowy \u0141ad  | Patromierz"
+
 permalink: /nowylad
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "OmnisArma | Patromierz"
+title: Omnis Arma | Patromierz
+
 permalink: /OmnisArma
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KamikazeLDZ | Patromierz"
+title: Kamikaze / NRGeek | Patromierz
+
 permalink: /KamikazeLDZ
 ---
 

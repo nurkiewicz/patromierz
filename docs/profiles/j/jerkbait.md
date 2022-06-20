@@ -1,5 +1,6 @@
 ---
-title: "jerkbait | Patromierz"
+title: jerkbait.pl | Patromierz
+
 permalink: /jerkbait
 ---
 

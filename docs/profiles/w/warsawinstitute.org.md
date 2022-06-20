@@ -1,5 +1,6 @@
 ---
-title: "warsawinstitute.org | Patromierz"
+title: Warsaw Institute | Patromierz
+
 permalink: /warsawinstitute.org
 ---
 

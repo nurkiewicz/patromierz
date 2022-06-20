@@ -1,5 +1,6 @@
 ---
-title: "rockyourenglish | Patromierz"
+title: Rock Your English | Patromierz
+
 permalink: /rockyourenglish
 ---
 

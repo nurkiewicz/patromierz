@@ -1,5 +1,6 @@
 ---
-title: "CobiExpert | Patromierz"
+title: COBI Expert | Patromierz
+
 permalink: /CobiExpert
 ---
 

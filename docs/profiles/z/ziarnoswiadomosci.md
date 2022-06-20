@@ -1,5 +1,6 @@
 ---
-title: "ziarnoswiadomosci | Patromierz"
+title: "Ziarno \u015Bwiadomo\u015Bci | Patromierz"
+
 permalink: /ziarnoswiadomosci
 ---
 

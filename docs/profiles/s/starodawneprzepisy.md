@@ -1,5 +1,6 @@
 ---
-title: "starodawneprzepisy | Patromierz"
+title: Starodawne Przepisy | Patromierz
+
 permalink: /starodawneprzepisy
 ---
 

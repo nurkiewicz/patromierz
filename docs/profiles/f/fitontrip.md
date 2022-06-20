@@ -1,5 +1,6 @@
 ---
-title: "fitontrip | Patromierz"
+title: "Jakub Kotu\u0142a | Patromierz"
+
 permalink: /fitontrip
 ---
 

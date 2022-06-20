@@ -1,5 +1,6 @@
 ---
-title: "inneradio | Patromierz"
+title: inne.radio | Patromierz
+
 permalink: /inneradio
 ---
 

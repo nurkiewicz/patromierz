@@ -1,5 +1,6 @@
 ---
-title: "wawrzyncem | Patromierz"
+title: "Wawrzy\u0144cem | Patromierz"
+
 permalink: /wawrzyncem
 ---
 

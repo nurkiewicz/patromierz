@@ -1,5 +1,6 @@
 ---
-title: "wacpankacosp | Patromierz"
+title: "Wa\u0107panna Cosplay | Patromierz"
+
 permalink: /wacpankacosp
 ---
 

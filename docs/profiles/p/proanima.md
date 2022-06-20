@@ -1,5 +1,6 @@
 ---
-title: "proanima | Patromierz"
+title: Proanima.pl | Patromierz
+
 permalink: /proanima
 ---
 

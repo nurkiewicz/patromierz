@@ -1,5 +1,6 @@
 ---
-title: "kreconyambaras | Patromierz"
+title: kreconyambaras | Patromierz
+
 permalink: /kreconyambaras
 ---
 

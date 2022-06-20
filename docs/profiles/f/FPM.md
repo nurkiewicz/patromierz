@@ -1,5 +1,6 @@
 ---
-title: "FPM | Patromierz"
+title: "Fundacja Przysta\u0144 Medyczna | Patromierz"
+
 permalink: /FPM
 ---
 

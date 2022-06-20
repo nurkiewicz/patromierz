@@ -1,5 +1,6 @@
 ---
-title: "ThePresja | Patromierz"
+title: Projekt The Presja | Patromierz
+
 permalink: /ThePresja
 ---
 

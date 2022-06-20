@@ -1,5 +1,6 @@
 ---
-title: "dpapierska | Patromierz"
+title: Papierki || Sketchbook | Patromierz
+
 permalink: /dpapierska
 ---
 

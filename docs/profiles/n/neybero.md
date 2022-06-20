@@ -1,5 +1,6 @@
 ---
-title: "neybero | Patromierz"
+title: Neybero | Patromierz
+
 permalink: /neybero
 ---
 

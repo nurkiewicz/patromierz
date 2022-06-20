@@ -1,5 +1,6 @@
 ---
-title: "PsychoblogJarkaZylinskiego | Patromierz"
+title: "Psychoblog Jarka \u017Byli\u0144skiego | Patromierz"
+
 permalink: /PsychoblogJarkaZylinskiego
 ---
 

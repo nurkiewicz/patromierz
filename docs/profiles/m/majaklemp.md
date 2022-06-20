@@ -1,5 +1,6 @@
 ---
-title: "majaklemp | Patromierz"
+title: Maja Klemp | Patromierz
+
 permalink: /majaklemp
 ---
 

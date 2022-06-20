@@ -1,5 +1,6 @@
 ---
-title: "medianarodowe | Patromierz"
+title: Media Narodowe | Patromierz
+
 permalink: /medianarodowe
 ---
 

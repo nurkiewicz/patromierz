@@ -1,5 +1,6 @@
 ---
-title: "JakubJuszynski | Patromierz"
+title: "Jakub Juszy\u0144ski | Patromierz"
+
 permalink: /JakubJuszynski
 ---
 

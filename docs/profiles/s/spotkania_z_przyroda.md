@@ -1,5 +1,6 @@
 ---
-title: "spotkania_z_przyroda | Patromierz"
+title: "Micha\u0142 Stanecki - podkast Spotkania z Przyrod\u0105  | Patromierz"
+
 permalink: /spotkania_z_przyroda
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "paulinapawlik | Patromierz"
+title: Paulina Pawlik | Patromierz
+
 permalink: /paulinapawlik
 ---
 

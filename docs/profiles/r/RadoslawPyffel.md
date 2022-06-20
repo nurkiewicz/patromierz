@@ -1,5 +1,6 @@
 ---
-title: "RadoslawPyffel | Patromierz"
+title: "Rados\u0142aw Pyffel | Patromierz"
+
 permalink: /RadoslawPyffel
 ---
 

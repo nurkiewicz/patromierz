@@ -1,5 +1,6 @@
 ---
-title: "odzyskani | Patromierz"
+title: Odzyskani | Patromierz
+
 permalink: /odzyskani
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "samochodoza | Patromierz"
+title: samochodoza | Patromierz
+
 permalink: /samochodoza
 ---
 

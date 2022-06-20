@@ -1,5 +1,6 @@
 ---
-title: "okonski-art | Patromierz"
+title: okonski.art | Patromierz
+
 permalink: /okonski-art
 ---
 

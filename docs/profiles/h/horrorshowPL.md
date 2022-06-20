@@ -1,5 +1,6 @@
 ---
-title: "horrorshowPL | Patromierz"
+title: Horrorshow.pl | Patromierz
+
 permalink: /horrorshowPL
 ---
 

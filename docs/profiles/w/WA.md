@@ -1,5 +1,6 @@
 ---
-title: "WA | Patromierz"
+title: "W\u0119dkarski Amok | Patromierz"
+
 permalink: /WA
 ---
 

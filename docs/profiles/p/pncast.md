@@ -1,5 +1,6 @@
 ---
-title: "pncast | Patromierz"
+title: "Pod Nomina\u0142 Cast | Patromierz"
+
 permalink: /pncast
 ---
 

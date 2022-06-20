@@ -1,5 +1,6 @@
 ---
-title: "kobietywchirurgii | Patromierz"
+title: Fundacja Kobiety w chirurgii | Patromierz
+
 permalink: /kobietywchirurgii
 ---
 

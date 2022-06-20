@@ -1,5 +1,6 @@
 ---
-title: "mlodzinaprogu | Patromierz"
+title: "M\u0142odzi na Progu | Patromierz"
+
 permalink: /mlodzinaprogu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "IdziemyDla | Patromierz"
+title: Idziemy Dla | Patromierz
+
 permalink: /IdziemyDla
 ---
 

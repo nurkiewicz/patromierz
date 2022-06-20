@@ -1,5 +1,6 @@
 ---
-title: "ArkadyFiedler | Patromierz"
+title: Arkady P. Fiedler | Patromierz
+
 permalink: /ArkadyFiedler
 ---
 

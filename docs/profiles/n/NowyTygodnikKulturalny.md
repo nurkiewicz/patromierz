@@ -1,5 +1,6 @@
 ---
-title: "NowyTygodnikKulturalny | Patromierz"
+title: Nowy Tygodnik Kulturalny | Patromierz
+
 permalink: /NowyTygodnikKulturalny
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "szydercawloczykij | Patromierz"
+title: "Szyderczy W\u0142\xF3czykij | Patromierz"
+
 permalink: /szydercawloczykij
 ---
 

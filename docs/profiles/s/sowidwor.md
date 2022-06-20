@@ -1,5 +1,6 @@
 ---
-title: "sowidwor | Patromierz"
+title: "Sowi Dw\xF3r | Patromierz"
+
 permalink: /sowidwor
 ---
 

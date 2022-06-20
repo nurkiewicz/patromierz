@@ -1,5 +1,6 @@
 ---
-title: "vicek83 | Patromierz"
+title: Vicek83 | Patromierz
+
 permalink: /vicek83
 ---
 

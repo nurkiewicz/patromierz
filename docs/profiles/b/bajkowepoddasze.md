@@ -1,5 +1,6 @@
 ---
-title: "bajkowepoddasze | Patromierz"
+title: BAJKOWE PODDASZE | Patromierz
+
 permalink: /bajkowepoddasze
 ---
 

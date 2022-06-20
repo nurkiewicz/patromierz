@@ -1,5 +1,6 @@
 ---
-title: "abunia | Patromierz"
+title: Abo Kocia Morda | Patromierz
+
 permalink: /abunia
 ---
 

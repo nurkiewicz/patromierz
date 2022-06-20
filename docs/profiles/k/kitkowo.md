@@ -1,5 +1,6 @@
 ---
-title: "kitkowo | Patromierz"
+title: "Kitkow - Toru\u0144skie Bezdomniaki | Patromierz"
+
 permalink: /kitkowo
 ---
 

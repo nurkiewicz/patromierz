@@ -1,5 +1,6 @@
 ---
-title: "chelmskiecentrumewangelizacji | Patromierz"
+title: "Che\u0142mskie Centrum Ewangelizacji | Patromierz"
+
 permalink: /chelmskiecentrumewangelizacji
 ---
 

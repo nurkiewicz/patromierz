@@ -1,5 +1,6 @@
 ---
-title: "naszczescie | Patromierz"
+title: "Przyci\u0105gam Szcz\u0119\u015Bcie | Patromierz"
+
 permalink: /naszczescie
 ---
 

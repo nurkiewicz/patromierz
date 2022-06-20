@@ -1,5 +1,6 @@
 ---
-title: "RadioPasjaTanca | Patromierz"
+title: "Radio Pasja Ta\u0144ca | Patromierz"
+
 permalink: /RadioPasjaTanca
 ---
 

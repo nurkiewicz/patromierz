@@ -1,5 +1,6 @@
 ---
-title: "Pandolnieci | Patromierz"
+title: "Pandolni\u0119ci czyli Panda Rally Team Polska | Patromierz"
+
 permalink: /Pandolnieci
 ---
 

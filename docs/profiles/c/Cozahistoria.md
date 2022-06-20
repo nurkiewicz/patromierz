@@ -1,5 +1,6 @@
 ---
-title: "Cozahistoria | Patromierz"
+title: Co Za Historia  | Patromierz
+
 permalink: /Cozahistoria
 ---
 

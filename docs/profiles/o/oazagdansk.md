@@ -1,5 +1,6 @@
 ---
-title: "oazagdansk | Patromierz"
+title: "Oaza Gda\u0144sk | Patromierz"
+
 permalink: /oazagdansk
 ---
 

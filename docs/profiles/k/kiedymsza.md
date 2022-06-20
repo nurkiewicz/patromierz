@@ -1,5 +1,6 @@
 ---
-title: "kiedymsza | Patromierz"
+title: KiedyMsza.PL - Piotr Podstawski | Patromierz
+
 permalink: /kiedymsza
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "NursePlug | Patromierz"
+title: Nurse Plug | Patromierz
+
 permalink: /NursePlug
 ---
 

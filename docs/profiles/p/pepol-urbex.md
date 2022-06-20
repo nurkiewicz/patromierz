@@ -1,5 +1,6 @@
 ---
-title: "pepol-urbex | Patromierz"
+title: PEPOL URBEX | Patromierz
+
 permalink: /pepol-urbex
 ---
 

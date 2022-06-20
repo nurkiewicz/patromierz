@@ -1,5 +1,6 @@
 ---
-title: "Simon_Said | Patromierz"
+title: Simon Said | Patromierz
+
 permalink: /Simon_Said
 ---
 

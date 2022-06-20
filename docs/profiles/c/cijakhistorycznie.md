@@ -1,5 +1,6 @@
 ---
-title: "cijakhistorycznie | Patromierz"
+title: Cijak Historycznie | Patromierz
+
 permalink: /cijakhistorycznie
 ---
 

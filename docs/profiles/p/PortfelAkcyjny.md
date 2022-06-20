@@ -1,5 +1,6 @@
 ---
-title: "PortfelAkcyjny | Patromierz"
+title: Portfel Akcyjny | Patromierz
+
 permalink: /PortfelAkcyjny
 ---
 

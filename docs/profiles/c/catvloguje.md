@@ -1,5 +1,6 @@
 ---
-title: "catvloguje | Patromierz"
+title: Cat Vloguje | Patromierz
+
 permalink: /catvloguje
 ---
 

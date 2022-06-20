@@ -1,5 +1,6 @@
 ---
-title: "AgileSilesia | Patromierz"
+title: Agile Silesia | Patromierz
+
 permalink: /AgileSilesia
 ---
 

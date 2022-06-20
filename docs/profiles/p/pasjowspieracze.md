@@ -1,5 +1,6 @@
 ---
-title: "pasjowspieracze | Patromierz"
+title: "Stowarzyszenie Akcja Mi\u015B | Patromierz"
+
 permalink: /pasjowspieracze
 ---
 

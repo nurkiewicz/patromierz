@@ -1,5 +1,6 @@
 ---
-title: "migaia | Patromierz"
+title: MIGAIA | Patromierz
+
 permalink: /migaia
 ---
 

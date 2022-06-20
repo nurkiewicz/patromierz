@@ -1,5 +1,6 @@
 ---
-title: "psiglos | Patromierz"
+title: "Stowarzyszenie Psi G\u0142os | Patromierz"
+
 permalink: /psiglos
 ---
 

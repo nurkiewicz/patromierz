@@ -1,5 +1,6 @@
 ---
-title: "rozbratzostaje | Patromierz"
+title: Rozbrat | Patromierz
+
 permalink: /rozbratzostaje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "proecclesia-media | Patromierz"
+title: proecclesia media | Patromierz
+
 permalink: /proecclesia-media
 ---
 

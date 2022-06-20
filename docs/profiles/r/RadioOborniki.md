@@ -1,5 +1,6 @@
 ---
-title: "RadioOborniki | Patromierz"
+title: Radio Oborniki | Patromierz
+
 permalink: /RadioOborniki
 ---
 

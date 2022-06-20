@@ -1,5 +1,6 @@
 ---
-title: "Cronica | Patromierz"
+title: Cronica  | Patromierz
+
 permalink: /Cronica
 ---
 

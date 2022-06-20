@@ -1,5 +1,6 @@
 ---
-title: "degowskawpodrozy | Patromierz"
+title: "Degowska w Podr\xF3\u017Cy  | Patromierz"
+
 permalink: /degowskawpodrozy
 ---
 

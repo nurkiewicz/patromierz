@@ -1,5 +1,6 @@
 ---
-title: "Leśnelichofotografia | Patromierz"
+title: "le\u015Bne licho fotografia | Patromierz"
+
 permalink: /Leśnelichofotografia
 ---
 

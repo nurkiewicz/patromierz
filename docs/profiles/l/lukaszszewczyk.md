@@ -1,5 +1,6 @@
 ---
-title: "lukaszszewczyk | Patromierz"
+title: "\u0141ukasz Szewczyk | Patromierz"
+
 permalink: /lukaszszewczyk
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "rullaman | Patromierz"
+title: "Rullaman - w\xF3zkiem przez \u015Bwiat | Patromierz"
+
 permalink: /rullaman
 ---
 

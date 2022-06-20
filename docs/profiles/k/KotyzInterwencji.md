@@ -1,5 +1,6 @@
 ---
-title: "KotyzInterwencji | Patromierz"
+title: "Fundacja Koci\u0119ta Koty z Interwencji  | Patromierz"
+
 permalink: /KotyzInterwencji
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "AmstaffyNiczyje | Patromierz"
+title: Amstaffy Niczyje | Patromierz
+
 permalink: /AmstaffyNiczyje
 ---
 

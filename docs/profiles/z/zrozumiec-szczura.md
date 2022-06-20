@@ -1,5 +1,6 @@
 ---
-title: "zrozumiec-szczura | Patromierz"
+title: Aleksandra  | Patromierz
+
 permalink: /zrozumiec-szczura
 ---
 

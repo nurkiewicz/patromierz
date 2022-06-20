@@ -1,5 +1,6 @@
 ---
-title: "schroniskodlaroslin | Patromierz"
+title: "Fundacja Schronisko dla Ro\u015Blin | Patromierz"
+
 permalink: /schroniskodlaroslin
 ---
 

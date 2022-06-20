@@ -1,5 +1,6 @@
 ---
-title: "maciejorlos | Patromierz"
+title: "Maciej Or\u0142o\u015B | Patromierz"
+
 permalink: /maciejorlos
 ---
 

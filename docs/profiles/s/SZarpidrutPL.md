@@ -1,5 +1,6 @@
 ---
-title: "SZarpidrutPL | Patromierz"
+title: SZarpidrut.PL | Patromierz
+
 permalink: /SZarpidrutPL
 ---
 

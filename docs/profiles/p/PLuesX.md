@@ -1,5 +1,6 @@
 ---
-title: "PLuesX | Patromierz"
+title: PLues X deConstruction of Bar's bLues | Patromierz
+
 permalink: /PLuesX
 ---
 

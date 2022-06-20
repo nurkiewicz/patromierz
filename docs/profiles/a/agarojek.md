@@ -1,5 +1,6 @@
 ---
-title: "agarojek | Patromierz"
+title: Aga Rojek | Patromierz
+
 permalink: /agarojek
 ---
 

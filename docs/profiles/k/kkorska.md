@@ -1,5 +1,6 @@
 ---
-title: "kkorska | Patromierz"
+title: Kinga Korska | Patromierz
+
 permalink: /kkorska
 ---
 

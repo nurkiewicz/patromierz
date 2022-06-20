@@ -1,5 +1,6 @@
 ---
-title: "srodekodsrodka | Patromierz"
+title: "\u015Arodek od \u015Brodka | Patromierz"
+
 permalink: /srodekodsrodka
 ---
 

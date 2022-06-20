@@ -1,5 +1,6 @@
 ---
-title: "cyrylica | Patromierz"
+title: "CY\u042FYLICA | Patromierz"
+
 permalink: /cyrylica
 ---
 

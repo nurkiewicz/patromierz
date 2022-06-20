@@ -1,5 +1,6 @@
 ---
-title: "sdamost | Patromierz"
+title: "Salezja\u0144skie Duszpasterstwo Akademickie MOST  | Patromierz"
+
 permalink: /sdamost
 ---
 

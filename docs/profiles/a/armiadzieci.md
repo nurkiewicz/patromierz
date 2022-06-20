@@ -1,5 +1,6 @@
 ---
-title: "armiadzieci | Patromierz"
+title: Armia Dzieci | Patromierz
+
 permalink: /armiadzieci
 ---
 

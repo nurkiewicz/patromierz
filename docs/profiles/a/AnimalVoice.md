@@ -1,5 +1,6 @@
 ---
-title: "AnimalVoice | Patromierz"
+title: Animal Voice Warszawa | Patromierz
+
 permalink: /AnimalVoice
 ---
 

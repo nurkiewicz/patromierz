@@ -1,5 +1,6 @@
 ---
-title: "film_trismegistos | Patromierz"
+title: Film Trismegistos | Patromierz
+
 permalink: /film_trismegistos
 ---
 

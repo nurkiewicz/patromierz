@@ -1,5 +1,6 @@
 ---
-title: "mothor | Patromierz"
+title: MoThor | Patromierz
+
 permalink: /mothor
 ---
 

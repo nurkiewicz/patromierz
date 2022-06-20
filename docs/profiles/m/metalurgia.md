@@ -1,5 +1,6 @@
 ---
-title: "metalurgia | Patromierz"
+title: Metalurgia | Patromierz
+
 permalink: /metalurgia
 ---
 

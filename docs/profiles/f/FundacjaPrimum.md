@@ -1,5 +1,6 @@
 ---
-title: "FundacjaPrimum | Patromierz"
+title: Fundacja  Primum | Patromierz
+
 permalink: /FundacjaPrimum
 ---
 

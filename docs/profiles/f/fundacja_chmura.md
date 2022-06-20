@@ -1,5 +1,6 @@
 ---
-title: "fundacja_chmura | Patromierz"
+title: Fundacja Kultury Wizualnej CHMURA | Patromierz
+
 permalink: /fundacja_chmura
 ---
 

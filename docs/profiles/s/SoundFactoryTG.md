@@ -1,5 +1,6 @@
 ---
-title: "SoundFactoryTG | Patromierz"
+title: Sound Factory | Patromierz
+
 permalink: /SoundFactoryTG
 ---
 

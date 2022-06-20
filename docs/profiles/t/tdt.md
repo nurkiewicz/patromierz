@@ -1,5 +1,6 @@
 ---
-title: "tdt | Patromierz"
+title: Turkusowy Dom Tymczasowy | Patromierz
+
 permalink: /tdt
 ---
 

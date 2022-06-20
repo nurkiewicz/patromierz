@@ -1,5 +1,6 @@
 ---
-title: "bladykris | Patromierz"
+title: Blady Kris | Patromierz
+
 permalink: /bladykris
 ---
 

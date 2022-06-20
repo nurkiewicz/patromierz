@@ -1,5 +1,6 @@
 ---
-title: "LordSzuter | Patromierz"
+title: Lord Szuter & Ubojnia Nudy | Patromierz
+
 permalink: /LordSzuter
 ---
 

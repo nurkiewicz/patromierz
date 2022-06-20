@@ -1,5 +1,6 @@
 ---
-title: "zuzabaum | Patromierz"
+title: ZUZA BAUM | Patromierz
+
 permalink: /zuzabaum
 ---
 

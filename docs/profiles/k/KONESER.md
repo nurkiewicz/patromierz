@@ -1,5 +1,6 @@
 ---
-title: "KONESER | Patromierz"
+title: KONESER  | Patromierz
+
 permalink: /KONESER
 ---
 

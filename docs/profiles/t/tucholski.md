@@ -1,5 +1,6 @@
 ---
-title: "tucholski | Patromierz"
+title: Andrzej Tucholski | Patromierz
+
 permalink: /tucholski
 ---
 

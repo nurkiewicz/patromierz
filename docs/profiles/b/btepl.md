@@ -1,5 +1,6 @@
 ---
-title: "btepl | Patromierz"
+title: BackToEden.pl | Patromierz
+
 permalink: /btepl
 ---
 

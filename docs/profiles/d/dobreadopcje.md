@@ -1,5 +1,6 @@
 ---
-title: "dobreadopcje | Patromierz"
+title: Dobre Adopcje | Patromierz
+
 permalink: /dobreadopcje
 ---
 

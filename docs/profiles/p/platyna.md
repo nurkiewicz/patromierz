@@ -1,5 +1,6 @@
 ---
-title: "platyna | Patromierz"
+title: platyna | Patromierz
+
 permalink: /platyna
 ---
 

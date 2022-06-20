@@ -1,5 +1,6 @@
 ---
-title: "MedycynaUlicy | Patromierz"
+title: Medycy na Ulicy | Patromierz
+
 permalink: /MedycynaUlicy
 ---
 

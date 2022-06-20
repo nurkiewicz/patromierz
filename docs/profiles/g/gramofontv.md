@@ -1,5 +1,6 @@
 ---
-title: "gramofontv | Patromierz"
+title: Maxior | Patromierz
+
 permalink: /gramofontv
 ---
 

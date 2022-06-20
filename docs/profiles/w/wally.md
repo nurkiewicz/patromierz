@@ -1,5 +1,6 @@
 ---
-title: "wally | Patromierz"
+title: Wally_Ratmed | Patromierz
+
 permalink: /wally
 ---
 

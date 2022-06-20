@@ -1,5 +1,6 @@
 ---
-title: "sciezkadriady | Patromierz"
+title: "Beata Jeleniewicz - \u015Acie\u017Cka Driady | Patromierz"
+
 permalink: /sciezkadriady
 ---
 

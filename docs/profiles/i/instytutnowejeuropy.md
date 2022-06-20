@@ -1,5 +1,6 @@
 ---
-title: "instytutnowejeuropy | Patromierz"
+title: Instytut Nowej Europy | Patromierz
+
 permalink: /instytutnowejeuropy
 ---
 

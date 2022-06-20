@@ -1,5 +1,6 @@
 ---
-title: "Teatr.YETA | Patromierz"
+title: Teatr YETA | Patromierz
+
 permalink: /Teatr.YETA
 ---
 

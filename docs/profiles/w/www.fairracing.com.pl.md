@@ -1,5 +1,6 @@
 ---
-title: "www.fairracing.com.pl | Patromierz"
+title: Fair Racing | Patromierz
+
 permalink: /www.fairracing.com.pl
 ---
 

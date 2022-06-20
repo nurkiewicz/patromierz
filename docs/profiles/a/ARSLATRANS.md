@@ -1,5 +1,6 @@
 ---
-title: "ARSLATRANS | Patromierz"
+title: ARS LATRANS | Patromierz
+
 permalink: /ARSLATRANS
 ---
 

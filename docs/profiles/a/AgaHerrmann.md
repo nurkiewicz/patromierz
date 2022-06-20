@@ -1,5 +1,6 @@
 ---
-title: "AgaHerrmann | Patromierz"
+title: Agnieszka Herrmann  | Patromierz
+
 permalink: /AgaHerrmann
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "planetaabstrakcja | Patromierz"
+title: Planeta Abstrakcja | Patromierz
+
 permalink: /planetaabstrakcja
 ---
 

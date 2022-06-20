@@ -1,5 +1,6 @@
 ---
-title: "kanaltermosa | Patromierz"
+title: "Kana\u0142 Termosa | Patromierz"
+
 permalink: /kanaltermosa
 ---
 

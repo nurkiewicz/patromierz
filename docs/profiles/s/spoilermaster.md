@@ -1,5 +1,6 @@
 ---
-title: "spoilermaster | Patromierz"
+title: SpoilerMaster | Patromierz
+
 permalink: /spoilermaster
 ---
 

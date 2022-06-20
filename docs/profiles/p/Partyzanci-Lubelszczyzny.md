@@ -1,5 +1,6 @@
 ---
-title: "Partyzanci-Lubelszczyzny | Patromierz"
+title: Partyzanci Lubelszczyzny  | Patromierz
+
 permalink: /Partyzanci-Lubelszczyzny
 ---
 

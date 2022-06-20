@@ -1,5 +1,6 @@
 ---
-title: "otwarte-kaszuby | Patromierz"
+title: Stowarzyszenie Otwarte Kaszuby | Patromierz
+
 permalink: /otwarte-kaszuby
 ---
 

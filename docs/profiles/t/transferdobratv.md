@@ -1,5 +1,6 @@
 ---
-title: "transferdobratv | Patromierz"
+title: Transfer Dobra TV - Wojtek Juszkiewicz | Patromierz
+
 permalink: /transferdobratv
 ---
 

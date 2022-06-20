@@ -1,5 +1,6 @@
 ---
-title: "stalowy-szok | Patromierz"
+title: Stalowy Szok | Patromierz
+
 permalink: /stalowy-szok
 ---
 

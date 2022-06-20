@@ -1,5 +1,7 @@
 ---
-title: "MDP | Patromierz"
+title: "M\u0142odzie\u017Cowa Dru\u017Cyna Po\u017Carnicza OSP Nowy Dw\xF3r Mazowiecki\
+  \ | Patromierz"
+
 permalink: /MDP
 ---
 

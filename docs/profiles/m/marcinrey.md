@@ -1,5 +1,6 @@
 ---
-title: "marcinrey | Patromierz"
+title: Marcin Rey | Patromierz
+
 permalink: /marcinrey
 ---
 

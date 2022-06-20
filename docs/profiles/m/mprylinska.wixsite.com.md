@@ -1,5 +1,6 @@
 ---
-title: "mprylinska.wixsite.com | Patromierz"
+title: Monika Prylinska | Patromierz
+
 permalink: /mprylinska.wixsite.com
 ---
 

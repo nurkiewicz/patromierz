@@ -1,5 +1,6 @@
 ---
-title: "rankoukulele | Patromierz"
+title: Ranko Ukulele | Patromierz
+
 permalink: /rankoukulele
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "12kamieni | Patromierz"
+title: 12 kamieni | Patromierz
+
 permalink: /12kamieni
 ---
 

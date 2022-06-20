@@ -1,5 +1,6 @@
 ---
-title: "wArchitekturze | Patromierz"
+title: W Architekturze | Patromierz
+
 permalink: /wArchitekturze
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "demagog | Patromierz"
+title: Demagog  | Patromierz
+
 permalink: /demagog
 ---
 

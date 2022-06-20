@@ -1,5 +1,6 @@
 ---
-title: "eSoul | Patromierz"
+title: eS | Patromierz
+
 permalink: /eSoul
 ---
 

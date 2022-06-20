@@ -1,5 +1,6 @@
 ---
-title: "spirytyzm | Patromierz"
+title: Bez tajemnic | Patromierz
+
 permalink: /spirytyzm
 ---
 

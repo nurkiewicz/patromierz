@@ -1,5 +1,6 @@
 ---
-title: "lambda | Patromierz"
+title: Stowarzyszenie Lambda Szczecin | Patromierz
+
 permalink: /lambda
 ---
 

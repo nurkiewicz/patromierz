@@ -1,5 +1,6 @@
 ---
-title: "helloyogi | Patromierz"
+title: Hello Yogi | Patromierz
+
 permalink: /helloyogi
 ---
 

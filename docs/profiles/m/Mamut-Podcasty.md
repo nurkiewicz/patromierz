@@ -1,5 +1,6 @@
 ---
-title: "Mamut-Podcasty | Patromierz"
+title: Mamut | Patromierz
+
 permalink: /Mamut-Podcasty
 ---
 

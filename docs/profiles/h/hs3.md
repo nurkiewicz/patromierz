@@ -1,5 +1,6 @@
 ---
-title: "hs3 | Patromierz"
+title: "Hackerspace Tr\xF3jmiasto | Patromierz"
+
 permalink: /hs3
 ---
 

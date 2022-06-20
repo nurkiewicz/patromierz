@@ -1,5 +1,6 @@
 ---
-title: "agnieszkaniesler | Patromierz"
+title: Agnieszka Niesler | Patromierz
+
 permalink: /agnieszkaniesler
 ---
 

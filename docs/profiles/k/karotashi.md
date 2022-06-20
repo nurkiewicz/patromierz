@@ -1,5 +1,6 @@
 ---
-title: "karotashi | Patromierz"
+title: Karo Tashi | Patromierz
+
 permalink: /karotashi
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tm_kilos53 | Patromierz"
+title: "Teatr M\u0142ody im. Kilosa53 | Patromierz"
+
 permalink: /tm_kilos53
 ---
 

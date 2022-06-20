@@ -1,5 +1,6 @@
 ---
-title: "FundacjaNautilus | Patromierz"
+title: Fundacja Nautilus | Patromierz
+
 permalink: /FundacjaNautilus
 ---
 

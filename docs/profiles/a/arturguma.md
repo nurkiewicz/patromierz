@@ -1,5 +1,6 @@
 ---
-title: "arturguma | Patromierz"
+title: Artur Pierzchniak-Guma | Patromierz
+
 permalink: /arturguma
 ---
 

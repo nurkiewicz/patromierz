@@ -1,5 +1,6 @@
 ---
-title: "selfmadebeats | Patromierz"
+title: Self Made Beats | Patromierz
+
 permalink: /selfmadebeats
 ---
 

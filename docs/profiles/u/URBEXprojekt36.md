@@ -1,5 +1,6 @@
 ---
-title: "URBEXprojekt36 | Patromierz"
+title: URBEXprojekt  | Patromierz
+
 permalink: /URBEXprojekt36
 ---
 

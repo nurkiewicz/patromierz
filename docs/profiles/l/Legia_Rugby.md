@@ -1,5 +1,6 @@
 ---
-title: "Legia_Rugby | Patromierz"
+title: Legia Rugby | Patromierz
+
 permalink: /Legia_Rugby
 ---
 

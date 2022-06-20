@@ -1,5 +1,6 @@
 ---
-title: "DoulaZuzanna-KragWsparcia | Patromierz"
+title: "Zuzanna Ko\u0142acz-Kordzi\u0144ska | Patromierz"
+
 permalink: /DoulaZuzanna-KragWsparcia
 ---
 

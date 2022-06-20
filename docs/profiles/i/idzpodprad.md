@@ -1,5 +1,6 @@
 ---
-title: "idzpodprad | Patromierz"
+title: "Telewizja Id\u017A Pod Pr\u0105d | Patromierz"
+
 permalink: /idzpodprad
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "andreas | Patromierz"
+title: Andrzej Bazgier | Patromierz
+
 permalink: /andreas
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zpopk | Patromierz"
+title: Zwierz popkulturalny | Patromierz
+
 permalink: /zpopk
 ---
 

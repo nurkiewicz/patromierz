@@ -1,5 +1,6 @@
 ---
-title: "Anatomia_Mechaniki | Patromierz"
+title: ANATOMIA MECHANIKI | Patromierz
+
 permalink: /Anatomia_Mechaniki
 ---
 

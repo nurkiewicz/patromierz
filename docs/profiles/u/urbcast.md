@@ -1,5 +1,6 @@
 ---
-title: "urbcast | Patromierz"
+title: Urbcast - podcast o miastach | Patromierz
+
 permalink: /urbcast
 ---
 

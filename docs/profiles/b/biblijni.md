@@ -1,5 +1,6 @@
 ---
-title: "biblijni | Patromierz"
+title: Biblijni.pl | Patromierz
+
 permalink: /biblijni
 ---
 

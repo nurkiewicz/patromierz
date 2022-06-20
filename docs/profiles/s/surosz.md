@@ -1,5 +1,6 @@
 ---
-title: "surosz | Patromierz"
+title: Mariusz Surosz | Patromierz
+
 permalink: /surosz
 ---
 

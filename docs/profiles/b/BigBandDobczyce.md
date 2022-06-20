@@ -1,5 +1,6 @@
 ---
-title: "BigBandDobczyce | Patromierz"
+title: Big Band Dobczyce | Patromierz
+
 permalink: /BigBandDobczyce
 ---
 

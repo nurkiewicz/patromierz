@@ -1,5 +1,6 @@
 ---
-title: "pagor_triathlete | Patromierz"
+title: "Jakub Pag\xF3rski - Pag\xF3r Triathlete | Patromierz"
+
 permalink: /pagor_triathlete
 ---
 

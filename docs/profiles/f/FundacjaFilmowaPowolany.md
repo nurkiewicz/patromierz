@@ -1,5 +1,6 @@
 ---
-title: "FundacjaFilmowaPowolany | Patromierz"
+title: "Fundacja Filmowa Powo\u0142any | Patromierz"
+
 permalink: /FundacjaFilmowaPowolany
 ---
 

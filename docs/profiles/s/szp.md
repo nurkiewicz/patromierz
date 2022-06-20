@@ -1,5 +1,6 @@
 ---
-title: "szp | Patromierz"
+title: "Stowarzyszenie \u017Bywych Poet\xF3w | Patromierz"
+
 permalink: /szp
 ---
 

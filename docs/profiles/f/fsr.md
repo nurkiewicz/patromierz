@@ -1,5 +1,6 @@
 ---
-title: "fsr | Patromierz"
+title: "Fundacja \u015Awiadome Rodzicielstwo | Patromierz"
+
 permalink: /fsr
 ---
 

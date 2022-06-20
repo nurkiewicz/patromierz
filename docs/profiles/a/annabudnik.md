@@ -1,5 +1,6 @@
 ---
-title: "annabudnik | Patromierz"
+title: "czu\u0142ostan - Psychodietetyka Anna Budnik | Patromierz"
+
 permalink: /annabudnik
 ---
 

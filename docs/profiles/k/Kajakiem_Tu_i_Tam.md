@@ -1,5 +1,6 @@
 ---
-title: "Kajakiem_Tu_i_Tam | Patromierz"
+title: Kajakiem Tu i Tam | Patromierz
+
 permalink: /Kajakiem_Tu_i_Tam
 ---
 

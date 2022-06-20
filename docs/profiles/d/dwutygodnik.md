@@ -1,5 +1,6 @@
 ---
-title: "dwutygodnik | Patromierz"
+title: Dwutygodnik.com | Patromierz
+
 permalink: /dwutygodnik
 ---
 

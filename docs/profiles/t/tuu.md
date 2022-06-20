@@ -1,5 +1,6 @@
 ---
-title: "tuu | Patromierz"
+title: Fundacja TUU | Patromierz
+
 permalink: /tuu
 ---
 

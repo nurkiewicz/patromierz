@@ -1,5 +1,6 @@
 ---
-title: "simekrysuje | Patromierz"
+title: Simek Art | Patromierz
+
 permalink: /simekrysuje
 ---
 

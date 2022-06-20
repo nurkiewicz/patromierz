@@ -1,5 +1,6 @@
 ---
-title: "bratosiewicz | Patromierz"
+title: bratosiewicz | Patromierz
+
 permalink: /bratosiewicz
 ---
 

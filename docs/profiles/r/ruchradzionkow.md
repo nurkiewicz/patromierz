@@ -1,5 +1,6 @@
 ---
-title: "ruchradzionkow | Patromierz"
+title: "Ruch Radzionk\xF3w | Patromierz"
+
 permalink: /ruchradzionkow
 ---
 

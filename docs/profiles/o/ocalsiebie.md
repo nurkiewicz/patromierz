@@ -1,5 +1,6 @@
 ---
-title: "ocalsiebie | Patromierz"
+title: OcalSiebie | Patromierz
+
 permalink: /ocalsiebie
 ---
 

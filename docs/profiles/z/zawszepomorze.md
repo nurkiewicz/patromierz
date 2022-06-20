@@ -1,5 +1,6 @@
 ---
-title: "zawszepomorze | Patromierz"
+title: Zawsze Pomorze | Patromierz
+
 permalink: /zawszepomorze
 ---
 

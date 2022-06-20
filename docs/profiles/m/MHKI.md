@@ -1,5 +1,6 @@
 ---
-title: "MHKI | Patromierz"
+title: "Muzeum Historii Komputer\xF3w i Informatyki | Patromierz"
+
 permalink: /MHKI
 ---
 

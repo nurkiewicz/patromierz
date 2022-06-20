@@ -1,5 +1,6 @@
 ---
-title: "zalewianka | Patromierz"
+title: Zalewianka | Patromierz
+
 permalink: /zalewianka
 ---
 

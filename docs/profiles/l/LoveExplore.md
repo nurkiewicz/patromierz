@@ -1,5 +1,6 @@
 ---
-title: "LoveExplore | Patromierz"
+title: Love Explore | Patromierz
+
 permalink: /LoveExplore
 ---
 

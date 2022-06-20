@@ -1,5 +1,6 @@
 ---
-title: "perfumowo | Patromierz"
+title: perfumowo by Adam Engler  | Patromierz
+
 permalink: /perfumowo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kolejbeskidzka | Patromierz"
+title: Stowarzyszenie "Kolej Beskidzka" | Patromierz
+
 permalink: /kolejbeskidzka
 ---
 

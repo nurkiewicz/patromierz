@@ -1,5 +1,6 @@
 ---
-title: "wlodzimierzpawelec | Patromierz"
+title: "W\u0142odzimierz Pawelec | Patromierz"
+
 permalink: /wlodzimierzpawelec
 ---
 

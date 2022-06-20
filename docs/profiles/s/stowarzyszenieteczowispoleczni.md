@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszenieteczowispoleczni | Patromierz"
+title: "Stowarzyszenie T\u0119czowi Spo\u0142ecznicy | Patromierz"
+
 permalink: /stowarzyszenieteczowispoleczni
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "marianaitaliana | Patromierz"
+title: Marianaitaliana | Patromierz
+
 permalink: /marianaitaliana
 ---
 

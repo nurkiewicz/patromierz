@@ -1,5 +1,6 @@
 ---
-title: "KitkuPlaczku | Patromierz"
+title: "Kitku P\u0142aczku | Patromierz"
+
 permalink: /KitkuPlaczku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "youngtimerwarsaw | Patromierz"
+title: Youngtimer Warsaw | Patromierz
+
 permalink: /youngtimerwarsaw
 ---
 

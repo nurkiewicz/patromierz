@@ -1,5 +1,6 @@
 ---
-title: "CzerwFantastyczny | Patromierz"
+title: Czerw Fantastyczny | Patromierz
+
 permalink: /CzerwFantastyczny
 ---
 

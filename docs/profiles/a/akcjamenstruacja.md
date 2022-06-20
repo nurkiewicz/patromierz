@@ -1,5 +1,6 @@
 ---
-title: "akcjamenstruacja | Patromierz"
+title: Akcja  Menstruacja | Patromierz
+
 permalink: /akcjamenstruacja
 ---
 

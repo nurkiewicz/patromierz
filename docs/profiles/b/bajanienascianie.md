@@ -1,5 +1,6 @@
 ---
-title: "bajanienascianie | Patromierz"
+title: "Bajanie na \u015Bcianie | Patromierz"
+
 permalink: /bajanienascianie
 ---
 

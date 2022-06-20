@@ -1,5 +1,6 @@
 ---
-title: "Barysta | Patromierz"
+title: Barysta | Patromierz
+
 permalink: /Barysta
 ---
 

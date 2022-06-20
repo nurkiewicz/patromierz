@@ -1,5 +1,6 @@
 ---
-title: "agnesj | Patromierz"
+title: Agnieszka Juszczyk | Patromierz
+
 permalink: /agnesj
 ---
 

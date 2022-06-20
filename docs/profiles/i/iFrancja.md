@@ -1,5 +1,6 @@
 ---
-title: "iFrancja | Patromierz"
+title: iFrancja | Patromierz
+
 permalink: /iFrancja
 ---
 

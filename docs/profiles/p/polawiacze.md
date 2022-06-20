@@ -1,5 +1,6 @@
 ---
-title: "polawiacze | Patromierz"
+title: "Po\u0142awiacze Pere\u0142 Improv Teatr | Patromierz"
+
 permalink: /polawiacze
 ---
 

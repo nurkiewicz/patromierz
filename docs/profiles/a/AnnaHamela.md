@@ -1,5 +1,6 @@
 ---
-title: "AnnaHamela | Patromierz"
+title: Anna Hamela | Patromierz
+
 permalink: /AnnaHamela
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "NauczycielzpasjąDorotaPal | Patromierz"
+title: Dorota Pal | Patromierz
+
 permalink: /NauczycielzpasjąDorotaPal
 ---
 

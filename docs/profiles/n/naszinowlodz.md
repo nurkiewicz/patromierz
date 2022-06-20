@@ -1,5 +1,6 @@
 ---
-title: "naszinowlodz | Patromierz"
+title: NaszInowlodz.PL | Patromierz
+
 permalink: /naszinowlodz
 ---
 

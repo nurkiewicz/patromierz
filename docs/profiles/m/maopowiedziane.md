@@ -1,5 +1,6 @@
 ---
-title: "maopowiedziane | Patromierz"
+title: Mao Powiedziane | Patromierz
+
 permalink: /maopowiedziane
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "MaratonamiDoRzymu | Patromierz"
+title: Tomasz Sobania | Patromierz
+
 permalink: /MaratonamiDoRzymu
 ---
 

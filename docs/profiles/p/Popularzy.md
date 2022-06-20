@@ -1,5 +1,6 @@
 ---
-title: "Popularzy | Patromierz"
+title: "Stronnictwo Popular\xF3w | Patromierz"
+
 permalink: /Popularzy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "lightkeeper | Patromierz"
+title: Light Keeper | Patromierz
+
 permalink: /lightkeeper
 ---
 

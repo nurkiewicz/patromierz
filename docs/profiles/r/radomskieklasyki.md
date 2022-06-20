@@ -1,5 +1,6 @@
 ---
-title: "radomskieklasyki | Patromierz"
+title: Radomskie Klasyki | Patromierz
+
 permalink: /radomskieklasyki
 ---
 

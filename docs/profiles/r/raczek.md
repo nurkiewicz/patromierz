@@ -1,5 +1,6 @@
 ---
-title: "raczek | Patromierz"
+title: Tomasz Raczek | Patromierz
+
 permalink: /raczek
 ---
 

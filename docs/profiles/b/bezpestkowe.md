@@ -1,5 +1,6 @@
 ---
-title: "bezpestkowe | Patromierz"
+title: Bezpestkowe | Patromierz
+
 permalink: /bezpestkowe
 ---
 

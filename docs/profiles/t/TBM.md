@@ -1,5 +1,6 @@
 ---
-title: "TBM | Patromierz"
+title: Tak Brzmi Miasto | Patromierz
+
 permalink: /TBM
 ---
 

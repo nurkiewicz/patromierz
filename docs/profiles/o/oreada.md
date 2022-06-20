@@ -1,5 +1,6 @@
 ---
-title: "oreada | Patromierz"
+title: OREADA | Patromierz
+
 permalink: /oreada
 ---
 

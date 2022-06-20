@@ -1,5 +1,6 @@
 ---
-title: "TechPomaga | Patromierz"
+title: Fundacja TechPomaga | Patromierz
+
 permalink: /TechPomaga
 ---
 

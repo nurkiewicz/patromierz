@@ -1,5 +1,6 @@
 ---
-title: "tubacordis | Patromierz"
+title: Tuba Cordis | Patromierz
+
 permalink: /tubacordis
 ---
 

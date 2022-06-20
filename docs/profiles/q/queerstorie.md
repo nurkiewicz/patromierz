@@ -1,5 +1,6 @@
 ---
-title: "queerstorie | Patromierz"
+title: Queerstorie_podcast | Patromierz
+
 permalink: /queerstorie
 ---
 

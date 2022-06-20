@@ -1,5 +1,6 @@
 ---
-title: "DTPiTypografia | Patromierz"
+title: DTP i Typografia | Patromierz
+
 permalink: /DTPiTypografia
 ---
 

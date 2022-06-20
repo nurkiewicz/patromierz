@@ -1,5 +1,6 @@
 ---
-title: "napiasku | Patromierz"
+title: Na Piasku | Patromierz
+
 permalink: /napiasku
 ---
 

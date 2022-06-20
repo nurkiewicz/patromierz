@@ -1,5 +1,6 @@
 ---
-title: "kryminalnehistorie | Patromierz"
+title: Kryminalne Historie | Patromierz
+
 permalink: /kryminalnehistorie
 ---
 

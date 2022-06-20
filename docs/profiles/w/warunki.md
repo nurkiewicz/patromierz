@@ -1,5 +1,6 @@
 ---
-title: "warunki | Patromierz"
+title: "Aktualne Warunki w G\xF3rach | Patromierz"
+
 permalink: /warunki
 ---
 

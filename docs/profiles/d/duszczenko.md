@@ -1,5 +1,6 @@
 ---
-title: "duszczenko | Patromierz"
+title: Damian Duszczenko | Patromierz
+
 permalink: /duszczenko
 ---
 

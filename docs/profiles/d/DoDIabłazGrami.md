@@ -1,5 +1,6 @@
 ---
-title: "DoDIabłazGrami | Patromierz"
+title: "Do Diab\u0142a z Grami  | Patromierz"
+
 permalink: /DoDIabłazGrami
 ---
 

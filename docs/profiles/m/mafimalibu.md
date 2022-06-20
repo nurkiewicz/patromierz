@@ -1,5 +1,6 @@
 ---
-title: "mafimalibu | Patromierz"
+title: Mafi Malibu | Patromierz
+
 permalink: /mafimalibu
 ---
 

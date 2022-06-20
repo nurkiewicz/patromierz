@@ -1,5 +1,6 @@
 ---
-title: "SNACK_KASIIULI | Patromierz"
+title: SNACK Kasi i Uli | Patromierz
+
 permalink: /SNACK_KASIIULI
 ---
 

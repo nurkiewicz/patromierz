@@ -1,5 +1,6 @@
 ---
-title: "klimaktywizm-warszawa | Patromierz"
+title: Centrum Aktywizmu Klimatycznego "Gniazdo" w Warszawie | Patromierz
+
 permalink: /klimaktywizm-warszawa
 ---
 

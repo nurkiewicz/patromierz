@@ -1,5 +1,6 @@
 ---
-title: "NiechToSzlak | Patromierz"
+title: Niech to Szlak | Patromierz
+
 permalink: /NiechToSzlak
 ---
 

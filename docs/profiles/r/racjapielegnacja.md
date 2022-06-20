@@ -1,5 +1,6 @@
 ---
-title: "racjapielegnacja | Patromierz"
+title: "Racjapiel\u0119gnacja | Patromierz"
+
 permalink: /racjapielegnacja
 ---
 

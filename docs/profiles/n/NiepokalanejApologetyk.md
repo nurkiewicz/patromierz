@@ -1,5 +1,6 @@
 ---
-title: "NiepokalanejApologetyk | Patromierz"
+title: Niepokalanej Apologetyk | Patromierz
+
 permalink: /NiepokalanejApologetyk
 ---
 

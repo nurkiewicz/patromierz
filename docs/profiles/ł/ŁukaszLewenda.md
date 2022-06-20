@@ -1,5 +1,6 @@
 ---
-title: "ŁukaszLewenda | Patromierz"
+title: "\u0141ukasz Lewenda | Patromierz"
+
 permalink: /ŁukaszLewenda
 ---
 

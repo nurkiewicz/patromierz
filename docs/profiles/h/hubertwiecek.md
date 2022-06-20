@@ -1,5 +1,6 @@
 ---
-title: "hubertwiecek | Patromierz"
+title: "Hubert Wi\u0119cek | Patromierz"
+
 permalink: /hubertwiecek
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "fotografowani | Patromierz"
+title: Fotografowani | Patromierz
+
 permalink: /fotografowani
 ---
 

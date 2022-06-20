@@ -1,5 +1,6 @@
 ---
-title: "wschodniezbrodnie | Patromierz"
+title: Wschodnie Zbrodnie | Patromierz
+
 permalink: /wschodniezbrodnie
 ---
 

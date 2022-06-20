@@ -1,5 +1,6 @@
 ---
-title: "wspolnymianownik | Patromierz"
+title: Natalia Chamot  | Patromierz
+
 permalink: /wspolnymianownik
 ---
 

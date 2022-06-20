@@ -1,5 +1,6 @@
 ---
-title: "Po-Dzielnia | Patromierz"
+title: Po-Dzielnia  | Patromierz
+
 permalink: /Po-Dzielnia
 ---
 

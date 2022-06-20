@@ -1,5 +1,6 @@
 ---
-title: "monika-gorska | Patromierz"
+title: "Monika G\xF3rska | Patromierz"
+
 permalink: /monika-gorska
 ---
 

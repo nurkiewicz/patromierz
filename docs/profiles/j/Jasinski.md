@@ -1,5 +1,6 @@
 ---
-title: "Jasinski | Patromierz"
+title: "Marcin Jasi\u0144ski Fotografia | Patromierz"
+
 permalink: /Jasinski
 ---
 

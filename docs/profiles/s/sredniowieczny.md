@@ -1,5 +1,6 @@
 ---
-title: "sredniowieczny | Patromierz"
+title: sredniowieczny.pl | Patromierz
+
 permalink: /sredniowieczny
 ---
 

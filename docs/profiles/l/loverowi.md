@@ -1,5 +1,6 @@
 ---
-title: "loverowi | Patromierz"
+title: Loverowi | Patromierz
+
 permalink: /loverowi
 ---
 

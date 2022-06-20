@@ -1,5 +1,6 @@
 ---
-title: "jaknajwiecejpl | Patromierz"
+title: jaknajwiecej.pl | Patromierz
+
 permalink: /jaknajwiecejpl
 ---
 

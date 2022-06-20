@@ -1,5 +1,6 @@
 ---
-title: "michaltopor | Patromierz"
+title: "Micha\u0142 Top\xF3r | Patromierz"
+
 permalink: /michaltopor
 ---
 

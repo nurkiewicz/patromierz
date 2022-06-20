@@ -1,5 +1,6 @@
 ---
-title: "tony | Patromierz"
+title: "Szko\u0142a muzyczna TONY | Patromierz"
+
 permalink: /tony
 ---
 

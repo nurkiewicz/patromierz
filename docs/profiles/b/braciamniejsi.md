@@ -1,5 +1,6 @@
 ---
-title: "braciamniejsi | Patromierz"
+title: ' Dla Braci Mniejszych | Patromierz'
+
 permalink: /braciamniejsi
 ---
 

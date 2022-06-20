@@ -1,5 +1,6 @@
 ---
-title: "iglo | Patromierz"
+title: Internetowa Liga Go | Patromierz
+
 permalink: /iglo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "techspresso | Patromierz"
+title: TECHSPRESSO.CAFE | Patromierz
+
 permalink: /techspresso
 ---
 

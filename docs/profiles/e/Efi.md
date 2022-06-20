@@ -1,5 +1,6 @@
 ---
-title: "Efi | Patromierz"
+title: Efi | Patromierz
+
 permalink: /Efi
 ---
 

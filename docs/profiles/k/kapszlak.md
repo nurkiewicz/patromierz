@@ -1,5 +1,6 @@
 ---
-title: "kapszlak | Patromierz"
+title: kapszlak.pl | Patromierz
+
 permalink: /kapszlak
 ---
 

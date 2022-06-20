@@ -1,5 +1,6 @@
 ---
-title: "cuzamendokupy | Patromierz"
+title: Agnieszka Marcinkowska | Patromierz
+
 permalink: /cuzamendokupy
 ---
 

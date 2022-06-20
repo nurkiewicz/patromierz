@@ -1,5 +1,6 @@
 ---
-title: "balet-krynica | Patromierz"
+title: "Krynickie Studio Baletowe im. W\u0142adys\u0142awa Szl\u0119ka | Patromierz"
+
 permalink: /balet-krynica
 ---
 

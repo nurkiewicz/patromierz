@@ -1,5 +1,6 @@
 ---
-title: "schodowski | Patromierz"
+title: Krzysztof Schodowski | Patromierz
+
 permalink: /schodowski
 ---
 

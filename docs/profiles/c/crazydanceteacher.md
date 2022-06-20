@@ -1,5 +1,6 @@
 ---
-title: "crazydanceteacher | Patromierz"
+title: Crazy Dance Teacher | Patromierz
+
 permalink: /crazydanceteacher
 ---
 

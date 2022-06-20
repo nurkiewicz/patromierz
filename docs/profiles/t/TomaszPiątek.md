@@ -1,5 +1,6 @@
 ---
-title: "TomaszPiątek | Patromierz"
+title: "Tomasz Pi\u0105tek | Patromierz"
+
 permalink: /TomaszPiątek
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "muzeumelektroniki | Patromierz"
+title: Muzeum Elektroniki | Patromierz
+
 permalink: /muzeumelektroniki
 ---
 

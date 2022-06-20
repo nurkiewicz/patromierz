@@ -1,5 +1,6 @@
 ---
-title: "mamapediatra | Patromierz"
+title: MamaPediatra | Patromierz
+
 permalink: /mamapediatra
 ---
 

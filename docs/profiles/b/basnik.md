@@ -1,5 +1,6 @@
 ---
-title: "basnik | Patromierz"
+title: "BA\u015ANIK | Patromierz"
+
 permalink: /basnik
 ---
 

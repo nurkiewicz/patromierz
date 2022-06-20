@@ -1,5 +1,6 @@
 ---
-title: "agrounia | Patromierz"
+title: AGROunia | Patromierz
+
 permalink: /agrounia
 ---
 

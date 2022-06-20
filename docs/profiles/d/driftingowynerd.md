@@ -1,5 +1,6 @@
 ---
-title: "driftingowynerd | Patromierz"
+title: Driftingowy Nerd | Patromierz
+
 permalink: /driftingowynerd
 ---
 

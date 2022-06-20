@@ -1,5 +1,6 @@
 ---
-title: "gawlik_band | Patromierz"
+title: Gawlik | Patromierz
+
 permalink: /gawlik_band
 ---
 

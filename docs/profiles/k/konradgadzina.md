@@ -1,5 +1,6 @@
 ---
-title: "konradgadzina | Patromierz"
+title: Konrad Gadzina | Patromierz
+
 permalink: /konradgadzina
 ---
 

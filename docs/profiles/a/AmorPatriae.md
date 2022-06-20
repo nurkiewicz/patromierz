@@ -1,5 +1,6 @@
 ---
-title: "AmorPatriae | Patromierz"
+title: Arkadiusz Olszewski | Patromierz
+
 permalink: /AmorPatriae
 ---
 

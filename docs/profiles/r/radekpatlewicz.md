@@ -1,5 +1,6 @@
 ---
-title: "radekpatlewicz | Patromierz"
+title: "Rados\u0142aw Patlewicz | Patromierz"
+
 permalink: /radekpatlewicz
 ---
 

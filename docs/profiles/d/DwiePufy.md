@@ -1,5 +1,6 @@
 ---
-title: "DwiePufy | Patromierz"
+title: Dwie Pufy | Patromierz
+
 permalink: /DwiePufy
 ---
 

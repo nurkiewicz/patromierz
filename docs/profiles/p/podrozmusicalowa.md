@@ -1,5 +1,6 @@
 ---
-title: "podrozmusicalowa | Patromierz"
+title: "Podr\xF3\u017C Musicalowa | Patromierz"
+
 permalink: /podrozmusicalowa
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "grupawolnosc | Patromierz"
+title: "Grupa Wolno\u015B\u0107 | Patromierz"
+
 permalink: /grupawolnosc
 ---
 

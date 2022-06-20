@@ -1,5 +1,6 @@
 ---
-title: "Spox_2 | Patromierz"
+title: Szymon Byra | Patromierz
+
 permalink: /Spox_2
 ---
 

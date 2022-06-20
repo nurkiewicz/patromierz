@@ -1,5 +1,6 @@
 ---
-title: "WelesStudio | Patromierz"
+title: Weles Studio | Patromierz
+
 permalink: /WelesStudio
 ---
 

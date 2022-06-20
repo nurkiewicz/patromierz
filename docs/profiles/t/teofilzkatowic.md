@@ -1,5 +1,6 @@
 ---
-title: "teofilzkatowic | Patromierz"
+title: Teofil z Katowic | Patromierz
+
 permalink: /teofilzkatowic
 ---
 

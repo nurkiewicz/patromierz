@@ -1,5 +1,6 @@
 ---
-title: "KronikaLudwika | Patromierz"
+title: Kronika Ludwika | Patromierz
+
 permalink: /KronikaLudwika
 ---
 

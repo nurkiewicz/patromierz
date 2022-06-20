@@ -1,5 +1,6 @@
 ---
-title: "panstwomiasto | Patromierz"
+title: "Pa\u0144stwomiasto | Patromierz"
+
 permalink: /panstwomiasto
 ---
 

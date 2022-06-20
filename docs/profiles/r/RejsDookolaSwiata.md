@@ -1,5 +1,6 @@
 ---
-title: "RejsDookolaSwiata | Patromierz"
+title: "Rejs Dooko\u0142a \u015Awiata - SV Crystal | Patromierz"
+
 permalink: /RejsDookolaSwiata
 ---
 

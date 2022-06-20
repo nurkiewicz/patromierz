@@ -1,5 +1,6 @@
 ---
-title: "NaukowyBelkot | Patromierz"
+title: "Uwaga Naukowy Be\u0142kot | Patromierz"
+
 permalink: /NaukowyBelkot
 ---
 

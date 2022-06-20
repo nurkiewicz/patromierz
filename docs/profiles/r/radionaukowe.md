@@ -1,5 +1,6 @@
 ---
-title: "radionaukowe | Patromierz"
+title: "Radio Naukowe - podcast Karoliny G\u0142owackiej | Patromierz"
+
 permalink: /radionaukowe
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Sieje_Dobro | Patromierz"
+title: "Paulina Bia\u0142ek | Patromierz"
+
 permalink: /Sieje_Dobro
 ---
 

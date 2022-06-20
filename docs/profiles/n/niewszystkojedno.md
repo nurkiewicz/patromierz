@@ -1,5 +1,6 @@
 ---
-title: "niewszystkojedno | Patromierz"
+title: Nie wszystko jedno | Patromierz
+
 permalink: /niewszystkojedno
 ---
 

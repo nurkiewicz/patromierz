@@ -1,5 +1,6 @@
 ---
-title: "dzietrupy | Patromierz"
+title: dzietrupy | Patromierz
+
 permalink: /dzietrupy
 ---
 

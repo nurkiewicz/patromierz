@@ -1,5 +1,6 @@
 ---
-title: "poza-ciałem-fizycznym | Patromierz"
+title: "Rafa\u0142 Nieradzik | Patromierz"
+
 permalink: /poza-ciałem-fizycznym
 ---
 

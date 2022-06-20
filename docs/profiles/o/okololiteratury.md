@@ -1,5 +1,6 @@
 ---
-title: "okololiteratury | Patromierz"
+title: "Oko\u0142o Literatury | Patromierz"
+
 permalink: /okololiteratury
 ---
 

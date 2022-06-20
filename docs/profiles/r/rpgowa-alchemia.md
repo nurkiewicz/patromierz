@@ -1,5 +1,6 @@
 ---
-title: "rpgowa-alchemia | Patromierz"
+title: RPGowa Alchemia | Patromierz
+
 permalink: /rpgowa-alchemia
 ---
 

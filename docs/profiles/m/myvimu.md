@@ -1,5 +1,6 @@
 ---
-title: "myvimu | Patromierz"
+title: MyViMu - Moje Wirtualne Muzeum | Patromierz
+
 permalink: /myvimu
 ---
 

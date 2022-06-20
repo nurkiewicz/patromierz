@@ -1,5 +1,6 @@
 ---
-title: "KulawaEksploracja | Patromierz"
+title: Kulawa Eksploracja | Patromierz
+
 permalink: /KulawaEksploracja
 ---
 

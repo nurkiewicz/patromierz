@@ -1,5 +1,6 @@
 ---
-title: "swider | Patromierz"
+title: "Wojciech \u015Awider - ekonomia, inwestycje | Patromierz"
+
 permalink: /swider
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zyciewkorpo | Patromierz"
+title: "\u017Bycie w korpo | Patromierz"
+
 permalink: /zyciewkorpo
 ---
 

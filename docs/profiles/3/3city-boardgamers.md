@@ -1,5 +1,6 @@
 ---
-title: "3city-boardgamers | Patromierz"
+title: 3city Boardgamers | Patromierz
+
 permalink: /3city-boardgamers
 ---
 

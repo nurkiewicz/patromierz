@@ -1,5 +1,6 @@
 ---
-title: "nabiwaku | Patromierz"
+title: NaBiwaku.eu | Patromierz
+
 permalink: /nabiwaku
 ---
 

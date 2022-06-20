@@ -1,5 +1,6 @@
 ---
-title: "drzewo-zycia | Patromierz"
+title: "Drzewo \u017Bycia - studio jogi i holistycznego zdrowia | Patromierz"
+
 permalink: /drzewo-zycia
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ogrodowaalternatywa | Patromierz"
+title: Ogrodowa Alternatywa | Patromierz
+
 permalink: /ogrodowaalternatywa
 ---
 

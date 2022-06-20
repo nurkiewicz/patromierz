@@ -1,5 +1,6 @@
 ---
-title: "gruzinskipopolsku | Patromierz"
+title: "Gruzi\u0144ski po polsku | Patromierz"
+
 permalink: /gruzinskipopolsku
 ---
 

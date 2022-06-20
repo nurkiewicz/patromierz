@@ -1,5 +1,6 @@
 ---
-title: "Baśniarka | Patromierz"
+title: "DOTYKAM \u017BYCIA | Patromierz"
+
 permalink: /Baśniarka
 ---
 

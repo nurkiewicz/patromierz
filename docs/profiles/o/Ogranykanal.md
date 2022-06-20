@@ -1,5 +1,6 @@
 ---
-title: "Ogranykanal | Patromierz"
+title: Damian Rutkowski | Patromierz
+
 permalink: /Ogranykanal
 ---
 

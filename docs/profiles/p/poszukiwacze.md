@@ -1,5 +1,6 @@
 ---
-title: "poszukiwacze | Patromierz"
+title: Tropiciele Zbrodni | Patromierz
+
 permalink: /poszukiwacze
 ---
 

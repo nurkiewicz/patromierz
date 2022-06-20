@@ -1,5 +1,6 @@
 ---
-title: "AplikacjaDrogowskaz | Patromierz"
+title: Aplikacja Drogowskaz | Patromierz
+
 permalink: /AplikacjaDrogowskaz
 ---
 

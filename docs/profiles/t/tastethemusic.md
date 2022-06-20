@@ -1,5 +1,6 @@
 ---
-title: "tastethemusic | Patromierz"
+title: Taste The Music | Patromierz
+
 permalink: /tastethemusic
 ---
 

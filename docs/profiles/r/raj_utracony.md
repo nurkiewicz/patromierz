@@ -1,5 +1,6 @@
 ---
-title: "raj_utracony | Patromierz"
+title: "Kr\xF3l Pustkowia | Jerzy Ka\u015Bk\xF3w | Patromierz"
+
 permalink: /raj_utracony
 ---
 

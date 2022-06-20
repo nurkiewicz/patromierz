@@ -1,5 +1,6 @@
 ---
-title: "emilolejnik | Patromierz"
+title: Emil Olejnik | Patromierz
+
 permalink: /emilolejnik
 ---
 

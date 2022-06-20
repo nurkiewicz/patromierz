@@ -1,5 +1,6 @@
 ---
-title: "Sylwia_K | Patromierz"
+title: "Sylwia K_Podr\xF3\u017Ce | Patromierz"
+
 permalink: /Sylwia_K
 ---
 

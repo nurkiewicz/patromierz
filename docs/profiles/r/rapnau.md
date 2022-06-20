@@ -1,5 +1,6 @@
 ---
-title: "rapnau | Patromierz"
+title: RAPNAU | Patromierz
+
 permalink: /rapnau
 ---
 

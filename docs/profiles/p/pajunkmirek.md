@@ -1,5 +1,6 @@
 ---
-title: "pajunkmirek | Patromierz"
+title: "Paj\u0105k Mirek | Patromierz"
+
 permalink: /pajunkmirek
 ---
 

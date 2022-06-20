@@ -1,5 +1,6 @@
 ---
-title: "Fotomix | Patromierz"
+title: FOTOMIX | Patromierz
+
 permalink: /Fotomix
 ---
 

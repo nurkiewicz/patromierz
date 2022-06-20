@@ -1,5 +1,6 @@
 ---
-title: "joga-paulina | Patromierz"
+title: Yoga with Paulina | Patromierz
+
 permalink: /joga-paulina
 ---
 

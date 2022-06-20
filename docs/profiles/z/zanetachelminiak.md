@@ -1,5 +1,6 @@
 ---
-title: "zanetachelminiak | Patromierz"
+title: "\u017Baneta Che\u0142miniak | Patromierz"
+
 permalink: /zanetachelminiak
 ---
 

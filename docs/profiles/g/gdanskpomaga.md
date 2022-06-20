@@ -1,5 +1,6 @@
 ---
-title: "gdanskpomaga | Patromierz"
+title: "Gda\u0144sk Pomaga | Patromierz"
+
 permalink: /gdanskpomaga
 ---
 

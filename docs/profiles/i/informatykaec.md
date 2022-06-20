@@ -1,5 +1,6 @@
 ---
-title: "informatykaec | Patromierz"
+title: informatyka EC | Patromierz
+
 permalink: /informatykaec
 ---
 

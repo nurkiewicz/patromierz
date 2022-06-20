@@ -1,5 +1,6 @@
 ---
-title: "UltraLovers | Patromierz"
+title: UltraLovers | Patromierz
+
 permalink: /UltraLovers
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "sysopspolska | Patromierz"
+title: Fundacja SysOps / DevOps Polska | Patromierz
+
 permalink: /sysopspolska
 ---
 

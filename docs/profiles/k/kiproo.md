@@ -1,5 +1,6 @@
 ---
-title: "kiproo | Patromierz"
+title: Dominika Kiprowska | Patromierz
+
 permalink: /kiproo
 ---
 

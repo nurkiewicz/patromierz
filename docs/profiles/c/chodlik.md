@@ -1,5 +1,6 @@
 ---
-title: "chodlik | Patromierz"
+title: Misja Archeologiczna w Chodliku | Patromierz
+
 permalink: /chodlik
 ---
 

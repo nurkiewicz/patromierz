@@ -1,5 +1,6 @@
 ---
-title: "anna-strzelczyk | Patromierz"
+title: Anna Strzelczyk | Patromierz
+
 permalink: /anna-strzelczyk
 ---
 

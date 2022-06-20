@@ -1,5 +1,6 @@
 ---
-title: "lechiarugby | Patromierz"
+title: "Rugby Club Lechia Gda\u0144sk | Patromierz"
+
 permalink: /lechiarugby
 ---
 

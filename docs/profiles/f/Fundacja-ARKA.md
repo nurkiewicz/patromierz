@@ -1,5 +1,6 @@
 ---
-title: "Fundacja-ARKA | Patromierz"
+title: Fundacja ekologiczna ARKA | Patromierz
+
 permalink: /Fundacja-ARKA
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "rapriver | Patromierz"
+title: RapRiver | Patromierz
+
 permalink: /rapriver
 ---
 

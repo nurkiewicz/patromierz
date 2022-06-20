@@ -1,5 +1,6 @@
 ---
-title: "orkiestrawieniawa | Patromierz"
+title: Orkiestra Wieniawa | Patromierz
+
 permalink: /orkiestrawieniawa
 ---
 

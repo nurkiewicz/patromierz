@@ -1,5 +1,6 @@
 ---
-title: "fundacja-ekologicznie | Patromierz"
+title: Fundacja EkoLogicznie | Patromierz
+
 permalink: /fundacja-ekologicznie
 ---
 

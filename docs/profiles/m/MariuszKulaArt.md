@@ -1,5 +1,6 @@
 ---
-title: "MariuszKulaArt | Patromierz"
+title: Mariusz Kula Art | Patromierz
+
 permalink: /MariuszKulaArt
 ---
 

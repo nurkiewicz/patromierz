@@ -1,5 +1,6 @@
 ---
-title: "kotyzmlocin | Patromierz"
+title: "Koty z M\u0142ocin | Patromierz"
+
 permalink: /kotyzmlocin
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Barycza | Patromierz"
+title: Sebastian Barycza | Patromierz
+
 permalink: /Barycza
 ---
 

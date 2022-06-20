@@ -1,5 +1,6 @@
 ---
-title: "siostryrzeki | Patromierz"
+title: Siostry Rzeki | Patromierz
+
 permalink: /siostryrzeki
 ---
 

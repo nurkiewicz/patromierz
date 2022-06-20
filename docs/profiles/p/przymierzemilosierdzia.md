@@ -1,5 +1,6 @@
 ---
-title: "przymierzemilosierdzia | Patromierz"
+title: "Przymierze Mi\u0142osierdzia | Patromierz"
+
 permalink: /przymierzemilosierdzia
 ---
 

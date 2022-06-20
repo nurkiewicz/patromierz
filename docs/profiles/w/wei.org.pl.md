@@ -1,5 +1,6 @@
 ---
-title: "wei.org.pl | Patromierz"
+title: Warsaw Enterprise Insitutue | Patromierz
+
 permalink: /wei.org.pl
 ---
 

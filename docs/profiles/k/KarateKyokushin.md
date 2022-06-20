@@ -1,5 +1,6 @@
 ---
-title: "KarateKyokushin | Patromierz"
+title: Sylwia Sierawska-Piszczyk | Patromierz
+
 permalink: /KarateKyokushin
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "prawadziecka | Patromierz"
+title: Prawa dziecka / Fundacja Go'n'Act | Patromierz
+
 permalink: /prawadziecka
 ---
 

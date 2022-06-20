@@ -1,5 +1,6 @@
 ---
-title: "antyrama | Patromierz"
+title: antyRAMA | Patromierz
+
 permalink: /antyrama
 ---
 

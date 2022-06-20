@@ -1,5 +1,6 @@
 ---
-title: "Inesita744 | Patromierz"
+title: Inesita | Patromierz
+
 permalink: /Inesita744
 ---
 

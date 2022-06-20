@@ -1,5 +1,6 @@
 ---
-title: "zbrodnie-prowincjonalne | Patromierz"
+title: Zbrodnie Prowincjonalne | Patromierz
+
 permalink: /zbrodnie-prowincjonalne
 ---
 

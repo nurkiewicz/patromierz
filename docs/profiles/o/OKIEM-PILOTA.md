@@ -1,5 +1,6 @@
 ---
-title: "OKIEM-PILOTA | Patromierz"
+title: Tomasz Siembida | Patromierz
+
 permalink: /OKIEM-PILOTA
 ---
 

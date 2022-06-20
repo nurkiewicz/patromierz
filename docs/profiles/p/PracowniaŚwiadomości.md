@@ -1,5 +1,6 @@
 ---
-title: "PracowniaŚwiadomości | Patromierz"
+title: "Pracownia \u015Awiadomo\u015Bci | Patromierz"
+
 permalink: /PracowniaŚwiadomości
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Pyrkon | Patromierz"
+title: "Pyrkon - Fantastyczne Miejsce Spotka\u0144 | Patromierz"
+
 permalink: /Pyrkon
 ---
 

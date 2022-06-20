@@ -1,5 +1,6 @@
 ---
-title: "przeszloscodkuchni | Patromierz"
+title: "Przesz\u0142o\u015B\u0107 od kuchni | Patromierz"
+
 permalink: /przeszloscodkuchni
 ---
 

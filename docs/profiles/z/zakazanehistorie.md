@@ -1,5 +1,6 @@
 ---
-title: "zakazanehistorie | Patromierz"
+title: ZAKAZANE HISTORIE | Patromierz
+
 permalink: /zakazanehistorie
 ---
 

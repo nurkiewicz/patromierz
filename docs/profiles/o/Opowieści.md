@@ -1,5 +1,6 @@
 ---
-title: "Opowieści | Patromierz"
+title: "Agencja autorska Opowie\u015Bci | Patromierz"
+
 permalink: /Opowieści
 ---
 

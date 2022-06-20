@@ -1,5 +1,6 @@
 ---
-title: "ikonowicz | Patromierz"
+title: Piotr Ikonowicz | Patromierz
+
 permalink: /ikonowicz
 ---
 

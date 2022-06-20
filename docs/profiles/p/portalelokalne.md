@@ -1,5 +1,6 @@
 ---
-title: "portalelokalne | Patromierz"
+title: Portale i gazety lokalne  | Patromierz
+
 permalink: /portalelokalne
 ---
 

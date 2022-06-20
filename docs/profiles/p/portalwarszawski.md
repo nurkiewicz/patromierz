@@ -1,5 +1,6 @@
 ---
-title: "portalwarszawski | Patromierz"
+title: Portal Warszawski | Patromierz
+
 permalink: /portalwarszawski
 ---
 

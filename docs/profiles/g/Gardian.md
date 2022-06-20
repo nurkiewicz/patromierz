@@ -1,5 +1,6 @@
 ---
-title: "Gardian | Patromierz"
+title: Gardian | Patromierz
+
 permalink: /Gardian
 ---
 

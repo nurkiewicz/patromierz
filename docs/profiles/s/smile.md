@@ -1,5 +1,6 @@
 ---
-title: "smile | Patromierz"
+title: Fundacja Smile Together | Patromierz
+
 permalink: /smile
 ---
 

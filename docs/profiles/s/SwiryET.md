@@ -1,5 +1,6 @@
 ---
-title: "SwiryET | Patromierz"
+title: =|PoLSkIE|SwirY|= | Patromierz
+
 permalink: /SwiryET
 ---
 

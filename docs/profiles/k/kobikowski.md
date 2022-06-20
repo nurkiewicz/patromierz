@@ -1,5 +1,6 @@
 ---
-title: "kobikowski | Patromierz"
+title: Kobikowski | Patromierz
+
 permalink: /kobikowski
 ---
 

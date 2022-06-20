@@ -1,5 +1,6 @@
 ---
-title: "fundacjabarnaby | Patromierz"
+title: Fundacja Barnaby | Patromierz
+
 permalink: /fundacjabarnaby
 ---
 

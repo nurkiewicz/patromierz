@@ -1,5 +1,6 @@
 ---
-title: "SWOK | Patromierz"
+title: "S\u0142u\u017Cba Wi\u0119zienna Okiem Klawisza | Patromierz"
+
 permalink: /SWOK
 ---
 

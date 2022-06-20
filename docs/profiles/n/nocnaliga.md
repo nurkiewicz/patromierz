@@ -1,5 +1,6 @@
 ---
-title: "nocnaliga | Patromierz"
+title: Nocna Liga Halowa | Patromierz
+
 permalink: /nocnaliga
 ---
 

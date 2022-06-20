@@ -1,5 +1,6 @@
 ---
-title: "sjrw | Patromierz"
+title: SPECJALISTYCZNA JEDNOSTKA RATOWNICTWA WETERYNARYJNEGO | Patromierz
+
 permalink: /sjrw
 ---
 

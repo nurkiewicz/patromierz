@@ -1,5 +1,6 @@
 ---
-title: "ziora | Patromierz"
+title: "Pawe\u0142 Ziora | Patromierz"
+
 permalink: /ziora
 ---
 

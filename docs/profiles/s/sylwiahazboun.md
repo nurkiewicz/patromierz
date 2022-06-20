@@ -1,5 +1,6 @@
 ---
-title: "sylwiahazboun | Patromierz"
+title: Sylwia Hazboun - Dzisiaj w Betlejem | Patromierz
+
 permalink: /sylwiahazboun
 ---
 

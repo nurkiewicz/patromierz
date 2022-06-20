@@ -1,5 +1,6 @@
 ---
-title: "pokochajgada | Patromierz"
+title: Fundacja Pokochaj Gada | Patromierz
+
 permalink: /pokochajgada
 ---
 

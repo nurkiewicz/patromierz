@@ -1,5 +1,6 @@
 ---
-title: "topkarpacie | Patromierz"
+title: TopKarpacie | Patromierz
+
 permalink: /topkarpacie
 ---
 

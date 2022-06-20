@@ -1,5 +1,6 @@
 ---
-title: "guitarstories | Patromierz"
+title: GUITAR STORIES | Patromierz
+
 permalink: /guitarstories
 ---
 

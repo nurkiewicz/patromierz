@@ -1,5 +1,6 @@
 ---
-title: "wyskakujzlaptopa | Patromierz"
+title: Wyskakuj z laptopa | Patromierz
+
 permalink: /wyskakujzlaptopa
 ---
 

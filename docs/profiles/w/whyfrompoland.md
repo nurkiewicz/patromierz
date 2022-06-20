@@ -1,5 +1,6 @@
 ---
-title: "whyfrompoland | Patromierz"
+title: Why | Patromierz
+
 permalink: /whyfrompoland
 ---
 

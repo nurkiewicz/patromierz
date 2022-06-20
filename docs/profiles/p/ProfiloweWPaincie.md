@@ -1,5 +1,6 @@
 ---
-title: "ProfiloweWPaincie | Patromierz"
+title: Twoje profilowe ale w Paincie | Patromierz
+
 permalink: /ProfiloweWPaincie
 ---
 

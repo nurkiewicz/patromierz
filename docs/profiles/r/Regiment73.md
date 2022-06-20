@@ -1,5 +1,6 @@
 ---
-title: "Regiment73 | Patromierz"
+title: GRH Inf.-Reg. 73 | Patromierz
+
 permalink: /Regiment73
 ---
 

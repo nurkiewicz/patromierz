@@ -1,5 +1,6 @@
 ---
-title: "Cotozasample | Patromierz"
+title: Co to za sample? | Patromierz
+
 permalink: /Cotozasample
 ---
 

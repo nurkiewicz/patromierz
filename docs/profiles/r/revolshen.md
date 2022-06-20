@@ -1,5 +1,6 @@
 ---
-title: "revolshen | Patromierz"
+title: Revolshen | Patromierz
+
 permalink: /revolshen
 ---
 

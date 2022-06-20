@@ -1,5 +1,6 @@
 ---
-title: "HabloEspañol | Patromierz"
+title: "Hablo Espa\xF1ol | Patromierz"
+
 permalink: /HabloEspañol
 ---
 

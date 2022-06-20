@@ -1,5 +1,6 @@
 ---
-title: "strzelnicatv | Patromierz"
+title: Strzelnica Tv | Patromierz
+
 permalink: /strzelnicatv
 ---
 

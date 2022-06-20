@@ -1,5 +1,6 @@
 ---
-title: "zagi | Patromierz"
+title: Zagi | Patromierz
+
 permalink: /zagi
 ---
 

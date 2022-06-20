@@ -1,5 +1,6 @@
 ---
-title: "teatrzelazny | Patromierz"
+title: "Teatr \u017Belazny | Patromierz"
+
 permalink: /teatrzelazny
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kociolekwiedzmy | Patromierz"
+title: "Kocio\u0142ek Wied\u017Amy - Agnieszka Waszak | Patromierz"
+
 permalink: /kociolekwiedzmy
 ---
 

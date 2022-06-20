@@ -1,5 +1,6 @@
 ---
-title: "BooksJarkaHoldena | Patromierz"
+title: Jarek Holden | Patromierz
+
 permalink: /BooksJarkaHoldena
 ---
 

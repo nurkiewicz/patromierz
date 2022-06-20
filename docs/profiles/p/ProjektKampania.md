@@ -1,5 +1,6 @@
 ---
-title: "ProjektKampania | Patromierz"
+title: Projekt Kampania | Patromierz
+
 permalink: /ProjektKampania
 ---
 

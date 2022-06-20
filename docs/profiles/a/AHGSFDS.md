@@ -1,5 +1,6 @@
 ---
-title: "AHGSFDS | Patromierz"
+title: Zapisz obrazek jako ahgsfds | Patromierz
+
 permalink: /AHGSFDS
 ---
 

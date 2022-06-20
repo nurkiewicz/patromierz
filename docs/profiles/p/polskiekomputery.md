@@ -1,5 +1,6 @@
 ---
-title: "polskiekomputery | Patromierz"
+title: Polskie Komputery | Patromierz
+
 permalink: /polskiekomputery
 ---
 

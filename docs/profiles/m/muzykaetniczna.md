@@ -1,5 +1,6 @@
 ---
-title: "muzykaetniczna | Patromierz"
+title: Muzyka etniczna | Patromierz
+
 permalink: /muzykaetniczna
 ---
 

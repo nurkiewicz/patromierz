@@ -1,5 +1,6 @@
 ---
-title: "-EwaeM- | Patromierz"
+title: Ewa eM | Patromierz
+
 permalink: /-EwaeM-
 ---
 

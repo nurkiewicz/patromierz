@@ -1,5 +1,6 @@
 ---
-title: "BrodyzKosmosu | Patromierz"
+title: Brody z Kosmosu | Patromierz
+
 permalink: /BrodyzKosmosu
 ---
 

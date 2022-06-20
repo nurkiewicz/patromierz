@@ -1,5 +1,6 @@
 ---
-title: "spodwody | Patromierz"
+title: Spod Wody | Patromierz
+
 permalink: /spodwody
 ---
 

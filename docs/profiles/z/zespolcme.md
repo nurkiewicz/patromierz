@@ -1,5 +1,6 @@
 ---
-title: "zespolcme | Patromierz"
+title: "Zesp\xF3\u0142 CME | Patromierz"
+
 permalink: /zespolcme
 ---
 

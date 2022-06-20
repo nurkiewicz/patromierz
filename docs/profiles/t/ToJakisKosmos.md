@@ -1,5 +1,6 @@
 ---
-title: "ToJakisKosmos | Patromierz"
+title: "To Jaki\u015B Kosmos! | Patromierz"
+
 permalink: /ToJakisKosmos
 ---
 

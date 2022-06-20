@@ -1,5 +1,6 @@
 ---
-title: "drpiotrnapierala | Patromierz"
+title: "Piotr Napiera\u0142a | Patromierz"
+
 permalink: /drpiotrnapierala
 ---
 

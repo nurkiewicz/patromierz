@@ -1,5 +1,6 @@
 ---
-title: "bezimienny | Patromierz"
+title: Bezimienny Podcast | Patromierz
+
 permalink: /bezimienny
 ---
 

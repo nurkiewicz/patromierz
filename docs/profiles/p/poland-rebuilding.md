@@ -1,5 +1,6 @@
 ---
-title: "poland-rebuilding | Patromierz"
+title: Poland Rebuilding Team | Patromierz
+
 permalink: /poland-rebuilding
 ---
 

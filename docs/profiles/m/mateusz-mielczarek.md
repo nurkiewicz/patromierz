@@ -1,5 +1,6 @@
 ---
-title: "mateusz-mielczarek | Patromierz"
+title: Mateusz Mielczarek | Patromierz
+
 permalink: /mateusz-mielczarek
 ---
 

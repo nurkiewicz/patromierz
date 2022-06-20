@@ -1,5 +1,6 @@
 ---
-title: "kkocieba | Patromierz"
+title: "Kuba Koci\u0119ba | Patromierz"
+
 permalink: /kkocieba
 ---
 

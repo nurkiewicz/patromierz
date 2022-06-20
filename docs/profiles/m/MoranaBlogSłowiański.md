@@ -1,5 +1,6 @@
 ---
-title: "MoranaBlogSłowiański | Patromierz"
+title: "Pijana Morana - s\u0142owia\u0144ski blog historyczny | Patromierz"
+
 permalink: /MoranaBlogSłowiański
 ---
 

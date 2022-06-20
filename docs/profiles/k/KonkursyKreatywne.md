@@ -1,5 +1,6 @@
 ---
-title: "KonkursyKreatywne | Patromierz"
+title: Konkursy Kreatywne | Patromierz
+
 permalink: /KonkursyKreatywne
 ---
 

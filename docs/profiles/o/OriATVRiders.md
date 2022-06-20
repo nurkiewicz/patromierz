@@ -1,5 +1,6 @@
 ---
-title: "OriATVRiders | Patromierz"
+title: Ori ATV Riders | Patromierz
+
 permalink: /OriATVRiders
 ---
 

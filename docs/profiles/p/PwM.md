@@ -1,5 +1,6 @@
 ---
-title: "PwM | Patromierz"
+title: Polki w medycynie | Patromierz
+
 permalink: /PwM
 ---
 

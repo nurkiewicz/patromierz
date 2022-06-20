@@ -1,5 +1,6 @@
 ---
-title: "niezlasztuka | Patromierz"
+title: "Fundacja Niez\u0142a Sztuka | Patromierz"
+
 permalink: /niezlasztuka
 ---
 

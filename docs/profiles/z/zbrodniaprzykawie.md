@@ -1,5 +1,6 @@
 ---
-title: "zbrodniaprzykawie | Patromierz"
+title: Zbrodnia Przy Kawie Podcast | Patromierz
+
 permalink: /zbrodniaprzykawie
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "skywarn | Patromierz"
+title: "Skywarn Polska (Polscy \u0141owcy Burz) | Patromierz"
+
 permalink: /skywarn
 ---
 

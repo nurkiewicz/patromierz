@@ -1,5 +1,6 @@
 ---
-title: "warchol | Patromierz"
+title: "Warcho\u0142 | Patromierz"
+
 permalink: /warchol
 ---
 

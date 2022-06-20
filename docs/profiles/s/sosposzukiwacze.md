@@ -1,5 +1,6 @@
 ---
-title: "sosposzukiwacze | Patromierz"
+title: Piotr Druzd | Patromierz
+
 permalink: /sosposzukiwacze
 ---
 

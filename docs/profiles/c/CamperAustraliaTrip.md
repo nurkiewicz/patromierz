@@ -1,5 +1,6 @@
 ---
-title: "CamperAustraliaTrip | Patromierz"
+title: Camper Australia Trip | Patromierz
+
 permalink: /CamperAustraliaTrip
 ---
 

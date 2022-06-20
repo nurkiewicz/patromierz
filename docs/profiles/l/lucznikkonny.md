@@ -1,5 +1,6 @@
 ---
-title: "lucznikkonny | Patromierz"
+title: "Natalia Koprowska - \u0142ucznik konny | Patromierz"
+
 permalink: /lucznikkonny
 ---
 

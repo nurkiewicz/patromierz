@@ -1,5 +1,6 @@
 ---
-title: "noisegateproduction | Patromierz"
+title: Noise Gate Production | Patromierz
+
 permalink: /noisegateproduction
 ---
 

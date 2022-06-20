@@ -1,5 +1,6 @@
 ---
-title: "sercemiastawarszawa | Patromierz"
+title: Serce Miasta | Patromierz
+
 permalink: /sercemiastawarszawa
 ---
 

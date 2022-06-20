@@ -1,5 +1,6 @@
 ---
-title: "sbuturla | Patromierz"
+title: tyskiflesz.pl | Patromierz
+
 permalink: /sbuturla
 ---
 

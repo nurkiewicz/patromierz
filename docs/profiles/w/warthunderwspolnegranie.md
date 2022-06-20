@@ -1,5 +1,6 @@
 ---
-title: "warthunderwspolnegranie | Patromierz"
+title: "War Thunder - Wsp\xF3lne Granie | Patromierz"
+
 permalink: /warthunderwspolnegranie
 ---
 

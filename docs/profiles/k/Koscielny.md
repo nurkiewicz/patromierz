@@ -1,5 +1,6 @@
 ---
-title: "Koscielny | Patromierz"
+title: "Filip \u0141uczak | Patromierz"
+
 permalink: /Koscielny
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tomwlod | Patromierz"
+title: Tom Wlod | Patromierz
+
 permalink: /tomwlod
 ---
 

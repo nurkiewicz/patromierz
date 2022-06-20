@@ -1,5 +1,6 @@
 ---
-title: "Marika | Patromierz"
+title: MARIKA | Patromierz
+
 permalink: /Marika
 ---
 

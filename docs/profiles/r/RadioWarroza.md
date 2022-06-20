@@ -1,5 +1,6 @@
 ---
-title: "RadioWarroza | Patromierz"
+title: Radio Warroza | Patromierz
+
 permalink: /RadioWarroza
 ---
 

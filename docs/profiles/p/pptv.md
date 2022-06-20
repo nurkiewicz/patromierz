@@ -1,5 +1,6 @@
 ---
-title: "pptv | Patromierz"
+title: Polish Paranormal  TV | Patromierz
+
 permalink: /pptv
 ---
 

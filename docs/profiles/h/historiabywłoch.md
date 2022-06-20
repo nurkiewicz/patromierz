@@ -1,5 +1,6 @@
 ---
-title: "historiabywłoch | Patromierz"
+title: "Marcin W\u0142och | Patromierz"
+
 permalink: /historiabywłoch
 ---
 

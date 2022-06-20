@@ -1,5 +1,6 @@
 ---
-title: "trenerpodczaski | Patromierz"
+title: Piotr Podczaski | Patromierz
+
 permalink: /trenerpodczaski
 ---
 

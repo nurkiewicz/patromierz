@@ -1,5 +1,6 @@
 ---
-title: "sportprojekt | Patromierz"
+title: Wojtek Pawlak | Patromierz
+
 permalink: /sportprojekt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "misericordia | Patromierz"
+title: "Palloty\u0144ska Grupa Medialna | Patromierz"
+
 permalink: /misericordia
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "voiceinprogress-joannakurzynsk | Patromierz"
+title: "VoiceInProgress - Joanna Kurzy\u0144ska | Patromierz"
+
 permalink: /voiceinprogress-joannakurzynsk
 ---
 

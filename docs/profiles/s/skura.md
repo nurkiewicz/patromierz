@@ -1,5 +1,6 @@
 ---
-title: "skura | Patromierz"
+title: Audycja Zkury | Patromierz
+
 permalink: /skura
 ---
 

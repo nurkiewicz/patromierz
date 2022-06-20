@@ -1,5 +1,6 @@
 ---
-title: "chlopakiwpodrozy | Patromierz"
+title: "Ch\u0142opaki w podr\xF3\u017Cy | Patromierz"
+
 permalink: /chlopakiwpodrozy
 ---
 

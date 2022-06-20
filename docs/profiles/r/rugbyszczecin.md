@@ -1,5 +1,6 @@
 ---
-title: "rugbyszczecin | Patromierz"
+title: Kaskada Szczecin Rugby Klub | Patromierz
+
 permalink: /rugbyszczecin
 ---
 

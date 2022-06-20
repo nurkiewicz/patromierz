@@ -1,5 +1,6 @@
 ---
-title: "jagoda-grondecka | Patromierz"
+title: Jagoda Grondecka | Patromierz
+
 permalink: /jagoda-grondecka
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "lodzdlaludzi | Patromierz"
+title: "\u0141\xF3d\u017A dla ludzi | Patromierz"
+
 permalink: /lodzdlaludzi
 ---
 

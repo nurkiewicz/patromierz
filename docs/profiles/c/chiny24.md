@@ -1,5 +1,6 @@
 ---
-title: "chiny24 | Patromierz"
+title: chiny24.com | Patromierz
+
 permalink: /chiny24
 ---
 

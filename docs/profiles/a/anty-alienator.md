@@ -1,5 +1,6 @@
 ---
-title: "anty-alienator | Patromierz"
+title: Anty-Alienator | Patromierz
+
 permalink: /anty-alienator
 ---
 

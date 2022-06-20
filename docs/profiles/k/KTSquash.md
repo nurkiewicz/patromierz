@@ -1,5 +1,6 @@
 ---
-title: "KTSquash | Patromierz"
+title: KARINA TYMA | Patromierz
+
 permalink: /KTSquash
 ---
 

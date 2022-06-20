@@ -1,5 +1,6 @@
 ---
-title: "odraniemen | Patromierz"
+title: Stowarzyszenie Odra-Niemen | Patromierz
+
 permalink: /odraniemen
 ---
 

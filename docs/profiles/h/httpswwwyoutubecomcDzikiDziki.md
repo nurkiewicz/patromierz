@@ -1,5 +1,6 @@
 ---
-title: "httpswwwyoutubecomcDzikiDziki | Patromierz"
+title: Dziki  Urbex | Patromierz
+
 permalink: /httpswwwyoutubecomcDzikiDziki
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "iktp | Patromierz"
+title: "I komu to przeszkadza\u0142o? | Patromierz"
+
 permalink: /iktp
 ---
 

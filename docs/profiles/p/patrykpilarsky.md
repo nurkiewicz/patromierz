@@ -1,5 +1,6 @@
 ---
-title: "patrykpilarsky | Patromierz"
+title: patryk_pilarsky | Patromierz
+
 permalink: /patrykpilarsky
 ---
 

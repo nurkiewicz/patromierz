@@ -1,5 +1,6 @@
 ---
-title: "wiolkaczurynska | Patromierz"
+title: "Wiolka Czury\u0144ska | Patromierz"
+
 permalink: /wiolkaczurynska
 ---
 

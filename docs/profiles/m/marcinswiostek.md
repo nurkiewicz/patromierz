@@ -1,5 +1,6 @@
 ---
-title: "marcinswiostek | Patromierz"
+title: "Marcin \u015Awiostek Foto | Patromierz"
+
 permalink: /marcinswiostek
 ---
 

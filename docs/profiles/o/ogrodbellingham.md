@@ -1,5 +1,6 @@
 ---
-title: "ogrodbellingham | Patromierz"
+title: "Katarzyna Bellingham  OGR\xD3D, VLOG, PODCAST, TV | Patromierz"
+
 permalink: /ogrodbellingham
 ---
 

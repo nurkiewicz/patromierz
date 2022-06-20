@@ -1,5 +1,6 @@
 ---
-title: "niekryty | Patromierz"
+title: Niekryty Krytyk | Patromierz
+
 permalink: /niekryty
 ---
 

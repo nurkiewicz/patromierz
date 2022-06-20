@@ -1,5 +1,6 @@
 ---
-title: "olga-drzymala | Patromierz"
+title: "Olga Drzyma\u0142a | Patromierz"
+
 permalink: /olga-drzymala
 ---
 

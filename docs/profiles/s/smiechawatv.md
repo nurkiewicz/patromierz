@@ -1,5 +1,6 @@
 ---
-title: "smiechawatv | Patromierz"
+title: "\u015Amiechawa TV | Patromierz"
+
 permalink: /smiechawatv
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Edith.TheTraveller | Patromierz"
+title: Edyta Krakowiak | Patromierz
+
 permalink: /Edith.TheTraveller
 ---
 

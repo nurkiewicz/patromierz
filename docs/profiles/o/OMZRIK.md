@@ -1,5 +1,6 @@
 ---
-title: "OMZRIK | Patromierz"
+title: OMZRiK | Patromierz
+
 permalink: /OMZRIK
 ---
 

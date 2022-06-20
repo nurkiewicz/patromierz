@@ -1,5 +1,6 @@
 ---
-title: "Basia-i-Michał-duo | Patromierz"
+title: "Basia Pospieszalska i Micha\u0142 B\u0105k  | Patromierz"
+
 permalink: /Basia-i-Michał-duo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "midas | Patromierz"
+title: Daniel Midas | Patromierz
+
 permalink: /midas
 ---
 

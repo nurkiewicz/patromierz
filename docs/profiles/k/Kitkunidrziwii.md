@@ -1,5 +1,6 @@
 ---
-title: "Kitkunidrziwii | Patromierz"
+title: "Bart\u0142omiej Lis | Patromierz"
+
 permalink: /Kitkunidrziwii
 ---
 

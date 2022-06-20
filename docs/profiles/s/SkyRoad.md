@@ -1,5 +1,6 @@
 ---
-title: "SkyRoad | Patromierz"
+title: Sky Road | Patromierz
+
 permalink: /SkyRoad
 ---
 

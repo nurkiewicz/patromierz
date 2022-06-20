@@ -1,5 +1,6 @@
 ---
-title: "podrozezjajem | Patromierz"
+title: "Podr\xF3\u017Ce z Jajem | Patromierz"
+
 permalink: /podrozezjajem
 ---
 

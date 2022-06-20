@@ -1,5 +1,6 @@
 ---
-title: "nanowosmieci | Patromierz"
+title: Podcast "Co w tym kosz(yk)u" | Patromierz
+
 permalink: /nanowosmieci
 ---
 

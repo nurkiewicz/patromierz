@@ -1,5 +1,6 @@
 ---
-title: "rejentiszumowski | Patromierz"
+title: Rejent i Szumowski w domu na streamie | Patromierz
+
 permalink: /rejentiszumowski
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "krea-k-tywny | Patromierz"
+title: Krea.k.tywny | Patromierz
+
 permalink: /krea-k-tywny
 ---
 

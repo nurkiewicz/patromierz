@@ -1,5 +1,6 @@
 ---
-title: "spooneg3 | Patromierz"
+title: "Mateusz Wujci\xF3w | Patromierz"
+
 permalink: /spooneg3
 ---
 

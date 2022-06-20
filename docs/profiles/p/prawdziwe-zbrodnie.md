@@ -1,5 +1,6 @@
 ---
-title: "prawdziwe-zbrodnie | Patromierz"
+title: Prawdziwe Zbrodnie Podcast | Patromierz
+
 permalink: /prawdziwe-zbrodnie
 ---
 

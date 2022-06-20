@@ -1,5 +1,6 @@
 ---
-title: "Fojerman | Patromierz"
+title: "Stanis\u0142aw Neblik | Patromierz"
+
 permalink: /Fojerman
 ---
 

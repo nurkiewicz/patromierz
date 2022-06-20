@@ -1,5 +1,6 @@
 ---
-title: "Finansista | Patromierz"
+title: Finansista | Patromierz
+
 permalink: /Finansista
 ---
 

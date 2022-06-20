@@ -1,5 +1,6 @@
 ---
-title: "AmbitnaPolska | Patromierz"
+title: Ambitna Polska | Patromierz
+
 permalink: /AmbitnaPolska
 ---
 

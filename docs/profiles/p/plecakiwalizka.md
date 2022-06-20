@@ -1,5 +1,6 @@
 ---
-title: "plecakiwalizka | Patromierz"
+title: Plecak i walizka | Patromierz
+
 permalink: /plecakiwalizka
 ---
 

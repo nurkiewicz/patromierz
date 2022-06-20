@@ -1,5 +1,6 @@
 ---
-title: "sieciowisko | Patromierz"
+title: Wojciech Rubin | Patromierz
+
 permalink: /sieciowisko
 ---
 

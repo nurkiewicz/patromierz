@@ -1,5 +1,6 @@
 ---
-title: "spalmyto | Patromierz"
+title: Spalmy to! | Patromierz
+
 permalink: /spalmyto
 ---
 

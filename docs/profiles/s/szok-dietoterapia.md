@@ -1,5 +1,6 @@
 ---
-title: "szok-dietoterapia | Patromierz"
+title: SZOK dietoterapia | Patromierz
+
 permalink: /szok-dietoterapia
 ---
 

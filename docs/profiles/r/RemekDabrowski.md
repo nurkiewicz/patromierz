@@ -1,5 +1,6 @@
 ---
-title: "RemekDabrowski | Patromierz"
+title: "Remek D\u0105browski | Patromierz"
+
 permalink: /RemekDabrowski
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Sirenes | Patromierz"
+title: "Ch\xF3r Kameralny Sirenes | Patromierz"
+
 permalink: /Sirenes
 ---
 

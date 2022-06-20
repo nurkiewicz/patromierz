@@ -1,5 +1,6 @@
 ---
-title: "polskikarting | Patromierz"
+title: Polski Karting | Patromierz
+
 permalink: /polskikarting
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wojtekmoskwa | Patromierz"
+title: Wojtek Moskwa | Patromierz
+
 permalink: /wojtekmoskwa
 ---
 

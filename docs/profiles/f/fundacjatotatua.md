@@ -1,5 +1,6 @@
 ---
-title: "fundacjatotatua | Patromierz"
+title: Fundacja Tota Tua | Patromierz
+
 permalink: /fundacjatotatua
 ---
 

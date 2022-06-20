@@ -1,5 +1,6 @@
 ---
-title: "muzykawlegionowskim | Patromierz"
+title: Muzyka w legionowskim | Patromierz
+
 permalink: /muzykawlegionowskim
 ---
 

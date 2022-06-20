@@ -1,5 +1,6 @@
 ---
-title: "cabriola | Patromierz"
+title: Katarzyna Cygler | Patromierz
+
 permalink: /cabriola
 ---
 

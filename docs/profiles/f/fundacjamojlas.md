@@ -1,5 +1,6 @@
 ---
-title: "fundacjamojlas | Patromierz"
+title: "Fundacja M\xF3j Las | Patromierz"
+
 permalink: /fundacjamojlas
 ---
 

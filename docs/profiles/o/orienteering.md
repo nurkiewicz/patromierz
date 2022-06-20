@@ -1,5 +1,6 @@
 ---
-title: "orienteering | Patromierz"
+title: Stowarzyszenie Rozwoju Orienteeringu | Patromierz
+
 permalink: /orienteering
 ---
 

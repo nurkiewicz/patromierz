@@ -1,5 +1,6 @@
 ---
-title: "wojtekczytaWH40K | Patromierz"
+title: "\u015Awiat Warhammer 40000 i Warhammer Fantasy | Patromierz"
+
 permalink: /wojtekczytaWH40K
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Wojtas_carpenter | Patromierz"
+title: Wojtas_carpenter | Patromierz
+
 permalink: /Wojtas_carpenter
 ---
 

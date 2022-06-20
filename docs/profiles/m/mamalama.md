@@ -1,5 +1,6 @@
 ---
-title: "mamalama | Patromierz"
+title: Mama Lama | Patromierz
+
 permalink: /mamalama
 ---
 

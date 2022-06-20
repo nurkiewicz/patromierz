@@ -1,5 +1,6 @@
 ---
-title: "mistycyzmpopkulturowy | Patromierz"
+title: Mistycyzm Popkulturowy | Patromierz
+
 permalink: /mistycyzmpopkulturowy
 ---
 

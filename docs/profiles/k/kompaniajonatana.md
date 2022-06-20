@@ -1,5 +1,6 @@
 ---
-title: "kompaniajonatana | Patromierz"
+title: Kompania Jonatana | Patromierz
+
 permalink: /kompaniajonatana
 ---
 

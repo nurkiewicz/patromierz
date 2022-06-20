@@ -1,5 +1,6 @@
 ---
-title: "KonradJeremus | Patromierz"
+title: Konrad Jeremus | Patromierz
+
 permalink: /KonradJeremus
 ---
 

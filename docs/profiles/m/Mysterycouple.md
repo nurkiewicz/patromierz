@@ -1,5 +1,6 @@
 ---
-title: "Mysterycouple | Patromierz"
+title: Mystery Couple | Patromierz
+
 permalink: /Mysterycouple
 ---
 

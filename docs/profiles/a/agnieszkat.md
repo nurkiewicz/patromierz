@@ -1,5 +1,6 @@
 ---
-title: "agnieszkat | Patromierz"
+title: Agnieszka Styczna | Patromierz
+
 permalink: /agnieszkat
 ---
 

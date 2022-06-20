@@ -1,5 +1,6 @@
 ---
-title: "bloniaczyzynskie | Patromierz"
+title: "Stowarzyszenie B\u0142onia Czy\u017Cy\u0144skie | Patromierz"
+
 permalink: /bloniaczyzynskie
 ---
 

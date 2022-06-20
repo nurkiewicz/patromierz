@@ -1,5 +1,6 @@
 ---
-title: "Leszek-Korzeniecki | Patromierz"
+title: Leszek Korzeniecki | Patromierz
+
 permalink: /Leszek-Korzeniecki
 ---
 

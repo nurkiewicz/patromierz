@@ -1,5 +1,6 @@
 ---
-title: "RitaRaga | Patromierz"
+title: Rita Raga | Patromierz
+
 permalink: /RitaRaga
 ---
 

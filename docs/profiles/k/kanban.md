@@ -1,5 +1,6 @@
 ---
-title: "kanban | Patromierz"
+title: Kanban przy kawie | Patromierz
+
 permalink: /kanban
 ---
 

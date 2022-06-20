@@ -1,5 +1,6 @@
 ---
-title: "CzłowiekPoganin | Patromierz"
+title: Philip Flint | Patromierz
+
 permalink: /CzłowiekPoganin
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "onkomuzyk | Patromierz"
+title: Onkomuzyk | Patromierz
+
 permalink: /onkomuzyk
 ---
 

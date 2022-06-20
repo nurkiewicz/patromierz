@@ -1,5 +1,6 @@
 ---
-title: "martynajaloszynska | Patromierz"
+title: "Martyna Ja\u0142oszy\u0144ska | Patromierz"
+
 permalink: /martynajaloszynska
 ---
 

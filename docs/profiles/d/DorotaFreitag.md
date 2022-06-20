@@ -1,5 +1,6 @@
 ---
-title: "DorotaFreitag | Patromierz"
+title: Dorota Freitag | Patromierz
+
 permalink: /DorotaFreitag
 ---
 

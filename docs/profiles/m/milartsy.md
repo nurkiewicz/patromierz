@@ -1,5 +1,6 @@
 ---
-title: "milartsy | Patromierz"
+title: "Mila Starzy\u0144ska | Patromierz"
+
 permalink: /milartsy
 ---
 

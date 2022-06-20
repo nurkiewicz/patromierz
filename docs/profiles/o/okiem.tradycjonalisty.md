@@ -1,5 +1,6 @@
 ---
-title: "okiem.tradycjonalisty | Patromierz"
+title: Okiem Tradycjonalisty | Patromierz
+
 permalink: /okiem.tradycjonalisty
 ---
 

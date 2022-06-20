@@ -1,5 +1,6 @@
 ---
-title: "GameTrollTV | Patromierz"
+title: Game Troll | Patromierz
+
 permalink: /GameTrollTV
 ---
 

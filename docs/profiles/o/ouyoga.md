@@ -1,5 +1,6 @@
 ---
-title: "ouyoga | Patromierz"
+title: Ola Uruszczak - jogowsparcie | Patromierz
+
 permalink: /ouyoga
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "centrojestestwo | Patromierz"
+title: Centrojestestwo | Patromierz
+
 permalink: /centrojestestwo
 ---
 

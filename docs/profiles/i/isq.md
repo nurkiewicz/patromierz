@@ -1,5 +1,6 @@
 ---
-title: "isq | Patromierz"
+title: Internet Speedway Quiz | Patromierz
+
 permalink: /isq
 ---
 

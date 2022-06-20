@@ -1,5 +1,6 @@
 ---
-title: "u_janoszuk | Patromierz"
+title: Kreatywnie U Janoszuk | Patromierz
+
 permalink: /u_janoszuk
 ---
 

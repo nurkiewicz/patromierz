@@ -1,5 +1,6 @@
 ---
-title: "prostahistoria | Patromierz"
+title: Prosta Historia | Patromierz
+
 permalink: /prostahistoria
 ---
 

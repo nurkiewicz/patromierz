@@ -1,5 +1,6 @@
 ---
-title: "sonaryimapy | Patromierz"
+title: Sonary i mapy | Patromierz
+
 permalink: /sonaryimapy
 ---
 

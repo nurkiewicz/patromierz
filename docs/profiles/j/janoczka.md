@@ -1,5 +1,6 @@
 ---
-title: "janoczka | Patromierz"
+title: an_mari_now | Patromierz
+
 permalink: /janoczka
 ---
 

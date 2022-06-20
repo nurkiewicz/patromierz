@@ -1,5 +1,6 @@
 ---
-title: "bednarski-official | Patromierz"
+title: "Przemys\u0142aw Bednarski | Patromierz"
+
 permalink: /bednarski-official
 ---
 

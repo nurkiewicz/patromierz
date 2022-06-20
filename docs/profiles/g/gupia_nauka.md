@@ -1,5 +1,6 @@
 ---
-title: "gupia_nauka | Patromierz"
+title: Gupia Nauka | Patromierz
+
 permalink: /gupia_nauka
 ---
 

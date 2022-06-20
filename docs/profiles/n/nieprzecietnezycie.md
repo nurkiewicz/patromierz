@@ -1,5 +1,6 @@
 ---
-title: "nieprzecietnezycie | Patromierz"
+title: "Nieprzeci\u0119tne \u017Bycie | Patromierz"
+
 permalink: /nieprzecietnezycie
 ---
 

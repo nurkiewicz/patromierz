@@ -1,5 +1,6 @@
 ---
-title: "deepsesje | Patromierz"
+title: Deep Sesje  | Patromierz
+
 permalink: /deepsesje
 ---
 

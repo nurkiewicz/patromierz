@@ -1,5 +1,6 @@
 ---
-title: "wszczytowejformie | Patromierz"
+title: W Szczytowej Formie | Patromierz
+
 permalink: /wszczytowejformie
 ---
 

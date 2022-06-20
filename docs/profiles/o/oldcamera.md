@@ -1,5 +1,6 @@
 ---
-title: "oldcamera | Patromierz"
+title: OldCamera.pl | Patromierz
+
 permalink: /oldcamera
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "treeofwisdom | Patromierz"
+title: "Wied\u017Ama Kinga Oliwia Kujawa | Patromierz"
+
 permalink: /treeofwisdom
 ---
 

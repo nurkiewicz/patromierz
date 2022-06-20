@@ -1,5 +1,6 @@
 ---
-title: "mazurek-photographer | Patromierz"
+title: Mazurek Photographer | Patromierz
+
 permalink: /mazurek-photographer
 ---
 

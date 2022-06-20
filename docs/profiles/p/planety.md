@@ -1,5 +1,6 @@
 ---
-title: "planety | Patromierz"
+title: Planety | Patromierz
+
 permalink: /planety
 ---
 

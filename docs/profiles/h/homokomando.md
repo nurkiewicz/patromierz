@@ -1,5 +1,6 @@
 ---
-title: "homokomando | Patromierz"
+title: Homokomando | Patromierz
+
 permalink: /homokomando
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Rock-n-roll-baby | Patromierz"
+title: Rock n roll Baby | Patromierz
+
 permalink: /Rock-n-roll-baby
 ---
 

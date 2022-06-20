@@ -1,5 +1,6 @@
 ---
-title: "rlyehcafe | Patromierz"
+title: R'lyeh Cafe | Patromierz
+
 permalink: /rlyehcafe
 ---
 

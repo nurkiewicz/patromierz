@@ -1,5 +1,6 @@
 ---
-title: "ketokocur | Patromierz"
+title: KETOKOCUR | Patromierz
+
 permalink: /ketokocur
 ---
 

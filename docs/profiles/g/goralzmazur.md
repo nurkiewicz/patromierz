@@ -1,5 +1,6 @@
 ---
-title: "goralzmazur | Patromierz"
+title: "G\xF3ral z Mazur - Rafa\u0142 Kot | Patromierz"
+
 permalink: /goralzmazur
 ---
 

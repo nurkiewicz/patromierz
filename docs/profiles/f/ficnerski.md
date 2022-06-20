@@ -1,5 +1,6 @@
 ---
-title: "ficnerski | Patromierz"
+title: Victor Ficnerski | Patromierz
+
 permalink: /ficnerski
 ---
 

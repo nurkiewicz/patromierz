@@ -1,5 +1,6 @@
 ---
-title: "karoglazer | Patromierz"
+title: Karo Glazer | Patromierz
+
 permalink: /karoglazer
 ---
 

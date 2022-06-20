@@ -1,5 +1,6 @@
 ---
-title: "ralindel | Patromierz"
+title: ralindel | Patromierz
+
 permalink: /ralindel
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "akuma-inn | Patromierz"
+title: Akuma-Inn | Patromierz
+
 permalink: /akuma-inn
 ---
 

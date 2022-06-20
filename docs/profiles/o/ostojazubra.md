@@ -1,5 +1,6 @@
 ---
-title: "ostojazubra | Patromierz"
+title: "Ostoja \u017Bubra | Patromierz"
+
 permalink: /ostojazubra
 ---
 

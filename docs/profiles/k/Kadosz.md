@@ -1,5 +1,6 @@
 ---
-title: "Kadosz | Patromierz"
+title: Fundacja Kadosz Uwielbienie | Patromierz
+
 permalink: /Kadosz
 ---
 

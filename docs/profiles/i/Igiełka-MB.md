@@ -1,5 +1,6 @@
 ---
-title: "Igiełka-MB | Patromierz"
+title: "Igie\u0142ka-MB | Patromierz"
+
 permalink: /Igiełka-MB
 ---
 

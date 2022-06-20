@@ -1,5 +1,6 @@
 ---
-title: "staszek | Patromierz"
+title: Staszek iGRAszkowski | Patromierz
+
 permalink: /staszek
 ---
 

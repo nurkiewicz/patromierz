@@ -1,5 +1,6 @@
 ---
-title: "WojtekMistrzuje | Patromierz"
+title: Wojtek Mistrzuje | Patromierz
+
 permalink: /WojtekMistrzuje
 ---
 

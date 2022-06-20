@@ -1,5 +1,6 @@
 ---
-title: "Beata | Patromierz"
+title: Beata Niemyjska | Patromierz
+
 permalink: /Beata
 ---
 

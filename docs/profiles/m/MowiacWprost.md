@@ -1,5 +1,6 @@
 ---
-title: "MowiacWprost | Patromierz"
+title: "M\xF3wi\u0105c Wprost | Patromierz"
+
 permalink: /MowiacWprost
 ---
 

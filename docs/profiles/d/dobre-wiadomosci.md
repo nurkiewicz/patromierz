@@ -1,5 +1,6 @@
 ---
-title: "dobre-wiadomosci | Patromierz"
+title: "Dobre Wiadomo\u015Bci | Patromierz"
+
 permalink: /dobre-wiadomosci
 ---
 

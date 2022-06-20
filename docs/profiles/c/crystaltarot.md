@@ -1,5 +1,6 @@
 ---
-title: "crystaltarot | Patromierz"
+title: Crystal Tarot | Patromierz
+
 permalink: /crystaltarot
 ---
 

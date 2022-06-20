@@ -1,5 +1,6 @@
 ---
-title: "arturgalaktyka | Patromierz"
+title: Artur Galaktyka | Patromierz
+
 permalink: /arturgalaktyka
 ---
 

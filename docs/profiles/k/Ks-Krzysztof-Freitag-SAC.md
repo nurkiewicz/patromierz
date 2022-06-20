@@ -1,5 +1,6 @@
 ---
-title: "Ks-Krzysztof-Freitag-SAC | Patromierz"
+title: Krzysztof Freitag | Patromierz
+
 permalink: /Ks-Krzysztof-Freitag-SAC
 ---
 

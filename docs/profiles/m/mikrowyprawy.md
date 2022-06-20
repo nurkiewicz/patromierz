@@ -1,5 +1,6 @@
 ---
-title: "mikrowyprawy | Patromierz"
+title: Mikrowyprawy | Patromierz
+
 permalink: /mikrowyprawy
 ---
 

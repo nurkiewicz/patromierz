@@ -1,5 +1,6 @@
 ---
-title: "Marta | Patromierz"
+title: Marta Tarasiuk | Patromierz
+
 permalink: /Marta
 ---
 

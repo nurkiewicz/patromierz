@@ -1,5 +1,6 @@
 ---
-title: "spychu91 | Patromierz"
+title: Wojciech Spychalski | Patromierz
+
 permalink: /spychu91
 ---
 

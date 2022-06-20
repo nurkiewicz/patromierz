@@ -1,5 +1,6 @@
 ---
-title: "ianriderworkshop | Patromierz"
+title: Ian Rider Workshop | Patromierz
+
 permalink: /ianriderworkshop
 ---
 

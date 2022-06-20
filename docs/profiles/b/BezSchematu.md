@@ -1,5 +1,6 @@
 ---
-title: "BezSchematu | Patromierz"
+title: Bez/Schematu | Patromierz
+
 permalink: /BezSchematu
 ---
 

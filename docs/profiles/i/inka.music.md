@@ -1,5 +1,6 @@
 ---
-title: "inka.music | Patromierz"
+title: Inka | Patromierz
+
 permalink: /inka.music
 ---
 

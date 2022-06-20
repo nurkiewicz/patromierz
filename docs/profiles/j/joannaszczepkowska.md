@@ -1,5 +1,6 @@
 ---
-title: "joannaszczepkowska | Patromierz"
+title: Joanna Szczepkowska | Patromierz
+
 permalink: /joannaszczepkowska
 ---
 

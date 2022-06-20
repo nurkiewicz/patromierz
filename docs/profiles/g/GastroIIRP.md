@@ -1,5 +1,6 @@
 ---
-title: "GastroIIRP | Patromierz"
+title: Przedwojenne Restauracje, Bary i Hotele  | Patromierz
+
 permalink: /GastroIIRP
 ---
 

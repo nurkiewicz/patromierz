@@ -1,5 +1,6 @@
 ---
-title: "zwk | Patromierz"
+title: "Inicjatywa \"Zranieni w Ko\u015Bciele\" | Patromierz"
+
 permalink: /zwk
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "z-pogranicza | Patromierz"
+title: Regionalny Serwis Historyczny Z Pogranicza Krzysztof Kusiak | Patromierz
+
 permalink: /z-pogranicza
 ---
 

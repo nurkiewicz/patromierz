@@ -1,5 +1,6 @@
 ---
-title: "blimsien | Patromierz"
+title: Blimsien | Patromierz
+
 permalink: /blimsien
 ---
 

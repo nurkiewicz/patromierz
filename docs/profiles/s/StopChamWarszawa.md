@@ -1,5 +1,6 @@
 ---
-title: "StopChamWarszawa | Patromierz"
+title: Stop Cham Warszawa | Patromierz
+
 permalink: /StopChamWarszawa
 ---
 

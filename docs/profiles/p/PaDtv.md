@@ -1,5 +1,6 @@
 ---
-title: "PaDtv | Patromierz"
+title: PaDtv - PADcast | Patromierz
+
 permalink: /PaDtv
 ---
 

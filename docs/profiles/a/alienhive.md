@@ -1,5 +1,6 @@
 ---
-title: "alienhive | Patromierz"
+title: AlienHive.pl | Patromierz
+
 permalink: /alienhive
 ---
 

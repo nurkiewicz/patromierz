@@ -1,5 +1,6 @@
 ---
-title: "mariesomarie | Patromierz"
+title: Marie | Patromierz
+
 permalink: /mariesomarie
 ---
 

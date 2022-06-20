@@ -1,5 +1,6 @@
 ---
-title: "niewyparzonapudernica | Patromierz"
+title: Niewyparzona Pudernica | Patromierz
+
 permalink: /niewyparzonapudernica
 ---
 

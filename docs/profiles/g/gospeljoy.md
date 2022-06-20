@@ -1,5 +1,6 @@
 ---
-title: "gospeljoy | Patromierz"
+title: Gospel Joy | Patromierz
+
 permalink: /gospeljoy
 ---
 

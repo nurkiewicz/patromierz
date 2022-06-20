@@ -1,5 +1,6 @@
 ---
-title: "vincentvan | Patromierz"
+title: Vincent Van | Patromierz
+
 permalink: /vincentvan
 ---
 

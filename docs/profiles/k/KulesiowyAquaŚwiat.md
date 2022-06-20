@@ -1,5 +1,6 @@
 ---
-title: "KulesiowyAquaŚwiat | Patromierz"
+title: "Kulesiowy Aqua\u015Awiat | Patromierz"
+
 permalink: /KulesiowyAquaŚwiat
 ---
 

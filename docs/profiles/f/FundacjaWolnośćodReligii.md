@@ -1,5 +1,6 @@
 ---
-title: "FundacjaWolnośćodReligii | Patromierz"
+title: "Fundacja Wolno\u015B\u0107 od Religii | Patromierz"
+
 permalink: /FundacjaWolnośćodReligii
 ---
 

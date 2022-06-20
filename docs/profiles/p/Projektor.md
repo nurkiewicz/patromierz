@@ -1,5 +1,6 @@
 ---
-title: "Projektor | Patromierz"
+title: Magazyn Kulturalny "Projektor" | Patromierz
+
 permalink: /Projektor
 ---
 

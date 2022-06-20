@@ -1,5 +1,6 @@
 ---
-title: "IzabelaWolska | Patromierz"
+title: Izabela Wolska | Patromierz
+
 permalink: /IzabelaWolska
 ---
 

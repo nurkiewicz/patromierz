@@ -1,5 +1,6 @@
 ---
-title: "anna_jamrozek | Patromierz"
+title: Anna Jamrozek | Patromierz
+
 permalink: /anna_jamrozek
 ---
 

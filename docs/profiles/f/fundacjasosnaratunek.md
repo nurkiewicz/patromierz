@@ -1,5 +1,6 @@
 ---
-title: "fundacjasosnaratunek | Patromierz"
+title: Fundacja SOS - na Ratunek | Patromierz
+
 permalink: /fundacjasosnaratunek
 ---
 

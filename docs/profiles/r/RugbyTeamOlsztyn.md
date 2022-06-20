@@ -1,5 +1,6 @@
 ---
-title: "RugbyTeamOlsztyn | Patromierz"
+title: Rugby Team Olsztyn | Patromierz
+
 permalink: /RugbyTeamOlsztyn
 ---
 

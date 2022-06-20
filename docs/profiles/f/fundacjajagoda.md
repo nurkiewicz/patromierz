@@ -1,5 +1,6 @@
 ---
-title: "fundacjajagoda | Patromierz"
+title: Fundacja Jagoda im. Jagody Pachota | Patromierz
+
 permalink: /fundacjajagoda
 ---
 

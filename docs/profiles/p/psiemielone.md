@@ -1,5 +1,6 @@
 ---
-title: "psiemielone | Patromierz"
+title: Psiemielony podcast | Patromierz
+
 permalink: /psiemielone
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "magdalenadaniel | Patromierz"
+title: Magdalena Daniel | Patromierz
+
 permalink: /magdalenadaniel
 ---
 

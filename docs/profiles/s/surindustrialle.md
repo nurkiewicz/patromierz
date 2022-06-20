@@ -1,5 +1,6 @@
 ---
-title: "surindustrialle | Patromierz"
+title: Surindustrialle | Patromierz
+
 permalink: /surindustrialle
 ---
 

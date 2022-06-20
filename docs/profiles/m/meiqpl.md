@@ -1,5 +1,6 @@
 ---
-title: "meiqpl | Patromierz"
+title: MeiQ | Patromierz
+
 permalink: /meiqpl
 ---
 

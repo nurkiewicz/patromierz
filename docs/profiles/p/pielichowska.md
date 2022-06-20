@@ -1,5 +1,6 @@
 ---
-title: "pielichowska | Patromierz"
+title: Gosia Pielichowska | Patromierz
+
 permalink: /pielichowska
 ---
 

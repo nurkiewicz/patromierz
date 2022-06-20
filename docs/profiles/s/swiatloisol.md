@@ -1,5 +1,6 @@
 ---
-title: "swiatloisol | Patromierz"
+title: "Fundacja \u015Awiat\u0142o i S\xF3l | Patromierz"
+
 permalink: /swiatloisol
 ---
 

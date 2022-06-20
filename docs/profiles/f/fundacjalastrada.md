@@ -1,5 +1,6 @@
 ---
-title: "fundacjalastrada | Patromierz"
+title: Fundacja La Strada | Patromierz
+
 permalink: /fundacjalastrada
 ---
 

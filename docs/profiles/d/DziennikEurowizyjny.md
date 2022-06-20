@@ -1,5 +1,6 @@
 ---
-title: "DziennikEurowizyjny | Patromierz"
+title: "Maciej Tomasz B\u0142a\u017Cewicz | Patromierz"
+
 permalink: /DziennikEurowizyjny
 ---
 

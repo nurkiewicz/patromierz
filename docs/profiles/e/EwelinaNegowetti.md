@@ -1,5 +1,6 @@
 ---
-title: "EwelinaNegowetti | Patromierz"
+title: Ewelina Negowetti | Patromierz
+
 permalink: /EwelinaNegowetti
 ---
 

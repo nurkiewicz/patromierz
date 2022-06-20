@@ -1,5 +1,6 @@
 ---
-title: "24-7_warszawa | Patromierz"
+title: ' 24/7 Warszawa - Dom Modlitwy | Patromierz'
+
 permalink: /24-7_warszawa
 ---
 

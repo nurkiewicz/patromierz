@@ -1,5 +1,6 @@
 ---
-title: "podkastamerykanski | Patromierz"
+title: "Podkast ameryka\u0144ski | Patromierz"
+
 permalink: /podkastamerykanski
 ---
 

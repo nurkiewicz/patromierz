@@ -1,5 +1,6 @@
 ---
-title: "KataklizmyPLWR | Patromierz"
+title: "Kataklizmy w Polsce i na \u015Bwiecie | Patromierz"
+
 permalink: /KataklizmyPLWR
 ---
 

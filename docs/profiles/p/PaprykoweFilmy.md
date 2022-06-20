@@ -1,5 +1,6 @@
 ---
-title: "PaprykoweFilmy | Patromierz"
+title: Patryk Kotlewski | Patromierz
+
 permalink: /PaprykoweFilmy
 ---
 

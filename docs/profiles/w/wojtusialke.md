@@ -1,5 +1,6 @@
 ---
-title: "wojtusialke | Patromierz"
+title: Wojtusialke | Patromierz
+
 permalink: /wojtusialke
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "nienawiscpl | Patromierz"
+title: "Nienawi\u015B\u0107.pl | Patromierz"
+
 permalink: /nienawiscpl
 ---
 

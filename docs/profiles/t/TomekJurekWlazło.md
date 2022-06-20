@@ -1,5 +1,6 @@
 ---
-title: "TomekJurekWlazło | Patromierz"
+title: "Tomek Jurek Wlaz\u0142o | Patromierz"
+
 permalink: /TomekJurekWlazło
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "czasnakwas | Patromierz"
+title: Czas Na Kwas | Patromierz
+
 permalink: /czasnakwas
 ---
 

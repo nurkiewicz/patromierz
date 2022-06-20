@@ -1,5 +1,6 @@
 ---
-title: "Autoholicy | Patromierz"
+title: Autoholicy | Patromierz
+
 permalink: /Autoholicy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wiki | Patromierz"
+title: Wiktoria Prakapiec | Patromierz
+
 permalink: /wiki
 ---
 

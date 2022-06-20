@@ -1,5 +1,6 @@
 ---
-title: "badembassy | Patromierz"
+title: "Z\u0142a Ambasada  | Patromierz"
+
 permalink: /badembassy
 ---
 

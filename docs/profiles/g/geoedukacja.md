@@ -1,5 +1,6 @@
 ---
-title: "geoedukacja | Patromierz"
+title: GeoEdukacja | Patromierz
+
 permalink: /geoedukacja
 ---
 

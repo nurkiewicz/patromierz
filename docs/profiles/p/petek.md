@@ -1,5 +1,6 @@
 ---
-title: "petek | Patromierz"
+title: Krzysztof Petek | Patromierz
+
 permalink: /petek
 ---
 

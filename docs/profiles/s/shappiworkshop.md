@@ -1,5 +1,6 @@
 ---
-title: "shappiworkshop | Patromierz"
+title: Shappi Workshop | Patromierz
+
 permalink: /shappiworkshop
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "arturhome | Patromierz"
+title: ArturHome | Patromierz
+
 permalink: /arturhome
 ---
 

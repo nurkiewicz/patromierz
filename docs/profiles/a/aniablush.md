@@ -1,5 +1,6 @@
 ---
-title: "aniablush | Patromierz"
+title: Ania Blush | Patromierz
+
 permalink: /aniablush
 ---
 

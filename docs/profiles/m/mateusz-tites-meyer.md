@@ -1,5 +1,6 @@
 ---
-title: "mateusz-tites-meyer | Patromierz"
+title: "Mate\xF9sz Tit\xEBs Meyer | Patromierz"
+
 permalink: /mateusz-tites-meyer
 ---
 

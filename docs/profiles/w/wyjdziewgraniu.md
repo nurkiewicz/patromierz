@@ -1,5 +1,6 @@
 ---
-title: "wyjdziewgraniu | Patromierz"
+title: Wyjdzie w Graniu | Patromierz
+
 permalink: /wyjdziewgraniu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "krvavy | Patromierz"
+title: Krvavy | Patromierz
+
 permalink: /krvavy
 ---
 

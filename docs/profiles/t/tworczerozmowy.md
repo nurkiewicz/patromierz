@@ -1,5 +1,6 @@
 ---
-title: "tworczerozmowy | Patromierz"
+title: "Tw\xF3rcze Rozmowy | Patromierz"
+
 permalink: /tworczerozmowy
 ---
 

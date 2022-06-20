@@ -1,5 +1,6 @@
 ---
-title: "KAPITANLISOWSKI | Patromierz"
+title: "KAPITAN LISOWSKI \U0001F1F5\U0001F1F1 | Patromierz"
+
 permalink: /KAPITANLISOWSKI
 ---
 

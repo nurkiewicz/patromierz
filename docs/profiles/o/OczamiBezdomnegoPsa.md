@@ -1,5 +1,6 @@
 ---
-title: "OczamiBezdomnegoPsa | Patromierz"
+title: Oczami Bezdomnego Psa | Patromierz
+
 permalink: /OczamiBezdomnegoPsa
 ---
 

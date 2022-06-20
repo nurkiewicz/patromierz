@@ -1,5 +1,6 @@
 ---
-title: "GameDayPL | Patromierz"
+title: GameDay.pl | Patromierz
+
 permalink: /GameDayPL
 ---
 

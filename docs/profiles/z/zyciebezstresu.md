@@ -1,5 +1,6 @@
 ---
-title: "zyciebezstresu | Patromierz"
+title: "\u017Bycie Bez Stresu - Technika Uwalniania | Patromierz"
+
 permalink: /zyciebezstresu
 ---
 

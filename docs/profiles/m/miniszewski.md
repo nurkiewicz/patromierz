@@ -1,5 +1,6 @@
 ---
-title: "miniszewski | Patromierz"
+title: "Miros\u0142aw Miniszewski | Patromierz"
+
 permalink: /miniszewski
 ---
 

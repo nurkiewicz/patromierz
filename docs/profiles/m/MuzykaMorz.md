@@ -1,5 +1,6 @@
 ---
-title: "MuzykaMorz | Patromierz"
+title: "Marek Szurawski Muzyka M\xF3rz i Ocean\xF3w | Patromierz"
+
 permalink: /MuzykaMorz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "dobrapodroz | Patromierz"
+title: "Dobra Podr\xF3\u017C | Patromierz"
+
 permalink: /dobrapodroz
 ---
 

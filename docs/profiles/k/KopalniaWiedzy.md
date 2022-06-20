@@ -1,5 +1,6 @@
 ---
-title: "KopalniaWiedzy | Patromierz"
+title: KopalniaWiedzy.pl | Patromierz
+
 permalink: /KopalniaWiedzy
 ---
 

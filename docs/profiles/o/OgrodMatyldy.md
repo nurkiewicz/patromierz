@@ -1,5 +1,6 @@
 ---
-title: "OgrodMatyldy | Patromierz"
+title: "Ogr\xF3d Matyldy  | Patromierz"
+
 permalink: /OgrodMatyldy
 ---
 

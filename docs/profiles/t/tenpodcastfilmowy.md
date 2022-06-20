@@ -1,5 +1,6 @@
 ---
-title: "tenpodcastfilmowy | Patromierz"
+title: ten Podcast Filmowy  | Patromierz
+
 permalink: /tenpodcastfilmowy
 ---
 

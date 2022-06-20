@@ -1,5 +1,6 @@
 ---
-title: "perchprofessor | Patromierz"
+title: Perch Professor | Patromierz
+
 permalink: /perchprofessor
 ---
 

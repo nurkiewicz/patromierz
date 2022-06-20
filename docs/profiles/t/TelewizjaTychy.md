@@ -1,5 +1,6 @@
 ---
-title: "TelewizjaTychy | Patromierz"
+title: Telewizja Tychy | Patromierz
+
 permalink: /TelewizjaTychy
 ---
 

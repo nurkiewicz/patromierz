@@ -1,5 +1,6 @@
 ---
-title: "niebiblijny | Patromierz"
+title: Nie/biblijny | Patromierz
+
 permalink: /niebiblijny
 ---
 

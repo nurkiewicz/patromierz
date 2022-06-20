@@ -1,5 +1,6 @@
 ---
-title: "Basti | Patromierz"
+title: BASTI | Patromierz
+
 permalink: /Basti
 ---
 

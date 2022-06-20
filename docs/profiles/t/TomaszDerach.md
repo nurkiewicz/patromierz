@@ -1,5 +1,6 @@
 ---
-title: "TomaszDerach | Patromierz"
+title: Tomasz Derach | Patromierz
+
 permalink: /TomaszDerach
 ---
 

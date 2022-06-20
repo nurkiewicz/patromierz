@@ -1,5 +1,6 @@
 ---
-title: "adventurer | Patromierz"
+title: "ADVENTURER Kajetan Wilczy\u0144ski | Patromierz"
+
 permalink: /adventurer
 ---
 

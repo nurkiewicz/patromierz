@@ -1,5 +1,6 @@
 ---
-title: "christone-bartener | Patromierz"
+title: Christone Bartener | Patromierz
+
 permalink: /christone-bartener
 ---
 

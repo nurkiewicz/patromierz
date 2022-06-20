@@ -1,5 +1,6 @@
 ---
-title: "brwinowskie-stowarzyszenie | Patromierz"
+title: Stowarzyszenie Koty Prezesowej  | Patromierz
+
 permalink: /brwinowskie-stowarzyszenie
 ---
 

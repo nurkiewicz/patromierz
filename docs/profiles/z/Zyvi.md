@@ -1,5 +1,6 @@
 ---
-title: "Zyvi | Patromierz"
+title: "Fundacj\u0105 \u017Byvi oraz inicjatywa FreeShop Partyzanka | Patromierz"
+
 permalink: /Zyvi
 ---
 

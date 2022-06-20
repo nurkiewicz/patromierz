@@ -1,5 +1,6 @@
 ---
-title: "arte-educare.pl | Patromierz"
+title: "Arte Educare im. Micha\u0142a Archanio\u0142a | Patromierz"
+
 permalink: /arte-educare.pl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wehaveenoughpl | Patromierz"
+title: WE HAVE ENOUGH | Patromierz
+
 permalink: /wehaveenoughpl
 ---
 

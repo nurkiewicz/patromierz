@@ -1,5 +1,6 @@
 ---
-title: "bushcraftowy | Patromierz"
+title: Bushcraftowy | Patromierz
+
 permalink: /bushcraftowy
 ---
 

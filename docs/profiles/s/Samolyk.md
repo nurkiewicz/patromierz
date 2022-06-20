@@ -1,5 +1,6 @@
 ---
-title: "Samolyk | Patromierz"
+title: "Tomasz Samo\u0142yk | Patromierz"
+
 permalink: /Samolyk
 ---
 

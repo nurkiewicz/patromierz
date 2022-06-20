@@ -1,5 +1,6 @@
 ---
-title: "maszynista-eu | Patromierz"
+title: Maszynista.eu | Patromierz
+
 permalink: /maszynista-eu
 ---
 

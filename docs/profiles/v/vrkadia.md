@@ -1,5 +1,6 @@
 ---
-title: "vrkadia | Patromierz"
+title: VRkadia Polska | Patromierz
+
 permalink: /vrkadia
 ---
 

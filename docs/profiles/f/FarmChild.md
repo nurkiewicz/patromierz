@@ -1,5 +1,6 @@
 ---
-title: "FarmChild | Patromierz"
+title: Farm Child  | Patromierz
+
 permalink: /FarmChild
 ---
 

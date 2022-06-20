@@ -1,5 +1,6 @@
 ---
-title: "MagdalenaPodcasterka | Patromierz"
+title: Magdalena Popielarczyk | Patromierz
+
 permalink: /MagdalenaPodcasterka
 ---
 

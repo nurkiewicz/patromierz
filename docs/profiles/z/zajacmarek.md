@@ -1,5 +1,6 @@
 ---
-title: "zajacmarek | Patromierz"
+title: "Marek Zaj\u0105c (Codewin) | Patromierz"
+
 permalink: /zajacmarek
 ---
 

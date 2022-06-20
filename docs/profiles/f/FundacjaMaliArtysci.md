@@ -1,5 +1,6 @@
 ---
-title: "FundacjaMaliArtysci | Patromierz"
+title: "Fundacja Mali Arty\u015Bci | Patromierz"
+
 permalink: /FundacjaMaliArtysci
 ---
 

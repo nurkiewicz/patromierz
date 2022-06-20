@@ -1,5 +1,6 @@
 ---
-title: "neuropa | Patromierz"
+title: Neuropa | Patromierz
+
 permalink: /neuropa
 ---
 

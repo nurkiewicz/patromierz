@@ -1,5 +1,6 @@
 ---
-title: "koninmamprawowiedziec | Patromierz"
+title: "Konin. Mam Prawo Wiedzie\u0107 | Patromierz"
+
 permalink: /koninmamprawowiedziec
 ---
 

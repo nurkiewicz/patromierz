@@ -1,5 +1,6 @@
 ---
-title: "DobreMedia | Patromierz"
+title: Fundacja "Dobre Media" | Patromierz
+
 permalink: /DobreMedia
 ---
 

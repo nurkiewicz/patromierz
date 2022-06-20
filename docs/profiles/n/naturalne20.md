@@ -1,5 +1,6 @@
 ---
-title: "naturalne20 | Patromierz"
+title: Naturalne 20 | Patromierz
+
 permalink: /naturalne20
 ---
 

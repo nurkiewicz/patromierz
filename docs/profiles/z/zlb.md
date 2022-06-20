@@ -1,5 +1,6 @@
 ---
-title: "zlb | Patromierz"
+title: "Zachodniopomorscy \u0141owcy Burz | Patromierz"
+
 permalink: /zlb
 ---
 

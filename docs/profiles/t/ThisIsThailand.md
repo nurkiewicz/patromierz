@@ -1,5 +1,6 @@
 ---
-title: "ThisIsThailand | Patromierz"
+title: This is Thailand - rodzinka w Tajlandii  | Patromierz
+
 permalink: /ThisIsThailand
 ---
 

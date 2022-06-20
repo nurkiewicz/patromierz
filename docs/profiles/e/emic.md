@@ -1,5 +1,6 @@
 ---
-title: "emic | Patromierz"
+title: Fundacja Emic | Patromierz
+
 permalink: /emic
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "vintagelife | Patromierz"
+title: Vintage Life | Patromierz
+
 permalink: /vintagelife
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "nadia_la_chiquetita | Patromierz"
+title: Nadia La Chiquetita | Patromierz
+
 permalink: /nadia_la_chiquetita
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "historiawdrodze | Patromierz"
+title: Historia w Drodze | Patromierz
+
 permalink: /historiawdrodze
 ---
 

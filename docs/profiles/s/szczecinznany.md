@@ -1,5 +1,6 @@
 ---
-title: "szczecinznany | Patromierz"
+title: Szczecin znany i historyczny | Patromierz
+
 permalink: /szczecinznany
 ---
 

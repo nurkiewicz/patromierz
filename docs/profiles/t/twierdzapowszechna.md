@@ -1,5 +1,6 @@
 ---
-title: "twierdzapowszechna | Patromierz"
+title: Twierdza Powszechna | Patromierz
+
 permalink: /twierdzapowszechna
 ---
 

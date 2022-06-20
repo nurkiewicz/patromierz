@@ -1,5 +1,6 @@
 ---
-title: "inthecagepl | Patromierz"
+title: InTheCage.pl | Patromierz
+
 permalink: /inthecagepl
 ---
 

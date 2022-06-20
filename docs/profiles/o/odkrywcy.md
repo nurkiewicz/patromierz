@@ -1,5 +1,6 @@
 ---
-title: "odkrywcy | Patromierz"
+title: Odkrywcy Miasta | Patromierz
+
 permalink: /odkrywcy
 ---
 

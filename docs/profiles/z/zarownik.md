@@ -1,5 +1,6 @@
 ---
-title: "zarownik | Patromierz"
+title: "ZAR\xD3WNIK | Patromierz"
+
 permalink: /zarownik
 ---
 

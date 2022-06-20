@@ -1,5 +1,6 @@
 ---
-title: "Kotozbik | Patromierz"
+title: "Koto\u017Cbik | Patromierz"
+
 permalink: /Kotozbik
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "podrozodbyta | Patromierz"
+title: "Podr\xF3\u017C Odbyta | Patromierz"
+
 permalink: /podrozodbyta
 ---
 

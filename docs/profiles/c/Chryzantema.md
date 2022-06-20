@@ -1,5 +1,6 @@
 ---
-title: "Chryzantema | Patromierz"
+title: W Kraju Chryzantemy - Historia Japonii | Patromierz
+
 permalink: /Chryzantema
 ---
 

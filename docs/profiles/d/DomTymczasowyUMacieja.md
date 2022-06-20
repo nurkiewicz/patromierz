@@ -1,5 +1,6 @@
 ---
-title: "DomTymczasowyUMacieja | Patromierz"
+title: Dom tymczasowy u Macieja | Patromierz
+
 permalink: /DomTymczasowyUMacieja
 ---
 

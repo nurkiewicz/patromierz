@@ -1,5 +1,6 @@
 ---
-title: "urbexpkr | Patromierz"
+title: Urbex PKR | Patromierz
+
 permalink: /urbexpkr
 ---
 

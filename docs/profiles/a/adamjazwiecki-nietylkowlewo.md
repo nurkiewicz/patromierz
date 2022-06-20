@@ -1,5 +1,6 @@
 ---
-title: "adamjazwiecki-nietylkowlewo | Patromierz"
+title: ADAM JAZWIECKI | Patromierz
+
 permalink: /adamjazwiecki-nietylkowlewo
 ---
 

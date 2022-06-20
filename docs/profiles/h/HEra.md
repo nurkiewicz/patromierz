@@ -1,5 +1,6 @@
 ---
-title: "HEra | Patromierz"
+title: Karolina Strzelczyk-Weichert ( HEra) | Patromierz
+
 permalink: /HEra
 ---
 

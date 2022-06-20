@@ -1,5 +1,6 @@
 ---
-title: "marekczyz | Patromierz"
+title: "Marek Czy\u017C | Patromierz"
+
 permalink: /marekczyz
 ---
 

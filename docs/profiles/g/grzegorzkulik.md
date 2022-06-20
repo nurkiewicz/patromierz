@@ -1,5 +1,6 @@
 ---
-title: "grzegorzkulik | Patromierz"
+title: Grzegorz Kulik | Patromierz
+
 permalink: /grzegorzkulik
 ---
 

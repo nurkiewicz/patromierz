@@ -1,5 +1,6 @@
 ---
-title: "spanko_w_plynie | Patromierz"
+title: "Spanko w P\u0142ynie | Patromierz"
+
 permalink: /spanko_w_plynie
 ---
 

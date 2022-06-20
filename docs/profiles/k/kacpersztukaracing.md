@@ -1,5 +1,6 @@
 ---
-title: "kacpersztukaracing | Patromierz"
+title: Kacper Sztuka Racing | Patromierz
+
 permalink: /kacpersztukaracing
 ---
 

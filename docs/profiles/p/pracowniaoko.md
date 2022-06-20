@@ -1,5 +1,6 @@
 ---
-title: "pracowniaoko | Patromierz"
+title: PRACOWNIA OKO | Patromierz
+
 permalink: /pracowniaoko
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "odf | Patromierz"
+title: Fundacja Otwarty Dialog | Patromierz
+
 permalink: /odf
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "rotflpg | Patromierz"
+title: Rotfl Playing Games - RPGowy komiks internetowy | Patromierz
+
 permalink: /rotflpg
 ---
 

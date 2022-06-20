@@ -1,5 +1,6 @@
 ---
-title: "namyslowska.pl | Patromierz"
+title: "Namys\u0142owska.pl | Patromierz"
+
 permalink: /namyslowska.pl
 ---
 

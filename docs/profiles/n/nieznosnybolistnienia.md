@@ -1,5 +1,6 @@
 ---
-title: "nieznosnybolistnienia | Patromierz"
+title: "Niezno\u015Bny B\xF3l Istnienia | Patromierz"
+
 permalink: /nieznosnybolistnienia
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "modlitwawdrodze | Patromierz"
+title: Modlitwa w drodze | Patromierz
+
 permalink: /modlitwawdrodze
 ---
 

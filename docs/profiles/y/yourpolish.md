@@ -1,5 +1,6 @@
 ---
-title: "yourpolish | Patromierz"
+title: Michalina Furmaniak | Patromierz
+
 permalink: /yourpolish
 ---
 

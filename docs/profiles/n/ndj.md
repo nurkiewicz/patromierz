@@ -1,5 +1,6 @@
 ---
-title: "ndj | Patromierz"
+title: "Nale\u017Ce\u0107 do Jezusa | Patromierz"
+
 permalink: /ndj
 ---
 

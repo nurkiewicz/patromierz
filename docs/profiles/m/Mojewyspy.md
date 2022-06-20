@@ -1,5 +1,6 @@
 ---
-title: "Mojewyspy | Patromierz"
+title: Moje wyspy | Patromierz
+
 permalink: /Mojewyspy
 ---
 

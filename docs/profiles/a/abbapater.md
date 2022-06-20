@@ -1,5 +1,6 @@
 ---
-title: "abbapater | Patromierz"
+title: Fundacja Abba Pater | Patromierz
+
 permalink: /abbapater
 ---
 

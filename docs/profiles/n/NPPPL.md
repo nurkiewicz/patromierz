@@ -1,5 +1,6 @@
 ---
-title: "NPPPL | Patromierz"
+title: Najlepsze Polskie Podcasty | Patromierz
+
 permalink: /NPPPL
 ---
 

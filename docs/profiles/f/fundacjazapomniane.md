@@ -1,5 +1,6 @@
 ---
-title: "fundacjazapomniane | Patromierz"
+title: Fundacja Zapomniane | Patromierz
+
 permalink: /fundacjazapomniane
 ---
 

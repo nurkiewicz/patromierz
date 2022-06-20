@@ -1,5 +1,6 @@
 ---
-title: "ksol | Patromierz"
+title: "Kilka s\u0142\xF3w o Legii | Patromierz"
+
 permalink: /ksol
 ---
 

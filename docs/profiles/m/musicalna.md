@@ -1,5 +1,6 @@
 ---
-title: "musicalna | Patromierz"
+title: Musicalna | Patromierz
+
 permalink: /musicalna
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Kalinowski | Patromierz"
+title: Sylwester Kalinowski | Patromierz
+
 permalink: /Kalinowski
 ---
 

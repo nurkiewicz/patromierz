@@ -1,5 +1,6 @@
 ---
-title: "smoczamarta | Patromierz"
+title: Marta Kurek | Patromierz
+
 permalink: /smoczamarta
 ---
 

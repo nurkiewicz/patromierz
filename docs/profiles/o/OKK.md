@@ -1,5 +1,6 @@
 ---
-title: "OKK | Patromierz"
+title: Otwocki Kalendarz Kulturalny | Patromierz
+
 permalink: /OKK
 ---
 

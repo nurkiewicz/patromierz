@@ -1,5 +1,6 @@
 ---
-title: "hirekwrona | Patromierz"
+title: Hirek Wrona | Patromierz
+
 permalink: /hirekwrona
 ---
 

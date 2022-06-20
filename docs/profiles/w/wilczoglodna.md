@@ -1,5 +1,6 @@
 ---
-title: "wilczoglodna | Patromierz"
+title: "Wilczo G\u0142odna | Patromierz"
+
 permalink: /wilczoglodna
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "muzeumpc | Patromierz"
+title: "Muzeum Komputer\xF3w Osobistych | Patromierz"
+
 permalink: /muzeumpc
 ---
 

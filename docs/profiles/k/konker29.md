@@ -1,5 +1,6 @@
 ---
-title: "konker29 | Patromierz"
+title: Damian Konstanty | Patromierz
+
 permalink: /konker29
 ---
 

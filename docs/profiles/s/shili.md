@@ -1,5 +1,6 @@
 ---
-title: "shili | Patromierz"
+title: shili | Patromierz
+
 permalink: /shili
 ---
 

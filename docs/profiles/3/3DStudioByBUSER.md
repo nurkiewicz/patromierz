@@ -1,5 +1,6 @@
 ---
-title: "3DStudioByBUSER | Patromierz"
+title: 3D Studio by Buser | Patromierz
+
 permalink: /3DStudioByBUSER
 ---
 

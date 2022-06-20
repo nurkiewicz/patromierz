@@ -1,5 +1,6 @@
 ---
-title: "fundacjapagi | Patromierz"
+title: Fundacja Pagi | Patromierz
+
 permalink: /fundacjapagi
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "wilczyca_byc | Patromierz"
+title: "Wilczyc\u0105 By\u0107 | Patromierz"
+
 permalink: /wilczyca_byc
 ---
 

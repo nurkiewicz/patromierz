@@ -1,5 +1,6 @@
 ---
-title: "RzeczJasna | Patromierz"
+title: Telewizja RzeczJasna | Patromierz
+
 permalink: /RzeczJasna
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "TomaszSlowinskiUSA | Patromierz"
+title: Tomasz Slowinski USA | Patromierz
+
 permalink: /TomaszSlowinskiUSA
 ---
 

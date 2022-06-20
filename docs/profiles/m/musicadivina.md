@@ -1,5 +1,6 @@
 ---
-title: "musicadivina | Patromierz"
+title: Festiwal Musica Divina | Patromierz
+
 permalink: /musicadivina
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "razer | Patromierz"
+title: Razer | Patromierz
+
 permalink: /razer
 ---
 

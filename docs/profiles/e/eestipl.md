@@ -1,5 +1,6 @@
 ---
-title: "eestipl | Patromierz"
+title: "Portal esto\u0144ski - Eesti.pl | Patromierz"
+
 permalink: /eestipl
 ---
 

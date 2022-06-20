@@ -1,5 +1,6 @@
 ---
-title: "ProjektPracownie | Patromierz"
+title: Projekt Pracownie | Patromierz
+
 permalink: /ProjektPracownie
 ---
 

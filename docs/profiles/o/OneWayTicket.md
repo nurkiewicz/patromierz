@@ -1,5 +1,6 @@
 ---
-title: "OneWayTicket | Patromierz"
+title: One Way Ticket | Patromierz
+
 permalink: /OneWayTicket
 ---
 

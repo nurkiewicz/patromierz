@@ -1,5 +1,6 @@
 ---
-title: "smocza.mama | Patromierz"
+title: Smocza Mama | Patromierz
+
 permalink: /smocza.mama
 ---
 

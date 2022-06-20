@@ -1,5 +1,6 @@
 ---
-title: "MuzeumSkarbNarodu | Patromierz"
+title: Muzeum Skarb Narodu | Patromierz
+
 permalink: /MuzeumSkarbNarodu
 ---
 

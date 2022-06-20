@@ -1,5 +1,6 @@
 ---
-title: "kolektywkult | Patromierz"
+title: Kolektyw Kult | Patromierz
+
 permalink: /kolektywkult
 ---
 

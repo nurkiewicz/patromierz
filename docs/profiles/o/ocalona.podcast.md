@@ -1,5 +1,6 @@
 ---
-title: "ocalona.podcast | Patromierz"
+title: Ocalona Podcast | Patromierz
+
 permalink: /ocalona.podcast
 ---
 

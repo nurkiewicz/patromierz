@@ -1,5 +1,6 @@
 ---
-title: "MarcinBzyk | Patromierz"
+title: Marcin Bzyk | Patromierz
+
 permalink: /MarcinBzyk
 ---
 

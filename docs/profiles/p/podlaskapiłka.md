@@ -1,5 +1,6 @@
 ---
-title: "podlaskapiłka | Patromierz"
+title: "Podlaska pi\u0142ka | Patromierz"
+
 permalink: /podlaskapiłka
 ---
 

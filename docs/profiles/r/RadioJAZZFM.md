@@ -1,5 +1,6 @@
 ---
-title: "RadioJAZZFM | Patromierz"
+title: RadioJAZZ.FM   | Patromierz
+
 permalink: /RadioJAZZFM
 ---
 

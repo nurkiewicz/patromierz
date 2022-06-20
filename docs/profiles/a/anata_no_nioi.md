@@ -1,5 +1,6 @@
 ---
-title: "anata_no_nioi | Patromierz"
+title: Anata no nioi | Patromierz
+
 permalink: /anata_no_nioi
 ---
 

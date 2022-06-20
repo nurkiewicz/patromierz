@@ -1,5 +1,6 @@
 ---
-title: "niemczuk | Patromierz"
+title: Grzegorz Niemczuk | Patromierz
+
 permalink: /niemczuk
 ---
 

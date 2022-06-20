@@ -1,5 +1,6 @@
 ---
-title: "mariannaswiecie | Patromierz"
+title: "Marian na \u015Awiecie | Patromierz"
+
 permalink: /mariannaswiecie
 ---
 

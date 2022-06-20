@@ -1,5 +1,6 @@
 ---
-title: "pgprgryf | Patromierz"
+title: Pomorska Grupa Poszukiwawczo-Ratownicza GRYF | Patromierz
+
 permalink: /pgprgryf
 ---
 

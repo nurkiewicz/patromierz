@@ -1,5 +1,6 @@
 ---
-title: "TubaOstrowa | Patromierz"
+title: Tuba Ostrowa | Patromierz
+
 permalink: /TubaOstrowa
 ---
 

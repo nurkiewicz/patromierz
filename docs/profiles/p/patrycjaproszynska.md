@@ -1,5 +1,6 @@
 ---
-title: "patrycjaproszynska | Patromierz"
+title: "Patrycja Pr\xF3szy\u0144ska | Patromierz"
+
 permalink: /patrycjaproszynska
 ---
 

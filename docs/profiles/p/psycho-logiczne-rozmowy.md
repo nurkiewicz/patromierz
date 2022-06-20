@@ -1,5 +1,6 @@
 ---
-title: "psycho-logiczne-rozmowy | Patromierz"
+title: Psycho-logiczne rozmowy | Patromierz
+
 permalink: /psycho-logiczne-rozmowy
 ---
 

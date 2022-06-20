@@ -1,5 +1,6 @@
 ---
-title: "annamaruszeczko | Patromierz"
+title: Anna Maruszeczko | Patromierz
+
 permalink: /annamaruszeczko
 ---
 

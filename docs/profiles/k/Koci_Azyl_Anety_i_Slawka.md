@@ -1,5 +1,6 @@
 ---
-title: "Koci_Azyl_Anety_i_Slawka | Patromierz"
+title: "Koci Azyl Anety i S\u0142awka | Patromierz"
+
 permalink: /Koci_Azyl_Anety_i_Slawka
 ---
 

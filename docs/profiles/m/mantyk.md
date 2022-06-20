@@ -1,5 +1,6 @@
 ---
-title: "mantyk | Patromierz"
+title: "Od s\u0142owa do S\u0142owa - br. Tomasz Mantyk | Patromierz"
+
 permalink: /mantyk
 ---
 

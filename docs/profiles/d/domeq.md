@@ -1,5 +1,6 @@
 ---
-title: "domeq | Patromierz"
+title: "DOM EQ - Krakowskie Centrum R\xF3wno\u015Bci | Patromierz"
+
 permalink: /domeq
 ---
 

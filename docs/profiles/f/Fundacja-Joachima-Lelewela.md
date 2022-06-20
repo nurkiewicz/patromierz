@@ -1,5 +1,6 @@
 ---
-title: "Fundacja-Joachima-Lelewela | Patromierz"
+title: Fundacja Joachima lelewela | Patromierz
+
 permalink: /Fundacja-Joachima-Lelewela
 ---
 

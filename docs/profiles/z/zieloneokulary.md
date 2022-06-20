@@ -1,5 +1,6 @@
 ---
-title: "zieloneokulary | Patromierz"
+title: Zielone Okulary | Patromierz
+
 permalink: /zieloneokulary
 ---
 

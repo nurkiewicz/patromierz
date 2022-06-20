@@ -1,5 +1,6 @@
 ---
-title: "gemelapoznanska | Patromierz"
+title: "Gemela pozna\u0144ska | Patromierz"
+
 permalink: /gemelapoznanska
 ---
 

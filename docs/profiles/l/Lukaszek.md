@@ -1,5 +1,6 @@
 ---
-title: "Lukaszek | Patromierz"
+title: "\u0141ukasz \"Kr\xF3l\" Spoci\u0144ski | Patromierz"
+
 permalink: /Lukaszek
 ---
 

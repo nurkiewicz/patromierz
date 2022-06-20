@@ -1,5 +1,6 @@
 ---
-title: "surreaktor | Patromierz"
+title: Surreaktor | Patromierz
+
 permalink: /surreaktor
 ---
 

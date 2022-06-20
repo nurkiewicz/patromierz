@@ -1,5 +1,6 @@
 ---
-title: "psydajaglos | Patromierz"
+title: "Psy Daj\u0105 G\u0142os | Patromierz"
+
 permalink: /psydajaglos
 ---
 

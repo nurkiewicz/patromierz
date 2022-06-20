@@ -1,5 +1,6 @@
 ---
-title: "wgbdogworld | Patromierz"
+title: WGB DOG WORLD | Patromierz
+
 permalink: /wgbdogworld
 ---
 

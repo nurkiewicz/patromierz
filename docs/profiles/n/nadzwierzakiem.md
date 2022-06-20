@@ -1,5 +1,6 @@
 ---
-title: "nadzwierzakiem | Patromierz"
+title: Nad Zwierzakiem | Patromierz
+
 permalink: /nadzwierzakiem
 ---
 

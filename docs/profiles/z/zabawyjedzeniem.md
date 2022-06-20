@@ -1,5 +1,6 @@
 ---
-title: "zabawyjedzeniem | Patromierz"
+title: Zabawy Jedzeniem | Patromierz
+
 permalink: /zabawyjedzeniem
 ---
 

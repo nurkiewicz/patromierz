@@ -1,5 +1,6 @@
 ---
-title: "kultura-na-czasie-blog | Patromierz"
+title: Kultura na Czasie blog | Patromierz
+
 permalink: /kultura-na-czasie-blog
 ---
 

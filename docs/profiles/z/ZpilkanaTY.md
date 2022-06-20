@@ -1,5 +1,6 @@
 ---
-title: "ZpilkanaTY | Patromierz"
+title: "Z pi\u0142k\u0105 na Ty | Patromierz"
+
 permalink: /ZpilkanaTY
 ---
 

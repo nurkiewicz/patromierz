@@ -1,5 +1,6 @@
 ---
-title: "AlphaPolska | Patromierz"
+title: Alpha Polska | Patromierz
+
 permalink: /AlphaPolska
 ---
 

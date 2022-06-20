@@ -1,5 +1,6 @@
 ---
-title: "tapicerwakcji | Patromierz"
+title: "Aleksander K\u0105dziela  | Patromierz"
+
 permalink: /tapicerwakcji
 ---
 

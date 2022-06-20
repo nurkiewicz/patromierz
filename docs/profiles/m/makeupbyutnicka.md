@@ -1,5 +1,6 @@
 ---
-title: "makeupbyutnicka | Patromierz"
+title: Make Up By Utnicka | Patromierz
+
 permalink: /makeupbyutnicka
 ---
 

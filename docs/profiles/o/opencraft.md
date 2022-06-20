@@ -1,5 +1,6 @@
 ---
-title: "opencraft | Patromierz"
+title: openCraft.pl | Patromierz
+
 permalink: /opencraft
 ---
 

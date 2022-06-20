@@ -1,5 +1,6 @@
 ---
-title: "w_moim_obiektywie | Patromierz"
+title: Jan Szurek | Patromierz
+
 permalink: /w_moim_obiektywie
 ---
 

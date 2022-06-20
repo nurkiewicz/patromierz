@@ -1,5 +1,6 @@
 ---
-title: "maurycypolaski | Patromierz"
+title: Maurycy Polaski | Patromierz
+
 permalink: /maurycypolaski
 ---
 

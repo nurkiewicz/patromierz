@@ -1,5 +1,6 @@
 ---
-title: "idealistka | Patromierz"
+title: Idea Listka | Patromierz
+
 permalink: /idealistka
 ---
 

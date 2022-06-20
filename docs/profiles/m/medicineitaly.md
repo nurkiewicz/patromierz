@@ -1,5 +1,6 @@
 ---
-title: "medicineitaly | Patromierz"
+title: Anna Cykowska | Patromierz
+
 permalink: /medicineitaly
 ---
 

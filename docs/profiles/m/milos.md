@@ -1,5 +1,6 @@
 ---
-title: "milos | Patromierz"
+title: Milos | Patromierz
+
 permalink: /milos
 ---
 

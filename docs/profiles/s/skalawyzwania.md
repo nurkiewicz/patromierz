@@ -1,5 +1,6 @@
 ---
-title: "skalawyzwania | Patromierz"
+title: Skala Wyzwania | Patromierz
+
 permalink: /skalawyzwania
 ---
 

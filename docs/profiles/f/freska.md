@@ -1,5 +1,6 @@
 ---
-title: "freska | Patromierz"
+title: Freska | Patromierz
+
 permalink: /freska
 ---
 

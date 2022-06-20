@@ -1,5 +1,6 @@
 ---
-title: "syrenkaCX | Patromierz"
+title: Syrenka CX - Cyclocross Warszawa | Patromierz
+
 permalink: /syrenkaCX
 ---
 

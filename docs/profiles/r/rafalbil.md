@@ -1,5 +1,6 @@
 ---
-title: "rafalbil | Patromierz"
+title: "Rafa\u0142 Bil | Patromierz"
+
 permalink: /rafalbil
 ---
 

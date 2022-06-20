@@ -1,5 +1,6 @@
 ---
-title: "hadzbe | Patromierz"
+title: Hadzbe | Patromierz
+
 permalink: /hadzbe
 ---
 

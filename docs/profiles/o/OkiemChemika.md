@@ -1,5 +1,6 @@
 ---
-title: "OkiemChemika | Patromierz"
+title: Okiem Chemika | Patromierz
+
 permalink: /OkiemChemika
 ---
 

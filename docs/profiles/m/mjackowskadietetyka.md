@@ -1,5 +1,6 @@
 ---
-title: "mjackowskadietetyka | Patromierz"
+title: "Ma\u0142gorzata Jackowska - dietetyka dla mam i dzieci | Patromierz"
+
 permalink: /mjackowskadietetyka
 ---
 

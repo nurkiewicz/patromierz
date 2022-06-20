@@ -1,5 +1,6 @@
 ---
-title: "egzoovet | Patromierz"
+title: Egzoovet | Patromierz
+
 permalink: /egzoovet
 ---
 

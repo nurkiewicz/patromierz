@@ -1,5 +1,6 @@
 ---
-title: "carQ | Patromierz"
+title: "carQ.pl  Auto z histori\u0105 & historia auta | Patromierz"
+
 permalink: /carQ
 ---
 

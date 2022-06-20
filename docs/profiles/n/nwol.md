@@ -1,5 +1,6 @@
 ---
-title: "nwol | Patromierz"
+title: Hubert Dudek | Patromierz
+
 permalink: /nwol
 ---
 

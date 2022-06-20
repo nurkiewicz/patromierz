@@ -1,5 +1,6 @@
 ---
-title: "inwestowanie20 | Patromierz"
+title: INWESTOWANIE 2.0 | Patromierz
+
 permalink: /inwestowanie20
 ---
 

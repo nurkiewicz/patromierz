@@ -1,5 +1,6 @@
 ---
-title: "Fundacja-Wlaczeni | Patromierz"
+title: "Fundacja W\u0142\u0105czeni | Patromierz"
+
 permalink: /Fundacja-Wlaczeni
 ---
 

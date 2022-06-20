@@ -1,5 +1,6 @@
 ---
-title: "mocwsłabości | Patromierz"
+title: "Przemys\u0142aw Janiszewski | Patromierz"
+
 permalink: /mocwsłabości
 ---
 

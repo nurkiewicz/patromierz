@@ -1,5 +1,6 @@
 ---
-title: "kryminalnaskandynawia | Patromierz"
+title: Kryminalna Skandynawia Podcast | Patromierz
+
 permalink: /kryminalnaskandynawia
 ---
 

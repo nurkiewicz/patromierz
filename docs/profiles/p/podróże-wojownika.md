@@ -1,5 +1,6 @@
 ---
-title: "podróże-wojownika | Patromierz"
+title: "Podr\xF3\u017Ce Wojownika | Patromierz"
+
 permalink: /podróże-wojownika
 ---
 

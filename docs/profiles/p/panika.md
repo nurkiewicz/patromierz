@@ -1,5 +1,6 @@
 ---
-title: "panika | Patromierz"
+title: Pani Ka | Patromierz
+
 permalink: /panika
 ---
 

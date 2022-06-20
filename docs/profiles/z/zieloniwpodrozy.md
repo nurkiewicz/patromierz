@@ -1,5 +1,6 @@
 ---
-title: "zieloniwpodrozy | Patromierz"
+title: "Zieloni w podr\xF3\u017Cy | Patromierz"
+
 permalink: /zieloniwpodrozy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "BeataiMaciekINSPIRO | Patromierz"
+title: "Spo\u0142eczne stypendium dla Pani Beatki i Pana Ma\u0107ka  | Patromierz"
+
 permalink: /BeataiMaciekINSPIRO
 ---
 

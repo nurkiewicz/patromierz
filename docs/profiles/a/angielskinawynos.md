@@ -1,5 +1,6 @@
 ---
-title: "angielskinawynos | Patromierz"
+title: Angielski na wynos | Patromierz
+
 permalink: /angielskinawynos
 ---
 

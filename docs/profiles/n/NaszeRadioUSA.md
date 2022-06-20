@@ -1,5 +1,6 @@
 ---
-title: "NaszeRadioUSA | Patromierz"
+title: Nasze Radio USA | Patromierz
+
 permalink: /NaszeRadioUSA
 ---
 

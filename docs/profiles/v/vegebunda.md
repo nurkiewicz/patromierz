@@ -1,5 +1,6 @@
 ---
-title: "vegebunda | Patromierz"
+title: Jasna Gabriela Iwan | Patromierz
+
 permalink: /vegebunda
 ---
 

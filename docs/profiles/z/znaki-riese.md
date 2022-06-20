@@ -1,5 +1,6 @@
 ---
-title: "znaki-riese | Patromierz"
+title: Znaki | Patromierz
+
 permalink: /znaki-riese
 ---
 

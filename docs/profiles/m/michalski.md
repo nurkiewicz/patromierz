@@ -1,5 +1,6 @@
 ---
-title: "michalski | Patromierz"
+title: "Pawe\u0142  Michalski | Patromierz"
+
 permalink: /michalski
 ---
 

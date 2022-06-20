@@ -1,5 +1,6 @@
 ---
-title: "lente | Patromierz"
+title: Julia Wollner / "Lente" | Patromierz
+
 permalink: /lente
 ---
 

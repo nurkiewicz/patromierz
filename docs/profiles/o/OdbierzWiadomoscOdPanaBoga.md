@@ -1,5 +1,6 @@
 ---
-title: "OdbierzWiadomoscOdPanaBoga | Patromierz"
+title: "Odbierz wiadomo\u015B\u0107 od Pana Boga | Patromierz"
+
 permalink: /OdbierzWiadomoscOdPanaBoga
 ---
 

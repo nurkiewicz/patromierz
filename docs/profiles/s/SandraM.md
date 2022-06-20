@@ -1,5 +1,6 @@
 ---
-title: "SandraM | Patromierz"
+title: Sandra M | Patromierz
+
 permalink: /SandraM
 ---
 

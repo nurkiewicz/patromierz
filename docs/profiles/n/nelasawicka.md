@@ -1,5 +1,6 @@
 ---
-title: "nelasawicka | Patromierz"
+title: Aniela Sawicka | Patromierz
+
 permalink: /nelasawicka
 ---
 

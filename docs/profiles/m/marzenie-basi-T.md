@@ -1,5 +1,6 @@
 ---
-title: "marzenie-basi-T | Patromierz"
+title: Barbara Tukendorf | Patromierz
+
 permalink: /marzenie-basi-T
 ---
 

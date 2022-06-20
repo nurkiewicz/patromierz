@@ -1,5 +1,6 @@
 ---
-title: "Kruszyna | Patromierz"
+title: "Bart\u0142omiej KRUSZYNA  Bielas | Patromierz"
+
 permalink: /Kruszyna
 ---
 

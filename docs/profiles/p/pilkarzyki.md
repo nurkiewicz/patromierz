@@ -1,5 +1,6 @@
 ---
-title: "pilkarzyki | Patromierz"
+title: "Pi\u0142karzyki | Patromierz"
+
 permalink: /pilkarzyki
 ---
 

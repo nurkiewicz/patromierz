@@ -1,5 +1,6 @@
 ---
-title: "napisacwschod | Patromierz"
+title: "Napisa\u0107 Wsch\xF3d | Patromierz"
+
 permalink: /napisacwschod
 ---
 

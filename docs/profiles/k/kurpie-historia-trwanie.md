@@ -1,5 +1,6 @@
 ---
-title: "kurpie-historia-trwanie | Patromierz"
+title: Kurpie - historia i trwanie | Patromierz
+
 permalink: /kurpie-historia-trwanie
 ---
 

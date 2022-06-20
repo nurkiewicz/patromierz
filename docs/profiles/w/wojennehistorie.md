@@ -1,5 +1,6 @@
 ---
-title: "wojennehistorie | Patromierz"
+title: Wojenne Historie | Patromierz
+
 permalink: /wojennehistorie
 ---
 

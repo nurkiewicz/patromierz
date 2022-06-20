@@ -1,5 +1,6 @@
 ---
-title: "posluchajoanarchizmie | Patromierz"
+title: "Pos\u0142uchaj o Anarchizmie | Patromierz"
+
 permalink: /posluchajoanarchizmie
 ---
 

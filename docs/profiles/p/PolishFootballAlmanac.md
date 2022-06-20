@@ -1,5 +1,6 @@
 ---
-title: "PolishFootballAlmanac | Patromierz"
+title: PolishFootballAlmanac | Patromierz
+
 permalink: /PolishFootballAlmanac
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zachiny | Patromierz"
+title: ZA CHINY & Damian Chen | Patromierz
+
 permalink: /zachiny
 ---
 

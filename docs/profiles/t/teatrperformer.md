@@ -1,5 +1,6 @@
 ---
-title: "teatrperformer | Patromierz"
+title: "Pawe\u0142 Dudzi\u0144ski | Patromierz"
+
 permalink: /teatrperformer
 ---
 

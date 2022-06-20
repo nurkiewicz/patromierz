@@ -1,5 +1,6 @@
 ---
-title: "TomaszKaczmarek | Patromierz"
+title: Tomek Kaczmarek | Patromierz
+
 permalink: /TomaszKaczmarek
 ---
 

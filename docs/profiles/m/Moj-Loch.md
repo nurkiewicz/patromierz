@@ -1,5 +1,6 @@
 ---
-title: "Moj-Loch | Patromierz"
+title: "M\xF3j Loch | Patromierz"
+
 permalink: /Moj-Loch
 ---
 

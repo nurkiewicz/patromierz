@@ -1,5 +1,6 @@
 ---
-title: "taken_from_travel | Patromierz"
+title: taken from travel | agnieszka cytacka | Patromierz
+
 permalink: /taken_from_travel
 ---
 

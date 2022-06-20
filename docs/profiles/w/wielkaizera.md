@@ -1,5 +1,6 @@
 ---
-title: "wielkaizera | Patromierz"
+title: Wydawnictwo Wielka Izera | Patromierz
+
 permalink: /wielkaizera
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "cech-optykow-w-warszawie | Patromierz"
+title: "Cech Optyk\xF3w w Warszawie | Patromierz"
+
 permalink: /cech-optykow-w-warszawie
 ---
 

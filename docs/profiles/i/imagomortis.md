@@ -1,5 +1,6 @@
 ---
-title: "imagomortis | Patromierz"
+title: Imago Mortis | Patromierz
+
 permalink: /imagomortis
 ---
 

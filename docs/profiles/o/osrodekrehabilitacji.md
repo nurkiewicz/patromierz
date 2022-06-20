@@ -1,5 +1,6 @@
 ---
-title: "osrodekrehabilitacji | Patromierz"
+title: "O\u015Brodek Rehabilitacji Zwierz\u0105t Chronionych | Patromierz"
+
 permalink: /osrodekrehabilitacji
 ---
 

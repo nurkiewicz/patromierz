@@ -1,5 +1,6 @@
 ---
-title: "DopokiWalczysz | Patromierz"
+title: "Dop\xF3ki Walczysz & Kazania... | Patromierz"
+
 permalink: /DopokiWalczysz
 ---
 

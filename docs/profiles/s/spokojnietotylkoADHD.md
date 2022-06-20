@@ -1,5 +1,6 @@
 ---
-title: "spokojnietotylkoADHD | Patromierz"
+title: Spokojnie to tylko ADHD | Patromierz
+
 permalink: /spokojnietotylkoADHD
 ---
 

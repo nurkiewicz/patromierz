@@ -1,5 +1,6 @@
 ---
-title: "wasikowska | Patromierz"
+title: "EWA W\u0104SIKOWSKA-TOMCZY\u0143SKA | Patromierz"
+
 permalink: /wasikowska
 ---
 

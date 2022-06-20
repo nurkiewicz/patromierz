@@ -1,5 +1,6 @@
 ---
-title: "KongresKK | Patromierz"
+title: "Kongres Katoliczek i Katolik\xF3w | Patromierz"
+
 permalink: /KongresKK
 ---
 

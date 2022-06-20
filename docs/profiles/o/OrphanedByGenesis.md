@@ -1,5 +1,6 @@
 ---
-title: "OrphanedByGenesis | Patromierz"
+title: Orphaned By Genesis | Patromierz
+
 permalink: /OrphanedByGenesis
 ---
 

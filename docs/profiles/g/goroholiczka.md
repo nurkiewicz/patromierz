@@ -1,5 +1,6 @@
 ---
-title: "goroholiczka | Patromierz"
+title: "G\xF3roholiczka | Patromierz"
+
 permalink: /goroholiczka
 ---
 

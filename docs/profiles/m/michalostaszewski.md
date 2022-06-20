@@ -1,5 +1,6 @@
 ---
-title: "michalostaszewski | Patromierz"
+title: "Micha\u0142 Ostaszewski | Patromierz"
+
 permalink: /michalostaszewski
 ---
 

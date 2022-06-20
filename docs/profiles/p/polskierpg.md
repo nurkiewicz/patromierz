@@ -1,5 +1,6 @@
 ---
-title: "polskierpg | Patromierz"
+title: Polskie Erpegowanie | Patromierz
+
 permalink: /polskierpg
 ---
 

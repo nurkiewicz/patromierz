@@ -1,5 +1,6 @@
 ---
-title: "oronowicz | Patromierz"
+title: Niebieskie SOS | Patromierz
+
 permalink: /oronowicz
 ---
 

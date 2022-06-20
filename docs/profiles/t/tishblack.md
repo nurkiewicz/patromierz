@@ -1,5 +1,6 @@
 ---
-title: "tishblack | Patromierz"
+title: TishBlack | Patromierz
+
 permalink: /tishblack
 ---
 

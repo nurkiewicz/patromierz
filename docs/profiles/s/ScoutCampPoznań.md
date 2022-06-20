@@ -1,5 +1,6 @@
 ---
-title: "ScoutCampPoznań | Patromierz"
+title: "Scout Camp Pozna\u0144 | Patromierz"
+
 permalink: /ScoutCampPoznań
 ---
 

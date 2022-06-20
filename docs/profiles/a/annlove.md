@@ -1,5 +1,6 @@
 ---
-title: "annlove | Patromierz"
+title: Szczerze o relacjach i gotowaniu  | Patromierz
+
 permalink: /annlove
 ---
 

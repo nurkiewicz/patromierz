@@ -1,5 +1,6 @@
 ---
-title: "gdziebadz | Patromierz"
+title: "GDZIE B\u0104D\u0179 | Patromierz"
+
 permalink: /gdziebadz
 ---
 

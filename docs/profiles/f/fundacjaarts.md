@@ -1,5 +1,6 @@
 ---
-title: "fundacjaarts | Patromierz"
+title: Fundacja ARTS | Patromierz
+
 permalink: /fundacjaarts
 ---
 

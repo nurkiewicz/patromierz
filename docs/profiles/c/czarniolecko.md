@@ -1,5 +1,6 @@
 ---
-title: "czarniolecko | Patromierz"
+title: MLKS Czarni Olecko | Patromierz
+
 permalink: /czarniolecko
 ---
 

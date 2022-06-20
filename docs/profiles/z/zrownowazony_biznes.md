@@ -1,5 +1,6 @@
 ---
-title: "zrownowazony_biznes | Patromierz"
+title: "Zr\xF3wnowa\u017Cony Biznes Podcast | Patromierz"
+
 permalink: /zrownowazony_biznes
 ---
 

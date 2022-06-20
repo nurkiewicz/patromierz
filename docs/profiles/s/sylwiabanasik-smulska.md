@@ -1,5 +1,6 @@
 ---
-title: "sylwiabanasik-smulska | Patromierz"
+title: Sylwia Banasik- Smulska | Patromierz
+
 permalink: /sylwiabanasik-smulska
 ---
 

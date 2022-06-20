@@ -1,5 +1,6 @@
 ---
-title: "nieskonczone | Patromierz"
+title: "Niesko\u0144czone teksty | Patromierz"
+
 permalink: /nieskonczone
 ---
 

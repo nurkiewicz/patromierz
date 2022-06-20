@@ -1,5 +1,6 @@
 ---
-title: "HarmonyArt | Patromierz"
+title: Harmony Art | Patromierz
+
 permalink: /HarmonyArt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "WeedWeek | Patromierz"
+title: Weed Week | Patromierz
+
 permalink: /WeedWeek
 ---
 

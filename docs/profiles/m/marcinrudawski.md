@@ -1,5 +1,6 @@
 ---
-title: "marcinrudawski | Patromierz"
+title: Marcin Rudawski | Patromierz
+
 permalink: /marcinrudawski
 ---
 

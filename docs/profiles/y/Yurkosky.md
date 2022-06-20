@@ -1,5 +1,6 @@
 ---
-title: "Yurkosky | Patromierz"
+title: Yurkosky | Patromierz
+
 permalink: /Yurkosky
 ---
 

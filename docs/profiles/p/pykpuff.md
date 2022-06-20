@@ -1,5 +1,6 @@
 ---
-title: "pykpuff | Patromierz"
+title: Pyk Puff - fajka tradycyjna | Patromierz
+
 permalink: /pykpuff
 ---
 

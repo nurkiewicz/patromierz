@@ -1,5 +1,6 @@
 ---
-title: "obliczaxxwieku | Patromierz"
+title: Oblicza XX Wieku | Patromierz
+
 permalink: /obliczaxxwieku
 ---
 

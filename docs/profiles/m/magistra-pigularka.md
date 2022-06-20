@@ -1,5 +1,6 @@
 ---
-title: "magistra-pigularka | Patromierz"
+title: Magistra Pigularka | Patromierz
+
 permalink: /magistra-pigularka
 ---
 

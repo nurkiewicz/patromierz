@@ -1,5 +1,6 @@
 ---
-title: "defoliator | Patromierz"
+title: Defoliator | Patromierz
+
 permalink: /defoliator
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "odwróconalekcja | Patromierz"
+title: "Odwr\xF3cona Lekcja | Patromierz"
+
 permalink: /odwróconalekcja
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "cojestnietakzkrakowem | Patromierz"
+title: Co jest nie tak z Krakowem | Patromierz
+
 permalink: /cojestnietakzkrakowem
 ---
 

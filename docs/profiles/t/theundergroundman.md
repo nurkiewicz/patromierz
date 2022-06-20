@@ -1,5 +1,6 @@
 ---
-title: "theundergroundman | Patromierz"
+title: The Underground Man | Patromierz
+
 permalink: /theundergroundman
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tiffcenter | Patromierz"
+title: TIFF Center | Patromierz
+
 permalink: /tiffcenter
 ---
 

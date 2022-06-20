@@ -1,5 +1,6 @@
 ---
-title: "dziennikarzdlaklimatu | Patromierz"
+title: Szymon Bujalski - dziennikarz dla klimatu | Patromierz
+
 permalink: /dziennikarzdlaklimatu
 ---
 

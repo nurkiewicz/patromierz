@@ -1,5 +1,6 @@
 ---
-title: "seniorzyzpienin | Patromierz"
+title: Seniorzy z Pienin | Patromierz
+
 permalink: /seniorzyzpienin
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "tankhunter | Patromierz"
+title: TANK HUNTER | Patromierz
+
 permalink: /tankhunter
 ---
 

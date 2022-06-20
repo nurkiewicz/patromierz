@@ -1,5 +1,6 @@
 ---
-title: "darwininchaneldress | Patromierz"
+title: Dorota Komar | Patromierz
+
 permalink: /darwininchaneldress
 ---
 

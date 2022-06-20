@@ -1,5 +1,6 @@
 ---
-title: "AdventureReach | Patromierz"
+title: Adventure Reach - Sala RPG | Patromierz
+
 permalink: /AdventureReach
 ---
 

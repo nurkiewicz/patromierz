@@ -1,5 +1,6 @@
 ---
-title: "reministry | Patromierz"
+title: Radek i Ela Siewniak | Patromierz
+
 permalink: /reministry
 ---
 

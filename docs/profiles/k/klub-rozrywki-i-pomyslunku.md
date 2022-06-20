@@ -1,5 +1,6 @@
 ---
-title: "klub-rozrywki-i-pomyslunku | Patromierz"
+title: "Klub Rozrywki i Pomy\u015Blunku | Patromierz"
+
 permalink: /klub-rozrywki-i-pomyslunku
 ---
 

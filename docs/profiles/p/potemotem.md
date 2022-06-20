@@ -1,5 +1,6 @@
 ---
-title: "potemotem | Patromierz"
+title: Potem-o-tem  | Patromierz
+
 permalink: /potemotem
 ---
 

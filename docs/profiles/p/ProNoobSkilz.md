@@ -1,5 +1,6 @@
 ---
-title: "ProNoobSkilz | Patromierz"
+title: Krzysztof Tomczak | Patromierz
+
 permalink: /ProNoobSkilz
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "AplikacjaDemokracja | Patromierz"
+title: Aplikacja Demokracja | Patromierz
+
 permalink: /AplikacjaDemokracja
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "jolaszymanska | Patromierz"
+title: "Jola Szyma\u0144ska | Patromierz"
+
 permalink: /jolaszymanska
 ---
 

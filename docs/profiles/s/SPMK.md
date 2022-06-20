@@ -1,5 +1,6 @@
 ---
-title: "SPMK | Patromierz"
+title: "Stowarzyszenie Polskich Muzyk\xF3w Kameralist\xF3w | Patromierz"
+
 permalink: /SPMK
 ---
 

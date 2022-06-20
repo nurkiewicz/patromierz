@@ -1,5 +1,6 @@
 ---
-title: "teczapoburzy | Patromierz"
+title: "T\u0119cza Po Burzy | Patromierz"
+
 permalink: /teczapoburzy
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "autor-bartosz-brzezinski | Patromierz"
+title: "Bartosz Brzezi\u0144ski | Patromierz"
+
 permalink: /autor-bartosz-brzezinski
 ---
 

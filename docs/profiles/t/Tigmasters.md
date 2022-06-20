@@ -1,5 +1,6 @@
 ---
-title: "Tigmasters | Patromierz"
+title: TIG MASTERS  | Patromierz
+
 permalink: /Tigmasters
 ---
 

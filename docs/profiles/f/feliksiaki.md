@@ -1,5 +1,6 @@
 ---
-title: "feliksiaki | Patromierz"
+title: Fundacja Feliksiaki | Patromierz
+
 permalink: /feliksiaki
 ---
 

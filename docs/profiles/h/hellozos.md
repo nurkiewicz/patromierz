@@ -1,5 +1,6 @@
 ---
-title: "hellozos | Patromierz"
+title: "Hello, Zo\u015B | Patromierz"
+
 permalink: /hellozos
 ---
 

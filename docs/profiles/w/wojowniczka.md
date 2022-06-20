@@ -1,5 +1,6 @@
 ---
-title: "wojowniczka | Patromierz"
+title: Anna Antoniak | Patromierz
+
 permalink: /wojowniczka
 ---
 

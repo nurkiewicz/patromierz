@@ -1,5 +1,6 @@
 ---
-title: "Fundacja_po_DRUGIE | Patromierz"
+title: Fundacja po DRUGIE | Patromierz
+
 permalink: /Fundacja_po_DRUGIE
 ---
 

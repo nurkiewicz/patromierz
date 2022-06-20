@@ -1,5 +1,6 @@
 ---
-title: "kobylewski.poezja | Patromierz"
+title: "Pawe\u0142 Kobylewski | Patromierz"
+
 permalink: /kobylewski.poezja
 ---
 

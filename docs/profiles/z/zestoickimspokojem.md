@@ -1,5 +1,6 @@
 ---
-title: "zestoickimspokojem | Patromierz"
+title: Ze stoickim spokojem | Patromierz
+
 permalink: /zestoickimspokojem
 ---
 

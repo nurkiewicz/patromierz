@@ -1,5 +1,6 @@
 ---
-title: "domdobremiejsce | Patromierz"
+title: Dom Dobre Miejsce | Patromierz
+
 permalink: /domdobremiejsce
 ---
 

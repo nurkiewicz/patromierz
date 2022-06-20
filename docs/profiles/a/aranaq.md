@@ -1,5 +1,6 @@
 ---
-title: "aranaq | Patromierz"
+title: Prezydentka Internetu | Patromierz
+
 permalink: /aranaq
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "babaodpolskiego | Patromierz"
+title: Baba od polskiego | Patromierz
+
 permalink: /babaodpolskiego
 ---
 

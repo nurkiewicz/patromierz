@@ -1,5 +1,6 @@
 ---
-title: "MilenaWisniewskaArt | Patromierz"
+title: "Milena Wi\u015Bniewska | Patromierz"
+
 permalink: /MilenaWisniewskaArt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "keepthebeat | Patromierz"
+title: keepthebeat | Patromierz
+
 permalink: /keepthebeat
 ---
 

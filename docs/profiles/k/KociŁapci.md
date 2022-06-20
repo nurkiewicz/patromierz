@@ -1,5 +1,6 @@
 ---
-title: "KociŁapci | Patromierz"
+title: "Przysta\u0144 dla Koci\u0105t \"Koci \u0141apci\" | Patromierz"
+
 permalink: /KociŁapci
 ---
 

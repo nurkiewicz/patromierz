@@ -1,5 +1,6 @@
 ---
-title: "mysterytv | Patromierz"
+title: MysteryTV | Patromierz
+
 permalink: /mysterytv
 ---
 

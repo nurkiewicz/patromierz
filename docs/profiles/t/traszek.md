@@ -1,5 +1,6 @@
 ---
-title: "traszek | Patromierz"
+title: Traszek | Patromierz
+
 permalink: /traszek
 ---
 

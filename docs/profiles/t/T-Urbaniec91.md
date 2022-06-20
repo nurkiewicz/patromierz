@@ -1,5 +1,6 @@
 ---
-title: "T-Urbaniec91 | Patromierz"
+title: Tomasz Urbaniec WCHZ | Patromierz
+
 permalink: /T-Urbaniec91
 ---
 

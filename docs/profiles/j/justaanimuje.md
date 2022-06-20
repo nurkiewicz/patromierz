@@ -1,5 +1,6 @@
 ---
-title: "justaanimuje | Patromierz"
+title: Justyna Margielewska | Patromierz
+
 permalink: /justaanimuje
 ---
 

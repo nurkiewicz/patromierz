@@ -1,5 +1,6 @@
 ---
-title: "ABO-Fundacja-K2 | Patromierz"
+title: "Akademia Bezpiecze\u0144stwa Osobistego | Patromierz"
+
 permalink: /ABO-Fundacja-K2
 ---
 

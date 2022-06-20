@@ -1,5 +1,6 @@
 ---
-title: "ear-learning | Patromierz"
+title: Ear-learning | Patromierz
+
 permalink: /ear-learning
 ---
 

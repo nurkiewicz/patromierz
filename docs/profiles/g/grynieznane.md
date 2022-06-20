@@ -1,5 +1,6 @@
 ---
-title: "grynieznane | Patromierz"
+title: "Ciekawostki ze \u015Bwiata gier | Patromierz"
+
 permalink: /grynieznane
 ---
 

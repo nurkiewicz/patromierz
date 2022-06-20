@@ -1,5 +1,6 @@
 ---
-title: "muzyczniczarodzieje | Patromierz"
+title: Fundacja Muzyczni Czarodzieje | Patromierz
+
 permalink: /muzyczniczarodzieje
 ---
 

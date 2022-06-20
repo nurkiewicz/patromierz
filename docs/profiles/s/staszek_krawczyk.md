@@ -1,5 +1,6 @@
 ---
-title: "staszek_krawczyk | Patromierz"
+title: Staszek Krawczyk | Patromierz
+
 permalink: /staszek_krawczyk
 ---
 

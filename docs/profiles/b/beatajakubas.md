@@ -1,5 +1,6 @@
 ---
-title: "beatajakubas | Patromierz"
+title: "Beata Jakubas Fotografia \u015Awiat\u0142em Malowana  | Patromierz"
+
 permalink: /beatajakubas
 ---
 

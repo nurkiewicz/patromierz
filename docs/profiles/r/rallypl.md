@@ -1,5 +1,6 @@
 ---
-title: "rallypl | Patromierz"
+title: rallypl.com | Patromierz
+
 permalink: /rallypl
 ---
 

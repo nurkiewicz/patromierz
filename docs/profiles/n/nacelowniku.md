@@ -1,5 +1,6 @@
 ---
-title: "nacelowniku | Patromierz"
+title: Na celowniku - Artur Dubiel Podcast | Patromierz
+
 permalink: /nacelowniku
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "FundacjaNadzieja.org | Patromierz"
+title: "Fundacja S\u0142u\u017Cby Rodzinie \"Nadzieja\" | Patromierz"
+
 permalink: /FundacjaNadzieja.org
 ---
 

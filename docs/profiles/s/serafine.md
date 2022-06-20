@@ -1,5 +1,6 @@
 ---
-title: "serafine | Patromierz"
+title: Julka "Serafine" Sobieska | Patromierz
+
 permalink: /serafine
 ---
 

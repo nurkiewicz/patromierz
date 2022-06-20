@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["GrotOrderly"] = [
+	[1607385600,420,27,15.55,6465,null],
 	[1643360776,480,29,16.55,12570,null],
 	[1643425083,480,29,16.55,12575,null],
 	[1643521764,480,29,16.55,12575,null],

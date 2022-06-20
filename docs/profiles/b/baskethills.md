@@ -1,5 +1,6 @@
 ---
-title: "baskethills | Patromierz"
+title: "Basket Hills Bielsko-Bia\u0142a | Patromierz"
+
 permalink: /baskethills
 ---
 

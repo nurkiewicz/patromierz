@@ -1,5 +1,6 @@
 ---
-title: "MuzykaRelaksacyjna | Patromierz"
+title: Muzyka Relaksacyjna | Patromierz
+
 permalink: /MuzykaRelaksacyjna
 ---
 

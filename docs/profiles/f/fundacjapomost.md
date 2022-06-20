@@ -1,5 +1,6 @@
 ---
-title: "fundacjapomost | Patromierz"
+title: Fundacja Pomost | Patromierz
+
 permalink: /fundacjapomost
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Prometej | Patromierz"
+title: Prometej Wyzwolony | Patromierz
+
 permalink: /Prometej
 ---
 

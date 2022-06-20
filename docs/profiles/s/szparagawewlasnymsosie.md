@@ -1,5 +1,6 @@
 ---
-title: "szparagawewlasnymsosie | Patromierz"
+title: "Szparaga we w\u0142asnym sosie | Patromierz"
+
 permalink: /szparagawewlasnymsosie
 ---
 

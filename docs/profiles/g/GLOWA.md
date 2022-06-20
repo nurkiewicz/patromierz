@@ -1,5 +1,6 @@
 ---
-title: "GLOWA | Patromierz"
+title: "G\u0141OWA DRIFT Team | Patromierz"
+
 permalink: /GLOWA
 ---
 

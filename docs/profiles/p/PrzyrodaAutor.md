@@ -1,5 +1,6 @@
 ---
-title: "PrzyrodaAutor | Patromierz"
+title: "Le\u015Bny Kawaler | Patromierz"
+
 permalink: /PrzyrodaAutor
 ---
 

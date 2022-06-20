@@ -1,5 +1,6 @@
 ---
-title: "altertonative | Patromierz"
+title: Altertonative | Patromierz
+
 permalink: /altertonative
 ---
 

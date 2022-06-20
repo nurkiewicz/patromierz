@@ -1,5 +1,6 @@
 ---
-title: "Z-pamietnika-psa-podroznika | Patromierz"
+title: "Z pami\u0119tnika psa podr\xF3\u017Cnika | Patromierz"
+
 permalink: /Z-pamietnika-psa-podroznika
 ---
 

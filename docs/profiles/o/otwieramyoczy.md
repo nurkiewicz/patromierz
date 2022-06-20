@@ -1,5 +1,6 @@
 ---
-title: "otwieramyoczy | Patromierz"
+title: Otwieramy Oczy | Patromierz
+
 permalink: /otwieramyoczy
 ---
 

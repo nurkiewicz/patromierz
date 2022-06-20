@@ -1,5 +1,6 @@
 ---
-title: "Natalia_Gebert | Patromierz"
+title: Natalia Gebert | Patromierz
+
 permalink: /Natalia_Gebert
 ---
 

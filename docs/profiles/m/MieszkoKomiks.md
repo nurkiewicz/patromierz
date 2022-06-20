@@ -1,5 +1,6 @@
 ---
-title: "MieszkoKomiks | Patromierz"
+title: Mieszko Komiks | Patromierz
+
 permalink: /MieszkoKomiks
 ---
 

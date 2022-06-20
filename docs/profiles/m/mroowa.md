@@ -1,5 +1,6 @@
 ---
-title: "mroowa | Patromierz"
+title: Adam Antolski | Patromierz
+
 permalink: /mroowa
 ---
 

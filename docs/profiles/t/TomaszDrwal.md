@@ -1,5 +1,6 @@
 ---
-title: "TomaszDrwal | Patromierz"
+title: Tomasz Drwal  | Patromierz
+
 permalink: /TomaszDrwal
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Miniaturowa | Patromierz"
+title: Miniaturowa | Patromierz
+
 permalink: /Miniaturowa
 ---
 

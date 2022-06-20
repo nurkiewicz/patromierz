@@ -1,5 +1,6 @@
 ---
-title: "drfranc | Patromierz"
+title: Franc Zalewski | Patromierz
+
 permalink: /drfranc
 ---
 

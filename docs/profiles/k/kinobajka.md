@@ -1,5 +1,6 @@
 ---
-title: "kinobajka | Patromierz"
+title: Kino Bajka | Patromierz
+
 permalink: /kinobajka
 ---
 

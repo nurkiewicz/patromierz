@@ -1,5 +1,6 @@
 ---
-title: "KaizenMiracle | Patromierz"
+title: Podcast Kaizen Miracle | Patromierz
+
 permalink: /KaizenMiracle
 ---
 

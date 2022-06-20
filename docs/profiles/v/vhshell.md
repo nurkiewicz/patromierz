@@ -1,5 +1,6 @@
 ---
-title: "vhshell | Patromierz"
+title: VHS HELL | Patromierz
+
 permalink: /vhshell
 ---
 

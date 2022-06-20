@@ -1,5 +1,6 @@
 ---
-title: "haftowababa | Patromierz"
+title: Haftowa Baba | Patromierz
+
 permalink: /haftowababa
 ---
 

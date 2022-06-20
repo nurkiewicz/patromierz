@@ -1,5 +1,6 @@
 ---
-title: "pogotowiepsychologiczne | Patromierz"
+title: Pogotowie Psychologiczne | Patromierz
+
 permalink: /pogotowiepsychologiczne
 ---
 

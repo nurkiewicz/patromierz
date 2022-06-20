@@ -1,5 +1,6 @@
 ---
-title: "Triglav | Patromierz"
+title: Stowarzyszenie Historyczno - Badawcze TRIGLAV | Patromierz
+
 permalink: /Triglav
 ---
 

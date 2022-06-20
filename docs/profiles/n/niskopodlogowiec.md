@@ -1,5 +1,6 @@
 ---
-title: "niskopodlogowiec | Patromierz"
+title: "Niskopod\u0142ogowiec | Patromierz"
+
 permalink: /niskopodlogowiec
 ---
 

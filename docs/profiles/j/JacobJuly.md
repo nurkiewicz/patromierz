@@ -1,5 +1,6 @@
 ---
-title: "JacobJuly | Patromierz"
+title: Jacob July | Patromierz
+
 permalink: /JacobJuly
 ---
 

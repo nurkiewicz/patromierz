@@ -1,5 +1,6 @@
 ---
-title: "głogowski | Patromierz"
+title: "Wojciech G\u0142ogowski | Patromierz"
+
 permalink: /głogowski
 ---
 

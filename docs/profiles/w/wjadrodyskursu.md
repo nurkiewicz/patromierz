@@ -1,5 +1,6 @@
 ---
-title: "wjadrodyskursu | Patromierz"
+title: "W j\u0105dro dyskursu | Patromierz"
+
 permalink: /wjadrodyskursu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KSBudowlaniJazowsko | Patromierz"
+title: KS Budowlani Jazowsko | Patromierz
+
 permalink: /KSBudowlaniJazowsko
 ---
 

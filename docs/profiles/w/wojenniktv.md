@@ -1,5 +1,6 @@
 ---
-title: "wojenniktv | Patromierz"
+title: Wojennik TV - Gry Planszowe | Patromierz
+
 permalink: /wojenniktv
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "aska-lawicka | Patromierz"
+title: "A\u015Bka \u0141awicka | Patromierz"
+
 permalink: /aska-lawicka
 ---
 

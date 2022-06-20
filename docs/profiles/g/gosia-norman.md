@@ -1,5 +1,6 @@
 ---
-title: "gosia-norman | Patromierz"
+title: Gosia Norman | Patromierz
+
 permalink: /gosia-norman
 ---
 

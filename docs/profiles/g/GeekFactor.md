@@ -1,5 +1,6 @@
 ---
-title: "GeekFactor | Patromierz"
+title: Geek Factor | Patromierz
+
 permalink: /GeekFactor
 ---
 

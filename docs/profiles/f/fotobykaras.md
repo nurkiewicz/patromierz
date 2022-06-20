@@ -1,5 +1,6 @@
 ---
-title: "fotobykaras | Patromierz"
+title: foto by Karas | Patromierz
+
 permalink: /fotobykaras
 ---
 

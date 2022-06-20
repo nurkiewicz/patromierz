@@ -1,5 +1,6 @@
 ---
-title: "MUDA_Talks | Patromierz"
+title: MUDA Talks | Patromierz
+
 permalink: /MUDA_Talks
 ---
 

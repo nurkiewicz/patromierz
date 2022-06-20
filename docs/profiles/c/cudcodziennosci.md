@@ -1,5 +1,6 @@
 ---
-title: "cudcodziennosci | Patromierz"
+title: "Cud Codzienno\u015Bci | Patromierz"
+
 permalink: /cudcodziennosci
 ---
 

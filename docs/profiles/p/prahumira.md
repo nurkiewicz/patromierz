@@ -1,5 +1,6 @@
 ---
-title: "prahumira | Patromierz"
+title: Prahumira | Patromierz
+
 permalink: /prahumira
 ---
 

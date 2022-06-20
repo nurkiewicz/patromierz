@@ -1,5 +1,6 @@
 ---
-title: "GGDuo | Patromierz"
+title: "Gabi i Wojciech G\u0105sior | Patromierz"
+
 permalink: /GGDuo
 ---
 

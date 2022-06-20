@@ -1,5 +1,6 @@
 ---
-title: "mywonderland_com_pl | Patromierz"
+title: My Wonderland.com.pl | Patromierz
+
 permalink: /mywonderland_com_pl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chwytak | Patromierz"
+title: The Chwytak | Patromierz
+
 permalink: /chwytak
 ---
 

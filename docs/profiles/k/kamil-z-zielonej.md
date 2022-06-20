@@ -1,5 +1,6 @@
 ---
-title: "kamil-z-zielonej | Patromierz"
+title: Kamil Utrata | Patromierz
+
 permalink: /kamil-z-zielonej
 ---
 

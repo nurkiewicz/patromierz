@@ -1,5 +1,6 @@
 ---
-title: "EdwardSłowianin | Patromierz"
+title: "Edward S\u0142owianin Leh | Patromierz"
+
 permalink: /EdwardSłowianin
 ---
 

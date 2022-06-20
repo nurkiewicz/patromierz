@@ -1,5 +1,6 @@
 ---
-title: "warszawskagrupafotograficzna | Patromierz"
+title: Warszawska Grupa Fotograficzna | Patromierz
+
 permalink: /warszawskagrupafotograficzna
 ---
 

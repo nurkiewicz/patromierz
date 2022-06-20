@@ -1,5 +1,6 @@
 ---
-title: "KowalonekSongwriter | Patromierz"
+title: "Micha\u0142 Kowalonek | Patromierz"
+
 permalink: /KowalonekSongwriter
 ---
 

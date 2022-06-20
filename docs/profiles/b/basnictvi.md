@@ -1,5 +1,6 @@
 ---
-title: "basnictvi | Patromierz"
+title: basnictvi  | Patromierz
+
 permalink: /basnictvi
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "smartgasm | Patromierz"
+title: Smartgasm | Patromierz
+
 permalink: /smartgasm
 ---
 

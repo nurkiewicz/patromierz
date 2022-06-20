@@ -1,5 +1,6 @@
 ---
-title: "NaszKarawaning | Patromierz"
+title: Nasz Karawaning | Patromierz
+
 permalink: /NaszKarawaning
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "dobrerzuty | Patromierz"
+title: Dobre Rzuty | Patromierz
+
 permalink: /dobrerzuty
 ---
 

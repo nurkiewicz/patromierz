@@ -1,5 +1,6 @@
 ---
-title: "pmJezus | Patromierz"
+title: Robert Skassa Prowadzi Mnie Jezus | Patromierz
+
 permalink: /pmJezus
 ---
 

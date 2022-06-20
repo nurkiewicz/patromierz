@@ -1,5 +1,6 @@
 ---
-title: "robmydobrze | Patromierz"
+title: "R\xF3bmy Dobrze | Patromierz"
+
 permalink: /robmydobrze
 ---
 

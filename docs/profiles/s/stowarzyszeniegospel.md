@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszeniegospel | Patromierz"
+title: Stowarzyszenie Gospel | Patromierz
+
 permalink: /stowarzyszeniegospel
 ---
 

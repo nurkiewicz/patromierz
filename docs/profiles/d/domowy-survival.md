@@ -1,5 +1,6 @@
 ---
-title: "domowy-survival | Patromierz"
+title: Domowy Survival | Patromierz
+
 permalink: /domowy-survival
 ---
 

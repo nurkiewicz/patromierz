@@ -1,5 +1,6 @@
 ---
-title: "liberte | Patromierz"
+title: " Libert\xE9! | Patromierz"
+
 permalink: /liberte
 ---
 

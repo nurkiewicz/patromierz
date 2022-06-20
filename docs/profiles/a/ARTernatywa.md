@@ -1,5 +1,6 @@
 ---
-title: "ARTernatywa | Patromierz"
+title: Fundacja ARTernatywa | Patromierz
+
 permalink: /ARTernatywa
 ---
 

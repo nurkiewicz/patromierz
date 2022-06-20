@@ -1,5 +1,6 @@
 ---
-title: "TACZ | Patromierz"
+title: Krzysztof TACZ.pl Taczalski | Patromierz
+
 permalink: /TACZ
 ---
 

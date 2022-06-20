@@ -1,5 +1,6 @@
 ---
-title: "pelnymigarsciami | Patromierz"
+title: Barbara Turek  | Patromierz
+
 permalink: /pelnymigarsciami
 ---
 

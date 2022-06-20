@@ -1,5 +1,6 @@
 ---
-title: "chlopaki | Patromierz"
+title: "Grupa Performatywna Ch\u0142opaki | Patromierz"
+
 permalink: /chlopaki
 ---
 

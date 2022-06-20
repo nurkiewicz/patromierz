@@ -1,5 +1,6 @@
 ---
-title: "grafzero | Patromierz"
+title: Grafzero vlog literacki | Patromierz
+
 permalink: /grafzero
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "radzik | Patromierz"
+title: Krzysztof Radzikowski | Patromierz
+
 permalink: /radzik
 ---
 

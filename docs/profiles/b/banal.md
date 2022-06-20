@@ -1,5 +1,6 @@
 ---
-title: "banal | Patromierz"
+title: "bana\u0142 | Patromierz"
+
 permalink: /banal
 ---
 

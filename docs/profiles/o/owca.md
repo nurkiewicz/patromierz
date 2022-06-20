@@ -1,5 +1,6 @@
 ---
-title: "owca | Patromierz"
+title: owca | Patromierz
+
 permalink: /owca
 ---
 

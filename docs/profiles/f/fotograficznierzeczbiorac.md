@@ -1,5 +1,6 @@
 ---
-title: "fotograficznierzeczbiorac | Patromierz"
+title: "Fotograficznie Rzecz Bior\u0105c | Patromierz"
+
 permalink: /fotograficznierzeczbiorac
 ---
 

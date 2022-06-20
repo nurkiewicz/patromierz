@@ -1,5 +1,6 @@
 ---
-title: "kresy | Patromierz"
+title: Kresy.pl | Patromierz
+
 permalink: /kresy
 ---
 

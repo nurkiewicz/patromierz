@@ -1,5 +1,6 @@
 ---
-title: "szot | Patromierz"
+title: Wojtek Szot - Zdaniem Szota | Patromierz
+
 permalink: /szot
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "nelugia | Patromierz"
+title: Nelugia | Patromierz
+
 permalink: /nelugia
 ---
 

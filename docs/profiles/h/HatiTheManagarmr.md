@@ -1,5 +1,6 @@
 ---
-title: "HatiTheManagarmr | Patromierz"
+title: Wojciech Kasprzak | Patromierz
+
 permalink: /HatiTheManagarmr
 ---
 

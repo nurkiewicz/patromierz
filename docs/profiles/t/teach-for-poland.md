@@ -1,5 +1,6 @@
 ---
-title: "teach-for-poland | Patromierz"
+title: Teach for Poland | Patromierz
+
 permalink: /teach-for-poland
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "boguslawjasiewicz | Patromierz"
+title: "Bogus\u0142aw Jasiewicz | Patromierz"
+
 permalink: /boguslawjasiewicz
 ---
 

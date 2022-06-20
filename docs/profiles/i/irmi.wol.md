@@ -1,5 +1,6 @@
 ---
-title: "irmi.wol | Patromierz"
+title: Irmina Wolniak | Patromierz
+
 permalink: /irmi.wol
 ---
 

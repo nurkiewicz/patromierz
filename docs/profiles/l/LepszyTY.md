@@ -1,5 +1,6 @@
 ---
-title: "LepszyTY | Patromierz"
+title: "Bart\u0142omiej Piekarski | Patromierz"
+
 permalink: /LepszyTY
 ---
 

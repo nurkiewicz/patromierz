@@ -1,5 +1,6 @@
 ---
-title: "Motylarnia | Patromierz"
+title: Motylarnia w Czaplach Wielkich | Patromierz
+
 permalink: /Motylarnia
 ---
 

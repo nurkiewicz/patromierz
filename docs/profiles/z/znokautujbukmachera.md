@@ -1,5 +1,6 @@
 ---
-title: "znokautujbukmachera | Patromierz"
+title: Znokautuj bukmachera | Patromierz
+
 permalink: /znokautujbukmachera
 ---
 

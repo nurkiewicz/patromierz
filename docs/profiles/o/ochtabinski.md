@@ -1,5 +1,6 @@
 ---
-title: "ochtabinski | Patromierz"
+title: "Ochtabi\u0144ski | Patromierz"
+
 permalink: /ochtabinski
 ---
 

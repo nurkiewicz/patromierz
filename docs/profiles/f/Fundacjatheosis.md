@@ -1,5 +1,6 @@
 ---
-title: "Fundacjatheosis | Patromierz"
+title: Fundacja Theosis | Patromierz
+
 permalink: /Fundacjatheosis
 ---
 

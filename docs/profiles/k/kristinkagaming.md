@@ -1,5 +1,6 @@
 ---
-title: "kristinkagaming | Patromierz"
+title: Kris-Tinka Gaming | Patromierz
+
 permalink: /kristinkagaming
 ---
 

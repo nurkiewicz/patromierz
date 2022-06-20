@@ -1,5 +1,6 @@
 ---
-title: "kotwrocek | Patromierz"
+title: Przyjaciele Kota Wrocka | Patromierz
+
 permalink: /kotwrocek
 ---
 

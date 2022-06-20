@@ -1,5 +1,6 @@
 ---
-title: "kanciapakrisa | Patromierz"
+title: Kanciapa Krisa  | Patromierz
+
 permalink: /kanciapakrisa
 ---
 

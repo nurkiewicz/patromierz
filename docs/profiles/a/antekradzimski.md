@@ -1,5 +1,6 @@
 ---
-title: "antekradzimski | Patromierz"
+title: Antek Radzimski | Patromierz
+
 permalink: /antekradzimski
 ---
 

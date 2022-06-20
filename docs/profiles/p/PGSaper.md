@@ -1,5 +1,6 @@
 ---
-title: "PGSaper | Patromierz"
+title: PGSaper | Patromierz
+
 permalink: /PGSaper
 ---
 

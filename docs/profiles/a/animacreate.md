@@ -1,5 +1,6 @@
 ---
-title: "animacreate | Patromierz"
+title: Anima create | Patromierz
+
 permalink: /animacreate
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "starekonie | Patromierz"
+title: Stare Konie | Patromierz
+
 permalink: /starekonie
 ---
 

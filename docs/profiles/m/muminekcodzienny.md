@@ -1,5 +1,6 @@
 ---
-title: "muminekcodzienny | Patromierz"
+title: Muminek Codzienny | Patromierz
+
 permalink: /muminekcodzienny
 ---
 

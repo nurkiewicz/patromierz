@@ -1,5 +1,6 @@
 ---
-title: "imw | Patromierz"
+title: "Instytut Mieczys\u0142awa Wajnberga | Patromierz"
+
 permalink: /imw
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "czterylapyzychlin | Patromierz"
+title: "Cztery \u0141apy \u017Bychlin | Patromierz"
+
 permalink: /czterylapyzychlin
 ---
 

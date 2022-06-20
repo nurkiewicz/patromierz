@@ -1,5 +1,6 @@
 ---
-title: "Kostrzyński | Patromierz"
+title: "Marcin Kostrzy\u0144ski | Patromierz"
+
 permalink: /Kostrzyński
 ---
 

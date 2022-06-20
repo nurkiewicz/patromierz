@@ -1,5 +1,6 @@
 ---
-title: "tytusholdys | Patromierz"
+title: "Tytus Ho\u0142dys  | Patromierz"
+
 permalink: /tytusholdys
 ---
 

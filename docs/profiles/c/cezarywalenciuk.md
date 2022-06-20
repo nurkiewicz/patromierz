@@ -1,5 +1,6 @@
 ---
-title: "cezarywalenciuk | Patromierz"
+title: Cezary Walenciuk | Patromierz
+
 permalink: /cezarywalenciuk
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "neuroatypowe | Patromierz"
+title: Neuroatypowe | Patromierz
+
 permalink: /neuroatypowe
 ---
 

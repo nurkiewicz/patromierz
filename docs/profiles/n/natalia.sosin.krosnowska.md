@@ -1,5 +1,6 @@
 ---
-title: "natalia.sosin.krosnowska | Patromierz"
+title: Natalia Sosin-Krosnowska | Patromierz
+
 permalink: /natalia.sosin.krosnowska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KoW | Patromierz"
+title: "Kana\u0142 o Wszystkim | Patromierz"
+
 permalink: /KoW
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kinoamondo | Patromierz"
+title: Kino AMONDO | Patromierz
+
 permalink: /kinoamondo
 ---
 

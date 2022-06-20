@@ -1,5 +1,6 @@
 ---
-title: "proscenium | Patromierz"
+title: Fundacja Artystyczna Proscenium | Patromierz
+
 permalink: /proscenium
 ---
 

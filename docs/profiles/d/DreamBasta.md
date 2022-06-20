@@ -1,5 +1,6 @@
 ---
-title: "DreamBasta | Patromierz"
+title: "Rafa\u0142 Gerlach-Basta | Patromierz"
+
 permalink: /DreamBasta
 ---
 

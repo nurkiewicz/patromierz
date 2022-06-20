@@ -1,5 +1,6 @@
 ---
-title: "kaftann | Patromierz"
+title: Kaftann | Patromierz
+
 permalink: /kaftann
 ---
 

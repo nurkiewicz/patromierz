@@ -1,5 +1,6 @@
 ---
-title: "partyzantka | Patromierz"
+title: Miejska Partyzantka Ogrodnicza | Patromierz
+
 permalink: /partyzantka
 ---
 

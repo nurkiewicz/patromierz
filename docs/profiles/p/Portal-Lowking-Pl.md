@@ -1,5 +1,6 @@
 ---
-title: "Portal-Lowking-Pl | Patromierz"
+title: Lowking.pl | Patromierz
+
 permalink: /Portal-Lowking-Pl
 ---
 

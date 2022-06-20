@@ -1,5 +1,6 @@
 ---
-title: "pieskidla | Patromierz"
+title: PieskiDla | Patromierz
+
 permalink: /pieskidla
 ---
 

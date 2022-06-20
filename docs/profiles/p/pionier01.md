@@ -1,5 +1,6 @@
 ---
-title: "pionier01 | Patromierz"
+title: Piotr Nienartowicz | Patromierz
+
 permalink: /pionier01
 ---
 

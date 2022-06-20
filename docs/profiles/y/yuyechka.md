@@ -1,5 +1,6 @@
 ---
-title: "yuyechka | Patromierz"
+title: yuyechka | Patromierz
+
 permalink: /yuyechka
 ---
 

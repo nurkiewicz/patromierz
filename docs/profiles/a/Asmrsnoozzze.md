@@ -1,5 +1,6 @@
 ---
-title: "Asmrsnoozzze | Patromierz"
+title: "Monika Przyby\u0142 | Patromierz"
+
 permalink: /Asmrsnoozzze
 ---
 

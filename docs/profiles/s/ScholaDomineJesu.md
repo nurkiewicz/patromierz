@@ -1,5 +1,6 @@
 ---
-title: "ScholaDomineJesu | Patromierz"
+title: Schola  liturgiczna "Domine Jesu" | Patromierz
+
 permalink: /ScholaDomineJesu
 ---
 

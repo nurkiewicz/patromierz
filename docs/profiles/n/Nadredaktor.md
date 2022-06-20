@@ -1,5 +1,6 @@
 ---
-title: "Nadredaktor | Patromierz"
+title: Marcin Wolski | Patromierz
+
 permalink: /Nadredaktor
 ---
 

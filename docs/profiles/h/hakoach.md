@@ -1,5 +1,6 @@
 ---
-title: "hakoach | Patromierz"
+title: HaKoach | Patromierz
+
 permalink: /hakoach
 ---
 

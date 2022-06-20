@@ -1,5 +1,6 @@
 ---
-title: "waskikanal | Patromierz"
+title: "W\u0105ski Kana\u0142 | Patromierz"
+
 permalink: /waskikanal
 ---
 

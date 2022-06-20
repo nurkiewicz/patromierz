@@ -1,5 +1,6 @@
 ---
-title: "IAS | Patromierz"
+title: "Fundacja Instytut Analiz \u015Arodowiskowych | Patromierz"
+
 permalink: /IAS
 ---
 

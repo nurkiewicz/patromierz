@@ -1,5 +1,6 @@
 ---
-title: "nomada | Patromierz"
+title: Stowarzyszenie NOMADA | Patromierz
+
 permalink: /nomada
 ---
 

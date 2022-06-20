@@ -1,5 +1,6 @@
 ---
-title: "ScienceWatchPolska | Patromierz"
+title: Fundacja Science Watch Polska | Patromierz
+
 permalink: /ScienceWatchPolska
 ---
 

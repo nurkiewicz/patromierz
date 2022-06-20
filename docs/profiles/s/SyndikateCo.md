@@ -1,5 +1,6 @@
 ---
-title: "SyndikateCo | Patromierz"
+title: Syndikate Co. | Patromierz
+
 permalink: /SyndikateCo
 ---
 

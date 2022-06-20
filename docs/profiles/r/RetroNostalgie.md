@@ -1,5 +1,6 @@
 ---
-title: "RetroNostalgie | Patromierz"
+title: Retro Nostalgie | Patromierz
+
 permalink: /RetroNostalgie
 ---
 

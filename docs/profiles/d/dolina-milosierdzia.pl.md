@@ -1,5 +1,6 @@
 ---
-title: "dolina-milosierdzia.pl | Patromierz"
+title: "Dolina Mi\u0142osierdzia | Patromierz"
+
 permalink: /dolina-milosierdzia.pl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "psychowiedza | Patromierz"
+title: Psychowiedza | Patromierz
+
 permalink: /psychowiedza
 ---
 

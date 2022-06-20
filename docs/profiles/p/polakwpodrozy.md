@@ -1,5 +1,6 @@
 ---
-title: "polakwpodrozy | Patromierz"
+title: "Polak w Podr\xF3\u017Cy | Patromierz"
+
 permalink: /polakwpodrozy
 ---
 

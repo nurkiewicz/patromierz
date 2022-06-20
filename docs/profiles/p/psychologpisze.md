@@ -1,5 +1,6 @@
 ---
-title: "psychologpisze | Patromierz"
+title: Psycholog Pisze | Patromierz
+
 permalink: /psychologpisze
 ---
 

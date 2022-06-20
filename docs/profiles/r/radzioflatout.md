@@ -1,5 +1,6 @@
 ---
-title: "radzioflatout | Patromierz"
+title: radzio FLAT OUT | Patromierz
+
 permalink: /radzioflatout
 ---
 

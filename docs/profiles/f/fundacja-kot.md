@@ -1,5 +1,6 @@
 ---
-title: "fundacja-kot | Patromierz"
+title: Koci Szpital Fundacji KOT | Patromierz
+
 permalink: /fundacja-kot
 ---
 

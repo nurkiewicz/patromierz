@@ -1,5 +1,6 @@
 ---
-title: "drkacperlukasiewicz | Patromierz"
+title: "dr Kacper \u0141ukasiewicz | Patromierz"
+
 permalink: /drkacperlukasiewicz
 ---
 

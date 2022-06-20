@@ -1,5 +1,6 @@
 ---
-title: "Mydreamland | Patromierz"
+title: MyDreamland | Patromierz
+
 permalink: /Mydreamland
 ---
 

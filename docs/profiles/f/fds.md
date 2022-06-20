@@ -1,5 +1,6 @@
 ---
-title: "fds | Patromierz"
+title: "Fantastyczny Dolny \u015Al\u0105sk | Patromierz"
+
 permalink: /fds
 ---
 

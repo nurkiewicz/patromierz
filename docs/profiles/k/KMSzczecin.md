@@ -1,5 +1,6 @@
 ---
-title: "KMSzczecin | Patromierz"
+title: KMSzczecin | Patromierz
+
 permalink: /KMSzczecin
 ---
 

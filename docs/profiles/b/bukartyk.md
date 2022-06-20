@@ -1,5 +1,6 @@
 ---
-title: "bukartyk | Patromierz"
+title: Piotr Bukartyk & Ajagore | Patromierz
+
 permalink: /bukartyk
 ---
 

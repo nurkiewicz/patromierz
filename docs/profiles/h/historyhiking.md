@@ -1,5 +1,6 @@
 ---
-title: "historyhiking | Patromierz"
+title: History Hiking | Patromierz
+
 permalink: /historyhiking
 ---
 

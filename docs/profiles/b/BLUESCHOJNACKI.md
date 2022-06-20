@@ -1,5 +1,6 @@
 ---
-title: "BLUESCHOJNACKI | Patromierz"
+title: Jan Chojnacki | Patromierz
+
 permalink: /BLUESCHOJNACKI
 ---
 

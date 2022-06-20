@@ -1,5 +1,6 @@
 ---
-title: "keymo_painting | Patromierz"
+title: Keymo Keymokeymo | Patromierz
+
 permalink: /keymo_painting
 ---
 

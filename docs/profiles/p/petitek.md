@@ -1,5 +1,6 @@
 ---
-title: "petitek | Patromierz"
+title: Petit_Imp | Patromierz
+
 permalink: /petitek
 ---
 

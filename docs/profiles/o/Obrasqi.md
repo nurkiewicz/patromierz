@@ -1,5 +1,6 @@
 ---
-title: "Obrasqi | Patromierz"
+title: OBRASQi  | Patromierz
+
 permalink: /Obrasqi
 ---
 

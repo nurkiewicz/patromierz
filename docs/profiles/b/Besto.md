@@ -1,5 +1,6 @@
 ---
-title: "Besto | Patromierz"
+title: Besto | Patromierz
+
 permalink: /Besto
 ---
 

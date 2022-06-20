@@ -1,5 +1,6 @@
 ---
-title: "polishglots | Patromierz"
+title: Polishglots | Patromierz
+
 permalink: /polishglots
 ---
 

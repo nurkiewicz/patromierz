@@ -1,5 +1,6 @@
 ---
-title: "zwierzofochy | Patromierz"
+title: Zwierzofochy | Patromierz
+
 permalink: /zwierzofochy
 ---
 

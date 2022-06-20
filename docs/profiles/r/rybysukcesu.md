@@ -1,5 +1,6 @@
 ---
-title: "rybysukcesu | Patromierz"
+title: Ryby Sukcesu | Patromierz
+
 permalink: /rybysukcesu
 ---
 

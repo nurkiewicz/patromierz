@@ -1,5 +1,6 @@
 ---
-title: "prostaekonomia | Patromierz"
+title: Prosta Ekonomia | Patromierz
+
 permalink: /prostaekonomia
 ---
 

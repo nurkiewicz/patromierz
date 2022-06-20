@@ -1,5 +1,6 @@
 ---
-title: "KlasyczneJachty | Patromierz"
+title: Fundacja Klasyczne Jachty | Patromierz
+
 permalink: /KlasyczneJachty
 ---
 

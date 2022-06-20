@@ -1,5 +1,6 @@
 ---
-title: "resetobywatelski | Patromierz"
+title: Reset Obywatelski | Patromierz
+
 permalink: /resetobywatelski
 ---
 

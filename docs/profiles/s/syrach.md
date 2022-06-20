@@ -1,5 +1,6 @@
 ---
-title: "syrach | Patromierz"
+title: Syrach tv | Patromierz
+
 permalink: /syrach
 ---
 

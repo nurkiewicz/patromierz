@@ -1,5 +1,6 @@
 ---
-title: "komandos | Patromierz"
+title: UKS Komandos Warszawa | Patromierz
+
 permalink: /komandos
 ---
 

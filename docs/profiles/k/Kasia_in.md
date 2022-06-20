@@ -1,5 +1,6 @@
 ---
-title: "Kasia_in | Patromierz"
+title: Kasia.in | Patromierz
+
 permalink: /Kasia_in
 ---
 

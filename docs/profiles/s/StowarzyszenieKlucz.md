@@ -1,5 +1,6 @@
 ---
-title: "StowarzyszenieKlucz | Patromierz"
+title: "Stowarzyszenie Klucz - Stop Spo\u0142ecznym Wykluczeniom | Patromierz"
+
 permalink: /StowarzyszenieKlucz
 ---
 

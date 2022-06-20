@@ -1,5 +1,6 @@
 ---
-title: "biedaenduro | Patromierz"
+title: BiedaEnduro | Patromierz
+
 permalink: /biedaenduro
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "chono | Patromierz"
+title: chono | Patromierz
+
 permalink: /chono
 ---
 

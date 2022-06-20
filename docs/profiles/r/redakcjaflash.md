@@ -1,5 +1,6 @@
 ---
-title: "redakcjaflash | Patromierz"
+title: FLASH - Redakcja Niepokorna | Patromierz
+
 permalink: /redakcjaflash
 ---
 

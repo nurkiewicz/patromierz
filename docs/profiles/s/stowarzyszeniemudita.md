@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszeniemudita | Patromierz"
+title: Stowarzyszenie Mudita. Spa dla mam | Patromierz
+
 permalink: /stowarzyszeniemudita
 ---
 

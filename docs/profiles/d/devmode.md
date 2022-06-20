@@ -1,5 +1,6 @@
 ---
-title: "devmode | Patromierz"
+title: Devmode | Patromierz
+
 permalink: /devmode
 ---
 

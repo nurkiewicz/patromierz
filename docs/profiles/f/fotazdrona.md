@@ -1,5 +1,6 @@
 ---
-title: "fotazdrona | Patromierz"
+title: Fotazdrona | Patromierz
+
 permalink: /fotazdrona
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Mosak | Patromierz"
+title: Marcin Mossakowski | Patromierz
+
 permalink: /Mosak
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kspolonia | Patromierz"
+title: "KS Polonia Pozna\u0144 | Patromierz"
+
 permalink: /kspolonia
 ---
 

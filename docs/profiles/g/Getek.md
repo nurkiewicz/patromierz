@@ -1,5 +1,6 @@
 ---
-title: "Getek | Patromierz"
+title: Marcin Getek - nagrania z Fizyki na YT | Patromierz
+
 permalink: /Getek
 ---
 

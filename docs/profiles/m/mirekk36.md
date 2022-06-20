@@ -1,5 +1,6 @@
 ---
-title: "mirekk36 | Patromierz"
+title: "Miros\u0142aw Karda\u015B | Patromierz"
+
 permalink: /mirekk36
 ---
 

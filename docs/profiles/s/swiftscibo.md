@@ -1,5 +1,6 @@
 ---
-title: "swiftscibo | Patromierz"
+title: Swiftscribo | Patromierz
+
 permalink: /swiftscibo
 ---
 

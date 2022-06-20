@@ -1,5 +1,6 @@
 ---
-title: "OrkiestraSiedlice | Patromierz"
+title: Orkiestra Siedlice | Patromierz
+
 permalink: /OrkiestraSiedlice
 ---
 

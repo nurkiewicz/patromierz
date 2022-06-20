@@ -1,5 +1,6 @@
 ---
-title: "BrokenMindzRadio | Patromierz"
+title: Broken Mindz | Patromierz
+
 permalink: /BrokenMindzRadio
 ---
 

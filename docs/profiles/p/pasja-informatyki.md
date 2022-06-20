@@ -1,5 +1,6 @@
 ---
-title: "pasja-informatyki | Patromierz"
+title: Pasja informatyki | Patromierz
+
 permalink: /pasja-informatyki
 ---
 

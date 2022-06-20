@@ -1,5 +1,6 @@
 ---
-title: "kanaldarterski | Patromierz"
+title: "KANA\u0141 DARTERSKI | Patromierz"
+
 permalink: /kanaldarterski
 ---
 

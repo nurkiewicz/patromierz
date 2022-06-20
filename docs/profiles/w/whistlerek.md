@@ -1,5 +1,6 @@
 ---
-title: "whistlerek | Patromierz"
+title: Whistlerek | Patromierz
+
 permalink: /whistlerek
 ---
 

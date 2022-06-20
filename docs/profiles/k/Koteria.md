@@ -1,5 +1,6 @@
 ---
-title: "Koteria | Patromierz"
+title: "Koteria - O\u015Brodek dla kot\xF3w miejskich  | Patromierz"
+
 permalink: /Koteria
 ---
 

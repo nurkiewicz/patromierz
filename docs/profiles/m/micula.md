@@ -1,5 +1,6 @@
 ---
-title: "micula | Patromierz"
+title: "MICU\u0141A | Patromierz"
+
 permalink: /micula
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "EvangelistLucasSzczepaniak | Patromierz"
+title: "\u0141ukasz Szczepaniak  | Patromierz"
+
 permalink: /EvangelistLucasSzczepaniak
 ---
 

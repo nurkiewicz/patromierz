@@ -1,5 +1,6 @@
 ---
-title: "AutostradyPolska | Patromierz"
+title: Autostrady Polska | Patromierz
+
 permalink: /AutostradyPolska
 ---
 

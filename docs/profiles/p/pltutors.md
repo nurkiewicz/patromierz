@@ -1,5 +1,6 @@
 ---
-title: "pltutors | Patromierz"
+title: PL Tutors  | Patromierz
+
 permalink: /pltutors
 ---
 

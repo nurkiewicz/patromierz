@@ -1,5 +1,6 @@
 ---
-title: "wolnemedia | Patromierz"
+title: Wolne Media | Patromierz
+
 permalink: /wolnemedia
 ---
 

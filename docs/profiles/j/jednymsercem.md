@@ -1,5 +1,6 @@
 ---
-title: "jednymsercem | Patromierz"
+title: Jednym Sercem | Patromierz
+
 permalink: /jednymsercem
 ---
 

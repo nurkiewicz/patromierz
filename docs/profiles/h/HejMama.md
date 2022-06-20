@@ -1,5 +1,6 @@
 ---
-title: "HejMama | Patromierz"
+title: Hej Mama | Patromierz
+
 permalink: /HejMama
 ---
 

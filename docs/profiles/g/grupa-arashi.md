@@ -1,5 +1,6 @@
 ---
-title: "grupa-arashi | Patromierz"
+title: Grupa Arashi | Patromierz
+
 permalink: /grupa-arashi
 ---
 

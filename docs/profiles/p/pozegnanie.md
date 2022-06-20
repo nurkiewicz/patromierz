@@ -1,5 +1,6 @@
 ---
-title: "pozegnanie | Patromierz"
+title: "Po\u017Cegnanie Bia\u0142ego Wilka | Patromierz"
+
 permalink: /pozegnanie
 ---
 

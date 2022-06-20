@@ -1,5 +1,6 @@
 ---
-title: "quaz | Patromierz"
+title: Tomasz Drabik | Patromierz
+
 permalink: /quaz
 ---
 

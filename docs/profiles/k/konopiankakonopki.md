@@ -1,5 +1,6 @@
 ---
-title: "konopiankakonopki | Patromierz"
+title: Konopianka Konopki | Patromierz
+
 permalink: /konopiankakonopki
 ---
 

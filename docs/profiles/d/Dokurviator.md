@@ -1,5 +1,6 @@
 ---
-title: "Dokurviator | Patromierz"
+title: Dokurviator-Drift&Rally | Patromierz
+
 permalink: /Dokurviator
 ---
 

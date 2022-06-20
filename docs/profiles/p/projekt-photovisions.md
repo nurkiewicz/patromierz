@@ -1,5 +1,6 @@
 ---
-title: "projekt-photovisions | Patromierz"
+title: PhotoVisions | Patromierz
+
 permalink: /projekt-photovisions
 ---
 

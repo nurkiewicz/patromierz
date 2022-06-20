@@ -1,5 +1,6 @@
 ---
-title: "Polska_W_Liczbach | Patromierz"
+title: Polskawliczbach.pl | Patromierz
+
 permalink: /Polska_W_Liczbach
 ---
 

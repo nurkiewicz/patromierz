@@ -1,5 +1,6 @@
 ---
-title: "karrelyt | Patromierz"
+title: Karrel | Patromierz
+
 permalink: /karrelyt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "mamcialo-podcast | Patromierz"
+title: "Mam cia\u0142o - i co dalej? | Patromierz"
+
 permalink: /mamcialo-podcast
 ---
 

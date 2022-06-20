@@ -1,5 +1,6 @@
 ---
-title: "BrygidaSordyl87 | Patromierz"
+title: Brygida Sordyl | Patromierz
+
 permalink: /BrygidaSordyl87
 ---
 

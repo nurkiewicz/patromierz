@@ -1,5 +1,6 @@
 ---
-title: "poczety | Patromierz"
+title: "Jakub Pocz\u0119ty | Patromierz"
+
 permalink: /poczety
 ---
 

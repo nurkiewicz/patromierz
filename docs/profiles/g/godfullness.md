@@ -1,5 +1,6 @@
 ---
-title: "godfullness | Patromierz"
+title: Godfullness | Patromierz
+
 permalink: /godfullness
 ---
 

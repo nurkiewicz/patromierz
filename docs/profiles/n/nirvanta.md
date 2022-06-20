@@ -1,5 +1,6 @@
 ---
-title: "nirvanta | Patromierz"
+title: Nirvanta | Patromierz
+
 permalink: /nirvanta
 ---
 

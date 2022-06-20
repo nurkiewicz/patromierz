@@ -1,5 +1,6 @@
 ---
-title: "wikingowie | Patromierz"
+title: "Rados\u0142aw Lewandowski | Patromierz"
+
 permalink: /wikingowie
 ---
 

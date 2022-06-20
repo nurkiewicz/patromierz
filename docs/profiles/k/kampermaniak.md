@@ -1,5 +1,6 @@
 ---
-title: "kampermaniak | Patromierz"
+title: KamperManiak | Patromierz
+
 permalink: /kampermaniak
 ---
 

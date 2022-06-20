@@ -1,5 +1,6 @@
 ---
-title: "pfencrypto | Patromierz"
+title: Pfen Crypto | Patromierz
+
 permalink: /pfencrypto
 ---
 

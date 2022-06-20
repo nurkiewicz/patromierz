@@ -1,5 +1,6 @@
 ---
-title: "BardzoBardzoSerio | Patromierz"
+title: Bardzo Bardzo Serio | Patromierz
+
 permalink: /BardzoBardzoSerio
 ---
 

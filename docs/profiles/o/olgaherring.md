@@ -1,5 +1,6 @@
 ---
-title: "olgaherring | Patromierz"
+title: Olga Herring | Patromierz
+
 permalink: /olgaherring
 ---
 

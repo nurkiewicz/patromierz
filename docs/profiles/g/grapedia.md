@@ -1,5 +1,6 @@
 ---
-title: "grapedia | Patromierz"
+title: GRApedia | Patromierz
+
 permalink: /grapedia
 ---
 

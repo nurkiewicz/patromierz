@@ -1,5 +1,6 @@
 ---
-title: "MisiowiPrzyjaciele | Patromierz"
+title: Misiowi Przyjaciele | Patromierz
+
 permalink: /MisiowiPrzyjaciele
 ---
 

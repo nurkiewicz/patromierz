@@ -1,5 +1,6 @@
 ---
-title: "prototypy | Patromierz"
+title: Kamil Sokalski | Patromierz
+
 permalink: /prototypy
 ---
 

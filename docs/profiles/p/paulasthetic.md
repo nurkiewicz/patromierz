@@ -1,5 +1,6 @@
 ---
-title: "paulasthetic | Patromierz"
+title: Paula  | Patromierz
+
 permalink: /paulasthetic
 ---
 

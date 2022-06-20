@@ -1,5 +1,6 @@
 ---
-title: "dominikamizia | Patromierz"
+title: Dominika Mizia | Patromierz
+
 permalink: /dominikamizia
 ---
 

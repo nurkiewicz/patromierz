@@ -1,5 +1,6 @@
 ---
-title: "PsiLuz | Patromierz"
+title: Ewelina Oleksiak | Patromierz
+
 permalink: /PsiLuz
 ---
 

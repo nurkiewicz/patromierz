@@ -1,5 +1,6 @@
 ---
-title: "agata-wilam-whybluesky | Patromierz"
+title: WhyBlueSky | Patromierz
+
 permalink: /agata-wilam-whybluesky
 ---
 

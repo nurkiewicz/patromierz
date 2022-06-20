@@ -1,5 +1,6 @@
 ---
-title: "sowinscybonsaisquad | Patromierz"
+title: "Sowi\u0144scy Bonsai Squad | Patromierz"
+
 permalink: /sowinscybonsaisquad
 ---
 

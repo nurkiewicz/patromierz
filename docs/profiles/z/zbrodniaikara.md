@@ -1,5 +1,6 @@
 ---
-title: "zbrodniaikara | Patromierz"
+title: Zbrodnia Ikara | Patromierz
+
 permalink: /zbrodniaikara
 ---
 

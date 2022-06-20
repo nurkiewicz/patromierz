@@ -1,5 +1,6 @@
 ---
-title: "anjunafamilypoland | Patromierz"
+title: Anjunafamily Poland | Patromierz
+
 permalink: /anjunafamilypoland
 ---
 

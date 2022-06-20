@@ -1,5 +1,6 @@
 ---
-title: "Ping | Patromierz"
+title: Jankowski Norbert | Patromierz
+
 permalink: /Ping
 ---
 

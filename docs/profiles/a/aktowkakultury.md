@@ -1,5 +1,6 @@
 ---
-title: "aktowkakultury | Patromierz"
+title: "Akt\xF3wka Kultury | Patromierz"
+
 permalink: /aktowkakultury
 ---
 

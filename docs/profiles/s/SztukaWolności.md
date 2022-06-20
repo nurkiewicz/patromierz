@@ -1,5 +1,6 @@
 ---
-title: "SztukaWolności | Patromierz"
+title: "Fundacja Sztuka Wolno\u015Bci | Patromierz"
+
 permalink: /SztukaWolności
 ---
 

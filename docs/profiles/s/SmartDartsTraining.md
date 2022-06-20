@@ -1,5 +1,6 @@
 ---
-title: "SmartDartsTraining | Patromierz"
+title: "\u0141ukasz Wac\u0142awski | Patromierz"
+
 permalink: /SmartDartsTraining
 ---
 

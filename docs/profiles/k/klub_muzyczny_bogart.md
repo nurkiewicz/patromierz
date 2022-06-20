@@ -1,5 +1,6 @@
 ---
-title: "klub_muzyczny_bogart | Patromierz"
+title: Klub Muzyczny Bogart | Patromierz
+
 permalink: /klub_muzyczny_bogart
 ---
 

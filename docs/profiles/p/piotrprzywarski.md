@@ -1,5 +1,6 @@
 ---
-title: "piotrprzywarski | Patromierz"
+title: Piotr POLO Przywarski | Patromierz
+
 permalink: /piotrprzywarski
 ---
 

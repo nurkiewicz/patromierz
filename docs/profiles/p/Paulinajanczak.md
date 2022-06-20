@@ -1,5 +1,6 @@
 ---
-title: "Paulinajanczak | Patromierz"
+title: Paulina Janczak | Patromierz
+
 permalink: /Paulinajanczak
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Jozektargosz | Patromierz"
+title: "O rany, J\xF3zek! | Patromierz"
+
 permalink: /Jozektargosz
 ---
 

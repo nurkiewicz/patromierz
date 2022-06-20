@@ -1,5 +1,6 @@
 ---
-title: "PolkaWUgandzie | Patromierz"
+title: Polka w Ugandzie | Patromierz
+
 permalink: /PolkaWUgandzie
 ---
 

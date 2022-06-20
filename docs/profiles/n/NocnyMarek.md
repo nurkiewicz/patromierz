@@ -1,5 +1,6 @@
 ---
-title: "NocnyMarek | Patromierz"
+title: Nocny Marek | Patromierz
+
 permalink: /NocnyMarek
 ---
 

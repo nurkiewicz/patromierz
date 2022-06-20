@@ -1,5 +1,6 @@
 ---
-title: "NANONET | Patromierz"
+title: Fundacja NANONET | Patromierz
+
 permalink: /NANONET
 ---
 

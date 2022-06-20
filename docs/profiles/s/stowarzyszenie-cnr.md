@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszenie-cnr | Patromierz"
+title: "Stowarzyszenie CHOD\u0179MY NA ROWER | Patromierz"
+
 permalink: /stowarzyszenie-cnr
 ---
 

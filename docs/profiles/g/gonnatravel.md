@@ -1,5 +1,6 @@
 ---
-title: "gonnatravel | Patromierz"
+title: Gonna Travel | Patromierz
+
 permalink: /gonnatravel
 ---
 

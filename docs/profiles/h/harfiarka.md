@@ -1,5 +1,6 @@
 ---
-title: "harfiarka | Patromierz"
+title: Harfiarka Barbara Karlik | Patromierz
+
 permalink: /harfiarka
 ---
 

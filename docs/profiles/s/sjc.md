@@ -1,5 +1,6 @@
 ---
-title: "sjc | Patromierz"
+title: "Stowarzyszenie Muzyczne \u015Al\u0105ski Jazz Club | Patromierz"
+
 permalink: /sjc
 ---
 

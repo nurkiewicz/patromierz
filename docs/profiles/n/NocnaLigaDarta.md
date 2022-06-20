@@ -1,5 +1,6 @@
 ---
-title: "NocnaLigaDarta | Patromierz"
+title: Nocna Liga Darta | Patromierz
+
 permalink: /NocnaLigaDarta
 ---
 

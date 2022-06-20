@@ -1,5 +1,6 @@
 ---
-title: "PolskieArchiwumX | Patromierz"
+title: Polskie Archiwum X | Patromierz
+
 permalink: /PolskieArchiwumX
 ---
 

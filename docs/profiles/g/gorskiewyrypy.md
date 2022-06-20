@@ -1,5 +1,6 @@
 ---
-title: "gorskiewyrypy | Patromierz"
+title: "G\xF3rskie Wyrypy | Patromierz"
+
 permalink: /gorskiewyrypy
 ---
 

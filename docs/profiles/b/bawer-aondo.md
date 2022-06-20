@@ -1,5 +1,6 @@
 ---
-title: "bawer-aondo | Patromierz"
+title: Bawer Aondo-Akaa | Patromierz
+
 permalink: /bawer-aondo
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "TomaszPiwecki | Patromierz"
+title: Tomasz Piwecki | Patromierz
+
 permalink: /TomaszPiwecki
 ---
 

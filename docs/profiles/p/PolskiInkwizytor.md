@@ -1,5 +1,6 @@
 ---
-title: "PolskiInkwizytor | Patromierz"
+title: Polski Inkwizytor | Patromierz
+
 permalink: /PolskiInkwizytor
 ---
 

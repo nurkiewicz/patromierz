@@ -1,5 +1,6 @@
 ---
-title: "Python | Patromierz"
+title: "Kodowanie dla: osieroconych, uchod\u017Ac\xF3w i patron\xF3w | Patromierz"
+
 permalink: /Python
 ---
 

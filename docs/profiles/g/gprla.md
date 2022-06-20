@@ -1,5 +1,6 @@
 ---
-title: "gprla | Patromierz"
+title: Grupa Poszukiwawczo Ratownicza Legii Akademickiej | Patromierz
+
 permalink: /gprla
 ---
 

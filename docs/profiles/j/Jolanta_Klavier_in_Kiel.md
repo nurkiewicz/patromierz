@@ -1,5 +1,6 @@
 ---
-title: "Jolanta_Klavier_in_Kiel | Patromierz"
+title: Jolanta Klavier_in_Kiel | Patromierz
+
 permalink: /Jolanta_Klavier_in_Kiel
 ---
 

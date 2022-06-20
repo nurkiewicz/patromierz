@@ -1,5 +1,6 @@
 ---
-title: "apostrov | Patromierz"
+title: Team Apostrov | Patromierz
+
 permalink: /apostrov
 ---
 

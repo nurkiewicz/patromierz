@@ -1,5 +1,6 @@
 ---
-title: "ksaweryknotz | Patromierz"
+title: Ksawery Knotz OFMCap | Patromierz
+
 permalink: /ksaweryknotz
 ---
 

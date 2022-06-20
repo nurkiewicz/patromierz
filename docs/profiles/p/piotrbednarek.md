@@ -1,5 +1,6 @@
 ---
-title: "piotrbednarek | Patromierz"
+title: Piotr Bednarek | Patromierz
+
 permalink: /piotrbednarek
 ---
 

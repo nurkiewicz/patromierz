@@ -1,5 +1,6 @@
 ---
-title: "ReCyclingRider | Patromierz"
+title: Przemek Gierczak | Patromierz
+
 permalink: /ReCyclingRider
 ---
 

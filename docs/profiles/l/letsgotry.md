@@ -1,5 +1,6 @@
 ---
-title: "letsgotry | Patromierz"
+title: LetsGoTry | Patromierz
+
 permalink: /letsgotry
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "projektwzepolesila | Patromierz"
+title: "Projekt  W Zespole Si\u0142a  | Patromierz"
+
 permalink: /projektwzepolesila
 ---
 

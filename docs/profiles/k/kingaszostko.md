@@ -1,5 +1,6 @@
 ---
-title: "kingaszostko | Patromierz"
+title: Kinga Szostko | Patromierz
+
 permalink: /kingaszostko
 ---
 

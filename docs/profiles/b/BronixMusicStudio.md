@@ -1,5 +1,6 @@
 ---
-title: "BronixMusicStudio | Patromierz"
+title: Bronix Music Studio | Patromierz
+
 permalink: /BronixMusicStudio
 ---
 

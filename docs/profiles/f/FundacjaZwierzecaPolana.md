@@ -1,5 +1,6 @@
 ---
-title: "FundacjaZwierzecaPolana | Patromierz"
+title: "Fundacja Zwierz\u0119ca Polana | Patromierz"
+
 permalink: /FundacjaZwierzecaPolana
 ---
 

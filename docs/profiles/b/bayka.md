@@ -1,5 +1,6 @@
 ---
-title: "bayka | Patromierz"
+title: Bayka | Patromierz
+
 permalink: /bayka
 ---
 

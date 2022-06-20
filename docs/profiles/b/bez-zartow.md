@@ -1,5 +1,6 @@
 ---
-title: "bez-zartow | Patromierz"
+title: "BEZ \u017BART\xD3W | Patromierz"
+
 permalink: /bez-zartow
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "mrjazzek | Patromierz"
+title: Mr. Jazzek  | Patromierz
+
 permalink: /mrjazzek
 ---
 

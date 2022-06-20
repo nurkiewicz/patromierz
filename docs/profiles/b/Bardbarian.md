@@ -1,5 +1,6 @@
 ---
-title: "Bardbarian | Patromierz"
+title: Bardbarian | Patromierz
+
 permalink: /Bardbarian
 ---
 

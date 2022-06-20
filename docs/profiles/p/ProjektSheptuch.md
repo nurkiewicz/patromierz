@@ -1,5 +1,6 @@
 ---
-title: "ProjektSheptuch | Patromierz"
+title: Projekt Sheptuch | Patromierz
+
 permalink: /ProjektSheptuch
 ---
 

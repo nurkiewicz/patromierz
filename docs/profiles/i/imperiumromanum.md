@@ -1,5 +1,6 @@
 ---
-title: "imperiumromanum | Patromierz"
+title: IMPERIUM ROMANUM | Patromierz
+
 permalink: /imperiumromanum
 ---
 

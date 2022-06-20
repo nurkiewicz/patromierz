@@ -1,5 +1,6 @@
 ---
-title: "odstepczuszkiszymona | Patromierz"
+title: "Odst\u0119pczuszki Szymona | Patromierz"
+
 permalink: /odstepczuszkiszymona
 ---
 

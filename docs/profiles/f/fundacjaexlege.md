@@ -1,5 +1,6 @@
 ---
-title: "fundacjaexlege | Patromierz"
+title: Fundacja EX LEGE | Patromierz
+
 permalink: /fundacjaexlege
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "idz.ze.swoja.sila | Patromierz"
+title: "Id\u017A ze swoj\u0105 si\u0142\u0105! - Magdalena Czech | Patromierz"
+
 permalink: /idz.ze.swoja.sila
 ---
 

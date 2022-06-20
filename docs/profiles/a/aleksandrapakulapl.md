@@ -1,5 +1,6 @@
 ---
-title: "aleksandrapakulapl | Patromierz"
+title: "Aleksandra Paku\u0142a | Patromierz"
+
 permalink: /aleksandrapakulapl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "ZenonAqua | Patromierz"
+title: Zenon Aqua | Patromierz
+
 permalink: /ZenonAqua
 ---
 

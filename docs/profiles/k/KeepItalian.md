@@ -1,5 +1,6 @@
 ---
-title: "KeepItalian | Patromierz"
+title: Monika Chojecka | Patromierz
+
 permalink: /KeepItalian
 ---
 

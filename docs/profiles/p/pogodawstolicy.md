@@ -1,5 +1,6 @@
 ---
-title: "pogodawstolicy | Patromierz"
+title: Krzysztof Piasecki | Patromierz
+
 permalink: /pogodawstolicy
 ---
 

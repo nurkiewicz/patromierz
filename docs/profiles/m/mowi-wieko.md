@@ -1,5 +1,6 @@
 ---
-title: "mowi-wieko | Patromierz"
+title: "M\xF3wi Wieko | Patromierz"
+
 permalink: /mowi-wieko
 ---
 

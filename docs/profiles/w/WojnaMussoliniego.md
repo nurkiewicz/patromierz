@@ -1,5 +1,6 @@
 ---
-title: "WojnaMussoliniego | Patromierz"
+title: Wojna Mussoliniego | Patromierz
+
 permalink: /WojnaMussoliniego
 ---
 

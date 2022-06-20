@@ -1,5 +1,6 @@
 ---
-title: "sashabajek | Patromierz"
+title: Sasha Bajek - Rosjanka w Polsce | Patromierz
+
 permalink: /sashabajek
 ---
 

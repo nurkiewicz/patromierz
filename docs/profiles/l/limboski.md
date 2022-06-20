@@ -1,5 +1,6 @@
 ---
-title: "limboski | Patromierz"
+title: LIMBOSKI | Patromierz
+
 permalink: /limboski
 ---
 

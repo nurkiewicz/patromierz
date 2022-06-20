@@ -1,5 +1,6 @@
 ---
-title: "kipisz | Patromierz"
+title: KIPISZ | Patromierz
+
 permalink: /kipisz
 ---
 

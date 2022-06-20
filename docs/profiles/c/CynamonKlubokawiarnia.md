@@ -1,5 +1,6 @@
 ---
-title: "CynamonKlubokawiarnia | Patromierz"
+title: Klubokawiarnia Cynamon | Patromierz
+
 permalink: /CynamonKlubokawiarnia
 ---
 

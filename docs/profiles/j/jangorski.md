@@ -1,5 +1,6 @@
 ---
-title: "jangorski | Patromierz"
+title: antistorm.eu | Patromierz
+
 permalink: /jangorski
 ---
 

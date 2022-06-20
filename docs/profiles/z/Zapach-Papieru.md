@@ -1,5 +1,6 @@
 ---
-title: "Zapach-Papieru | Patromierz"
+title: Zapach Papieru | Patromierz
+
 permalink: /Zapach-Papieru
 ---
 

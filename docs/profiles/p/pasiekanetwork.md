@@ -1,5 +1,6 @@
 ---
-title: "pasiekanetwork | Patromierz"
+title: pasieka.network | Patromierz
+
 permalink: /pasiekanetwork
 ---
 

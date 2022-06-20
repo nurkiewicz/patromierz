@@ -1,5 +1,6 @@
 ---
-title: "transgrysy | Patromierz"
+title: TransGrysy | Patromierz
+
 permalink: /transgrysy
 ---
 

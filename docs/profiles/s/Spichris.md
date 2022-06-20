@@ -1,5 +1,6 @@
 ---
-title: "Spichris | Patromierz"
+title: Spichris | Patromierz
+
 permalink: /Spichris
 ---
 

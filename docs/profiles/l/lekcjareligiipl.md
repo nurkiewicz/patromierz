@@ -1,5 +1,6 @@
 ---
-title: "lekcjareligiipl | Patromierz"
+title: Lekcjareligii.pl | Patromierz
+
 permalink: /lekcjareligiipl
 ---
 

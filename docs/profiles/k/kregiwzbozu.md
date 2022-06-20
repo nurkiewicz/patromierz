@@ -1,5 +1,6 @@
 ---
-title: "kregiwzbozu | Patromierz"
+title: "Kr\u0119gi w zbo\u017Cu | Patromierz"
+
 permalink: /kregiwzbozu
 ---
 

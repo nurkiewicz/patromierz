@@ -1,5 +1,6 @@
 ---
-title: "WelderArt | Patromierz"
+title: Welder Art | Patromierz
+
 permalink: /WelderArt
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "MarianczelloDominoni | Patromierz"
+title: MarianczelloDominoni | Patromierz
+
 permalink: /MarianczelloDominoni
 ---
 

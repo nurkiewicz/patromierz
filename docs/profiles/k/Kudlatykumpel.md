@@ -1,5 +1,6 @@
 ---
-title: "Kudlatykumpel | Patromierz"
+title: "Fundacja Kud\u0142aty Kumpel  | Patromierz"
+
 permalink: /Kudlatykumpel
 ---
 

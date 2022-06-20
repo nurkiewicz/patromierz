@@ -1,5 +1,6 @@
 ---
-title: "swietymikolajdlaseniora | Patromierz"
+title: "\u015Awi\u0119ty Miko\u0142aj dla Seniora  | Patromierz"
+
 permalink: /swietymikolajdlaseniora
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "stowarzyszenie-stukot | Patromierz"
+title: Stowarzyszenie Stukot | Patromierz
+
 permalink: /stowarzyszenie-stukot
 ---
 

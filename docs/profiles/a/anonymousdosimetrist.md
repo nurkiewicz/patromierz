@@ -1,5 +1,6 @@
 ---
-title: "anonymousdosimetrist | Patromierz"
+title: Anonymous Dosimetrist | Patromierz
+
 permalink: /anonymousdosimetrist
 ---
 

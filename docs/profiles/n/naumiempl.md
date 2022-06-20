@@ -1,5 +1,6 @@
 ---
-title: "naumiempl | Patromierz"
+title: naumiem.pl | Patromierz
+
 permalink: /naumiempl
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "donaldpl | Patromierz"
+title: Donald.pl | Patromierz
+
 permalink: /donaldpl
 ---
 

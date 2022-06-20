@@ -1,5 +1,6 @@
 ---
-title: "KuchniaMartySawickiej | Patromierz"
+title: Kuchnia dla ubogich Marty Sawickiej | Patromierz
+
 permalink: /KuchniaMartySawickiej
 ---
 

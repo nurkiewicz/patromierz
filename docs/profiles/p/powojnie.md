@@ -1,5 +1,6 @@
 ---
-title: "powojnie | Patromierz"
+title: POWOJNIE | Patromierz
+
 permalink: /powojnie
 ---
 

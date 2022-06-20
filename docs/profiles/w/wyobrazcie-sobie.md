@@ -1,5 +1,6 @@
 ---
-title: "wyobrazcie-sobie | Patromierz"
+title: "Wyobra\u017Acie Sobie | Patromierz"
+
 permalink: /wyobrazcie-sobie
 ---
 

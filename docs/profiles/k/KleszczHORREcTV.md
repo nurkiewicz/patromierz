@@ -1,5 +1,6 @@
 ---
-title: "KleszczHORREcTV | Patromierz"
+title: Kleszcz HORREcTV | Patromierz
+
 permalink: /KleszczHORREcTV
 ---
 

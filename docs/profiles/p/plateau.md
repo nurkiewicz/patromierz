@@ -1,5 +1,6 @@
 ---
-title: "plateau | Patromierz"
+title: PLATEAU | Patromierz
+
 permalink: /plateau
 ---
 

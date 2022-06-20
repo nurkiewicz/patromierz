@@ -1,5 +1,6 @@
 ---
-title: "elvizja | Patromierz"
+title: Elvizja | Patromierz
+
 permalink: /elvizja
 ---
 

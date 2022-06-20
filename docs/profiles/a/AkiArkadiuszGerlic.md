@@ -1,5 +1,6 @@
 ---
-title: "AkiArkadiuszGerlic | Patromierz"
+title: Aki Arkadiusz Gerlic | Patromierz
+
 permalink: /AkiArkadiuszGerlic
 ---
 

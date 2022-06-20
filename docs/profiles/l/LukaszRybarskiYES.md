@@ -1,5 +1,6 @@
 ---
-title: "LukaszRybarskiYES | Patromierz"
+title: "\u0141ukasz Rybarski YES:) | Patromierz"
+
 permalink: /LukaszRybarskiYES
 ---
 

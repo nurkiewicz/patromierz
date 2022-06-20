@@ -1,5 +1,6 @@
 ---
-title: "localhealer | Patromierz"
+title: Local Healer | Patromierz
+
 permalink: /localhealer
 ---
 

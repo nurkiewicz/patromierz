@@ -1,5 +1,6 @@
 ---
-title: "jakub-dabrowski | Patromierz"
+title: Jakub Dabrowski | Patromierz
+
 permalink: /jakub-dabrowski
 ---
 

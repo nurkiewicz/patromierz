@@ -1,5 +1,6 @@
 ---
-title: "Planszówkiwedwoje | Patromierz"
+title: "Plansz\xF3wki we dwoje | Patromierz"
+
 permalink: /Planszówkiwedwoje
 ---
 

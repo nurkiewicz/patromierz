@@ -1,5 +1,6 @@
 ---
-title: "rafalgalinski | Patromierz"
+title: Rafal Galinski | Patromierz
+
 permalink: /rafalgalinski
 ---
 

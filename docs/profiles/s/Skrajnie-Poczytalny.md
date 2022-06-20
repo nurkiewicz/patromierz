@@ -1,5 +1,6 @@
 ---
-title: "Skrajnie-Poczytalny | Patromierz"
+title: Adrian Kaszuba | Patromierz
+
 permalink: /Skrajnie-Poczytalny
 ---
 

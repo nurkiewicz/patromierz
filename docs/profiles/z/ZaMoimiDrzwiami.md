@@ -1,5 +1,6 @@
 ---
-title: "ZaMoimiDrzwiami | Patromierz"
+title: Za Moimi Drzwiami  | Patromierz
+
 permalink: /ZaMoimiDrzwiami
 ---
 

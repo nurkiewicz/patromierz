@@ -1,5 +1,6 @@
 ---
-title: "IntuicjanaTarot | Patromierz"
+title: Intuicjana Inti Tarot | Patromierz
+
 permalink: /IntuicjanaTarot
 ---
 

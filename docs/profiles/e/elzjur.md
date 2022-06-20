@@ -1,5 +1,6 @@
 ---
-title: "elzjur | Patromierz"
+title: "El\u017Cbieta Jurczyk | Patromierz"
+
 permalink: /elzjur
 ---
 

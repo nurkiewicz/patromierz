@@ -1,5 +1,6 @@
 ---
-title: "zboj | Patromierz"
+title: Monika Laprus-Wierzejska | Patromierz
+
 permalink: /zboj
 ---
 

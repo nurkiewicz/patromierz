@@ -1,5 +1,6 @@
 ---
-title: "lokalsi | Patromierz"
+title: Lokalsi.net | Patromierz
+
 permalink: /lokalsi
 ---
 

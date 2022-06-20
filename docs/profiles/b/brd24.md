@@ -1,5 +1,6 @@
 ---
-title: "brd24 | Patromierz"
+title: BRD24.pl | Patromierz
+
 permalink: /brd24
 ---
 

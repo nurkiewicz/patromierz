@@ -1,5 +1,6 @@
 ---
-title: "luksusowetorebki | Patromierz"
+title: LUKSUSOWE TOREBKI by Lux&Happy | Patromierz
+
 permalink: /luksusowetorebki
 ---
 

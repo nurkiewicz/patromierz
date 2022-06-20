@@ -1,5 +1,6 @@
 ---
-title: "psonigorzow | Patromierz"
+title: "PSONI Ko\u0142o w Gorzowie Wielkopolskim | Patromierz"
+
 permalink: /psonigorzow
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "zyciewartejestrozmowy | Patromierz"
+title: "\u017Cycie warte jest rozmowy | Patromierz"
+
 permalink: /zyciewartejestrozmowy
 ---
 

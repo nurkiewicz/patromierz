@@ -1,5 +1,6 @@
 ---
-title: "Vanessapower | Patromierz"
+title: Vanessa Power Kujawiak | Patromierz
+
 permalink: /Vanessapower
 ---
 

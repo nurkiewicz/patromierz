@@ -1,5 +1,6 @@
 ---
-title: "wizna1939 | Patromierz"
+title: Stowarzyszenie "Wizna 1939" | Patromierz
+
 permalink: /wizna1939
 ---
 

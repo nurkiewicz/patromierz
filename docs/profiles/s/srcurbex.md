@@ -1,5 +1,6 @@
 ---
-title: "srcurbex | Patromierz"
+title: SRC Urbex | Patromierz
+
 permalink: /srcurbex
 ---
 

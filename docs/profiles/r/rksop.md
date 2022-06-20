@@ -1,5 +1,6 @@
 ---
-title: "rksop | Patromierz"
+title: RKSOP AKJ | Patromierz
+
 permalink: /rksop
 ---
 

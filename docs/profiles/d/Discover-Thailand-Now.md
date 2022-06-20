@@ -1,5 +1,6 @@
 ---
-title: "Discover-Thailand-Now | Patromierz"
+title: DISCOVER THAILAND NOW | Patromierz
+
 permalink: /Discover-Thailand-Now
 ---
 

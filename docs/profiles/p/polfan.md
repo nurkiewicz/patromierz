@@ -1,5 +1,6 @@
 ---
-title: "polfan | Patromierz"
+title: Polfan.pl | Patromierz
+
 permalink: /polfan
 ---
 

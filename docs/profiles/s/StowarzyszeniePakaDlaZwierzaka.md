@@ -1,5 +1,6 @@
 ---
-title: "StowarzyszeniePakaDlaZwierzaka | Patromierz"
+title: Stowarzyszenie Paka dla Zwierzaka | Patromierz
+
 permalink: /StowarzyszeniePakaDlaZwierzaka
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "AnnaTess | Patromierz"
+title: "Anna Tess Go\u0142\u0119biowska | Patromierz"
+
 permalink: /AnnaTess
 ---
 

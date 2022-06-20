@@ -1,5 +1,6 @@
 ---
-title: "FishingWithAce | Patromierz"
+title: Tomasz Lewandowski | Patromierz
+
 permalink: /FishingWithAce
 ---
 

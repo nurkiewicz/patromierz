@@ -1,5 +1,6 @@
 ---
-title: "PolskaTradycja | Patromierz"
+title: Polska Tradycja | Patromierz
+
 permalink: /PolskaTradycja
 ---
 

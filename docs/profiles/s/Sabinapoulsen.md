@@ -1,5 +1,6 @@
 ---
-title: "Sabinapoulsen | Patromierz"
+title: Sabina Poulsen  | Patromierz
+
 permalink: /Sabinapoulsen
 ---
 

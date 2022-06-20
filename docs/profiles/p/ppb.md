@@ -1,5 +1,6 @@
 ---
-title: "ppb | Patromierz"
+title: Stowarzyszenie Pieszo przez Bory | Patromierz
+
 permalink: /ppb
 ---
 

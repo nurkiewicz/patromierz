@@ -1,5 +1,6 @@
 ---
-title: "patronite.plPilkarskaEstonia | Patromierz"
+title: "Pi\u0142karska Estonia | Patromierz"
+
 permalink: /patronite.plPilkarskaEstonia
 ---
 

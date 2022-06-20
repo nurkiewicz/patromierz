@@ -1,5 +1,6 @@
 ---
-title: "ZbigniewJaskolskiTV | Patromierz"
+title: "Zbigniew Jask\xF3lski | Patromierz"
+
 permalink: /ZbigniewJaskolskiTV
 ---
 

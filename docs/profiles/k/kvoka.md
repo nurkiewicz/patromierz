@@ -1,5 +1,6 @@
 ---
-title: "kvoka | Patromierz"
+title: Kvoka | Patromierz
+
 permalink: /kvoka
 ---
 

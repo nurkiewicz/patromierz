@@ -1,5 +1,6 @@
 ---
-title: "hodowlaslow | Patromierz"
+title: "Hodowla S\u0142\xF3w | Patromierz"
+
 permalink: /hodowlaslow
 ---
 

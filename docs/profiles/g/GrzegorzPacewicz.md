@@ -1,5 +1,6 @@
 ---
-title: "GrzegorzPacewicz | Patromierz"
+title: Grzegorz Pacewicz | Patromierz
+
 permalink: /GrzegorzPacewicz
 ---
 

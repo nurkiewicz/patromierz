@@ -1,5 +1,6 @@
 ---
-title: "grandeconnection | Patromierz"
+title: GRANDE CONNECTION | Patromierz
+
 permalink: /grandeconnection
 ---
 

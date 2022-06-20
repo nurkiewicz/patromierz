@@ -1,5 +1,6 @@
 ---
-title: "emisjatv | Patromierz"
+title: eMisjaTv | Patromierz
+
 permalink: /emisjatv
 ---
 

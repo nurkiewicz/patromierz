@@ -1,5 +1,6 @@
 ---
-title: "WarcabyTV | Patromierz"
+title: Damian Reszka - WarcabyTV | Patromierz
+
 permalink: /WarcabyTV
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "elizamichalik | Patromierz"
+title: Eliza Michalik | Patromierz
+
 permalink: /elizamichalik
 ---
 

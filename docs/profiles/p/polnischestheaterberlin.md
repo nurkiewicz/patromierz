@@ -1,5 +1,6 @@
 ---
-title: "polnischestheaterberlin | Patromierz"
+title: Polnisches Theater Berlin | Patromierz
+
 permalink: /polnischestheaterberlin
 ---
 

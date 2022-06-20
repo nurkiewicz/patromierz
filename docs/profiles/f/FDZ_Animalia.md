@@ -1,5 +1,6 @@
 ---
-title: "FDZ_Animalia | Patromierz"
+title: "Fundacja dla Zwierz\u0105t Animalia | Patromierz"
+
 permalink: /FDZ_Animalia
 ---
 

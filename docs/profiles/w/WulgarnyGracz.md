@@ -1,5 +1,6 @@
 ---
-title: "WulgarnyGracz | Patromierz"
+title: Wulgarny Gracz | Patromierz
+
 permalink: /WulgarnyGracz
 ---
 

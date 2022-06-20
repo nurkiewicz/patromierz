@@ -1,5 +1,6 @@
 ---
-title: "slowoimoc | Patromierz"
+title: "S\u0142owo i Moc | Patromierz"
+
 permalink: /slowoimoc
 ---
 

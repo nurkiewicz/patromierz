@@ -1,5 +1,6 @@
 ---
-title: "MimiMinionka | Patromierz"
+title: FP MimiMinionka - Patryk Kosacki | Patromierz
+
 permalink: /MimiMinionka
 ---
 

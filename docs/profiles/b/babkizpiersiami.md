@@ -1,5 +1,6 @@
 ---
-title: "babkizpiersiami | Patromierz"
+title: Babki z piersiami | Patromierz
+
 permalink: /babkizpiersiami
 ---
 

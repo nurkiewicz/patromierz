@@ -1,5 +1,6 @@
 ---
-title: "APC | Patromierz"
+title: Akcja dla Kolarstwa | Patromierz
+
 permalink: /APC
 ---
 

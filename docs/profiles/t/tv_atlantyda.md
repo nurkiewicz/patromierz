@@ -1,5 +1,6 @@
 ---
-title: "tv_atlantyda | Patromierz"
+title: TV Atlantyda / Marcelo Zammenhoff | Patromierz
+
 permalink: /tv_atlantyda
 ---
 

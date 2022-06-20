@@ -1,5 +1,6 @@
 ---
-title: "otwartapracownia | Patromierz"
+title: "Otwarta Pracownia Jazd\xF3w | Patromierz"
+
 permalink: /otwartapracownia
 ---
 

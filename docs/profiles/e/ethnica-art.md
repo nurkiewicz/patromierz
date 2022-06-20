@@ -1,5 +1,6 @@
 ---
-title: "ethnica-art | Patromierz"
+title: Ethnica-Art Janusz Czarnecki | Patromierz
+
 permalink: /ethnica-art
 ---
 

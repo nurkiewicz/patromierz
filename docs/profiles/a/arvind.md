@@ -1,5 +1,6 @@
 ---
-title: "arvind | Patromierz"
+title: Arvind Juneja | Patromierz
+
 permalink: /arvind
 ---
 

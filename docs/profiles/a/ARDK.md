@@ -1,5 +1,6 @@
 ---
-title: "ARDK | Patromierz"
+title: Akcja Ratunkowa Dla Krakowa | Patromierz
+
 permalink: /ARDK
 ---
 

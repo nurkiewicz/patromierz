@@ -1,5 +1,6 @@
 ---
-title: "alacpl | Patromierz"
+title: ALAC - Amatorska Liga Assetto Corsa | Patromierz
+
 permalink: /alacpl
 ---
 

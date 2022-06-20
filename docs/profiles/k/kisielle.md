@@ -1,5 +1,6 @@
 ---
-title: "kisielle | Patromierz"
+title: Aleksandra Kisiel | Patromierz
+
 permalink: /kisielle
 ---
 

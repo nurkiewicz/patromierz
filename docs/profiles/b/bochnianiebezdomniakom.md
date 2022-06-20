@@ -1,5 +1,6 @@
 ---
-title: "bochnianiebezdomniakom | Patromierz"
+title: STOWARZYSZENIE "BOCHNIANIE BEZDOMNIAKOM" | Patromierz
+
 permalink: /bochnianiebezdomniakom
 ---
 

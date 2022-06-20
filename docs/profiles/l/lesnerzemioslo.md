@@ -1,5 +1,6 @@
 ---
-title: "lesnerzemioslo | Patromierz"
+title: "Le\u015Bne Rzemios\u0142o | Patromierz"
+
 permalink: /lesnerzemioslo
 ---
 

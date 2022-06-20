@@ -1,5 +1,6 @@
 ---
-title: "StarePlanyMiast | Patromierz"
+title: Stare Plany Miast | Patromierz
+
 permalink: /StarePlanyMiast
 ---
 

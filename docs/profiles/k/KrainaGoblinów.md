@@ -1,5 +1,6 @@
 ---
-title: "KrainaGoblinów | Patromierz"
+title: "Kraina Goblin\xF3w | Patromierz"
+
 permalink: /KrainaGoblinów
 ---
 

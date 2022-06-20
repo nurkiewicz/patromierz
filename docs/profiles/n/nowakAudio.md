@@ -1,5 +1,6 @@
 ---
-title: "nowakAudio | Patromierz"
+title: nowakAudio | Patromierz
+
 permalink: /nowakAudio
 ---
 

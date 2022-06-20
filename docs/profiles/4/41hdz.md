@@ -1,5 +1,7 @@
 ---
-title: "41hdz | Patromierz"
+title: "41 Harcerska Dru\u017Cyna \u017Beglarska im. W\u0142adys\u0142awa Wagnera\
+  \ | Patromierz"
+
 permalink: /41hdz
 ---
 

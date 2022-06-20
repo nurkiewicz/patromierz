@@ -1,5 +1,6 @@
 ---
-title: "Astromiasto | Patromierz"
+title: AstroMiasto | Patromierz
+
 permalink: /Astromiasto
 ---
 

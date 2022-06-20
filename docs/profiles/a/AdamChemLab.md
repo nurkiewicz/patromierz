@@ -1,5 +1,6 @@
 ---
-title: "AdamChemLab | Patromierz"
+title: Adam ChemLab | Patromierz
+
 permalink: /AdamChemLab
 ---
 

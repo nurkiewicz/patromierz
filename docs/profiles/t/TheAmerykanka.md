@@ -1,5 +1,6 @@
 ---
-title: "TheAmerykanka | Patromierz"
+title: The Amerykanka | Patromierz
+
 permalink: /TheAmerykanka
 ---
 

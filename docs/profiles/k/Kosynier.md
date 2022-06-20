@@ -1,5 +1,6 @@
 ---
-title: "Kosynier | Patromierz"
+title: Kosynier | Patromierz
+
 permalink: /Kosynier
 ---
 

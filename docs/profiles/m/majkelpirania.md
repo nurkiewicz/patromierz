@@ -1,5 +1,6 @@
 ---
-title: "majkelpirania | Patromierz"
+title: "Micha\u0142 Piech \"Majkel\" | Patromierz"
+
 permalink: /majkelpirania
 ---
 

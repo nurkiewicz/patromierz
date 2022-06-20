@@ -1,5 +1,6 @@
 ---
-title: "BOGAty | Patromierz"
+title: BOGAty | Patromierz
+
 permalink: /BOGAty
 ---
 

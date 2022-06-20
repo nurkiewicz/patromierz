@@ -1,5 +1,6 @@
 ---
-title: "Staroscic | Patromierz"
+title: "Piotr Staro\u015Bcic | Patromierz"
+
 permalink: /Staroscic
 ---
 

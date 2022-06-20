@@ -1,5 +1,6 @@
 ---
-title: "michaltreutler | Patromierz"
+title: "Fotograf Micha\u0142 Treutler | Patromierz"
+
 permalink: /michaltreutler
 ---
 

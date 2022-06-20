@@ -1,5 +1,6 @@
 ---
-title: "napokolenia | Patromierz"
+title: Dobrobyt na Pokolenia | Patromierz
+
 permalink: /napokolenia
 ---
 

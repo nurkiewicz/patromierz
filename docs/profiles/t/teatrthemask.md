@@ -1,5 +1,6 @@
 ---
-title: "teatrthemask | Patromierz"
+title: Teatr The M.A.S.K. | Patromierz
+
 permalink: /teatrthemask
 ---
 

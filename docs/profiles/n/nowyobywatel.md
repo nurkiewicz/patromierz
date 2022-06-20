@@ -1,5 +1,7 @@
 ---
-title: "nowyobywatel | Patromierz"
+title: "Kwartalnik \u201ENowy Obywatel\u201D \u2013 pismo na rzecz sprawiedliwo\u015B\
+  ci spo\u0142ecznej | Patromierz"
+
 permalink: /nowyobywatel
 ---
 

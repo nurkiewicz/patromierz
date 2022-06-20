@@ -1,5 +1,6 @@
 ---
-title: "zolaceramics | Patromierz"
+title: maria zola | Patromierz
+
 permalink: /zolaceramics
 ---
 

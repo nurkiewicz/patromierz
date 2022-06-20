@@ -1,5 +1,6 @@
 ---
-title: "kartingraport | Patromierz"
+title: Karting Raport | Patromierz
+
 permalink: /kartingraport
 ---
 

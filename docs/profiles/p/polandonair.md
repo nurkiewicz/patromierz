@@ -1,5 +1,6 @@
 ---
-title: "polandonair | Patromierz"
+title: Poland On Air | Patromierz
+
 permalink: /polandonair
 ---
 

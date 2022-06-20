@@ -1,5 +1,6 @@
 ---
-title: "KotulniaAnKa | Patromierz"
+title: Kotulnia AnKa | Patromierz
+
 permalink: /KotulniaAnKa
 ---
 

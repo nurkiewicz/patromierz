@@ -1,5 +1,6 @@
 ---
-title: "astroholik | Patromierz"
+title: Astroholik  | Patromierz
+
 permalink: /astroholik
 ---
 

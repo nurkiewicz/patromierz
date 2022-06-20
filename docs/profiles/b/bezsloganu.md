@@ -1,5 +1,6 @@
 ---
-title: "bezsloganu | Patromierz"
+title: bEZ sLOGANU | Patromierz
+
 permalink: /bezsloganu
 ---
 

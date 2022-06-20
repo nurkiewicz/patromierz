@@ -1,5 +1,6 @@
 ---
-title: "gildiadcs | Patromierz"
+title: Gildia DCS | Patromierz
+
 permalink: /gildiadcs
 ---
 

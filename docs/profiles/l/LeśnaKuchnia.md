@@ -1,5 +1,6 @@
 ---
-title: "LeśnaKuchnia | Patromierz"
+title: "Le\u015Bna Kuchnia | Patromierz"
+
 permalink: /LeśnaKuchnia
 ---
 

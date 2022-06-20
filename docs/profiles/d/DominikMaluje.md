@@ -1,5 +1,6 @@
 ---
-title: "DominikMaluje | Patromierz"
+title: DOMINIK MALUJE | Patromierz
+
 permalink: /DominikMaluje
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "gizicki | Patromierz"
+title: "KSI\u0104\u017BKA - \"Wsp\xF3\u0142czesny polski komiks\" | Patromierz"
+
 permalink: /gizicki
 ---
 

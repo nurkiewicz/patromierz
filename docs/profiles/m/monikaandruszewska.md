@@ -1,5 +1,6 @@
 ---
-title: "monikaandruszewska | Patromierz"
+title: Monika Andruszewska - wojenny korespondent | Patromierz
+
 permalink: /monikaandruszewska
 ---
 

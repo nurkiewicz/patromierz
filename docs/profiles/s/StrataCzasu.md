@@ -1,5 +1,6 @@
 ---
-title: "StrataCzasu | Patromierz"
+title: Strata Czasu | Patromierz
+
 permalink: /StrataCzasu
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Elektronika_Układy_FPGA | Patromierz"
+title: "Elektronika, Uk\u0142ady FPGA | Patromierz"
+
 permalink: /Elektronika_Układy_FPGA
 ---
 

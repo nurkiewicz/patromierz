@@ -1,5 +1,6 @@
 ---
-title: "mroooook | Patromierz"
+title: Mroooook  | Patromierz
+
 permalink: /mroooook
 ---
 

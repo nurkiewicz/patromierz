@@ -1,5 +1,6 @@
 ---
-title: "akademiawloskiegocinema | Patromierz"
+title: "Diana D\u0105browska - Accademia W\u0142oskiego Kina | Patromierz"
+
 permalink: /akademiawloskiegocinema
 ---
 

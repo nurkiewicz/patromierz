@@ -1,5 +1,6 @@
 ---
-title: "alphadogz | Patromierz"
+title: Alpha Dogz Monika Rakowska | Patromierz
+
 permalink: /alphadogz
 ---
 

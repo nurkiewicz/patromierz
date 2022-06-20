@@ -1,5 +1,6 @@
 ---
-title: "teatrexit | Patromierz"
+title: TeatrEXIT | Patromierz
+
 permalink: /teatrexit
 ---
 

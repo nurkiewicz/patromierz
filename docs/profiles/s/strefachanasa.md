@@ -1,5 +1,6 @@
 ---
-title: "strefachanasa | Patromierz"
+title: Strefa Chanasa | Patromierz
+
 permalink: /strefachanasa
 ---
 

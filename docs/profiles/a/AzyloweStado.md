@@ -1,5 +1,6 @@
 ---
-title: "AzyloweStado | Patromierz"
+title: Azylowe Stado | Patromierz
+
 permalink: /AzyloweStado
 ---
 

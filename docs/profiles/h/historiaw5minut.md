@@ -1,5 +1,6 @@
 ---
-title: "historiaw5minut | Patromierz"
+title: Historia w 5 minut | Patromierz
+
 permalink: /historiaw5minut
 ---
 

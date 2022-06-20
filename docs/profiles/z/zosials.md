@@ -1,5 +1,6 @@
 ---
-title: "zosials | Patromierz"
+title: Zosia LS | Patromierz
+
 permalink: /zosials
 ---
 

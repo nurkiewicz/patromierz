@@ -1,5 +1,6 @@
 ---
-title: "katowice-wynajem | Patromierz"
+title: Katowice Wynajem | Patromierz
+
 permalink: /katowice-wynajem
 ---
 

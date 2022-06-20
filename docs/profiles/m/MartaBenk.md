@@ -1,5 +1,6 @@
 ---
-title: "MartaBenk | Patromierz"
+title: Marta Benk - Organistka PL | Patromierz
+
 permalink: /MartaBenk
 ---
 

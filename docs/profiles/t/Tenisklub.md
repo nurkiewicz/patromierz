@@ -1,5 +1,6 @@
 ---
-title: "Tenisklub | Patromierz"
+title: Magazyn Tenisklub | Patromierz
+
 permalink: /Tenisklub
 ---
 

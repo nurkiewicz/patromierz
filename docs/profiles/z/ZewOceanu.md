@@ -1,5 +1,6 @@
 ---
-title: "ZewOceanu | Patromierz"
+title: "Zew Oceanu - dooko\u0142a \u015Bwiata, raz jeszcze | Patromierz"
+
 permalink: /ZewOceanu
 ---
 

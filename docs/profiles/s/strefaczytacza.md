@@ -1,5 +1,6 @@
 ---
-title: "strefaczytacza | Patromierz"
+title: Strefa Czytacza | Patromierz
+
 permalink: /strefaczytacza
 ---
 

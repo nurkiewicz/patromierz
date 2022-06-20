@@ -1,5 +1,6 @@
 ---
-title: "okonwsieci | Patromierz"
+title: "Oko\u0144 w sieci | Patromierz"
+
 permalink: /okonwsieci
 ---
 

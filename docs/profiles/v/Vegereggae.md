@@ -1,5 +1,6 @@
 ---
-title: "Vegereggae | Patromierz"
+title: "Rafa\u0142 Vegereggae | Patromierz"
+
 permalink: /Vegereggae
 ---
 

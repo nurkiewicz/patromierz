@@ -1,5 +1,6 @@
 ---
-title: "sambudujedom | Patromierz"
+title: "Sam buduj\u0119 dom - bez kredytu | Patromierz"
+
 permalink: /sambudujedom
 ---
 

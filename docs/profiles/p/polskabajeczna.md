@@ -1,5 +1,6 @@
 ---
-title: "polskabajeczna | Patromierz"
+title: Polska Bajeczna | Patromierz
+
 permalink: /polskabajeczna
 ---
 

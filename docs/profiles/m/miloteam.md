@@ -1,5 +1,6 @@
 ---
-title: "miloteam | Patromierz"
+title: "Mi\u0142osz Sowi\u0144ski | Patromierz"
+
 permalink: /miloteam
 ---
 

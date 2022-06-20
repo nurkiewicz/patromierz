@@ -1,5 +1,6 @@
 ---
-title: "marfish | Patromierz"
+title: Marek Malman | Patromierz
+
 permalink: /marfish
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "KawalKina | Patromierz"
+title: "Kawa\u0142 Kina | Patromierz"
+
 permalink: /KawalKina
 ---
 

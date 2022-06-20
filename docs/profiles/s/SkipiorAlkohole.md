@@ -1,5 +1,6 @@
 ---
-title: "SkipiorAlkohole | Patromierz"
+title: Skipior Alkohole | Patromierz
+
 permalink: /SkipiorAlkohole
 ---
 

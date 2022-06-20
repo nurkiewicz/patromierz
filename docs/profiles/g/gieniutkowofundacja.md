@@ -1,5 +1,6 @@
 ---
-title: "gieniutkowofundacja | Patromierz"
+title: Fundacja prosiaczka Eugeniusza Gieniutkowo | Patromierz
+
 permalink: /gieniutkowofundacja
 ---
 

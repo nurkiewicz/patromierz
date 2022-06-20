@@ -1,5 +1,6 @@
 ---
-title: "SztukaPolska | Patromierz"
+title: Sztuka Polska | Patromierz
+
 permalink: /SztukaPolska
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "kolejwogrodzie | Patromierz"
+title: "\u017Bu\u0142awska Kolej Ogrodowa Tomka | Patromierz"
+
 permalink: /kolejwogrodzie
 ---
 

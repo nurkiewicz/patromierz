@@ -1,5 +1,6 @@
 ---
-title: "wojciechjanik | Patromierz"
+title: Wojciech Janik | Patromierz
+
 permalink: /wojciechjanik
 ---
 

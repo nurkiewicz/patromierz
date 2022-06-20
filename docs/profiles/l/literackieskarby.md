@@ -1,5 +1,6 @@
 ---
-title: "literackieskarby | Patromierz"
+title: "Literackie Skarby \u015Awiata Ca\u0142ego | Patromierz"
+
 permalink: /literackieskarby
 ---
 

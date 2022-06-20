@@ -1,5 +1,6 @@
 ---
-title: "JanekSpiewak | Patromierz"
+title: "Jan \u015Apiewak | Patromierz"
+
 permalink: /JanekSpiewak
 ---
 

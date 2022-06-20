@@ -1,5 +1,6 @@
 ---
-title: "okoloroweru | Patromierz"
+title: "Kamil Ariel M\u0105kosza | Patromierz"
+
 permalink: /okoloroweru
 ---
 

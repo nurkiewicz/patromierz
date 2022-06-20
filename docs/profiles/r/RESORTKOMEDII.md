@@ -1,5 +1,6 @@
 ---
-title: "RESORTKOMEDII | Patromierz"
+title: Resort Komedii | Patromierz
+
 permalink: /RESORTKOMEDII
 ---
 

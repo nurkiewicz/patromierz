@@ -1,5 +1,6 @@
 ---
-title: "diydesign | Patromierz"
+title: DIYdesign | Patromierz
+
 permalink: /diydesign
 ---
 

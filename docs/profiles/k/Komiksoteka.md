@@ -1,5 +1,6 @@
 ---
-title: "Komiksoteka | Patromierz"
+title: Komiksoteka w szkole | Patromierz
+
 permalink: /Komiksoteka
 ---
 

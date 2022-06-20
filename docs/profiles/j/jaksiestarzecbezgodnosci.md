@@ -1,5 +1,6 @@
 ---
-title: "jaksiestarzecbezgodnosci | Patromierz"
+title: "Jak si\u0119 starze\u0107 bez godno\u015Bci | Patromierz"
+
 permalink: /jaksiestarzecbezgodnosci
 ---
 

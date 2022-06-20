@@ -1,5 +1,6 @@
 ---
-title: "przygarnijkota | Patromierz"
+title: Przygarnij Kota | Patromierz
+
 permalink: /przygarnijkota
 ---
 

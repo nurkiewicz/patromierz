@@ -1,5 +1,6 @@
 ---
-title: "VlogKreta | Patromierz"
+title: Vlog Kreta | Patromierz
+
 permalink: /VlogKreta
 ---
 

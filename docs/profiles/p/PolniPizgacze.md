@@ -1,5 +1,6 @@
 ---
-title: "PolniPizgacze | Patromierz"
+title: Polni Pizgacze | Patromierz
+
 permalink: /PolniPizgacze
 ---
 

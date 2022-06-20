@@ -1,5 +1,6 @@
 ---
-title: "jakubzgierski | Patromierz"
+title: Jakub Zgierski | Patromierz
+
 permalink: /jakubzgierski
 ---
 

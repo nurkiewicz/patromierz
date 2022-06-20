@@ -1,5 +1,6 @@
 ---
-title: "kupidura | Patromierz"
+title: "Przemys\u0142aw Kupidura | Patromierz"
+
 permalink: /kupidura
 ---
 

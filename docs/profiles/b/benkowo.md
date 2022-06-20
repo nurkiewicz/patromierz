@@ -1,5 +1,6 @@
 ---
-title: "benkowo | Patromierz"
+title: "Benkowo - dom zwierz\u0105t | Patromierz"
+
 permalink: /benkowo
 ---
 

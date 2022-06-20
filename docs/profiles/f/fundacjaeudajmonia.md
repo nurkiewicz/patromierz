@@ -1,5 +1,6 @@
 ---
-title: "fundacjaeudajmonia | Patromierz"
+title: Fundacja Eudajmonia | Patromierz
+
 permalink: /fundacjaeudajmonia
 ---
 

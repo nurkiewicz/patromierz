@@ -1,5 +1,6 @@
 ---
-title: "filozofiazycia | Patromierz"
+title: "Filozofia \u017Bycia - Zosia Wilk | Patromierz"
+
 permalink: /filozofiazycia
 ---
 

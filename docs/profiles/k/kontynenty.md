@@ -1,5 +1,6 @@
 ---
-title: "kontynenty | Patromierz"
+title: Kontynenty | Patromierz
+
 permalink: /kontynenty
 ---
 

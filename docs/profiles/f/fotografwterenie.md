@@ -1,5 +1,6 @@
 ---
-title: "fotografwterenie | Patromierz"
+title: Fotograf w Terenie | Patromierz
+
 permalink: /fotografwterenie
 ---
 

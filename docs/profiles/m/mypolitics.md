@@ -1,5 +1,6 @@
 ---
-title: "mypolitics | Patromierz"
+title: myPolitics | Patromierz
+
 permalink: /mypolitics
 ---
 

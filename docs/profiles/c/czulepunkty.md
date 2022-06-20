@@ -1,5 +1,6 @@
 ---
-title: "czulepunkty | Patromierz"
+title: "Czu\u0142e Punkty // Sylwia \"Nikko\" Biernacka  | Patromierz"
+
 permalink: /czulepunkty
 ---
 

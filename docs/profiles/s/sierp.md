@@ -1,5 +1,6 @@
 ---
-title: "sierp | Patromierz"
+title: "Jacek Sierpi\u0144ski | Patromierz"
+
 permalink: /sierp
 ---
 

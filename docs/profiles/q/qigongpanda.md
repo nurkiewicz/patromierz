@@ -1,5 +1,6 @@
 ---
-title: "qigongpanda | Patromierz"
+title: QIGONG PANDA | Patromierz
+
 permalink: /qigongpanda
 ---
 

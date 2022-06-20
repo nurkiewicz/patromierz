@@ -1,5 +1,6 @@
 ---
-title: "justhorses | Patromierz"
+title: JustHorses | Patromierz
+
 permalink: /justhorses
 ---
 

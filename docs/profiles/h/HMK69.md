@@ -1,5 +1,6 @@
 ---
-title: "HMK69 | Patromierz"
+title: HMK69 | Patromierz
+
 permalink: /HMK69
 ---
 

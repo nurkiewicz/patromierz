@@ -1,5 +1,6 @@
 ---
-title: "Ciekawi_Krakowa | Patromierz"
+title: Ciekawi Krakowa | Patromierz
+
 permalink: /Ciekawi_Krakowa
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "galadhorn | Patromierz"
+title: "Ryszard \"Galadhorn\" Derdzi\u0144ski | Patromierz"
+
 permalink: /galadhorn
 ---
 

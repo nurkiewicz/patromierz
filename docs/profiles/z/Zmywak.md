@@ -1,5 +1,6 @@
 ---
-title: "Zmywak | Patromierz"
+title: Zmywak | Patromierz
+
 permalink: /Zmywak
 ---
 

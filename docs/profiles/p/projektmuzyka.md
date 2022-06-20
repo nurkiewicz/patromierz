@@ -1,5 +1,6 @@
 ---
-title: "projektmuzyka | Patromierz"
+title: Projekt Muzyka | Patromierz
+
 permalink: /projektmuzyka
 ---
 

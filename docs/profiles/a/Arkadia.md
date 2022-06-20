@@ -1,5 +1,6 @@
 ---
-title: "Arkadia | Patromierz"
+title: "Fundacja  \"Zwierz\u0119ca Arkadia\" | Patromierz"
+
 permalink: /Arkadia
 ---
 

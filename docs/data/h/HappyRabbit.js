@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["HappyRabbit"] = [
+	[1611446400,605,55,11.0,2515,null],
 	[1643358143,825,63,13.09,11990,null],
 	[1643432392,825,63,13.09,12005,null],
 	[1643522586,825,63,13.09,12050,null],

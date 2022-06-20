@@ -1,5 +1,6 @@
 ---
-title: "koniki_ursza | Patromierz"
+title: Koniki Ursza | Patromierz
+
 permalink: /koniki_ursza
 ---
 

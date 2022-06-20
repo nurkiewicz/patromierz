@@ -1,5 +1,6 @@
 ---
-title: "niepelnosprytna | Patromierz"
+title: "Malwina \u0141api\u0144ska | Patromierz"
+
 permalink: /niepelnosprytna
 ---
 

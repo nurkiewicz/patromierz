@@ -1,5 +1,6 @@
 ---
-title: "histmag | Patromierz"
+title: Histmag.org | Patromierz
+
 permalink: /histmag
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "FundacjaDlaWszystkich | Patromierz"
+title: Fundacja Dla Wszystkich | Patromierz
+
 permalink: /FundacjaDlaWszystkich
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "filipbrzoskakkwnexelowalbrzych | Patromierz"
+title: "Filip Brz\xF3ska | Patromierz"
+
 permalink: /filipbrzoskakkwnexelowalbrzych
 ---
 

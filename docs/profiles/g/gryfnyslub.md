@@ -1,5 +1,6 @@
 ---
-title: "gryfnyslub | Patromierz"
+title: "Gryfny \u015Alub | Patromierz"
+
 permalink: /gryfnyslub
 ---
 

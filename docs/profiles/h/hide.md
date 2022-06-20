@@ -1,5 +1,6 @@
 ---
-title: "hide | Patromierz"
+title: Hide | Patromierz
+
 permalink: /hide
 ---
 

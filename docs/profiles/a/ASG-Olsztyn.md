@@ -1,5 +1,6 @@
 ---
-title: "ASG-Olsztyn | Patromierz"
+title: Adam Ulatowski | Patromierz
+
 permalink: /ASG-Olsztyn
 ---
 

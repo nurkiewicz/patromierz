@@ -1,5 +1,6 @@
 ---
-title: "ANOWA | Patromierz"
+title: ANOWA | Patromierz
+
 permalink: /ANOWA
 ---
 

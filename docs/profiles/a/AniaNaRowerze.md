@@ -1,5 +1,6 @@
 ---
-title: "AniaNaRowerze | Patromierz"
+title: Ania na Rowerze | Patromierz
+
 permalink: /AniaNaRowerze
 ---
 

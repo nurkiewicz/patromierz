@@ -1,5 +1,6 @@
 ---
-title: "domzkamienia | Patromierz"
+title: Kasia N. | Patromierz
+
 permalink: /domzkamienia
 ---
 

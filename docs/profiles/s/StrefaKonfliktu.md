@@ -1,5 +1,6 @@
 ---
-title: "StrefaKonfliktu | Patromierz"
+title: '#StrefaKonfliktu | Patromierz'
+
 permalink: /StrefaKonfliktu
 ---
 
