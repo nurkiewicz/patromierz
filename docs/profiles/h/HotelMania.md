@@ -1,9 +1,9 @@
 ---
-title: HotelMania | Patromierz
+title: Hotelmania | Patromierz
 
-permalink: /HotelMania
+permalink: /Hotelmania
 ---
 
-# [HotelMania](https://patronite.pl/HotelMania)
+# [Hotelmania](https://patronite.pl/Hotelmania)
 
-{% include profile.md name="HotelMania" prefix="h" %}
+{% include profile.md name="Hotelmania" prefix="h" %}

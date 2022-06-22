@@ -144,4 +144,6 @@ profiles["lecimy"] = [
 	[1655524090,10,1,10.0,1220,null],
 	[1655610232,10,null,null,1220,null],
 	[1655696374,10,null,null,1220,null],
+	[1655782817,10,null,null,1220,null],
+	[1655869203,10,null,null,1220,null],
 ];
