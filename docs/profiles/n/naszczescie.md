@@ -1,9 +1,9 @@
 ---
-title: "Przyci\u0105gam Szcz\u0119\u015Bcie | Patromierz"
+title: Chwilo trwaj | Patromierz
 
 permalink: /naszczescie
 ---
 
-# [Przyciągam Szczęście](https://patronite.pl/naszczescie)
+# [Chwilo trwaj](https://patronite.pl/naszczescie)
 
 {% include profile.md name="naszczescie" prefix="n" %}

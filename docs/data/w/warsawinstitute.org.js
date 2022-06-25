@@ -148,4 +148,6 @@ profiles["warsawinstitute.org"] = [
 	[1655788534,100,1,100.0,500,null],
 	[1655874997,100,null,null,500,null],
 	[1655961639,100,null,null,500,null],
+	[1656048586,100,null,null,500,null],
+	[1656134389,100,null,null,500,null],
 ];
