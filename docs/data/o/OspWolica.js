@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["OspWolica"] = [
+	[1624233600,10,2,5.0,145,null],
 	[1643355821,null,null,null,165,null],
 	[1643428622,null,null,null,165,null],
 	[1643513715,null,null,null,165,null],
@@ -150,4 +151,7 @@ profiles["OspWolica"] = [
 	[1655948928,5,1,5.0,235,null],
 	[1656035664,5,1,5.0,235,null],
 	[1656121843,5,1,5.0,235,null],
+	[1656208382,5,1,5.0,235,null],
+	[1656294709,5,1,5.0,235,null],
+	[1656381110,5,1,5.0,235,null],
 ];

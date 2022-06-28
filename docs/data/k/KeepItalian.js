@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["KeepItalian"] = [
+	[1604188800,120,6,20.0,1169,null],
 	[1643353000,null,null,null,1689,null],
 	[1643425604,null,null,null,1689,null],
 	[1643515353,null,null,null,1689,null],
@@ -150,4 +151,7 @@ profiles["KeepItalian"] = [
 	[1655947586,20,2,10.0,1809,null],
 	[1656034291,20,2,10.0,1809,null],
 	[1656120507,20,2,10.0,1809,null],
+	[1656207044,20,1,20.0,1809,null],
+	[1656293364,20,1,20.0,1809,null],
+	[1656379771,20,1,20.0,1809,null],
 ];

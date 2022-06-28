@@ -132,4 +132,7 @@ profiles["PompaCieplaPV"] = [
 	[1655949306,20,1,20.0,130,null],
 	[1656036047,20,null,null,130,null],
 	[1656122213,20,null,null,130,null],
+	[1656208757,20,null,null,130,null],
+	[1656295089,20,null,null,130,null],
+	[1656381482,20,1,20.0,150,null],
 ];
