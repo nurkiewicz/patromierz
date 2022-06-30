@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["choroba_stargardta"] = [
+	[1641600000,4,1,4.0,4,null],
 	[1643362191,4,1,4.0,4,null],
 	[1643438318,4,1,4.0,4,null],
 	[1643522237,4,1,4.0,4,null],
@@ -153,4 +154,6 @@ profiles["choroba_stargardta"] = [
 	[1656211876,4,1,4.0,24,null],
 	[1656298236,4,1,4.0,24,null],
 	[1656384585,4,1,4.0,24,null],
+	[1656464683,4,1,4.0,24,null],
+	[1656551306,4,1,4.0,24,null],
 ];

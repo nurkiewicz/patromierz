@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["adamjazwiecki-nietylkowlewo"] = [
+	[1625616000,20,1,20.0,40,null],
 	[1643366148,20,1,20.0,180,null],
 	[1643431444,20,1,20.0,180,null],
 	[1643524411,20,1,20.0,180,null],
@@ -152,4 +153,6 @@ profiles["adamjazwiecki-nietylkowlewo"] = [
 	[1656210622,20,1,20.0,280,null],
 	[1656296970,20,1,20.0,280,null],
 	[1656383332,20,1,20.0,280,null],
+	[1656463449,20,1,20.0,280,null],
+	[1656550031,20,1,20.0,280,null],
 ];

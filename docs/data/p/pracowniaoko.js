@@ -1,5 +1,11 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pracowniaoko"] = [
+	[1594598400,null,95,null,null,null],
+	[1600732800,null,63,null,null,null],
+	[1603238400,null,52,null,null,null],
+	[1611273600,null,32,null,null,null],
+	[1618531200,null,23,null,null,null],
+	[1627257600,null,15,null,null,null],
 	[1649137472,null,13,null,null,null],
 	[1649224047,null,15,null,null,null],
 	[1649305972,null,15,null,null,null],
@@ -85,4 +91,6 @@ profiles["pracowniaoko"] = [
 	[1656218157,990,14,70.71,53190,null],
 	[1656304499,970,14,69.28,53240,null],
 	[1656390783,970,14,69.28,53240,null],
+	[1656470775,970,13,74.61,53240,null],
+	[1656557596,970,13,74.61,53240,null],
 ];

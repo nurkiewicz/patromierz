@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["WiejskieInspiracje"] = [
+	[1614816000,45,5,9.0,110,null],
+	[1624320000,20,3,6.66,235,null],
 	[1643353442,25,1,25.0,315,null],
 	[1643434253,25,null,null,315,null],
 	[1643514046,25,null,null,315,null],
@@ -153,4 +155,6 @@ profiles["WiejskieInspiracje"] = [
 	[1656210267,20,2,10.0,420,null],
 	[1656296611,20,2,10.0,420,null],
 	[1656382978,20,2,10.0,420,null],
+	[1656463099,20,2,10.0,420,null],
+	[1656549670,20,2,10.0,420,null],
 ];

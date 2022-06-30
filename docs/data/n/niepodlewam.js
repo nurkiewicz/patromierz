@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["niepodlewam"] = [
+	[1638316800,50,1,50.0,250,null],
 	[1643359912,null,null,null,300,null],
 	[1643424604,null,null,null,300,null],
 	[1643512229,null,null,null,300,null],
@@ -27,7 +28,7 @@ profiles["niepodlewam"] = [
 	[1645422195,null,null,null,300,null],
 	[1645508663,null,null,null,300,null],
 	[1645595201,null,null,null,300,null],
-	[1645681606,null,null,null,300,null],
+	[1645681606,null,null,null,300,-1.0],
 	[1645768167,null,null,null,300,null],
 	[1645854743,null,null,null,300,null],
 	[1645940957,null,null,null,300,null],
@@ -141,4 +142,6 @@ profiles["niepodlewam"] = [
 	[1656216828,55,2,27.5,455,null],
 	[1656303161,55,2,27.5,455,null],
 	[1656389460,55,2,27.5,455,null],
+	[1656469468,55,2,27.5,455,null],
+	[1656556247,55,2,27.5,455,null],
 ];

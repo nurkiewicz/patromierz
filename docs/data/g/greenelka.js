@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["greenelka"] = [
+	[1611446400,200,2,100.0,4050,null],
 	[1643362571,105,2,52.5,6470,null],
 	[1643436497,105,2,52.5,6470,null],
 	[1643510891,105,2,52.5,6470,null],
@@ -153,4 +154,6 @@ profiles["greenelka"] = [
 	[1656213516,100,1,100.0,6885,null],
 	[1656299898,100,null,null,6885,null],
 	[1656386227,100,null,null,6885,null],
+	[1656466293,100,null,null,6885,null],
+	[1656552971,100,null,null,6885,null],
 ];

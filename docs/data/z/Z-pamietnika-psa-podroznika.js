@@ -1,5 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Z-pamietnika-psa-podroznika"] = [
+	[1614902400,20,2,10.0,40,null],
 	[1643360951,20,2,10.0,250,null],
 	[1643434234,20,2,10.0,250,null],
 	[1643520370,20,2,10.0,250,null],
@@ -153,4 +154,6 @@ profiles["Z-pamietnika-psa-podroznika"] = [
 	[1656210442,5,1,5.0,285,null],
 	[1656296788,5,1,5.0,285,null],
 	[1656383155,5,1,5.0,285,null],
+	[1656463274,5,1,5.0,285,null],
+	[1656549849,5,1,5.0,285,null],
 ];

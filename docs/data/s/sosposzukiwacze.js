@@ -153,4 +153,6 @@ profiles["sosposzukiwacze"] = [
 	[1656219867,10,1,10.0,80,null],
 	[1656306199,10,1,10.0,80,null],
 	[1656392466,10,null,null,80,null],
+	[1656472443,10,null,null,80,null],
+	[1656559315,10,null,null,80,null],
 ];
