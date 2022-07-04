@@ -68,4 +68,6 @@ profiles["8thRegiment"] = [
 	[1656544093,15,null,null,30,null],
 	[1656636452,15,null,null,30,null],
 	[1656722882,15,null,null,30,null],
+	[1656809202,15,null,null,30,null],
+	[1656895757,15,null,null,30,null],
 ];

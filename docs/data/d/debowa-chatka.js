@@ -69,4 +69,6 @@ profiles["debowa-chatka"] = [
 	[1656551634,10,null,null,20,null],
 	[1656643866,10,null,null,20,null],
 	[1656730358,10,null,null,20,null],
+	[1656816517,10,null,null,20,null],
+	[1656903151,10,null,null,20,null],
 ];
