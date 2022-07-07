@@ -152,4 +152,6 @@ profiles["szczecińskiruchmiejski"] = [
 	[1656738416,10,null,null,640,null],
 	[1656824475,10,null,null,640,null],
 	[1656911026,10,null,null,640,null],
+	[1656997421,10,1,10.0,650,null],
+	[1657169456,10,1,10.0,650,null],
 ];
