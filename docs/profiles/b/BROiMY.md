@@ -1,9 +1,9 @@
 ---
-title: '#BROiMYmusic #BROiMYfitline #BROiMYparkitlenowe #BROiMYrecycling  | Patromierz'
+title: 'RULon & #BROiMYprojects | Patromierz'
 
 permalink: /BROiMY
 ---
 
-# [#BROiMYmusic #BROiMYfitline #BROiMYparkitlenowe #BROiMYrecycling ](https://patronite.pl/BROiMY)
+# [RULon & #BROiMYprojects](https://patronite.pl/BROiMY)
 
 {% include profile.md name="BROiMY" prefix="b" %}
