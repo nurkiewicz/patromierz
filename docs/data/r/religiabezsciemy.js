@@ -69,4 +69,5 @@ profiles["religiabezsciemy"] = [
 	[1649052180,null,null,null,10,null],
 	[1649071409,null,null,null,10,null],
 	[1657601545,100,1,100.0,110,1.0],
+	[1657687579,100,1,100.0,110,1.0],
 ];
