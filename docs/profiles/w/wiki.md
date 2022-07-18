@@ -1,9 +1,9 @@
 ---
-title: Wiktoria Prakapiec | Patromierz
+title: Wiki RP | Patromierz
 
 permalink: /wiki
 ---
 
-# [Wiktoria Prakapiec](https://patronite.pl/wiki)
+# [Wiki RP](https://patronite.pl/wiki)
 
 {% include profile.md name="wiki" prefix="w" %}
