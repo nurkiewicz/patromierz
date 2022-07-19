@@ -1,5 +1,12 @@
 google.charts.load('current', { packages: ['corechart', 'line'], language: 'pl' });
 
+const explorer = { 
+    actions: ['dragToZoom', 'rightClickToReset'],
+    axis: 'horizontal',
+    keepInBounds: true,
+    maxZoomIn: 10
+}
+
 function buildRow(row, column, idx, seriesCount) {
     let array = Array(1 + seriesCount);
     array.fill(null);
@@ -26,7 +33,8 @@ function drawMulti(profileNames, column, id, format) {
             },
             legend: {
                 position: 'right'
-            }
+            },
+            explorer: explorer
         };
         var chart = new google.visualization.LineChart(document.getElementById(id));
         chart.draw(dt, options);
@@ -45,7 +53,8 @@ function drawBasic(data, column, id, label, format) {
             },
             legend: {
                 position: 'none'
-            }
+            },
+            explorer: explorer
         };
         var chart = new google.visualization.LineChart(document.getElementById(id));
         chart.draw(dt, options);
