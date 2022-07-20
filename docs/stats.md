@@ -25,8 +25,6 @@ title: Statystyki | Patromierz
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 <script type="text/javascript" src="data/m/michalmarszal.js"></script>
 <script type="text/javascript" src="data/d/darwin.js"></script>
@@ -40,7 +38,7 @@ title: Statystyki | Patromierz
     window.onload = () => {
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency')
             drawMulti(
-                ['DariuszRosiak', 'DIOZ', 'langustanapalmie', 'dzialzagraniczny', 'UsłyszećNaCzas', 'marcinzielinski', 'sekielski', 'historiarealna', 'palhajstv', 'VirtualDream', 'Vlogcasha', 'accantus', 'planetaabstrakcja', 'michalmarszal', 'darwin', 'TERENWIZJA', 'brzmienie', 'rockserwisfm', 'znokautujbukmachera', 'Zmierzchu'], 
+                ['DariuszRosiak', 'DIOZ', 'langustanapalmie', 'dzialzagraniczny', 'UsłyszećNaCzas', 'marcinzielinski', 'sekielski', 'historiarealna', 'palhajstv', 'VirtualDream', 'planetaabstrakcja', 'michalmarszal', 'darwin', 'TERENWIZJA', 'brzmienie', 'rockserwisfm', 'znokautujbukmachera', 'Zmierzchu'], 
                 1, 'top_but_two', 'currency')
     };
 </script>
