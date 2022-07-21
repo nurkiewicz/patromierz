@@ -38,7 +38,7 @@ title: Statystyki | Patromierz
     window.onload = () => {
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency')
             drawMulti(
-                ['DariuszRosiak', 'DIOZ', 'langustanapalmie', 'dzialzagraniczny', 'UsłyszećNaCzas', 'marcinzielinski', 'sekielski', 'historiarealna', 'palhajstv', 'VirtualDream', 'planetaabstrakcja', 'michalmarszal', 'darwin', 'TERENWIZJA', 'brzmienie', 'rockserwisfm', 'znokautujbukmachera', 'Zmierzchu'], 
+                ['DariuszRosiak', 'DIOZ', 'langustanapalmie', 'dzialzagraniczny', 'UsłyszećNaCzas', 'marcinzielinski', 'sekielski', 'historiarealna', 'palhajstv', 'VirtualDream', 'planetaabstrakcja', 'michalmarszal', 'darwin', 'TERENWIZJA', 'brzmienie-swiata', 'rockserwisfm', 'znokautujbukmachera', 'Zmierzchu'], 
                 1, 'top_but_two', 'currency')
     };
 </script>
