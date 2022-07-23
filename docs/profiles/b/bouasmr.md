@@ -1,5 +1,5 @@
 ---
-title: Bou ASMR | Patromierz
+title: Bou ASMR | Patromierz - statystyki Patronite.pl
 
 permalink: /bouasmr
 ---

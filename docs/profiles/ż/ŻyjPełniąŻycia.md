@@ -1,5 +1,6 @@
 ---
-title: "\u017Byj Pe\u0142ni\u0105 \u017Bycia - Magdalena Wo\u0142ochowicz | Patromierz"
+title: "\u017Byj Pe\u0142ni\u0105 \u017Bycia - Magdalena Wo\u0142ochowicz | Patromierz\
+  \ - statystyki Patronite.pl"
 
 permalink: /ŻyjPełniąŻycia
 ---

@@ -1,5 +1,5 @@
 ---
-title: MaciekGMP40 | Patromierz
+title: MaciekGMP40 | Patromierz - statystyki Patronite.pl
 
 permalink: /maciekgmp40
 ---

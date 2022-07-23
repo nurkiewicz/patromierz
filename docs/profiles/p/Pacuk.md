@@ -1,5 +1,5 @@
 ---
-title: Pacuk | Patromierz
+title: Pacuk | Patromierz - statystyki Patronite.pl
 
 permalink: /Pacuk
 ---

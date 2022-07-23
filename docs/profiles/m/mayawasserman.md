@@ -1,5 +1,5 @@
 ---
-title: Maya Wasserman | Patromierz
+title: Maya Wasserman | Patromierz - statystyki Patronite.pl
 
 permalink: /mayawasserman
 ---

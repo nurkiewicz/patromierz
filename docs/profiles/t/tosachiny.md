@@ -1,5 +1,5 @@
 ---
-title: "To s\u0105 Chiny | Patromierz"
+title: "To s\u0105 Chiny | Patromierz - statystyki Patronite.pl"
 
 permalink: /tosachiny
 ---

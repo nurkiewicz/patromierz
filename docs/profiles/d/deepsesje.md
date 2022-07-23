@@ -1,5 +1,5 @@
 ---
-title: Deep Sesje  | Patromierz
+title: Deep Sesje  | Patromierz - statystyki Patronite.pl
 
 permalink: /deepsesje
 ---

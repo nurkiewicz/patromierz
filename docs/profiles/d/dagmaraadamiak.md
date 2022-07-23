@@ -1,5 +1,5 @@
 ---
-title: Dagmara Adamiak | Patromierz
+title: Dagmara Adamiak | Patromierz - statystyki Patronite.pl
 
 permalink: /dagmaraadamiak
 ---

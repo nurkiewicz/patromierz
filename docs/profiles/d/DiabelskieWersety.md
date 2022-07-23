@@ -1,5 +1,5 @@
 ---
-title: Diabelskie Wersety | Patromierz
+title: Diabelskie Wersety | Patromierz - statystyki Patronite.pl
 
 permalink: /DiabelskieWersety
 ---

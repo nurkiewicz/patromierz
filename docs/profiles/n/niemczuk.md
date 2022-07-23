@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Niemczuk | Patromierz
+title: Grzegorz Niemczuk | Patromierz - statystyki Patronite.pl
 
 permalink: /niemczuk
 ---

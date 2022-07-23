@@ -1,5 +1,6 @@
 ---
-title: "Drzewo \u017Bycia - studio jogi i holistycznego zdrowia | Patromierz"
+title: "Drzewo \u017Bycia - studio jogi i holistycznego zdrowia | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /drzewo-zycia
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Po pas w pieprz. Kambod\u017Ca\u0144ska odyseja. | Patromierz"
+title: "Po pas w pieprz. Kambod\u017Ca\u0144ska odyseja. | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /popaswpieprz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Marcin Getek - nagrania z Fizyki na YT | Patromierz
+title: Marcin Getek - nagrania z Fizyki na YT | Patromierz - statystyki Patronite.pl
 
 permalink: /Getek
 ---

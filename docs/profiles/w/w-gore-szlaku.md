@@ -1,5 +1,5 @@
 ---
-title: "W G\xF3r\u0119 Szlaku | Patromierz"
+title: "W G\xF3r\u0119 Szlaku | Patromierz - statystyki Patronite.pl"
 
 permalink: /w-gore-szlaku
 ---

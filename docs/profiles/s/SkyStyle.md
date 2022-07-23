@@ -1,5 +1,6 @@
 ---
-title: "Sky Style - S\u0142u\u017Cba dla m\u0142odzie\u017Cy | Patromierz"
+title: "Sky Style - S\u0142u\u017Cba dla m\u0142odzie\u017Cy | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /SkyStyle
 ---

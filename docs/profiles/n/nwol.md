@@ -1,5 +1,5 @@
 ---
-title: Hubert Dudek | Patromierz
+title: Hubert Dudek | Patromierz - statystyki Patronite.pl
 
 permalink: /nwol
 ---

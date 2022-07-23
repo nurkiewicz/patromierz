@@ -1,5 +1,5 @@
 ---
-title: KamperManiak | Patromierz
+title: KamperManiak | Patromierz - statystyki Patronite.pl
 
 permalink: /kampermaniak
 ---

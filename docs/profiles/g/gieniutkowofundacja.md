@@ -1,5 +1,5 @@
 ---
-title: Fundacja prosiaczka Eugeniusza Gieniutkowo | Patromierz
+title: Fundacja prosiaczka Eugeniusza Gieniutkowo | Patromierz - statystyki Patronite.pl
 
 permalink: /gieniutkowofundacja
 ---

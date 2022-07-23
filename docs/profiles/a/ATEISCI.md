@@ -1,5 +1,5 @@
 ---
-title: zenon kalafaticz | Patromierz
+title: zenon kalafaticz | Patromierz - statystyki Patronite.pl
 
 permalink: /ATEISCI
 ---

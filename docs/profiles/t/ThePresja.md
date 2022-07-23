@@ -1,5 +1,5 @@
 ---
-title: Projekt The Presja | Patromierz
+title: Projekt The Presja | Patromierz - statystyki Patronite.pl
 
 permalink: /ThePresja
 ---

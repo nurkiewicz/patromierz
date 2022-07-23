@@ -1,5 +1,5 @@
 ---
-title: Zbyszek G | Patromierz
+title: Zbyszek G | Patromierz - statystyki Patronite.pl
 
 permalink: /zbyszek-g
 ---

@@ -1,5 +1,5 @@
 ---
-title: Wojtek Pawlak | Patromierz
+title: Wojtek Pawlak | Patromierz - statystyki Patronite.pl
 
 permalink: /sportprojekt
 ---

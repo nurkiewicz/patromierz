@@ -1,5 +1,5 @@
 ---
-title: Artur Tutka | Patromierz
+title: Artur Tutka | Patromierz - statystyki Patronite.pl
 
 permalink: /edu-partyzant
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LE\u015ANY REKONESANS | Patromierz"
+title: "LE\u015ANY REKONESANS | Patromierz - statystyki Patronite.pl"
 
 permalink: /LEŚNY-REKONESANS
 ---

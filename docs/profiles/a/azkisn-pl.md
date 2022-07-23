@@ -1,5 +1,6 @@
 ---
-title: "Antropogeniczne Zmiany Klimatu i \u015Arodowiska Naturalnego | Patromierz"
+title: "Antropogeniczne Zmiany Klimatu i \u015Arodowiska Naturalnego | Patromierz\
+  \ - statystyki Patronite.pl"
 
 permalink: /azkisn-pl
 ---

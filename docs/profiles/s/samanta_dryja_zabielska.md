@@ -1,5 +1,6 @@
 ---
-title: "Samanta Dryja-Zabielska (Edukacja z pasj\u0105) | Patromierz"
+title: "Samanta Dryja-Zabielska (Edukacja z pasj\u0105) | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /samanta_dryja_zabielska
 ---

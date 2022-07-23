@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Go\u0142dych | Patromierz"
+title: "Pawe\u0142 Go\u0142dych | Patromierz - statystyki Patronite.pl"
 
 permalink: /pawelgoldych
 ---

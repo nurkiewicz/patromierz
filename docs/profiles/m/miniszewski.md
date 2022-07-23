@@ -1,5 +1,5 @@
 ---
-title: "Miros\u0142aw Miniszewski | Patromierz"
+title: "Miros\u0142aw Miniszewski | Patromierz - statystyki Patronite.pl"
 
 permalink: /miniszewski
 ---

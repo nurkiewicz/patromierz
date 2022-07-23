@@ -1,5 +1,5 @@
 ---
-title: Niech to Szlak | Patromierz
+title: Niech to Szlak | Patromierz - statystyki Patronite.pl
 
 permalink: /NiechToSzlak
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zupa na G\u0142\xF3wnym | Patromierz"
+title: "Zupa na G\u0142\xF3wnym | Patromierz - statystyki Patronite.pl"
 
 permalink: /ZupaNaGlownym
 ---

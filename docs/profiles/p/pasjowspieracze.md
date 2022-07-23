@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie Akcja Mi\u015B | Patromierz"
+title: "Stowarzyszenie Akcja Mi\u015B | Patromierz - statystyki Patronite.pl"
 
 permalink: /pasjowspieracze
 ---

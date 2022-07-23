@@ -1,5 +1,5 @@
 ---
-title: "Kresk\xF3wkast | Patromierz"
+title: "Kresk\xF3wkast | Patromierz - statystyki Patronite.pl"
 
 permalink: /kreskowkast
 ---

@@ -1,5 +1,5 @@
 ---
-title: Eff1o | Patromierz
+title: Eff1o | Patromierz - statystyki Patronite.pl
 
 permalink: /Eff1o
 ---

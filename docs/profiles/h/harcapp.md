@@ -1,5 +1,5 @@
 ---
-title: Daniel Iwanicki | Patromierz
+title: Daniel Iwanicki | Patromierz - statystyki Patronite.pl
 
 permalink: /harcapp
 ---

@@ -1,5 +1,5 @@
 ---
-title: "G\xF3ral z Mazur - Rafa\u0142 Kot | Patromierz"
+title: "G\xF3ral z Mazur - Rafa\u0142 Kot | Patromierz - statystyki Patronite.pl"
 
 permalink: /goralzmazur
 ---

@@ -1,5 +1,5 @@
 ---
-title: Podcast Kaizen Miracle | Patromierz
+title: Podcast Kaizen Miracle | Patromierz - statystyki Patronite.pl
 
 permalink: /KaizenMiracle
 ---

@@ -1,5 +1,5 @@
 ---
-title: Natalia Gebert | Patromierz
+title: Natalia Gebert | Patromierz - statystyki Patronite.pl
 
 permalink: /Natalia_Gebert
 ---

@@ -1,5 +1,5 @@
 ---
-title: StockUp | Patromierz
+title: StockUp | Patromierz - statystyki Patronite.pl
 
 permalink: /Stockup
 ---

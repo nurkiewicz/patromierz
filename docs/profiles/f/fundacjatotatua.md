@@ -1,5 +1,5 @@
 ---
-title: Fundacja Tota Tua | Patromierz
+title: Fundacja Tota Tua | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjatotatua
 ---

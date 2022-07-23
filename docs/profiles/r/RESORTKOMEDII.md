@@ -1,5 +1,5 @@
 ---
-title: Resort Komedii | Patromierz
+title: Resort Komedii | Patromierz - statystyki Patronite.pl
 
 permalink: /RESORTKOMEDII
 ---

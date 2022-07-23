@@ -1,5 +1,5 @@
 ---
-title: IRON BRO | Patromierz
+title: IRON BRO | Patromierz - statystyki Patronite.pl
 
 permalink: /Ironbro
 ---

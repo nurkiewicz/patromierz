@@ -1,5 +1,5 @@
 ---
-title: SoSpecial  | Patromierz
+title: SoSpecial  | Patromierz - statystyki Patronite.pl
 
 permalink: /SoSpecial
 ---

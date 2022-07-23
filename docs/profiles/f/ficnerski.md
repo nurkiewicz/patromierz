@@ -1,5 +1,5 @@
 ---
-title: Victor Ficnerski | Patromierz
+title: Victor Ficnerski | Patromierz - statystyki Patronite.pl
 
 permalink: /ficnerski
 ---

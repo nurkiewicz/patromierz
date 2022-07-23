@@ -1,5 +1,5 @@
 ---
-title: "Marcin Zegad\u0142o | Patromierz"
+title: "Marcin Zegad\u0142o | Patromierz - statystyki Patronite.pl"
 
 permalink: /marcinzegadlo
 ---

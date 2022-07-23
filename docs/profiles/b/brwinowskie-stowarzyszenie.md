@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Koty Prezesowej  | Patromierz
+title: Stowarzyszenie Koty Prezesowej  | Patromierz - statystyki Patronite.pl
 
 permalink: /brwinowskie-stowarzyszenie
 ---

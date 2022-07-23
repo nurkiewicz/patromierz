@@ -1,5 +1,5 @@
 ---
-title: Zabawy Jedzeniem | Patromierz
+title: Zabawy Jedzeniem | Patromierz - statystyki Patronite.pl
 
 permalink: /zabawyjedzeniem
 ---

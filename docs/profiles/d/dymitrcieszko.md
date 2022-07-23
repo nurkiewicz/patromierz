@@ -1,5 +1,5 @@
 ---
-title: Dymitr Cieszko | Patromierz
+title: Dymitr Cieszko | Patromierz - statystyki Patronite.pl
 
 permalink: /dymitrcieszko
 ---

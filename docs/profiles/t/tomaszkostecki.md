@@ -1,5 +1,5 @@
 ---
-title: Fundacja DDC | Patromierz
+title: Fundacja DDC | Patromierz - statystyki Patronite.pl
 
 permalink: /tomaszkostecki
 ---

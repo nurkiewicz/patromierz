@@ -1,5 +1,5 @@
 ---
-title: Jarek Holden | Patromierz
+title: Jarek Holden | Patromierz - statystyki Patronite.pl
 
 permalink: /BooksJarkaHoldena
 ---

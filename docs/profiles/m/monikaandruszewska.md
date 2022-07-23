@@ -1,5 +1,5 @@
 ---
-title: Monika Andruszewska - wojenny korespondent | Patromierz
+title: Monika Andruszewska - wojenny korespondent | Patromierz - statystyki Patronite.pl
 
 permalink: /monikaandruszewska
 ---

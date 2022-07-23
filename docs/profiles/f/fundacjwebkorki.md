@@ -1,5 +1,5 @@
 ---
-title: Fundacja WEB-KORKI | Patromierz
+title: Fundacja WEB-KORKI | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjwebkorki
 ---

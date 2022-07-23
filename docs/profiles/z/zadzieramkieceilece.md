@@ -1,5 +1,5 @@
 ---
-title: "Zadzieram kiec\u0119 i lec\u0119  | Patromierz"
+title: "Zadzieram kiec\u0119 i lec\u0119  | Patromierz - statystyki Patronite.pl"
 
 permalink: /zadzieramkieceilece
 ---

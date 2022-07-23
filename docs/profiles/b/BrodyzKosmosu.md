@@ -1,5 +1,5 @@
 ---
-title: Brody z Kosmosu | Patromierz
+title: Brody z Kosmosu | Patromierz - statystyki Patronite.pl
 
 permalink: /BrodyzKosmosu
 ---

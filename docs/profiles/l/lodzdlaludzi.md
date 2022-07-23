@@ -1,5 +1,5 @@
 ---
-title: "\u0141\xF3d\u017A dla ludzi | Patromierz"
+title: "\u0141\xF3d\u017A dla ludzi | Patromierz - statystyki Patronite.pl"
 
 permalink: /lodzdlaludzi
 ---

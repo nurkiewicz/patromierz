@@ -1,5 +1,5 @@
 ---
-title: Soulspot | Patromierz
+title: Soulspot | Patromierz - statystyki Patronite.pl
 
 permalink: /soulspot
 ---

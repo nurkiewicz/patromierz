@@ -1,5 +1,5 @@
 ---
-title: MoThor | Patromierz
+title: MoThor | Patromierz - statystyki Patronite.pl
 
 permalink: /mothor
 ---

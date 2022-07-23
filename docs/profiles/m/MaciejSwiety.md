@@ -1,5 +1,5 @@
 ---
-title: "Maciej  \"\u015Awi\u0119ty\"Jankowski | Patromierz"
+title: "Maciej  \"\u015Awi\u0119ty\"Jankowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /MaciejSwiety
 ---

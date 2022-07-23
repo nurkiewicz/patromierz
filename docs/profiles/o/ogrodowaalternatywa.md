@@ -1,5 +1,5 @@
 ---
-title: Ogrodowa Alternatywa | Patromierz
+title: Ogrodowa Alternatywa | Patromierz - statystyki Patronite.pl
 
 permalink: /ogrodowaalternatywa
 ---

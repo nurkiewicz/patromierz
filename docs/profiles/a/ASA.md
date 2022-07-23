@@ -1,5 +1,5 @@
 ---
-title: ASA | Patromierz
+title: ASA | Patromierz - statystyki Patronite.pl
 
 permalink: /ASA
 ---

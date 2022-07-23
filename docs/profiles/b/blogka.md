@@ -1,5 +1,5 @@
 ---
-title: "Ka \u2013 Transp\u0142ciowa Dziewczyna | Patromierz"
+title: "Ka \u2013 Transp\u0142ciowa Dziewczyna | Patromierz - statystyki Patronite.pl"
 
 permalink: /blogka
 ---

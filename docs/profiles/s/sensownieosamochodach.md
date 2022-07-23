@@ -1,5 +1,5 @@
 ---
-title: Marek Narkiewicz | Patromierz
+title: Marek Narkiewicz | Patromierz - statystyki Patronite.pl
 
 permalink: /sensownieosamochodach
 ---

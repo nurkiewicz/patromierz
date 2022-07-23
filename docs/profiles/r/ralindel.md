@@ -1,5 +1,5 @@
 ---
-title: ralindel | Patromierz
+title: ralindel | Patromierz - statystyki Patronite.pl
 
 permalink: /ralindel
 ---

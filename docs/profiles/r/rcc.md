@@ -1,5 +1,5 @@
 ---
-title: "Rugby Club Cz\u0119stochowa | Patromierz"
+title: "Rugby Club Cz\u0119stochowa | Patromierz - statystyki Patronite.pl"
 
 permalink: /rcc
 ---

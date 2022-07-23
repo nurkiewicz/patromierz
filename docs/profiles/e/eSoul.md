@@ -1,5 +1,5 @@
 ---
-title: eS | Patromierz
+title: eS | Patromierz - statystyki Patronite.pl
 
 permalink: /eSoul
 ---

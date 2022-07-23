@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Pieszo przez Bory | Patromierz
+title: Stowarzyszenie Pieszo przez Bory | Patromierz - statystyki Patronite.pl
 
 permalink: /ppb
 ---

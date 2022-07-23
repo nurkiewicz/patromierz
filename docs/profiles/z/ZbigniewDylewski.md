@@ -1,5 +1,5 @@
 ---
-title: Zbigniew Dylewski | Patromierz
+title: Zbigniew Dylewski | Patromierz - statystyki Patronite.pl
 
 permalink: /ZbigniewDylewski
 ---

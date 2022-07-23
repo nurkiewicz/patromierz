@@ -1,5 +1,5 @@
 ---
-title: Maurycy Polewski | Patromierz
+title: Maurycy Polewski | Patromierz - statystyki Patronite.pl
 
 permalink: /maurycypolewski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017C Musicalowa | Patromierz"
+title: "Podr\xF3\u017C Musicalowa | Patromierz - statystyki Patronite.pl"
 
 permalink: /podrozmusicalowa
 ---

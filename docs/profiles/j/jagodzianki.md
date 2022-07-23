@@ -1,5 +1,6 @@
 ---
-title: "Jagodzianki - dom dla blisko setki bezdomnych zwierz\u0105t | Patromierz"
+title: "Jagodzianki - dom dla blisko setki bezdomnych zwierz\u0105t | Patromierz -\
+  \ statystyki Patronite.pl"
 
 permalink: /jagodzianki
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ada Ku\u0107mierz | Patromierz"
+title: "Ada Ku\u0107mierz | Patromierz - statystyki Patronite.pl"
 
 permalink: /AdaKucmierz
 ---

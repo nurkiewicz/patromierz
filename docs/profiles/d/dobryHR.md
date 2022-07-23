@@ -1,5 +1,5 @@
 ---
-title: Jakub Iciaszek | Patromierz
+title: Jakub Iciaszek | Patromierz - statystyki Patronite.pl
 
 permalink: /dobryHR
 ---

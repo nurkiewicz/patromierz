@@ -1,5 +1,5 @@
 ---
-title: "Piotr S\u0119kowski | Patromierz"
+title: "Piotr S\u0119kowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /pgfseko
 ---

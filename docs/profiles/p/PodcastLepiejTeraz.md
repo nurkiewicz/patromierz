@@ -1,5 +1,5 @@
 ---
-title: "Rados\u0142aw Budnicki | Patromierz"
+title: "Rados\u0142aw Budnicki | Patromierz - statystyki Patronite.pl"
 
 permalink: /PodcastLepiejTeraz
 ---

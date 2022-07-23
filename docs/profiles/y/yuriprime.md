@@ -1,5 +1,5 @@
 ---
-title: YuriPRIME - Bitewny Biurokrata | Patromierz
+title: YuriPRIME - Bitewny Biurokrata | Patromierz - statystyki Patronite.pl
 
 permalink: /yuriprime
 ---

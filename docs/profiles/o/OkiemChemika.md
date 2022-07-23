@@ -1,5 +1,5 @@
 ---
-title: Okiem Chemika | Patromierz
+title: Okiem Chemika | Patromierz - statystyki Patronite.pl
 
 permalink: /OkiemChemika
 ---

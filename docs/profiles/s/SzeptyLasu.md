@@ -1,5 +1,5 @@
 ---
-title: Szepty Lasu | Patromierz
+title: Szepty Lasu | Patromierz - statystyki Patronite.pl
 
 permalink: /SzeptyLasu
 ---

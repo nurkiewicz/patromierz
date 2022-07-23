@@ -1,5 +1,5 @@
 ---
-title: dekorady Klaudia Jachna | Patromierz
+title: dekorady Klaudia Jachna | Patromierz - statystyki Patronite.pl
 
 permalink: /dekorady
 ---

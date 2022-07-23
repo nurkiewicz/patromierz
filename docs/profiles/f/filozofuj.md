@@ -1,5 +1,5 @@
 ---
-title: Filozofuj! | Patromierz
+title: Filozofuj! | Patromierz - statystyki Patronite.pl
 
 permalink: /filozofuj
 ---

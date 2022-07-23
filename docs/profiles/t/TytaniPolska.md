@@ -1,5 +1,5 @@
 ---
-title: Tytani Polska | Patromierz
+title: Tytani Polska | Patromierz - statystyki Patronite.pl
 
 permalink: /TytaniPolska
 ---

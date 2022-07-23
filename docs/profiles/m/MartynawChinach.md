@@ -1,5 +1,5 @@
 ---
-title: Martyna Krystek | Patromierz
+title: Martyna Krystek | Patromierz - statystyki Patronite.pl
 
 permalink: /MartynawChinach
 ---

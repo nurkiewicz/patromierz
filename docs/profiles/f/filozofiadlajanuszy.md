@@ -1,5 +1,5 @@
 ---
-title: Filozofia dla januszy | Patromierz
+title: Filozofia dla januszy | Patromierz - statystyki Patronite.pl
 
 permalink: /filozofiadlajanuszy
 ---

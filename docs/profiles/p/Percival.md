@@ -1,5 +1,5 @@
 ---
-title: PERCIVAL SCHUTTENBACH | Patromierz
+title: PERCIVAL SCHUTTENBACH | Patromierz - statystyki Patronite.pl
 
 permalink: /Percival
 ---

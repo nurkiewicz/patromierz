@@ -1,5 +1,5 @@
 ---
-title: ' Projekt Przebudzenie | Patromierz'
+title: ' Projekt Przebudzenie | Patromierz - statystyki Patronite.pl'
 
 permalink: /projektprzebudzenie
 ---

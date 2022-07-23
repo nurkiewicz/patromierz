@@ -1,5 +1,5 @@
 ---
-title: Bez/Schematu | Patromierz
+title: Bez/Schematu | Patromierz - statystyki Patronite.pl
 
 permalink: /BezSchematu
 ---

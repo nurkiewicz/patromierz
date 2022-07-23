@@ -1,5 +1,5 @@
 ---
-title: Projekt Muzyka | Patromierz
+title: Projekt Muzyka | Patromierz - statystyki Patronite.pl
 
 permalink: /projektmuzyka
 ---

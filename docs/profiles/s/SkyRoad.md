@@ -1,5 +1,5 @@
 ---
-title: Sky Road | Patromierz
+title: Sky Road | Patromierz - statystyki Patronite.pl
 
 permalink: /SkyRoad
 ---

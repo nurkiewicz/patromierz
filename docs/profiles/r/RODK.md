@@ -1,5 +1,5 @@
 ---
-title: "Wojciech Str\xF3zik | Patromierz"
+title: "Wojciech Str\xF3zik | Patromierz - statystyki Patronite.pl"
 
 permalink: /RODK
 ---

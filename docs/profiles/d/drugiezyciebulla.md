@@ -1,5 +1,5 @@
 ---
-title: "Drugie \u017Bycie Bulla | Patromierz"
+title: "Drugie \u017Bycie Bulla | Patromierz - statystyki Patronite.pl"
 
 permalink: /drugiezyciebulla
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ratuj Ryby | Patromierz
+title: Ratuj Ryby | Patromierz - statystyki Patronite.pl
 
 permalink: /RatujRyby
 ---

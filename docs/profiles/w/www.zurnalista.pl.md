@@ -1,5 +1,5 @@
 ---
-title: "\u017Burnalista | Patromierz"
+title: "\u017Burnalista | Patromierz - statystyki Patronite.pl"
 
 permalink: /www.zurnalista.pl
 ---

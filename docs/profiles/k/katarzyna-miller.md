@@ -1,5 +1,5 @@
 ---
-title: Katarzyna Miller | Patromierz
+title: Katarzyna Miller | Patromierz - statystyki Patronite.pl
 
 permalink: /katarzyna-miller
 ---

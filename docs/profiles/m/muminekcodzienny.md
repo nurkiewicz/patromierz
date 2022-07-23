@@ -1,5 +1,5 @@
 ---
-title: Muminek Codzienny | Patromierz
+title: Muminek Codzienny | Patromierz - statystyki Patronite.pl
 
 permalink: /muminekcodzienny
 ---

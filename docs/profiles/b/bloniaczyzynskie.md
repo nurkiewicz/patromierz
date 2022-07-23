@@ -1,5 +1,6 @@
 ---
-title: "Stowarzyszenie B\u0142onia Czy\u017Cy\u0144skie | Patromierz"
+title: "Stowarzyszenie B\u0142onia Czy\u017Cy\u0144skie | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /bloniaczyzynskie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALLEGRETTO Autorska Szko\u0142a Muzyki | Patromierz"
+title: "ALLEGRETTO Autorska Szko\u0142a Muzyki | Patromierz - statystyki Patronite.pl"
 
 permalink: /allegretto
 ---

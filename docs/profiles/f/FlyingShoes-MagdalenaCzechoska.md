@@ -1,5 +1,5 @@
 ---
-title: Magdalena Czechoska | Patromierz
+title: Magdalena Czechoska | Patromierz - statystyki Patronite.pl
 
 permalink: /FlyingShoes-MagdalenaCzechoska
 ---

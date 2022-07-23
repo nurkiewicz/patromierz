@@ -1,5 +1,5 @@
 ---
-title: CENTERKO | Patromierz
+title: CENTERKO | Patromierz - statystyki Patronite.pl
 
 permalink: /centerko
 ---

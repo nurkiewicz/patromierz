@@ -1,5 +1,5 @@
 ---
-title: "Ma\u0142gorzata Mi\u0119siak | Patromierz"
+title: "Ma\u0142gorzata Mi\u0119siak | Patromierz - statystyki Patronite.pl"
 
 permalink: /choramakeup
 ---

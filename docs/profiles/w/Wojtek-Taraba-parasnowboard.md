@@ -1,5 +1,5 @@
 ---
-title: Wojciech Taraba | Patromierz
+title: Wojciech Taraba | Patromierz - statystyki Patronite.pl
 
 permalink: /Wojtek-Taraba-parasnowboard
 ---

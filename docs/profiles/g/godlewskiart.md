@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Godlewski | Patromierz"
+title: "\u0141ukasz Godlewski | Patromierz - statystyki Patronite.pl"
 
 permalink: /godlewskiart
 ---

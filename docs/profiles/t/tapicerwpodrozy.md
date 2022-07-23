@@ -1,5 +1,5 @@
 ---
-title: tapicerwpodrozy | Patromierz
+title: tapicerwpodrozy | Patromierz - statystyki Patronite.pl
 
 permalink: /tapicerwpodrozy
 ---

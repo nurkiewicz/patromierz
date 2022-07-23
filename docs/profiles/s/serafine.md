@@ -1,5 +1,5 @@
 ---
-title: Julka "Serafine" Sobieska | Patromierz
+title: Julka "Serafine" Sobieska | Patromierz - statystyki Patronite.pl
 
 permalink: /serafine
 ---

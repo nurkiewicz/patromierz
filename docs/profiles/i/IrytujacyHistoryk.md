@@ -1,5 +1,5 @@
 ---
-title: "Irytuj\u0105cy Historyk | Patromierz"
+title: "Irytuj\u0105cy Historyk | Patromierz - statystyki Patronite.pl"
 
 permalink: /IrytujacyHistoryk
 ---

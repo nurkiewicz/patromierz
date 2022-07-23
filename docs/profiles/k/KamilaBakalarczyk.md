@@ -1,5 +1,5 @@
 ---
-title: Kamila Bakalarczyk | Patromierz
+title: Kamila Bakalarczyk | Patromierz - statystyki Patronite.pl
 
 permalink: /KamilaBakalarczyk
 ---

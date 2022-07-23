@@ -1,5 +1,5 @@
 ---
-title: CriticalUSG | Patromierz
+title: CriticalUSG | Patromierz - statystyki Patronite.pl
 
 permalink: /CriticalUSG
 ---

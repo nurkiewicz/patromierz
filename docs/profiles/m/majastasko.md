@@ -1,5 +1,5 @@
 ---
-title: "Maja Sta\u015Bko | Patromierz"
+title: "Maja Sta\u015Bko | Patromierz - statystyki Patronite.pl"
 
 permalink: /majastasko
 ---

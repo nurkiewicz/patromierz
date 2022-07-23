@@ -1,5 +1,5 @@
 ---
-title: "Ma\u0142gorzata Szafra\u0144ska | Patromierz"
+title: "Ma\u0142gorzata Szafra\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /wmatnikobiecosci
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Radio z QLTUR\u0104 | Patromierz"
+title: "Radio z QLTUR\u0104 | Patromierz - statystyki Patronite.pl"
 
 permalink: /radiozqltura
 ---

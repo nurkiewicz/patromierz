@@ -1,5 +1,5 @@
 ---
-title: Skafander Klingerta | Patromierz
+title: Skafander Klingerta | Patromierz - statystyki Patronite.pl
 
 permalink: /skafander
 ---

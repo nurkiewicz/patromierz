@@ -1,5 +1,5 @@
 ---
-title: PEPOL URBEX | Patromierz
+title: PEPOL URBEX | Patromierz - statystyki Patronite.pl
 
 permalink: /pepol-urbex
 ---

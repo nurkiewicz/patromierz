@@ -1,5 +1,5 @@
 ---
-title: Spichris | Patromierz
+title: Spichris | Patromierz - statystyki Patronite.pl
 
 permalink: /Spichris
 ---

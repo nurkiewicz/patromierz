@@ -1,5 +1,5 @@
 ---
-title: Dominikanie.pl | Patromierz
+title: Dominikanie.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /portaldominikanie
 ---

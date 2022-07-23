@@ -1,5 +1,5 @@
 ---
-title: Stalowy Szok | Patromierz
+title: Stalowy Szok | Patromierz - statystyki Patronite.pl
 
 permalink: /stalowy-szok
 ---

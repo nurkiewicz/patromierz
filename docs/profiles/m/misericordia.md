@@ -1,5 +1,5 @@
 ---
-title: "Palloty\u0144ska Grupa Medialna | Patromierz"
+title: "Palloty\u0144ska Grupa Medialna | Patromierz - statystyki Patronite.pl"
 
 permalink: /misericordia
 ---

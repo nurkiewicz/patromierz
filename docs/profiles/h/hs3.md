@@ -1,5 +1,5 @@
 ---
-title: "Hackerspace Tr\xF3jmiasto | Patromierz"
+title: "Hackerspace Tr\xF3jmiasto | Patromierz - statystyki Patronite.pl"
 
 permalink: /hs3
 ---

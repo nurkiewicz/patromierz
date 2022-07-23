@@ -1,5 +1,5 @@
 ---
-title: Joanna Szczepkowska | Patromierz
+title: Joanna Szczepkowska | Patromierz - statystyki Patronite.pl
 
 permalink: /joannaszczepkowska
 ---

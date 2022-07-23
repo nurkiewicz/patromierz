@@ -1,5 +1,5 @@
 ---
-title: Fundacja Amstaff Azyl | Patromierz
+title: Fundacja Amstaff Azyl | Patromierz - statystyki Patronite.pl
 
 permalink: /amstaffazyl
 ---

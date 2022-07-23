@@ -1,5 +1,5 @@
 ---
-title: PROGRAM7 TV | Patromierz
+title: PROGRAM7 TV | Patromierz - statystyki Patronite.pl
 
 permalink: /program7
 ---

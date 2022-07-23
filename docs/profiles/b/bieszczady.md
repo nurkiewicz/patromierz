@@ -1,5 +1,5 @@
 ---
-title: Bieszczady.Land | Patromierz
+title: Bieszczady.Land | Patromierz - statystyki Patronite.pl
 
 permalink: /bieszczady
 ---

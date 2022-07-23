@@ -1,5 +1,5 @@
 ---
-title: okonski.art | Patromierz
+title: okonski.art | Patromierz - statystyki Patronite.pl
 
 permalink: /okonski-art
 ---

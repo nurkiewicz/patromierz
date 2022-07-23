@@ -1,5 +1,5 @@
 ---
-title: Jak To daleko | Patromierz
+title: Jak To daleko | Patromierz - statystyki Patronite.pl
 
 permalink: /jaktodaleko
 ---

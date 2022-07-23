@@ -1,5 +1,5 @@
 ---
-title: Kasia N. | Patromierz
+title: Kasia N. | Patromierz - statystyki Patronite.pl
 
 permalink: /domzkamienia
 ---

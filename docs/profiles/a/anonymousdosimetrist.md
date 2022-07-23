@@ -1,5 +1,5 @@
 ---
-title: Anonymous Dosimetrist | Patromierz
+title: Anonymous Dosimetrist | Patromierz - statystyki Patronite.pl
 
 permalink: /anonymousdosimetrist
 ---

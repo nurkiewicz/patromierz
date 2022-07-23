@@ -1,5 +1,5 @@
 ---
-title: "Spanko w P\u0142ynie | Patromierz"
+title: "Spanko w P\u0142ynie | Patromierz - statystyki Patronite.pl"
 
 permalink: /spanko_w_plynie
 ---

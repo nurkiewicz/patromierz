@@ -1,5 +1,5 @@
 ---
-title: naumiem.pl | Patromierz
+title: naumiem.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /naumiempl
 ---

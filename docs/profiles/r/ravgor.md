@@ -1,5 +1,5 @@
 ---
-title: Ravgor | Patromierz
+title: Ravgor | Patromierz - statystyki Patronite.pl
 
 permalink: /ravgor
 ---

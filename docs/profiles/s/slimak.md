@@ -1,5 +1,5 @@
 ---
-title: "Maciej \"\u015Alimak\" Starosta | Patromierz"
+title: "Maciej \"\u015Alimak\" Starosta | Patromierz - statystyki Patronite.pl"
 
 permalink: /slimak
 ---

@@ -1,5 +1,5 @@
 ---
-title: Piwnic | Patromierz
+title: Piwnic | Patromierz - statystyki Patronite.pl
 
 permalink: /Piwnic
 ---

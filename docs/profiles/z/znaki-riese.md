@@ -1,5 +1,5 @@
 ---
-title: Znaki | Patromierz
+title: Znaki | Patromierz - statystyki Patronite.pl
 
 permalink: /znaki-riese
 ---

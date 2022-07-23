@@ -1,5 +1,5 @@
 ---
-title: Zbrodnia Ikara | Patromierz
+title: Zbrodnia Ikara | Patromierz - statystyki Patronite.pl
 
 permalink: /zbrodniaikara
 ---

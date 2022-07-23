@@ -1,5 +1,5 @@
 ---
-title: "G\xF3rskie Wyrypy | Patromierz"
+title: "G\xF3rskie Wyrypy | Patromierz - statystyki Patronite.pl"
 
 permalink: /gorskiewyrypy
 ---

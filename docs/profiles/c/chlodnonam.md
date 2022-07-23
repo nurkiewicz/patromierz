@@ -1,5 +1,5 @@
 ---
-title: "Ch\u0142odno | Patromierz"
+title: "Ch\u0142odno | Patromierz - statystyki Patronite.pl"
 
 permalink: /chlodnonam
 ---

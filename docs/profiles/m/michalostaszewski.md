@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Ostaszewski | Patromierz"
+title: "Micha\u0142 Ostaszewski | Patromierz - statystyki Patronite.pl"
 
 permalink: /michalostaszewski
 ---

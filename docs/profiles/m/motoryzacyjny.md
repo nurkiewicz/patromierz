@@ -1,5 +1,5 @@
 ---
-title: "Motoryzacyjny Skr\xF3t Tygodnia | Patromierz"
+title: "Motoryzacyjny Skr\xF3t Tygodnia | Patromierz - statystyki Patronite.pl"
 
 permalink: /motoryzacyjny
 ---

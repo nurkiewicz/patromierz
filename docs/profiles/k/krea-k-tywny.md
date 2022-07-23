@@ -1,5 +1,5 @@
 ---
-title: Krea.k.tywny | Patromierz
+title: Krea.k.tywny | Patromierz - statystyki Patronite.pl
 
 permalink: /krea-k-tywny
 ---

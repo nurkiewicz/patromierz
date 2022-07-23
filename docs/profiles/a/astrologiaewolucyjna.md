@@ -1,5 +1,5 @@
 ---
-title: Bartek  Sawicki - Astrologia Ewolucyjna | Patromierz
+title: Bartek  Sawicki - Astrologia Ewolucyjna | Patromierz - statystyki Patronite.pl
 
 permalink: /astrologiaewolucyjna
 ---

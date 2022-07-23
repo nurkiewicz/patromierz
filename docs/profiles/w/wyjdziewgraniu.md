@@ -1,5 +1,5 @@
 ---
-title: Wyjdzie w Graniu | Patromierz
+title: Wyjdzie w Graniu | Patromierz - statystyki Patronite.pl
 
 permalink: /wyjdziewgraniu
 ---

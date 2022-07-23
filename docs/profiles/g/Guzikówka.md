@@ -1,5 +1,5 @@
 ---
-title: "Guzik\xF3wka Krosno/Koniczynka Krosno | Patromierz"
+title: "Guzik\xF3wka Krosno/Koniczynka Krosno | Patromierz - statystyki Patronite.pl"
 
 permalink: /Guzikówka
 ---

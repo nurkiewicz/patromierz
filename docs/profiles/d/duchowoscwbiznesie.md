@@ -1,5 +1,5 @@
 ---
-title: Judyta Jaworska | Patromierz
+title: Judyta Jaworska | Patromierz - statystyki Patronite.pl
 
 permalink: /duchowoscwbiznesie
 ---

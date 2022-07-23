@@ -1,5 +1,5 @@
 ---
-title: Antropozofia | Patromierz
+title: Antropozofia | Patromierz - statystyki Patronite.pl
 
 permalink: /antropozofia
 ---

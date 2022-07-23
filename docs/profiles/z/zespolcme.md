@@ -1,5 +1,5 @@
 ---
-title: "Zesp\xF3\u0142 CME | Patromierz"
+title: "Zesp\xF3\u0142 CME | Patromierz - statystyki Patronite.pl"
 
 permalink: /zespolcme
 ---

@@ -1,5 +1,6 @@
 ---
-title: 'Wojciech Ganczarek (dawniej: Fizyk w Argentynie) | Patromierz'
+title: 'Wojciech Ganczarek (dawniej: Fizyk w Argentynie) | Patromierz - statystyki
+  Patronite.pl'
 
 permalink: /fizykwargentynie
 ---

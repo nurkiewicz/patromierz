@@ -1,5 +1,5 @@
 ---
-title: W Kraju Chryzantemy - Historia Japonii | Patromierz
+title: W Kraju Chryzantemy - Historia Japonii | Patromierz - statystyki Patronite.pl
 
 permalink: /Chryzantema
 ---

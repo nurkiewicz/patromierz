@@ -1,5 +1,5 @@
 ---
-title: Aleksander Temkin | Patromierz
+title: Aleksander Temkin | Patromierz - statystyki Patronite.pl
 
 permalink: /AlekTemkin
 ---

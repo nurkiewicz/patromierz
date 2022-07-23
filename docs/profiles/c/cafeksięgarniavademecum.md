@@ -1,5 +1,5 @@
 ---
-title: "Cafe Ksi\u0119garnia Vademecum | Patromierz"
+title: "Cafe Ksi\u0119garnia Vademecum | Patromierz - statystyki Patronite.pl"
 
 permalink: /cafeksięgarniavademecum
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Szparaga we w\u0142asnym sosie | Patromierz"
+title: "Szparaga we w\u0142asnym sosie | Patromierz - statystyki Patronite.pl"
 
 permalink: /szparagawewlasnymsosie
 ---

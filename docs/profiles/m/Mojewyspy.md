@@ -1,5 +1,5 @@
 ---
-title: Moje wyspy | Patromierz
+title: Moje wyspy | Patromierz - statystyki Patronite.pl
 
 permalink: /Mojewyspy
 ---

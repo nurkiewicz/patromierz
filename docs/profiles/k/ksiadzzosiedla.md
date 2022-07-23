@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0105dz z osiedla | Patromierz"
+title: "Ksi\u0105dz z osiedla | Patromierz - statystyki Patronite.pl"
 
 permalink: /ksiadzzosiedla
 ---

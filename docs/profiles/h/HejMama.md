@@ -1,5 +1,5 @@
 ---
-title: Hej Mama | Patromierz
+title: Hej Mama | Patromierz - statystyki Patronite.pl
 
 permalink: /HejMama
 ---

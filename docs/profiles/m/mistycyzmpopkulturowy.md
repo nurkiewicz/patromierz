@@ -1,5 +1,5 @@
 ---
-title: Mistycyzm Popkulturowy | Patromierz
+title: Mistycyzm Popkulturowy | Patromierz - statystyki Patronite.pl
 
 permalink: /mistycyzmpopkulturowy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Forum Narciarskie KochamNarty.pl  | Patromierz
+title: Forum Narciarskie KochamNarty.pl  | Patromierz - statystyki Patronite.pl
 
 permalink: /kochamnarty
 ---

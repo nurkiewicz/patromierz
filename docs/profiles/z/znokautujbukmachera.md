@@ -1,5 +1,5 @@
 ---
-title: Znokautuj bukmachera | Patromierz
+title: Znokautuj bukmachera | Patromierz - statystyki Patronite.pl
 
 permalink: /znokautujbukmachera
 ---

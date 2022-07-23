@@ -1,5 +1,5 @@
 ---
-title: Autostopowa Wrona | Patromierz
+title: Autostopowa Wrona | Patromierz - statystyki Patronite.pl
 
 permalink: /autostopowawrona
 ---

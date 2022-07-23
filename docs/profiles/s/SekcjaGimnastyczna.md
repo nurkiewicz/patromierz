@@ -1,5 +1,5 @@
 ---
-title: Sekcja Gimnastyczna | Patromierz
+title: Sekcja Gimnastyczna | Patromierz - statystyki Patronite.pl
 
 permalink: /SekcjaGimnastyczna
 ---

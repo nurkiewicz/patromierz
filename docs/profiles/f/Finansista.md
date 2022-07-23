@@ -1,5 +1,5 @@
 ---
-title: Finansista | Patromierz
+title: Finansista | Patromierz - statystyki Patronite.pl
 
 permalink: /Finansista
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cech Optyk\xF3w w Warszawie | Patromierz"
+title: "Cech Optyk\xF3w w Warszawie | Patromierz - statystyki Patronite.pl"
 
 permalink: /cech-optykow-w-warszawie
 ---

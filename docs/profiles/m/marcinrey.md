@@ -1,5 +1,5 @@
 ---
-title: Marcin Rey | Patromierz
+title: Marcin Rey | Patromierz - statystyki Patronite.pl
 
 permalink: /marcinrey
 ---

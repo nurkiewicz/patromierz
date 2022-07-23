@@ -1,5 +1,5 @@
 ---
-title: rallypl.com | Patromierz
+title: rallypl.com | Patromierz - statystyki Patronite.pl
 
 permalink: /rallypl
 ---

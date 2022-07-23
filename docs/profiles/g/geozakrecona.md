@@ -1,5 +1,5 @@
 ---
-title: "Monika Karli\u0144ska | Patromierz"
+title: "Monika Karli\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /geozakrecona
 ---

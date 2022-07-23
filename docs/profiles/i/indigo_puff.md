@@ -1,5 +1,5 @@
 ---
-title: Indigo Puff | Patromierz
+title: Indigo Puff | Patromierz - statystyki Patronite.pl
 
 permalink: /indigo_puff
 ---

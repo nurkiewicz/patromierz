@@ -1,5 +1,5 @@
 ---
-title: "Co\u015B na A | Patromierz"
+title: "Co\u015B na A | Patromierz - statystyki Patronite.pl"
 
 permalink: /cosnaa
 ---

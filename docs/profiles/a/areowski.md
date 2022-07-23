@@ -1,5 +1,5 @@
 ---
-title: Areowski | Patromierz
+title: Areowski | Patromierz - statystyki Patronite.pl
 
 permalink: /areowski
 ---

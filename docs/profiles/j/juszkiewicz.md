@@ -1,5 +1,5 @@
 ---
-title: "Jaros\u0142aw Juszkiewicz | Patromierz"
+title: "Jaros\u0142aw Juszkiewicz | Patromierz - statystyki Patronite.pl"
 
 permalink: /juszkiewicz
 ---

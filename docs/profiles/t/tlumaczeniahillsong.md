@@ -1,5 +1,5 @@
 ---
-title: "T\u0142umaczenia Hillsong | Patromierz"
+title: "T\u0142umaczenia Hillsong | Patromierz - statystyki Patronite.pl"
 
 permalink: /tlumaczeniahillsong
 ---

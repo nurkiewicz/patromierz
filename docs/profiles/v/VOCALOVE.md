@@ -1,5 +1,5 @@
 ---
-title: "Zesp\xF3\u0142 VOCALOVE | Patromierz"
+title: "Zesp\xF3\u0142 VOCALOVE | Patromierz - statystyki Patronite.pl"
 
 permalink: /VOCALOVE
 ---

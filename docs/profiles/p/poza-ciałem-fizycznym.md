@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Nieradzik | Patromierz"
+title: "Rafa\u0142 Nieradzik | Patromierz - statystyki Patronite.pl"
 
 permalink: /poza-ciałem-fizycznym
 ---

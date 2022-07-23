@@ -1,5 +1,5 @@
 ---
-title: Ewelina Oleksiak | Patromierz
+title: Ewelina Oleksiak | Patromierz - statystyki Patronite.pl
 
 permalink: /PsiLuz
 ---

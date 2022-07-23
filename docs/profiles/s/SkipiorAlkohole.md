@@ -1,5 +1,5 @@
 ---
-title: Skipior Alkohole | Patromierz
+title: Skipior Alkohole | Patromierz - statystyki Patronite.pl
 
 permalink: /SkipiorAlkohole
 ---

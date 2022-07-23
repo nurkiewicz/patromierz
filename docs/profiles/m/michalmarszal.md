@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Marsza\u0142 | Patromierz"
+title: "Micha\u0142 Marsza\u0142 | Patromierz - statystyki Patronite.pl"
 
 permalink: /michalmarszal
 ---

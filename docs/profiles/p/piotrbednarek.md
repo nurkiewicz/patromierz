@@ -1,5 +1,5 @@
 ---
-title: Piotr Bednarek | Patromierz
+title: Piotr Bednarek | Patromierz - statystyki Patronite.pl
 
 permalink: /piotrbednarek
 ---

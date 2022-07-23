@@ -1,5 +1,5 @@
 ---
-title: Moje Stypendium | Patromierz
+title: Moje Stypendium | Patromierz - statystyki Patronite.pl
 
 permalink: /mojestypendium
 ---

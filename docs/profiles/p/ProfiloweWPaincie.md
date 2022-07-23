@@ -1,5 +1,5 @@
 ---
-title: Twoje profilowe ale w Paincie | Patromierz
+title: Twoje profilowe ale w Paincie | Patromierz - statystyki Patronite.pl
 
 permalink: /ProfiloweWPaincie
 ---

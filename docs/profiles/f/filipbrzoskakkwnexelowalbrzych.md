@@ -1,5 +1,5 @@
 ---
-title: "Filip Brz\xF3ska | Patromierz"
+title: "Filip Brz\xF3ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /filipbrzoskakkwnexelowalbrzych
 ---

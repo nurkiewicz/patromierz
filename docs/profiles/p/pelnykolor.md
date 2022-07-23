@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 M\u0142otkowski | Patromierz"
+title: "Pawe\u0142 M\u0142otkowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /pelnykolor
 ---

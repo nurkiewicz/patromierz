@@ -1,5 +1,5 @@
 ---
-title: Piotr Kazimirski | Patromierz
+title: Piotr Kazimirski | Patromierz - statystyki Patronite.pl
 
 permalink: /Herpetolog
 ---

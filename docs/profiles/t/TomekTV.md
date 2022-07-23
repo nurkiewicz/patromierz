@@ -1,5 +1,5 @@
 ---
-title: TomekTV | Patromierz
+title: TomekTV | Patromierz - statystyki Patronite.pl
 
 permalink: /TomekTV
 ---

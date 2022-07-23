@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Herrmann  | Patromierz
+title: Agnieszka Herrmann  | Patromierz - statystyki Patronite.pl
 
 permalink: /AgaHerrmann
 ---

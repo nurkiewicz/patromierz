@@ -1,5 +1,5 @@
 ---
-title: KochamDziwneKino | Patromierz
+title: KochamDziwneKino | Patromierz - statystyki Patronite.pl
 
 permalink: /kochamdziwnekino
 ---

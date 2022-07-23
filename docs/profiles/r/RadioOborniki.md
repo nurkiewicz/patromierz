@@ -1,5 +1,5 @@
 ---
-title: Radio Oborniki | Patromierz
+title: Radio Oborniki | Patromierz - statystyki Patronite.pl
 
 permalink: /RadioOborniki
 ---

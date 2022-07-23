@@ -1,5 +1,5 @@
 ---
-title: Monika Matusik | Patromierz
+title: Monika Matusik | Patromierz - statystyki Patronite.pl
 
 permalink: /MonikaMatusik
 ---

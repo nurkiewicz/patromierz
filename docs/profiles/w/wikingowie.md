@@ -1,5 +1,5 @@
 ---
-title: "Rados\u0142aw Lewandowski | Patromierz"
+title: "Rados\u0142aw Lewandowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /wikingowie
 ---

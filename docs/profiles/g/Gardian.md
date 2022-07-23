@@ -1,5 +1,5 @@
 ---
-title: Gardian | Patromierz
+title: Gardian | Patromierz - statystyki Patronite.pl
 
 permalink: /Gardian
 ---

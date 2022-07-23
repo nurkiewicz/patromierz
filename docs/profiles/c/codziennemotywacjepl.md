@@ -1,5 +1,5 @@
 ---
-title: Codzienne Motywacje | Patromierz
+title: Codzienne Motywacje | Patromierz - statystyki Patronite.pl
 
 permalink: /codziennemotywacjepl
 ---

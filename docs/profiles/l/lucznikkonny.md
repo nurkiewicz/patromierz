@@ -1,5 +1,5 @@
 ---
-title: "Natalia Koprowska - \u0142ucznik konny | Patromierz"
+title: "Natalia Koprowska - \u0142ucznik konny | Patromierz - statystyki Patronite.pl"
 
 permalink: /lucznikkonny
 ---

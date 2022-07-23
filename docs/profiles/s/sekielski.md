@@ -1,5 +1,5 @@
 ---
-title: Sekielski Brothers Studio | Patromierz
+title: Sekielski Brothers Studio | Patromierz - statystyki Patronite.pl
 
 permalink: /sekielski
 ---

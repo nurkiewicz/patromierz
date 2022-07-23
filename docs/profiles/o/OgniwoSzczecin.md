@@ -1,5 +1,5 @@
 ---
-title: Ogniwo Szczecin | Patromierz
+title: Ogniwo Szczecin | Patromierz - statystyki Patronite.pl
 
 permalink: /OgniwoSzczecin
 ---

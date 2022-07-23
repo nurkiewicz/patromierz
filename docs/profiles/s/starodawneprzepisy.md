@@ -1,5 +1,5 @@
 ---
-title: Starodawne Przepisy | Patromierz
+title: Starodawne Przepisy | Patromierz - statystyki Patronite.pl
 
 permalink: /starodawneprzepisy
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u017Bydoteka | Patromierz"
+title: "\u017Bydoteka | Patromierz - statystyki Patronite.pl"
 
 permalink: /zydoteka
 ---

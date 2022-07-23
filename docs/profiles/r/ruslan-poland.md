@@ -1,5 +1,5 @@
 ---
-title: Ruslan Poland | Patromierz
+title: Ruslan Poland | Patromierz - statystyki Patronite.pl
 
 permalink: /ruslan-poland
 ---

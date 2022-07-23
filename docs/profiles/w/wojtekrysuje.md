@@ -1,5 +1,5 @@
 ---
-title: "Wojtek WU Zieli\u0144ski  | Patromierz"
+title: "Wojtek WU Zieli\u0144ski  | Patromierz - statystyki Patronite.pl"
 
 permalink: /wojtekrysuje
 ---

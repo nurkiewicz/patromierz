@@ -1,5 +1,5 @@
 ---
-title: Volny Chor | Patromierz
+title: Volny Chor | Patromierz - statystyki Patronite.pl
 
 permalink: /VolnyChor
 ---

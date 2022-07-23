@@ -1,5 +1,5 @@
 ---
-title: Hotelmania | Patromierz
+title: Hotelmania | Patromierz - statystyki Patronite.pl
 
 permalink: /Hotelmania
 ---

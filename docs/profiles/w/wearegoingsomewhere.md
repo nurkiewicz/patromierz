@@ -1,5 +1,5 @@
 ---
-title: DavidM (WeAreGoingSomewhere) | Patromierz
+title: DavidM (WeAreGoingSomewhere) | Patromierz - statystyki Patronite.pl
 
 permalink: /wearegoingsomewhere
 ---

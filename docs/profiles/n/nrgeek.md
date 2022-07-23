@@ -1,5 +1,5 @@
 ---
-title: NRGeek | Patromierz
+title: NRGeek | Patromierz - statystyki Patronite.pl
 
 permalink: /nrgeek
 ---

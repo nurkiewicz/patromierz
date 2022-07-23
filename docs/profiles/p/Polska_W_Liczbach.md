@@ -1,5 +1,5 @@
 ---
-title: Polskawliczbach.pl | Patromierz
+title: Polskawliczbach.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /Polska_W_Liczbach
 ---

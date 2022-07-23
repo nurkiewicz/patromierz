@@ -1,5 +1,5 @@
 ---
-title: "Fascynaci - Tw\xF3rczo\u015B\u0107 i Wydania | Patromierz"
+title: "Fascynaci - Tw\xF3rczo\u015B\u0107 i Wydania | Patromierz - statystyki Patronite.pl"
 
 permalink: /Fascynaci
 ---

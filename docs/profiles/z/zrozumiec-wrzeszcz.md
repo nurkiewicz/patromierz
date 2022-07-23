@@ -1,5 +1,5 @@
 ---
-title: "Zrozumie\u0107 Wrzeszcz | Patromierz"
+title: "Zrozumie\u0107 Wrzeszcz | Patromierz - statystyki Patronite.pl"
 
 permalink: /zrozumiec-wrzeszcz
 ---

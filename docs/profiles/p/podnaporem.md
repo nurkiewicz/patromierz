@@ -1,5 +1,5 @@
 ---
-title: Pod Naporem | Patromierz
+title: Pod Naporem | Patromierz - statystyki Patronite.pl
 
 permalink: /podnaporem
 ---

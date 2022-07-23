@@ -1,5 +1,5 @@
 ---
-title: Piotr Borowski | Patromierz
+title: Piotr Borowski | Patromierz - statystyki Patronite.pl
 
 permalink: /historia-dla-dzieci
 ---

@@ -1,5 +1,5 @@
 ---
-title: Samochodem na wakacje.pl | Patromierz
+title: Samochodem na wakacje.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /Samochodemnawakacje_pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: TERENWIZJA | Patromierz
+title: TERENWIZJA | Patromierz - statystyki Patronite.pl
 
 permalink: /TERENWIZJA
 ---

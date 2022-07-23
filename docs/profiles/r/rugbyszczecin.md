@@ -1,5 +1,5 @@
 ---
-title: Kaskada Szczecin Rugby Klub | Patromierz
+title: Kaskada Szczecin Rugby Klub | Patromierz - statystyki Patronite.pl
 
 permalink: /rugbyszczecin
 ---

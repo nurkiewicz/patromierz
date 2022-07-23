@@ -1,5 +1,5 @@
 ---
-title: Zbigniew Pakleza | Patromierz
+title: Zbigniew Pakleza | Patromierz - statystyki Patronite.pl
 
 permalink: /GMPakleza
 ---

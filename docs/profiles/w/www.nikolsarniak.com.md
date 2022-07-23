@@ -1,5 +1,5 @@
 ---
-title: Nikol Sarniak | Patromierz
+title: Nikol Sarniak | Patromierz - statystyki Patronite.pl
 
 permalink: /www.nikolsarniak.com
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Siatkarskie Podr\xF3\u017Ce | Patromierz"
+title: "Siatkarskie Podr\xF3\u017Ce | Patromierz - statystyki Patronite.pl"
 
 permalink: /SiatkarskiePodroze
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ag \u017Ber | Patromierz"
+title: "Ag \u017Ber | Patromierz - statystyki Patronite.pl"
 
 permalink: /magic-realizm-agzer
 ---

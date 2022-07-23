@@ -1,5 +1,5 @@
 ---
-title: ADAM JAZWIECKI | Patromierz
+title: ADAM JAZWIECKI | Patromierz - statystyki Patronite.pl
 
 permalink: /adamjazwiecki-nietylkowlewo
 ---

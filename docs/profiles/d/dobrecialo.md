@@ -1,5 +1,5 @@
 ---
-title: "Dobre Cia\u0142o  | Patromierz"
+title: "Dobre Cia\u0142o  | Patromierz - statystyki Patronite.pl"
 
 permalink: /dobrecialo
 ---

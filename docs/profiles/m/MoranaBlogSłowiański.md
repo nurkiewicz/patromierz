@@ -1,5 +1,6 @@
 ---
-title: "Pijana Morana - s\u0142owia\u0144ski blog historyczny | Patromierz"
+title: "Pijana Morana - s\u0142owia\u0144ski blog historyczny | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /MoranaBlogSłowiański
 ---

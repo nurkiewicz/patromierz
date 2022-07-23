@@ -1,5 +1,5 @@
 ---
-title: Kaftann | Patromierz
+title: Kaftann | Patromierz - statystyki Patronite.pl
 
 permalink: /kaftann
 ---

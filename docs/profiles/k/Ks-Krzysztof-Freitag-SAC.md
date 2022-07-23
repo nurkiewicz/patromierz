@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Freitag | Patromierz
+title: Krzysztof Freitag | Patromierz - statystyki Patronite.pl
 
 permalink: /Ks-Krzysztof-Freitag-SAC
 ---

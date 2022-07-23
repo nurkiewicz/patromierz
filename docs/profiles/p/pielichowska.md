@@ -1,5 +1,5 @@
 ---
-title: Gosia Pielichowska | Patromierz
+title: Gosia Pielichowska | Patromierz - statystyki Patronite.pl
 
 permalink: /pielichowska
 ---

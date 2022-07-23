@@ -1,5 +1,5 @@
 ---
-title: "Jacek Weso\u0142owski | Patromierz"
+title: "Jacek Weso\u0142owski | Patromierz - statystyki Patronite.pl"
 
 permalink: /jwesolowski
 ---

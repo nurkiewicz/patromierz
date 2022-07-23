@@ -1,5 +1,5 @@
 ---
-title: Fundacja ipomocni.pl | Patromierz
+title: Fundacja ipomocni.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /Fundacjaipomocnipl
 ---

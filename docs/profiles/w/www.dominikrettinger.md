@@ -1,5 +1,5 @@
 ---
-title: Dominik Wieczorkowski-Rettinger | Patromierz
+title: Dominik Wieczorkowski-Rettinger | Patromierz - statystyki Patronite.pl
 
 permalink: /www.dominikrettinger
 ---

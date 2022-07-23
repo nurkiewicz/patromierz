@@ -1,5 +1,5 @@
 ---
-title: Fundacja ekologiczna ARKA | Patromierz
+title: Fundacja ekologiczna ARKA | Patromierz - statystyki Patronite.pl
 
 permalink: /Fundacja-ARKA
 ---

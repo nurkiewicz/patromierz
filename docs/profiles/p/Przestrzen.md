@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Krzeminski | Patromierz
+title: Grzegorz Krzeminski | Patromierz - statystyki Patronite.pl
 
 permalink: /Przestrzen
 ---

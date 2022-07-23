@@ -1,5 +1,5 @@
 ---
-title: "KANA\u0141 DARTERSKI | Patromierz"
+title: "KANA\u0141 DARTERSKI | Patromierz - statystyki Patronite.pl"
 
 permalink: /kanaldarterski
 ---

@@ -1,5 +1,5 @@
 ---
-title: Karpiowy | Patromierz
+title: Karpiowy | Patromierz - statystyki Patronite.pl
 
 permalink: /Karpiowy
 ---

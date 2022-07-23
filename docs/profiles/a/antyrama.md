@@ -1,5 +1,5 @@
 ---
-title: antyRAMA | Patromierz
+title: antyRAMA | Patromierz - statystyki Patronite.pl
 
 permalink: /antyrama
 ---

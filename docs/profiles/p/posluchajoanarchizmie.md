@@ -1,5 +1,5 @@
 ---
-title: "Pos\u0142uchaj o Anarchizmie | Patromierz"
+title: "Pos\u0142uchaj o Anarchizmie | Patromierz - statystyki Patronite.pl"
 
 permalink: /posluchajoanarchizmie
 ---

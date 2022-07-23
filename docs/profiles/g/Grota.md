@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Grota | Patromierz
+title: Stowarzyszenie Grota | Patromierz - statystyki Patronite.pl
 
 permalink: /Grota
 ---

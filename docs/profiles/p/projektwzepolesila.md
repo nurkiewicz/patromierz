@@ -1,5 +1,5 @@
 ---
-title: "Projekt  W Zespole Si\u0142a  | Patromierz"
+title: "Projekt  W Zespole Si\u0142a  | Patromierz - statystyki Patronite.pl"
 
 permalink: /projektwzepolesila
 ---

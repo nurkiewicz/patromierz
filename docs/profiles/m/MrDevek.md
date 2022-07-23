@@ -1,5 +1,5 @@
 ---
-title: "Marek Brzezi\u0144ski Polish Storm Chaser | Patromierz"
+title: "Marek Brzezi\u0144ski Polish Storm Chaser | Patromierz - statystyki Patronite.pl"
 
 permalink: /MrDevek
 ---

@@ -1,5 +1,5 @@
 ---
-title: PhotoVisions | Patromierz
+title: PhotoVisions | Patromierz - statystyki Patronite.pl
 
 permalink: /projekt-photovisions
 ---

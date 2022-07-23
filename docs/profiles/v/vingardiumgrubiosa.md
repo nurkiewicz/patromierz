@@ -1,5 +1,5 @@
 ---
-title: Vingardium Grubiosa | Patromierz
+title: Vingardium Grubiosa | Patromierz - statystyki Patronite.pl
 
 permalink: /vingardiumgrubiosa
 ---

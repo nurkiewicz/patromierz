@@ -1,5 +1,5 @@
 ---
-title: Vrah | Patromierz
+title: Vrah | Patromierz - statystyki Patronite.pl
 
 permalink: /vrah
 ---

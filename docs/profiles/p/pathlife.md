@@ -1,5 +1,5 @@
 ---
-title: Pathlife muzyka | Patromierz
+title: Pathlife muzyka | Patromierz - statystyki Patronite.pl
 
 permalink: /pathlife
 ---

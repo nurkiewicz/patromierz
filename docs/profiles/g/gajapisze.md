@@ -1,5 +1,5 @@
 ---
-title: Katarzyna Gajewska GajaPisze.pl | Patromierz
+title: Katarzyna Gajewska GajaPisze.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /gajapisze
 ---

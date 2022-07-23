@@ -1,5 +1,5 @@
 ---
-title: Neuropa | Patromierz
+title: Neuropa | Patromierz - statystyki Patronite.pl
 
 permalink: /neuropa
 ---

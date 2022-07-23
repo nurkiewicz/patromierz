@@ -1,5 +1,5 @@
 ---
-title: Tymczas | Patromierz
+title: Tymczas | Patromierz - statystyki Patronite.pl
 
 permalink: /Tymczas
 ---

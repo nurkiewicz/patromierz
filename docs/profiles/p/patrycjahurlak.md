@@ -1,5 +1,5 @@
 ---
-title: Patrycja Hurlak | Patromierz
+title: Patrycja Hurlak | Patromierz - statystyki Patronite.pl
 
 permalink: /patrycjahurlak
 ---

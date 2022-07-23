@@ -1,5 +1,5 @@
 ---
-title: Marek Rocki | Patromierz
+title: Marek Rocki | Patromierz - statystyki Patronite.pl
 
 permalink: /MarekOpowiada
 ---

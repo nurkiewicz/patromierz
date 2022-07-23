@@ -1,5 +1,5 @@
 ---
-title: EDU Afryka | Patromierz
+title: EDU Afryka | Patromierz - statystyki Patronite.pl
 
 permalink: /eduafryka
 ---

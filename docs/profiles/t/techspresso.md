@@ -1,5 +1,5 @@
 ---
-title: TECHSPRESSO.CAFE | Patromierz
+title: TECHSPRESSO.CAFE | Patromierz - statystyki Patronite.pl
 
 permalink: /techspresso
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jasna Gabriela Iwan | Patromierz
+title: Jasna Gabriela Iwan | Patromierz - statystyki Patronite.pl
 
 permalink: /vegebunda
 ---

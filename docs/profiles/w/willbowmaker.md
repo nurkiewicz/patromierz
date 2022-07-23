@@ -1,5 +1,5 @@
 ---
-title: Will Bowmaker | Patromierz
+title: Will Bowmaker | Patromierz - statystyki Patronite.pl
 
 permalink: /willbowmaker
 ---

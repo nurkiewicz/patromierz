@@ -1,5 +1,5 @@
 ---
-title: Ciekawostnik.pl | Patromierz
+title: Ciekawostnik.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /ciekawostnik
 ---

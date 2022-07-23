@@ -1,5 +1,5 @@
 ---
-title: Bartosz Bazok Zelek | Patromierz
+title: Bartosz Bazok Zelek | Patromierz - statystyki Patronite.pl
 
 permalink: /baz0k
 ---

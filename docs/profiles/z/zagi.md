@@ -1,5 +1,5 @@
 ---
-title: Zagi | Patromierz
+title: Zagi | Patromierz - statystyki Patronite.pl
 
 permalink: /zagi
 ---

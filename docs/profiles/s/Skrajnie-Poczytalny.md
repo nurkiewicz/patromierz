@@ -1,5 +1,5 @@
 ---
-title: Adrian Kaszuba | Patromierz
+title: Adrian Kaszuba | Patromierz - statystyki Patronite.pl
 
 permalink: /Skrajnie-Poczytalny
 ---

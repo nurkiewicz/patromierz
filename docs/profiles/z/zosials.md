@@ -1,5 +1,5 @@
 ---
-title: Zosia LS | Patromierz
+title: Zosia LS | Patromierz - statystyki Patronite.pl
 
 permalink: /zosials
 ---

@@ -1,5 +1,5 @@
 ---
-title: Facecje | Patromierz
+title: Facecje | Patromierz - statystyki Patronite.pl
 
 permalink: /facecje
 ---

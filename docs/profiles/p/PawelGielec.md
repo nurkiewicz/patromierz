@@ -1,5 +1,5 @@
 ---
-title: Tu i Teraz - Podcast | Patromierz
+title: Tu i Teraz - Podcast | Patromierz - statystyki Patronite.pl
 
 permalink: /PawelGielec
 ---

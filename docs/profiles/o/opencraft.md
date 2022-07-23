@@ -1,5 +1,5 @@
 ---
-title: openCraft.pl | Patromierz
+title: openCraft.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /opencraft
 ---

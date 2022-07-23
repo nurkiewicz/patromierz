@@ -1,5 +1,5 @@
 ---
-title: URBEX IN MY MIND | Patromierz
+title: URBEX IN MY MIND | Patromierz - statystyki Patronite.pl
 
 permalink: /urbexinmymind
 ---

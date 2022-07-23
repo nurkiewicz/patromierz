@@ -1,5 +1,5 @@
 ---
-title: GryKZWP | Patromierz
+title: GryKZWP | Patromierz - statystyki Patronite.pl
 
 permalink: /grykzwp
 ---

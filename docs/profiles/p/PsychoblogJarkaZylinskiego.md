@@ -1,5 +1,5 @@
 ---
-title: "Psychoblog Jarka \u017Byli\u0144skiego | Patromierz"
+title: "Psychoblog Jarka \u017Byli\u0144skiego | Patromierz - statystyki Patronite.pl"
 
 permalink: /PsychoblogJarkaZylinskiego
 ---

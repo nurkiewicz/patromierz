@@ -1,5 +1,5 @@
 ---
-title: DISCOVER THAILAND NOW | Patromierz
+title: DISCOVER THAILAND NOW | Patromierz - statystyki Patronite.pl
 
 permalink: /Discover-Thailand-Now
 ---

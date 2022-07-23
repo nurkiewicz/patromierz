@@ -1,5 +1,5 @@
 ---
-title: TeKo | Patromierz
+title: TeKo | Patromierz - statystyki Patronite.pl
 
 permalink: /TeKo
 ---

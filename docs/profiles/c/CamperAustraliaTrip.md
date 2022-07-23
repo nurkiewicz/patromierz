@@ -1,5 +1,5 @@
 ---
-title: Camper Australia Trip | Patromierz
+title: Camper Australia Trip | Patromierz - statystyki Patronite.pl
 
 permalink: /CamperAustraliaTrip
 ---

@@ -1,5 +1,5 @@
 ---
-title: Aleksandra  | Patromierz
+title: Aleksandra  | Patromierz - statystyki Patronite.pl
 
 permalink: /zrozumiec-szczura
 ---

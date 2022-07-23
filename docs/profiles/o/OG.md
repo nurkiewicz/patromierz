@@ -1,5 +1,5 @@
 ---
-title: Obserwator Gospodarczy | Patromierz
+title: Obserwator Gospodarczy | Patromierz - statystyki Patronite.pl
 
 permalink: /OG
 ---

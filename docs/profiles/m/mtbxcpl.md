@@ -1,5 +1,5 @@
 ---
-title: 'Portal kolarski #mtbxcpl | Patromierz'
+title: 'Portal kolarski #mtbxcpl | Patromierz - statystyki Patronite.pl'
 
 permalink: /mtbxcpl
 ---

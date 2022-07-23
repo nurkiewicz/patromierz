@@ -1,5 +1,5 @@
 ---
-title: Serce Miasta | Patromierz
+title: Serce Miasta | Patromierz - statystyki Patronite.pl
 
 permalink: /sercemiastawarszawa
 ---

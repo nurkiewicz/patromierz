@@ -1,5 +1,5 @@
 ---
-title: "Filozofia \u017Bycia - Zosia Wilk | Patromierz"
+title: "Filozofia \u017Bycia - Zosia Wilk | Patromierz - statystyki Patronite.pl"
 
 permalink: /filozofiazycia
 ---

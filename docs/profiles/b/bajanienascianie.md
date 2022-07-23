@@ -1,5 +1,5 @@
 ---
-title: "Bajanie na \u015Bcianie | Patromierz"
+title: "Bajanie na \u015Bcianie | Patromierz - statystyki Patronite.pl"
 
 permalink: /bajanienascianie
 ---

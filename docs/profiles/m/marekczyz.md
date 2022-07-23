@@ -1,5 +1,5 @@
 ---
-title: "Marek Czy\u017C | Patromierz"
+title: "Marek Czy\u017C | Patromierz - statystyki Patronite.pl"
 
 permalink: /marekczyz
 ---

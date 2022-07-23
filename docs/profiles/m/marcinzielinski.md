@@ -1,5 +1,5 @@
 ---
-title: "Marcin Zieli\u0144ski | Patromierz"
+title: "Marcin Zieli\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /marcinzielinski
 ---

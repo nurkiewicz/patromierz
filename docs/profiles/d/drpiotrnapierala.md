@@ -1,5 +1,5 @@
 ---
-title: "Piotr Napiera\u0142a | Patromierz"
+title: "Piotr Napiera\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /drpiotrnapierala
 ---

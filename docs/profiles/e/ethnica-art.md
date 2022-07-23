@@ -1,5 +1,5 @@
 ---
-title: Ethnica-Art Janusz Czarnecki | Patromierz
+title: Ethnica-Art Janusz Czarnecki | Patromierz - statystyki Patronite.pl
 
 permalink: /ethnica-art
 ---

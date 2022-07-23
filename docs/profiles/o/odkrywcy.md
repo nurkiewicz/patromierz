@@ -1,5 +1,5 @@
 ---
-title: Odkrywcy Miasta | Patromierz
+title: Odkrywcy Miasta | Patromierz - statystyki Patronite.pl
 
 permalink: /odkrywcy
 ---

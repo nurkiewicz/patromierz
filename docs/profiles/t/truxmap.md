@@ -1,5 +1,5 @@
 ---
-title: truxmap.eu | Patromierz
+title: truxmap.eu | Patromierz - statystyki Patronite.pl
 
 permalink: /truxmap
 ---

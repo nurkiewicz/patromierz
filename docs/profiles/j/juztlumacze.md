@@ -1,5 +1,6 @@
 ---
-title: "Ju\u017C t\u0142umacz\u0119 - podkast o ksi\u0105\u017Ckach | Patromierz"
+title: "Ju\u017C t\u0142umacz\u0119 - podkast o ksi\u0105\u017Ckach | Patromierz -\
+  \ statystyki Patronite.pl"
 
 permalink: /juztlumacze
 ---

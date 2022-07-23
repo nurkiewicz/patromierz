@@ -1,5 +1,5 @@
 ---
-title: "Z\u0142a Ambasada  | Patromierz"
+title: "Z\u0142a Ambasada  | Patromierz - statystyki Patronite.pl"
 
 permalink: /badembassy
 ---

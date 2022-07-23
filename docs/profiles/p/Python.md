@@ -1,5 +1,6 @@
 ---
-title: "Kodowanie dla: osieroconych, uchod\u017Ac\xF3w i patron\xF3w | Patromierz"
+title: "Kodowanie dla: osieroconych, uchod\u017Ac\xF3w i patron\xF3w | Patromierz\
+  \ - statystyki Patronite.pl"
 
 permalink: /Python
 ---

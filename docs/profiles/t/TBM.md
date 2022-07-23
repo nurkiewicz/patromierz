@@ -1,5 +1,5 @@
 ---
-title: Tak Brzmi Miasto | Patromierz
+title: Tak Brzmi Miasto | Patromierz - statystyki Patronite.pl
 
 permalink: /TBM
 ---

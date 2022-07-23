@@ -1,5 +1,5 @@
 ---
-title: "M\xF3j Loch | Patromierz"
+title: "M\xF3j Loch | Patromierz - statystyki Patronite.pl"
 
 permalink: /Moj-Loch
 ---

@@ -1,5 +1,5 @@
 ---
-title: UBoga. Podcast z Ducha strony | Patromierz
+title: UBoga. Podcast z Ducha strony | Patromierz - statystyki Patronite.pl
 
 permalink: /ubogapodcast
 ---

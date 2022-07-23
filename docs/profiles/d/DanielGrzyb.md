@@ -1,5 +1,5 @@
 ---
-title: Daniel Grzyb | Patromierz
+title: Daniel Grzyb | Patromierz - statystyki Patronite.pl
 
 permalink: /DanielGrzyb
 ---

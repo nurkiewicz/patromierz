@@ -1,5 +1,5 @@
 ---
-title: Anjunafamily Poland | Patromierz
+title: Anjunafamily Poland | Patromierz - statystyki Patronite.pl
 
 permalink: /anjunafamilypoland
 ---

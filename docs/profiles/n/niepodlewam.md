@@ -1,5 +1,5 @@
 ---
-title: Niepodlewam.pl | Patromierz
+title: Niepodlewam.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /niepodlewam
 ---

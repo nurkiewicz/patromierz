@@ -1,5 +1,5 @@
 ---
-title: Zbigniew Komosa | Patromierz
+title: Zbigniew Komosa | Patromierz - statystyki Patronite.pl
 
 permalink: /ZbigniewKOMOSA
 ---

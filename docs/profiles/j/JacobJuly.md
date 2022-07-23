@@ -1,5 +1,5 @@
 ---
-title: Jacob July | Patromierz
+title: Jacob July | Patromierz - statystyki Patronite.pl
 
 permalink: /JacobJuly
 ---

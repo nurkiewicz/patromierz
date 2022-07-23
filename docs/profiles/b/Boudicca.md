@@ -1,5 +1,5 @@
 ---
-title: "Okr\u0119t Boudicca | Patromierz"
+title: "Okr\u0119t Boudicca | Patromierz - statystyki Patronite.pl"
 
 permalink: /Boudicca
 ---

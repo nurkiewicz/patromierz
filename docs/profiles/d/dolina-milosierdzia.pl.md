@@ -1,5 +1,5 @@
 ---
-title: "Dolina Mi\u0142osierdzia | Patromierz"
+title: "Dolina Mi\u0142osierdzia | Patromierz - statystyki Patronite.pl"
 
 permalink: /dolina-milosierdzia.pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: daneradarowe.pl | Patromierz
+title: daneradarowe.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /daneradarowe
 ---

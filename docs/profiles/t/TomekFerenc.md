@@ -1,5 +1,5 @@
 ---
-title: Tomek Ferenc | Patromierz
+title: Tomek Ferenc | Patromierz - statystyki Patronite.pl
 
 permalink: /TomekFerenc
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Alegoria  | Patromierz
+title: Fundacja Alegoria  | Patromierz - statystyki Patronite.pl
 
 permalink: /alegoria
 ---

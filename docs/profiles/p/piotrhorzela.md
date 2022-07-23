@@ -1,5 +1,5 @@
 ---
-title: Piotr Horzela - Opowiada | Patromierz
+title: Piotr Horzela - Opowiada | Patromierz - statystyki Patronite.pl
 
 permalink: /piotrhorzela
 ---

@@ -1,5 +1,5 @@
 ---
-title: Gree | Patromierz
+title: Gree | Patromierz - statystyki Patronite.pl
 
 permalink: /gree
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mam cia\u0142o - i co dalej? | Patromierz"
+title: "Mam cia\u0142o - i co dalej? | Patromierz - statystyki Patronite.pl"
 
 permalink: /mamcialo-podcast
 ---

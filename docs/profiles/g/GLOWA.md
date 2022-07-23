@@ -1,5 +1,5 @@
 ---
-title: "G\u0141OWA DRIFT Team | Patromierz"
+title: "G\u0141OWA DRIFT Team | Patromierz - statystyki Patronite.pl"
 
 permalink: /GLOWA
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kamil - In Travel | Patromierz
+title: Kamil - In Travel | Patromierz - statystyki Patronite.pl
 
 permalink: /KamilInTravel
 ---

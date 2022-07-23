@@ -1,5 +1,5 @@
 ---
-title: Marta  z Pasikoni | Patromierz
+title: Marta  z Pasikoni | Patromierz - statystyki Patronite.pl
 
 permalink: /pasikonie
 ---

@@ -1,5 +1,5 @@
 ---
-title: BASTI | Patromierz
+title: BASTI | Patromierz - statystyki Patronite.pl
 
 permalink: /Basti
 ---

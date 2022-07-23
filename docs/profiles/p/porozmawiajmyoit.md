@@ -1,5 +1,5 @@
 ---
-title: "Krzysztof Kempi\u0144ski | Patromierz"
+title: "Krzysztof Kempi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /porozmawiajmyoit
 ---

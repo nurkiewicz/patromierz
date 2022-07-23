@@ -1,5 +1,5 @@
 ---
-title: Station Nord | Patromierz
+title: Station Nord | Patromierz - statystyki Patronite.pl
 
 permalink: /Station-Nord
 ---

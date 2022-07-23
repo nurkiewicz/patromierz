@@ -1,5 +1,5 @@
 ---
-title: Janek Gada | Patromierz
+title: Janek Gada | Patromierz - statystyki Patronite.pl
 
 permalink: /JanekGada
 ---

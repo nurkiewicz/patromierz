@@ -1,5 +1,5 @@
 ---
-title: MGR.MAJKI | Patromierz
+title: MGR.MAJKI | Patromierz - statystyki Patronite.pl
 
 permalink: /MGRMAJKI
 ---

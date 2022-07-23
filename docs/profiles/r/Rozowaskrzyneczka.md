@@ -1,5 +1,5 @@
 ---
-title: "Fundacja R\xF3\u017Cowa Skrzyneczka | Patromierz"
+title: "Fundacja R\xF3\u017Cowa Skrzyneczka | Patromierz - statystyki Patronite.pl"
 
 permalink: /Rozowaskrzyneczka
 ---

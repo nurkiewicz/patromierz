@@ -1,5 +1,5 @@
 ---
-title: Fundacja Maria Magdalena  | Patromierz
+title: Fundacja Maria Magdalena  | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjamm
 ---

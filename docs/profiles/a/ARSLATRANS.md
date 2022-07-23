@@ -1,5 +1,5 @@
 ---
-title: ARS LATRANS | Patromierz
+title: ARS LATRANS | Patromierz - statystyki Patronite.pl
 
 permalink: /ARSLATRANS
 ---

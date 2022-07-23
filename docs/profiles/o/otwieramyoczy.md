@@ -1,5 +1,5 @@
 ---
-title: Otwieramy Oczy | Patromierz
+title: Otwieramy Oczy | Patromierz - statystyki Patronite.pl
 
 permalink: /otwieramyoczy
 ---

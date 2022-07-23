@@ -1,5 +1,5 @@
 ---
-title: "magazyn \u017Cydowski \u201EChidusz\" | Patromierz"
+title: "magazyn \u017Cydowski \u201EChidusz\" | Patromierz - statystyki Patronite.pl"
 
 permalink: /chidusz
 ---

@@ -1,5 +1,5 @@
 ---
-title: SecondHandy | Patromierz
+title: SecondHandy | Patromierz - statystyki Patronite.pl
 
 permalink: /SecondHandy
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kobieta G\xF3rom | Patromierz"
+title: "Kobieta G\xF3rom | Patromierz - statystyki Patronite.pl"
 
 permalink: /kobietagorom
 ---

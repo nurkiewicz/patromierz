@@ -1,5 +1,5 @@
 ---
-title: "\u015Al\u0105ska Szko\u0142a Ikonograficzna | Patromierz"
+title: "\u015Al\u0105ska Szko\u0142a Ikonograficzna | Patromierz - statystyki Patronite.pl"
 
 permalink: /ssi
 ---

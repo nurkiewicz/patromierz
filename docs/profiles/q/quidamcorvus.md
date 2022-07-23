@@ -1,5 +1,5 @@
 ---
-title: Warheim FS | Patromierz
+title: Warheim FS | Patromierz - statystyki Patronite.pl
 
 permalink: /quidamcorvus
 ---

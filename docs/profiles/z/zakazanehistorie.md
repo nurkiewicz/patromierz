@@ -1,5 +1,5 @@
 ---
-title: ZAKAZANE HISTORIE | Patromierz
+title: ZAKAZANE HISTORIE | Patromierz - statystyki Patronite.pl
 
 permalink: /zakazanehistorie
 ---

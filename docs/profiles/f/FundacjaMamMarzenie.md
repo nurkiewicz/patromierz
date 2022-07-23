@@ -1,5 +1,5 @@
 ---
-title: Fundacja Mam Marzenie | Patromierz
+title: Fundacja Mam Marzenie | Patromierz - statystyki Patronite.pl
 
 permalink: /FundacjaMamMarzenie
 ---

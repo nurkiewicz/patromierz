@@ -1,5 +1,5 @@
 ---
-title: pixelretroshop.pl | Patromierz
+title: pixelretroshop.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /pixelretroshop
 ---

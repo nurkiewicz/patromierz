@@ -1,5 +1,5 @@
 ---
-title: "Wojciech G\u0142ogowski | Patromierz"
+title: "Wojciech G\u0142ogowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /głogowski
 ---

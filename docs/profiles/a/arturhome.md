@@ -1,5 +1,5 @@
 ---
-title: ArturHome | Patromierz
+title: ArturHome | Patromierz - statystyki Patronite.pl
 
 permalink: /arturhome
 ---

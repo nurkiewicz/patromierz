@@ -1,5 +1,5 @@
 ---
-title: "Sam buduj\u0119 dom - bez kredytu | Patromierz"
+title: "Sam buduj\u0119 dom - bez kredytu | Patromierz - statystyki Patronite.pl"
 
 permalink: /sambudujedom
 ---

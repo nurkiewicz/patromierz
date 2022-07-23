@@ -1,5 +1,5 @@
 ---
-title: Olga Herring | Patromierz
+title: Olga Herring | Patromierz - statystyki Patronite.pl
 
 permalink: /olgaherring
 ---

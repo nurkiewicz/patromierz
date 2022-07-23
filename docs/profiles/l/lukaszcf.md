@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz  Szetela  | Patromierz"
+title: "\u0141ukasz  Szetela  | Patromierz - statystyki Patronite.pl"
 
 permalink: /lukaszcf
 ---

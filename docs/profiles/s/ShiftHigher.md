@@ -1,5 +1,5 @@
 ---
-title: Shift Higher | Patromierz
+title: Shift Higher | Patromierz - statystyki Patronite.pl
 
 permalink: /ShiftHigher
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Z \u0141awki Rezerwowych  | Patromierz"
+title: "Fundacja Z \u0141awki Rezerwowych  | Patromierz - statystyki Patronite.pl"
 
 permalink: /zlawki
 ---

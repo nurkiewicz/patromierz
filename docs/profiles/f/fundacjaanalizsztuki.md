@@ -1,5 +1,5 @@
 ---
-title: Fundacja Analiz Sztuki | Patromierz
+title: Fundacja Analiz Sztuki | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjaanalizsztuki
 ---

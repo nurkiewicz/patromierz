@@ -1,5 +1,5 @@
 ---
-title: "DCS World - Szko\u0142a latania | Patromierz"
+title: "DCS World - Szko\u0142a latania | Patromierz - statystyki Patronite.pl"
 
 permalink: /dcsworldpl
 ---

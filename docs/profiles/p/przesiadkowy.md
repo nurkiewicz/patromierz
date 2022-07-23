@@ -1,5 +1,5 @@
 ---
-title: "W\u0119ze\u0142 przesiadkowy | Patromierz"
+title: "W\u0119ze\u0142 przesiadkowy | Patromierz - statystyki Patronite.pl"
 
 permalink: /przesiadkowy
 ---

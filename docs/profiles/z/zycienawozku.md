@@ -1,5 +1,5 @@
 ---
-title: "\u017Bycie na W\xF3zku | Patromierz"
+title: "\u017Bycie na W\xF3zku | Patromierz - statystyki Patronite.pl"
 
 permalink: /zycienawozku
 ---

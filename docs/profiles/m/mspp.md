@@ -1,5 +1,5 @@
 ---
-title: "M\u0142oda Sztuka Po Polsku | Patromierz"
+title: "M\u0142oda Sztuka Po Polsku | Patromierz - statystyki Patronite.pl"
 
 permalink: /mspp
 ---

@@ -1,5 +1,5 @@
 ---
-title: DobraNowina.net | Patromierz
+title: DobraNowina.net | Patromierz - statystyki Patronite.pl
 
 permalink: /dobranowina
 ---

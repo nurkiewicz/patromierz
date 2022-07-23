@@ -1,5 +1,5 @@
 ---
-title: SzpiedzyWiedzy.pl | Patromierz
+title: SzpiedzyWiedzy.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /szpiedzywiedzy
 ---

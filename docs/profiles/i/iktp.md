@@ -1,5 +1,5 @@
 ---
-title: "I komu to przeszkadza\u0142o? | Patromierz"
+title: "I komu to przeszkadza\u0142o? | Patromierz - statystyki Patronite.pl"
 
 permalink: /iktp
 ---

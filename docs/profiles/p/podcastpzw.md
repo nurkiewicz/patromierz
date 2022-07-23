@@ -1,5 +1,5 @@
 ---
-title: "Przedsi\u0119biorcy z Wyboru | Patromierz"
+title: "Przedsi\u0119biorcy z Wyboru | Patromierz - statystyki Patronite.pl"
 
 permalink: /podcastpzw
 ---

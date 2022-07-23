@@ -1,5 +1,5 @@
 ---
-title: "BEZ \u017BART\xD3W | Patromierz"
+title: "BEZ \u017BART\xD3W | Patromierz - statystyki Patronite.pl"
 
 permalink: /bez-zartow
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Miros\u0142aw Karda\u015B | Patromierz"
+title: "Miros\u0142aw Karda\u015B | Patromierz - statystyki Patronite.pl"
 
 permalink: /mirekk36
 ---

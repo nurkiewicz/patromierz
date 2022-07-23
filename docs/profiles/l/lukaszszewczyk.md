@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Szewczyk | Patromierz"
+title: "\u0141ukasz Szewczyk | Patromierz - statystyki Patronite.pl"
 
 permalink: /lukaszszewczyk
 ---

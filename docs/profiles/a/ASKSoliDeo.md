@@ -1,5 +1,5 @@
 ---
-title: ASK Soli Deo | Patromierz
+title: ASK Soli Deo | Patromierz - statystyki Patronite.pl
 
 permalink: /ASKSoliDeo
 ---

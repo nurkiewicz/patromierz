@@ -1,5 +1,5 @@
 ---
-title: Roman FanPolszy | Patromierz
+title: Roman FanPolszy | Patromierz - statystyki Patronite.pl
 
 permalink: /romanfanpolszy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Marcin Wolski | Patromierz
+title: Marcin Wolski | Patromierz - statystyki Patronite.pl
 
 permalink: /Nadredaktor
 ---

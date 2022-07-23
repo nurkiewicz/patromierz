@@ -1,5 +1,5 @@
 ---
-title: Zdrowe Pasje | Patromierz
+title: Zdrowe Pasje | Patromierz - statystyki Patronite.pl
 
 permalink: /zdrowepasje-pl
 ---

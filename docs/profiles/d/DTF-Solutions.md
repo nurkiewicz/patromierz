@@ -1,5 +1,5 @@
 ---
-title: DTF Solutions | Patromierz
+title: DTF Solutions | Patromierz - statystyki Patronite.pl
 
 permalink: /DTF-Solutions
 ---

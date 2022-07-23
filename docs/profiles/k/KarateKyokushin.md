@@ -1,5 +1,5 @@
 ---
-title: Sylwia Sierawska-Piszczyk | Patromierz
+title: Sylwia Sierawska-Piszczyk | Patromierz - statystyki Patronite.pl
 
 permalink: /KarateKyokushin
 ---

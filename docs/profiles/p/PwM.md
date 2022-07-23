@@ -1,5 +1,5 @@
 ---
-title: Polki w medycynie | Patromierz
+title: Polki w medycynie | Patromierz - statystyki Patronite.pl
 
 permalink: /PwM
 ---

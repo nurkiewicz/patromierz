@@ -1,5 +1,5 @@
 ---
-title: "le\u015Bne licho fotografia | Patromierz"
+title: "le\u015Bne licho fotografia | Patromierz - statystyki Patronite.pl"
 
 permalink: /Leśnelichofotografia
 ---

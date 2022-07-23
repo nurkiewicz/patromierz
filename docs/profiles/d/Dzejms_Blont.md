@@ -1,5 +1,5 @@
 ---
-title: "D\u017Cejms B\u0142ont | Patromierz"
+title: "D\u017Cejms B\u0142ont | Patromierz - statystyki Patronite.pl"
 
 permalink: /Dzejms_Blont
 ---

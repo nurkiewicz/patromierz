@@ -1,5 +1,5 @@
 ---
-title: "Kobiety dla \u015Awiata Siostrzana Pomoc | Patromierz"
+title: "Kobiety dla \u015Awiata Siostrzana Pomoc | Patromierz - statystyki Patronite.pl"
 
 permalink: /KobietydlaSwiata
 ---

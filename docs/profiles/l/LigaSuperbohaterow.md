@@ -1,5 +1,5 @@
 ---
-title: "Liga Superbohater\xF3w | Patromierz"
+title: "Liga Superbohater\xF3w | Patromierz - statystyki Patronite.pl"
 
 permalink: /LigaSuperbohaterow
 ---

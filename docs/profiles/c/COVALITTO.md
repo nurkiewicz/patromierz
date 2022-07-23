@@ -1,5 +1,5 @@
 ---
-title: COVALITTO | Patromierz
+title: COVALITTO | Patromierz - statystyki Patronite.pl
 
 permalink: /COVALITTO
 ---

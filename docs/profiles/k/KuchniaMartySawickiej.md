@@ -1,5 +1,5 @@
 ---
-title: Kuchnia dla ubogich Marty Sawickiej | Patromierz
+title: Kuchnia dla ubogich Marty Sawickiej | Patromierz - statystyki Patronite.pl
 
 permalink: /KuchniaMartySawickiej
 ---

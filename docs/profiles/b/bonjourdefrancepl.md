@@ -1,5 +1,5 @@
 ---
-title: "Francuski dla Polak\xF3w - bonjourdefrance.pl | Patromierz"
+title: "Francuski dla Polak\xF3w - bonjourdefrance.pl | Patromierz - statystyki Patronite.pl"
 
 permalink: /bonjourdefrancepl
 ---

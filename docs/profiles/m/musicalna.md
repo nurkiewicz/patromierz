@@ -1,5 +1,5 @@
 ---
-title: Musicalna | Patromierz
+title: Musicalna | Patromierz - statystyki Patronite.pl
 
 permalink: /musicalna
 ---

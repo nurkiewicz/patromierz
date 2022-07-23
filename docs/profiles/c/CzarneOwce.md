@@ -1,5 +1,5 @@
 ---
-title: Czarne Owce | Patromierz
+title: Czarne Owce | Patromierz - statystyki Patronite.pl
 
 permalink: /CzarneOwce
 ---

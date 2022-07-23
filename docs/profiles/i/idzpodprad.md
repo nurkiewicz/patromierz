@@ -1,5 +1,5 @@
 ---
-title: "Telewizja Id\u017A Pod Pr\u0105d | Patromierz"
+title: "Telewizja Id\u017A Pod Pr\u0105d | Patromierz - statystyki Patronite.pl"
 
 permalink: /idzpodprad
 ---

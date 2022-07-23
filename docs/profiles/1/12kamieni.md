@@ -1,5 +1,5 @@
 ---
-title: 12 kamieni | Patromierz
+title: 12 kamieni | Patromierz - statystyki Patronite.pl
 
 permalink: /12kamieni
 ---

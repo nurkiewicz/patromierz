@@ -1,5 +1,5 @@
 ---
-title: Shappi Workshop | Patromierz
+title: Shappi Workshop | Patromierz - statystyki Patronite.pl
 
 permalink: /shappiworkshop
 ---

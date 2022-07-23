@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Szczepaniak  | Patromierz"
+title: "\u0141ukasz Szczepaniak  | Patromierz - statystyki Patronite.pl"
 
 permalink: /EvangelistLucasSzczepaniak
 ---

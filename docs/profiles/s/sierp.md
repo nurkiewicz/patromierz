@@ -1,5 +1,5 @@
 ---
-title: "Jacek Sierpi\u0144ski | Patromierz"
+title: "Jacek Sierpi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /sierp
 ---

@@ -1,5 +1,5 @@
 ---
-title: Torbacz Wombat | Patromierz
+title: Torbacz Wombat | Patromierz - statystyki Patronite.pl
 
 permalink: /TorbaczWombat
 ---

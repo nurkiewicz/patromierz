@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Kowalczuk | Patromierz"
+title: "\u0141ukasz Kowalczuk | Patromierz - statystyki Patronite.pl"
 
 permalink: /elkowalczuk
 ---

@@ -1,5 +1,5 @@
 ---
-title: GoGetters | Patromierz
+title: GoGetters | Patromierz - statystyki Patronite.pl
 
 permalink: /Gogetters
 ---

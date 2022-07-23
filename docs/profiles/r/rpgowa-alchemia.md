@@ -1,5 +1,5 @@
 ---
-title: RPGowa Alchemia | Patromierz
+title: RPGowa Alchemia | Patromierz - statystyki Patronite.pl
 
 permalink: /rpgowa-alchemia
 ---

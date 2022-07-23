@@ -1,5 +1,5 @@
 ---
-title: RKSOP AKJ | Patromierz
+title: RKSOP AKJ | Patromierz - statystyki Patronite.pl
 
 permalink: /rksop
 ---

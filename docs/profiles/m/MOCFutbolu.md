@@ -1,5 +1,5 @@
 ---
-title: MOC Futbolu | Patromierz
+title: MOC Futbolu | Patromierz - statystyki Patronite.pl
 
 permalink: /MOCFutbolu
 ---

@@ -1,5 +1,5 @@
 ---
-title: Nosey Nosey | Patromierz
+title: Nosey Nosey | Patromierz - statystyki Patronite.pl
 
 permalink: /noseynosey
 ---

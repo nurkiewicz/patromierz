@@ -1,5 +1,5 @@
 ---
-title: Laura Maria | Patromierz
+title: Laura Maria | Patromierz - statystyki Patronite.pl
 
 permalink: /lauramaria
 ---

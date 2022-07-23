@@ -1,5 +1,5 @@
 ---
-title: "Gniewomir Skrzysi\u0144ski | Patromierz"
+title: "Gniewomir Skrzysi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /kosmiczny-szaman
 ---

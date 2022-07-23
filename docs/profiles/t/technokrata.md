@@ -1,5 +1,5 @@
 ---
-title: Technokrata | Patromierz
+title: Technokrata | Patromierz - statystyki Patronite.pl
 
 permalink: /technokrata
 ---

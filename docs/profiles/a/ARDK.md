@@ -1,5 +1,5 @@
 ---
-title: Akcja Ratunkowa Dla Krakowa | Patromierz
+title: Akcja Ratunkowa Dla Krakowa | Patromierz - statystyki Patronite.pl
 
 permalink: /ARDK
 ---

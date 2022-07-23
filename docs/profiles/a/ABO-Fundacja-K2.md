@@ -1,5 +1,5 @@
 ---
-title: "Akademia Bezpiecze\u0144stwa Osobistego | Patromierz"
+title: "Akademia Bezpiecze\u0144stwa Osobistego | Patromierz - statystyki Patronite.pl"
 
 permalink: /ABO-Fundacja-K2
 ---

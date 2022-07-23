@@ -1,5 +1,5 @@
 ---
-title: Damian Duszczenko | Patromierz
+title: Damian Duszczenko | Patromierz - statystyki Patronite.pl
 
 permalink: /duszczenko
 ---

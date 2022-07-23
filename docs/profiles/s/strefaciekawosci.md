@@ -1,5 +1,5 @@
 ---
-title: "Strefa Ciekawo\u015Bci | Patromierz"
+title: "Strefa Ciekawo\u015Bci | Patromierz - statystyki Patronite.pl"
 
 permalink: /strefaciekawosci
 ---

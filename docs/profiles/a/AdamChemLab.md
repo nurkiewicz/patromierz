@@ -1,5 +1,5 @@
 ---
-title: Adam ChemLab | Patromierz
+title: Adam ChemLab | Patromierz - statystyki Patronite.pl
 
 permalink: /AdamChemLab
 ---

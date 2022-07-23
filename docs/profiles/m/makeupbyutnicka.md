@@ -1,5 +1,5 @@
 ---
-title: Make Up By Utnicka | Patromierz
+title: Make Up By Utnicka | Patromierz - statystyki Patronite.pl
 
 permalink: /makeupbyutnicka
 ---

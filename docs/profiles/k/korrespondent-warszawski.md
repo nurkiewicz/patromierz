@@ -1,5 +1,5 @@
 ---
-title: Korrespondent Warszawski | Patromierz
+title: Korrespondent Warszawski | Patromierz - statystyki Patronite.pl
 
 permalink: /korrespondent-warszawski
 ---

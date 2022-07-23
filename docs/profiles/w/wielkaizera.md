@@ -1,5 +1,5 @@
 ---
-title: Wydawnictwo Wielka Izera | Patromierz
+title: Wydawnictwo Wielka Izera | Patromierz - statystyki Patronite.pl
 
 permalink: /wielkaizera
 ---

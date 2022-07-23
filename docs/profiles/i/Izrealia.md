@@ -1,5 +1,5 @@
 ---
-title: Izrealia - Agata Tarnowska | Patromierz
+title: Izrealia - Agata Tarnowska | Patromierz - statystyki Patronite.pl
 
 permalink: /Izrealia
 ---

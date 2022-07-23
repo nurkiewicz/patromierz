@@ -1,5 +1,5 @@
 ---
-title: Audycja Zkury | Patromierz
+title: Audycja Zkury | Patromierz - statystyki Patronite.pl
 
 permalink: /skura
 ---

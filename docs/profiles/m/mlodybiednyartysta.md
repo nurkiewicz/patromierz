@@ -1,5 +1,5 @@
 ---
-title: mlodybiednyartysta | Patromierz
+title: mlodybiednyartysta | Patromierz - statystyki Patronite.pl
 
 permalink: /mlodybiednyartysta
 ---

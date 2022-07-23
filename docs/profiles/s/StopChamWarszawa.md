@@ -1,5 +1,5 @@
 ---
-title: Stop Cham Warszawa | Patromierz
+title: Stop Cham Warszawa | Patromierz - statystyki Patronite.pl
 
 permalink: /StopChamWarszawa
 ---

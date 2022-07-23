@@ -1,5 +1,5 @@
 ---
-title: Polskie Stowarzyszenie Zero Waste   | Patromierz
+title: Polskie Stowarzyszenie Zero Waste   | Patromierz - statystyki Patronite.pl
 
 permalink: /PSZW
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lena Wo\u017Aniak | Patromierz"
+title: "Lena Wo\u017Aniak | Patromierz - statystyki Patronite.pl"
 
 permalink: /lenawozniak
 ---

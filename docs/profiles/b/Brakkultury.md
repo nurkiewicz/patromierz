@@ -1,5 +1,5 @@
 ---
-title: Brak Kultury by snp | Patromierz
+title: Brak Kultury by snp | Patromierz - statystyki Patronite.pl
 
 permalink: /Brakkultury
 ---

@@ -1,5 +1,5 @@
 ---
-title: Barysta | Patromierz
+title: Barysta | Patromierz - statystyki Patronite.pl
 
 permalink: /Barysta
 ---

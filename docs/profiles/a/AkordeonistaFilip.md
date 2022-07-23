@@ -1,5 +1,5 @@
 ---
-title: Akordeonista Filip | Patromierz
+title: Akordeonista Filip | Patromierz - statystyki Patronite.pl
 
 permalink: /AkordeonistaFilip
 ---

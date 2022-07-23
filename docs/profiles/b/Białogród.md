@@ -1,5 +1,5 @@
 ---
-title: "Bia\u0142ogr\xF3d - osada warowna z X w. | Patromierz"
+title: "Bia\u0142ogr\xF3d - osada warowna z X w. | Patromierz - statystyki Patronite.pl"
 
 permalink: /Białogród
 ---

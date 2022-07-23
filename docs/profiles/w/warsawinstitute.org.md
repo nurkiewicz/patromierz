@@ -1,5 +1,5 @@
 ---
-title: Warsaw Institute | Patromierz
+title: Warsaw Institute | Patromierz - statystyki Patronite.pl
 
 permalink: /warsawinstitute.org
 ---

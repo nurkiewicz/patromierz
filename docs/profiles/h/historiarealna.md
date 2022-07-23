@@ -1,5 +1,5 @@
 ---
-title: Historia Realna - Piotr Zychowicz | Patromierz
+title: Historia Realna - Piotr Zychowicz | Patromierz - statystyki Patronite.pl
 
 permalink: /historiarealna
 ---

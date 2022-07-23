@@ -1,5 +1,5 @@
 ---
-title: TANK HUNTER | Patromierz
+title: TANK HUNTER | Patromierz - statystyki Patronite.pl
 
 permalink: /tankhunter
 ---

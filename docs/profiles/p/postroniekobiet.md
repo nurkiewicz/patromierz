@@ -1,5 +1,5 @@
 ---
-title: Po stronie kobiet | Patromierz
+title: Po stronie kobiet | Patromierz - statystyki Patronite.pl
 
 permalink: /postroniekobiet
 ---

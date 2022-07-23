@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Ludwin | Patromierz
+title: Grzegorz Ludwin | Patromierz - statystyki Patronite.pl
 
 permalink: /PodcastProNGO
 ---

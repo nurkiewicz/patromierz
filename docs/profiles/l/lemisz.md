@@ -1,5 +1,5 @@
 ---
-title: Jakub Lemiszewski | Patromierz
+title: Jakub Lemiszewski | Patromierz - statystyki Patronite.pl
 
 permalink: /lemisz
 ---

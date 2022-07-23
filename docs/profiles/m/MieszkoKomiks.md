@@ -1,5 +1,5 @@
 ---
-title: Mieszko Komiks | Patromierz
+title: Mieszko Komiks | Patromierz - statystyki Patronite.pl
 
 permalink: /MieszkoKomiks
 ---

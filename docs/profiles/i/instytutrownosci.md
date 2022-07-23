@@ -1,5 +1,5 @@
 ---
-title: "Instytut R\xF3wno\u015Bci | Patromierz"
+title: "Instytut R\xF3wno\u015Bci | Patromierz - statystyki Patronite.pl"
 
 permalink: /instytutrownosci
 ---

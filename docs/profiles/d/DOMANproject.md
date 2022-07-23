@@ -1,5 +1,6 @@
 ---
-title: DOMAN project - blacharstwo samochodowe bez fikcji | Patromierz
+title: DOMAN project - blacharstwo samochodowe bez fikcji | Patromierz - statystyki
+  Patronite.pl
 
 permalink: /DOMANproject
 ---

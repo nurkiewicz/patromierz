@@ -1,5 +1,5 @@
 ---
-title: HearTheMusic (HTM) | Patromierz
+title: HearTheMusic (HTM) | Patromierz - statystyki Patronite.pl
 
 permalink: /hearthemusic
 ---

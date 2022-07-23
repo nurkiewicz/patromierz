@@ -1,5 +1,5 @@
 ---
-title: ZA CHINY & Damian Chen | Patromierz
+title: ZA CHINY & Damian Chen | Patromierz - statystyki Patronite.pl
 
 permalink: /zachiny
 ---

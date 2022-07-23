@@ -1,5 +1,5 @@
 ---
-title: Aleksandra Kisiel | Patromierz
+title: Aleksandra Kisiel | Patromierz - statystyki Patronite.pl
 
 permalink: /kisielle
 ---

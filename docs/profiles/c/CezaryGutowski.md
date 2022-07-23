@@ -1,5 +1,5 @@
 ---
-title: Cezary Gutowski | Patromierz
+title: Cezary Gutowski | Patromierz - statystyki Patronite.pl
 
 permalink: /CezaryGutowski
 ---

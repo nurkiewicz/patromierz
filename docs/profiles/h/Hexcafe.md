@@ -1,5 +1,5 @@
 ---
-title: Hex Cafe | Patromierz
+title: Hex Cafe | Patromierz - statystyki Patronite.pl
 
 permalink: /Hexcafe
 ---

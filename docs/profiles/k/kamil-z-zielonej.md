@@ -1,5 +1,5 @@
 ---
-title: Kamil Utrata | Patromierz
+title: Kamil Utrata | Patromierz - statystyki Patronite.pl
 
 permalink: /kamil-z-zielonej
 ---

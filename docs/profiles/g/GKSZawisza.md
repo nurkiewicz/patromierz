@@ -1,5 +1,5 @@
 ---
-title: "GKS ZAWISZA Ro\u017Cn\xF3w | Patromierz"
+title: "GKS ZAWISZA Ro\u017Cn\xF3w | Patromierz - statystyki Patronite.pl"
 
 permalink: /GKSZawisza
 ---

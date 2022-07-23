@@ -1,5 +1,5 @@
 ---
-title: Dariusz Popiela | Patromierz
+title: Dariusz Popiela | Patromierz - statystyki Patronite.pl
 
 permalink: /LNL
 ---

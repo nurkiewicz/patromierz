@@ -1,5 +1,5 @@
 ---
-title: YaniKa | Patromierz
+title: YaniKa | Patromierz - statystyki Patronite.pl
 
 permalink: /YaniKa
 ---

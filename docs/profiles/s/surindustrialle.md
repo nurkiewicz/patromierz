@@ -1,5 +1,5 @@
 ---
-title: Surindustrialle | Patromierz
+title: Surindustrialle | Patromierz - statystyki Patronite.pl
 
 permalink: /surindustrialle
 ---

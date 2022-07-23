@@ -1,5 +1,5 @@
 ---
-title: eMisjaTv | Patromierz
+title: eMisjaTv | Patromierz - statystyki Patronite.pl
 
 permalink: /emisjatv
 ---

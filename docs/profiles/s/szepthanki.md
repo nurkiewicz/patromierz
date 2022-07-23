@@ -1,5 +1,5 @@
 ---
-title: Szepthanki Podcast | Patromierz
+title: Szepthanki Podcast | Patromierz - statystyki Patronite.pl
 
 permalink: /szepthanki
 ---

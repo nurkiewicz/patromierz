@@ -1,5 +1,5 @@
 ---
-title: Wojciech Kasprzak | Patromierz
+title: Wojciech Kasprzak | Patromierz - statystyki Patronite.pl
 
 permalink: /HatiTheManagarmr
 ---

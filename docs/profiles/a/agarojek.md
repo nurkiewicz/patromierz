@@ -1,5 +1,5 @@
 ---
-title: Aga Rojek | Patromierz
+title: Aga Rojek | Patromierz - statystyki Patronite.pl
 
 permalink: /agarojek
 ---

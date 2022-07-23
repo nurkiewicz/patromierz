@@ -1,5 +1,5 @@
 ---
-title: Inesita | Patromierz
+title: Inesita | Patromierz - statystyki Patronite.pl
 
 permalink: /Inesita744
 ---

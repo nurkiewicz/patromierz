@@ -1,5 +1,5 @@
 ---
-title: "Namys\u0142owska.pl | Patromierz"
+title: "Namys\u0142owska.pl | Patromierz - statystyki Patronite.pl"
 
 permalink: /namyslowska.pl
 ---

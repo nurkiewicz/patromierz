@@ -1,5 +1,5 @@
 ---
-title: Mystery Couple | Patromierz
+title: Mystery Couple | Patromierz - statystyki Patronite.pl
 
 permalink: /Mysterycouple
 ---

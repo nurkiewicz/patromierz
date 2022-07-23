@@ -1,5 +1,5 @@
 ---
-title: Fundacja ARTernatywa | Patromierz
+title: Fundacja ARTernatywa | Patromierz - statystyki Patronite.pl
 
 permalink: /ARTernatywa
 ---

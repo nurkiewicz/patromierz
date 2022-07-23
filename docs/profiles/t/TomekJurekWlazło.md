@@ -1,5 +1,5 @@
 ---
-title: "Tomek Jurek Wlaz\u0142o | Patromierz"
+title: "Tomek Jurek Wlaz\u0142o | Patromierz - statystyki Patronite.pl"
 
 permalink: /TomekJurekWlazło
 ---

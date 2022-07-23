@@ -1,5 +1,5 @@
 ---
-title: "Basket Hills Bielsko-Bia\u0142a | Patromierz"
+title: "Basket Hills Bielsko-Bia\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /baskethills
 ---

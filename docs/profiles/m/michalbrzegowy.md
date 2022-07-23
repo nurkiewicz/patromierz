@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Brzegowy | Patromierz"
+title: "Micha\u0142 Brzegowy | Patromierz - statystyki Patronite.pl"
 
 permalink: /michalbrzegowy
 ---

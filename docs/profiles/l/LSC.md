@@ -1,5 +1,5 @@
 ---
-title: "Ludzie s\u0105 ciekawi - podkast  | Patromierz"
+title: "Ludzie s\u0105 ciekawi - podkast  | Patromierz - statystyki Patronite.pl"
 
 permalink: /LSC
 ---

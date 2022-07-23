@@ -1,5 +1,5 @@
 ---
-title: "Duszpasterstwo M\u0142odzie\u017Cy Concordia | Patromierz"
+title: "Duszpasterstwo M\u0142odzie\u017Cy Concordia | Patromierz - statystyki Patronite.pl"
 
 permalink: /Concordia-Wejherowo
 ---

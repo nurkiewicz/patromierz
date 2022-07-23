@@ -1,5 +1,5 @@
 ---
-title: Tomasz Piwowarski Blades | Patromierz
+title: Tomasz Piwowarski Blades | Patromierz - statystyki Patronite.pl
 
 permalink: /tomaszpiwowarskiblades
 ---

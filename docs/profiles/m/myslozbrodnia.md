@@ -1,5 +1,5 @@
 ---
-title: "My\u015Blozbrodnia | Patromierz"
+title: "My\u015Blozbrodnia | Patromierz - statystyki Patronite.pl"
 
 permalink: /myslozbrodnia
 ---

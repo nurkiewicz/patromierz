@@ -1,5 +1,5 @@
 ---
-title: "Marcin \u015Awiostek Foto | Patromierz"
+title: "Marcin \u015Awiostek Foto | Patromierz - statystyki Patronite.pl"
 
 permalink: /marcinswiostek
 ---

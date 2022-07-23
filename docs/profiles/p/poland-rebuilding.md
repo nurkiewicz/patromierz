@@ -1,5 +1,5 @@
 ---
-title: Poland Rebuilding Team | Patromierz
+title: Poland Rebuilding Team | Patromierz - statystyki Patronite.pl
 
 permalink: /poland-rebuilding
 ---

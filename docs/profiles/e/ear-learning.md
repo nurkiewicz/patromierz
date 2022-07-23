@@ -1,5 +1,5 @@
 ---
-title: Ear-learning | Patromierz
+title: Ear-learning | Patromierz - statystyki Patronite.pl
 
 permalink: /ear-learning
 ---

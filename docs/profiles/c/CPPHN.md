@@ -1,5 +1,5 @@
 ---
-title: "Centrum Pomocy Prawnej im. Haliny Nie\u0107  | Patromierz"
+title: "Centrum Pomocy Prawnej im. Haliny Nie\u0107  | Patromierz - statystyki Patronite.pl"
 
 permalink: /CPPHN
 ---

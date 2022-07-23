@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Tomczak | Patromierz
+title: Krzysztof Tomczak | Patromierz - statystyki Patronite.pl
 
 permalink: /ProNoobSkilz
 ---

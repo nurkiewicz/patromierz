@@ -1,5 +1,6 @@
 ---
-title: "Andrzej \u201ESoulless\u201D Kozakowski Fantastycznie! | Patromierz"
+title: "Andrzej \u201ESoulless\u201D Kozakowski Fantastycznie! | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /Soulless
 ---

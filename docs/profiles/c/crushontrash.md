@@ -1,5 +1,5 @@
 ---
-title: Crush On Trash | Patromierz
+title: Crush On Trash | Patromierz - statystyki Patronite.pl
 
 permalink: /crushontrash
 ---

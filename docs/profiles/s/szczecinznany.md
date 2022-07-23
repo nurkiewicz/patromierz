@@ -1,5 +1,5 @@
 ---
-title: Szczecin znany i historyczny | Patromierz
+title: Szczecin znany i historyczny | Patromierz - statystyki Patronite.pl
 
 permalink: /szczecinznany
 ---

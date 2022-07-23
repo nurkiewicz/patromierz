@@ -1,5 +1,5 @@
 ---
-title: Jacek VIKING | Patromierz
+title: Jacek VIKING | Patromierz - statystyki Patronite.pl
 
 permalink: /VIKING
 ---

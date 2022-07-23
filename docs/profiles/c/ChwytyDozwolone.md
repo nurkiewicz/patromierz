@@ -1,5 +1,5 @@
 ---
-title: CHWYTY DOZWOLONE | Patromierz
+title: CHWYTY DOZWOLONE | Patromierz - statystyki Patronite.pl
 
 permalink: /ChwytyDozwolone
 ---

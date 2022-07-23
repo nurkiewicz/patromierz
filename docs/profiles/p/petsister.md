@@ -1,5 +1,5 @@
 ---
-title: PetSister | Patromierz
+title: PetSister | Patromierz - statystyki Patronite.pl
 
 permalink: /petsister
 ---

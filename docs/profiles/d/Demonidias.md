@@ -1,5 +1,5 @@
 ---
-title: Demonidias | Patromierz
+title: Demonidias | Patromierz - statystyki Patronite.pl
 
 permalink: /Demonidias
 ---

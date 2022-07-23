@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Gofer Krymarys | Patromierz"
+title: "Pawe\u0142 Gofer Krymarys | Patromierz - statystyki Patronite.pl"
 
 permalink: /fotografia-film
 ---

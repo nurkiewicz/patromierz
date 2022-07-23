@@ -1,5 +1,5 @@
 ---
-title: "Kebson - Podr\xF3\u017Ce Za Kebabem | Patromierz"
+title: "Kebson - Podr\xF3\u017Ce Za Kebabem | Patromierz - statystyki Patronite.pl"
 
 permalink: /kebson
 ---

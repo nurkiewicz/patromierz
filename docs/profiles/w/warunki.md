@@ -1,5 +1,5 @@
 ---
-title: "Aktualne Warunki w G\xF3rach | Patromierz"
+title: "Aktualne Warunki w G\xF3rach | Patromierz - statystyki Patronite.pl"
 
 permalink: /warunki
 ---

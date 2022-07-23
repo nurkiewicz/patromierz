@@ -1,5 +1,5 @@
 ---
-title: "Sowi Dw\xF3r | Patromierz"
+title: "Sowi Dw\xF3r | Patromierz - statystyki Patronite.pl"
 
 permalink: /sowidwor
 ---

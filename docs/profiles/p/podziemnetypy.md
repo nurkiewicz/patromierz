@@ -1,5 +1,5 @@
 ---
-title: Podziemne Typy | Patromierz
+title: Podziemne Typy | Patromierz - statystyki Patronite.pl
 
 permalink: /podziemnetypy
 ---

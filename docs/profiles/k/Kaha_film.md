@@ -1,5 +1,5 @@
 ---
-title: Kaha Hoffmann | Patromierz
+title: Kaha Hoffmann | Patromierz - statystyki Patronite.pl
 
 permalink: /Kaha_film
 ---

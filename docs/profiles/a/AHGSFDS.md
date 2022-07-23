@@ -1,5 +1,5 @@
 ---
-title: Zapisz obrazek jako ahgsfds | Patromierz
+title: Zapisz obrazek jako ahgsfds | Patromierz - statystyki Patronite.pl
 
 permalink: /AHGSFDS
 ---

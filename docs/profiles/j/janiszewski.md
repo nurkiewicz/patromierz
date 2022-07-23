@@ -1,5 +1,5 @@
 ---
-title: Maciej Janiszewski. Filmy historyczne | Patromierz
+title: Maciej Janiszewski. Filmy historyczne | Patromierz - statystyki Patronite.pl
 
 permalink: /janiszewski
 ---

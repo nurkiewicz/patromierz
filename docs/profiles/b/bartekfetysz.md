@@ -1,5 +1,5 @@
 ---
-title: Bartek Fetysz | Patromierz
+title: Bartek Fetysz | Patromierz - statystyki Patronite.pl
 
 permalink: /bartekfetysz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Schola  liturgiczna "Domine Jesu" | Patromierz
+title: Schola  liturgiczna "Domine Jesu" | Patromierz - statystyki Patronite.pl
 
 permalink: /ScholaDomineJesu
 ---

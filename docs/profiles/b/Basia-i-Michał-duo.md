@@ -1,5 +1,5 @@
 ---
-title: "Basia Pospieszalska i Micha\u0142 B\u0105k  | Patromierz"
+title: "Basia Pospieszalska i Micha\u0142 B\u0105k  | Patromierz - statystyki Patronite.pl"
 
 permalink: /Basia-i-Michał-duo
 ---

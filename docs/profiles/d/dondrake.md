@@ -1,5 +1,5 @@
 ---
-title: Don Drake | Patromierz
+title: Don Drake | Patromierz - statystyki Patronite.pl
 
 permalink: /dondrake
 ---

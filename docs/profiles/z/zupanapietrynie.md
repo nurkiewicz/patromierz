@@ -1,5 +1,5 @@
 ---
-title: Zupa Na Pietrynie | Patromierz
+title: Zupa Na Pietrynie | Patromierz - statystyki Patronite.pl
 
 permalink: /zupanapietrynie
 ---

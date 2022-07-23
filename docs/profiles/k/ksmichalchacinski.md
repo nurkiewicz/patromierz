@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0105dz Micha\u0142 Chaci\u0144ski | Patromierz"
+title: "Ksi\u0105dz Micha\u0142 Chaci\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /ksmichalchacinski
 ---

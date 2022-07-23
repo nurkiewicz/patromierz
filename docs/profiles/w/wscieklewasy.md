@@ -1,5 +1,5 @@
 ---
-title: "W\u015Bciek\u0142e W\u0105sy | Patromierz"
+title: "W\u015Bciek\u0142e W\u0105sy | Patromierz - statystyki Patronite.pl"
 
 permalink: /wscieklewasy
 ---

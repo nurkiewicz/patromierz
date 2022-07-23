@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie OSFIS | Patromierz
+title: Stowarzyszenie OSFIS | Patromierz - statystyki Patronite.pl
 
 permalink: /OSFISTeam
 ---

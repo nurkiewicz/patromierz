@@ -1,5 +1,5 @@
 ---
-title: BiedaEnduro | Patromierz
+title: BiedaEnduro | Patromierz - statystyki Patronite.pl
 
 permalink: /biedaenduro
 ---

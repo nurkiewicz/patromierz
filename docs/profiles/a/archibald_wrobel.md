@@ -1,5 +1,5 @@
 ---
-title: Archibald_Wrobel | Patromierz
+title: Archibald_Wrobel | Patromierz - statystyki Patronite.pl
 
 permalink: /archibald_wrobel
 ---

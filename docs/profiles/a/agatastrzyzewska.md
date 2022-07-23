@@ -1,5 +1,5 @@
 ---
-title: "Agata Strzy\u017Cewska | Patromierz"
+title: "Agata Strzy\u017Cewska | Patromierz - statystyki Patronite.pl"
 
 permalink: /agatastrzyzewska
 ---

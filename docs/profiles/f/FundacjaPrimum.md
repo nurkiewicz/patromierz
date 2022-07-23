@@ -1,5 +1,5 @@
 ---
-title: Fundacja  Primum | Patromierz
+title: Fundacja  Primum | Patromierz - statystyki Patronite.pl
 
 permalink: /FundacjaPrimum
 ---

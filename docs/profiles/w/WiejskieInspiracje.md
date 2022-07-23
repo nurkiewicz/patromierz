@@ -1,5 +1,5 @@
 ---
-title: Wiejskie Inspiracje | Patromierz
+title: Wiejskie Inspiracje | Patromierz - statystyki Patronite.pl
 
 permalink: /WiejskieInspiracje
 ---

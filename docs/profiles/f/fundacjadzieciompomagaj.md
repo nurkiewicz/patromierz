@@ -1,5 +1,5 @@
 ---
-title: Fundacja Dzieciom POMAGAJ | Patromierz
+title: Fundacja Dzieciom POMAGAJ | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjadzieciompomagaj
 ---

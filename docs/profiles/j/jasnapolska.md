@@ -1,5 +1,5 @@
 ---
-title: Jasna Polska | Patromierz
+title: Jasna Polska | Patromierz - statystyki Patronite.pl
 
 permalink: /jasnapolska
 ---

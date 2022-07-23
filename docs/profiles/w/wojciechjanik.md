@@ -1,5 +1,5 @@
 ---
-title: Wojciech Janik | Patromierz
+title: Wojciech Janik | Patromierz - statystyki Patronite.pl
 
 permalink: /wojciechjanik
 ---

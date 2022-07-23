@@ -1,5 +1,5 @@
 ---
-title: Tylko Metal | Patromierz
+title: Tylko Metal | Patromierz - statystyki Patronite.pl
 
 permalink: /TylkoMetal
 ---

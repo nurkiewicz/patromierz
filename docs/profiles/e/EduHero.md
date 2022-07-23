@@ -1,5 +1,5 @@
 ---
-title: EduHero | Patromierz
+title: EduHero | Patromierz - statystyki Patronite.pl
 
 permalink: /EduHero
 ---

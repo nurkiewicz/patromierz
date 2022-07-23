@@ -1,5 +1,5 @@
 ---
-title: FighTimeTV | Patromierz
+title: FighTimeTV | Patromierz - statystyki Patronite.pl
 
 permalink: /FighTimeTV
 ---

@@ -1,5 +1,5 @@
 ---
-title: Horrorshow.pl | Patromierz
+title: Horrorshow.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /horrorshowPL
 ---

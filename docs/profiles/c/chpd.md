@@ -1,5 +1,5 @@
 ---
-title: Chujowa Pani Domu  | Patromierz
+title: Chujowa Pani Domu  | Patromierz - statystyki Patronite.pl
 
 permalink: /chpd
 ---

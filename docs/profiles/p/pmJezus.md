@@ -1,5 +1,5 @@
 ---
-title: Robert Skassa Prowadzi Mnie Jezus | Patromierz
+title: Robert Skassa Prowadzi Mnie Jezus | Patromierz - statystyki Patronite.pl
 
 permalink: /pmJezus
 ---

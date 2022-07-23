@@ -1,5 +1,5 @@
 ---
-title: Lech Giemza | Patromierz
+title: Lech Giemza | Patromierz - statystyki Patronite.pl
 
 permalink: /Ksiązkazplecaka
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Teraz Wojsko Polskie | Patromierz
+title: Fundacja Teraz Wojsko Polskie | Patromierz - statystyki Patronite.pl
 
 permalink: /teraz-wojsko-polskie
 ---

@@ -1,5 +1,5 @@
 ---
-title: Torba Reportera i Podcastera | Patromierz
+title: Torba Reportera i Podcastera | Patromierz - statystyki Patronite.pl
 
 permalink: /torbareportera
 ---

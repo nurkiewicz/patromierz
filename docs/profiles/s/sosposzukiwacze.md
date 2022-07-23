@@ -1,5 +1,5 @@
 ---
-title: Piotr Druzd | Patromierz
+title: Piotr Druzd | Patromierz - statystyki Patronite.pl
 
 permalink: /sosposzukiwacze
 ---

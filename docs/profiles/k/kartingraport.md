@@ -1,5 +1,5 @@
 ---
-title: Karting Raport | Patromierz
+title: Karting Raport | Patromierz - statystyki Patronite.pl
 
 permalink: /kartingraport
 ---

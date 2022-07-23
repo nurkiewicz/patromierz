@@ -1,5 +1,5 @@
 ---
-title: "Szepcz\u0105ca w Sieci ASMR | Patromierz"
+title: "Szepcz\u0105ca w Sieci ASMR | Patromierz - statystyki Patronite.pl"
 
 permalink: /SzepczacawSieci
 ---

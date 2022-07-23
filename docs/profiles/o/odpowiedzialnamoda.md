@@ -1,5 +1,6 @@
 ---
-title: "Odpowiedzialna Moda - Katarzyna Zaj\u0105czkowska | Patromierz"
+title: "Odpowiedzialna Moda - Katarzyna Zaj\u0105czkowska | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /odpowiedzialnamoda
 ---

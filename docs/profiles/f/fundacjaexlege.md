@@ -1,5 +1,5 @@
 ---
-title: Fundacja EX LEGE | Patromierz
+title: Fundacja EX LEGE | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjaexlege
 ---

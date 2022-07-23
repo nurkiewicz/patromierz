@@ -1,5 +1,5 @@
 ---
-title: Polityka Zagraniczna | Patromierz
+title: Polityka Zagraniczna | Patromierz - statystyki Patronite.pl
 
 permalink: /politykazagraniczna
 ---

@@ -1,5 +1,5 @@
 ---
-title: AstroMiasto | Patromierz
+title: AstroMiasto | Patromierz - statystyki Patronite.pl
 
 permalink: /Astromiasto
 ---

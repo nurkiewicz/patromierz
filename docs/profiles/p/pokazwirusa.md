@@ -1,5 +1,5 @@
 ---
-title: pokazwirusa.pl | Patromierz
+title: pokazwirusa.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /pokazwirusa
 ---

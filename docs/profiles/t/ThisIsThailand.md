@@ -1,5 +1,5 @@
 ---
-title: This is Thailand - rodzinka w Tajlandii  | Patromierz
+title: This is Thailand - rodzinka w Tajlandii  | Patromierz - statystyki Patronite.pl
 
 permalink: /ThisIsThailand
 ---

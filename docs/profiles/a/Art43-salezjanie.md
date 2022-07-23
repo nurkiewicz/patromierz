@@ -1,5 +1,5 @@
 ---
-title: Art. 43 | Patromierz
+title: Art. 43 | Patromierz - statystyki Patronite.pl
 
 permalink: /Art43-salezjanie
 ---

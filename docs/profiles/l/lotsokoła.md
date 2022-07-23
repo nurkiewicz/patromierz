@@ -1,5 +1,5 @@
 ---
-title: "Lot Soko\u0142a | Patromierz"
+title: "Lot Soko\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /lotsokoła
 ---

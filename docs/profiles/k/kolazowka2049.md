@@ -1,5 +1,5 @@
 ---
-title: "kola\u017C\xF3wka2049 | Patromierz"
+title: "kola\u017C\xF3wka2049 | Patromierz - statystyki Patronite.pl"
 
 permalink: /kolazowka2049
 ---

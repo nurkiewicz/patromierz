@@ -1,5 +1,5 @@
 ---
-title: "City Wilan\xF3w | Patromierz"
+title: "City Wilan\xF3w | Patromierz - statystyki Patronite.pl"
 
 permalink: /CityWilanów
 ---

@@ -1,5 +1,5 @@
 ---
-title: Legia Rugby | Patromierz
+title: Legia Rugby | Patromierz - statystyki Patronite.pl
 
 permalink: /Legia_Rugby
 ---

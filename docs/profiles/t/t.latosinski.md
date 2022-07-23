@@ -1,5 +1,5 @@
 ---
-title: "Tomasz Latosi\u0144ski | Patromierz"
+title: "Tomasz Latosi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /t.latosinski
 ---

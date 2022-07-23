@@ -1,5 +1,5 @@
 ---
-title: Strefa kolekcjonowania | Patromierz
+title: Strefa kolekcjonowania | Patromierz - statystyki Patronite.pl
 
 permalink: /strefakolekcjonowania
 ---

@@ -1,5 +1,5 @@
 ---
-title: MARIKA | Patromierz
+title: MARIKA | Patromierz - statystyki Patronite.pl
 
 permalink: /Marika
 ---

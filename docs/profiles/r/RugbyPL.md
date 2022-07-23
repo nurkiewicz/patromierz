@@ -1,5 +1,5 @@
 ---
-title: RugbyPL  | Patromierz
+title: RugbyPL  | Patromierz - statystyki Patronite.pl
 
 permalink: /RugbyPL
 ---

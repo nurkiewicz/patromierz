@@ -1,5 +1,5 @@
 ---
-title: Program PROJEKTOR | Patromierz
+title: Program PROJEKTOR | Patromierz - statystyki Patronite.pl
 
 permalink: /ProgramPROJEKTOR
 ---

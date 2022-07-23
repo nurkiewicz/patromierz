@@ -1,5 +1,5 @@
 ---
-title: "Drzazgi \u015Awiata // Kamila Kielar | Patromierz"
+title: "Drzazgi \u015Awiata // Kamila Kielar | Patromierz - statystyki Patronite.pl"
 
 permalink: /kamilakielar
 ---

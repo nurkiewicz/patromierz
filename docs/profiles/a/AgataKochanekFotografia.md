@@ -1,5 +1,5 @@
 ---
-title: "Agata Kochanek-Jagodzi\u0144ska | Patromierz"
+title: "Agata Kochanek-Jagodzi\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /AgataKochanekFotografia
 ---

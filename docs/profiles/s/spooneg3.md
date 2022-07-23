@@ -1,5 +1,5 @@
 ---
-title: "Mateusz Wujci\xF3w | Patromierz"
+title: "Mateusz Wujci\xF3w | Patromierz - statystyki Patronite.pl"
 
 permalink: /spooneg3
 ---

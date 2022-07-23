@@ -1,5 +1,5 @@
 ---
-title: Wojciech Ciemski | SecurityBezTabu.pl | Patromierz
+title: Wojciech Ciemski | SecurityBezTabu.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /SBT
 ---

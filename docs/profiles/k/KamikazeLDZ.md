@@ -1,5 +1,5 @@
 ---
-title: Kamikaze / NRGeek | Patromierz
+title: Kamikaze / NRGeek | Patromierz - statystyki Patronite.pl
 
 permalink: /KamikazeLDZ
 ---

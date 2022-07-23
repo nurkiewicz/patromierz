@@ -1,5 +1,5 @@
 ---
-title: Fundacja Nordoff Robbins Polska | Patromierz
+title: Fundacja Nordoff Robbins Polska | Patromierz - statystyki Patronite.pl
 
 permalink: /nordoff-robbins-polska
 ---

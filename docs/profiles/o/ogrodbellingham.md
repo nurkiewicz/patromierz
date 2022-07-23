@@ -1,5 +1,6 @@
 ---
-title: "Katarzyna Bellingham  OGR\xD3D, VLOG, PODCAST, TV | Patromierz"
+title: "Katarzyna Bellingham  OGR\xD3D, VLOG, PODCAST, TV | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /ogrodbellingham
 ---

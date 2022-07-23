@@ -1,5 +1,5 @@
 ---
-title: Foxes in Eden | Patromierz
+title: Foxes in Eden | Patromierz - statystyki Patronite.pl
 
 permalink: /foxesineden
 ---

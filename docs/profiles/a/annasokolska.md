@@ -1,5 +1,5 @@
 ---
-title: "Anna Sok\xF3lska | Patromierz"
+title: "Anna Sok\xF3lska | Patromierz - statystyki Patronite.pl"
 
 permalink: /annasokolska
 ---

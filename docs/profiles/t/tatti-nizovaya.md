@@ -1,5 +1,5 @@
 ---
-title: Tatti Nizovaya | Patromierz
+title: Tatti Nizovaya | Patromierz - statystyki Patronite.pl
 
 permalink: /tatti-nizovaya
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zabytkowa Kopalnia Ignacy | Patromierz
+title: Zabytkowa Kopalnia Ignacy | Patromierz - statystyki Patronite.pl
 
 permalink: /KopalniaIgnacy
 ---

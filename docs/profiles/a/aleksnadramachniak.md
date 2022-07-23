@@ -1,5 +1,5 @@
 ---
-title: Aleksandra Machniak | Patromierz
+title: Aleksandra Machniak | Patromierz - statystyki Patronite.pl
 
 permalink: /aleksnadramachniak
 ---

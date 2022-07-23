@@ -1,5 +1,5 @@
 ---
-title: Przyroda Dzieciom | Patromierz
+title: Przyroda Dzieciom | Patromierz - statystyki Patronite.pl
 
 permalink: /przyrodadzieciom
 ---

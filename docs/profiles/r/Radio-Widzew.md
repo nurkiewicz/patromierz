@@ -1,5 +1,5 @@
 ---
-title: RadioWidzew.pl | Patromierz
+title: RadioWidzew.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /Radio-Widzew
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Brodate D\u017Awi\u0119ki | Patromierz"
+title: "Brodate D\u017Awi\u0119ki | Patromierz - statystyki Patronite.pl"
 
 permalink: /brodate_dzwieki
 ---

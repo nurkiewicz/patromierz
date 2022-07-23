@@ -1,5 +1,5 @@
 ---
-title: Z morderstwem im do twarzy | Patromierz
+title: Z morderstwem im do twarzy | Patromierz - statystyki Patronite.pl
 
 permalink: /zmorderstwem
 ---

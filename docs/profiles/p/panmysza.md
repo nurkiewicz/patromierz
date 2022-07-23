@@ -1,5 +1,5 @@
 ---
-title: Pan Mysza | Patromierz
+title: Pan Mysza | Patromierz - statystyki Patronite.pl
 
 permalink: /panmysza
 ---

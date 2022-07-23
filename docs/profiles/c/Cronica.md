@@ -1,5 +1,5 @@
 ---
-title: Cronica  | Patromierz
+title: Cronica  | Patromierz - statystyki Patronite.pl
 
 permalink: /Cronica
 ---

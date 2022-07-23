@@ -1,5 +1,5 @@
 ---
-title: "Tomasz S\u0142odki | Patromierz"
+title: "Tomasz S\u0142odki | Patromierz - statystyki Patronite.pl"
 
 permalink: /tomaszslodki
 ---

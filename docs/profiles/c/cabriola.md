@@ -1,5 +1,5 @@
 ---
-title: Katarzyna Cygler | Patromierz
+title: Katarzyna Cygler | Patromierz - statystyki Patronite.pl
 
 permalink: /cabriola
 ---

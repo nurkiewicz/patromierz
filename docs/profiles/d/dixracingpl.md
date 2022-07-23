@@ -1,5 +1,5 @@
 ---
-title: Liga Dix-Racing.pl | Patromierz
+title: Liga Dix-Racing.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /dixracingpl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Badaliya | Patromierz
+title: Badaliya | Patromierz - statystyki Patronite.pl
 
 permalink: /badaliya
 ---

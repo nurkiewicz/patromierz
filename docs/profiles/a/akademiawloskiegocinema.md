@@ -1,5 +1,6 @@
 ---
-title: "Diana D\u0105browska - Accademia W\u0142oskiego Kina | Patromierz"
+title: "Diana D\u0105browska - Accademia W\u0142oskiego Kina | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /akademiawloskiegocinema
 ---

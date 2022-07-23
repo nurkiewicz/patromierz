@@ -1,5 +1,5 @@
 ---
-title: Mazurskie Tajemnice | Patromierz
+title: Mazurskie Tajemnice | Patromierz - statystyki Patronite.pl
 
 permalink: /MazurskieTajemnice
 ---

@@ -1,5 +1,5 @@
 ---
-title: FreezerSIG | Patromierz
+title: FreezerSIG | Patromierz - statystyki Patronite.pl
 
 permalink: /FreezerSIG
 ---

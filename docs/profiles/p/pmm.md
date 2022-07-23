@@ -1,5 +1,5 @@
 ---
-title: Polska Misja Medyczna i Radio 357 | Patromierz
+title: Polska Misja Medyczna i Radio 357 | Patromierz - statystyki Patronite.pl
 
 permalink: /pmm
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja TUU | Patromierz
+title: Fundacja TUU | Patromierz - statystyki Patronite.pl
 
 permalink: /tuu
 ---

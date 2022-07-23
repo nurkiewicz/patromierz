@@ -1,5 +1,5 @@
 ---
-title: "Era Nowej Staro\u015Bci | Patromierz"
+title: "Era Nowej Staro\u015Bci | Patromierz - statystyki Patronite.pl"
 
 permalink: /ens
 ---

@@ -1,5 +1,5 @@
 ---
-title: Polskie Marki Modowe | Patromierz
+title: Polskie Marki Modowe | Patromierz - statystyki Patronite.pl
 
 permalink: /polskiemarkimodowe
 ---

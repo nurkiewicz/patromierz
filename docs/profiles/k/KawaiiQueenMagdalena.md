@@ -1,5 +1,5 @@
 ---
-title: Magdalena Organa | Patromierz
+title: Magdalena Organa | Patromierz - statystyki Patronite.pl
 
 permalink: /KawaiiQueenMagdalena
 ---

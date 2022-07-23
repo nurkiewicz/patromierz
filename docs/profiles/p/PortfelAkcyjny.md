@@ -1,5 +1,5 @@
 ---
-title: Portfel Akcyjny | Patromierz
+title: Portfel Akcyjny | Patromierz - statystyki Patronite.pl
 
 permalink: /PortfelAkcyjny
 ---

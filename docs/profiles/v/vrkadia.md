@@ -1,5 +1,5 @@
 ---
-title: VRkadia Polska | Patromierz
+title: VRkadia Polska | Patromierz - statystyki Patronite.pl
 
 permalink: /vrkadia
 ---

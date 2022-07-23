@@ -1,5 +1,5 @@
 ---
-title: "\u015AWIAT WCI\u0104GA - Wojciech Piestrak | Patromierz"
+title: "\u015AWIAT WCI\u0104GA - Wojciech Piestrak | Patromierz - statystyki Patronite.pl"
 
 permalink: /swiatwciaga
 ---

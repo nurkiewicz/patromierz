@@ -1,5 +1,5 @@
 ---
-title: "Ryby Maj\u0105 G\u0142os | Patromierz"
+title: "Ryby Maj\u0105 G\u0142os | Patromierz - statystyki Patronite.pl"
 
 permalink: /RybyMajaGlos
 ---

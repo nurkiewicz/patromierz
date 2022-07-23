@@ -1,5 +1,5 @@
 ---
-title: Psiaki i dzieciaki | Patromierz
+title: Psiaki i dzieciaki | Patromierz - statystyki Patronite.pl
 
 permalink: /psiakidzieciaki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Piotr Pogorzelski | Patromierz
+title: Piotr Pogorzelski | Patromierz - statystyki Patronite.pl
 
 permalink: /PoProstuWschód
 ---

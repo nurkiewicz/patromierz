@@ -1,5 +1,5 @@
 ---
-title: Wojciech Popielarz | Patromierz
+title: Wojciech Popielarz | Patromierz - statystyki Patronite.pl
 
 permalink: /Popielarz
 ---

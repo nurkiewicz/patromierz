@@ -1,5 +1,5 @@
 ---
-title: "\u015Amiechawa TV | Patromierz"
+title: "\u015Amiechawa TV | Patromierz - statystyki Patronite.pl"
 
 permalink: /smiechawatv
 ---

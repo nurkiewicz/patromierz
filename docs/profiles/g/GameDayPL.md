@@ -1,5 +1,5 @@
 ---
-title: GameDay.pl | Patromierz
+title: GameDay.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /GameDayPL
 ---

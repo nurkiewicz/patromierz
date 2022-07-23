@@ -1,5 +1,5 @@
 ---
-title: "Fundacja \u015Awiadome Rodzicielstwo | Patromierz"
+title: "Fundacja \u015Awiadome Rodzicielstwo | Patromierz - statystyki Patronite.pl"
 
 permalink: /fsr
 ---

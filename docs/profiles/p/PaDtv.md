@@ -1,5 +1,5 @@
 ---
-title: PaDtv - PADcast | Patromierz
+title: PaDtv - PADcast | Patromierz - statystyki Patronite.pl
 
 permalink: /PaDtv
 ---

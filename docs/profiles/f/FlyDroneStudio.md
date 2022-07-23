@@ -1,5 +1,5 @@
 ---
-title: FlyDrone Studio | Patromierz
+title: FlyDrone Studio | Patromierz - statystyki Patronite.pl
 
 permalink: /FlyDroneStudio
 ---

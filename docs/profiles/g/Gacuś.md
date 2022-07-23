@@ -1,5 +1,5 @@
 ---
-title: Mini_tora_no_shiawase | Patromierz
+title: Mini_tora_no_shiawase | Patromierz - statystyki Patronite.pl
 
 permalink: /Gacuś
 ---

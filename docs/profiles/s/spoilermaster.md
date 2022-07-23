@@ -1,5 +1,5 @@
 ---
-title: SpoilerMaster | Patromierz
+title: SpoilerMaster | Patromierz - statystyki Patronite.pl
 
 permalink: /spoilermaster
 ---

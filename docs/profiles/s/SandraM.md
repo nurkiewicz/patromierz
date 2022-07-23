@@ -1,5 +1,5 @@
 ---
-title: Sandra M | Patromierz
+title: Sandra M | Patromierz - statystyki Patronite.pl
 
 permalink: /SandraM
 ---

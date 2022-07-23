@@ -1,5 +1,5 @@
 ---
-title: Flow to slow | Patromierz
+title: Flow to slow | Patromierz - statystyki Patronite.pl
 
 permalink: /flowtoslow
 ---

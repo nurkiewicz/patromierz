@@ -1,5 +1,5 @@
 ---
-title: Radomskie Klasyki | Patromierz
+title: Radomskie Klasyki | Patromierz - statystyki Patronite.pl
 
 permalink: /radomskieklasyki
 ---

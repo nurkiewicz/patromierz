@@ -1,5 +1,5 @@
 ---
-title: "Sekcja Siatk\xF3wki Legii Warszawa | Patromierz"
+title: "Sekcja Siatk\xF3wki Legii Warszawa | Patromierz - statystyki Patronite.pl"
 
 permalink: /legiasiatkowka
 ---

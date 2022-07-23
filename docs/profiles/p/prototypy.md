@@ -1,5 +1,5 @@
 ---
-title: Kamil Sokalski | Patromierz
+title: Kamil Sokalski | Patromierz - statystyki Patronite.pl
 
 permalink: /prototypy
 ---

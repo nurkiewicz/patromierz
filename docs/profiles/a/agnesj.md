@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Juszczyk | Patromierz
+title: Agnieszka Juszczyk | Patromierz - statystyki Patronite.pl
 
 permalink: /agnesj
 ---

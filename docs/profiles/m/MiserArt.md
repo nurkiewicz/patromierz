@@ -1,5 +1,6 @@
 ---
-title: "MiserArt \u2013 strefa kreatywna w labiryncie wykluczenia | Patromierz"
+title: "MiserArt \u2013 strefa kreatywna w labiryncie wykluczenia | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /MiserArt
 ---

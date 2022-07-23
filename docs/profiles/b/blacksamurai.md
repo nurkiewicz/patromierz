@@ -1,5 +1,5 @@
 ---
-title: The Black Samurai | Patromierz
+title: The Black Samurai | Patromierz - statystyki Patronite.pl
 
 permalink: /blacksamurai
 ---

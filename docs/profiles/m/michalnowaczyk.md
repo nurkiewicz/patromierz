@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Nowaczyk snowboarder | Patromierz"
+title: "Micha\u0142 Nowaczyk snowboarder | Patromierz - statystyki Patronite.pl"
 
 permalink: /michalnowaczyk
 ---

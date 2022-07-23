@@ -1,5 +1,5 @@
 ---
-title: Lips of Ashes band | Patromierz
+title: Lips of Ashes band | Patromierz - statystyki Patronite.pl
 
 permalink: /LipsofAshes
 ---

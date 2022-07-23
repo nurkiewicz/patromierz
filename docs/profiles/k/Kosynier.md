@@ -1,5 +1,5 @@
 ---
-title: Kosynier | Patromierz
+title: Kosynier | Patromierz - statystyki Patronite.pl
 
 permalink: /Kosynier
 ---

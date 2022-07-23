@@ -1,5 +1,6 @@
 ---
-title: Grupa Poszukiwawczo Ratownicza Legii Akademickiej | Patromierz
+title: Grupa Poszukiwawczo Ratownicza Legii Akademickiej | Patromierz - statystyki
+  Patronite.pl
 
 permalink: /gprla
 ---

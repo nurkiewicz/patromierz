@@ -1,5 +1,5 @@
 ---
-title: Dom Dobre Miejsce | Patromierz
+title: Dom Dobre Miejsce | Patromierz - statystyki Patronite.pl
 
 permalink: /domdobremiejsce
 ---

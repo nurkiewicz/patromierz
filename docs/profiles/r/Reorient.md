@@ -1,5 +1,5 @@
 ---
-title: 'Reorient: kultura i nauka | Patromierz'
+title: 'Reorient: kultura i nauka | Patromierz - statystyki Patronite.pl'
 
 permalink: /Reorient
 ---

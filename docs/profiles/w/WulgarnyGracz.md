@@ -1,5 +1,5 @@
 ---
-title: Wulgarny Gracz | Patromierz
+title: Wulgarny Gracz | Patromierz - statystyki Patronite.pl
 
 permalink: /WulgarnyGracz
 ---

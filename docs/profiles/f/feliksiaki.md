@@ -1,5 +1,5 @@
 ---
-title: Fundacja Feliksiaki | Patromierz
+title: Fundacja Feliksiaki | Patromierz - statystyki Patronite.pl
 
 permalink: /feliksiaki
 ---

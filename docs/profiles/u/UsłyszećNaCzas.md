@@ -1,5 +1,5 @@
 ---
-title: "Us\u0142ysze\u0107 Na Czas | Patromierz"
+title: "Us\u0142ysze\u0107 Na Czas | Patromierz - statystyki Patronite.pl"
 
 permalink: /UsłyszećNaCzas
 ---

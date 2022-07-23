@@ -1,5 +1,5 @@
 ---
-title: martwy simpxon | Patromierz
+title: martwy simpxon | Patromierz - statystyki Patronite.pl
 
 permalink: /simpxon
 ---

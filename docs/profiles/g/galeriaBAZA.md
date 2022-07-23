@@ -1,5 +1,5 @@
 ---
-title: galeriaBAZA | Patromierz
+title: galeriaBAZA | Patromierz - statystyki Patronite.pl
 
 permalink: /galeriaBAZA
 ---

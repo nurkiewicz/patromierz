@@ -1,5 +1,5 @@
 ---
-title: Hectic Magazyn | Patromierz
+title: Hectic Magazyn | Patromierz - statystyki Patronite.pl
 
 permalink: /hecticmagazyn
 ---

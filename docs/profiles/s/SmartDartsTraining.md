@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Wac\u0142awski | Patromierz"
+title: "\u0141ukasz Wac\u0142awski | Patromierz - statystyki Patronite.pl"
 
 permalink: /SmartDartsTraining
 ---

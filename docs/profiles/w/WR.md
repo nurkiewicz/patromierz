@@ -1,5 +1,5 @@
 ---
-title: "Wydzia\u0142 Remontowy | Patromierz"
+title: "Wydzia\u0142 Remontowy | Patromierz - statystyki Patronite.pl"
 
 permalink: /WR
 ---

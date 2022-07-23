@@ -1,5 +1,5 @@
 ---
-title: Crazytravelbag | Patromierz
+title: Crazytravelbag | Patromierz - statystyki Patronite.pl
 
 permalink: /crazytravelbag
 ---

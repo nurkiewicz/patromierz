@@ -1,5 +1,5 @@
 ---
-title: Polishglots | Patromierz
+title: Polishglots | Patromierz - statystyki Patronite.pl
 
 permalink: /polishglots
 ---

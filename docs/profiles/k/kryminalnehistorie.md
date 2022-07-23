@@ -1,5 +1,5 @@
 ---
-title: Kryminalne Historie | Patromierz
+title: Kryminalne Historie | Patromierz - statystyki Patronite.pl
 
 permalink: /kryminalnehistorie
 ---

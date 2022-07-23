@@ -1,5 +1,5 @@
 ---
-title: Kaja Ziomek | Patromierz
+title: Kaja Ziomek | Patromierz - statystyki Patronite.pl
 
 permalink: /kajaziomek
 ---

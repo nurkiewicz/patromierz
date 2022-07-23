@@ -1,5 +1,5 @@
 ---
-title: Vintage Life | Patromierz
+title: Vintage Life | Patromierz - statystyki Patronite.pl
 
 permalink: /vintagelife
 ---

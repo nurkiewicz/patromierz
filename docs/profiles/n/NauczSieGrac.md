@@ -1,5 +1,5 @@
 ---
-title: "Naucz si\u0119 gra\u0107 | Patromierz"
+title: "Naucz si\u0119 gra\u0107 | Patromierz - statystyki Patronite.pl"
 
 permalink: /NauczSieGrac
 ---

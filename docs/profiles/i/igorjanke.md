@@ -1,5 +1,5 @@
 ---
-title: "Igor Janke. Uk\u0142ad otwarty | Patromierz"
+title: "Igor Janke. Uk\u0142ad otwarty | Patromierz - statystyki Patronite.pl"
 
 permalink: /igorjanke
 ---

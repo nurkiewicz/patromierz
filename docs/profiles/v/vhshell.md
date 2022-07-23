@@ -1,5 +1,5 @@
 ---
-title: VHS HELL | Patromierz
+title: VHS HELL | Patromierz - statystyki Patronite.pl
 
 permalink: /vhshell
 ---

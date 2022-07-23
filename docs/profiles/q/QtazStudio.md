@@ -1,5 +1,5 @@
 ---
-title: QtazStudio | Patromierz
+title: QtazStudio | Patromierz - statystyki Patronite.pl
 
 permalink: /QtazStudio
 ---

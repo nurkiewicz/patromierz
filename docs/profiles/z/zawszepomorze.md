@@ -1,5 +1,5 @@
 ---
-title: Zawsze Pomorze | Patromierz
+title: Zawsze Pomorze | Patromierz - statystyki Patronite.pl
 
 permalink: /zawszepomorze
 ---

@@ -1,5 +1,6 @@
 ---
-title: "\u015Al\u014Dnz\u014Fki Razem - M\u0142\u014Dd\u017A | Patromierz"
+title: "\u015Al\u014Dnz\u014Fki Razem - M\u0142\u014Dd\u017A | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /slonzokirazem
 ---

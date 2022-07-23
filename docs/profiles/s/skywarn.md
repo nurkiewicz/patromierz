@@ -1,5 +1,5 @@
 ---
-title: "Skywarn Polska (Polscy \u0141owcy Burz) | Patromierz"
+title: "Skywarn Polska (Polscy \u0141owcy Burz) | Patromierz - statystyki Patronite.pl"
 
 permalink: /skywarn
 ---

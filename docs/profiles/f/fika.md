@@ -1,5 +1,5 @@
 ---
-title: Fika Szczecin | Patromierz
+title: Fika Szczecin | Patromierz - statystyki Patronite.pl
 
 permalink: /fika
 ---

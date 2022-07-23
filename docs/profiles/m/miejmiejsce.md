@@ -1,5 +1,5 @@
 ---
-title: Miej Miejsce | Patromierz
+title: Miej Miejsce | Patromierz - statystyki Patronite.pl
 
 permalink: /miejmiejsce
 ---

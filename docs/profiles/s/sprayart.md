@@ -1,5 +1,5 @@
 ---
-title: sprayart | Patromierz
+title: sprayart | Patromierz - statystyki Patronite.pl
 
 permalink: /sprayart
 ---

@@ -1,5 +1,5 @@
 ---
-title: Stare Plany Miast | Patromierz
+title: Stare Plany Miast | Patromierz - statystyki Patronite.pl
 
 permalink: /StarePlanyMiast
 ---

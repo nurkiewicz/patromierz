@@ -1,5 +1,5 @@
 ---
-title: WGB DOG WORLD | Patromierz
+title: WGB DOG WORLD | Patromierz - statystyki Patronite.pl
 
 permalink: /wgbdogworld
 ---

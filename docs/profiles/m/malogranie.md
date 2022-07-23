@@ -1,5 +1,5 @@
 ---
-title: MaloGranie  | Patromierz
+title: MaloGranie  | Patromierz - statystyki Patronite.pl
 
 permalink: /malogranie
 ---

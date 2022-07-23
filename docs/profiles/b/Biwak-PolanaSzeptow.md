@@ -1,5 +1,5 @@
 ---
-title: Biwak-Polana Szeptow | Patromierz
+title: Biwak-Polana Szeptow | Patromierz - statystyki Patronite.pl
 
 permalink: /Biwak-PolanaSzeptow
 ---

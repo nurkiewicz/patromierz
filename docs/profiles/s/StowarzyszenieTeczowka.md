@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie T\u0119cz\xF3wka | Patromierz"
+title: "Stowarzyszenie T\u0119cz\xF3wka | Patromierz - statystyki Patronite.pl"
 
 permalink: /StowarzyszenieTeczowka
 ---

@@ -1,5 +1,5 @@
 ---
-title: Rodzina na polu | Patromierz
+title: Rodzina na polu | Patromierz - statystyki Patronite.pl
 
 permalink: /Rodzinanapolu
 ---

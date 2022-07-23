@@ -1,5 +1,5 @@
 ---
-title: "Fundacja  \"Zwierz\u0119ca Arkadia\" | Patromierz"
+title: "Fundacja  \"Zwierz\u0119ca Arkadia\" | Patromierz - statystyki Patronite.pl"
 
 permalink: /Arkadia
 ---

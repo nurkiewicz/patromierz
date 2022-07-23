@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Gerlach-Basta | Patromierz"
+title: "Rafa\u0142 Gerlach-Basta | Patromierz - statystyki Patronite.pl"
 
 permalink: /DreamBasta
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kataklizmy w Polsce i na \u015Bwiecie | Patromierz"
+title: "Kataklizmy w Polsce i na \u015Bwiecie | Patromierz - statystyki Patronite.pl"
 
 permalink: /KataklizmyPLWR
 ---

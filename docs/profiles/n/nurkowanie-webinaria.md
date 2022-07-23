@@ -1,5 +1,5 @@
 ---
-title: Irena Kosowska | Patromierz
+title: Irena Kosowska | Patromierz - statystyki Patronite.pl
 
 permalink: /nurkowanie-webinaria
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bruno Kadyna | Patromierz
+title: Bruno Kadyna | Patromierz - statystyki Patronite.pl
 
 permalink: /brunokadyna
 ---

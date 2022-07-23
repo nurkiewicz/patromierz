@@ -1,5 +1,5 @@
 ---
-title: Tomasz Piwecki | Patromierz
+title: Tomasz Piwecki | Patromierz - statystyki Patronite.pl
 
 permalink: /TomaszPiwecki
 ---

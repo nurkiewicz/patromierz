@@ -1,5 +1,5 @@
 ---
-title: Warsaw Enterprise Insitutue | Patromierz
+title: Warsaw Enterprise Insitutue | Patromierz - statystyki Patronite.pl
 
 permalink: /wei.org.pl
 ---

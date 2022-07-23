@@ -1,5 +1,5 @@
 ---
-title: Beata Klimek | Patromierz
+title: Beata Klimek | Patromierz - statystyki Patronite.pl
 
 permalink: /BeataKlimek
 ---

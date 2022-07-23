@@ -1,5 +1,5 @@
 ---
-title: Konkursy Kreatywne | Patromierz
+title: Konkursy Kreatywne | Patromierz - statystyki Patronite.pl
 
 permalink: /KonkursyKreatywne
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Krynicka Orkiestra  Zdrojowa im. Adama Wro\u0144skiego | Patromierz"
+title: "Krynicka Orkiestra  Zdrojowa im. Adama Wro\u0144skiego | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /orkiestrazdrojowa
 ---

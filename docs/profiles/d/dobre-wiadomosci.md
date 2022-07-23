@@ -1,5 +1,5 @@
 ---
-title: "Dobre Wiadomo\u015Bci | Patromierz"
+title: "Dobre Wiadomo\u015Bci | Patromierz - statystyki Patronite.pl"
 
 permalink: /dobre-wiadomosci
 ---

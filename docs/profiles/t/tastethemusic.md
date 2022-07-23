@@ -1,5 +1,5 @@
 ---
-title: Taste The Music | Patromierz
+title: Taste The Music | Patromierz - statystyki Patronite.pl
 
 permalink: /tastethemusic
 ---

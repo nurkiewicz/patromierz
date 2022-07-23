@@ -1,5 +1,5 @@
 ---
-title: "\u017Bu\u0142awska Kolej Ogrodowa Tomka | Patromierz"
+title: "\u017Bu\u0142awska Kolej Ogrodowa Tomka | Patromierz - statystyki Patronite.pl"
 
 permalink: /kolejwogrodzie
 ---

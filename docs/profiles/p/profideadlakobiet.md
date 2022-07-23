@@ -1,5 +1,5 @@
 ---
-title: "Tamara G\xF3recka-Wero\u0144ska | Patromierz"
+title: "Tamara G\xF3recka-Wero\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /profideadlakobiet
 ---

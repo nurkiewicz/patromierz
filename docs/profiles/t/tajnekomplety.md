@@ -1,5 +1,5 @@
 ---
-title: "Cafe Ksi\u0119garnia Tajne Komplety | Patromierz"
+title: "Cafe Ksi\u0119garnia Tajne Komplety | Patromierz - statystyki Patronite.pl"
 
 permalink: /tajnekomplety
 ---

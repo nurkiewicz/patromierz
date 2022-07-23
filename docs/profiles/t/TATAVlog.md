@@ -1,5 +1,5 @@
 ---
-title: TATA Vlog | Patromierz
+title: TATA Vlog | Patromierz - statystyki Patronite.pl
 
 permalink: /TATAVlog
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rock Nad Pis\u0105 | Patromierz"
+title: "Rock Nad Pis\u0105 | Patromierz - statystyki Patronite.pl"
 
 permalink: /rocknadpisa
 ---

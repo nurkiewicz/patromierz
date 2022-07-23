@@ -1,5 +1,5 @@
 ---
-title: Germanistka po godzinach | Patromierz
+title: Germanistka po godzinach | Patromierz - statystyki Patronite.pl
 
 permalink: /germanistka
 ---

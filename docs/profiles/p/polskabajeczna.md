@@ -1,5 +1,5 @@
 ---
-title: Polska Bajeczna | Patromierz
+title: Polska Bajeczna | Patromierz - statystyki Patronite.pl
 
 permalink: /polskabajeczna
 ---

@@ -1,5 +1,5 @@
 ---
-title: '#kawazmierniczym | Patromierz'
+title: '#kawazmierniczym | Patromierz - statystyki Patronite.pl'
 
 permalink: /kawazmierniczym
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0119\u015Bniak_Mi\u0119so | Patromierz"
+title: "Mi\u0119\u015Bniak_Mi\u0119so | Patromierz - statystyki Patronite.pl"
 
 permalink: /miesniak_mieso
 ---

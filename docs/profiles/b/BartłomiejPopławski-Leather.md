@@ -1,5 +1,5 @@
 ---
-title: "Bart\u0142omiej Pop\u0142awski-Leatherworks | Patromierz"
+title: "Bart\u0142omiej Pop\u0142awski-Leatherworks | Patromierz - statystyki Patronite.pl"
 
 permalink: /BartłomiejPopławski-Leather
 ---

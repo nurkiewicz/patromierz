@@ -1,5 +1,5 @@
 ---
-title: "Maciej Tomasz B\u0142a\u017Cewicz | Patromierz"
+title: "Maciej Tomasz B\u0142a\u017Cewicz | Patromierz - statystyki Patronite.pl"
 
 permalink: /DziennikEurowizyjny
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Le\u015Bna Kuchnia | Patromierz"
+title: "Le\u015Bna Kuchnia | Patromierz - statystyki Patronite.pl"
 
 permalink: /LeśnaKuchnia
 ---

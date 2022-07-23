@@ -1,5 +1,5 @@
 ---
-title: Wro.cpp | Patromierz
+title: Wro.cpp | Patromierz - statystyki Patronite.pl
 
 permalink: /wrocpp
 ---

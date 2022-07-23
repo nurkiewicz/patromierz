@@ -1,5 +1,5 @@
 ---
-title: Big Band Dobczyce | Patromierz
+title: Big Band Dobczyce | Patromierz - statystyki Patronite.pl
 
 permalink: /BigBandDobczyce
 ---

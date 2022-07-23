@@ -1,5 +1,5 @@
 ---
-title: Jan Szurek | Patromierz
+title: Jan Szurek | Patromierz - statystyki Patronite.pl
 
 permalink: /w_moim_obiektywie
 ---

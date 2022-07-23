@@ -1,5 +1,5 @@
 ---
-title: "M\u0142odzi na Progu | Patromierz"
+title: "M\u0142odzi na Progu | Patromierz - statystyki Patronite.pl"
 
 permalink: /mlodzinaprogu
 ---

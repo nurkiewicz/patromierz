@@ -1,5 +1,5 @@
 ---
-title: Psychatog.pl | Patromierz
+title: Psychatog.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /psychatog-pl
 ---

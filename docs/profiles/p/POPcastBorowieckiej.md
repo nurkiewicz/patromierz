@@ -1,5 +1,5 @@
 ---
-title: Katarzyna Borowiecka | Patromierz
+title: Katarzyna Borowiecka | Patromierz - statystyki Patronite.pl
 
 permalink: /POPcastBorowieckiej
 ---

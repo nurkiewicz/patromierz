@@ -1,5 +1,5 @@
 ---
-title: Zeszyt do polskiego | Patromierz
+title: Zeszyt do polskiego | Patromierz - statystyki Patronite.pl
 
 permalink: /Zeszyt_do_polskiego
 ---

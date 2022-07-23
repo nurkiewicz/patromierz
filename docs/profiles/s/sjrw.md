@@ -1,5 +1,6 @@
 ---
-title: SPECJALISTYCZNA JEDNOSTKA RATOWNICTWA WETERYNARYJNEGO | Patromierz
+title: SPECJALISTYCZNA JEDNOSTKA RATOWNICTWA WETERYNARYJNEGO | Patromierz - statystyki
+  Patronite.pl
 
 permalink: /sjrw
 ---

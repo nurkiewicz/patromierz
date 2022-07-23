@@ -1,5 +1,5 @@
 ---
-title: KiedyMsza.PL - Piotr Podstawski | Patromierz
+title: KiedyMsza.PL - Piotr Podstawski | Patromierz - statystyki Patronite.pl
 
 permalink: /kiedymsza
 ---

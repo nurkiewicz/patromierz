@@ -1,5 +1,6 @@
 ---
-title: "Beata Jakubas Fotografia \u015Awiat\u0142em Malowana  | Patromierz"
+title: "Beata Jakubas Fotografia \u015Awiat\u0142em Malowana  | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /beatajakubas
 ---

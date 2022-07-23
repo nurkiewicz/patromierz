@@ -1,5 +1,5 @@
 ---
-title: Karrel | Patromierz
+title: Karrel | Patromierz - statystyki Patronite.pl
 
 permalink: /karrelyt
 ---

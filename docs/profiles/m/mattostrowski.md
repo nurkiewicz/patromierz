@@ -1,5 +1,5 @@
 ---
-title: Matt Ostrowski | Patromierz
+title: Matt Ostrowski | Patromierz - statystyki Patronite.pl
 
 permalink: /mattostrowski
 ---

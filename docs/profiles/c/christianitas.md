@@ -1,5 +1,5 @@
 ---
-title: Christianitas | Patromierz
+title: Christianitas | Patromierz - statystyki Patronite.pl
 
 permalink: /christianitas
 ---

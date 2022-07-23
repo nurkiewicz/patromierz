@@ -1,5 +1,5 @@
 ---
-title: Lecimy.org | Patromierz
+title: Lecimy.org | Patromierz - statystyki Patronite.pl
 
 permalink: /lecimy
 ---

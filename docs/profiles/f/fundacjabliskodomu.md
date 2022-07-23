@@ -1,5 +1,5 @@
 ---
-title: Fundacja Blisko Domu | Patromierz
+title: Fundacja Blisko Domu | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjabliskodomu
 ---

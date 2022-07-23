@@ -1,5 +1,5 @@
 ---
-title: Agata Jung | Patromierz
+title: Agata Jung | Patromierz - statystyki Patronite.pl
 
 permalink: /MentalnaKoreanka
 ---

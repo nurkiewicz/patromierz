@@ -1,5 +1,5 @@
 ---
-title: Co jest nie tak z Krakowem | Patromierz
+title: Co jest nie tak z Krakowem | Patromierz - statystyki Patronite.pl
 
 permalink: /cojestnietakzkrakowem
 ---

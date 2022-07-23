@@ -1,5 +1,5 @@
 ---
-title: Radio Pirat | Patromierz
+title: Radio Pirat | Patromierz - statystyki Patronite.pl
 
 permalink: /RadioPirat
 ---

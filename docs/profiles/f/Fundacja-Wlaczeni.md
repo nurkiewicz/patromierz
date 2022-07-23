@@ -1,5 +1,5 @@
 ---
-title: "Fundacja W\u0142\u0105czeni | Patromierz"
+title: "Fundacja W\u0142\u0105czeni | Patromierz - statystyki Patronite.pl"
 
 permalink: /Fundacja-Wlaczeni
 ---

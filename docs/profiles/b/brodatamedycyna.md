@@ -1,5 +1,5 @@
 ---
-title: Brodata Medycyna | Patromierz
+title: Brodata Medycyna | Patromierz - statystyki Patronite.pl
 
 permalink: /brodatamedycyna
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VoiceInProgress - Joanna Kurzy\u0144ska | Patromierz"
+title: "VoiceInProgress - Joanna Kurzy\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /voiceinprogress-joannakurzynsk
 ---

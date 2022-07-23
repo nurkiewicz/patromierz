@@ -1,5 +1,5 @@
 ---
-title: Izabela_BO | Patromierz
+title: Izabela_BO | Patromierz - statystyki Patronite.pl
 
 permalink: /haft-artystyczny
 ---

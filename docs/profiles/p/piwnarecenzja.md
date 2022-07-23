@@ -1,5 +1,6 @@
 ---
-title: "PiwnaRecenzja - Przemys\u0142aw  Stefa\u0144czyk | Patromierz"
+title: "PiwnaRecenzja - Przemys\u0142aw  Stefa\u0144czyk | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /piwnarecenzja
 ---

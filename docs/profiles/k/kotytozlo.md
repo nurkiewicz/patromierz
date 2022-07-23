@@ -1,5 +1,5 @@
 ---
-title: Pracownia Cioci Kot | Patromierz
+title: Pracownia Cioci Kot | Patromierz - statystyki Patronite.pl
 
 permalink: /kotytozlo
 ---

@@ -1,5 +1,5 @@
 ---
-title: Forestowo | Patromierz
+title: Forestowo | Patromierz - statystyki Patronite.pl
 
 permalink: /Forestowo
 ---

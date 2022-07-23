@@ -1,5 +1,6 @@
 ---
-title: "Fundacja S\u0142u\u017Cby Rodzinie \"Nadzieja\" | Patromierz"
+title: "Fundacja S\u0142u\u017Cby Rodzinie \"Nadzieja\" | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /FundacjaNadzieja.org
 ---

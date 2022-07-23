@@ -1,5 +1,5 @@
 ---
-title: Azylowe Stado | Patromierz
+title: Azylowe Stado | Patromierz - statystyki Patronite.pl
 
 permalink: /AzyloweStado
 ---

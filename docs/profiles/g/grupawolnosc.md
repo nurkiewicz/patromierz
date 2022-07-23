@@ -1,5 +1,5 @@
 ---
-title: "Grupa Wolno\u015B\u0107 | Patromierz"
+title: "Grupa Wolno\u015B\u0107 | Patromierz - statystyki Patronite.pl"
 
 permalink: /grupawolnosc
 ---

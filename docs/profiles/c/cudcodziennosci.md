@@ -1,5 +1,5 @@
 ---
-title: "Cud Codzienno\u015Bci | Patromierz"
+title: "Cud Codzienno\u015Bci | Patromierz - statystyki Patronite.pl"
 
 permalink: /cudcodziennosci
 ---

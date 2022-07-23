@@ -1,5 +1,5 @@
 ---
-title: "Pod Nomina\u0142 Cast | Patromierz"
+title: "Pod Nomina\u0142 Cast | Patromierz - statystyki Patronite.pl"
 
 permalink: /pncast
 ---

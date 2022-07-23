@@ -1,5 +1,5 @@
 ---
-title: Blady Kris | Patromierz
+title: Blady Kris | Patromierz - statystyki Patronite.pl
 
 permalink: /bladykris
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A\u015Bka \u0141awicka | Patromierz"
+title: "A\u015Bka \u0141awicka | Patromierz - statystyki Patronite.pl"
 
 permalink: /aska-lawicka
 ---

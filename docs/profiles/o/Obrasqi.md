@@ -1,5 +1,5 @@
 ---
-title: OBRASQi  | Patromierz
+title: OBRASQi  | Patromierz - statystyki Patronite.pl
 
 permalink: /Obrasqi
 ---

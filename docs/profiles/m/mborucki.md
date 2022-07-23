@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Jan Borucki | Patromierz"
+title: "Micha\u0142 Jan Borucki | Patromierz - statystyki Patronite.pl"
 
 permalink: /mborucki
 ---

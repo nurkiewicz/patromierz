@@ -1,5 +1,5 @@
 ---
-title: TechManiacHD | Patromierz
+title: TechManiacHD | Patromierz - statystyki Patronite.pl
 
 permalink: /TechManiacHD
 ---

@@ -1,5 +1,5 @@
 ---
-title: Podcast Specjalny | Patromierz
+title: Podcast Specjalny | Patromierz - statystyki Patronite.pl
 
 permalink: /podcastspecjalny
 ---

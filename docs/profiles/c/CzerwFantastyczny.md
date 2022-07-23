@@ -1,5 +1,5 @@
 ---
-title: Czerw Fantastyczny | Patromierz
+title: Czerw Fantastyczny | Patromierz - statystyki Patronite.pl
 
 permalink: /CzerwFantastyczny
 ---

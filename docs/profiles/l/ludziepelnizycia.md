@@ -1,5 +1,5 @@
 ---
-title: "Ludzie Pe\u0142ni \u017Bycia | Patromierz"
+title: "Ludzie Pe\u0142ni \u017Bycia | Patromierz - statystyki Patronite.pl"
 
 permalink: /ludziepelnizycia
 ---

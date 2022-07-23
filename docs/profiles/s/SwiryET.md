@@ -1,5 +1,5 @@
 ---
-title: =|PoLSkIE|SwirY|= | Patromierz
+title: =|PoLSkIE|SwirY|= | Patromierz - statystyki Patronite.pl
 
 permalink: /SwiryET
 ---

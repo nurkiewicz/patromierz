@@ -1,5 +1,5 @@
 ---
-title: Team Apostrov | Patromierz
+title: Team Apostrov | Patromierz - statystyki Patronite.pl
 
 permalink: /apostrov
 ---

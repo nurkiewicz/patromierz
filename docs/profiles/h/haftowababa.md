@@ -1,5 +1,5 @@
 ---
-title: Haftowa Baba | Patromierz
+title: Haftowa Baba | Patromierz - statystyki Patronite.pl
 
 permalink: /haftowababa
 ---

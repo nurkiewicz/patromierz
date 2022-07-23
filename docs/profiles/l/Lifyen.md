@@ -1,5 +1,5 @@
 ---
-title: '"Lifyen" | Patromierz'
+title: '"Lifyen" | Patromierz - statystyki Patronite.pl'
 
 permalink: /Lifyen
 ---

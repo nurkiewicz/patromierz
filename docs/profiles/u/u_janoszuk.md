@@ -1,5 +1,5 @@
 ---
-title: Kreatywnie U Janoszuk | Patromierz
+title: Kreatywnie U Janoszuk | Patromierz - statystyki Patronite.pl
 
 permalink: /u_janoszuk
 ---

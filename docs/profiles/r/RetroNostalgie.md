@@ -1,5 +1,5 @@
 ---
-title: Retro Nostalgie | Patromierz
+title: Retro Nostalgie | Patromierz - statystyki Patronite.pl
 
 permalink: /RetroNostalgie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a muzyczna TONY | Patromierz"
+title: "Szko\u0142a muzyczna TONY | Patromierz - statystyki Patronite.pl"
 
 permalink: /tony
 ---

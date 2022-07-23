@@ -1,5 +1,5 @@
 ---
-title: Justyna Jaworska | Patromierz
+title: Justyna Jaworska | Patromierz - statystyki Patronite.pl
 
 permalink: /Justyna-Jaworska
 ---

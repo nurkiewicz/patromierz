@@ -1,5 +1,5 @@
 ---
-title: Lekcjareligii.pl | Patromierz
+title: Lekcjareligii.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /lekcjareligiipl
 ---

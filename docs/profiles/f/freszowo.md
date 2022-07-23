@@ -1,5 +1,5 @@
 ---
-title: Tomasz Rudolf | Patromierz
+title: Tomasz Rudolf | Patromierz - statystyki Patronite.pl
 
 permalink: /freszowo
 ---

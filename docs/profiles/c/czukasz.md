@@ -1,5 +1,5 @@
 ---
-title: Czukasz | Patromierz
+title: Czukasz | Patromierz - statystyki Patronite.pl
 
 permalink: /czukasz
 ---

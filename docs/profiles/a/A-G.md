@@ -1,5 +1,5 @@
 ---
-title: "Alina & Grzegorz \"Moment\" P\u0142aczek | Patromierz"
+title: "Alina & Grzegorz \"Moment\" P\u0142aczek | Patromierz - statystyki Patronite.pl"
 
 permalink: /A-G
 ---

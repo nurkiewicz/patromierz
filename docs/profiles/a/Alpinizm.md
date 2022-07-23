@@ -1,5 +1,5 @@
 ---
-title: "Bartek Wn\u0119k | Patromierz"
+title: "Bartek Wn\u0119k | Patromierz - statystyki Patronite.pl"
 
 permalink: /Alpinizm
 ---

@@ -1,5 +1,5 @@
 ---
-title: MATRIK | Patromierz
+title: MATRIK | Patromierz - statystyki Patronite.pl
 
 permalink: /matrik
 ---

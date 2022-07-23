@@ -1,5 +1,5 @@
 ---
-title: "Gorz\xF3w Modification | Patromierz"
+title: "Gorz\xF3w Modification | Patromierz - statystyki Patronite.pl"
 
 permalink: /gorzowmod
 ---

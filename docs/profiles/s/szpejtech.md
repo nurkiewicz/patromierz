@@ -1,5 +1,5 @@
 ---
-title: Szpej Tech | Patromierz
+title: Szpej Tech | Patromierz - statystyki Patronite.pl
 
 permalink: /szpejtech
 ---

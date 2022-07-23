@@ -1,5 +1,5 @@
 ---
-title: Monika Laprus-Wierzejska | Patromierz
+title: Monika Laprus-Wierzejska | Patromierz - statystyki Patronite.pl
 
 permalink: /zboj
 ---

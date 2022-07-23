@@ -1,5 +1,5 @@
 ---
-title: Fundacja SAWANCI | Patromierz
+title: Fundacja SAWANCI | Patromierz - statystyki Patronite.pl
 
 permalink: /FundacjaSAWANCI
 ---

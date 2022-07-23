@@ -1,5 +1,5 @@
 ---
-title: Kanciapa Krisa  | Patromierz
+title: Kanciapa Krisa  | Patromierz - statystyki Patronite.pl
 
 permalink: /kanciapakrisa
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ola Uruszczak - jogowsparcie | Patromierz
+title: Ola Uruszczak - jogowsparcie | Patromierz - statystyki Patronite.pl
 
 permalink: /ouyoga
 ---

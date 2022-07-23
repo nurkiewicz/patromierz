@@ -1,5 +1,5 @@
 ---
-title: Bassdriver | Patromierz
+title: Bassdriver | Patromierz - statystyki Patronite.pl
 
 permalink: /bassdriver
 ---

@@ -1,5 +1,5 @@
 ---
-title: Modlitwa w drodze | Patromierz
+title: Modlitwa w drodze | Patromierz - statystyki Patronite.pl
 
 permalink: /modlitwawdrodze
 ---

@@ -1,5 +1,5 @@
 ---
-title: Degustator | Patromierz
+title: Degustator | Patromierz - statystyki Patronite.pl
 
 permalink: /degustator
 ---

@@ -1,5 +1,5 @@
 ---
-title: basnictvi  | Patromierz
+title: basnictvi  | Patromierz - statystyki Patronite.pl
 
 permalink: /basnictvi
 ---

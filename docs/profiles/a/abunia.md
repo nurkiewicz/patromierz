@@ -1,5 +1,5 @@
 ---
-title: Abo Kocia Morda | Patromierz
+title: Abo Kocia Morda | Patromierz - statystyki Patronite.pl
 
 permalink: /abunia
 ---

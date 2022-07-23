@@ -1,5 +1,5 @@
 ---
-title: W Szczytowej Formie | Patromierz
+title: W Szczytowej Formie | Patromierz - statystyki Patronite.pl
 
 permalink: /wszczytowejformie
 ---

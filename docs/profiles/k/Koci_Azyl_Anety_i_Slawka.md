@@ -1,5 +1,5 @@
 ---
-title: "Koci Azyl Anety i S\u0142awka | Patromierz"
+title: "Koci Azyl Anety i S\u0142awka | Patromierz - statystyki Patronite.pl"
 
 permalink: /Koci_Azyl_Anety_i_Slawka
 ---

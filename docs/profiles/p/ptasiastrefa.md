@@ -1,5 +1,5 @@
 ---
-title: Ptasia Strefa | Patromierz
+title: Ptasia Strefa | Patromierz - statystyki Patronite.pl
 
 permalink: /ptasiastrefa
 ---

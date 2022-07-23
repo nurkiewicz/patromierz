@@ -1,5 +1,5 @@
 ---
-title: Klubokawiarnia Cynamon | Patromierz
+title: Klubokawiarnia Cynamon | Patromierz - statystyki Patronite.pl
 
 permalink: /CynamonKlubokawiarnia
 ---

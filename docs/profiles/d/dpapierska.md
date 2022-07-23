@@ -1,5 +1,5 @@
 ---
-title: Papierki || Sketchbook | Patromierz
+title: Papierki || Sketchbook | Patromierz - statystyki Patronite.pl
 
 permalink: /dpapierska
 ---

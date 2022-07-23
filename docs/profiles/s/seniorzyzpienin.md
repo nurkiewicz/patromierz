@@ -1,5 +1,5 @@
 ---
-title: Seniorzy z Pienin | Patromierz
+title: Seniorzy z Pienin | Patromierz - statystyki Patronite.pl
 
 permalink: /seniorzyzpienin
 ---

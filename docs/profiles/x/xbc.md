@@ -1,5 +1,5 @@
 ---
-title: XBestCinema | Patromierz
+title: XBestCinema | Patromierz - statystyki Patronite.pl
 
 permalink: /xbc
 ---

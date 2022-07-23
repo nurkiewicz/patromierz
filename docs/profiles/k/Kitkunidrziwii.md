@@ -1,5 +1,5 @@
 ---
-title: "Bart\u0142omiej Lis | Patromierz"
+title: "Bart\u0142omiej Lis | Patromierz - statystyki Patronite.pl"
 
 permalink: /Kitkunidrziwii
 ---

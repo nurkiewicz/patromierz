@@ -1,5 +1,5 @@
 ---
-title: Adventure Reach - Sala RPG | Patromierz
+title: Adventure Reach - Sala RPG | Patromierz - statystyki Patronite.pl
 
 permalink: /AdventureReach
 ---

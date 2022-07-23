@@ -1,5 +1,5 @@
 ---
-title: "Otwarty Jazd\xF3w | Patromierz"
+title: "Otwarty Jazd\xF3w | Patromierz - statystyki Patronite.pl"
 
 permalink: /otwartyjazdow
 ---

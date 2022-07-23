@@ -1,5 +1,5 @@
 ---
-title: Sternquest | Patromierz
+title: Sternquest | Patromierz - statystyki Patronite.pl
 
 permalink: /Sternquest
 ---

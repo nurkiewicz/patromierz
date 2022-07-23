@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Ko\u017Alik | Patromierz"
+title: "\u0141ukasz Ko\u017Alik | Patromierz - statystyki Patronite.pl"
 
 permalink: /LukaszKozlik
 ---

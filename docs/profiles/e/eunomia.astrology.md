@@ -1,5 +1,5 @@
 ---
-title: Eunomia | Patromierz
+title: Eunomia | Patromierz - statystyki Patronite.pl
 
 permalink: /eunomia.astrology
 ---

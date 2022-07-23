@@ -1,5 +1,5 @@
 ---
-title: Anna Bojarska | Patromierz
+title: Anna Bojarska | Patromierz - statystyki Patronite.pl
 
 permalink: /annabojarska
 ---

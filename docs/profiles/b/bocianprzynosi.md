@@ -1,5 +1,5 @@
 ---
-title: "Bocian Przynosi P\u0142yty | Patromierz"
+title: "Bocian Przynosi P\u0142yty | Patromierz - statystyki Patronite.pl"
 
 permalink: /bocianprzynosi
 ---

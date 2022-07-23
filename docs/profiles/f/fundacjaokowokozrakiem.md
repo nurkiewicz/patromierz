@@ -1,5 +1,5 @@
 ---
-title: Fundacja Oko w Oko z Rakiem | Patromierz
+title: Fundacja Oko w Oko z Rakiem | Patromierz - statystyki Patronite.pl
 
 permalink: /fundacjaokowokozrakiem
 ---

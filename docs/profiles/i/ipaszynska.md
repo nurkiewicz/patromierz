@@ -1,5 +1,5 @@
 ---
-title: Iryna Pashyska | Patromierz
+title: Iryna Pashyska | Patromierz - statystyki Patronite.pl
 
 permalink: /ipaszynska
 ---

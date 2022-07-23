@@ -1,5 +1,5 @@
 ---
-title: Adam Razik | Patromierz
+title: Adam Razik | Patromierz - statystyki Patronite.pl
 
 permalink: /adamrazik
 ---

@@ -1,5 +1,5 @@
 ---
-title: Lista Carpigiani | Patromierz
+title: Lista Carpigiani | Patromierz - statystyki Patronite.pl
 
 permalink: /carpigiani
 ---

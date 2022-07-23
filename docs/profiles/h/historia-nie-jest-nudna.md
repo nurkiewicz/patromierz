@@ -1,5 +1,5 @@
 ---
-title: Historia nie jest nudna | Patromierz
+title: Historia nie jest nudna | Patromierz - statystyki Patronite.pl
 
 permalink: /historia-nie-jest-nudna
 ---

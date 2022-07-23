@@ -1,5 +1,5 @@
 ---
-title: Wydawnictwo Wielokrotnego Wyboru | Patromierz
+title: Wydawnictwo Wielokrotnego Wyboru | Patromierz - statystyki Patronite.pl
 
 permalink: /MaszWybór
 ---

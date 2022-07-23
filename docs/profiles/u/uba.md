@@ -1,5 +1,5 @@
 ---
-title: Zaneta Uba | Patromierz
+title: Zaneta Uba | Patromierz - statystyki Patronite.pl
 
 permalink: /uba
 ---

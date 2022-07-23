@@ -1,5 +1,5 @@
 ---
-title: Tomasz Derach | Patromierz
+title: Tomasz Derach | Patromierz - statystyki Patronite.pl
 
 permalink: /TomaszDerach
 ---

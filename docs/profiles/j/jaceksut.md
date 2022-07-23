@@ -1,5 +1,5 @@
 ---
-title: Jacek Sut | Patromierz
+title: Jacek Sut | Patromierz - statystyki Patronite.pl
 
 permalink: /jaceksut
 ---

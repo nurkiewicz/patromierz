@@ -1,5 +1,5 @@
 ---
-title: mamytojaknikt | Patromierz
+title: mamytojaknikt | Patromierz - statystyki Patronite.pl
 
 permalink: /mamytojaknikt
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Podcast \"Kole\u017Canki, porozmawiajmy\", Martyna Kraus | Patromierz"
+title: "Podcast \"Kole\u017Canki, porozmawiajmy\", Martyna Kraus | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /kolezankiporozmawiajmy
 ---

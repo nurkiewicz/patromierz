@@ -1,5 +1,5 @@
 ---
-title: Adam Strzelecki | Patromierz
+title: Adam Strzelecki | Patromierz - statystyki Patronite.pl
 
 permalink: /StrzeleckiVideo
 ---

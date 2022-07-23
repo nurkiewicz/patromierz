@@ -1,5 +1,5 @@
 ---
-title: Co Za Historia  | Patromierz
+title: Co Za Historia  | Patromierz - statystyki Patronite.pl
 
 permalink: /Cozahistoria
 ---

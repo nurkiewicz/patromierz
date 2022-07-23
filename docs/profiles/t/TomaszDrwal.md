@@ -1,5 +1,5 @@
 ---
-title: Tomasz Drwal  | Patromierz
+title: Tomasz Drwal  | Patromierz - statystyki Patronite.pl
 
 permalink: /TomaszDrwal
 ---

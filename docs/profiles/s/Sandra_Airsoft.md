@@ -1,5 +1,5 @@
 ---
-title: Sandra_Airsoft | Patromierz
+title: Sandra_Airsoft | Patromierz - statystyki Patronite.pl
 
 permalink: /Sandra_Airsoft
 ---

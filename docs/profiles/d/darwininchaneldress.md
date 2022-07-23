@@ -1,5 +1,5 @@
 ---
-title: Dorota Komar | Patromierz
+title: Dorota Komar | Patromierz - statystyki Patronite.pl
 
 permalink: /darwininchaneldress
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Filip \u0141uczak | Patromierz"
+title: "Filip \u0141uczak | Patromierz - statystyki Patronite.pl"
 
 permalink: /Koscielny
 ---

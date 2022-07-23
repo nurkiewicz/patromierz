@@ -1,5 +1,5 @@
 ---
-title: Langusta na palmie | Patromierz
+title: Langusta na palmie | Patromierz - statystyki Patronite.pl
 
 permalink: /langustanapalmie
 ---

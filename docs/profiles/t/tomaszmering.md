@@ -1,5 +1,5 @@
 ---
-title: Tomasz Mering | Patromierz
+title: Tomasz Mering | Patromierz - statystyki Patronite.pl
 
 permalink: /tomaszmering
 ---

@@ -1,5 +1,5 @@
 ---
-title: Welder Art | Patromierz
+title: Welder Art | Patromierz - statystyki Patronite.pl
 
 permalink: /WelderArt
 ---

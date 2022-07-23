@@ -1,5 +1,5 @@
 ---
-title: Teatr YETA | Patromierz
+title: Teatr YETA | Patromierz - statystyki Patronite.pl
 
 permalink: /Teatr.YETA
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Stowarzyszenie Klucz - Stop Spo\u0142ecznym Wykluczeniom | Patromierz"
+title: "Stowarzyszenie Klucz - Stop Spo\u0142ecznym Wykluczeniom | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /StowarzyszenieKlucz
 ---

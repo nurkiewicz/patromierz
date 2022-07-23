@@ -1,5 +1,5 @@
 ---
-title: Prometej Wyzwolony | Patromierz
+title: Prometej Wyzwolony | Patromierz - statystyki Patronite.pl
 
 permalink: /Prometej
 ---

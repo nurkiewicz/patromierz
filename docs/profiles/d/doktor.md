@@ -1,5 +1,5 @@
 ---
-title: doktor z tiktoka | Patromierz
+title: doktor z tiktoka | Patromierz - statystyki Patronite.pl
 
 permalink: /doktor
 ---

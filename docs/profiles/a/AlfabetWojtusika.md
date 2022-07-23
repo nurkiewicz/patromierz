@@ -1,5 +1,5 @@
 ---
-title: Alfabet Wojtusika | Patromierz
+title: Alfabet Wojtusika | Patromierz - statystyki Patronite.pl
 
 permalink: /AlfabetWojtusika
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Impa_Cz\u0142owiek rower :) | Patromierz"
+title: "Impa_Cz\u0142owiek rower :) | Patromierz - statystyki Patronite.pl"
 
 permalink: /Impa
 ---

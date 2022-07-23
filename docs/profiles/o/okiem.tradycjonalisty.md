@@ -1,5 +1,5 @@
 ---
-title: Okiem Tradycjonalisty | Patromierz
+title: Okiem Tradycjonalisty | Patromierz - statystyki Patronite.pl
 
 permalink: /okiem.tradycjonalisty
 ---

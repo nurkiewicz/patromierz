@@ -1,5 +1,5 @@
 ---
-title: "\u015Awi\u0119ty Miko\u0142aj dla Seniora  | Patromierz"
+title: "\u015Awi\u0119ty Miko\u0142aj dla Seniora  | Patromierz - statystyki Patronite.pl"
 
 permalink: /swietymikolajdlaseniora
 ---

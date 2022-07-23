@@ -1,5 +1,5 @@
 ---
-title: Warszawska Grupa Fotograficzna | Patromierz
+title: Warszawska Grupa Fotograficzna | Patromierz - statystyki Patronite.pl
 
 permalink: /warszawskagrupafotograficzna
 ---

@@ -1,5 +1,5 @@
 ---
-title: Podcast 2pady.pl | Patromierz
+title: Podcast 2pady.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /2padypl
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pie\u015Bni dalekich plemion (Piotr Plebaniak) | Patromierz"
+title: "Pie\u015Bni dalekich plemion (Piotr Plebaniak) | Patromierz - statystyki Patronite.pl"
 
 permalink: /piotrplebaniak
 ---

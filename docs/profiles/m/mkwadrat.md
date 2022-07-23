@@ -1,5 +1,5 @@
 ---
-title: MKwadrat Podcast | Patromierz
+title: MKwadrat Podcast | Patromierz - statystyki Patronite.pl
 
 permalink: /mkwadrat
 ---

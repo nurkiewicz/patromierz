@@ -1,5 +1,5 @@
 ---
-title: Warming | Patromierz
+title: Warming | Patromierz - statystyki Patronite.pl
 
 permalink: /warming
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u015Acie\u017Cka \u0141ucznicza     | Patromierz"
+title: "\u015Acie\u017Cka \u0141ucznicza     | Patromierz - statystyki Patronite.pl"
 
 permalink: /sciezkalucznicza
 ---

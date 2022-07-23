@@ -1,5 +1,5 @@
 ---
-title: Imago Mortis | Patromierz
+title: Imago Mortis | Patromierz - statystyki Patronite.pl
 
 permalink: /imagomortis
 ---

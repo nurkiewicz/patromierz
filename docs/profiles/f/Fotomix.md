@@ -1,5 +1,5 @@
 ---
-title: FOTOMIX | Patromierz
+title: FOTOMIX | Patromierz - statystyki Patronite.pl
 
 permalink: /Fotomix
 ---

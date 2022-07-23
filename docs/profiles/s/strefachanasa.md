@@ -1,5 +1,5 @@
 ---
-title: Strefa Chanasa | Patromierz
+title: Strefa Chanasa | Patromierz - statystyki Patronite.pl
 
 permalink: /strefachanasa
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Olga Drzyma\u0142a | Patromierz"
+title: "Olga Drzyma\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /olga-drzymala
 ---

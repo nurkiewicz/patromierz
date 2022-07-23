@@ -1,5 +1,5 @@
 ---
-title: "Zadaszone Parki i Ogr\xF3dki Dzia\u0142kowe | Patromierz"
+title: "Zadaszone Parki i Ogr\xF3dki Dzia\u0142kowe | Patromierz - statystyki Patronite.pl"
 
 permalink: /domn_pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zwyk\u0142y Zeszyt | Patromierz"
+title: "Zwyk\u0142y Zeszyt | Patromierz - statystyki Patronite.pl"
 
 permalink: /zwyklyzeszyt
 ---

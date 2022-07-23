@@ -1,5 +1,5 @@
 ---
-title: Radio SK - Polski podcast o Stephenie Kingu | Patromierz
+title: Radio SK - Polski podcast o Stephenie Kingu | Patromierz - statystyki Patronite.pl
 
 permalink: /radiosk
 ---

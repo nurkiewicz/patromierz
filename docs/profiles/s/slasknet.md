@@ -1,5 +1,5 @@
 ---
-title: www.slasknet.com | Patromierz
+title: www.slasknet.com | Patromierz - statystyki Patronite.pl
 
 permalink: /slasknet
 ---

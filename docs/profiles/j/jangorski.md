@@ -1,5 +1,5 @@
 ---
-title: antistorm.eu | Patromierz
+title: antistorm.eu | Patromierz - statystyki Patronite.pl
 
 permalink: /jangorski
 ---

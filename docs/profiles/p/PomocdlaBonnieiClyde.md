@@ -1,5 +1,5 @@
 ---
-title: Pomoc dla Bonnie & Clyde | Patromierz
+title: Pomoc dla Bonnie & Clyde | Patromierz - statystyki Patronite.pl
 
 permalink: /PomocdlaBonnieiClyde
 ---

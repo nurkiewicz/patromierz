@@ -1,5 +1,5 @@
 ---
-title: Bartosz Liberski | Patromierz
+title: Bartosz Liberski | Patromierz - statystyki Patronite.pl
 
 permalink: /bartosz-liberski
 ---

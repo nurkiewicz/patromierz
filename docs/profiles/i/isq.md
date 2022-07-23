@@ -1,5 +1,5 @@
 ---
-title: Internet Speedway Quiz | Patromierz
+title: Internet Speedway Quiz | Patromierz - statystyki Patronite.pl
 
 permalink: /isq
 ---

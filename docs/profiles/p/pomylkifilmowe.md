@@ -1,5 +1,5 @@
 ---
-title: Wpadki filmowe | Patromierz
+title: Wpadki filmowe | Patromierz - statystyki Patronite.pl
 
 permalink: /pomylkifilmowe
 ---

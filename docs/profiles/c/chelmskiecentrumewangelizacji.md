@@ -1,5 +1,5 @@
 ---
-title: "Che\u0142mskie Centrum Ewangelizacji | Patromierz"
+title: "Che\u0142mskie Centrum Ewangelizacji | Patromierz - statystyki Patronite.pl"
 
 permalink: /chelmskiecentrumewangelizacji
 ---

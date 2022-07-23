@@ -1,5 +1,5 @@
 ---
-title: Revolshen | Patromierz
+title: Revolshen | Patromierz - statystyki Patronite.pl
 
 permalink: /revolshen
 ---

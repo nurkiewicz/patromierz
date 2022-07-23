@@ -1,5 +1,5 @@
 ---
-title: Defoliator | Patromierz
+title: Defoliator | Patromierz - statystyki Patronite.pl
 
 permalink: /defoliator
 ---

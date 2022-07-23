@@ -1,5 +1,5 @@
 ---
-title: Donald.pl | Patromierz
+title: Donald.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /donaldpl
 ---

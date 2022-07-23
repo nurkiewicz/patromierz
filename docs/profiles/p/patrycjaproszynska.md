@@ -1,5 +1,5 @@
 ---
-title: "Patrycja Pr\xF3szy\u0144ska | Patromierz"
+title: "Patrycja Pr\xF3szy\u0144ska | Patromierz - statystyki Patronite.pl"
 
 permalink: /patrycjaproszynska
 ---

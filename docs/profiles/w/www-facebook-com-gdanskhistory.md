@@ -1,5 +1,5 @@
 ---
-title: "Gda\u0144sk Historyczny | Patromierz"
+title: "Gda\u0144sk Historyczny | Patromierz - statystyki Patronite.pl"
 
 permalink: /www-facebook-com-gdanskhistory
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Stosunkowo Bliski Wsch\xF3d | Patromierz"
+title: "Stosunkowo Bliski Wsch\xF3d | Patromierz - statystyki Patronite.pl"
 
 permalink: /stosunkowobliskiwschod
 ---

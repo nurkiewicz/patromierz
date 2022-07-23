@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Janiszewski | Patromierz"
+title: "Przemys\u0142aw Janiszewski | Patromierz - statystyki Patronite.pl"
 
 permalink: /mocwsłabości
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Rostkowski | Patromierz"
+title: "Rafa\u0142 Rostkowski | Patromierz - statystyki Patronite.pl"
 
 permalink: /sedzia
 ---

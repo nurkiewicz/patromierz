@@ -1,5 +1,5 @@
 ---
-title: "Elektronika, Uk\u0142ady FPGA | Patromierz"
+title: "Elektronika, Uk\u0142ady FPGA | Patromierz - statystyki Patronite.pl"
 
 permalink: /Elektronika_Układy_FPGA
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Piter Zr\xF3bToSam | Patromierz"
+title: "Piter Zr\xF3bToSam | Patromierz - statystyki Patronite.pl"
 
 permalink: /PiterZrobToSam
 ---

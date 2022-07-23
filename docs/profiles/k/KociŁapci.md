@@ -1,5 +1,6 @@
 ---
-title: "Przysta\u0144 dla Koci\u0105t \"Koci \u0141apci\" | Patromierz"
+title: "Przysta\u0144 dla Koci\u0105t \"Koci \u0141apci\" | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /KociŁapci
 ---

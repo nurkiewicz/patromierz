@@ -1,5 +1,5 @@
 ---
-title: Yanek43 | Patromierz
+title: Yanek43 | Patromierz - statystyki Patronite.pl
 
 permalink: /yanek43
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jan \u015Apiewak | Patromierz"
+title: "Jan \u015Apiewak | Patromierz - statystyki Patronite.pl"
 
 permalink: /JanekSpiewak
 ---

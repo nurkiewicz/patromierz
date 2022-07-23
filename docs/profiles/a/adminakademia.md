@@ -1,5 +1,5 @@
 ---
-title: AdminAkademia | Patromierz
+title: AdminAkademia | Patromierz - statystyki Patronite.pl
 
 permalink: /adminakademia
 ---

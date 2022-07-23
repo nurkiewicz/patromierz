@@ -1,5 +1,5 @@
 ---
-title: "Akademia Kaba\u0142y Luria\u0144skiej | Patromierz"
+title: "Akademia Kaba\u0142y Luria\u0144skiej | Patromierz - statystyki Patronite.pl"
 
 permalink: /akademia
 ---

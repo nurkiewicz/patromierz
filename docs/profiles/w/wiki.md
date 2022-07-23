@@ -1,5 +1,5 @@
 ---
-title: Wiki RP | Patromierz
+title: Wiki RP | Patromierz - statystyki Patronite.pl
 
 permalink: /wiki
 ---

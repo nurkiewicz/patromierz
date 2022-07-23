@@ -1,5 +1,5 @@
 ---
-title: Szeptanki | Patromierz
+title: Szeptanki | Patromierz - statystyki Patronite.pl
 
 permalink: /szeptanki
 ---

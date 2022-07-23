@@ -1,5 +1,5 @@
 ---
-title: 4 lata na rowerze | Patromierz
+title: 4 lata na rowerze | Patromierz - statystyki Patronite.pl
 
 permalink: /4latanarowerze
 ---

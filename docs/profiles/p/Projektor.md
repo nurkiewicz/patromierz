@@ -1,5 +1,5 @@
 ---
-title: Magazyn Kulturalny "Projektor" | Patromierz
+title: Magazyn Kulturalny "Projektor" | Patromierz - statystyki Patronite.pl
 
 permalink: /Projektor
 ---

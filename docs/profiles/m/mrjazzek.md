@@ -1,5 +1,5 @@
 ---
-title: Mr. Jazzek  | Patromierz
+title: Mr. Jazzek  | Patromierz - statystyki Patronite.pl
 
 permalink: /mrjazzek
 ---

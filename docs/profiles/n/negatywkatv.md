@@ -1,5 +1,5 @@
 ---
-title: NEGATYWKA TV | Patromierz
+title: NEGATYWKA TV | Patromierz - statystyki Patronite.pl
 
 permalink: /negatywkatv
 ---

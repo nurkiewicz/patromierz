@@ -1,5 +1,5 @@
 ---
-title: Monika Adamska | Patromierz
+title: Monika Adamska | Patromierz - statystyki Patronite.pl
 
 permalink: /podcastoglosie
 ---

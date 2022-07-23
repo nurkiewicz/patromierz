@@ -1,5 +1,5 @@
 ---
-title: Small Talking | Patromierz
+title: Small Talking | Patromierz - statystyki Patronite.pl
 
 permalink: /SmallTalking
 ---

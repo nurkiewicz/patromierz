@@ -1,5 +1,5 @@
 ---
-title: Historia w Drodze | Patromierz
+title: Historia w Drodze | Patromierz - statystyki Patronite.pl
 
 permalink: /historiawdrodze
 ---

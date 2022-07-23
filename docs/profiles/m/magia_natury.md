@@ -1,5 +1,5 @@
 ---
-title: Magia Natury | Patromierz
+title: Magia Natury | Patromierz - statystyki Patronite.pl
 
 permalink: /magia_natury
 ---

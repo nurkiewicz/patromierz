@@ -1,5 +1,5 @@
 ---
-title: TransGrysy | Patromierz
+title: TransGrysy | Patromierz - statystyki Patronite.pl
 
 permalink: /transgrysy
 ---

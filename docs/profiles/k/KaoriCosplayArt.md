@@ -1,5 +1,5 @@
 ---
-title: Kaori CosplayArt | Patromierz
+title: Kaori CosplayArt | Patromierz - statystyki Patronite.pl
 
 permalink: /KaoriCosplayArt
 ---

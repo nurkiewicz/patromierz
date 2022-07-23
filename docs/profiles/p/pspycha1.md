@@ -1,5 +1,5 @@
 ---
-title: "Paulina Spycha\u0142a | Patromierz"
+title: "Paulina Spycha\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /pspycha1
 ---

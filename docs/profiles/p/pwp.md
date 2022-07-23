@@ -1,5 +1,5 @@
 ---
-title: Polish Women Photographers | Patromierz
+title: Polish Women Photographers | Patromierz - statystyki Patronite.pl
 
 permalink: /pwp
 ---

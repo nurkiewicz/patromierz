@@ -1,5 +1,5 @@
 ---
-title: "Kawa\u0142 Kina | Patromierz"
+title: "Kawa\u0142 Kina | Patromierz - statystyki Patronite.pl"
 
 permalink: /KawalKina
 ---

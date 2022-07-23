@@ -1,5 +1,6 @@
 ---
-title: "Muzeum Motoryzacji i Techniki w Otr\u0119busach | Patromierz"
+title: "Muzeum Motoryzacji i Techniki w Otr\u0119busach | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /muzeumwotrebusach
 ---

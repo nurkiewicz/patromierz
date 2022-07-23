@@ -1,5 +1,5 @@
 ---
-title: Shandy & Eva | Patromierz
+title: Shandy & Eva | Patromierz - statystyki Patronite.pl
 
 permalink: /shandyandeva
 ---

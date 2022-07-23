@@ -1,5 +1,5 @@
 ---
-title: "M\xF3wi\u0105c Wprost | Patromierz"
+title: "M\xF3wi\u0105c Wprost | Patromierz - statystyki Patronite.pl"
 
 permalink: /MowiacWprost
 ---

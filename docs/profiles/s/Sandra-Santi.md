@@ -1,5 +1,5 @@
 ---
-title: Sandra Santi | Patromierz
+title: Sandra Santi | Patromierz - statystyki Patronite.pl
 
 permalink: /Sandra-Santi
 ---

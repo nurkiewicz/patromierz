@@ -1,5 +1,5 @@
 ---
-title: TeiStacja | Patromierz
+title: TeiStacja | Patromierz - statystyki Patronite.pl
 
 permalink: /teistacja
 ---

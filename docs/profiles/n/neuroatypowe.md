@@ -1,5 +1,5 @@
 ---
-title: Neuroatypowe | Patromierz
+title: Neuroatypowe | Patromierz - statystyki Patronite.pl
 
 permalink: /neuroatypowe
 ---

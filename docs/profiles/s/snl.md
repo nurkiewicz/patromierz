@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Stawiamy na \u0141apy | Patromierz"
+title: "Fundacja Stawiamy na \u0141apy | Patromierz - statystyki Patronite.pl"
 
 permalink: /snl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Firma z zasadami | Patromierz
+title: Firma z zasadami | Patromierz - statystyki Patronite.pl
 
 permalink: /firmazzasadami
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patryk Matu\u0142a | Patromierz"
+title: "Patryk Matu\u0142a | Patromierz - statystyki Patronite.pl"
 
 permalink: /patrykmatula
 ---

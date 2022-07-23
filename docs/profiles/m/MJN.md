@@ -1,5 +1,5 @@
 ---
-title: Miasto Jest Nasze | Patromierz
+title: Miasto Jest Nasze | Patromierz - statystyki Patronite.pl
 
 permalink: /MJN
 ---

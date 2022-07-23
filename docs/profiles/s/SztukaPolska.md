@@ -1,5 +1,5 @@
 ---
-title: Sztuka Polska | Patromierz
+title: Sztuka Polska | Patromierz - statystyki Patronite.pl
 
 permalink: /SztukaPolska
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Kadosz Uwielbienie | Patromierz
+title: Fundacja Kadosz Uwielbienie | Patromierz - statystyki Patronite.pl
 
 permalink: /Kadosz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Yurkosky | Patromierz
+title: Yurkosky | Patromierz - statystyki Patronite.pl
 
 permalink: /Yurkosky
 ---

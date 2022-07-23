@@ -1,5 +1,5 @@
 ---
-title: Radio FortyPlus  | Patromierz
+title: Radio FortyPlus  | Patromierz - statystyki Patronite.pl
 
 permalink: /Radio40plus
 ---

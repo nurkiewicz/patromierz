@@ -1,5 +1,5 @@
 ---
-title: DJ Salis | Patromierz
+title: DJ Salis | Patromierz - statystyki Patronite.pl
 
 permalink: /djsalis
 ---

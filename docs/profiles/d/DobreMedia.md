@@ -1,5 +1,5 @@
 ---
-title: Fundacja "Dobre Media" | Patromierz
+title: Fundacja "Dobre Media" | Patromierz - statystyki Patronite.pl
 
 permalink: /DobreMedia
 ---

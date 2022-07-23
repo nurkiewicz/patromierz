@@ -1,5 +1,5 @@
 ---
-title: Maja Klemp | Patromierz
+title: Maja Klemp | Patromierz - statystyki Patronite.pl
 
 permalink: /majaklemp
 ---

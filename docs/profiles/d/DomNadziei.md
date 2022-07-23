@@ -1,5 +1,5 @@
 ---
-title: DomNadziei | Patromierz
+title: DomNadziei | Patromierz - statystyki Patronite.pl
 
 permalink: /DomNadziei
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fotograf Micha\u0142 Treutler | Patromierz"
+title: "Fotograf Micha\u0142 Treutler | Patromierz - statystyki Patronite.pl"
 
 permalink: /michaltreutler
 ---

@@ -1,5 +1,5 @@
 ---
-title: Proste Sprawy | Patromierz
+title: Proste Sprawy | Patromierz - statystyki Patronite.pl
 
 permalink: /prostesprawy
 ---

@@ -1,5 +1,6 @@
 ---
-title: "\u0141\xF3dzkie Towarzystwo Opieki nad Zwierz\u0119tami | Patromierz"
+title: "\u0141\xF3dzkie Towarzystwo Opieki nad Zwierz\u0119tami | Patromierz - statystyki\
+  \ Patronite.pl"
 
 permalink: /ltonz
 ---

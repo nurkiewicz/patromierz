@@ -1,5 +1,5 @@
 ---
-title: Marian Gromala  | Patromierz
+title: Marian Gromala  | Patromierz - statystyki Patronite.pl
 
 permalink: /podhale
 ---

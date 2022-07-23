@@ -1,5 +1,5 @@
 ---
-title: Karolina Anna | Patromierz
+title: Karolina Anna | Patromierz - statystyki Patronite.pl
 
 permalink: /karolinaanna
 ---

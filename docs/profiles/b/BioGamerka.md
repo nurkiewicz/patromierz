@@ -1,5 +1,5 @@
 ---
-title: BioGamerka  | Patromierz
+title: BioGamerka  | Patromierz - statystyki Patronite.pl
 
 permalink: /BioGamerka
 ---

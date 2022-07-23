@@ -1,5 +1,5 @@
 ---
-title: "Marcin Strzy\u017Cewski | Patromierz"
+title: "Marcin Strzy\u017Cewski | Patromierz - statystyki Patronite.pl"
 
 permalink: /marcinstrzyzewskioRosji
 ---

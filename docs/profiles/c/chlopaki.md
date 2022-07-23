@@ -1,5 +1,5 @@
 ---
-title: "Grupa Performatywna Ch\u0142opaki | Patromierz"
+title: "Grupa Performatywna Ch\u0142opaki | Patromierz - statystyki Patronite.pl"
 
 permalink: /chlopaki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Centrojestestwo | Patromierz
+title: Centrojestestwo | Patromierz - statystyki Patronite.pl
 
 permalink: /centrojestestwo
 ---

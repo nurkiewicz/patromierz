@@ -1,5 +1,5 @@
 ---
-title: Tadeusz Mirczewski | Patromierz
+title: Tadeusz Mirczewski | Patromierz - statystyki Patronite.pl
 
 permalink: /spotkalemmysliwych
 ---

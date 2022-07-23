@@ -1,5 +1,5 @@
 ---
-title: DOMINIK MALUJE | Patromierz
+title: DOMINIK MALUJE | Patromierz - statystyki Patronite.pl
 
 permalink: /DominikMaluje
 ---

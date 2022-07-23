@@ -1,5 +1,5 @@
 ---
-title: sredniowieczny.pl | Patromierz
+title: sredniowieczny.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /sredniowieczny
 ---

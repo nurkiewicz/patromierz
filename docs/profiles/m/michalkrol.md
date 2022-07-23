@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kr\xF3l | Patromierz"
+title: "Micha\u0142 Kr\xF3l | Patromierz - statystyki Patronite.pl"
 
 permalink: /michalkrol
 ---

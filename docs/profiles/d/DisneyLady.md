@@ -1,5 +1,5 @@
 ---
-title: DisneyLady | Patromierz
+title: DisneyLady | Patromierz - statystyki Patronite.pl
 
 permalink: /DisneyLady
 ---

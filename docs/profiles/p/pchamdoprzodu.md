@@ -1,5 +1,5 @@
 ---
-title: Pcham Do Przodu | Patromierz
+title: Pcham Do Przodu | Patromierz - statystyki Patronite.pl
 
 permalink: /pchamdoprzodu
 ---

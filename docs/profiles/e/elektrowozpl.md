@@ -1,5 +1,5 @@
 ---
-title: www.elektrowoz.pl | Patromierz
+title: www.elektrowoz.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /elektrowozpl
 ---

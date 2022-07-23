@@ -1,5 +1,5 @@
 ---
-title: "Ko\u0144 Movie - filmy, seriale | Patromierz"
+title: "Ko\u0144 Movie - filmy, seriale | Patromierz - statystyki Patronite.pl"
 
 permalink: /konmovie
 ---

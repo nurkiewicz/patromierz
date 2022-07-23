@@ -1,5 +1,5 @@
 ---
-title: Kleszcz HORREcTV | Patromierz
+title: Kleszcz HORREcTV | Patromierz - statystyki Patronite.pl
 
 permalink: /KleszczHORREcTV
 ---

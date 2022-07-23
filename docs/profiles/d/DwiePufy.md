@@ -1,5 +1,5 @@
 ---
-title: Dwie Pufy | Patromierz
+title: Dwie Pufy | Patromierz - statystyki Patronite.pl
 
 permalink: /DwiePufy
 ---

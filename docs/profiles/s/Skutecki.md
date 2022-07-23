@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Skutecki | Patromierz"
+title: "Pawe\u0142 Skutecki | Patromierz - statystyki Patronite.pl"
 
 permalink: /Skutecki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Wiedxma | Patromierz
+title: Wiedxma | Patromierz - statystyki Patronite.pl
 
 permalink: /WiedxmaGames
 ---

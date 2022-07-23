@@ -1,5 +1,5 @@
 ---
-title: OSOM | Patromierz
+title: OSOM | Patromierz - statystyki Patronite.pl
 
 permalink: /osom
 ---

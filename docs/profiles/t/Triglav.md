@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Historyczno - Badawcze TRIGLAV | Patromierz
+title: Stowarzyszenie Historyczno - Badawcze TRIGLAV | Patromierz - statystyki Patronite.pl
 
 permalink: /Triglav
 ---

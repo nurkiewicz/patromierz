@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Dudzi\u0144ski | Patromierz"
+title: "Pawe\u0142 Dudzi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /teatrperformer
 ---

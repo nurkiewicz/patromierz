@@ -1,5 +1,5 @@
 ---
-title: "Zupe\u0142nie Inny \u015Awiat | Patromierz"
+title: "Zupe\u0142nie Inny \u015Awiat | Patromierz - statystyki Patronite.pl"
 
 permalink: /zupelnieinnyswiat
 ---

@@ -1,5 +1,5 @@
 ---
-title: WhyBlueSky | Patromierz
+title: WhyBlueSky | Patromierz - statystyki Patronite.pl
 
 permalink: /agata-wilam-whybluesky
 ---

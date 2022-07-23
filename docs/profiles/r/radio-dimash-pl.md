@@ -1,5 +1,5 @@
 ---
-title: RadioDimash.pl    | Patromierz
+title: RadioDimash.pl    | Patromierz - statystyki Patronite.pl
 
 permalink: /radio-dimash-pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Polskie Erpegowanie | Patromierz
+title: Polskie Erpegowanie | Patromierz - statystyki Patronite.pl
 
 permalink: /polskierpg
 ---

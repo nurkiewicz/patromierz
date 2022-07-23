@@ -1,5 +1,5 @@
 ---
-title: OREADA | Patromierz
+title: OREADA | Patromierz - statystyki Patronite.pl
 
 permalink: /oreada
 ---

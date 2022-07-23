@@ -1,5 +1,5 @@
 ---
-title: Akademia Gitary | Patromierz
+title: Akademia Gitary | Patromierz - statystyki Patronite.pl
 
 permalink: /akademiagitary
 ---

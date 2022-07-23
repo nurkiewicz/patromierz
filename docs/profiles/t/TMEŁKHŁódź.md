@@ -1,5 +1,5 @@
 ---
-title: "TME \u0141KH \u0141\xF3d\u017A | Patromierz"
+title: "TME \u0141KH \u0141\xF3d\u017A | Patromierz - statystyki Patronite.pl"
 
 permalink: /TMEŁKHŁódź
 ---

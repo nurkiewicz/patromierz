@@ -1,5 +1,5 @@
 ---
-title: Anna Kurtasz/Inspirow.Anka | Patromierz
+title: Anna Kurtasz/Inspirow.Anka | Patromierz - statystyki Patronite.pl
 
 permalink: /InspirowAnka
 ---

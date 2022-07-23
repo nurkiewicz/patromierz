@@ -1,5 +1,5 @@
 ---
-title: "Pa\u0144stwomiasto | Patromierz"
+title: "Pa\u0144stwomiasto | Patromierz - statystyki Patronite.pl"
 
 permalink: /panstwomiasto
 ---

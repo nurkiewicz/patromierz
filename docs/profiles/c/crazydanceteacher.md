@@ -1,5 +1,5 @@
 ---
-title: Crazy Dance Teacher | Patromierz
+title: Crazy Dance Teacher | Patromierz - statystyki Patronite.pl
 
 permalink: /crazydanceteacher
 ---

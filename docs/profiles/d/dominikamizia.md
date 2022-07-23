@@ -1,5 +1,5 @@
 ---
-title: Dominika Mizia | Patromierz
+title: Dominika Mizia | Patromierz - statystyki Patronite.pl
 
 permalink: /dominikamizia
 ---

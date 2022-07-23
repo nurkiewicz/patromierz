@@ -1,5 +1,5 @@
 ---
-title: Karo Tashi | Patromierz
+title: Karo Tashi | Patromierz - statystyki Patronite.pl
 
 permalink: /karotashi
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kobikowski | Patromierz
+title: Kobikowski | Patromierz - statystyki Patronite.pl
 
 permalink: /kobikowski
 ---

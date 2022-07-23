@@ -1,5 +1,5 @@
 ---
-title: "Le\u015Bny Kawaler | Patromierz"
+title: "Le\u015Bny Kawaler | Patromierz - statystyki Patronite.pl"
 
 permalink: /PrzyrodaAutor
 ---

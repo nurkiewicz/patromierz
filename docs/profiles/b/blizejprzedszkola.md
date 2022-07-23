@@ -1,5 +1,5 @@
 ---
-title: "BLI\u017BEJ PRZEDSZKOLA | Patromierz"
+title: "BLI\u017BEJ PRZEDSZKOLA | Patromierz - statystyki Patronite.pl"
 
 permalink: /blizejprzedszkola
 ---

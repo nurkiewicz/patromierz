@@ -1,5 +1,5 @@
 ---
-title: Jasiek Olejniczak | Patromierz
+title: Jasiek Olejniczak | Patromierz - statystyki Patronite.pl
 
 permalink: /jasiekolejniczak
 ---

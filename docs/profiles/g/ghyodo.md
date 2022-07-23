@@ -1,5 +1,5 @@
 ---
-title: Gabriel Hyodo | Patromierz
+title: Gabriel Hyodo | Patromierz - statystyki Patronite.pl
 
 permalink: /ghyodo
 ---

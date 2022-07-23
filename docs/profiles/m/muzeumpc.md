@@ -1,5 +1,5 @@
 ---
-title: "Muzeum Komputer\xF3w Osobistych | Patromierz"
+title: "Muzeum Komputer\xF3w Osobistych | Patromierz - statystyki Patronite.pl"
 
 permalink: /muzeumpc
 ---

@@ -1,5 +1,5 @@
 ---
-title: Natalia Chamot  | Patromierz
+title: Natalia Chamot  | Patromierz - statystyki Patronite.pl
 
 permalink: /wspolnymianownik
 ---

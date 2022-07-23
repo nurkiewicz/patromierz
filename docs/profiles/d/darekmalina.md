@@ -1,5 +1,5 @@
 ---
-title: Darek Malinowski | Patromierz
+title: Darek Malinowski | Patromierz - statystyki Patronite.pl
 
 permalink: /darekmalina
 ---

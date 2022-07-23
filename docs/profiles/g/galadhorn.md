@@ -1,5 +1,5 @@
 ---
-title: "Ryszard \"Galadhorn\" Derdzi\u0144ski | Patromierz"
+title: "Ryszard \"Galadhorn\" Derdzi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /galadhorn
 ---

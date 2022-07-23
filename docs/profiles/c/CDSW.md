@@ -1,5 +1,5 @@
 ---
-title: Robert Szatecki -  Rycerz, trener i promotor | Patromierz
+title: Robert Szatecki -  Rycerz, trener i promotor | Patromierz - statystyki Patronite.pl
 
 permalink: /CDSW
 ---

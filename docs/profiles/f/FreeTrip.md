@@ -1,5 +1,5 @@
 ---
-title: FreeTrip | Patromierz
+title: FreeTrip | Patromierz - statystyki Patronite.pl
 
 permalink: /FreeTrip
 ---

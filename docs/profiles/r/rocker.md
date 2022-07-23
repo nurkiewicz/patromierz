@@ -1,5 +1,5 @@
 ---
-title: Rocker | Patromierz
+title: Rocker | Patromierz - statystyki Patronite.pl
 
 permalink: /rocker
 ---

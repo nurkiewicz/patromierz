@@ -1,5 +1,5 @@
 ---
-title: Driftingowy Nerd | Patromierz
+title: Driftingowy Nerd | Patromierz - statystyki Patronite.pl
 
 permalink: /driftingowynerd
 ---

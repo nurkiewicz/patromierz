@@ -1,5 +1,5 @@
 ---
-title: "M\xF3wi Wieko | Patromierz"
+title: "M\xF3wi Wieko | Patromierz - statystyki Patronite.pl"
 
 permalink: /mowi-wieko
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kobiety jak Rakiety | Patromierz
+title: Kobiety jak Rakiety | Patromierz - statystyki Patronite.pl
 
 permalink: /kobietyjakrakiety
 ---

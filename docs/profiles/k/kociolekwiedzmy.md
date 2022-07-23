@@ -1,5 +1,5 @@
 ---
-title: "Kocio\u0142ek Wied\u017Amy - Agnieszka Waszak | Patromierz"
+title: "Kocio\u0142ek Wied\u017Amy - Agnieszka Waszak | Patromierz - statystyki Patronite.pl"
 
 permalink: /kociolekwiedzmy
 ---

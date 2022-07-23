@@ -1,5 +1,5 @@
 ---
-title: "Podlaska pi\u0142ka | Patromierz"
+title: "Podlaska pi\u0142ka | Patromierz - statystyki Patronite.pl"
 
 permalink: /podlaskapiłka
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jacaki - \u017Bycie na Maxa | Patromierz"
+title: "Jacaki - \u017Bycie na Maxa | Patromierz - statystyki Patronite.pl"
 
 permalink: /jacakizycienamaxa
 ---

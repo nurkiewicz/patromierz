@@ -1,5 +1,5 @@
 ---
-title: Blaugrana.pl | Patromierz
+title: Blaugrana.pl | Patromierz - statystyki Patronite.pl
 
 permalink: /blaugranapl
 ---

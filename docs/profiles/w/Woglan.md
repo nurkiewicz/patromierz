@@ -1,5 +1,5 @@
 ---
-title: Cham i Prostak | Patromierz
+title: Cham i Prostak | Patromierz - statystyki Patronite.pl
 
 permalink: /Woglan
 ---

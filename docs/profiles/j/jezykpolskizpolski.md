@@ -1,6 +1,6 @@
 ---
 title: "J\u0119zyk polski z Polski / Darmowe lekcje polskiego dla uchod\u017Ac\xF3\
-  w | Patromierz"
+  w | Patromierz - statystyki Patronite.pl"
 
 permalink: /jezykpolskizpolski
 ---

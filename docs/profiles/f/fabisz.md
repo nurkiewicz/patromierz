@@ -1,5 +1,5 @@
 ---
-title: Fabisz | Patromierz
+title: Fabisz | Patromierz - statystyki Patronite.pl
 
 permalink: /fabisz
 ---

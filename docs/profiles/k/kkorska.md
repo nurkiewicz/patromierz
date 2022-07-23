@@ -1,5 +1,5 @@
 ---
-title: Kinga Korska | Patromierz
+title: Kinga Korska | Patromierz - statystyki Patronite.pl
 
 permalink: /kkorska
 ---

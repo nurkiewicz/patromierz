@@ -1,5 +1,5 @@
 ---
-title: Ford Focus MK3 Zetec S | Patromierz
+title: Ford Focus MK3 Zetec S | Patromierz - statystyki Patronite.pl
 
 permalink: /Focus
 ---

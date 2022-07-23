@@ -1,5 +1,5 @@
 ---
-title: Meteomodel | Patromierz
+title: Meteomodel | Patromierz - statystyki Patronite.pl
 
 permalink: /meteomodel
 ---

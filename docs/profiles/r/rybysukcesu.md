@@ -1,5 +1,5 @@
 ---
-title: Ryby Sukcesu | Patromierz
+title: Ryby Sukcesu | Patromierz - statystyki Patronite.pl
 
 permalink: /rybysukcesu
 ---

@@ -1,5 +1,5 @@
 ---
-title: DSR Czarna Owca | Patromierz
+title: DSR Czarna Owca | Patromierz - statystyki Patronite.pl
 
 permalink: /DSRCzarnaOwca
 ---

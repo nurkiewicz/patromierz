@@ -1,5 +1,5 @@
 ---
-title: "Grzegorz P\u0142aczek | Patromierz"
+title: "Grzegorz P\u0142aczek | Patromierz - statystyki Patronite.pl"
 
 permalink: /moja-polska
 ---

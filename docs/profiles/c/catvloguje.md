@@ -1,5 +1,5 @@
 ---
-title: Cat Vloguje | Patromierz
+title: Cat Vloguje | Patromierz - statystyki Patronite.pl
 
 permalink: /catvloguje
 ---

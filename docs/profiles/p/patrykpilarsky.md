@@ -1,5 +1,5 @@
 ---
-title: patryk_pilarsky | Patromierz
+title: patryk_pilarsky | Patromierz - statystyki Patronite.pl
 
 permalink: /patrykpilarsky
 ---

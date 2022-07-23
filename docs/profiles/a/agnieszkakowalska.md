@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Kowalska | Patromierz
+title: Agnieszka Kowalska | Patromierz - statystyki Patronite.pl
 
 permalink: /agnieszkakowalska
 ---

@@ -1,5 +1,5 @@
 ---
-title: radzio FLAT OUT | Patromierz
+title: radzio FLAT OUT | Patromierz - statystyki Patronite.pl
 
 permalink: /radzioflatout
 ---

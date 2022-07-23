@@ -1,5 +1,5 @@
 ---
-title: Paulina Serwin | Patromierz
+title: Paulina Serwin | Patromierz - statystyki Patronite.pl
 
 permalink: /Lullabydraws
 ---

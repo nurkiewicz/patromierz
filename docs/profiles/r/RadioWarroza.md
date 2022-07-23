@@ -1,5 +1,5 @@
 ---
-title: Radio Warroza | Patromierz
+title: Radio Warroza | Patromierz - statystyki Patronite.pl
 
 permalink: /RadioWarroza
 ---

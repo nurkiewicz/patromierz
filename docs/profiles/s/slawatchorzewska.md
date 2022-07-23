@@ -1,5 +1,5 @@
 ---
-title: "S\u0142awa Tch\xF3rzewska | Patromierz"
+title: "S\u0142awa Tch\xF3rzewska | Patromierz - statystyki Patronite.pl"
 
 permalink: /slawatchorzewska
 ---

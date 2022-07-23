@@ -1,5 +1,5 @@
 ---
-title: "\u015Awiat Warhammer 40000 i Warhammer Fantasy | Patromierz"
+title: "\u015Awiat Warhammer 40000 i Warhammer Fantasy | Patromierz - statystyki Patronite.pl"
 
 permalink: /wojtekczytaWH40K
 ---

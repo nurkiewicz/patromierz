@@ -1,5 +1,5 @@
 ---
-title: Fundacja Wolne Miejsce | Patromierz
+title: Fundacja Wolne Miejsce | Patromierz - statystyki Patronite.pl
 
 permalink: /FundacjaWolneMiejsce
 ---

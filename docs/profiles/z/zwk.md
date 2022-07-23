@@ -1,5 +1,5 @@
 ---
-title: "Inicjatywa \"Zranieni w Ko\u015Bciele\" | Patromierz"
+title: "Inicjatywa \"Zranieni w Ko\u015Bciele\" | Patromierz - statystyki Patronite.pl"
 
 permalink: /zwk
 ---

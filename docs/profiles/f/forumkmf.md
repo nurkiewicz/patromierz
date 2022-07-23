@@ -1,5 +1,5 @@
 ---
-title: Forum KMF | Patromierz
+title: Forum KMF | Patromierz - statystyki Patronite.pl
 
 permalink: /forumkmf
 ---

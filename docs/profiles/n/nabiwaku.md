@@ -1,5 +1,5 @@
 ---
-title: NaBiwaku.eu | Patromierz
+title: NaBiwaku.eu | Patromierz - statystyki Patronite.pl
 
 permalink: /nabiwaku
 ---

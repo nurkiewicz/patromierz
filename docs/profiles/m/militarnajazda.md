@@ -1,5 +1,6 @@
 ---
-title: Militarnajazda - Przewodnik po Atrakcjach Militarnych Polski | Patromierz
+title: Militarnajazda - Przewodnik po Atrakcjach Militarnych Polski | Patromierz -
+  statystyki Patronite.pl
 
 permalink: /militarnajazda
 ---

@@ -1,5 +1,5 @@
 ---
-title: Maurycy Polaski | Patromierz
+title: Maurycy Polaski | Patromierz - statystyki Patronite.pl
 
 permalink: /maurycypolaski
 ---

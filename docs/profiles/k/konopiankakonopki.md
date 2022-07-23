@@ -1,5 +1,5 @@
 ---
-title: Konopianka Konopki | Patromierz
+title: Konopianka Konopki | Patromierz - statystyki Patronite.pl
 
 permalink: /konopiankakonopki
 ---

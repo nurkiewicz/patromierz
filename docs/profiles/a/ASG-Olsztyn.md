@@ -1,5 +1,5 @@
 ---
-title: Adam Ulatowski | Patromierz
+title: Adam Ulatowski | Patromierz - statystyki Patronite.pl
 
 permalink: /ASG-Olsztyn
 ---

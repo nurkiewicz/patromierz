@@ -1,5 +1,5 @@
 ---
-title: "Internet. Czas dzia\u0142a\u0107! | Patromierz"
+title: "Internet. Czas dzia\u0142a\u0107! | Patromierz - statystyki Patronite.pl"
 
 permalink: /internet-czas-dzialac
 ---

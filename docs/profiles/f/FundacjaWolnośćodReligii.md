@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Wolno\u015B\u0107 od Religii | Patromierz"
+title: "Fundacja Wolno\u015B\u0107 od Religii | Patromierz - statystyki Patronite.pl"
 
 permalink: /FundacjaWolnośćodReligii
 ---

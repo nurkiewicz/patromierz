@@ -1,5 +1,5 @@
 ---
-title: Local Healer | Patromierz
+title: Local Healer | Patromierz - statystyki Patronite.pl
 
 permalink: /localhealer
 ---

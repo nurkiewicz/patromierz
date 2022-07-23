@@ -1,5 +1,5 @@
 ---
-title: "J\u0119zykowe Kontrowersje | Patromierz"
+title: "J\u0119zykowe Kontrowersje | Patromierz - statystyki Patronite.pl"
 
 permalink: /jezykowe_kontrowersje
 ---

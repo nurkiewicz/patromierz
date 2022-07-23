@@ -1,5 +1,5 @@
 ---
-title: "Budnik i Pokrzywi\u0144ski | Patromierz"
+title: "Budnik i Pokrzywi\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /budnikipokrzywinski
 ---

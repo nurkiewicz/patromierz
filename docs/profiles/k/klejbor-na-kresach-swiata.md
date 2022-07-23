@@ -1,5 +1,5 @@
 ---
-title: "Klejbor na Kresach \u015Awiata | Patromierz"
+title: "Klejbor na Kresach \u015Awiata | Patromierz - statystyki Patronite.pl"
 
 permalink: /klejbor-na-kresach-swiata
 ---

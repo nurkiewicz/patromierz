@@ -1,5 +1,5 @@
 ---
-title: '#GryCharytatywne | Patromierz'
+title: '#GryCharytatywne | Patromierz - statystyki Patronite.pl'
 
 permalink: /grycharytatywne
 ---

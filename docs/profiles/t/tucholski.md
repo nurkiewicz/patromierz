@@ -1,5 +1,5 @@
 ---
-title: Andrzej Tucholski | Patromierz
+title: Andrzej Tucholski | Patromierz - statystyki Patronite.pl
 
 permalink: /tucholski
 ---

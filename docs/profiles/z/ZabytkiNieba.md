@@ -1,5 +1,5 @@
 ---
-title: Zabytki Nieba | Patromierz
+title: Zabytki Nieba | Patromierz - statystyki Patronite.pl
 
 permalink: /ZabytkiNieba
 ---

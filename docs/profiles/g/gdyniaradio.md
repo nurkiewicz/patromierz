@@ -1,5 +1,5 @@
 ---
-title: Gdynia Radio | Patromierz
+title: Gdynia Radio | Patromierz - statystyki Patronite.pl
 
 permalink: /gdyniaradio
 ---

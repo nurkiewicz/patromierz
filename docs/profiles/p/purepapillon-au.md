@@ -1,5 +1,5 @@
 ---
-title: PurePapillon - Alternatywne Uniwersa  | Patromierz
+title: PurePapillon - Alternatywne Uniwersa  | Patromierz - statystyki Patronite.pl
 
 permalink: /purepapillon-au
 ---

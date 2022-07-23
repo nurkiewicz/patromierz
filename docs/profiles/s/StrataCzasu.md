@@ -1,5 +1,5 @@
 ---
-title: Strata Czasu | Patromierz
+title: Strata Czasu | Patromierz - statystyki Patronite.pl
 
 permalink: /StrataCzasu
 ---

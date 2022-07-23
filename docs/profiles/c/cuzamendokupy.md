@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Marcinkowska | Patromierz
+title: Agnieszka Marcinkowska | Patromierz - statystyki Patronite.pl
 
 permalink: /cuzamendokupy
 ---

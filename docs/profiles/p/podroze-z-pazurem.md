@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017Ce z Pazurem | Patromierz"
+title: "Podr\xF3\u017Ce z Pazurem | Patromierz - statystyki Patronite.pl"
 
 permalink: /podroze-z-pazurem
 ---

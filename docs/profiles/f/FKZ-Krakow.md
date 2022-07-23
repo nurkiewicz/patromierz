@@ -1,5 +1,5 @@
 ---
-title: "Festiwal Kultury \u017Bydowskiej w Krakowie | Patromierz"
+title: "Festiwal Kultury \u017Bydowskiej w Krakowie | Patromierz - statystyki Patronite.pl"
 
 permalink: /FKZ-Krakow
 ---

@@ -1,5 +1,5 @@
 ---
-title: Loesje | Patromierz
+title: Loesje | Patromierz - statystyki Patronite.pl
 
 permalink: /Loesje
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pos\u0142uchaj o Zbrodni/ Z Autopsji | Patromierz"
+title: "Pos\u0142uchaj o Zbrodni/ Z Autopsji | Patromierz - statystyki Patronite.pl"
 
 permalink: /posluchajozbrodni
 ---

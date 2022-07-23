@@ -1,5 +1,5 @@
 ---
-title: "ks. Maciej S\u0142y\u017C  | Patromierz"
+title: "ks. Maciej S\u0142y\u017C  | Patromierz - statystyki Patronite.pl"
 
 permalink: /xmslyz
 ---

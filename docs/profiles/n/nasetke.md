@@ -1,5 +1,5 @@
 ---
-title: "Na Setk\u0119 | Patromierz"
+title: "Na Setk\u0119 | Patromierz - statystyki Patronite.pl"
 
 permalink: /nasetke
 ---

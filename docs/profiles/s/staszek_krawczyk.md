@@ -1,5 +1,5 @@
 ---
-title: Staszek Krawczyk | Patromierz
+title: Staszek Krawczyk | Patromierz - statystyki Patronite.pl
 
 permalink: /staszek_krawczyk
 ---

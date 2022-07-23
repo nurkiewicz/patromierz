@@ -1,5 +1,5 @@
 ---
-title: "Maciej Or\u0142o\u015B | Patromierz"
+title: "Maciej Or\u0142o\u015B | Patromierz - statystyki Patronite.pl"
 
 permalink: /maciejorlos
 ---

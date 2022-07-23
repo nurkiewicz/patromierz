@@ -1,5 +1,5 @@
 ---
-title: Magistra Pigularka | Patromierz
+title: Magistra Pigularka | Patromierz - statystyki Patronite.pl
 
 permalink: /magistra-pigularka
 ---

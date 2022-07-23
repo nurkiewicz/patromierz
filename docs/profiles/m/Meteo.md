@@ -1,6 +1,6 @@
 ---
 title: "\"Sorry. Taki mamy klimat\", czyli pogoda pod oknem Jaros\u0142awa Tura\u0142\
-  y | Patromierz"
+  y | Patromierz - statystyki Patronite.pl"
 
 permalink: /Meteo
 ---

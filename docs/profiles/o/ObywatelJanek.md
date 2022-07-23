@@ -1,5 +1,5 @@
 ---
-title: Obywatel Janek | Patromierz
+title: Obywatel Janek | Patromierz - statystyki Patronite.pl
 
 permalink: /ObywatelJanek
 ---

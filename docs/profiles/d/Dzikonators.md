@@ -1,5 +1,5 @@
 ---
-title: Dzikonators | Patromierz
+title: Dzikonators | Patromierz - statystyki Patronite.pl
 
 permalink: /Dzikonators
 ---

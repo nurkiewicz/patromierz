@@ -1,5 +1,5 @@
 ---
-title: Marcin Mizgalski | Patromierz
+title: Marcin Mizgalski | Patromierz - statystyki Patronite.pl
 
 permalink: /MarcinMizgalski
 ---

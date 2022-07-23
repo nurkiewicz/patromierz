@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Filmowa Powo\u0142any | Patromierz"
+title: "Fundacja Filmowa Powo\u0142any | Patromierz - statystyki Patronite.pl"
 
 permalink: /FundacjaFilmowaPowolany
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kuracyja | Patromierz
+title: Kuracyja | Patromierz - statystyki Patronite.pl
 
 permalink: /kuracyja
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Podkast ameryka\u0144ski | Patromierz"
+title: "Podkast ameryka\u0144ski | Patromierz - statystyki Patronite.pl"
 
 permalink: /podkastamerykanski
 ---

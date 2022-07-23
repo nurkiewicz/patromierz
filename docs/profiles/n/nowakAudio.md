@@ -1,5 +1,5 @@
 ---
-title: nowakAudio | Patromierz
+title: nowakAudio | Patromierz - statystyki Patronite.pl
 
 permalink: /nowakAudio
 ---

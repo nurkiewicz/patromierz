@@ -1,5 +1,5 @@
 ---
-title: Kat Shakti | Patromierz
+title: Kat Shakti | Patromierz - statystyki Patronite.pl
 
 permalink: /katshakti
 ---

@@ -1,5 +1,5 @@
 ---
-title: Drugi Seans | Patromierz
+title: Drugi Seans | Patromierz - statystyki Patronite.pl
 
 permalink: /drugiseans
 ---
