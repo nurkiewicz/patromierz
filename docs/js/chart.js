@@ -1,4 +1,4 @@
-google.charts.load('current', { packages: ['corechart', 'line'], language: 'pl' });
+google.charts.load('current', { packages: ['corechart', 'line', 'bar'], language: 'pl' });
 
 const explorer = { 
     actions: ['dragToZoom', 'rightClickToReset'],
@@ -58,6 +58,25 @@ function drawBasic(data, column, id, label, format) {
         };
         var chart = new google.visualization.LineChart(document.getElementById(id));
         chart.draw(dt, options);
+    });
+}
+
+function drawHorizontal(data, id) {
+    google.charts.setOnLoadCallback(() => {
+        data.unshift(['Profil', 'Zmiana w ciągu 7 dni']);
+        var materialChart = new google.charts.Bar(document.getElementById(id));
+        materialChart.draw(google.visualization.arrayToDataTable(data), {
+            bars: 'horizontal',
+            legend: {
+                position: 'none'
+            },
+            hAxis: {
+                format: 'currency'
+            },
+            vAxis: {
+                format: 'currency'
+            },
+        });
     });
 }
 
