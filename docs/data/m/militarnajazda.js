@@ -120,4 +120,5 @@ profiles["militarnajazda"] = [
 	[1658808631,5,1,5.0,20,null],
 	[1658894974,5,1,5.0,20,null],
 	[1658981699,null,1,null,20,null],
+	[1659067834,null,1,null,20,null],
 ];
