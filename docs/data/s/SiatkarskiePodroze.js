@@ -120,4 +120,5 @@ profiles["SiatkarskiePodroze"] = [
 	[1659060793,5,1,5.0,20,null],
 	[1659147103,5,1,5.0,20,null],
 	[1659233479,null,1,null,20,null],
+	[1659319929,null,1,null,20,null],
 ];
