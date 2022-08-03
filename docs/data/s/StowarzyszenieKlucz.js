@@ -185,4 +185,5 @@ profiles["StowarzyszenieKlucz"] = [
 	[1659233697,10,1,10.0,230,null],
 	[1659320156,10,1,10.0,230,null],
 	[1659406551,null,1,null,230,null],
+	[1659493017,null,1,null,230,null],
 ];
