@@ -69,4 +69,5 @@ profiles["francois"] = [
 	[1649045685,null,null,null,2520,null],
 	[1649069634,null,null,null,2520,null],
 	[1659496651,50,2,25.0,2570,null],
+	[1659582896,60,3,20.0,2580,null],
 ];
