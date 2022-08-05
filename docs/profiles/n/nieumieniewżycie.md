@@ -1,5 +1,5 @@
 ---
-title: "Nieumienie w \u017Cycie | Patromierz - statystyki Patronite.pl"
+title: "Nieumienie w \u017Cycie | Patromierz"
 
 permalink: /nieumieniewżycie
 ---

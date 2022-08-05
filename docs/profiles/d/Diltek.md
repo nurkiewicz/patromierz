@@ -1,5 +1,5 @@
 ---
-title: Diltek | Patromierz - statystyki Patronite.pl
+title: Diltek | Patromierz
 
 permalink: /Diltek
 ---

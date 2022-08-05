@@ -1,6 +1,5 @@
 ---
-title: "Filmowe zwierz\u0119ta - blog o postaciach zwierz\u0119cych w kinie | Patromierz\
-  \ - statystyki Patronite.pl"
+title: "Filmowe zwierz\u0119ta - blog o postaciach zwierz\u0119cych w kinie | Patromierz"
 
 permalink: /filmowe-zwierzeta
 ---

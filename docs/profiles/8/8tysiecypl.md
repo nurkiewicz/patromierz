@@ -1,5 +1,5 @@
 ---
-title: 8tysiecy.pl | Patromierz - statystyki Patronite.pl
+title: 8tysiecy.pl | Patromierz
 
 permalink: /8tysiecypl
 ---

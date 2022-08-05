@@ -1,5 +1,5 @@
 ---
-title: Niunia posting | Patromierz - statystyki Patronite.pl
+title: Niunia posting | Patromierz
 
 permalink: /niuniaposting
 ---

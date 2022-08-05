@@ -1,5 +1,5 @@
 ---
-title: "O rany, J\xF3zek! | Patromierz - statystyki Patronite.pl"
+title: "O rany, J\xF3zek! | Patromierz"
 
 permalink: /Jozektargosz
 ---

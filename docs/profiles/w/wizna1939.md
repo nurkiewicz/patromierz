@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie "Wizna 1939" | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie "Wizna 1939" | Patromierz
 
 permalink: /wizna1939
 ---

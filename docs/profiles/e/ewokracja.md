@@ -1,5 +1,5 @@
 ---
-title: Ewokracja | Patromierz - statystyki Patronite.pl
+title: Ewokracja | Patromierz
 
 permalink: /ewokracja
 ---

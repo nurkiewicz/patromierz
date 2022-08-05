@@ -1,5 +1,5 @@
 ---
-title: Perch Professor | Patromierz - statystyki Patronite.pl
+title: Perch Professor | Patromierz
 
 permalink: /perchprofessor
 ---

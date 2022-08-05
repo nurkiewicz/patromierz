@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142osz Szyma\u0144ski | Patromierz - statystyki Patronite.pl"
+title: "Mi\u0142osz Szyma\u0144ski | Patromierz"
 
 permalink: /miloszszymanski
 ---

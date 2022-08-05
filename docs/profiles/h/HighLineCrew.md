@@ -1,5 +1,5 @@
 ---
-title: HighLineCrew | Patromierz - statystyki Patronite.pl
+title: HighLineCrew | Patromierz
 
 permalink: /HighLineCrew
 ---

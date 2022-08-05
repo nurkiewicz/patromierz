@@ -1,6 +1,5 @@
 ---
-title: "Podcast Prowincjonalny zaprasza \u0141ukasz Dziedzic | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Podcast Prowincjonalny zaprasza \u0141ukasz Dziedzic | Patromierz"
 
 permalink: /podcastprowincjonalny
 ---

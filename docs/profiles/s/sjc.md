@@ -1,6 +1,5 @@
 ---
-title: "Stowarzyszenie Muzyczne \u015Al\u0105ski Jazz Club | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Stowarzyszenie Muzyczne \u015Al\u0105ski Jazz Club | Patromierz"
 
 permalink: /sjc
 ---

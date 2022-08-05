@@ -1,5 +1,5 @@
 ---
-title: podczas modlitwy | Patromierz - statystyki Patronite.pl
+title: podczas modlitwy | Patromierz
 
 permalink: /podczasmodlitwy
 ---

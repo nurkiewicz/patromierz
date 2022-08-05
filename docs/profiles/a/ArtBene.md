@@ -1,5 +1,5 @@
 ---
-title: ArtBene | Patromierz - statystyki Patronite.pl
+title: ArtBene | Patromierz
 
 permalink: /ArtBene
 ---

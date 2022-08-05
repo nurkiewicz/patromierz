@@ -1,5 +1,5 @@
 ---
-title: Marie | Patromierz - statystyki Patronite.pl
+title: Marie | Patromierz
 
 permalink: /mariesomarie
 ---

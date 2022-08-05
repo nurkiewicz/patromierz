@@ -1,5 +1,5 @@
 ---
-title: Nowa Konfederacja | Patromierz - statystyki Patronite.pl
+title: Nowa Konfederacja | Patromierz
 
 permalink: /nowakonfederacja
 ---

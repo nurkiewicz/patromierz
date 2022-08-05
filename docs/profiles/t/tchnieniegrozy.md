@@ -1,5 +1,5 @@
 ---
-title: Tchnienie Grozy | Patromierz - statystyki Patronite.pl
+title: Tchnienie Grozy | Patromierz
 
 permalink: /tchnieniegrozy
 ---

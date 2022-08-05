@@ -1,5 +1,5 @@
 ---
-title: "Polska Federacja W\u0119dkarstwa Karpiowego | Patromierz - statystyki Patronite.pl"
+title: "Polska Federacja W\u0119dkarstwa Karpiowego | Patromierz"
 
 permalink: /PFWK
 ---

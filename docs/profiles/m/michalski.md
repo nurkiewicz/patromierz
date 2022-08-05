@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142  Michalski | Patromierz - statystyki Patronite.pl"
+title: "Pawe\u0142  Michalski | Patromierz"
 
 permalink: /michalski
 ---

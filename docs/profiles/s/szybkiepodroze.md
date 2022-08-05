@@ -1,5 +1,5 @@
 ---
-title: "Szybkie Podr\xF3\u017Ce | Patromierz - statystyki Patronite.pl"
+title: "Szybkie Podr\xF3\u017Ce | Patromierz"
 
 permalink: /szybkiepodroze
 ---

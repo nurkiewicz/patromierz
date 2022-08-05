@@ -1,6 +1,6 @@
 ---
 title: "FUNDACJA NA RZECZ OBRONNO\u015ACI I BEZPIECZE\u0143STWA KRAJU \"COMBAT ALERT\"\
-  \ | Patromierz - statystyki Patronite.pl"
+  \ | Patromierz"
 
 permalink: /combatalert
 ---

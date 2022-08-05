@@ -1,5 +1,5 @@
 ---
-title: "Diego Lopez \u2013 Sztuka Argumentacji | Patromierz - statystyki Patronite.pl"
+title: "Diego Lopez \u2013 Sztuka Argumentacji | Patromierz"
 
 permalink: /diego-lopez
 ---

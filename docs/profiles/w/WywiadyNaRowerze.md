@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Marks - Wywiady na Rowerze | Patromierz - statystyki Patronite.pl"
+title: "\u0141ukasz Marks - Wywiady na Rowerze | Patromierz"
 
 permalink: /WywiadyNaRowerze
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Eugeniusz Tiemnikow (\u017Benia) | Patromierz - statystyki Patronite.pl"
+title: "Eugeniusz Tiemnikow (\u017Benia) | Patromierz"
 
 permalink: /MuzykaSeniora
 ---

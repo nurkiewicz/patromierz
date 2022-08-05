@@ -1,5 +1,5 @@
 ---
-title: "Fundacja DAJ HERBAT\u0118 | Patromierz - statystyki Patronite.pl"
+title: "Fundacja DAJ HERBAT\u0118 | Patromierz"
 
 permalink: /dajherbate
 ---

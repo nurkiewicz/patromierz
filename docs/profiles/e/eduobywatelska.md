@@ -1,5 +1,5 @@
 ---
-title: Fundacja Edukacji Obywatelskiej | Patromierz - statystyki Patronite.pl
+title: Fundacja Edukacji Obywatelskiej | Patromierz
 
 permalink: /eduobywatelska
 ---

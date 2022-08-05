@@ -1,5 +1,5 @@
 ---
-title: cesarzowa_niskich_cen | Patromierz - statystyki Patronite.pl
+title: cesarzowa_niskich_cen | Patromierz
 
 permalink: /cesarzowaniskichcen
 ---

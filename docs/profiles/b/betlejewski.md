@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Betlejewski | Patromierz - statystyki Patronite.pl"
+title: "Rafa\u0142 Betlejewski | Patromierz"
 
 permalink: /betlejewski
 ---

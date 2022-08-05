@@ -1,5 +1,5 @@
 ---
-title: Geek Factor | Patromierz - statystyki Patronite.pl
+title: Geek Factor | Patromierz
 
 permalink: /GeekFactor
 ---

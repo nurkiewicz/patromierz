@@ -1,5 +1,5 @@
 ---
-title: Prezydentka Internetu | Patromierz - statystyki Patronite.pl
+title: Prezydentka Internetu | Patromierz
 
 permalink: /aranaq
 ---

@@ -1,5 +1,5 @@
 ---
-title: PLATEAU | Patromierz - statystyki Patronite.pl
+title: PLATEAU | Patromierz
 
 permalink: /plateau
 ---

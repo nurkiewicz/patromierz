@@ -1,5 +1,5 @@
 ---
-title: mytaple | Patromierz - statystyki Patronite.pl
+title: mytaple | Patromierz
 
 permalink: /MyTaple
 ---

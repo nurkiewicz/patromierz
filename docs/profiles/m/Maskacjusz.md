@@ -1,5 +1,5 @@
 ---
-title: Maskacjusz | Patromierz - statystyki Patronite.pl
+title: Maskacjusz | Patromierz
 
 permalink: /Maskacjusz
 ---

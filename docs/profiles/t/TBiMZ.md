@@ -1,5 +1,5 @@
 ---
-title: Telefony bardziej i mniej znane (TBiMZ) | Patromierz - statystyki Patronite.pl
+title: Telefony bardziej i mniej znane (TBiMZ) | Patromierz
 
 permalink: /TBiMZ
 ---

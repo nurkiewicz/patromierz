@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Bil | Patromierz - statystyki Patronite.pl"
+title: "Rafa\u0142 Bil | Patromierz"
 
 permalink: /rafalbil
 ---

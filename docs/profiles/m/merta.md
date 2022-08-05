@@ -1,5 +1,5 @@
 ---
-title: Merta | Patromierz - statystyki Patronite.pl
+title: Merta | Patromierz
 
 permalink: /merta
 ---

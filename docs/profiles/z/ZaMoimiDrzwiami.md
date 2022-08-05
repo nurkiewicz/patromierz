@@ -1,5 +1,5 @@
 ---
-title: Za Moimi Drzwiami  | Patromierz - statystyki Patronite.pl
+title: Za Moimi Drzwiami  | Patromierz
 
 permalink: /ZaMoimiDrzwiami
 ---

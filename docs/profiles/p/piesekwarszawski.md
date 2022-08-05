@@ -1,5 +1,5 @@
 ---
-title: PIESEK WARSZAWSKI | Patromierz - statystyki Patronite.pl
+title: PIESEK WARSZAWSKI | Patromierz
 
 permalink: /piesekwarszawski
 ---

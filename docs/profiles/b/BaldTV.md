@@ -1,5 +1,5 @@
 ---
-title: BaldTV | Patromierz - statystyki Patronite.pl
+title: BaldTV | Patromierz
 
 permalink: /BaldTV
 ---

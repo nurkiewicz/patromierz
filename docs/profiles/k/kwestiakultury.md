@@ -1,5 +1,5 @@
 ---
-title: Kwestia Kultury | Patromierz - statystyki Patronite.pl
+title: Kwestia Kultury | Patromierz
 
 permalink: /kwestiakultury
 ---

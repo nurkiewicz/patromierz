@@ -1,5 +1,5 @@
 ---
-title: Ucieczka z Arkham | Patromierz - statystyki Patronite.pl
+title: Ucieczka z Arkham | Patromierz
 
 permalink: /ucieczkazarkham
 ---

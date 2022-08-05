@@ -1,5 +1,5 @@
 ---
-title: "Historia w roli g\u0142\xF3wnej | Patromierz - statystyki Patronite.pl"
+title: "Historia w roli g\u0142\xF3wnej | Patromierz"
 
 permalink: /HWRG
 ---

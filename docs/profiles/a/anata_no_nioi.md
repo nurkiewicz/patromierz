@@ -1,5 +1,5 @@
 ---
-title: Anata no nioi | Patromierz - statystyki Patronite.pl
+title: Anata no nioi | Patromierz
 
 permalink: /anata_no_nioi
 ---

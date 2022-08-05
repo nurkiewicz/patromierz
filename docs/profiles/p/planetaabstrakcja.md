@@ -1,5 +1,5 @@
 ---
-title: Planeta Abstrakcja | Patromierz - statystyki Patronite.pl
+title: Planeta Abstrakcja | Patromierz
 
 permalink: /planetaabstrakcja
 ---

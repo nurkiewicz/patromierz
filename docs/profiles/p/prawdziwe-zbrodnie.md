@@ -1,5 +1,5 @@
 ---
-title: Prawdziwe Zbrodnie Podcast | Patromierz - statystyki Patronite.pl
+title: Prawdziwe Zbrodnie Podcast | Patromierz
 
 permalink: /prawdziwe-zbrodnie
 ---

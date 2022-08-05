@@ -1,5 +1,5 @@
 ---
-title: Poland On Air | Patromierz - statystyki Patronite.pl
+title: Poland On Air | Patromierz
 
 permalink: /polandonair
 ---

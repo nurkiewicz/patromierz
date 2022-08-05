@@ -1,5 +1,5 @@
 ---
-title: NoworudzianiN | Patromierz - statystyki Patronite.pl
+title: NoworudzianiN | Patromierz
 
 permalink: /Noworudzianin
 ---

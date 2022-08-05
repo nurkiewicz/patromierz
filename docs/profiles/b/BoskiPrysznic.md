@@ -1,5 +1,5 @@
 ---
-title: Boski Prysznic | Patromierz - statystyki Patronite.pl
+title: Boski Prysznic | Patromierz
 
 permalink: /BoskiPrysznic
 ---

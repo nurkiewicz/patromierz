@@ -1,5 +1,5 @@
 ---
-title: "DOM SPOKOJNEJ KSI\u0104\u017BKI | Patromierz - statystyki Patronite.pl"
+title: "DOM SPOKOJNEJ KSI\u0104\u017BKI | Patromierz"
 
 permalink: /domspokojnejksiazki
 ---

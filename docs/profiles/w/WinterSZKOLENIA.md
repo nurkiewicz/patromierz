@@ -1,5 +1,5 @@
 ---
-title: ' Winter SZKOLENIA / Royal Tact-X | Patromierz - statystyki Patronite.pl'
+title: ' Winter SZKOLENIA / Royal Tact-X | Patromierz'
 
 permalink: /WinterSZKOLENIA
 ---

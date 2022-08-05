@@ -1,5 +1,5 @@
 ---
-title: "Nie wiem, ale si\u0119 dowiem! | Patromierz - statystyki Patronite.pl"
+title: "Nie wiem, ale si\u0119 dowiem! | Patromierz"
 
 permalink: /niewiemalesiedowiem
 ---

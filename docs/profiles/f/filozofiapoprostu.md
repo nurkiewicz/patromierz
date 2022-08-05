@@ -1,5 +1,5 @@
 ---
-title: Filozofia Po Prostu | Patromierz - statystyki Patronite.pl
+title: Filozofia Po Prostu | Patromierz
 
 permalink: /filozofiapoprostu
 ---

@@ -1,5 +1,5 @@
 ---
-title: KetoReva.pl | Patromierz - statystyki Patronite.pl
+title: KetoReva.pl | Patromierz
 
 permalink: /ketoreva
 ---

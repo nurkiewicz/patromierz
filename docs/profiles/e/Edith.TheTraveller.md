@@ -1,5 +1,5 @@
 ---
-title: Edyta Krakowiak | Patromierz - statystyki Patronite.pl
+title: Edyta Krakowiak | Patromierz
 
 permalink: /Edith.TheTraveller
 ---

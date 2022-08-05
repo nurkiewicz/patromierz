@@ -1,5 +1,5 @@
 ---
-title: "Szcz\u0119\u015Bliwy Ziemniak | Patromierz - statystyki Patronite.pl"
+title: "Szcz\u0119\u015Bliwy Ziemniak | Patromierz"
 
 permalink: /szczesliwyziemniak
 ---

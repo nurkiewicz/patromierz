@@ -1,5 +1,5 @@
 ---
-title: Tawerna Bajarza | Patromierz - statystyki Patronite.pl
+title: Tawerna Bajarza | Patromierz
 
 permalink: /TawernaBajarza
 ---

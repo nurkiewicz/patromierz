@@ -1,5 +1,5 @@
 ---
-title: rodoRADIO by bitonline | Patromierz - statystyki Patronite.pl
+title: rodoRADIO by bitonline | Patromierz
 
 permalink: /rodoradio
 ---

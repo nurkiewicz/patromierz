@@ -1,5 +1,5 @@
 ---
-title: Antek Radzimski | Patromierz - statystyki Patronite.pl
+title: Antek Radzimski | Patromierz
 
 permalink: /antekradzimski
 ---

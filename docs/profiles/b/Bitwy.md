@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Szczabel | Patromierz - statystyki Patronite.pl"
+title: "Pawe\u0142 Szczabel | Patromierz"
 
 permalink: /Bitwy
 ---

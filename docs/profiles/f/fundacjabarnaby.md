@@ -1,5 +1,5 @@
 ---
-title: Fundacja Barnaby | Patromierz - statystyki Patronite.pl
+title: Fundacja Barnaby | Patromierz
 
 permalink: /fundacjabarnaby
 ---

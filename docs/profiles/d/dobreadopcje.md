@@ -1,5 +1,5 @@
 ---
-title: Dobre Adopcje | Patromierz - statystyki Patronite.pl
+title: Dobre Adopcje | Patromierz
 
 permalink: /dobreadopcje
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Otwarty Dialog | Patromierz - statystyki Patronite.pl
+title: Fundacja Otwarty Dialog | Patromierz
 
 permalink: /odf
 ---

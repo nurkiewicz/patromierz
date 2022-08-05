@@ -1,5 +1,5 @@
 ---
-title: Mewa w locie | Patromierz - statystyki Patronite.pl
+title: Mewa w locie | Patromierz
 
 permalink: /mewawlocie
 ---

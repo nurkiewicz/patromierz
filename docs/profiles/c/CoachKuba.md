@@ -1,5 +1,5 @@
 ---
-title: Kuba Rosinski | Patromierz - statystyki Patronite.pl
+title: Kuba Rosinski | Patromierz
 
 permalink: /CoachKuba
 ---

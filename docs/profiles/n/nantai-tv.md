@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Vogelsinger | Patromierz - statystyki Patronite.pl"
+title: "Pawe\u0142 Vogelsinger | Patromierz"
 
 permalink: /nantai-tv
 ---

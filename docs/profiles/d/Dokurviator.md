@@ -1,5 +1,5 @@
 ---
-title: Dokurviator-Drift&Rally | Patromierz - statystyki Patronite.pl
+title: Dokurviator-Drift&Rally | Patromierz
 
 permalink: /Dokurviator
 ---

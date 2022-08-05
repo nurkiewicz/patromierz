@@ -1,5 +1,5 @@
 ---
-title: Marta Jermaczek-Sitak | Patromierz - statystyki Patronite.pl
+title: Marta Jermaczek-Sitak | Patromierz
 
 permalink: /jera
 ---

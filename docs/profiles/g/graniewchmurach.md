@@ -1,5 +1,5 @@
 ---
-title: Granie w chmurach - Gry planszowe | Patromierz - statystyki Patronite.pl
+title: Granie w chmurach - Gry planszowe | Patromierz
 
 permalink: /graniewchmurach
 ---

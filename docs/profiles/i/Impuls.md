@@ -1,5 +1,5 @@
 ---
-title: "Salka pr\xF3b - Stowarzyszenie Impuls | Patromierz - statystyki Patronite.pl"
+title: "Salka pr\xF3b - Stowarzyszenie Impuls | Patromierz"
 
 permalink: /Impuls
 ---

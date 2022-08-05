@@ -1,5 +1,5 @@
 ---
-title: GADZIARNIA | Patromierz - statystyki Patronite.pl
+title: GADZIARNIA | Patromierz
 
 permalink: /SPTGADZIARNIA
 ---

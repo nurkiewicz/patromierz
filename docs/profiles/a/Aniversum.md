@@ -1,5 +1,5 @@
 ---
-title: Aniversum | Patromierz - statystyki Patronite.pl
+title: Aniversum | Patromierz
 
 permalink: /Aniversum
 ---

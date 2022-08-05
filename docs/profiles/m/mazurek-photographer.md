@@ -1,5 +1,5 @@
 ---
-title: Mazurek Photographer | Patromierz - statystyki Patronite.pl
+title: Mazurek Photographer | Patromierz
 
 permalink: /mazurek-photographer
 ---

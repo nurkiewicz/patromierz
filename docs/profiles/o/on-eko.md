@@ -1,5 +1,5 @@
 ---
-title: On-Eko | Patromierz - statystyki Patronite.pl
+title: On-Eko | Patromierz
 
 permalink: /on-eko
 ---

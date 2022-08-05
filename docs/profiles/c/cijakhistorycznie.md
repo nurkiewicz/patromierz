@@ -1,5 +1,5 @@
 ---
-title: Cijak Historycznie | Patromierz - statystyki Patronite.pl
+title: Cijak Historycznie | Patromierz
 
 permalink: /cijakhistorycznie
 ---

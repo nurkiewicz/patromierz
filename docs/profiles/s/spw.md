@@ -1,5 +1,5 @@
 ---
-title: "Sp\xF3\u0142dzielnia Praktyk Wywrotowych | Patromierz - statystyki Patronite.pl"
+title: "Sp\xF3\u0142dzielnia Praktyk Wywrotowych | Patromierz"
 
 permalink: /spw
 ---

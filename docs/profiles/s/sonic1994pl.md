@@ -1,5 +1,5 @@
 ---
-title: Granie Na Spontanie | Patromierz - statystyki Patronite.pl
+title: Granie Na Spontanie | Patromierz
 
 permalink: /sonic1994pl
 ---

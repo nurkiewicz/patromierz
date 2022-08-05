@@ -1,5 +1,5 @@
 ---
-title: Music MasterClass | Patromierz - statystyki Patronite.pl
+title: Music MasterClass | Patromierz
 
 permalink: /musicmasterclass
 ---

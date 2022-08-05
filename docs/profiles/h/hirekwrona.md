@@ -1,5 +1,5 @@
 ---
-title: Hirek Wrona | Patromierz - statystyki Patronite.pl
+title: Hirek Wrona | Patromierz
 
 permalink: /hirekwrona
 ---

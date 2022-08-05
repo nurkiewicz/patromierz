@@ -1,5 +1,5 @@
 ---
-title: "Wi\u0119\u017A | Patromierz - statystyki Patronite.pl"
+title: "Wi\u0119\u017A | Patromierz"
 
 permalink: /Wiez
 ---

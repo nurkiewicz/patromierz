@@ -1,5 +1,5 @@
 ---
-title: "MI\u0141O\u015ANICY | Patromierz - statystyki Patronite.pl"
+title: "MI\u0141O\u015ANICY | Patromierz"
 
 permalink: /MIŁOŚNICY
 ---

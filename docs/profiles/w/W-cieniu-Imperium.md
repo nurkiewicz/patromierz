@@ -1,5 +1,5 @@
 ---
-title: W cieniu Imperium | Patromierz - statystyki Patronite.pl
+title: W cieniu Imperium | Patromierz
 
 permalink: /W-cieniu-Imperium
 ---

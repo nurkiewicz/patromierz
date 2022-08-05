@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Widzialne - Zmiana jest Kobiet\u0105 | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Widzialne - Zmiana jest Kobiet\u0105 | Patromierz"
 
 permalink: /www.widzialne.com.pl
 ---

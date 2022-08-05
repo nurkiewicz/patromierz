@@ -1,5 +1,5 @@
 ---
-title: "Marek Szurawski Muzyka M\xF3rz i Ocean\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Marek Szurawski Muzyka M\xF3rz i Ocean\xF3w | Patromierz"
 
 permalink: /MuzykaMorz
 ---

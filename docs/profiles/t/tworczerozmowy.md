@@ -1,5 +1,5 @@
 ---
-title: "Tw\xF3rcze Rozmowy | Patromierz - statystyki Patronite.pl"
+title: "Tw\xF3rcze Rozmowy | Patromierz"
 
 permalink: /tworczerozmowy
 ---

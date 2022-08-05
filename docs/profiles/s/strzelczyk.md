@@ -1,5 +1,5 @@
 ---
-title: "B\u0142a\u017Cej Strzelczyk | Patromierz - statystyki Patronite.pl"
+title: "B\u0142a\u017Cej Strzelczyk | Patromierz"
 
 permalink: /strzelczyk
 ---

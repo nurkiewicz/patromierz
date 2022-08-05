@@ -1,5 +1,5 @@
 ---
-title: Muzyka Relaksacyjna | Patromierz - statystyki Patronite.pl
+title: Muzyka Relaksacyjna | Patromierz
 
 permalink: /MuzykaRelaksacyjna
 ---

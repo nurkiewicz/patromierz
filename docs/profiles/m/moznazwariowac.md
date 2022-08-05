@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Mo\u017Cna Zwariowa\u0107 | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Mo\u017Cna Zwariowa\u0107 | Patromierz"
 
 permalink: /moznazwariowac
 ---

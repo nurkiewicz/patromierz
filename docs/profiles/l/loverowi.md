@@ -1,5 +1,5 @@
 ---
-title: Loverowi | Patromierz - statystyki Patronite.pl
+title: Loverowi | Patromierz
 
 permalink: /loverowi
 ---

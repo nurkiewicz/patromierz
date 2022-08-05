@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Rozwoju Orienteeringu | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Rozwoju Orienteeringu | Patromierz
 
 permalink: /orienteering
 ---

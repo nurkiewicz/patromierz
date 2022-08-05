@@ -1,5 +1,5 @@
 ---
-title: Rafal Galinski | Patromierz - statystyki Patronite.pl
+title: Rafal Galinski | Patromierz
 
 permalink: /rafalgalinski
 ---

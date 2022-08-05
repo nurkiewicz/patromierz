@@ -1,5 +1,5 @@
 ---
-title: "Aleksander K\u0105dziela  | Patromierz - statystyki Patronite.pl"
+title: "Aleksander K\u0105dziela  | Patromierz"
 
 permalink: /tapicerwakcji
 ---

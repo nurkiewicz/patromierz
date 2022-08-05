@@ -1,5 +1,5 @@
 ---
-title: Mamut | Patromierz - statystyki Patronite.pl
+title: Mamut | Patromierz
 
 permalink: /Mamut-Podcasty
 ---

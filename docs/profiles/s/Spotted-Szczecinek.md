@@ -1,5 +1,5 @@
 ---
-title: Spotted Szczecinek | Patromierz - statystyki Patronite.pl
+title: Spotted Szczecinek | Patromierz
 
 permalink: /Spotted-Szczecinek
 ---

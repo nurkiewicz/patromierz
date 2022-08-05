@@ -1,5 +1,5 @@
 ---
-title: "Wiolka Czury\u0144ska | Patromierz - statystyki Patronite.pl"
+title: "Wiolka Czury\u0144ska | Patromierz"
 
 permalink: /wiolkaczurynska
 ---

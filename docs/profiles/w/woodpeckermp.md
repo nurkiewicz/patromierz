@@ -1,5 +1,5 @@
 ---
-title: Woodpecker  Motion Pictures | Patromierz - statystyki Patronite.pl
+title: Woodpecker  Motion Pictures | Patromierz
 
 permalink: /woodpeckermp
 ---

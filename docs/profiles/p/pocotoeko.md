@@ -1,5 +1,5 @@
 ---
-title: "Marta Zwoli\u0144ska | Patromierz - statystyki Patronite.pl"
+title: "Marta Zwoli\u0144ska | Patromierz"
 
 permalink: /pocotoeko
 ---

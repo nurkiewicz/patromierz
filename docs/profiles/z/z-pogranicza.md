@@ -1,6 +1,5 @@
 ---
-title: Regionalny Serwis Historyczny Z Pogranicza Krzysztof Kusiak | Patromierz -
-  statystyki Patronite.pl
+title: Regionalny Serwis Historyczny Z Pogranicza Krzysztof Kusiak | Patromierz
 
 permalink: /z-pogranicza
 ---

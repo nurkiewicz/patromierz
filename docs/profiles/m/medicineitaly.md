@@ -1,5 +1,5 @@
 ---
-title: Anna Cykowska | Patromierz - statystyki Patronite.pl
+title: Anna Cykowska | Patromierz
 
 permalink: /medicineitaly
 ---

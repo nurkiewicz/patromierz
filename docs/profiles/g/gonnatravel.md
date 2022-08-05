@@ -1,5 +1,5 @@
 ---
-title: Gonna Travel | Patromierz - statystyki Patronite.pl
+title: Gonna Travel | Patromierz
 
 permalink: /gonnatravel
 ---

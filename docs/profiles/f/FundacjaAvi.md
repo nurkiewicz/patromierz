@@ -1,5 +1,5 @@
 ---
-title: "Marta W\u0119grzyn | Patromierz - statystyki Patronite.pl"
+title: "Marta W\u0119grzyn | Patromierz"
 
 permalink: /FundacjaAvi
 ---

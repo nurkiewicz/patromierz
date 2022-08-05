@@ -1,5 +1,5 @@
 ---
-title: Tropiciele Zbrodni | Patromierz - statystyki Patronite.pl
+title: Tropiciele Zbrodni | Patromierz
 
 permalink: /poszukiwacze
 ---

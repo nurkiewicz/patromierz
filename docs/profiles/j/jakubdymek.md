@@ -1,5 +1,5 @@
 ---
-title: Jakub Dymek | Patromierz - statystyki Patronite.pl
+title: Jakub Dymek | Patromierz
 
 permalink: /jakubdymek
 ---

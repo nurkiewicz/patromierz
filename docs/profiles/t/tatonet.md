@@ -1,5 +1,5 @@
 ---
-title: Tato.Net | Patromierz - statystyki Patronite.pl
+title: Tato.Net | Patromierz
 
 permalink: /tatonet
 ---

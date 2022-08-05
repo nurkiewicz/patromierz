@@ -1,5 +1,5 @@
 ---
-title: "Pandolni\u0119ci czyli Panda Rally Team Polska | Patromierz - statystyki Patronite.pl"
+title: "Pandolni\u0119ci czyli Panda Rally Team Polska | Patromierz"
 
 permalink: /Pandolnieci
 ---

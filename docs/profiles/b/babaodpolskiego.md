@@ -1,5 +1,5 @@
 ---
-title: Baba od polskiego | Patromierz - statystyki Patronite.pl
+title: Baba od polskiego | Patromierz
 
 permalink: /babaodpolskiego
 ---

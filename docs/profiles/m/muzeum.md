@@ -1,5 +1,5 @@
 ---
-title: Muzeum Historii Ubioru  | Patromierz - statystyki Patronite.pl
+title: Muzeum Historii Ubioru  | Patromierz
 
 permalink: /muzeum
 ---

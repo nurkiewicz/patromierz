@@ -1,5 +1,5 @@
 ---
-title: Architektura Powinna | Patromierz - statystyki Patronite.pl
+title: Architektura Powinna | Patromierz
 
 permalink: /architekturapowinna
 ---

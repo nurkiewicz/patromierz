@@ -1,5 +1,5 @@
 ---
-title: Pogotowie Psychologiczne | Patromierz - statystyki Patronite.pl
+title: Pogotowie Psychologiczne | Patromierz
 
 permalink: /pogotowiepsychologiczne
 ---

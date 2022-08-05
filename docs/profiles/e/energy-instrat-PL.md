@@ -1,5 +1,5 @@
 ---
-title: Fundacja Instrat | Patromierz - statystyki Patronite.pl
+title: Fundacja Instrat | Patromierz
 
 permalink: /energy-instrat-PL
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Opowiem Ci histori\u0119 | Patromierz - statystyki Patronite.pl"
+title: "Opowiem Ci histori\u0119 | Patromierz"
 
 permalink: /opowiemcihistorie
 ---

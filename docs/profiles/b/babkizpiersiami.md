@@ -1,5 +1,5 @@
 ---
-title: Babki z piersiami | Patromierz - statystyki Patronite.pl
+title: Babki z piersiami | Patromierz
 
 permalink: /babkizpiersiami
 ---

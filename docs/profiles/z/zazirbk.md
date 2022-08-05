@@ -1,5 +1,5 @@
 ---
-title: Zazi | Patromierz - statystyki Patronite.pl
+title: Zazi | Patromierz
 
 permalink: /zazirbk
 ---

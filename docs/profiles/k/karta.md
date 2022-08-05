@@ -1,5 +1,5 @@
 ---
-title: "Fundacja O\u015Brodka KARTA | Patromierz - statystyki Patronite.pl"
+title: "Fundacja O\u015Brodka KARTA | Patromierz"
 
 permalink: /karta
 ---

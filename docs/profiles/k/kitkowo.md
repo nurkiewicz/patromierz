@@ -1,5 +1,5 @@
 ---
-title: "Kitkow - Toru\u0144skie Bezdomniaki | Patromierz - statystyki Patronite.pl"
+title: "Kitkow - Toru\u0144skie Bezdomniaki | Patromierz"
 
 permalink: /kitkowo
 ---

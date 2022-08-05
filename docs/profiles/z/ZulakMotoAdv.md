@@ -1,5 +1,5 @@
 ---
-title: Zulak MotoAdv | Patromierz - statystyki Patronite.pl
+title: Zulak MotoAdv | Patromierz
 
 permalink: /ZulakMotoAdv
 ---

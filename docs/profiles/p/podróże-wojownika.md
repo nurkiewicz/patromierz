@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017Ce Wojownika | Patromierz - statystyki Patronite.pl"
+title: "Podr\xF3\u017Ce Wojownika | Patromierz"
 
 permalink: /podróże-wojownika
 ---

@@ -1,5 +1,5 @@
 ---
-title: Anna Maruszeczko | Patromierz - statystyki Patronite.pl
+title: Anna Maruszeczko | Patromierz
 
 permalink: /annamaruszeczko
 ---

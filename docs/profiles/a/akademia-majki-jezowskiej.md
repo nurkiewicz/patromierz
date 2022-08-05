@@ -1,6 +1,5 @@
 ---
-title: "Akademia Edukacji i Rozwoju Majki Je\u017Cowskiej | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Akademia Edukacji i Rozwoju Majki Je\u017Cowskiej | Patromierz"
 
 permalink: /akademia-majki-jezowskiej
 ---

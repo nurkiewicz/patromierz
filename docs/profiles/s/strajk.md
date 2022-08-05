@@ -1,5 +1,5 @@
 ---
-title: strajk.eu | Patromierz - statystyki Patronite.pl
+title: strajk.eu | Patromierz
 
 permalink: /strajk
 ---

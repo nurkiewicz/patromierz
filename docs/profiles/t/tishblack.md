@@ -1,5 +1,5 @@
 ---
-title: TishBlack | Patromierz - statystyki Patronite.pl
+title: TishBlack | Patromierz
 
 permalink: /tishblack
 ---

@@ -1,5 +1,5 @@
 ---
-title: Gravity Revolt | Patromierz - statystyki Patronite.pl
+title: Gravity Revolt | Patromierz
 
 permalink: /gravityrevolt
 ---

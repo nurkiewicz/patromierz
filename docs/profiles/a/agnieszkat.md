@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Styczna | Patromierz - statystyki Patronite.pl
+title: Agnieszka Styczna | Patromierz
 
 permalink: /agnieszkat
 ---

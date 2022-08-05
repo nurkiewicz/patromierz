@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a Zen Kwan Um | Patromierz - statystyki Patronite.pl"
+title: "Szko\u0142a Zen Kwan Um | Patromierz"
 
 permalink: /www.zen.pl
 ---

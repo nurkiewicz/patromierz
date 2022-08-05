@@ -1,5 +1,5 @@
 ---
-title: Damian Drazek | Patromierz - statystyki Patronite.pl
+title: Damian Drazek | Patromierz
 
 permalink: /ucieczkadoraju
 ---

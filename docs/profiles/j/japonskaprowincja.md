@@ -1,5 +1,5 @@
 ---
-title: "JAPO\u0143SKA PROWINCJA  | Patromierz - statystyki Patronite.pl"
+title: "JAPO\u0143SKA PROWINCJA  | Patromierz"
 
 permalink: /japonskaprowincja
 ---

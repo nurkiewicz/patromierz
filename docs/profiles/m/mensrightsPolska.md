@@ -1,5 +1,5 @@
 ---
-title: Men's Rights Polska | Patromierz - statystyki Patronite.pl
+title: Men's Rights Polska | Patromierz
 
 permalink: /mensrightsPolska
 ---

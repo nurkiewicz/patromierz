@@ -1,5 +1,5 @@
 ---
-title: Wojenne Historie | Patromierz - statystyki Patronite.pl
+title: Wojenne Historie | Patromierz
 
 permalink: /wojennehistorie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Przy zapalonym \u015Bwietle \u2013 podcast | Patromierz - statystyki Patronite.pl"
+title: "Przy zapalonym \u015Bwietle \u2013 podcast | Patromierz"
 
 permalink: /przyzapalonymswietle
 ---

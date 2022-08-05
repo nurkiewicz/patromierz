@@ -1,5 +1,5 @@
 ---
-title: Pan Jakub Nadaje | Patromierz - statystyki Patronite.pl
+title: Pan Jakub Nadaje | Patromierz
 
 permalink: /panjakubnadaje
 ---

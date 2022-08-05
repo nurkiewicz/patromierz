@@ -1,5 +1,5 @@
 ---
-title: WOB | Patromierz - statystyki Patronite.pl
+title: WOB | Patromierz
 
 permalink: /wszystkoobiznesie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zbud\u017A si\u0119 | Patromierz - statystyki Patronite.pl"
+title: "Zbud\u017A si\u0119 | Patromierz"
 
 permalink: /zbudzsie
 ---

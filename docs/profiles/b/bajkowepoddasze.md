@@ -1,5 +1,5 @@
 ---
-title: BAJKOWE PODDASZE | Patromierz - statystyki Patronite.pl
+title: BAJKOWE PODDASZE | Patromierz
 
 permalink: /bajkowepoddasze
 ---

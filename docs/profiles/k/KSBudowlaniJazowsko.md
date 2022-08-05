@@ -1,5 +1,5 @@
 ---
-title: KS Budowlani Jazowsko | Patromierz - statystyki Patronite.pl
+title: KS Budowlani Jazowsko | Patromierz
 
 permalink: /KSBudowlaniJazowsko
 ---

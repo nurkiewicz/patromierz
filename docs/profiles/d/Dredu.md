@@ -1,5 +1,5 @@
 ---
-title: Dredu | Patromierz - statystyki Patronite.pl
+title: Dredu | Patromierz
 
 permalink: /Dredu
 ---

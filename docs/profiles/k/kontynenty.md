@@ -1,5 +1,5 @@
 ---
-title: Kontynenty | Patromierz - statystyki Patronite.pl
+title: Kontynenty | Patromierz
 
 permalink: /kontynenty
 ---

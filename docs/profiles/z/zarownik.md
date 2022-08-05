@@ -1,5 +1,5 @@
 ---
-title: "ZAR\xD3WNIK | Patromierz - statystyki Patronite.pl"
+title: "ZAR\xD3WNIK | Patromierz"
 
 permalink: /zarownik
 ---

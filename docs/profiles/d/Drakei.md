@@ -1,5 +1,5 @@
 ---
-title: Drakei | Patromierz - statystyki Patronite.pl
+title: Drakei | Patromierz
 
 permalink: /Drakei
 ---

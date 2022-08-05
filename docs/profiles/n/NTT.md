@@ -1,5 +1,5 @@
 ---
-title: Naukowe Towarzystwo Tomistyczne | Patromierz - statystyki Patronite.pl
+title: Naukowe Towarzystwo Tomistyczne | Patromierz
 
 permalink: /NTT
 ---

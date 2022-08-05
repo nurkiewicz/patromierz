@@ -1,5 +1,5 @@
 ---
-title: Przyjaciele Kota Wrocka | Patromierz - statystyki Patronite.pl
+title: Przyjaciele Kota Wrocka | Patromierz
 
 permalink: /kotwrocek
 ---

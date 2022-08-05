@@ -1,5 +1,5 @@
 ---
-title: Paula  | Patromierz - statystyki Patronite.pl
+title: Paula  | Patromierz
 
 permalink: /paulasthetic
 ---

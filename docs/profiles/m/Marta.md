@@ -1,5 +1,5 @@
 ---
-title: Marta Tarasiuk | Patromierz - statystyki Patronite.pl
+title: Marta Tarasiuk | Patromierz
 
 permalink: /Marta
 ---

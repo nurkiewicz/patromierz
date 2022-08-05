@@ -1,5 +1,5 @@
 ---
-title: "Paulina Zag\xF3rska | Patromierz - statystyki Patronite.pl"
+title: "Paulina Zag\xF3rska | Patromierz"
 
 permalink: /tazagorska
 ---

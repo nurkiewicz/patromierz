@@ -1,5 +1,5 @@
 ---
-title: "Przymierze Mi\u0142osierdzia | Patromierz - statystyki Patronite.pl"
+title: "Przymierze Mi\u0142osierdzia | Patromierz"
 
 permalink: /przymierzemilosierdzia
 ---

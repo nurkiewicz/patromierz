@@ -1,5 +1,5 @@
 ---
-title: "Rados\u0142aw Patlewicz | Patromierz - statystyki Patronite.pl"
+title: "Rados\u0142aw Patlewicz | Patromierz"
 
 permalink: /radekpatlewicz
 ---

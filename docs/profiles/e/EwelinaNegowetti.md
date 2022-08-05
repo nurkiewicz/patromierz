@@ -1,5 +1,5 @@
 ---
-title: Ewelina Negowetti | Patromierz - statystyki Patronite.pl
+title: Ewelina Negowetti | Patromierz
 
 permalink: /EwelinaNegowetti
 ---

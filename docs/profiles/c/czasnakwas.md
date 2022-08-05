@@ -1,5 +1,5 @@
 ---
-title: Czas Na Kwas | Patromierz - statystyki Patronite.pl
+title: Czas Na Kwas | Patromierz
 
 permalink: /czasnakwas
 ---

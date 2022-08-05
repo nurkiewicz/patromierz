@@ -1,5 +1,5 @@
 ---
-title: "Ukrai\u0144ski Online | Patromierz - statystyki Patronite.pl"
+title: "Ukrai\u0144ski Online | Patromierz"
 
 permalink: /ukrainski.online
 ---

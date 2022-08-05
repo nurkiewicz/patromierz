@@ -1,5 +1,5 @@
 ---
-title: pani.literka | Patromierz - statystyki Patronite.pl
+title: pani.literka | Patromierz
 
 permalink: /paniliterka
 ---

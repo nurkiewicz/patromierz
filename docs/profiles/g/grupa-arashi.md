@@ -1,5 +1,5 @@
 ---
-title: Grupa Arashi | Patromierz - statystyki Patronite.pl
+title: Grupa Arashi | Patromierz
 
 permalink: /grupa-arashi
 ---

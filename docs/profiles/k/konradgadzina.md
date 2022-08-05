@@ -1,5 +1,5 @@
 ---
-title: Konrad Gadzina | Patromierz - statystyki Patronite.pl
+title: Konrad Gadzina | Patromierz
 
 permalink: /konradgadzina
 ---

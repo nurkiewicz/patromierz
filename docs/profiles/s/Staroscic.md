@@ -1,5 +1,5 @@
 ---
-title: "Piotr Staro\u015Bcic | Patromierz - statystyki Patronite.pl"
+title: "Piotr Staro\u015Bcic | Patromierz"
 
 permalink: /Staroscic
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jaros\u0142aw Wolski | Patromierz - statystyki Patronite.pl"
+title: "Jaros\u0142aw Wolski | Patromierz"
 
 permalink: /wolskiowojnie
 ---

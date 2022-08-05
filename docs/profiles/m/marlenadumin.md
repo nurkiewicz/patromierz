@@ -1,5 +1,5 @@
 ---
-title: marlena dumin | Patromierz - statystyki Patronite.pl
+title: marlena dumin | Patromierz
 
 permalink: /marlenadumin
 ---

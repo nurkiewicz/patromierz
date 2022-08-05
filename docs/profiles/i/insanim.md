@@ -1,5 +1,5 @@
 ---
-title: INS Anim | Patromierz - statystyki Patronite.pl
+title: INS Anim | Patromierz
 
 permalink: /insanim
 ---

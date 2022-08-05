@@ -1,5 +1,5 @@
 ---
-title: Tomasz Piotrowski | Patromierz - statystyki Patronite.pl
+title: Tomasz Piotrowski | Patromierz
 
 permalink: /tomasz-piotrowski
 ---

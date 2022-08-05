@@ -1,5 +1,5 @@
 ---
-title: "Damian Ruci\u0144ski | Patromierz - statystyki Patronite.pl"
+title: "Damian Ruci\u0144ski | Patromierz"
 
 permalink: /IT_i_Ty
 ---

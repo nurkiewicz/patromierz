@@ -1,5 +1,5 @@
 ---
-title: Artur Pierzchniak-Guma | Patromierz - statystyki Patronite.pl
+title: Artur Pierzchniak-Guma | Patromierz
 
 permalink: /arturguma
 ---

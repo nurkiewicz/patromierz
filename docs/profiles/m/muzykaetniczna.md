@@ -1,5 +1,5 @@
 ---
-title: Muzyka etniczna | Patromierz - statystyki Patronite.pl
+title: Muzyka etniczna | Patromierz
 
 permalink: /muzykaetniczna
 ---

@@ -1,5 +1,5 @@
 ---
-title: Seatclub.pl | Patromierz - statystyki Patronite.pl
+title: Seatclub.pl | Patromierz
 
 permalink: /Seatclub
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Backiel | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Backiel | Patromierz"
 
 permalink: /Michal_Backiel
 ---

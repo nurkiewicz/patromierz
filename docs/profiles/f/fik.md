@@ -1,5 +1,5 @@
 ---
-title: Forum Inspiracji Kulturalnych  | Patromierz - statystyki Patronite.pl
+title: Forum Inspiracji Kulturalnych  | Patromierz
 
 permalink: /fik
 ---

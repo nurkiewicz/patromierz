@@ -1,5 +1,5 @@
 ---
-title: Tomasz Szewczyk | Patromierz - statystyki Patronite.pl
+title: Tomasz Szewczyk | Patromierz
 
 permalink: /Exxan
 ---

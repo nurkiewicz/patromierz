@@ -1,5 +1,5 @@
 ---
-title: Muffin | Patromierz - statystyki Patronite.pl
+title: Muffin | Patromierz
 
 permalink: /Muffin
 ---

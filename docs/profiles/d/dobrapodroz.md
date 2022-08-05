@@ -1,5 +1,5 @@
 ---
-title: "Dobra Podr\xF3\u017C | Patromierz - statystyki Patronite.pl"
+title: "Dobra Podr\xF3\u017C | Patromierz"
 
 permalink: /dobrapodroz
 ---

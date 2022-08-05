@@ -1,5 +1,5 @@
 ---
-title: Polskie Archiwum X | Patromierz - statystyki Patronite.pl
+title: Polskie Archiwum X | Patromierz
 
 permalink: /PolskieArchiwumX
 ---

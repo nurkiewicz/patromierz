@@ -1,5 +1,5 @@
 ---
-title: "My\u015Ble\u0107 G\u0142\u0119biej | Patromierz - statystyki Patronite.pl"
+title: "My\u015Ble\u0107 G\u0142\u0119biej | Patromierz"
 
 permalink: /MyslecGlebiej
 ---

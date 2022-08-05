@@ -1,5 +1,5 @@
 ---
-title: "Dw\xF3ch Typ\xF3w Podcast | Patromierz - statystyki Patronite.pl"
+title: "Dw\xF3ch Typ\xF3w Podcast | Patromierz"
 
 permalink: /dwochtypow
 ---

@@ -1,5 +1,5 @@
 ---
-title: PolishNews24.com | Patromierz - statystyki Patronite.pl
+title: PolishNews24.com | Patromierz
 
 permalink: /PolishNews24
 ---

@@ -1,5 +1,5 @@
 ---
-title: Wojna Mussoliniego | Patromierz - statystyki Patronite.pl
+title: Wojna Mussoliniego | Patromierz
 
 permalink: /WojnaMussoliniego
 ---

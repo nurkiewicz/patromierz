@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Schodowski | Patromierz - statystyki Patronite.pl
+title: Krzysztof Schodowski | Patromierz
 
 permalink: /schodowski
 ---

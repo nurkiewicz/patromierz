@@ -1,5 +1,5 @@
 ---
-title: "Niskopod\u0142ogowiec | Patromierz - statystyki Patronite.pl"
+title: "Niskopod\u0142ogowiec | Patromierz"
 
 permalink: /niskopodlogowiec
 ---

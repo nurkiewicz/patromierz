@@ -1,5 +1,5 @@
 ---
-title: Vasilly | Patromierz - statystyki Patronite.pl
+title: Vasilly | Patromierz
 
 permalink: /Vasilly
 ---

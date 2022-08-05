@@ -1,5 +1,5 @@
 ---
-title: Spotkania na Szlaku | Patromierz - statystyki Patronite.pl
+title: Spotkania na Szlaku | Patromierz
 
 permalink: /SpotkaniaNaSzlaku
 ---

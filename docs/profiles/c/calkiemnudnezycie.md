@@ -1,5 +1,5 @@
 ---
-title: "Ca\u0142kiem Nudne \u017Bycie  | Patromierz - statystyki Patronite.pl"
+title: "Ca\u0142kiem Nudne \u017Bycie  | Patromierz"
 
 permalink: /calkiemnudnezycie
 ---

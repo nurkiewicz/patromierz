@@ -1,5 +1,5 @@
 ---
-title: Zbigniew Syc - Sztuki Walki | Patromierz - statystyki Patronite.pl
+title: Zbigniew Syc - Sztuki Walki | Patromierz
 
 permalink: /zbigniewsyc-sztuki-walki
 ---

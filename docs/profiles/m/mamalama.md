@@ -1,5 +1,5 @@
 ---
-title: Mama Lama | Patromierz - statystyki Patronite.pl
+title: Mama Lama | Patromierz
 
 permalink: /mamalama
 ---

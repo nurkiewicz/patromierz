@@ -1,5 +1,5 @@
 ---
-title: Karolina Strzelczyk-Weichert ( HEra) | Patromierz - statystyki Patronite.pl
+title: Karolina Strzelczyk-Weichert ( HEra) | Patromierz
 
 permalink: /HEra
 ---

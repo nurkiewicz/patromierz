@@ -1,5 +1,5 @@
 ---
-title: "Mietek  Szcze\u015Bniak | Patromierz - statystyki Patronite.pl"
+title: "Mietek  Szcze\u015Bniak | Patromierz"
 
 permalink: /mietekszczesniak
 ---

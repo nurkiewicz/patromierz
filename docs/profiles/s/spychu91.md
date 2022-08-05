@@ -1,5 +1,5 @@
 ---
-title: Wojciech Spychalski | Patromierz - statystyki Patronite.pl
+title: Wojciech Spychalski | Patromierz
 
 permalink: /spychu91
 ---

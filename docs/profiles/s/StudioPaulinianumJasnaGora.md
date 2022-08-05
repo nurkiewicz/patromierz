@@ -1,6 +1,5 @@
 ---
-title: "Wydawnictwo i Studio Paulinianum z Jasnej G\xF3ry | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Wydawnictwo i Studio Paulinianum z Jasnej G\xF3ry | Patromierz"
 
 permalink: /StudioPaulinianumJasnaGora
 ---

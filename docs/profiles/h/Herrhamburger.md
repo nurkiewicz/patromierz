@@ -1,5 +1,5 @@
 ---
-title: Herr Hamburger  | Patromierz - statystyki Patronite.pl
+title: Herr Hamburger  | Patromierz
 
 permalink: /Herrhamburger
 ---

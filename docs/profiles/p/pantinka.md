@@ -1,5 +1,5 @@
 ---
-title: Pantinka | Patromierz - statystyki Patronite.pl
+title: Pantinka | Patromierz
 
 permalink: /pantinka
 ---

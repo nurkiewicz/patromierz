@@ -1,5 +1,5 @@
 ---
-title: Aniela Sawicka | Patromierz - statystyki Patronite.pl
+title: Aniela Sawicka | Patromierz
 
 permalink: /nelasawicka
 ---

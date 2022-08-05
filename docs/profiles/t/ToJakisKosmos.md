@@ -1,5 +1,5 @@
 ---
-title: "To Jaki\u015B Kosmos! | Patromierz - statystyki Patronite.pl"
+title: "To Jaki\u015B Kosmos! | Patromierz"
 
 permalink: /ToJakisKosmos
 ---

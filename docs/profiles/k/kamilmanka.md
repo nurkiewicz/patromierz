@@ -1,5 +1,5 @@
 ---
-title: "Magnanima - Kamil Ma\u0144ka | Patromierz - statystyki Patronite.pl"
+title: "Magnanima - Kamil Ma\u0144ka | Patromierz"
 
 permalink: /kamilmanka
 ---

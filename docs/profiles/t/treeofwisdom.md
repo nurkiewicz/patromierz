@@ -1,5 +1,5 @@
 ---
-title: "Wied\u017Ama Kinga Oliwia Kujawa | Patromierz - statystyki Patronite.pl"
+title: "Wied\u017Ama Kinga Oliwia Kujawa | Patromierz"
 
 permalink: /treeofwisdom
 ---

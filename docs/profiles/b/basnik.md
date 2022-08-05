@@ -1,5 +1,5 @@
 ---
-title: "BA\u015ANIK | Patromierz - statystyki Patronite.pl"
+title: "BA\u015ANIK | Patromierz"
 
 permalink: /basnik
 ---

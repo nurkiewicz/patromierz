@@ -1,5 +1,5 @@
 ---
-title: MrKret | Patromierz - statystyki Patronite.pl
+title: MrKret | Patromierz
 
 permalink: /MrKret
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja My z Wami | Patromierz - statystyki Patronite.pl
+title: Fundacja My z Wami | Patromierz
 
 permalink: /fundacjamyzwami
 ---

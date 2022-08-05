@@ -1,5 +1,5 @@
 ---
-title: Telewizja Tychy | Patromierz - statystyki Patronite.pl
+title: Telewizja Tychy | Patromierz
 
 permalink: /TelewizjaTychy
 ---

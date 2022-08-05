@@ -1,5 +1,5 @@
 ---
-title: TIFF Center | Patromierz - statystyki Patronite.pl
+title: TIFF Center | Patromierz
 
 permalink: /tiffcenter
 ---

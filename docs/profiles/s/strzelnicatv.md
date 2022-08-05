@@ -1,5 +1,5 @@
 ---
-title: Strzelnica Tv | Patromierz - statystyki Patronite.pl
+title: Strzelnica Tv | Patromierz
 
 permalink: /strzelnicatv
 ---

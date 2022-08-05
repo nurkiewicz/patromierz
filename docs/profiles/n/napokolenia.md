@@ -1,5 +1,5 @@
 ---
-title: Dobrobyt na Pokolenia | Patromierz - statystyki Patronite.pl
+title: Dobrobyt na Pokolenia | Patromierz
 
 permalink: /napokolenia
 ---

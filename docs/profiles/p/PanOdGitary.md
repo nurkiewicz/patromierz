@@ -1,5 +1,5 @@
 ---
-title: Pan od Gitary | Patromierz - statystyki Patronite.pl
+title: Pan od Gitary | Patromierz
 
 permalink: /PanOdGitary
 ---

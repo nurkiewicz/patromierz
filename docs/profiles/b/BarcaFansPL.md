@@ -1,5 +1,5 @@
 ---
-title: BarcaFans.pl | Patromierz - statystyki Patronite.pl
+title: BarcaFans.pl | Patromierz
 
 permalink: /BarcaFansPL
 ---

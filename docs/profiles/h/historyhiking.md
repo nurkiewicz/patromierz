@@ -1,5 +1,5 @@
 ---
-title: History Hiking | Patromierz - statystyki Patronite.pl
+title: History Hiking | Patromierz
 
 permalink: /historyhiking
 ---

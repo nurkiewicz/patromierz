@@ -1,5 +1,5 @@
 ---
-title: Amici Sportivi | Patromierz - statystyki Patronite.pl
+title: Amici Sportivi | Patromierz
 
 permalink: /AmiciSportivi
 ---

@@ -1,5 +1,5 @@
 ---
-title: PL Tutors  | Patromierz - statystyki Patronite.pl
+title: PL Tutors  | Patromierz
 
 permalink: /pltutors
 ---

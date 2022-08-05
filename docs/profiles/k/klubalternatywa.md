@@ -1,5 +1,5 @@
 ---
-title: "Klub M\u0142odzie\u017Cowy \"Alternatywa\" | Patromierz - statystyki Patronite.pl"
+title: "Klub M\u0142odzie\u017Cowy \"Alternatywa\" | Patromierz"
 
 permalink: /klubalternatywa
 ---

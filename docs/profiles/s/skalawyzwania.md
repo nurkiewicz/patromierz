@@ -1,5 +1,5 @@
 ---
-title: Skala Wyzwania | Patromierz - statystyki Patronite.pl
+title: Skala Wyzwania | Patromierz
 
 permalink: /skalawyzwania
 ---

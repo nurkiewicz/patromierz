@@ -1,5 +1,5 @@
 ---
-title: Gruby Misio na hulajnodze | Patromierz - statystyki Patronite.pl
+title: Gruby Misio na hulajnodze | Patromierz
 
 permalink: /GrubyMisio
 ---

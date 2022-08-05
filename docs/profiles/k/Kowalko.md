@@ -1,5 +1,5 @@
 ---
-title: Pawel Kowalko [Kowal]  | Patromierz - statystyki Patronite.pl
+title: Pawel Kowalko [Kowal]  | Patromierz
 
 permalink: /Kowalko
 ---

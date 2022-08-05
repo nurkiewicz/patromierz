@@ -1,5 +1,5 @@
 ---
-title: Castles.today | Patromierz - statystyki Patronite.pl
+title: Castles.today | Patromierz
 
 permalink: /Castles.today
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kamil Ariel M\u0105kosza | Patromierz - statystyki Patronite.pl"
+title: "Kamil Ariel M\u0105kosza | Patromierz"
 
 permalink: /okoloroweru
 ---

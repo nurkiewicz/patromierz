@@ -1,5 +1,5 @@
 ---
-title: "Z pi\u0142k\u0105 na Ty | Patromierz - statystyki Patronite.pl"
+title: "Z pi\u0142k\u0105 na Ty | Patromierz"
 
 permalink: /ZpilkanaTY
 ---

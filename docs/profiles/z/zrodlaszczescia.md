@@ -1,6 +1,5 @@
 ---
-title: "\u0179r\xF3d\u0142a Szcz\u0119\u015Bcia - wed\u0142ug Chmielewskiego | Patromierz\
-  \ - statystyki Patronite.pl"
+title: "\u0179r\xF3d\u0142a Szcz\u0119\u015Bcia - wed\u0142ug Chmielewskiego | Patromierz"
 
 permalink: /zrodlaszczescia
 ---

@@ -1,5 +1,5 @@
 ---
-title: a Piece of Paper | Patromierz - statystyki Patronite.pl
+title: a Piece of Paper | Patromierz
 
 permalink: /aPieceofPaper
 ---

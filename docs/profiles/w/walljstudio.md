@@ -1,5 +1,5 @@
 ---
-title: Wall J Studio | Patromierz - statystyki Patronite.pl
+title: Wall J Studio | Patromierz
 
 permalink: /walljstudio
 ---

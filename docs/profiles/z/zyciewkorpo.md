@@ -1,5 +1,5 @@
 ---
-title: "\u017Bycie w korpo | Patromierz - statystyki Patronite.pl"
+title: "\u017Bycie w korpo | Patromierz"
 
 permalink: /zyciewkorpo
 ---

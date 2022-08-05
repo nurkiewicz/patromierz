@@ -1,5 +1,5 @@
 ---
-title: "Ogarniam Fizyk\u0119 | Patromierz - statystyki Patronite.pl"
+title: "Ogarniam Fizyk\u0119 | Patromierz"
 
 permalink: /ogarniamfizyke
 ---

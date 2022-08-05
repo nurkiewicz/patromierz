@@ -1,5 +1,5 @@
 ---
-title: "Ciekawostki ze \u015Bwiata gier | Patromierz - statystyki Patronite.pl"
+title: "Ciekawostki ze \u015Bwiata gier | Patromierz"
 
 permalink: /grynieznane
 ---

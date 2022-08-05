@@ -1,5 +1,5 @@
 ---
-title: Piotr Czaban | Patromierz - statystyki Patronite.pl
+title: Piotr Czaban | Patromierz
 
 permalink: /czabanrobiraban
 ---

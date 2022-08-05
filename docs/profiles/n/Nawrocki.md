@@ -1,5 +1,5 @@
 ---
-title: Nawrocki | Patromierz - statystyki Patronite.pl
+title: Nawrocki | Patromierz
 
 permalink: /Nawrocki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zielone Okulary | Patromierz - statystyki Patronite.pl
+title: Zielone Okulary | Patromierz
 
 permalink: /zieloneokulary
 ---

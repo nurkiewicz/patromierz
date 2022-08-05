@@ -1,6 +1,5 @@
 ---
-title: "Parafialna Kamilia\u0144ska Orkiestra D\u0119ta | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Parafialna Kamilia\u0144ska Orkiestra D\u0119ta | Patromierz"
 
 permalink: /pkod
 ---

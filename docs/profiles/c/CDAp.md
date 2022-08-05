@@ -1,5 +1,5 @@
 ---
-title: Artur Molendowski - Chwila Dla Admina | Patromierz - statystyki Patronite.pl
+title: Artur Molendowski - Chwila Dla Admina | Patromierz
 
 permalink: /CDAp
 ---

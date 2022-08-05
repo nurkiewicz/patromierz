@@ -1,5 +1,5 @@
 ---
-title: Punkowe Radio Underground | Patromierz - statystyki Patronite.pl
+title: Punkowe Radio Underground | Patromierz
 
 permalink: /punkoweradiounderground
 ---

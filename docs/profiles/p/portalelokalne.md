@@ -1,5 +1,5 @@
 ---
-title: Portale i gazety lokalne  | Patromierz - statystyki Patronite.pl
+title: Portale i gazety lokalne  | Patromierz
 
 permalink: /portalelokalne
 ---

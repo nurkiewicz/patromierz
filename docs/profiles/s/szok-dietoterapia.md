@@ -1,5 +1,5 @@
 ---
-title: SZOK dietoterapia | Patromierz - statystyki Patronite.pl
+title: SZOK dietoterapia | Patromierz
 
 permalink: /szok-dietoterapia
 ---

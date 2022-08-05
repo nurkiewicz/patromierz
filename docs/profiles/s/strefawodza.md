@@ -1,5 +1,5 @@
 ---
-title: Strefa Wodza | Patromierz - statystyki Patronite.pl
+title: Strefa Wodza | Patromierz
 
 permalink: /strefawodza
 ---

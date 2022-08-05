@@ -1,5 +1,5 @@
 ---
-title: Skazany na film | Patromierz - statystyki Patronite.pl
+title: Skazany na film | Patromierz
 
 permalink: /skazanynafilm
 ---

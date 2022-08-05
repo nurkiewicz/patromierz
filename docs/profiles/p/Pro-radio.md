@@ -1,5 +1,5 @@
 ---
-title: Pro-Radio | Patromierz - statystyki Patronite.pl
+title: Pro-Radio | Patromierz
 
 permalink: /Pro-radio
 ---

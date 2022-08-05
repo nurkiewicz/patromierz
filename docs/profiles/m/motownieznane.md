@@ -1,5 +1,5 @@
 ---
-title: Motocyklem w Nieznane | Patromierz - statystyki Patronite.pl
+title: Motocyklem w Nieznane | Patromierz
 
 permalink: /motownieznane
 ---

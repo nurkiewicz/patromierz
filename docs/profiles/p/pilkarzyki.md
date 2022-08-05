@@ -1,5 +1,5 @@
 ---
-title: "Pi\u0142karzyki | Patromierz - statystyki Patronite.pl"
+title: "Pi\u0142karzyki | Patromierz"
 
 permalink: /pilkarzyki
 ---

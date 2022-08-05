@@ -1,5 +1,5 @@
 ---
-title: Filozofia tak bardzo | Patromierz - statystyki Patronite.pl
+title: Filozofia tak bardzo | Patromierz
 
 permalink: /filozofiatakbardzo
 ---

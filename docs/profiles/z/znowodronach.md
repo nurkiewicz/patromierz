@@ -1,5 +1,5 @@
 ---
-title: "A TEN ZN\xD3W O DRONACH! | Patromierz - statystyki Patronite.pl"
+title: "A TEN ZN\xD3W O DRONACH! | Patromierz"
 
 permalink: /znowodronach
 ---

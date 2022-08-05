@@ -1,5 +1,5 @@
 ---
-title: EV REPAIR GARAGE | Patromierz - statystyki Patronite.pl
+title: EV REPAIR GARAGE | Patromierz
 
 permalink: /www.evrepair.pl
 ---

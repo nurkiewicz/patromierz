@@ -1,5 +1,5 @@
 ---
-title: Grupa KD | Patromierz - statystyki Patronite.pl
+title: Grupa KD | Patromierz
 
 permalink: /Grupa-KD
 ---

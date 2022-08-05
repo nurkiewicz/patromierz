@@ -1,5 +1,5 @@
 ---
-title: "Radio Kapita\u0142 | Patromierz - statystyki Patronite.pl"
+title: "Radio Kapita\u0142 | Patromierz"
 
 permalink: /radiokapital
 ---

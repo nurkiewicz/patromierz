@@ -1,5 +1,5 @@
 ---
-title: Major Tom and the Stardust | Patromierz - statystyki Patronite.pl
+title: Major Tom and the Stardust | Patromierz
 
 permalink: /MajorTomandtheStardust
 ---

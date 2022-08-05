@@ -1,5 +1,5 @@
 ---
-title: niskie teorie | Patromierz - statystyki Patronite.pl
+title: niskie teorie | Patromierz
 
 permalink: /niskieteorie
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jacek Ciszak | Patromierz - statystyki Patronite.pl
+title: Jacek Ciszak | Patromierz
 
 permalink: /JacekCiszak
 ---

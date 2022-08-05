@@ -1,5 +1,5 @@
 ---
-title: Dariusz Rosiak | Patromierz - statystyki Patronite.pl
+title: Dariusz Rosiak | Patromierz
 
 permalink: /DariuszRosiak
 ---

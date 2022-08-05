@@ -1,5 +1,5 @@
 ---
-title: IMPERIUM ROMANUM | Patromierz - statystyki Patronite.pl
+title: IMPERIUM ROMANUM | Patromierz
 
 permalink: /imperiumromanum
 ---

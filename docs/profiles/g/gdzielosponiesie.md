@@ -1,5 +1,5 @@
 ---
-title: Gdzie Los Poniesie | Patromierz - statystyki Patronite.pl
+title: Gdzie Los Poniesie | Patromierz
 
 permalink: /gdzielosponiesie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Klub Rozrywki i Pomy\u015Blunku | Patromierz - statystyki Patronite.pl"
+title: "Klub Rozrywki i Pomy\u015Blunku | Patromierz"
 
 permalink: /klub-rozrywki-i-pomyslunku
 ---

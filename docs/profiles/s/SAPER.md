@@ -1,5 +1,5 @@
 ---
-title: Artur Troncik | Patromierz - statystyki Patronite.pl
+title: Artur Troncik | Patromierz
 
 permalink: /SAPER
 ---

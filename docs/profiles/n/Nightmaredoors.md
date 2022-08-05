@@ -1,5 +1,5 @@
 ---
-title: Nightmare Doors Studio | Patromierz - statystyki Patronite.pl
+title: Nightmare Doors Studio | Patromierz
 
 permalink: /Nightmaredoors
 ---

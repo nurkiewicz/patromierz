@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie Psi G\u0142os | Patromierz - statystyki Patronite.pl"
+title: "Stowarzyszenie Psi G\u0142os | Patromierz"
 
 permalink: /psiglos
 ---

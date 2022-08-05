@@ -1,5 +1,5 @@
 ---
-title: Fundacja SOS - na Ratunek | Patromierz - statystyki Patronite.pl
+title: Fundacja SOS - na Ratunek | Patromierz
 
 permalink: /fundacjasosnaratunek
 ---

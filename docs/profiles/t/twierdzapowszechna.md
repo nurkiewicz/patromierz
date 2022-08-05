@@ -1,5 +1,5 @@
 ---
-title: Twierdza Powszechna | Patromierz - statystyki Patronite.pl
+title: Twierdza Powszechna | Patromierz
 
 permalink: /twierdzapowszechna
 ---

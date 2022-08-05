@@ -1,5 +1,5 @@
 ---
-title: Fundacja Dla Wszystkich | Patromierz - statystyki Patronite.pl
+title: Fundacja Dla Wszystkich | Patromierz
 
 permalink: /FundacjaDlaWszystkich
 ---

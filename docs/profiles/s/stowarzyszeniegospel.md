@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Gospel | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Gospel | Patromierz
 
 permalink: /stowarzyszeniegospel
 ---

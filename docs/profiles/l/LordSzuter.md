@@ -1,5 +1,5 @@
 ---
-title: Lord Szuter & Ubojnia Nudy | Patromierz - statystyki Patronite.pl
+title: Lord Szuter & Ubojnia Nudy | Patromierz
 
 permalink: /LordSzuter
 ---

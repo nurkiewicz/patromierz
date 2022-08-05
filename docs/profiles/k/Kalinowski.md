@@ -1,5 +1,5 @@
 ---
-title: Sylwester Kalinowski | Patromierz - statystyki Patronite.pl
+title: Sylwester Kalinowski | Patromierz
 
 permalink: /Kalinowski
 ---

@@ -1,5 +1,5 @@
 ---
-title: " Libert\xE9! | Patromierz - statystyki Patronite.pl"
+title: " Libert\xE9! | Patromierz"
 
 permalink: /liberte
 ---

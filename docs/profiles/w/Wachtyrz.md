@@ -1,5 +1,5 @@
 ---
-title: Wachtyrz.eu | Patromierz - statystyki Patronite.pl
+title: Wachtyrz.eu | Patromierz
 
 permalink: /Wachtyrz
 ---

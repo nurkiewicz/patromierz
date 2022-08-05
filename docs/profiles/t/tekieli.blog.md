@@ -1,6 +1,6 @@
 ---
 title: ROBERT TEKIELI                           Wielka Encyklopedia Manipulacji |
-  Patromierz - statystyki Patronite.pl
+  Patromierz
 
 permalink: /tekieli.blog
 ---

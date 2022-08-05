@@ -1,5 +1,5 @@
 ---
-title: Koniki Ursza | Patromierz - statystyki Patronite.pl
+title: Koniki Ursza | Patromierz
 
 permalink: /koniki_ursza
 ---

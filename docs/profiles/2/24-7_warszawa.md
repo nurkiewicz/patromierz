@@ -1,5 +1,5 @@
 ---
-title: ' 24/7 Warszawa - Dom Modlitwy | Patromierz - statystyki Patronite.pl'
+title: ' 24/7 Warszawa - Dom Modlitwy | Patromierz'
 
 permalink: /24-7_warszawa
 ---

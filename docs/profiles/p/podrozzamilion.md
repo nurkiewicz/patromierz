@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017C Za Milion Zdj\u0119\u0107 | Patromierz - statystyki Patronite.pl"
+title: "Podr\xF3\u017C Za Milion Zdj\u0119\u0107 | Patromierz"
 
 permalink: /podrozzamilion
 ---

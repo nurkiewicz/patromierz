@@ -1,5 +1,5 @@
 ---
-title: Adrian Kostera | Patromierz - statystyki Patronite.pl
+title: Adrian Kostera | Patromierz
 
 permalink: /AdrianKostera
 ---

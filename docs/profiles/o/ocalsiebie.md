@@ -1,5 +1,5 @@
 ---
-title: OcalSiebie | Patromierz - statystyki Patronite.pl
+title: OcalSiebie | Patromierz
 
 permalink: /ocalsiebie
 ---

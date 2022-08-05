@@ -1,5 +1,5 @@
 ---
-title: Wiktor Hofman | Patromierz - statystyki Patronite.pl
+title: Wiktor Hofman | Patromierz
 
 permalink: /wiktorhofman
 ---

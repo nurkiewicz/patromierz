@@ -1,5 +1,5 @@
 ---
-title: "Swojski J\u0119zyk Polski | Patromierz - statystyki Patronite.pl"
+title: "Swojski J\u0119zyk Polski | Patromierz"
 
 permalink: /swojski-jezyk-polski
 ---

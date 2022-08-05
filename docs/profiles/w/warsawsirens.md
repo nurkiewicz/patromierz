@@ -1,5 +1,5 @@
 ---
-title: Warsaw Sirens | Patromierz - statystyki Patronite.pl
+title: Warsaw Sirens | Patromierz
 
 permalink: /warsawsirens
 ---

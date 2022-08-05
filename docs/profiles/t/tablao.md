@@ -1,5 +1,5 @@
 ---
-title: Tablao Flamenco Warszawa | Patromierz - statystyki Patronite.pl
+title: Tablao Flamenco Warszawa | Patromierz
 
 permalink: /tablao
 ---

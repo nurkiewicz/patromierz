@@ -1,5 +1,5 @@
 ---
-title: Kamila Engelhardt | Patromierz - statystyki Patronite.pl
+title: Kamila Engelhardt | Patromierz
 
 permalink: /Freaky-Ton
 ---

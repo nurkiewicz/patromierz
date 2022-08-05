@@ -1,5 +1,5 @@
 ---
-title: "U Siedmiu Kot\xF3w - Dom Tymczasowy | Patromierz - statystyki Patronite.pl"
+title: "U Siedmiu Kot\xF3w - Dom Tymczasowy | Patromierz"
 
 permalink: /u7kotow
 ---

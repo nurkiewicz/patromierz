@@ -1,5 +1,5 @@
 ---
-title: InTheCage.pl | Patromierz - statystyki Patronite.pl
+title: InTheCage.pl | Patromierz
 
 permalink: /inthecagepl
 ---

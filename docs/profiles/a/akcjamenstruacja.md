@@ -1,5 +1,5 @@
 ---
-title: Akcja  Menstruacja | Patromierz - statystyki Patronite.pl
+title: Akcja  Menstruacja | Patromierz
 
 permalink: /akcjamenstruacja
 ---

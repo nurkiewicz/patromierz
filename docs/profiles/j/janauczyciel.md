@@ -1,5 +1,5 @@
 ---
-title: Fundacja Ja, Nauczyciel | Patromierz - statystyki Patronite.pl
+title: Fundacja Ja, Nauczyciel | Patromierz
 
 permalink: /janauczyciel
 ---

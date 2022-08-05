@@ -1,5 +1,5 @@
 ---
-title: Odyseos.com | Patromierz - statystyki Patronite.pl
+title: Odyseos.com | Patromierz
 
 permalink: /odyseos
 ---

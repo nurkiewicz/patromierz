@@ -1,5 +1,5 @@
 ---
-title: KapitanB | Patromierz - statystyki Patronite.pl
+title: KapitanB | Patromierz
 
 permalink: /KapitanB
 ---

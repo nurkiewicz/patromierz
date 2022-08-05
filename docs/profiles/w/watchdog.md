@@ -1,5 +1,5 @@
 ---
-title: "Sie\u0107 Obywatelska Watchdog Polska | Patromierz - statystyki Patronite.pl"
+title: "Sie\u0107 Obywatelska Watchdog Polska | Patromierz"
 
 permalink: /watchdog
 ---

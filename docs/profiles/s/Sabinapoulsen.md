@@ -1,5 +1,5 @@
 ---
-title: Sabina Poulsen  | Patromierz - statystyki Patronite.pl
+title: Sabina Poulsen  | Patromierz
 
 permalink: /Sabinapoulsen
 ---

@@ -1,5 +1,5 @@
 ---
-title: pasieka.network | Patromierz - statystyki Patronite.pl
+title: pasieka.network | Patromierz
 
 permalink: /pasiekanetwork
 ---

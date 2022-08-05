@@ -1,5 +1,5 @@
 ---
-title: PIEING Magdalena Milert  | Patromierz - statystyki Patronite.pl
+title: PIEING Magdalena Milert  | Patromierz
 
 permalink: /pieing
 ---

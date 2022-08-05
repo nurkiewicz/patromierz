@@ -1,5 +1,5 @@
 ---
-title: Natalia Sosin-Krosnowska | Patromierz - statystyki Patronite.pl
+title: Natalia Sosin-Krosnowska | Patromierz
 
 permalink: /natalia.sosin.krosnowska
 ---

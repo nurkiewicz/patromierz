@@ -1,5 +1,5 @@
 ---
-title: Teatr The M.A.S.K. | Patromierz - statystyki Patronite.pl
+title: Teatr The M.A.S.K. | Patromierz
 
 permalink: /teatrthemask
 ---

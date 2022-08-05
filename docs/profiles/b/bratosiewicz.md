@@ -1,5 +1,5 @@
 ---
-title: bratosiewicz | Patromierz - statystyki Patronite.pl
+title: bratosiewicz | Patromierz
 
 permalink: /bratosiewicz
 ---

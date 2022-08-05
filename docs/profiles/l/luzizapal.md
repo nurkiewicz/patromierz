@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw P\u0142atkowski | Patromierz - statystyki Patronite.pl"
+title: "Przemys\u0142aw P\u0142atkowski | Patromierz"
 
 permalink: /luzizapal
 ---

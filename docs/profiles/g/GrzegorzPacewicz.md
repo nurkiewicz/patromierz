@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Pacewicz | Patromierz - statystyki Patronite.pl
+title: Grzegorz Pacewicz | Patromierz
 
 permalink: /GrzegorzPacewicz
 ---

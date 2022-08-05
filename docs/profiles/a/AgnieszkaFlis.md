@@ -1,5 +1,5 @@
 ---
-title: Agnieszka  Flis / Agnes Violin | Patromierz - statystyki Patronite.pl
+title: Agnieszka  Flis / Agnes Violin | Patromierz
 
 permalink: /AgnieszkaFlis
 ---

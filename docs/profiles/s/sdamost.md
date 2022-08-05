@@ -1,6 +1,5 @@
 ---
-title: "Salezja\u0144skie Duszpasterstwo Akademickie MOST  | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Salezja\u0144skie Duszpasterstwo Akademickie MOST  | Patromierz"
 
 permalink: /sdamost
 ---

@@ -1,5 +1,5 @@
 ---
-title: Grafzero vlog literacki | Patromierz - statystyki Patronite.pl
+title: Grafzero vlog literacki | Patromierz
 
 permalink: /grafzero
 ---

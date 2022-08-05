@@ -1,5 +1,5 @@
 ---
-title: "Leszy - Mi\u0142o\u015Bnicy Czystych Las\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Leszy - Mi\u0142o\u015Bnicy Czystych Las\xF3w | Patromierz"
 
 permalink: /Leszy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Niekryty Krytyk | Patromierz - statystyki Patronite.pl
+title: Niekryty Krytyk | Patromierz
 
 permalink: /niekryty
 ---

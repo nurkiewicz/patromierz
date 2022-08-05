@@ -1,5 +1,5 @@
 ---
-title: "Wspieramy szko\u0142\u0119 Jurie | Patromierz - statystyki Patronite.pl"
+title: "Wspieramy szko\u0142\u0119 Jurie | Patromierz"
 
 permalink: /szkolajurie
 ---

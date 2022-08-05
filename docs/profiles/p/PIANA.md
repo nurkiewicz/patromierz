@@ -1,5 +1,5 @@
 ---
-title: Galeria Piana | Patromierz - statystyki Patronite.pl
+title: Galeria Piana | Patromierz
 
 permalink: /PIANA
 ---

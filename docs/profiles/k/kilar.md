@@ -1,5 +1,5 @@
 ---
-title: Adrian Kilar | Patromierz - statystyki Patronite.pl
+title: Adrian Kilar | Patromierz
 
 permalink: /kilar
 ---

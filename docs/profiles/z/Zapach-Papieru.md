@@ -1,5 +1,5 @@
 ---
-title: Zapach Papieru | Patromierz - statystyki Patronite.pl
+title: Zapach Papieru | Patromierz
 
 permalink: /Zapach-Papieru
 ---

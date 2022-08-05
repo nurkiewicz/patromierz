@@ -1,5 +1,5 @@
 ---
-title: Tomasz Dziurko | Patromierz - statystyki Patronite.pl
+title: Tomasz Dziurko | Patromierz
 
 permalink: /tomasz-dziurko
 ---

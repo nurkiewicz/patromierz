@@ -1,5 +1,5 @@
 ---
-title: Rebeliant Admin MDR | Patromierz - statystyki Patronite.pl
+title: Rebeliant Admin MDR | Patromierz
 
 permalink: /Rebeliant
 ---

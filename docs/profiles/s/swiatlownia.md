@@ -1,5 +1,5 @@
 ---
-title: "Fundacja \u015Awiat\u0142ownia  | Patromierz - statystyki Patronite.pl"
+title: "Fundacja \u015Awiat\u0142ownia  | Patromierz"
 
 permalink: /swiatlownia
 ---

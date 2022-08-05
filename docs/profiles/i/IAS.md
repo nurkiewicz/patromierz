@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Instytut Analiz \u015Arodowiskowych | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Instytut Analiz \u015Arodowiskowych | Patromierz"
 
 permalink: /IAS
 ---

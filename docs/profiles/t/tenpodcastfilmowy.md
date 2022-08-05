@@ -1,5 +1,5 @@
 ---
-title: ten Podcast Filmowy  | Patromierz - statystyki Patronite.pl
+title: ten Podcast Filmowy  | Patromierz
 
 permalink: /tenpodcastfilmowy
 ---

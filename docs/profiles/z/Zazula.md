@@ -1,5 +1,5 @@
 ---
-title: Zazula | Patromierz - statystyki Patronite.pl
+title: Zazula | Patromierz
 
 permalink: /Zazula
 ---

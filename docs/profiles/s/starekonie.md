@@ -1,5 +1,5 @@
 ---
-title: Stare Konie | Patromierz - statystyki Patronite.pl
+title: Stare Konie | Patromierz
 
 permalink: /starekonie
 ---

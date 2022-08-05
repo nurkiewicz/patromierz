@@ -1,5 +1,5 @@
 ---
-title: Che Juventus | Patromierz - statystyki Patronite.pl
+title: Che Juventus | Patromierz
 
 permalink: /chejuventus
 ---

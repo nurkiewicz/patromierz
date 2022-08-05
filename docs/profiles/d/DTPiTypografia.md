@@ -1,5 +1,5 @@
 ---
-title: DTP i Typografia | Patromierz - statystyki Patronite.pl
+title: DTP i Typografia | Patromierz
 
 permalink: /DTPiTypografia
 ---

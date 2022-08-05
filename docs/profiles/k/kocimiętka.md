@@ -1,5 +1,5 @@
 ---
-title: "kocimi\u0119tka | Patromierz - statystyki Patronite.pl"
+title: "kocimi\u0119tka | Patromierz"
 
 permalink: /kocimiętka
 ---

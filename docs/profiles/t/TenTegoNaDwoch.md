@@ -1,5 +1,5 @@
 ---
-title: Teillman | Patromierz - statystyki Patronite.pl
+title: Teillman | Patromierz
 
 permalink: /TenTegoNaDwoch
 ---

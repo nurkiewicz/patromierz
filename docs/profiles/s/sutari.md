@@ -1,5 +1,5 @@
 ---
-title: SUTARI | Patromierz - statystyki Patronite.pl
+title: SUTARI | Patromierz
 
 permalink: /sutari
 ---

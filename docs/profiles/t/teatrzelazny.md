@@ -1,5 +1,5 @@
 ---
-title: "Teatr \u017Belazny | Patromierz - statystyki Patronite.pl"
+title: "Teatr \u017Belazny | Patromierz"
 
 permalink: /teatrzelazny
 ---

@@ -1,5 +1,5 @@
 ---
-title: Krowoderska.pl | Patromierz - statystyki Patronite.pl
+title: Krowoderska.pl | Patromierz
 
 permalink: /krowoderska
 ---

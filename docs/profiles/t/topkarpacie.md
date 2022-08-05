@@ -1,5 +1,5 @@
 ---
-title: TopKarpacie | Patromierz - statystyki Patronite.pl
+title: TopKarpacie | Patromierz
 
 permalink: /topkarpacie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jan Dzieko\u0144ski o Nieruchomo\u015Bciach | Patromierz - statystyki Patronite.pl"
+title: "Jan Dzieko\u0144ski o Nieruchomo\u015Bciach | Patromierz"
 
 permalink: /jandziekonskionieruchomosciach
 ---

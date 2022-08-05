@@ -1,5 +1,5 @@
 ---
-title: Tapo24.pl | Patromierz - statystyki Patronite.pl
+title: Tapo24.pl | Patromierz
 
 permalink: /tapo24
 ---

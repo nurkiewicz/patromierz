@@ -1,5 +1,5 @@
 ---
-title: "Podcast \u201EBo czemu nie?\u201D | Patromierz - statystyki Patronite.pl"
+title: "Podcast \u201EBo czemu nie?\u201D | Patromierz"
 
 permalink: /boczemunie
 ---

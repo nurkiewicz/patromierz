@@ -1,5 +1,5 @@
 ---
-title: RetroGralnia | Patromierz - statystyki Patronite.pl
+title: RetroGralnia | Patromierz
 
 permalink: /RetroGralnia
 ---

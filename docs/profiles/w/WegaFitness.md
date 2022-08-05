@@ -1,5 +1,5 @@
 ---
-title: WegaFitness | Patromierz - statystyki Patronite.pl
+title: WegaFitness | Patromierz
 
 permalink: /WegaFitness
 ---

@@ -1,5 +1,5 @@
 ---
-title: Potok Drugi Dom Ludzi Rocka | Patromierz - statystyki Patronite.pl
+title: Potok Drugi Dom Ludzi Rocka | Patromierz
 
 permalink: /Potok
 ---

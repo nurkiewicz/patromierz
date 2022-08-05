@@ -1,5 +1,5 @@
 ---
-title: Jan Dulka | Patromierz - statystyki Patronite.pl
+title: Jan Dulka | Patromierz
 
 permalink: /dulka
 ---

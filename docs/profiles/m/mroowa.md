@@ -1,5 +1,5 @@
 ---
-title: Adam Antolski | Patromierz - statystyki Patronite.pl
+title: Adam Antolski | Patromierz
 
 permalink: /mroowa
 ---

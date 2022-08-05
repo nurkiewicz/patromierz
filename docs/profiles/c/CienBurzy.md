@@ -1,5 +1,5 @@
 ---
-title: Piotr Dudek | Patromierz - statystyki Patronite.pl
+title: Piotr Dudek | Patromierz
 
 permalink: /CienBurzy
 ---

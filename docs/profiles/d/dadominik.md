@@ -1,5 +1,5 @@
 ---
-title: DA Dominik | Patromierz - statystyki Patronite.pl
+title: DA Dominik | Patromierz
 
 permalink: /dadominik
 ---

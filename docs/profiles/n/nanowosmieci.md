@@ -1,5 +1,5 @@
 ---
-title: Podcast "Co w tym kosz(yk)u" | Patromierz - statystyki Patronite.pl
+title: Podcast "Co w tym kosz(yk)u" | Patromierz
 
 permalink: /nanowosmieci
 ---

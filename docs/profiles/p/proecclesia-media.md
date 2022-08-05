@@ -1,5 +1,5 @@
 ---
-title: proecclesia media | Patromierz - statystyki Patronite.pl
+title: proecclesia media | Patromierz
 
 permalink: /proecclesia-media
 ---

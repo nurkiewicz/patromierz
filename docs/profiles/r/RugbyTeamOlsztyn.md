@@ -1,5 +1,5 @@
 ---
-title: Rugby Team Olsztyn | Patromierz - statystyki Patronite.pl
+title: Rugby Team Olsztyn | Patromierz
 
 permalink: /RugbyTeamOlsztyn
 ---

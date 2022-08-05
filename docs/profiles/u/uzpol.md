@@ -1,5 +1,5 @@
 ---
-title: UZPOLproduction | Patromierz - statystyki Patronite.pl
+title: UZPOLproduction | Patromierz
 
 permalink: /uzpol
 ---

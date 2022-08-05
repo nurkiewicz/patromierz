@@ -1,5 +1,5 @@
 ---
-title: AlienHive.pl | Patromierz - statystyki Patronite.pl
+title: AlienHive.pl | Patromierz
 
 permalink: /alienhive
 ---

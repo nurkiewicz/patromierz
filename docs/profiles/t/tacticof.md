@@ -1,5 +1,5 @@
 ---
-title: tactic of... | Patromierz - statystyki Patronite.pl
+title: tactic of... | Patromierz
 
 permalink: /tacticof
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hardkorowa Historia | Patromierz - statystyki Patronite.pl
+title: Hardkorowa Historia | Patromierz
 
 permalink: /hardkorowahistoria
 ---

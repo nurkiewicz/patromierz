@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Paka dla Zwierzaka | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Paka dla Zwierzaka | Patromierz
 
 permalink: /StowarzyszeniePakaDlaZwierzaka
 ---

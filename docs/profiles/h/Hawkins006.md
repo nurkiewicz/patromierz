@@ -1,5 +1,5 @@
 ---
-title: Hawkins006 | Patromierz - statystyki Patronite.pl
+title: Hawkins006 | Patromierz
 
 permalink: /Hawkins006
 ---

@@ -1,5 +1,5 @@
 ---
-title: NOJRACHT/ FRONT - REKONSTRUKCJA | Patromierz - statystyki Patronite.pl
+title: NOJRACHT/ FRONT - REKONSTRUKCJA | Patromierz
 
 permalink: /nojracht-front
 ---

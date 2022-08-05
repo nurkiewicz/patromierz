@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Rupala | Patromierz - statystyki Patronite.pl"
+title: "Pawe\u0142 Rupala | Patromierz"
 
 permalink: /papina
 ---

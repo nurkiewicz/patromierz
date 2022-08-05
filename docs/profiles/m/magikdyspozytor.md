@@ -1,5 +1,5 @@
 ---
-title: Magik Dyspozytor | Patromierz - statystyki Patronite.pl
+title: Magik Dyspozytor | Patromierz
 
 permalink: /magikdyspozytor
 ---

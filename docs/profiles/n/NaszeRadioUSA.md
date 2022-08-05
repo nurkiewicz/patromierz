@@ -1,5 +1,5 @@
 ---
-title: Nasze Radio USA | Patromierz - statystyki Patronite.pl
+title: Nasze Radio USA | Patromierz
 
 permalink: /NaszeRadioUSA
 ---

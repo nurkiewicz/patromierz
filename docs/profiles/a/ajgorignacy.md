@@ -1,5 +1,5 @@
 ---
-title: Ajgor Ignacy | Patromierz - statystyki Patronite.pl
+title: Ajgor Ignacy | Patromierz
 
 permalink: /ajgorignacy
 ---

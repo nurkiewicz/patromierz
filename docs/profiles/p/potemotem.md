@@ -1,5 +1,5 @@
 ---
-title: Potem-o-tem  | Patromierz - statystyki Patronite.pl
+title: Potem-o-tem  | Patromierz
 
 permalink: /potemotem
 ---

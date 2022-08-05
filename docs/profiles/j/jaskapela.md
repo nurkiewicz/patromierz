@@ -1,5 +1,5 @@
 ---
-title: "Ja\u015B Kapela | Patromierz - statystyki Patronite.pl"
+title: "Ja\u015B Kapela | Patromierz"
 
 permalink: /jaskapela
 ---

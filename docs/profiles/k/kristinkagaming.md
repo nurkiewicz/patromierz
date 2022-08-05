@@ -1,5 +1,5 @@
 ---
-title: Kris-Tinka Gaming | Patromierz - statystyki Patronite.pl
+title: Kris-Tinka Gaming | Patromierz
 
 permalink: /kristinkagaming
 ---

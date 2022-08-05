@@ -1,5 +1,5 @@
 ---
-title: Marcin Rudawski | Patromierz - statystyki Patronite.pl
+title: Marcin Rudawski | Patromierz
 
 permalink: /marcinrudawski
 ---

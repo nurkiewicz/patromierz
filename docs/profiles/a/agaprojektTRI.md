@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Badyna-Graczyk | Patromierz - statystyki Patronite.pl
+title: Agnieszka Badyna-Graczyk | Patromierz
 
 permalink: /agaprojektTRI
 ---

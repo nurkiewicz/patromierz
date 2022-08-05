@@ -1,5 +1,5 @@
 ---
-title: Bayka | Patromierz - statystyki Patronite.pl
+title: Bayka | Patromierz
 
 permalink: /bayka
 ---

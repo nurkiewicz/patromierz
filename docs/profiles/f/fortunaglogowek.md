@@ -1,5 +1,5 @@
 ---
-title: "Fortuna G\u0142og\xF3wek | Patromierz - statystyki Patronite.pl"
+title: "Fortuna G\u0142og\xF3wek | Patromierz"
 
 permalink: /fortunaglogowek
 ---

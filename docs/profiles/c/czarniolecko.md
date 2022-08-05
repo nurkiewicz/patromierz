@@ -1,5 +1,5 @@
 ---
-title: MLKS Czarni Olecko | Patromierz - statystyki Patronite.pl
+title: MLKS Czarni Olecko | Patromierz
 
 permalink: /czarniolecko
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Justyna Kopi\u0144ska | Patromierz - statystyki Patronite.pl"
+title: "Justyna Kopi\u0144ska | Patromierz"
 
 permalink: /JustynaKopinska
 ---

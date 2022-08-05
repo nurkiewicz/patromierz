@@ -1,5 +1,5 @@
 ---
-title: Antyczny.blog | Patromierz - statystyki Patronite.pl
+title: Antyczny.blog | Patromierz
 
 permalink: /Antycznyblog
 ---

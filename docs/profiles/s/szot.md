@@ -1,5 +1,5 @@
 ---
-title: Wojtek Szot - Zdaniem Szota | Patromierz - statystyki Patronite.pl
+title: Wojtek Szot - Zdaniem Szota | Patromierz
 
 permalink: /szot
 ---

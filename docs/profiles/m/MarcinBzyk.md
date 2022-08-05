@@ -1,5 +1,5 @@
 ---
-title: Marcin Bzyk | Patromierz - statystyki Patronite.pl
+title: Marcin Bzyk | Patromierz
 
 permalink: /MarcinBzyk
 ---

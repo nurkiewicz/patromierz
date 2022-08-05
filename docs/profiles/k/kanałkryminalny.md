@@ -1,5 +1,5 @@
 ---
-title: "KANA\u0141 KRYMINALNY | Patromierz - statystyki Patronite.pl"
+title: "KANA\u0141 KRYMINALNY | Patromierz"
 
 permalink: /kanałkryminalny
 ---

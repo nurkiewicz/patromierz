@@ -1,5 +1,5 @@
 ---
-title: yuyechka | Patromierz - statystyki Patronite.pl
+title: yuyechka | Patromierz
 
 permalink: /yuyechka
 ---

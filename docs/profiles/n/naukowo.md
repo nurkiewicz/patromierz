@@ -1,5 +1,5 @@
 ---
-title: Podkast Naukowo | Patromierz - statystyki Patronite.pl
+title: Podkast Naukowo | Patromierz
 
 permalink: /naukowo
 ---

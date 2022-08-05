@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Top\xF3r | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Top\xF3r | Patromierz"
 
 permalink: /michaltopor
 ---

@@ -1,5 +1,5 @@
 ---
-title: Justyna Jary | Patromierz - statystyki Patronite.pl
+title: Justyna Jary | Patromierz
 
 permalink: /justynajary
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ewa  Stankiewicz | Patromierz - statystyki Patronite.pl
+title: Ewa  Stankiewicz | Patromierz
 
 permalink: /EwaStankiewicz
 ---

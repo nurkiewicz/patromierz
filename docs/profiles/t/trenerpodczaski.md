@@ -1,5 +1,5 @@
 ---
-title: Piotr Podczaski | Patromierz - statystyki Patronite.pl
+title: Piotr Podczaski | Patromierz
 
 permalink: /trenerpodczaski
 ---

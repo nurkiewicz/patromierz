@@ -1,5 +1,5 @@
 ---
-title: Piotr Nienartowicz | Patromierz - statystyki Patronite.pl
+title: Piotr Nienartowicz | Patromierz
 
 permalink: /pionier01
 ---

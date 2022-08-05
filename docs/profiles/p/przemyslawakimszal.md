@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142awa Kimszal Falecka | Patromierz - statystyki Patronite.pl"
+title: "Przemys\u0142awa Kimszal Falecka | Patromierz"
 
 permalink: /przemyslawakimszal
 ---

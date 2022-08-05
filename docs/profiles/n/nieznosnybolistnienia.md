@@ -1,5 +1,5 @@
 ---
-title: "Niezno\u015Bny B\xF3l Istnienia | Patromierz - statystyki Patronite.pl"
+title: "Niezno\u015Bny B\xF3l Istnienia | Patromierz"
 
 permalink: /nieznosnybolistnienia
 ---

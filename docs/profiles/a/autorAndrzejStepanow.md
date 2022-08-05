@@ -1,5 +1,5 @@
 ---
-title: Andrzej Stepanow | Patromierz - statystyki Patronite.pl
+title: Andrzej Stepanow | Patromierz
 
 permalink: /autorAndrzejStepanow
 ---

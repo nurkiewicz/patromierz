@@ -1,5 +1,5 @@
 ---
-title: Hubert Roszyk | Patromierz - statystyki Patronite.pl
+title: Hubert Roszyk | Patromierz
 
 permalink: /HubertRoszyk
 ---

@@ -1,5 +1,5 @@
 ---
-title: Przemek Gierczak | Patromierz - statystyki Patronite.pl
+title: Przemek Gierczak | Patromierz
 
 permalink: /ReCyclingRider
 ---

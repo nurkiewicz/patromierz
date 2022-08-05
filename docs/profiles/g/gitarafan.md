@@ -1,5 +1,5 @@
 ---
-title: Piotr Lessaer | Patromierz - statystyki Patronite.pl
+title: Piotr Lessaer | Patromierz
 
 permalink: /gitarafan
 ---

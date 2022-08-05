@@ -1,5 +1,5 @@
 ---
-title: Historyczny Top | Patromierz - statystyki Patronite.pl
+title: Historyczny Top | Patromierz
 
 permalink: /historycznytop
 ---

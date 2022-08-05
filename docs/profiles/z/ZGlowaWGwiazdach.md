@@ -1,6 +1,5 @@
 ---
-title: "Karol W\xF3jcicki | Z g\u0142ow\u0105 w gwiazdach | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Karol W\xF3jcicki | Z g\u0142ow\u0105 w gwiazdach | Patromierz"
 
 permalink: /ZGlowaWGwiazdach
 ---

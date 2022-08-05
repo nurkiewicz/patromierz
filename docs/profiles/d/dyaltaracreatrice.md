@@ -1,6 +1,5 @@
 ---
-title: "Dyal Tara Creatrice - Uzdrawiaj\u0105ca Wibracja Mantr | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Dyal Tara Creatrice - Uzdrawiaj\u0105ca Wibracja Mantr | Patromierz"
 
 permalink: /dyaltaracreatrice
 ---

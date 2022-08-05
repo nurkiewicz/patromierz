@@ -1,5 +1,5 @@
 ---
-title: FCBarca.com | Patromierz - statystyki Patronite.pl
+title: FCBarca.com | Patromierz
 
 permalink: /fcbarca-com
 ---

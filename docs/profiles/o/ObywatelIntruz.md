@@ -1,5 +1,5 @@
 ---
-title: Obywatel Intruz | Patromierz - statystyki Patronite.pl
+title: Obywatel Intruz | Patromierz
 
 permalink: /ObywatelIntruz
 ---

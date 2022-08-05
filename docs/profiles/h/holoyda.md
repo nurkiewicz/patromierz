@@ -1,5 +1,5 @@
 ---
-title: Daniel Holoyda Snooker | Patromierz - statystyki Patronite.pl
+title: Daniel Holoyda Snooker | Patromierz
 
 permalink: /holoyda
 ---

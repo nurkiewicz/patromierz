@@ -1,5 +1,5 @@
 ---
-title: Piotr Wierzbicki | Patromierz - statystyki Patronite.pl
+title: Piotr Wierzbicki | Patromierz
 
 permalink: /Piotr-Wierzbick-zdjecia-lepsze
 ---

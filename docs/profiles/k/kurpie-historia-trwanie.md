@@ -1,5 +1,5 @@
 ---
-title: Kurpie - historia i trwanie | Patromierz - statystyki Patronite.pl
+title: Kurpie - historia i trwanie | Patromierz
 
 permalink: /kurpie-historia-trwanie
 ---

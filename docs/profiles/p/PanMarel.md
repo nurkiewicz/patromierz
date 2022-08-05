@@ -1,5 +1,5 @@
 ---
-title: "Pan Mare\u0142 | Patromierz - statystyki Patronite.pl"
+title: "Pan Mare\u0142 | Patromierz"
 
 permalink: /PanMarel
 ---

@@ -1,5 +1,5 @@
 ---
-title: Radio 357 | Patromierz - statystyki Patronite.pl
+title: Radio 357 | Patromierz
 
 permalink: /radio357
 ---

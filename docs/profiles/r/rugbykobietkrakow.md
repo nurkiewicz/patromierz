@@ -1,5 +1,5 @@
 ---
-title: RUGBY KRAKOW | Patromierz - statystyki Patronite.pl
+title: RUGBY KRAKOW | Patromierz
 
 permalink: /rugbykobietkrakow
 ---

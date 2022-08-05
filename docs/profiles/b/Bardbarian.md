@@ -1,5 +1,5 @@
 ---
-title: Bardbarian | Patromierz - statystyki Patronite.pl
+title: Bardbarian | Patromierz
 
 permalink: /Bardbarian
 ---

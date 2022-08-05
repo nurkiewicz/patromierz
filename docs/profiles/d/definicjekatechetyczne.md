@@ -1,5 +1,5 @@
 ---
-title: Definicje Katechetyczne Braci | Patromierz - statystyki Patronite.pl
+title: Definicje Katechetyczne Braci | Patromierz
 
 permalink: /definicjekatechetyczne
 ---

@@ -1,5 +1,5 @@
 ---
-title: Racjonalista.tv | Patromierz - statystyki Patronite.pl
+title: Racjonalista.tv | Patromierz
 
 permalink: /RacjonalistaTV
 ---

@@ -1,5 +1,5 @@
 ---
-title: Pani Ka | Patromierz - statystyki Patronite.pl
+title: Pani Ka | Patromierz
 
 permalink: /panika
 ---

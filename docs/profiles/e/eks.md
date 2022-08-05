@@ -1,5 +1,5 @@
 ---
-title: "EKS - chrze\u015Bcija\u0144ski przekaz w rapie | Patromierz - statystyki Patronite.pl"
+title: "EKS - chrze\u015Bcija\u0144ski przekaz w rapie | Patromierz"
 
 permalink: /eks
 ---

@@ -1,5 +1,5 @@
 ---
-title: GeoEdukacja | Patromierz - statystyki Patronite.pl
+title: GeoEdukacja | Patromierz
 
 permalink: /geoedukacja
 ---

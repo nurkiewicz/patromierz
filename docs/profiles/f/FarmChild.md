@@ -1,5 +1,5 @@
 ---
-title: Farm Child  | Patromierz - statystyki Patronite.pl
+title: Farm Child  | Patromierz
 
 permalink: /FarmChild
 ---

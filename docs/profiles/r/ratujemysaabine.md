@@ -1,5 +1,5 @@
 ---
-title: RatujemySAABine | Patromierz - statystyki Patronite.pl
+title: RatujemySAABine | Patromierz
 
 permalink: /ratujemysaabine
 ---

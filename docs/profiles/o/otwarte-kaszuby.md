@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Otwarte Kaszuby | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Otwarte Kaszuby | Patromierz
 
 permalink: /otwarte-kaszuby
 ---

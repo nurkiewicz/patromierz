@@ -1,5 +1,5 @@
 ---
-title: "Warcho\u0142 | Patromierz - statystyki Patronite.pl"
+title: "Warcho\u0142 | Patromierz"
 
 permalink: /warchol
 ---

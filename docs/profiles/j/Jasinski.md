@@ -1,5 +1,5 @@
 ---
-title: "Marcin Jasi\u0144ski Fotografia | Patromierz - statystyki Patronite.pl"
+title: "Marcin Jasi\u0144ski Fotografia | Patromierz"
 
 permalink: /Jasinski
 ---

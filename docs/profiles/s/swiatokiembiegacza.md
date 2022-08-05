@@ -1,5 +1,5 @@
 ---
-title: Florian Pyszel | Patromierz - statystyki Patronite.pl
+title: Florian Pyszel | Patromierz
 
 permalink: /swiatokiembiegacza
 ---

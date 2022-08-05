@@ -1,5 +1,5 @@
 ---
-title: Izabela Wolska | Patromierz - statystyki Patronite.pl
+title: Izabela Wolska | Patromierz
 
 permalink: /IzabelaWolska
 ---

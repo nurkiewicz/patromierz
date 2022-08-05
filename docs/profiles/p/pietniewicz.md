@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Pi\u0119tniewicz | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Pi\u0119tniewicz | Patromierz"
 
 permalink: /pietniewicz
 ---

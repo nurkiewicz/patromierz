@@ -1,5 +1,5 @@
 ---
-title: Higienistka po godzinach | Patromierz - statystyki Patronite.pl
+title: Higienistka po godzinach | Patromierz
 
 permalink: /higienistkapogodzinach
 ---

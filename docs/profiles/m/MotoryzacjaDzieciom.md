@@ -1,5 +1,5 @@
 ---
-title: Fundacja Motoryzacja Dzieciom | Patromierz - statystyki Patronite.pl
+title: Fundacja Motoryzacja Dzieciom | Patromierz
 
 permalink: /MotoryzacjaDzieciom
 ---

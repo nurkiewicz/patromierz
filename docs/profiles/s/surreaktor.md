@@ -1,5 +1,5 @@
 ---
-title: Surreaktor | Patromierz - statystyki Patronite.pl
+title: Surreaktor | Patromierz
 
 permalink: /surreaktor
 ---

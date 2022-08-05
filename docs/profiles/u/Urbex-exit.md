@@ -1,5 +1,5 @@
 ---
-title: Urbex exit | Patromierz - statystyki Patronite.pl
+title: Urbex exit | Patromierz
 
 permalink: /Urbex-exit
 ---

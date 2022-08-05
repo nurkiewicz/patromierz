@@ -1,5 +1,5 @@
 ---
-title: GRANDE CONNECTION | Patromierz - statystyki Patronite.pl
+title: GRANDE CONNECTION | Patromierz
 
 permalink: /grandeconnection
 ---

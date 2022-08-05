@@ -1,5 +1,5 @@
 ---
-title: Aga Vibes ASMR | Patromierz - statystyki Patronite.pl
+title: Aga Vibes ASMR | Patromierz
 
 permalink: /AgaVibesASMR
 ---

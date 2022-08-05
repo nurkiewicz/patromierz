@@ -1,5 +1,5 @@
 ---
-title: chono | Patromierz - statystyki Patronite.pl
+title: chono | Patromierz
 
 permalink: /chono
 ---

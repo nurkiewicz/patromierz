@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Mudita. Spa dla mam | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Mudita. Spa dla mam | Patromierz
 
 permalink: /stowarzyszeniemudita
 ---

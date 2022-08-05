@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Schronisko dla Ro\u015Blin | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Schronisko dla Ro\u015Blin | Patromierz"
 
 permalink: /schroniskodlaroslin
 ---

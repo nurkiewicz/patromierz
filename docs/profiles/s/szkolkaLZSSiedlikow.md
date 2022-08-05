@@ -1,5 +1,5 @@
 ---
-title: "Szk\xF3\u0142ka LZS Siedlik\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Szk\xF3\u0142ka LZS Siedlik\xF3w | Patromierz"
 
 permalink: /szkolkaLZSSiedlikow
 ---

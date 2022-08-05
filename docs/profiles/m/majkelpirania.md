@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Piech \"Majkel\" | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Piech \"Majkel\" | Patromierz"
 
 permalink: /majkelpirania
 ---

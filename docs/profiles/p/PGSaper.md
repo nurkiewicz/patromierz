@@ -1,5 +1,5 @@
 ---
-title: PGSaper | Patromierz - statystyki Patronite.pl
+title: PGSaper | Patromierz
 
 permalink: /PGSaper
 ---

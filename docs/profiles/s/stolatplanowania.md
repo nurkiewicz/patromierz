@@ -1,5 +1,5 @@
 ---
-title: Sto Lat Planowania | Patromierz - statystyki Patronite.pl
+title: Sto Lat Planowania | Patromierz
 
 permalink: /stolatplanowania
 ---

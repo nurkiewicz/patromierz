@@ -1,5 +1,5 @@
 ---
-title: Pan z Loombardu | Patromierz - statystyki Patronite.pl
+title: Pan z Loombardu | Patromierz
 
 permalink: /PZL
 ---

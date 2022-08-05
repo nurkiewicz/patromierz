@@ -1,5 +1,5 @@
 ---
-title: Mroux  | Patromierz - statystyki Patronite.pl
+title: Mroux  | Patromierz
 
 permalink: /Mroux
 ---

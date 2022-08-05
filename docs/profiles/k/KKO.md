@@ -1,5 +1,5 @@
 ---
-title: "Koszykarski Klub Ole\u015Bnica | Patromierz - statystyki Patronite.pl"
+title: "Koszykarski Klub Ole\u015Bnica | Patromierz"
 
 permalink: /KKO
 ---

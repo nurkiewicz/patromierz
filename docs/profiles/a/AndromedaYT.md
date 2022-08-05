@@ -1,5 +1,5 @@
 ---
-title: Andromeda | Patromierz - statystyki Patronite.pl
+title: Andromeda | Patromierz
 
 permalink: /AndromedaYT
 ---

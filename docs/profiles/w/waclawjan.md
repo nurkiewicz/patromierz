@@ -1,5 +1,5 @@
 ---
-title: Waclaw Jan Kroczek | Patromierz - statystyki Patronite.pl
+title: Waclaw Jan Kroczek | Patromierz
 
 permalink: /waclawjan
 ---

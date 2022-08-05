@@ -1,5 +1,5 @@
 ---
-title: "\u017Bycie w Zeszycie | Patromierz - statystyki Patronite.pl"
+title: "\u017Bycie w Zeszycie | Patromierz"
 
 permalink: /zyciewzeszycie
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja SysOps / DevOps Polska | Patromierz - statystyki Patronite.pl
+title: Fundacja SysOps / DevOps Polska | Patromierz
 
 permalink: /sysopspolska
 ---

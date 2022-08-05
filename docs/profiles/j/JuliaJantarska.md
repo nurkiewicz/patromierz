@@ -1,5 +1,5 @@
 ---
-title: 'Julia Jantarska #roadtoMOTOGP | Patromierz - statystyki Patronite.pl'
+title: 'Julia Jantarska #roadtoMOTOGP | Patromierz'
 
 permalink: /JuliaJantarska
 ---

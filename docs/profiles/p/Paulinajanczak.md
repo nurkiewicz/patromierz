@@ -1,5 +1,5 @@
 ---
-title: Paulina Janczak | Patromierz - statystyki Patronite.pl
+title: Paulina Janczak | Patromierz
 
 permalink: /Paulinajanczak
 ---

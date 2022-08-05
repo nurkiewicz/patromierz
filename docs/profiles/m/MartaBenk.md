@@ -1,5 +1,5 @@
 ---
-title: Marta Benk - Organistka PL | Patromierz - statystyki Patronite.pl
+title: Marta Benk - Organistka PL | Patromierz
 
 permalink: /MartaBenk
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Joachima lelewela | Patromierz - statystyki Patronite.pl
+title: Fundacja Joachima lelewela | Patromierz
 
 permalink: /Fundacja-Joachima-Lelewela
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Religia Bez \u015Aciemy | Patromierz - statystyki Patronite.pl"
+title: "Religia Bez \u015Aciemy | Patromierz"
 
 permalink: /religiabezsciemy
 ---

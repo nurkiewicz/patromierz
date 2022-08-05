@@ -1,5 +1,5 @@
 ---
-title: "Ekonomia i ca\u0142a reszta | Patromierz - statystyki Patronite.pl"
+title: "Ekonomia i ca\u0142a reszta | Patromierz"
 
 permalink: /Ekonomiaicałareszta
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alicja Kmita | Patromierz - statystyki Patronite.pl
+title: Alicja Kmita | Patromierz
 
 permalink: /Kmitoska
 ---

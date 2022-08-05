@@ -1,5 +1,5 @@
 ---
-title: Freakery | Patromierz - statystyki Patronite.pl
+title: Freakery | Patromierz
 
 permalink: /thefreakery
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja web.lex | Patromierz - statystyki Patronite.pl
+title: Fundacja web.lex | Patromierz
 
 permalink: /fundacja-weblex
 ---

@@ -1,5 +1,5 @@
 ---
-title: Angelika M. Talaga | Patromierz - statystyki Patronite.pl
+title: Angelika M. Talaga | Patromierz
 
 permalink: /godmother
 ---

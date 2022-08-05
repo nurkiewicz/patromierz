@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie \u017Bywych Poet\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Stowarzyszenie \u017Bywych Poet\xF3w | Patromierz"
 
 permalink: /szp
 ---

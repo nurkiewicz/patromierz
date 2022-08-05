@@ -1,5 +1,5 @@
 ---
-title: "Prze\u017Cyj w g\u0142uszy | Patromierz - statystyki Patronite.pl"
+title: "Prze\u017Cyj w g\u0142uszy | Patromierz"
 
 permalink: /przezyjwgluszy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Dwutygodnik.com | Patromierz - statystyki Patronite.pl
+title: Dwutygodnik.com | Patromierz
 
 permalink: /dwutygodnik
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kuba Zaborski | Patromierz - statystyki Patronite.pl
+title: Kuba Zaborski | Patromierz
 
 permalink: /kubazaborski
 ---

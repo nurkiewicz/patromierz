@@ -1,5 +1,5 @@
 ---
-title: Jacek Suchanowski | Patromierz - statystyki Patronite.pl
+title: Jacek Suchanowski | Patromierz
 
 permalink: /jacek_suchanowski
 ---

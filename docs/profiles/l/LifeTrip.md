@@ -1,5 +1,5 @@
 ---
-title: LifeTrip - Survival & Bushcraft | Patromierz - statystyki Patronite.pl
+title: LifeTrip - Survival & Bushcraft | Patromierz
 
 permalink: /LifeTrip
 ---

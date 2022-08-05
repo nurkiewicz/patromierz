@@ -1,5 +1,5 @@
 ---
-title: "Le\u015Bne Rzemios\u0142o | Patromierz - statystyki Patronite.pl"
+title: "Le\u015Bne Rzemios\u0142o | Patromierz"
 
 permalink: /lesnerzemioslo
 ---

@@ -1,5 +1,5 @@
 ---
-title: Niebieskie SOS | Patromierz - statystyki Patronite.pl
+title: Niebieskie SOS | Patromierz
 
 permalink: /oronowicz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Adam CHMIEL | Patromierz - statystyki Patronite.pl
+title: Adam CHMIEL | Patromierz
 
 permalink: /TacticalChmielu
 ---

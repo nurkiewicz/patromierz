@@ -1,5 +1,5 @@
 ---
-title: Hello Yogi | Patromierz - statystyki Patronite.pl
+title: Hello Yogi | Patromierz
 
 permalink: /helloyogi
 ---

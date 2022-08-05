@@ -1,5 +1,5 @@
 ---
-title: Grzechu40 | Patromierz - statystyki Patronite.pl
+title: Grzechu40 | Patromierz
 
 permalink: /Grzechu40
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fundacja KTO\u015A | Patromierz - statystyki Patronite.pl"
+title: "Fundacja KTO\u015A | Patromierz"
 
 permalink: /fundacjaktos
 ---

@@ -1,5 +1,5 @@
 ---
-title: VeganoManiak | Patromierz - statystyki Patronite.pl
+title: VeganoManiak | Patromierz
 
 permalink: /VeganoManiak
 ---

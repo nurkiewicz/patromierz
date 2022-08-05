@@ -1,5 +1,5 @@
 ---
-title: "Otw\xF3rz oczy, patrz! | Patromierz - statystyki Patronite.pl"
+title: "Otw\xF3rz oczy, patrz! | Patromierz"
 
 permalink: /otworzoczypatrz
 ---

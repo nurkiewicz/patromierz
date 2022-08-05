@@ -1,5 +1,5 @@
 ---
-title: Fundacja Ne_Ni | Patromierz - statystyki Patronite.pl
+title: Fundacja Ne_Ni | Patromierz
 
 permalink: /kwartalnikNE_NI
 ---

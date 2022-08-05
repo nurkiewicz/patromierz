@@ -1,5 +1,5 @@
 ---
-title: Kupa Chrustu | Patromierz - statystyki Patronite.pl
+title: Kupa Chrustu | Patromierz
 
 permalink: /kupachrustu
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Portal publicystyczny Nowy \u0141ad  | Patromierz - statystyki Patronite.pl"
+title: "Portal publicystyczny Nowy \u0141ad  | Patromierz"
 
 permalink: /nowylad
 ---

@@ -1,5 +1,5 @@
 ---
-title: Joanna Baumgartner | Patromierz - statystyki Patronite.pl
+title: Joanna Baumgartner | Patromierz
 
 permalink: /baumgartner.store
 ---

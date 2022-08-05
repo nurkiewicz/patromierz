@@ -1,5 +1,5 @@
 ---
-title: Leszek Korzeniecki | Patromierz - statystyki Patronite.pl
+title: Leszek Korzeniecki | Patromierz
 
 permalink: /Leszek-Korzeniecki
 ---

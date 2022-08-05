@@ -1,5 +1,5 @@
 ---
-title: "Zosta\u0144 Wege - Fundacja Viva! | Patromierz - statystyki Patronite.pl"
+title: "Zosta\u0144 Wege - Fundacja Viva! | Patromierz"
 
 permalink: /zostanwege
 ---

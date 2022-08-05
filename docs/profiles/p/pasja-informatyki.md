@@ -1,5 +1,5 @@
 ---
-title: Pasja informatyki | Patromierz - statystyki Patronite.pl
+title: Pasja informatyki | Patromierz
 
 permalink: /pasja-informatyki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Marta Misztal | Patromierz - statystyki Patronite.pl
+title: Marta Misztal | Patromierz
 
 permalink: /tolivetotravel
 ---

@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Piasecki | Patromierz - statystyki Patronite.pl
+title: Krzysztof Piasecki | Patromierz
 
 permalink: /pogodawstolicy
 ---

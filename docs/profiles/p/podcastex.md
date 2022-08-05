@@ -1,5 +1,5 @@
 ---
-title: Podcastex | Patromierz - statystyki Patronite.pl
+title: Podcastex | Patromierz
 
 permalink: /podcastex
 ---

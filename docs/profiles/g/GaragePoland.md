@@ -1,5 +1,5 @@
 ---
-title: GaragePoland | Patromierz - statystyki Patronite.pl
+title: GaragePoland | Patromierz
 
 permalink: /GaragePoland
 ---

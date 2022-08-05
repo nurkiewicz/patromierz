@@ -1,5 +1,5 @@
 ---
-title: PLues X deConstruction of Bar's bLues | Patromierz - statystyki Patronite.pl
+title: PLues X deConstruction of Bar's bLues | Patromierz
 
 permalink: /PLuesX
 ---

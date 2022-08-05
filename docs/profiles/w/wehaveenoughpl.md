@@ -1,5 +1,5 @@
 ---
-title: WE HAVE ENOUGH | Patromierz - statystyki Patronite.pl
+title: WE HAVE ENOUGH | Patromierz
 
 permalink: /wehaveenoughpl
 ---

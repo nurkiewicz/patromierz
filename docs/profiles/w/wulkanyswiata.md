@@ -1,5 +1,5 @@
 ---
-title: "Wulkany \u015Bwiata | Patromierz - statystyki Patronite.pl"
+title: "Wulkany \u015Bwiata | Patromierz"
 
 permalink: /wulkanyswiata
 ---

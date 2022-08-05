@@ -1,5 +1,5 @@
 ---
-title: "Bajki o  Doros\u0142ych | Patromierz - statystyki Patronite.pl"
+title: "Bajki o  Doros\u0142ych | Patromierz"
 
 permalink: /Bajkiodoroslych
 ---

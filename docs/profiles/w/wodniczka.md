@@ -1,5 +1,5 @@
 ---
-title: OTOP | Patromierz - statystyki Patronite.pl
+title: OTOP | Patromierz
 
 permalink: /wodniczka
 ---

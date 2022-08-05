@@ -1,5 +1,5 @@
 ---
-title: "Zbigniew Jask\xF3lski | Patromierz - statystyki Patronite.pl"
+title: "Zbigniew Jask\xF3lski | Patromierz"
 
 permalink: /ZbigniewJaskolskiTV
 ---

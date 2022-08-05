@@ -1,5 +1,5 @@
 ---
-title: Ania na Rowerze | Patromierz - statystyki Patronite.pl
+title: Ania na Rowerze | Patromierz
 
 permalink: /AniaNaRowerze
 ---

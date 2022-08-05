@@ -1,5 +1,5 @@
 ---
-title: MysteryTV | Patromierz - statystyki Patronite.pl
+title: MysteryTV | Patromierz
 
 permalink: /mysterytv
 ---

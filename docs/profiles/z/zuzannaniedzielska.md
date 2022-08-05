@@ -1,5 +1,5 @@
 ---
-title: Zuzanna Niedzielska | Patromierz - statystyki Patronite.pl
+title: Zuzanna Niedzielska | Patromierz
 
 permalink: /zuzannaniedzielska
 ---

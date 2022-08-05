@@ -1,5 +1,5 @@
 ---
-title: "Odwr\xF3cona Lekcja | Patromierz - statystyki Patronite.pl"
+title: "Odwr\xF3cona Lekcja | Patromierz"
 
 permalink: /odwróconalekcja
 ---

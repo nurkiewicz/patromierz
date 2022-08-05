@@ -1,5 +1,5 @@
 ---
-title: Pani Monia  | Patromierz - statystyki Patronite.pl
+title: Pani Monia  | Patromierz
 
 permalink: /panimonia
 ---

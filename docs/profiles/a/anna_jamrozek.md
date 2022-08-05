@@ -1,5 +1,5 @@
 ---
-title: Anna Jamrozek | Patromierz - statystyki Patronite.pl
+title: Anna Jamrozek | Patromierz
 
 permalink: /anna_jamrozek
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142o\u015B\u0107 Nie Wyklucza | Patromierz - statystyki Patronite.pl"
+title: "Mi\u0142o\u015B\u0107 Nie Wyklucza | Patromierz"
 
 permalink: /mnw
 ---

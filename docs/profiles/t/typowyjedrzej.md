@@ -1,5 +1,5 @@
 ---
-title: "Typowy J\u0119drzej | Patromierz - statystyki Patronite.pl"
+title: "Typowy J\u0119drzej | Patromierz"
 
 permalink: /typowyjedrzej
 ---

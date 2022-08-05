@@ -1,5 +1,5 @@
 ---
-title: Fundacja Eudajmonia | Patromierz - statystyki Patronite.pl
+title: Fundacja Eudajmonia | Patromierz
 
 permalink: /fundacjaeudajmonia
 ---

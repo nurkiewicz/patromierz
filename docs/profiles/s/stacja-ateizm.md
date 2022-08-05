@@ -1,5 +1,5 @@
 ---
-title: Stacja Ateizm | Patromierz - statystyki Patronite.pl
+title: Stacja Ateizm | Patromierz
 
 permalink: /stacja-ateizm
 ---

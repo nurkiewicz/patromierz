@@ -1,5 +1,5 @@
 ---
-title: LIMBOSKI | Patromierz - statystyki Patronite.pl
+title: LIMBOSKI | Patromierz
 
 permalink: /limboski
 ---

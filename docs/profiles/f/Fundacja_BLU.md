@@ -1,5 +1,5 @@
 ---
-title: Fundacja B.L.U. | Patromierz - statystyki Patronite.pl
+title: Fundacja B.L.U. | Patromierz
 
 permalink: /Fundacja_BLU
 ---

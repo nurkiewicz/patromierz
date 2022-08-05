@@ -1,5 +1,5 @@
 ---
-title: "M\xD3ZG UPGRADE | Patromierz - statystyki Patronite.pl"
+title: "M\xD3ZG UPGRADE | Patromierz"
 
 permalink: /upgrademozg
 ---

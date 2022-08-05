@@ -1,5 +1,5 @@
 ---
-title: "Ca\u0142a Prawda | Patromierz - statystyki Patronite.pl"
+title: "Ca\u0142a Prawda | Patromierz"
 
 permalink: /calaprawda
 ---

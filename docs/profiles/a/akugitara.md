@@ -1,5 +1,5 @@
 ---
-title: AkuGitara | Patromierz - statystyki Patronite.pl
+title: AkuGitara | Patromierz
 
 permalink: /akugitara
 ---

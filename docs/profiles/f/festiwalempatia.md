@@ -1,5 +1,5 @@
 ---
-title: Festiwal Akcja Empatia | Patromierz - statystyki Patronite.pl
+title: Festiwal Akcja Empatia | Patromierz
 
 permalink: /festiwalempatia
 ---

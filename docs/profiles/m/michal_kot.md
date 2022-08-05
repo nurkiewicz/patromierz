@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kot | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Kot | Patromierz"
 
 permalink: /michal_kot
 ---

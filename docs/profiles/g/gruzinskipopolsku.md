@@ -1,5 +1,5 @@
 ---
-title: "Gruzi\u0144ski po polsku | Patromierz - statystyki Patronite.pl"
+title: "Gruzi\u0144ski po polsku | Patromierz"
 
 permalink: /gruzinskipopolsku
 ---

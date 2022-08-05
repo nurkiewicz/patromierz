@@ -1,5 +1,5 @@
 ---
-title: "Wa\u0107panna Cosplay | Patromierz - statystyki Patronite.pl"
+title: "Wa\u0107panna Cosplay | Patromierz"
 
 permalink: /wacpankacosp
 ---

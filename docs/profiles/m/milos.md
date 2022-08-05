@@ -1,5 +1,5 @@
 ---
-title: Milos | Patromierz - statystyki Patronite.pl
+title: Milos | Patromierz
 
 permalink: /milos
 ---

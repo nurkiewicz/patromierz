@@ -1,5 +1,5 @@
 ---
-title: K MAG Radio Podcast | Patromierz - statystyki Patronite.pl
+title: K MAG Radio Podcast | Patromierz
 
 permalink: /KMAG_Radio
 ---

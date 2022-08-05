@@ -1,5 +1,5 @@
 ---
-title: Lepszy Komentator | Patromierz - statystyki Patronite.pl
+title: Lepszy Komentator | Patromierz
 
 permalink: /lepszykomentator
 ---

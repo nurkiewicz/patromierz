@@ -1,5 +1,5 @@
 ---
-title: Unbridled Buffalo ? | Patromierz - statystyki Patronite.pl
+title: Unbridled Buffalo ? | Patromierz
 
 permalink: /unbridledbuffalo
 ---

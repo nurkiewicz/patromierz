@@ -1,5 +1,5 @@
 ---
-title: "Ogr\xF3d Matyldy  | Patromierz - statystyki Patronite.pl"
+title: "Ogr\xF3d Matyldy  | Patromierz"
 
 permalink: /OgrodMatyldy
 ---

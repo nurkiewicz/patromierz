@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Sierpi\u0144ski | Patromierz - statystyki Patronite.pl"
+title: "Pawe\u0142 Sierpi\u0144ski | Patromierz"
 
 permalink: /pawelsierpinski
 ---

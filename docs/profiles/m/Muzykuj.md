@@ -1,5 +1,5 @@
 ---
-title: "MUZYKUJ PAWE\u0141 LEMA\u0143SKI | Patromierz - statystyki Patronite.pl"
+title: "MUZYKUJ PAWE\u0141 LEMA\u0143SKI | Patromierz"
 
 permalink: /Muzykuj
 ---

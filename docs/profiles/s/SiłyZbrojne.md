@@ -1,5 +1,5 @@
 ---
-title: "Si\u0142y Zbrojne | Patromierz - statystyki Patronite.pl"
+title: "Si\u0142y Zbrojne | Patromierz"
 
 permalink: /SiłyZbrojne
 ---

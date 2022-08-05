@@ -1,5 +1,5 @@
 ---
-title: Gospel Joy | Patromierz - statystyki Patronite.pl
+title: Gospel Joy | Patromierz
 
 permalink: /gospeljoy
 ---

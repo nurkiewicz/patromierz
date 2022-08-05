@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Wojczal | Patromierz - statystyki Patronite.pl
+title: Krzysztof Wojczal | Patromierz
 
 permalink: /krzysztofwojczal
 ---

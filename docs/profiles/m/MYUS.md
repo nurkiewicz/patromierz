@@ -1,5 +1,5 @@
 ---
-title: MYUS | Patromierz - statystyki Patronite.pl
+title: MYUS | Patromierz
 
 permalink: /MYUS
 ---

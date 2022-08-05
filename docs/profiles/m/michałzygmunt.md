@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Zygmunt  | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Zygmunt  | Patromierz"
 
 permalink: /michałzygmunt
 ---

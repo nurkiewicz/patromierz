@@ -1,5 +1,5 @@
 ---
-title: Mexico Magico Blog | Patromierz - statystyki Patronite.pl
+title: Mexico Magico Blog | Patromierz
 
 permalink: /mexicomagicoblog
 ---

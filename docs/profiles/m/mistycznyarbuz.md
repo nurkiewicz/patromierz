@@ -1,5 +1,5 @@
 ---
-title: Mistyczny Arbuz | Patromierz - statystyki Patronite.pl
+title: Mistyczny Arbuz | Patromierz
 
 permalink: /mistycznyarbuz
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kto pyta\u0142? | Patromierz - statystyki Patronite.pl"
+title: "Kto pyta\u0142? | Patromierz"
 
 permalink: /ktopytaltv
 ---

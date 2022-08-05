@@ -1,5 +1,5 @@
 ---
-title: "Pompa Ciep\u0142a i PV | Patromierz - statystyki Patronite.pl"
+title: "Pompa Ciep\u0142a i PV | Patromierz"
 
 permalink: /PompaCieplaPV
 ---

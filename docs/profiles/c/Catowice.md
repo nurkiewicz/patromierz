@@ -1,5 +1,5 @@
 ---
-title: Piotr Gierwatowski | Patromierz - statystyki Patronite.pl
+title: Piotr Gierwatowski | Patromierz
 
 permalink: /Catowice
 ---

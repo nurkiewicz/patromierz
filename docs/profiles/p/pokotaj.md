@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Pokotaj | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Pokotaj | Patromierz
 
 permalink: /pokotaj
 ---

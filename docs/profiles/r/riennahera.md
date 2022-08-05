@@ -1,5 +1,5 @@
 ---
-title: Riennahera | Patromierz - statystyki Patronite.pl
+title: Riennahera | Patromierz
 
 permalink: /riennahera
 ---

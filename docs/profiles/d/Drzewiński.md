@@ -1,5 +1,5 @@
 ---
-title: "DRZEWI\u0143SKI O FOTOGRAFII | Patromierz - statystyki Patronite.pl"
+title: "DRZEWI\u0143SKI O FOTOGRAFII | Patromierz"
 
 permalink: /Drzewiński
 ---

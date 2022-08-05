@@ -1,5 +1,5 @@
 ---
-title: Schronisko Pegasus | Patromierz - statystyki Patronite.pl
+title: Schronisko Pegasus | Patromierz
 
 permalink: /schroniskopegasus
 ---

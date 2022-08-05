@@ -1,5 +1,5 @@
 ---
-title: "bana\u0142 | Patromierz - statystyki Patronite.pl"
+title: "bana\u0142 | Patromierz"
 
 permalink: /banal
 ---

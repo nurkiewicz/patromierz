@@ -1,6 +1,5 @@
 ---
-title: "Weekend Ma\u0142\u017Ce\u0144ski - br. Piotr Zaj\u0105czkowski OFMCap | Patromierz\
-  \ - statystyki Patronite.pl"
+title: "Weekend Ma\u0142\u017Ce\u0144ski - br. Piotr Zaj\u0105czkowski OFMCap | Patromierz"
 
 permalink: /piotrzajaczkowski
 ---

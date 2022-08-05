@@ -1,5 +1,5 @@
 ---
-title: "Marcin W\u0142och | Patromierz - statystyki Patronite.pl"
+title: "Marcin W\u0142och | Patromierz"
 
 permalink: /historiabywłoch
 ---

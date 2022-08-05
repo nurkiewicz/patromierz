@@ -1,5 +1,5 @@
 ---
-title: "How To \u017By\u0107 | Patromierz - statystyki Patronite.pl"
+title: "How To \u017By\u0107 | Patromierz"
 
 permalink: /howtozyc
 ---

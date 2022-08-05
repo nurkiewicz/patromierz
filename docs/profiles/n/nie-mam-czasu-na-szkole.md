@@ -1,6 +1,5 @@
 ---
-title: "Edukacja Domowa - nie mam czasu na szko\u0142\u0119 | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Edukacja Domowa - nie mam czasu na szko\u0142\u0119 | Patromierz"
 
 permalink: /nie-mam-czasu-na-szkole
 ---

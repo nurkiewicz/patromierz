@@ -1,5 +1,5 @@
 ---
-title: "Ostoja \u017Bubra | Patromierz - statystyki Patronite.pl"
+title: "Ostoja \u017Bubra | Patromierz"
 
 permalink: /ostojazubra
 ---

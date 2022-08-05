@@ -1,5 +1,5 @@
 ---
-title: BSF Bochnia | Patromierz - statystyki Patronite.pl
+title: BSF Bochnia | Patromierz
 
 permalink: /bsfbochnia
 ---

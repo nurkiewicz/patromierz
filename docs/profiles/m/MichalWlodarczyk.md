@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 W\u0142odarczyk | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 W\u0142odarczyk | Patromierz"
 
 permalink: /MichalWlodarczyk
 ---

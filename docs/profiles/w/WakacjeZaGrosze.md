@@ -1,5 +1,5 @@
 ---
-title: WakacjeZaGrosze | Patromierz - statystyki Patronite.pl
+title: WakacjeZaGrosze | Patromierz
 
 permalink: /WakacjeZaGrosze
 ---

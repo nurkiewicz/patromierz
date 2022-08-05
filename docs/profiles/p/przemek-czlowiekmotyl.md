@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Sobieszczuk | Patromierz - statystyki Patronite.pl"
+title: "Przemys\u0142aw Sobieszczuk | Patromierz"
 
 permalink: /przemek-czlowiekmotyl
 ---

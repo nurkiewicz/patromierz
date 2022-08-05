@@ -1,5 +1,5 @@
 ---
-title: "Gdzie\u015BTyBy\u0142 | Patromierz - statystyki Patronite.pl"
+title: "Gdzie\u015BTyBy\u0142 | Patromierz"
 
 permalink: /gdziestybyl
 ---

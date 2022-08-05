@@ -1,5 +1,5 @@
 ---
-title: RadioJAZZ.FM   | Patromierz - statystyki Patronite.pl
+title: RadioJAZZ.FM   | Patromierz
 
 permalink: /RadioJAZZFM
 ---

@@ -1,5 +1,5 @@
 ---
-title: '#krolrowerow | Patromierz - statystyki Patronite.pl'
+title: '#krolrowerow | Patromierz'
 
 permalink: /krolrowerow
 ---

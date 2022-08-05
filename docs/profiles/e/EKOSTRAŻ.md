@@ -1,5 +1,5 @@
 ---
-title: "EKOSTRA\u017B  | Patromierz - statystyki Patronite.pl"
+title: "EKOSTRA\u017B  | Patromierz"
 
 permalink: /EKOSTRAŻ
 ---

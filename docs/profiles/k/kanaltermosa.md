@@ -1,5 +1,5 @@
 ---
-title: "Kana\u0142 Termosa | Patromierz - statystyki Patronite.pl"
+title: "Kana\u0142 Termosa | Patromierz"
 
 permalink: /kanaltermosa
 ---

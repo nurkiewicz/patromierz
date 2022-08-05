@@ -1,5 +1,5 @@
 ---
-title: Autostrady Polska | Patromierz - statystyki Patronite.pl
+title: Autostrady Polska | Patromierz
 
 permalink: /AutostradyPolska
 ---

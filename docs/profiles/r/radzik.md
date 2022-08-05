@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Radzikowski | Patromierz - statystyki Patronite.pl
+title: Krzysztof Radzikowski | Patromierz
 
 permalink: /radzik
 ---

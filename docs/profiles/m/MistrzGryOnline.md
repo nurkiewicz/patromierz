@@ -1,5 +1,5 @@
 ---
-title: Mistrz Gry Online | Patromierz - statystyki Patronite.pl
+title: Mistrz Gry Online | Patromierz
 
 permalink: /MistrzGryOnline
 ---

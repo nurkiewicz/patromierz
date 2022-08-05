@@ -1,5 +1,5 @@
 ---
-title: vPET.pl | Patromierz - statystyki Patronite.pl
+title: vPET.pl | Patromierz
 
 permalink: /vPET.pl
 ---

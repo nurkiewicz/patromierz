@@ -1,5 +1,5 @@
 ---
-title: Wydera | Patromierz - statystyki Patronite.pl
+title: Wydera | Patromierz
 
 permalink: /wydera
 ---

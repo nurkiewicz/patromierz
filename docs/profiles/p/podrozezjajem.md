@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017Ce z Jajem | Patromierz - statystyki Patronite.pl"
+title: "Podr\xF3\u017Ce z Jajem | Patromierz"
 
 permalink: /podrozezjajem
 ---

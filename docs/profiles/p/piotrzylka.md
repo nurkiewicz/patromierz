@@ -1,5 +1,5 @@
 ---
-title: "Piotr \u017By\u0142ka | Patromierz - statystyki Patronite.pl"
+title: "Piotr \u017By\u0142ka | Patromierz"
 
 permalink: /piotrzylka
 ---

@@ -1,5 +1,5 @@
 ---
-title: platyna | Patromierz - statystyki Patronite.pl
+title: platyna | Patromierz
 
 permalink: /platyna
 ---

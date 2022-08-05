@@ -1,5 +1,5 @@
 ---
-title: Ilona Lenik | Patromierz - statystyki Patronite.pl
+title: Ilona Lenik | Patromierz
 
 permalink: /ilenik
 ---

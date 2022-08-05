@@ -1,5 +1,5 @@
 ---
-title: "Elena Zieli\u0144ska | Patromierz - statystyki Patronite.pl"
+title: "Elena Zieli\u0144ska | Patromierz"
 
 permalink: /LenaGreen
 ---

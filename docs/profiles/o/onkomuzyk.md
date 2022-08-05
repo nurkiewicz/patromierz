@@ -1,5 +1,5 @@
 ---
-title: Onkomuzyk | Patromierz - statystyki Patronite.pl
+title: Onkomuzyk | Patromierz
 
 permalink: /onkomuzyk
 ---

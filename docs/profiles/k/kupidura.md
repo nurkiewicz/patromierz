@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Kupidura | Patromierz - statystyki Patronite.pl"
+title: "Przemys\u0142aw Kupidura | Patromierz"
 
 permalink: /kupidura
 ---

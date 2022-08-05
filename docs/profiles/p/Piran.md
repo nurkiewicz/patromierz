@@ -1,5 +1,5 @@
 ---
-title: Piran | Patromierz - statystyki Patronite.pl
+title: Piran | Patromierz
 
 permalink: /Piran
 ---

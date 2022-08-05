@@ -1,5 +1,5 @@
 ---
-title: "Klaudia Czabok i Antonina Bia\u0142ek | Patromierz - statystyki Patronite.pl"
+title: "Klaudia Czabok i Antonina Bia\u0142ek | Patromierz"
 
 permalink: /klaudiaczabokiantoninabialek
 ---

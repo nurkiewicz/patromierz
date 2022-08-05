@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Sztuka Wolno\u015Bci | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Sztuka Wolno\u015Bci | Patromierz"
 
 permalink: /SztukaWolności
 ---

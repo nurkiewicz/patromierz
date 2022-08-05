@@ -1,5 +1,5 @@
 ---
-title: owca | Patromierz - statystyki Patronite.pl
+title: owca | Patromierz
 
 permalink: /owca
 ---

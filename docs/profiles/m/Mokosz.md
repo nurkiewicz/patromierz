@@ -1,5 +1,5 @@
 ---
-title: MokoszOfficial  | Patromierz - statystyki Patronite.pl
+title: MokoszOfficial  | Patromierz
 
 permalink: /Mokosz
 ---

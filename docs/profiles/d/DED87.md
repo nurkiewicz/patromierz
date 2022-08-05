@@ -1,5 +1,5 @@
 ---
-title: DED87 | Patromierz - statystyki Patronite.pl
+title: DED87 | Patromierz
 
 permalink: /DED87
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja NANONET | Patromierz - statystyki Patronite.pl
+title: Fundacja NANONET | Patromierz
 
 permalink: /NANONET
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Pokochaj Gada | Patromierz - statystyki Patronite.pl
+title: Fundacja Pokochaj Gada | Patromierz
 
 permalink: /pokochajgada
 ---

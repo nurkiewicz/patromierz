@@ -1,5 +1,5 @@
 ---
-title: SOWINSKY | Patromierz - statystyki Patronite.pl
+title: SOWINSKY | Patromierz
 
 permalink: /SOWINSKY
 ---

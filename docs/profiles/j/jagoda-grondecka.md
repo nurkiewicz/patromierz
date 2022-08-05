@@ -1,5 +1,5 @@
 ---
-title: Jagoda Grondecka | Patromierz - statystyki Patronite.pl
+title: Jagoda Grondecka | Patromierz
 
 permalink: /jagoda-grondecka
 ---

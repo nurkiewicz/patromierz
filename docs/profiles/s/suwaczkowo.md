@@ -1,5 +1,5 @@
 ---
-title: Suwaczkowo | Patromierz - statystyki Patronite.pl
+title: Suwaczkowo | Patromierz
 
 permalink: /suwaczkowo
 ---

@@ -1,6 +1,5 @@
 ---
-title: Kairos. Podcast Piotra Augustyniaka i Marka Pospieszalskiego | Patromierz -
-  statystyki Patronite.pl
+title: Kairos. Podcast Piotra Augustyniaka i Marka Pospieszalskiego | Patromierz
 
 permalink: /kairos.podcast
 ---

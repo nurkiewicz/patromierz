@@ -1,5 +1,5 @@
 ---
-title: "Bezpiecze\u0144stwo&Strategia | Patromierz - statystyki Patronite.pl"
+title: "Bezpiecze\u0144stwo&Strategia | Patromierz"
 
 permalink: /bezpieczenstwoistrategia.pl
 ---

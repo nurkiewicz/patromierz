@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie I DESIGN | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie I DESIGN | Patromierz
 
 permalink: /www.i-design.com.pl
 ---

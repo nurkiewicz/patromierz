@@ -1,5 +1,5 @@
 ---
-title: "FUNDACJA Z MI\u0141O\u015ACI DO ZWIERZ\u0104T | Patromierz - statystyki Patronite.pl"
+title: "FUNDACJA Z MI\u0141O\u015ACI DO ZWIERZ\u0104T | Patromierz"
 
 permalink: /FundacjaZMilosciDoZwierzat
 ---

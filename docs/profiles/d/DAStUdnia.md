@@ -1,5 +1,5 @@
 ---
-title: DDA StUdnia | Patromierz - statystyki Patronite.pl
+title: DDA StUdnia | Patromierz
 
 permalink: /DAStUdnia
 ---

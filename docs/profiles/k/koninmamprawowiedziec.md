@@ -1,5 +1,5 @@
 ---
-title: "Konin. Mam Prawo Wiedzie\u0107 | Patromierz - statystyki Patronite.pl"
+title: "Konin. Mam Prawo Wiedzie\u0107 | Patromierz"
 
 permalink: /koninmamprawowiedziec
 ---

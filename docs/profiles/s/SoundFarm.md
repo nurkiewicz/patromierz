@@ -1,5 +1,5 @@
 ---
-title: SoundFarm | Patromierz - statystyki Patronite.pl
+title: SoundFarm | Patromierz
 
 permalink: /SoundFarm
 ---

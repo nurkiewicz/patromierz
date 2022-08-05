@@ -1,5 +1,5 @@
 ---
-title: Podcast Wojenne Historie | Patromierz - statystyki Patronite.pl
+title: Podcast Wojenne Historie | Patromierz
 
 permalink: /Podcastwojennehistorie
 ---

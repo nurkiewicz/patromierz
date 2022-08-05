@@ -1,5 +1,5 @@
 ---
-title: Self Made Beats | Patromierz - statystyki Patronite.pl
+title: Self Made Beats | Patromierz
 
 permalink: /selfmadebeats
 ---

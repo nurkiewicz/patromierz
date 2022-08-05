@@ -1,5 +1,5 @@
 ---
-title: Tomasz Drabik | Patromierz - statystyki Patronite.pl
+title: Tomasz Drabik | Patromierz
 
 permalink: /quaz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Whistlerek | Patromierz - statystyki Patronite.pl
+title: Whistlerek | Patromierz
 
 permalink: /whistlerek
 ---

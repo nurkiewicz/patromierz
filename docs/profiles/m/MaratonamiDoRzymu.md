@@ -1,5 +1,5 @@
 ---
-title: Tomasz Sobania | Patromierz - statystyki Patronite.pl
+title: Tomasz Sobania | Patromierz
 
 permalink: /MaratonamiDoRzymu
 ---

@@ -1,5 +1,5 @@
 ---
-title: Stettin 3d | Patromierz - statystyki Patronite.pl
+title: Stettin 3d | Patromierz
 
 permalink: /stettin3d
 ---

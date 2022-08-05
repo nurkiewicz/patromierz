@@ -1,5 +1,5 @@
 ---
-title: "Tomasz Pi\u0105tek | Patromierz - statystyki Patronite.pl"
+title: "Tomasz Pi\u0105tek | Patromierz"
 
 permalink: /TomaszPiątek
 ---

@@ -1,5 +1,5 @@
 ---
-title: Film Trismegistos | Patromierz - statystyki Patronite.pl
+title: Film Trismegistos | Patromierz
 
 permalink: /film_trismegistos
 ---

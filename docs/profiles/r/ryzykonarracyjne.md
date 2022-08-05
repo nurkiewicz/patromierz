@@ -1,5 +1,5 @@
 ---
-title: Ryzyko Narracyjne | Patromierz - statystyki Patronite.pl
+title: Ryzyko Narracyjne | Patromierz
 
 permalink: /ryzykonarracyjne
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Chwytak | Patromierz - statystyki Patronite.pl
+title: The Chwytak | Patromierz
 
 permalink: /chwytak
 ---

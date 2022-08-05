@@ -1,5 +1,5 @@
 ---
-title: "Magdalena  Bia\u0142asiewicz  | Patromierz - statystyki Patronite.pl"
+title: "Magdalena  Bia\u0142asiewicz  | Patromierz"
 
 permalink: /PannaKlementyna
 ---

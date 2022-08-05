@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Rain | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Rain | Patromierz"
 
 permalink: /spadkobiercafikcji
 ---

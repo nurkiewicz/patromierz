@@ -1,5 +1,5 @@
 ---
-title: Povagowani | Patromierz - statystyki Patronite.pl
+title: Povagowani | Patromierz
 
 permalink: /povagowani
 ---

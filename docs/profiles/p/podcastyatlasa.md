@@ -1,5 +1,5 @@
 ---
-title: Podcasty Atlasa | Patromierz - statystyki Patronite.pl
+title: Podcasty Atlasa | Patromierz
 
 permalink: /podcastyatlasa
 ---

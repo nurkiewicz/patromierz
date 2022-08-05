@@ -1,5 +1,5 @@
 ---
-title: Bartosz Zalewski Nieoficjalny | Patromierz - statystyki Patronite.pl
+title: Bartosz Zalewski Nieoficjalny | Patromierz
 
 permalink: /bartoszzalewskinieoficjalny
 ---

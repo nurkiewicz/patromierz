@@ -1,5 +1,5 @@
 ---
-title: Konti | Patromierz - statystyki Patronite.pl
+title: Konti | Patromierz
 
 permalink: /Konti
 ---

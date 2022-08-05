@@ -1,5 +1,5 @@
 ---
-title: GibkoLand - zNamiotemNaDachu.pl | Patromierz - statystyki Patronite.pl
+title: GibkoLand - zNamiotemNaDachu.pl | Patromierz
 
 permalink: /znamiotemnadachu.pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Patryk R\xF3\u017Cycki | Patromierz - statystyki Patronite.pl"
+title: "Patryk R\xF3\u017Cycki | Patromierz"
 
 permalink: /patryk_rozycki
 ---

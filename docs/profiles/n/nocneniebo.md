@@ -1,5 +1,5 @@
 ---
-title: Nocne Niebo | Patromierz - statystyki Patronite.pl
+title: Nocne Niebo | Patromierz
 
 permalink: /nocneniebo
 ---

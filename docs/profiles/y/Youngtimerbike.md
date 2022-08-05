@@ -1,5 +1,5 @@
 ---
-title: Youngtimerbike.pl  | Patromierz - statystyki Patronite.pl
+title: Youngtimerbike.pl  | Patromierz
 
 permalink: /Youngtimerbike
 ---

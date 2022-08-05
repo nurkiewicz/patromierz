@@ -1,5 +1,5 @@
 ---
-title: "Jak dorosn\u0119, zostan\u0119 wikingiem | Patromierz - statystyki Patronite.pl"
+title: "Jak dorosn\u0119, zostan\u0119 wikingiem | Patromierz"
 
 permalink: /JakDorosnęZostanęWikingiem
 ---

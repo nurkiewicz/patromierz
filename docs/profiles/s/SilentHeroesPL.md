@@ -1,5 +1,5 @@
 ---
-title: SilentHeroesPL | Patromierz - statystyki Patronite.pl
+title: SilentHeroesPL | Patromierz
 
 permalink: /SilentHeroesPL
 ---

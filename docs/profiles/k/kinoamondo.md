@@ -1,5 +1,5 @@
 ---
-title: Kino AMONDO | Patromierz - statystyki Patronite.pl
+title: Kino AMONDO | Patromierz
 
 permalink: /kinoamondo
 ---

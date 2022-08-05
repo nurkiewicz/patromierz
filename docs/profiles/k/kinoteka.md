@@ -1,5 +1,5 @@
 ---
-title: Kinoteka | Patromierz - statystyki Patronite.pl
+title: Kinoteka | Patromierz
 
 permalink: /kinoteka
 ---

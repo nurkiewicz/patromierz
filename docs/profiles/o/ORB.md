@@ -1,5 +1,5 @@
 ---
-title: ORB | Patromierz - statystyki Patronite.pl
+title: ORB | Patromierz
 
 permalink: /ORB
 ---

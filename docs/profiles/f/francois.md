@@ -1,5 +1,5 @@
 ---
-title: Francois Muzyk | Patromierz - statystyki Patronite.pl
+title: Francois Muzyk | Patromierz
 
 permalink: /francois
 ---

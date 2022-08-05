@@ -1,5 +1,5 @@
 ---
-title: Fundacja Nautilus | Patromierz - statystyki Patronite.pl
+title: Fundacja Nautilus | Patromierz
 
 permalink: /FundacjaNautilus
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mateusz Mielczarek | Patromierz - statystyki Patronite.pl
+title: Mateusz Mielczarek | Patromierz
 
 permalink: /mateusz-mielczarek
 ---

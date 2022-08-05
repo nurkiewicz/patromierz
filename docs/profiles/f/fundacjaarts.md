@@ -1,5 +1,5 @@
 ---
-title: Fundacja ARTS | Patromierz - statystyki Patronite.pl
+title: Fundacja ARTS | Patromierz
 
 permalink: /fundacjaarts
 ---

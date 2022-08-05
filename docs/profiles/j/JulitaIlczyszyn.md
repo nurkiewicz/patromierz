@@ -1,5 +1,5 @@
 ---
-title: Julita Ilczyszyn | Patromierz - statystyki Patronite.pl
+title: Julita Ilczyszyn | Patromierz
 
 permalink: /JulitaIlczyszyn
 ---

@@ -1,5 +1,5 @@
 ---
-title: Polska Tradycja | Patromierz - statystyki Patronite.pl
+title: Polska Tradycja | Patromierz
 
 permalink: /PolskaTradycja
 ---

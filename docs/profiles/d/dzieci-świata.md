@@ -1,5 +1,5 @@
 ---
-title: "Dzieci \u015Awiata - Marzena Figiel | Patromierz - statystyki Patronite.pl"
+title: "Dzieci \u015Awiata - Marzena Figiel | Patromierz"
 
 permalink: /dzieci-świata
 ---

@@ -1,5 +1,5 @@
 ---
-title: Squats And Milk | Patromierz - statystyki Patronite.pl
+title: Squats And Milk | Patromierz
 
 permalink: /SquatsAndMilk
 ---

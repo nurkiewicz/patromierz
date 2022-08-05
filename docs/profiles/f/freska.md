@@ -1,5 +1,5 @@
 ---
-title: Freska | Patromierz - statystyki Patronite.pl
+title: Freska | Patromierz
 
 permalink: /freska
 ---

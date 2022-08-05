@@ -1,6 +1,5 @@
 ---
-title: "Stowarzyszenie Polskich Muzyk\xF3w Kameralist\xF3w | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Stowarzyszenie Polskich Muzyk\xF3w Kameralist\xF3w | Patromierz"
 
 permalink: /SPMK
 ---

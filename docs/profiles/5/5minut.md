@@ -1,5 +1,5 @@
 ---
-title: 5 MINUT (Billie Sparrow i Hania Es) | Patromierz - statystyki Patronite.pl
+title: 5 MINUT (Billie Sparrow i Hania Es) | Patromierz
 
 permalink: /5minut
 ---

@@ -1,5 +1,5 @@
 ---
-title: Automatyczny Podcast | Patromierz - statystyki Patronite.pl
+title: Automatyczny Podcast | Patromierz
 
 permalink: /AutomatycznyPodcast
 ---

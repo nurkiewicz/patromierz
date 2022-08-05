@@ -1,5 +1,5 @@
 ---
-title: Daniel Rakowiecki | Patromierz - statystyki Patronite.pl
+title: Daniel Rakowiecki | Patromierz
 
 permalink: /rakowiecki
 ---

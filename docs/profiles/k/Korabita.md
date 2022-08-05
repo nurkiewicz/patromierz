@@ -1,5 +1,5 @@
 ---
-title: Jacek Korabita Kowalski | Patromierz - statystyki Patronite.pl
+title: Jacek Korabita Kowalski | Patromierz
 
 permalink: /Korabita
 ---

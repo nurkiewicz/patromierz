@@ -1,5 +1,5 @@
 ---
-title: One Way Ticket | Patromierz - statystyki Patronite.pl
+title: One Way Ticket | Patromierz
 
 permalink: /OneWayTicket
 ---

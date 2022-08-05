@@ -1,5 +1,5 @@
 ---
-title: Rekografia | Patromierz - statystyki Patronite.pl
+title: Rekografia | Patromierz
 
 permalink: /rekografia
 ---

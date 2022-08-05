@@ -1,5 +1,5 @@
 ---
-title: HISTORIE | Patromierz - statystyki Patronite.pl
+title: HISTORIE | Patromierz
 
 permalink: /historie
 ---

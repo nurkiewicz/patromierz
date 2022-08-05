@@ -1,5 +1,5 @@
 ---
-title: "Bogus\u0142aw Jasiewicz | Patromierz - statystyki Patronite.pl"
+title: "Bogus\u0142aw Jasiewicz | Patromierz"
 
 permalink: /boguslawjasiewicz
 ---

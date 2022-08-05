@@ -1,5 +1,5 @@
 ---
-title: paragrafwkieliszku.pl  | Patromierz - statystyki Patronite.pl
+title: paragrafwkieliszku.pl  | Patromierz
 
 permalink: /paragrafwkieliszku
 ---

@@ -1,5 +1,5 @@
 ---
-title: OSP Wolica | Patromierz - statystyki Patronite.pl
+title: OSP Wolica | Patromierz
 
 permalink: /OspWolica
 ---

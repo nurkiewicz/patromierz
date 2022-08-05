@@ -1,5 +1,5 @@
 ---
-title: Alfah Femmes | Patromierz - statystyki Patronite.pl
+title: Alfah Femmes | Patromierz
 
 permalink: /alfahfemmes
 ---

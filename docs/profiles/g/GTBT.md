@@ -1,5 +1,5 @@
 ---
-title: Good Times Bad Times | Patromierz - statystyki Patronite.pl
+title: Good Times Bad Times | Patromierz
 
 permalink: /GTBT
 ---

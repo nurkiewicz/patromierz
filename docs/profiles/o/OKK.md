@@ -1,5 +1,5 @@
 ---
-title: Otwocki Kalendarz Kulturalny | Patromierz - statystyki Patronite.pl
+title: Otwocki Kalendarz Kulturalny | Patromierz
 
 permalink: /OKK
 ---

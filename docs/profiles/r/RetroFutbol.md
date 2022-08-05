@@ -1,5 +1,5 @@
 ---
-title: RetroFutbol | Patromierz - statystyki Patronite.pl
+title: RetroFutbol | Patromierz
 
 permalink: /RetroFutbol
 ---

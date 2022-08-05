@@ -1,5 +1,5 @@
 ---
-title: Olaf "KeZu" Osienienko - Projekt Travel Rap | Patromierz - statystyki Patronite.pl
+title: Olaf "KeZu" Osienienko - Projekt Travel Rap | Patromierz
 
 permalink: /kezu5osiem100
 ---

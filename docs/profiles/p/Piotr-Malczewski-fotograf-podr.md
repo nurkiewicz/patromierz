@@ -1,5 +1,5 @@
 ---
-title: Piotr Malczewski | Patromierz - statystyki Patronite.pl
+title: Piotr Malczewski | Patromierz
 
 permalink: /Piotr-Malczewski-fotograf-podr
 ---

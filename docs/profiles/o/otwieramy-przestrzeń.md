@@ -1,5 +1,5 @@
 ---
-title: "Otwieramy Przestrze\u0144 Stajnia Truskawka | Patromierz - statystyki Patronite.pl"
+title: "Otwieramy Przestrze\u0144 Stajnia Truskawka | Patromierz"
 
 permalink: /otwieramy-przestrzeń
 ---

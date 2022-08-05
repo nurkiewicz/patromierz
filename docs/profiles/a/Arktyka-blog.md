@@ -1,5 +1,5 @@
 ---
-title: "Arktyczny L\xF3d blog | Patromierz - statystyki Patronite.pl"
+title: "Arktyczny L\xF3d blog | Patromierz"
 
 permalink: /Arktyka-blog
 ---

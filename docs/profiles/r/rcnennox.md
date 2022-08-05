@@ -1,5 +1,5 @@
 ---
-title: RC Nennox | Patromierz - statystyki Patronite.pl
+title: RC Nennox | Patromierz
 
 permalink: /rcnennox
 ---

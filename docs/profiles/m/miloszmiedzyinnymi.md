@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142osz.mi\u0119dzy.innymi | Patromierz - statystyki Patronite.pl"
+title: "Mi\u0142osz.mi\u0119dzy.innymi | Patromierz"
 
 permalink: /miloszmiedzyinnymi
 ---

@@ -1,5 +1,5 @@
 ---
-title: EWTN Polska | Patromierz - statystyki Patronite.pl
+title: EWTN Polska | Patromierz
 
 permalink: /ewtn
 ---

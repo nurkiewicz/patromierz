@@ -1,5 +1,5 @@
 ---
-title: Mroooook  | Patromierz - statystyki Patronite.pl
+title: Mroooook  | Patromierz
 
 permalink: /mroooook
 ---

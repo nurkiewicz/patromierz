@@ -1,5 +1,5 @@
 ---
-title: Historia Kolonii | Patromierz - statystyki Patronite.pl
+title: Historia Kolonii | Patromierz
 
 permalink: /historiakolonii
 ---

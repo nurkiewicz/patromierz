@@ -1,5 +1,5 @@
 ---
-title: Smocza Mama | Patromierz - statystyki Patronite.pl
+title: Smocza Mama | Patromierz
 
 permalink: /smocza.mama
 ---

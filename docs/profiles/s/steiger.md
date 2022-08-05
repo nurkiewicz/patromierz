@@ -1,5 +1,5 @@
 ---
-title: Steiger Polska | Patromierz - statystyki Patronite.pl
+title: Steiger Polska | Patromierz
 
 permalink: /steiger
 ---

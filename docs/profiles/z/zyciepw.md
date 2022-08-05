@@ -1,5 +1,5 @@
 ---
-title: "\u017Bycie Powiatu na Mazowszu | Patromierz - statystyki Patronite.pl"
+title: "\u017Bycie Powiatu na Mazowszu | Patromierz"
 
 permalink: /zyciepw
 ---

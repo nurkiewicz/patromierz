@@ -1,5 +1,5 @@
 ---
-title: Overdrive | Patromierz - statystyki Patronite.pl
+title: Overdrive | Patromierz
 
 permalink: /overdrive
 ---

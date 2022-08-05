@@ -1,6 +1,5 @@
 ---
-title: "Chrze\u015Bcija\u0144skie Centrum Ewangelizacji | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Chrze\u015Bcija\u0144skie Centrum Ewangelizacji | Patromierz"
 
 permalink: /chce
 ---

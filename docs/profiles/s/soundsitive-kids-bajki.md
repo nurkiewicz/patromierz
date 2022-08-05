@@ -1,5 +1,5 @@
 ---
-title: Soundsitive Kids - bajki dla dzieci | Patromierz - statystyki Patronite.pl
+title: Soundsitive Kids - bajki dla dzieci | Patromierz
 
 permalink: /soundsitive-kids-bajki
 ---

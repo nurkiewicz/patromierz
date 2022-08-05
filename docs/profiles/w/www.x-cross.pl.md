@@ -1,5 +1,5 @@
 ---
-title: X-cross | Patromierz - statystyki Patronite.pl
+title: X-cross | Patromierz
 
 permalink: /www.x-cross.pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja "Tymczasem u Magdy" | Patromierz - statystyki Patronite.pl
+title: Fundacja "Tymczasem u Magdy" | Patromierz
 
 permalink: /umagdy
 ---

@@ -1,5 +1,5 @@
 ---
-title: DrAMNESTIA | Patromierz - statystyki Patronite.pl
+title: DrAMNESTIA | Patromierz
 
 permalink: /DrAMNESTIA
 ---

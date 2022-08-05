@@ -1,5 +1,5 @@
 ---
-title: Magazyn Tenisklub | Patromierz - statystyki Patronite.pl
+title: Magazyn Tenisklub | Patromierz
 
 permalink: /Tenisklub
 ---

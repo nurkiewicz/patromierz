@@ -1,5 +1,5 @@
 ---
-title: "BliskoBrzmi\u0105cy | Patromierz - statystyki Patronite.pl"
+title: "BliskoBrzmi\u0105cy | Patromierz"
 
 permalink: /BliskoBrzmiący
 ---

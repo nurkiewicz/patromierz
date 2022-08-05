@@ -1,5 +1,5 @@
 ---
-title: Nowy Tygodnik Kulturalny | Patromierz - statystyki Patronite.pl
+title: Nowy Tygodnik Kulturalny | Patromierz
 
 permalink: /NowyTygodnikKulturalny
 ---

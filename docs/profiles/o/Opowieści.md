@@ -1,5 +1,5 @@
 ---
-title: "Agencja autorska Opowie\u015Bci | Patromierz - statystyki Patronite.pl"
+title: "Agencja autorska Opowie\u015Bci | Patromierz"
 
 permalink: /Opowieści
 ---

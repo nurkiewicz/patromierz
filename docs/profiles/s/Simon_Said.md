@@ -1,5 +1,5 @@
 ---
-title: Simon Said | Patromierz - statystyki Patronite.pl
+title: Simon Said | Patromierz
 
 permalink: /Simon_Said
 ---

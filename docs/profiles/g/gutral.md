@@ -1,5 +1,5 @@
 ---
-title: Joanna Gutral | Patromierz - statystyki Patronite.pl
+title: Joanna Gutral | Patromierz
 
 permalink: /gutral
 ---

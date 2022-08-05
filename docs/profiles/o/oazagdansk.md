@@ -1,5 +1,5 @@
 ---
-title: "Oaza Gda\u0144sk | Patromierz - statystyki Patronite.pl"
+title: "Oaza Gda\u0144sk | Patromierz"
 
 permalink: /oazagdansk
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Emilia Maria \u017Burek | Patromierz - statystyki Patronite.pl"
+title: "Emilia Maria \u017Burek | Patromierz"
 
 permalink: /zurek
 ---

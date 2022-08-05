@@ -1,5 +1,5 @@
 ---
-title: "Sylwia K_Podr\xF3\u017Ce | Patromierz - statystyki Patronite.pl"
+title: "Sylwia K_Podr\xF3\u017Ce | Patromierz"
 
 permalink: /Sylwia_K
 ---

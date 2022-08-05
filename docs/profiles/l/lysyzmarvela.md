@@ -1,5 +1,5 @@
 ---
-title: "\u0141ysy z Marvela | Patromierz - statystyki Patronite.pl"
+title: "\u0141ysy z Marvela | Patromierz"
 
 permalink: /lysyzmarvela
 ---

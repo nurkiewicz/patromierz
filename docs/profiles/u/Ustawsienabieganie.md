@@ -1,5 +1,5 @@
 ---
-title: "Ustaw si\u0119 na bieganie w Gda\u0144sku  | Patromierz - statystyki Patronite.pl"
+title: "Ustaw si\u0119 na bieganie w Gda\u0144sku  | Patromierz"
 
 permalink: /Ustawsienabieganie
 ---

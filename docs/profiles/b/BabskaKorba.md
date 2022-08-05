@@ -1,5 +1,5 @@
 ---
-title: BABSKA KORBA | Patromierz - statystyki Patronite.pl
+title: BABSKA KORBA | Patromierz
 
 permalink: /BabskaKorba
 ---

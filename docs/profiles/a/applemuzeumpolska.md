@@ -1,5 +1,5 @@
 ---
-title: APPLE MUZEUM POLSKA | Patromierz - statystyki Patronite.pl
+title: APPLE MUZEUM POLSKA | Patromierz
 
 permalink: /applemuzeumpolska
 ---

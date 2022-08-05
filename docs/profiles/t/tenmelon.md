@@ -1,5 +1,5 @@
 ---
-title: tenmelon | Patromierz - statystyki Patronite.pl
+title: tenmelon | Patromierz
 
 permalink: /tenmelon
 ---

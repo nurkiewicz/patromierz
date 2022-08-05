@@ -1,5 +1,5 @@
 ---
-title: "\u017Bar\u0142okTV | Patromierz - statystyki Patronite.pl"
+title: "\u017Bar\u0142okTV | Patromierz"
 
 permalink: /zarlokTV
 ---

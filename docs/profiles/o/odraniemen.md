@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Odra-Niemen | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Odra-Niemen | Patromierz
 
 permalink: /odraniemen
 ---

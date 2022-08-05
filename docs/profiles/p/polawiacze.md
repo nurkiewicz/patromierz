@@ -1,5 +1,5 @@
 ---
-title: "Po\u0142awiacze Pere\u0142 Improv Teatr | Patromierz - statystyki Patronite.pl"
+title: "Po\u0142awiacze Pere\u0142 Improv Teatr | Patromierz"
 
 permalink: /polawiacze
 ---

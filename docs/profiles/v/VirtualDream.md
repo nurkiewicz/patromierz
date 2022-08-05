@@ -1,5 +1,5 @@
 ---
-title: "Virtual Dream - Piotr \u0141\xF3j | Patromierz - statystyki Patronite.pl"
+title: "Virtual Dream - Piotr \u0141\xF3j | Patromierz"
 
 permalink: /VirtualDream
 ---

@@ -1,5 +1,5 @@
 ---
-title: Natala Szkoleniowa Ziomala | Patromierz - statystyki Patronite.pl
+title: Natala Szkoleniowa Ziomala | Patromierz
 
 permalink: /NatalaSzkoleniowaZiomala
 ---

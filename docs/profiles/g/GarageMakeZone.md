@@ -1,5 +1,5 @@
 ---
-title: Garage Make Zone | Patromierz - statystyki Patronite.pl
+title: Garage Make Zone | Patromierz
 
 permalink: /GarageMakeZone
 ---

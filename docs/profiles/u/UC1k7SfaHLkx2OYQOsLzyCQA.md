@@ -1,5 +1,5 @@
 ---
-title: "SPOWIED\u0179 U HERETYKA | Patromierz - statystyki Patronite.pl"
+title: "SPOWIED\u0179 U HERETYKA | Patromierz"
 
 permalink: /UC1k7SfaHLkx2OYQOsLzyCQA
 ---

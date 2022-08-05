@@ -1,5 +1,5 @@
 ---
-title: Bartosh | Patromierz - statystyki Patronite.pl
+title: Bartosh | Patromierz
 
 permalink: /Bartosh
 ---

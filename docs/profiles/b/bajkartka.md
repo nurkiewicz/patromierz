@@ -1,5 +1,5 @@
 ---
-title: Bajkartka | Patromierz - statystyki Patronite.pl
+title: Bajkartka | Patromierz
 
 permalink: /bajkartka
 ---

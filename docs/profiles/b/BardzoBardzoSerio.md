@@ -1,5 +1,5 @@
 ---
-title: Bardzo Bardzo Serio | Patromierz - statystyki Patronite.pl
+title: Bardzo Bardzo Serio | Patromierz
 
 permalink: /BardzoBardzoSerio
 ---

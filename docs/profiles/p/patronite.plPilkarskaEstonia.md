@@ -1,5 +1,5 @@
 ---
-title: "Pi\u0142karska Estonia | Patromierz - statystyki Patronite.pl"
+title: "Pi\u0142karska Estonia | Patromierz"
 
 permalink: /patronite.plPilkarskaEstonia
 ---

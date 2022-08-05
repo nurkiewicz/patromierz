@@ -1,5 +1,5 @@
 ---
-title: "Polak w Podr\xF3\u017Cy | Patromierz - statystyki Patronite.pl"
+title: "Polak w Podr\xF3\u017Cy | Patromierz"
 
 permalink: /polakwpodrozy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Muzyczni Czarodzieje | Patromierz - statystyki Patronite.pl
+title: Fundacja Muzyczni Czarodzieje | Patromierz
 
 permalink: /muzyczniczarodzieje
 ---

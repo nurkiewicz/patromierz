@@ -1,5 +1,5 @@
 ---
-title: "Wojciech  Ja\u015Bkiewicz | Patromierz - statystyki Patronite.pl"
+title: "Wojciech  Ja\u015Bkiewicz | Patromierz"
 
 permalink: /WojciechJaskiewiczWindsurfer
 ---

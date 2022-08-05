@@ -1,5 +1,5 @@
 ---
-title: The Amerykanka | Patromierz - statystyki Patronite.pl
+title: The Amerykanka | Patromierz
 
 permalink: /TheAmerykanka
 ---

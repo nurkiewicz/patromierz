@@ -1,5 +1,5 @@
 ---
-title: "Rados\u0142aw Pyffel | Patromierz - statystyki Patronite.pl"
+title: "Rados\u0142aw Pyffel | Patromierz"
 
 permalink: /RadoslawPyffel
 ---

@@ -1,5 +1,5 @@
 ---
-title: Islandia.org.pl | Patromierz - statystyki Patronite.pl
+title: Islandia.org.pl | Patromierz
 
 permalink: /Islandiaorgpl
 ---

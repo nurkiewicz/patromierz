@@ -1,5 +1,5 @@
 ---
-title: SalamLab.pl | Patromierz - statystyki Patronite.pl
+title: SalamLab.pl | Patromierz
 
 permalink: /SalamLab
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alpha Team | Patromierz - statystyki Patronite.pl
+title: Alpha Team | Patromierz
 
 permalink: /AT
 ---

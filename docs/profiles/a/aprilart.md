@@ -1,5 +1,5 @@
 ---
-title: ApriL ArtAnimation | Patromierz - statystyki Patronite.pl
+title: ApriL ArtAnimation | Patromierz
 
 permalink: /aprilart
 ---

@@ -1,5 +1,5 @@
 ---
-title: Sylwia Banasik- Smulska | Patromierz - statystyki Patronite.pl
+title: Sylwia Banasik- Smulska | Patromierz
 
 permalink: /sylwiabanasik-smulska
 ---

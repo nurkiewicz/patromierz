@@ -1,5 +1,5 @@
 ---
-title: Psycholog Pisze | Patromierz - statystyki Patronite.pl
+title: Psycholog Pisze | Patromierz
 
 permalink: /psychologpisze
 ---

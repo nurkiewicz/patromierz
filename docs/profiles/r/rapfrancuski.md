@@ -1,5 +1,5 @@
 ---
-title: RapFrancuski.pl | Patromierz - statystyki Patronite.pl
+title: RapFrancuski.pl | Patromierz
 
 permalink: /rapfrancuski
 ---

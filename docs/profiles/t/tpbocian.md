@@ -1,5 +1,5 @@
 ---
-title: Towarzystwo Przyrodnicze "Bocian" | Patromierz - statystyki Patronite.pl
+title: Towarzystwo Przyrodnicze "Bocian" | Patromierz
 
 permalink: /tpbocian
 ---

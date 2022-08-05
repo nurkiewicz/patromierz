@@ -1,5 +1,5 @@
 ---
-title: MENU Dorotki | Patromierz - statystyki Patronite.pl
+title: MENU Dorotki | Patromierz
 
 permalink: /menudorotki
 ---

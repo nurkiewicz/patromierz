@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142osz Sowi\u0144ski | Patromierz - statystyki Patronite.pl"
+title: "Mi\u0142osz Sowi\u0144ski | Patromierz"
 
 permalink: /miloteam
 ---

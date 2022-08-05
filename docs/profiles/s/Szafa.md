@@ -1,5 +1,5 @@
 ---
-title: Mocny Vlog | Patromierz - statystyki Patronite.pl
+title: Mocny Vlog | Patromierz
 
 permalink: /Szafa
 ---

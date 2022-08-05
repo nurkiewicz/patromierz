@@ -1,5 +1,5 @@
 ---
-title: "Sier\u017Cant Bagieta | Patromierz - statystyki Patronite.pl"
+title: "Sier\u017Cant Bagieta | Patromierz"
 
 permalink: /Sierzant_Bagieta
 ---

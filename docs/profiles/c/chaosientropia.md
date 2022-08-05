@@ -1,5 +1,5 @@
 ---
-title: Chaos i Entropia | Patromierz - statystyki Patronite.pl
+title: Chaos i Entropia | Patromierz
 
 permalink: /chaosientropia
 ---

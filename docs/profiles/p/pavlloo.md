@@ -1,5 +1,5 @@
 ---
-title: pavlloo | Patromierz - statystyki Patronite.pl
+title: pavlloo | Patromierz
 
 permalink: /pavlloo
 ---

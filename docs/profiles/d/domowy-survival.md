@@ -1,5 +1,5 @@
 ---
-title: Domowy Survival | Patromierz - statystyki Patronite.pl
+title: Domowy Survival | Patromierz
 
 permalink: /domowy-survival
 ---

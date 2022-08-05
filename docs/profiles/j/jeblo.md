@@ -1,6 +1,5 @@
 ---
-title: "Czy wroc\u0142awskie MPK dzi\u015B ju\u017C jeb\u0142o? | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Czy wroc\u0142awskie MPK dzi\u015B ju\u017C jeb\u0142o? | Patromierz"
 
 permalink: /jeblo
 ---

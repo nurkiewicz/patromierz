@@ -1,5 +1,5 @@
 ---
-title: Autoholicy | Patromierz - statystyki Patronite.pl
+title: Autoholicy | Patromierz
 
 permalink: /Autoholicy
 ---

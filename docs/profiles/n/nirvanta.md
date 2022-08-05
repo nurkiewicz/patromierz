@@ -1,5 +1,5 @@
 ---
-title: Nirvanta | Patromierz - statystyki Patronite.pl
+title: Nirvanta | Patromierz
 
 permalink: /nirvanta
 ---

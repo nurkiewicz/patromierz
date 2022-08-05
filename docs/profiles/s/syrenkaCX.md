@@ -1,5 +1,5 @@
 ---
-title: Syrenka CX - Cyclocross Warszawa | Patromierz - statystyki Patronite.pl
+title: Syrenka CX - Cyclocross Warszawa | Patromierz
 
 permalink: /syrenkaCX
 ---

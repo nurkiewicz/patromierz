@@ -1,5 +1,5 @@
 ---
-title: Traszek | Patromierz - statystyki Patronite.pl
+title: Traszek | Patromierz
 
 permalink: /traszek
 ---

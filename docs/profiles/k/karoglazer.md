@@ -1,5 +1,5 @@
 ---
-title: Karo Glazer | Patromierz - statystyki Patronite.pl
+title: Karo Glazer | Patromierz
 
 permalink: /karoglazer
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'RULon & #BROiMYprojects | Patromierz - statystyki Patronite.pl'
+title: 'RULon & #BROiMYprojects | Patromierz'
 
 permalink: /BROiMY
 ---

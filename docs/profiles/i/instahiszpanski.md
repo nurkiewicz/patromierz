@@ -1,5 +1,5 @@
 ---
-title: "Akademia Instahiszpa\u0144ski | Patromierz - statystyki Patronite.pl"
+title: "Akademia Instahiszpa\u0144ski | Patromierz"
 
 permalink: /instahiszpanski
 ---

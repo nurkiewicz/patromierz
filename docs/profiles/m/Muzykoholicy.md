@@ -1,5 +1,5 @@
 ---
-title: Muzykoholicy.com | Patromierz - statystyki Patronite.pl
+title: Muzykoholicy.com | Patromierz
 
 permalink: /Muzykoholicy
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Trickbox.Project - Pawe\u0142 Kowalczyk  | Patromierz - statystyki Patronite.pl"
+title: "Trickbox.Project - Pawe\u0142 Kowalczyk  | Patromierz"
 
 permalink: /trickboxproject
 ---

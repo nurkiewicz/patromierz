@@ -1,5 +1,5 @@
 ---
-title: Armia Dzieci | Patromierz - statystyki Patronite.pl
+title: Armia Dzieci | Patromierz
 
 permalink: /armiadzieci
 ---

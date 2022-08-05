@@ -1,5 +1,5 @@
 ---
-title: Japa Koniu | Patromierz - statystyki Patronite.pl
+title: Japa Koniu | Patromierz
 
 permalink: /japakoniu
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Literackie Skarby \u015Awiata Ca\u0142ego | Patromierz - statystyki Patronite.pl"
+title: "Literackie Skarby \u015Awiata Ca\u0142ego | Patromierz"
 
 permalink: /literackieskarby
 ---

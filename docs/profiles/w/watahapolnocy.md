@@ -1,5 +1,5 @@
 ---
-title: "Wataha P\xF3\u0142nocy | Patromierz - statystyki Patronite.pl"
+title: "Wataha P\xF3\u0142nocy | Patromierz"
 
 permalink: /watahapolnocy
 ---

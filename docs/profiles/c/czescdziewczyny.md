@@ -1,5 +1,5 @@
 ---
-title: "Cze\u015B\u0107 Dziewczyny! | Patromierz - statystyki Patronite.pl"
+title: "Cze\u015B\u0107 Dziewczyny! | Patromierz"
 
 permalink: /czescdziewczyny
 ---

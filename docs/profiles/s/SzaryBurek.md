@@ -1,5 +1,5 @@
 ---
-title: Szary Burek | Patromierz - statystyki Patronite.pl
+title: Szary Burek | Patromierz
 
 permalink: /SzaryBurek
 ---

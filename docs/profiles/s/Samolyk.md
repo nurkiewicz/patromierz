@@ -1,5 +1,5 @@
 ---
-title: "Tomasz Samo\u0142yk | Patromierz - statystyki Patronite.pl"
+title: "Tomasz Samo\u0142yk | Patromierz"
 
 permalink: /Samolyk
 ---

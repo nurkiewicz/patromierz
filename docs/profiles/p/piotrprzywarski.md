@@ -1,5 +1,5 @@
 ---
-title: Piotr POLO Przywarski | Patromierz - statystyki Patronite.pl
+title: Piotr POLO Przywarski | Patromierz
 
 permalink: /piotrprzywarski
 ---

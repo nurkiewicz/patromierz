@@ -1,5 +1,5 @@
 ---
-title: Kabaret Malina | Patromierz - statystyki Patronite.pl
+title: Kabaret Malina | Patromierz
 
 permalink: /MalinaKabaret
 ---

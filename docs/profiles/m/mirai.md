@@ -1,5 +1,5 @@
 ---
-title: Grupa Mirai | Patromierz - statystyki Patronite.pl
+title: Grupa Mirai | Patromierz
 
 permalink: /mirai
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hallo Urbex | Patromierz - statystyki Patronite.pl
+title: Hallo Urbex | Patromierz
 
 permalink: /hallourbex
 ---

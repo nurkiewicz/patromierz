@@ -1,5 +1,5 @@
 ---
-title: Make Your Life Greener | Patromierz - statystyki Patronite.pl
+title: Make Your Life Greener | Patromierz
 
 permalink: /MakeYourLifeGreener
 ---

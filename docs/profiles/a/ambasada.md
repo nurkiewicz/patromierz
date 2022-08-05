@@ -1,5 +1,5 @@
 ---
-title: Ambasada Krakowian | Patromierz - statystyki Patronite.pl
+title: Ambasada Krakowian | Patromierz
 
 permalink: /ambasada
 ---

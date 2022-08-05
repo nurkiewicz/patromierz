@@ -1,5 +1,5 @@
 ---
-title: TeoriaElektryki.pl | Patromierz - statystyki Patronite.pl
+title: TeoriaElektryki.pl | Patromierz
 
 permalink: /TeoriaElektryki
 ---

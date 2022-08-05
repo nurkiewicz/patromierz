@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Z\u0142otowianka | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Z\u0142otowianka | Patromierz"
 
 permalink: /fundacjazlotowianka
 ---

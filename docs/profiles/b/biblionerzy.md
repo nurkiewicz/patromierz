@@ -1,5 +1,5 @@
 ---
-title: Biblionerzy.pl - quiz biblijny | Patromierz - statystyki Patronite.pl
+title: Biblionerzy.pl - quiz biblijny | Patromierz
 
 permalink: /biblionerzy
 ---

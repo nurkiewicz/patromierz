@@ -1,5 +1,5 @@
 ---
-title: Krvavy | Patromierz - statystyki Patronite.pl
+title: Krvavy | Patromierz
 
 permalink: /krvavy
 ---

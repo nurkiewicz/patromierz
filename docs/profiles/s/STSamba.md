@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a Ta\u0144ca SAMBA Tarnobrzeg | Patromierz - statystyki Patronite.pl"
+title: "Szko\u0142a Ta\u0144ca SAMBA Tarnobrzeg | Patromierz"
 
 permalink: /STSamba
 ---

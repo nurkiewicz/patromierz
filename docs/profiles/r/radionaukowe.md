@@ -1,6 +1,5 @@
 ---
-title: "Radio Naukowe - podcast Karoliny G\u0142owackiej | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Radio Naukowe - podcast Karoliny G\u0142owackiej | Patromierz"
 
 permalink: /radionaukowe
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ladom Kultury | Patromierz - statystyki Patronite.pl
+title: Ladom Kultury | Patromierz
 
 permalink: /ladomkultury
 ---

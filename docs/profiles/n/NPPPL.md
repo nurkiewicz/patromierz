@@ -1,5 +1,5 @@
 ---
-title: Najlepsze Polskie Podcasty | Patromierz - statystyki Patronite.pl
+title: Najlepsze Polskie Podcasty | Patromierz
 
 permalink: /NPPPL
 ---

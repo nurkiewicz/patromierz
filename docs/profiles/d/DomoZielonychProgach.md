@@ -1,6 +1,5 @@
 ---
-title: "Wojciech Szyma\u0144ski - Dom o Zielonych Progach | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Wojciech Szyma\u0144ski - Dom o Zielonych Progach | Patromierz"
 
 permalink: /DomoZielonychProgach
 ---

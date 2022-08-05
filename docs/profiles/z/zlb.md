@@ -1,5 +1,5 @@
 ---
-title: "Zachodniopomorscy \u0141owcy Burz | Patromierz - statystyki Patronite.pl"
+title: "Zachodniopomorscy \u0141owcy Burz | Patromierz"
 
 permalink: /zlb
 ---

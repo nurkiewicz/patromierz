@@ -1,5 +1,5 @@
 ---
-title: KieubasaTV | Patromierz - statystyki Patronite.pl
+title: KieubasaTV | Patromierz
 
 permalink: /kieubasatv
 ---

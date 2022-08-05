@@ -1,5 +1,5 @@
 ---
-title: Kronika Historii | Patromierz - statystyki Patronite.pl
+title: Kronika Historii | Patromierz
 
 permalink: /kronikahistorii
 ---

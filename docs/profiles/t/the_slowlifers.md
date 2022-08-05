@@ -1,5 +1,5 @@
 ---
-title: the slowlifers | Patromierz - statystyki Patronite.pl
+title: the slowlifers | Patromierz
 
 permalink: /the_slowlifers
 ---

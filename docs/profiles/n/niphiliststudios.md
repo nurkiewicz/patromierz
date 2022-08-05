@@ -1,5 +1,5 @@
 ---
-title: Niphilist Studios | Patromierz - statystyki Patronite.pl
+title: Niphilist Studios | Patromierz
 
 permalink: /niphiliststudios
 ---

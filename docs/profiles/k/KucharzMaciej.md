@@ -1,5 +1,5 @@
 ---
-title: Kucharz Maciej | Patromierz - statystyki Patronite.pl
+title: Kucharz Maciej | Patromierz
 
 permalink: /KucharzMaciej
 ---

@@ -1,5 +1,5 @@
 ---
-title: Vincenty Docent | Patromierz - statystyki Patronite.pl
+title: Vincenty Docent | Patromierz
 
 permalink: /Vincenty
 ---

@@ -1,5 +1,5 @@
 ---
-title: CSowicze.pl | Patromierz - statystyki Patronite.pl
+title: CSowicze.pl | Patromierz
 
 permalink: /csowicze
 ---

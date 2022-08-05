@@ -1,5 +1,5 @@
 ---
-title: Motowizja  | Patromierz - statystyki Patronite.pl
+title: Motowizja  | Patromierz
 
 permalink: /motowizja
 ---

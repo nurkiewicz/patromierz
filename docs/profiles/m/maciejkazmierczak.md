@@ -1,5 +1,5 @@
 ---
-title: "Maciej Ka\u017Amierczak | Patromierz - statystyki Patronite.pl"
+title: "Maciej Ka\u017Amierczak | Patromierz"
 
 permalink: /maciejkazmierczak
 ---

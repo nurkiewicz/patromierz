@@ -1,5 +1,5 @@
 ---
-title: Gawlik | Patromierz - statystyki Patronite.pl
+title: Gawlik | Patromierz
 
 permalink: /gawlik_band
 ---

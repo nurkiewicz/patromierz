@@ -1,5 +1,5 @@
 ---
-title: ADRIAN SOCHA | Patromierz - statystyki Patronite.pl
+title: ADRIAN SOCHA | Patromierz
 
 permalink: /adriansocha
 ---

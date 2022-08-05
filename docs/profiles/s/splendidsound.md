@@ -1,5 +1,5 @@
 ---
-title: Splendid Sound | Patromierz - statystyki Patronite.pl
+title: Splendid Sound | Patromierz
 
 permalink: /splendidsound
 ---

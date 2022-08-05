@@ -1,5 +1,5 @@
 ---
-title: "M\u0119\u017Cczyzna spe\u0142niony | Patromierz - statystyki Patronite.pl"
+title: "M\u0119\u017Cczyzna spe\u0142niony | Patromierz"
 
 permalink: /mezczyznaspelniony
 ---

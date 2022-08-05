@@ -1,5 +1,5 @@
 ---
-title: POWOJNIE | Patromierz - statystyki Patronite.pl
+title: POWOJNIE | Patromierz
 
 permalink: /powojnie
 ---

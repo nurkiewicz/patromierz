@@ -1,5 +1,5 @@
 ---
-title: Gabinet od zaplecza | Patromierz - statystyki Patronite.pl
+title: Gabinet od zaplecza | Patromierz
 
 permalink: /gabinetodzaplecza
 ---

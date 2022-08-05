@@ -1,5 +1,5 @@
 ---
-title: Kaczer | Patromierz - statystyki Patronite.pl
+title: Kaczer | Patromierz
 
 permalink: /wwwyoutube.comcKaczergame
 ---

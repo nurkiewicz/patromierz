@@ -1,5 +1,5 @@
 ---
-title: "Ma\u0142gorzata Mostowska | Patromierz - statystyki Patronite.pl"
+title: "Ma\u0142gorzata Mostowska | Patromierz"
 
 permalink: /mmyoga
 ---

@@ -1,5 +1,5 @@
 ---
-title: PiEduPl | Patromierz - statystyki Patronite.pl
+title: PiEduPl | Patromierz
 
 permalink: /PiEduPl
 ---

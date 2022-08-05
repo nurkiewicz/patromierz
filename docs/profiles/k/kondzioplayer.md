@@ -1,5 +1,5 @@
 ---
-title: Kondzio Player | Patromierz - statystyki Patronite.pl
+title: Kondzio Player | Patromierz
 
 permalink: /kondzioplayer
 ---

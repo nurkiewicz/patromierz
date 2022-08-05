@@ -1,5 +1,5 @@
 ---
-title: Youngtimer Warsaw | Patromierz - statystyki Patronite.pl
+title: Youngtimer Warsaw | Patromierz
 
 permalink: /youngtimerwarsaw
 ---

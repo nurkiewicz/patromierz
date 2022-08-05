@@ -1,5 +1,5 @@
 ---
-title: ZebrANe | Patromierz - statystyki Patronite.pl
+title: ZebrANe | Patromierz
 
 permalink: /ZebrANe
 ---

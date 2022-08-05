@@ -1,5 +1,5 @@
 ---
-title: Psychowiedza | Patromierz - statystyki Patronite.pl
+title: Psychowiedza | Patromierz
 
 permalink: /psychowiedza
 ---

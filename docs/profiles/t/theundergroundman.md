@@ -1,5 +1,5 @@
 ---
-title: The Underground Man | Patromierz - statystyki Patronite.pl
+title: The Underground Man | Patromierz
 
 permalink: /theundergroundman
 ---

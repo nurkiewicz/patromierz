@@ -1,5 +1,5 @@
 ---
-title: INWESTOWANIE 2.0 | Patromierz - statystyki Patronite.pl
+title: INWESTOWANIE 2.0 | Patromierz
 
 permalink: /inwestowanie20
 ---

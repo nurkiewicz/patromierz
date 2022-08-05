@@ -1,6 +1,6 @@
 ---
 title: "O\u015Brodek Leczenia i Rehabilitacji Dzikich Zwierz\u0105t \"Puchacz\xF3\
-  wka\" | Patromierz - statystyki Patronite.pl"
+  wka\" | Patromierz"
 
 permalink: /puchaczówka
 ---

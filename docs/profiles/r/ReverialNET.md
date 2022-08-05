@@ -1,5 +1,5 @@
 ---
-title: Reverial.net | Patromierz - statystyki Patronite.pl
+title: Reverial.net | Patromierz
 
 permalink: /ReverialNET
 ---

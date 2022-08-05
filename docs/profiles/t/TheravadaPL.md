@@ -1,5 +1,5 @@
 ---
-title: Fundacja "Theravada" | Patromierz - statystyki Patronite.pl
+title: Fundacja "Theravada" | Patromierz
 
 permalink: /TheravadaPL
 ---

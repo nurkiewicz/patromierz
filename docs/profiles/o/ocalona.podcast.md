@@ -1,5 +1,5 @@
 ---
-title: Ocalona Podcast | Patromierz - statystyki Patronite.pl
+title: Ocalona Podcast | Patromierz
 
 permalink: /ocalona.podcast
 ---

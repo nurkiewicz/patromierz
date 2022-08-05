@@ -1,5 +1,5 @@
 ---
-title: Kasia.in | Patromierz - statystyki Patronite.pl
+title: Kasia.in | Patromierz
 
 permalink: /Kasia_in
 ---

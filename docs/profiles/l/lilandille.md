@@ -1,5 +1,5 @@
 ---
-title: "Polka na Ba\u0142kanach | Patromierz - statystyki Patronite.pl"
+title: "Polka na Ba\u0142kanach | Patromierz"
 
 permalink: /lilandille
 ---

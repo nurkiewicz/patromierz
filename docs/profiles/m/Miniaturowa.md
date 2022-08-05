@@ -1,5 +1,5 @@
 ---
-title: Miniaturowa | Patromierz - statystyki Patronite.pl
+title: Miniaturowa | Patromierz
 
 permalink: /Miniaturowa
 ---

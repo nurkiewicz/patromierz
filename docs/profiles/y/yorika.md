@@ -1,5 +1,5 @@
 ---
-title: Jolka Rebejko | Patromierz - statystyki Patronite.pl
+title: Jolka Rebejko | Patromierz
 
 permalink: /yorika
 ---

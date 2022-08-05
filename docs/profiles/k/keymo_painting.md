@@ -1,5 +1,5 @@
 ---
-title: Keymo Keymokeymo | Patromierz - statystyki Patronite.pl
+title: Keymo Keymokeymo | Patromierz
 
 permalink: /keymo_painting
 ---

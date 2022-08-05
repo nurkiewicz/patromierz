@@ -1,5 +1,5 @@
 ---
-title: "NZN\u017B - Sekcja Wspomagaj\u0105ca | Patromierz - statystyki Patronite.pl"
+title: "NZN\u017B - Sekcja Wspomagaj\u0105ca | Patromierz"
 
 permalink: /NZNZ
 ---

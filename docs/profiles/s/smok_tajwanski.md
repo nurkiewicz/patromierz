@@ -1,5 +1,5 @@
 ---
-title: "smok tajwa\u0144ski \u53F0\u7063\u9F8D | Patromierz - statystyki Patronite.pl"
+title: "smok tajwa\u0144ski \u53F0\u7063\u9F8D | Patromierz"
 
 permalink: /smok_tajwanski
 ---

@@ -1,5 +1,5 @@
 ---
-title: Nocne Radio | Patromierz - statystyki Patronite.pl
+title: Nocne Radio | Patromierz
 
 permalink: /nocneradio
 ---

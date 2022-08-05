@@ -1,5 +1,5 @@
 ---
-title: Ranko Ukulele | Patromierz - statystyki Patronite.pl
+title: Ranko Ukulele | Patromierz
 
 permalink: /rankoukulele
 ---

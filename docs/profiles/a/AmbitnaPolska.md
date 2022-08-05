@@ -1,5 +1,5 @@
 ---
-title: Ambitna Polska | Patromierz - statystyki Patronite.pl
+title: Ambitna Polska | Patromierz
 
 permalink: /AmbitnaPolska
 ---

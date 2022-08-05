@@ -1,5 +1,5 @@
 ---
-title: Szarosen | Patromierz - statystyki Patronite.pl
+title: Szarosen | Patromierz
 
 permalink: /szarosen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u0141apa Dzieciom | Patromierz - statystyki Patronite.pl"
+title: "\u0141apa Dzieciom | Patromierz"
 
 permalink: /LapaDzieciom
 ---

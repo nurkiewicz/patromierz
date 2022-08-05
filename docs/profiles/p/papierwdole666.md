@@ -1,5 +1,5 @@
 ---
-title: Papierwdole | Patromierz - statystyki Patronite.pl
+title: Papierwdole | Patromierz
 
 permalink: /papierwdole666
 ---

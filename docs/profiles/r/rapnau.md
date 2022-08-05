@@ -1,5 +1,5 @@
 ---
-title: RAPNAU | Patromierz - statystyki Patronite.pl
+title: RAPNAU | Patromierz
 
 permalink: /rapnau
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj i Karol - Projekt Deep South | Patromierz - statystyki Patronite.pl"
+title: "Miko\u0142aj i Karol - Projekt Deep South | Patromierz"
 
 permalink: /ProjektDeepSouth
 ---

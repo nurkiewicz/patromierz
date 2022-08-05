@@ -1,5 +1,5 @@
 ---
-title: "Koto\u017Cbik | Patromierz - statystyki Patronite.pl"
+title: "Koto\u017Cbik | Patromierz"
 
 permalink: /Kotozbik
 ---

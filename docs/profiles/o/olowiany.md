@@ -1,5 +1,5 @@
 ---
-title: "O\u0142owiany Podcast / Gunpoint TV | Patromierz - statystyki Patronite.pl"
+title: "O\u0142owiany Podcast / Gunpoint TV | Patromierz"
 
 permalink: /olowiany
 ---

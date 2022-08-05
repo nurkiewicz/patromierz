@@ -1,5 +1,5 @@
 ---
-title: "Marek Zaj\u0105c (Codewin) | Patromierz - statystyki Patronite.pl"
+title: "Marek Zaj\u0105c (Codewin) | Patromierz"
 
 permalink: /zajacmarek
 ---

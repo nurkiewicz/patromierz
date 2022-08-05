@@ -1,5 +1,5 @@
 ---
-title: Helen Mazanova | Patromierz - statystyki Patronite.pl
+title: Helen Mazanova | Patromierz
 
 permalink: /mazanova
 ---

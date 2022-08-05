@@ -1,5 +1,5 @@
 ---
-title: Aga Kirchner | Patromierz - statystyki Patronite.pl
+title: Aga Kirchner | Patromierz
 
 permalink: /againamerica
 ---

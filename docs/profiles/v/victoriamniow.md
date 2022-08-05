@@ -1,5 +1,5 @@
 ---
-title: "Victoria Mni\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Victoria Mni\xF3w | Patromierz"
 
 permalink: /victoriamniow
 ---

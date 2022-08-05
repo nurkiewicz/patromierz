@@ -1,5 +1,5 @@
 ---
-title: "Aga Cie\u015Blak | Patromierz - statystyki Patronite.pl"
+title: "Aga Cie\u015Blak | Patromierz"
 
 permalink: /AgaCieslak
 ---

@@ -1,5 +1,5 @@
 ---
-title: Imaginarium RPG | Patromierz - statystyki Patronite.pl
+title: Imaginarium RPG | Patromierz
 
 permalink: /imaginariumrpg
 ---

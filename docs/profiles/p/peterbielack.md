@@ -1,5 +1,5 @@
 ---
-title: Peter Bielack | Patromierz - statystyki Patronite.pl
+title: Peter Bielack | Patromierz
 
 permalink: /peterbielack
 ---

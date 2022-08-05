@@ -1,5 +1,5 @@
 ---
-title: "Ch\u0142opaki w podr\xF3\u017Cy | Patromierz - statystyki Patronite.pl"
+title: "Ch\u0142opaki w podr\xF3\u017Cy | Patromierz"
 
 permalink: /chlopakiwpodrozy
 ---

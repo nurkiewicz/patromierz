@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Filmowa Polscy Wychod\u017Acy | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Filmowa Polscy Wychod\u017Acy | Patromierz"
 
 permalink: /ffpw
 ---

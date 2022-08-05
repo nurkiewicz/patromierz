@@ -1,5 +1,5 @@
 ---
-title: Oczami Bezdomnego Psa | Patromierz - statystyki Patronite.pl
+title: Oczami Bezdomnego Psa | Patromierz
 
 permalink: /OczamiBezdomnegoPsa
 ---

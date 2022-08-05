@@ -1,5 +1,5 @@
 ---
-title: Koroluk | Patromierz - statystyki Patronite.pl
+title: Koroluk | Patromierz
 
 permalink: /koroluk
 ---

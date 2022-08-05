@@ -1,5 +1,5 @@
 ---
-title: Anna Strzelczyk | Patromierz - statystyki Patronite.pl
+title: Anna Strzelczyk | Patromierz
 
 permalink: /anna-strzelczyk
 ---

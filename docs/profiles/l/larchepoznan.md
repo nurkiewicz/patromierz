@@ -1,5 +1,5 @@
 ---
-title: "L'Arche Pozna\u0144 | Patromierz - statystyki Patronite.pl"
+title: "L'Arche Pozna\u0144 | Patromierz"
 
 permalink: /larchepoznan
 ---

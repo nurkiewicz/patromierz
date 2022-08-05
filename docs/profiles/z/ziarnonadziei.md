@@ -1,5 +1,5 @@
 ---
-title: Ziarno Nadziei | Patromierz - statystyki Patronite.pl
+title: Ziarno Nadziei | Patromierz
 
 permalink: /ziarnonadziei
 ---

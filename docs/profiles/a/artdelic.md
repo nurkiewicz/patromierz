@@ -1,5 +1,5 @@
 ---
-title: Fundacja Artdelic | Patromierz - statystyki Patronite.pl
+title: Fundacja Artdelic | Patromierz
 
 permalink: /artdelic
 ---

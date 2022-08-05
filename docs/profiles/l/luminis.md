@@ -1,5 +1,5 @@
 ---
-title: "Luminis o\u015Bwietlenie | Patromierz - statystyki Patronite.pl"
+title: "Luminis o\u015Bwietlenie | Patromierz"
 
 permalink: /luminis
 ---

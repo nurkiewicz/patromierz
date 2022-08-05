@@ -1,5 +1,5 @@
 ---
-title: "Paulina Bia\u0142ek | Patromierz - statystyki Patronite.pl"
+title: "Paulina Bia\u0142ek | Patromierz"
 
 permalink: /Sieje_Dobro
 ---

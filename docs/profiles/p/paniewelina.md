@@ -1,5 +1,5 @@
 ---
-title: Pani Ewelina | Patromierz - statystyki Patronite.pl
+title: Pani Ewelina | Patromierz
 
 permalink: /paniewelina
 ---

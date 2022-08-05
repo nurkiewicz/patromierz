@@ -1,5 +1,5 @@
 ---
-title: "Jaros\u0142aw Centek | Patromierz - statystyki Patronite.pl"
+title: "Jaros\u0142aw Centek | Patromierz"
 
 permalink: /JaroslawCentek
 ---

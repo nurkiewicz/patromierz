@@ -1,5 +1,5 @@
 ---
-title: Bardo - na tropie tajemnic historii | Patromierz - statystyki Patronite.pl
+title: Bardo - na tropie tajemnic historii | Patromierz
 
 permalink: /bardonatropietajemnichistorii
 ---

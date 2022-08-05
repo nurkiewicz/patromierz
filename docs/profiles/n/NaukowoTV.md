@@ -1,5 +1,5 @@
 ---
-title: NaukowoTV | Patromierz - statystyki Patronite.pl
+title: NaukowoTV | Patromierz
 
 permalink: /NaukowoTV
 ---

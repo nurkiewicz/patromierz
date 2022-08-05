@@ -1,5 +1,5 @@
 ---
-title: Wioska Kobiet | Patromierz - statystyki Patronite.pl
+title: Wioska Kobiet | Patromierz
 
 permalink: /wioskakobiet
 ---

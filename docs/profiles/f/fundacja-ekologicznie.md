@@ -1,5 +1,5 @@
 ---
-title: Fundacja EkoLogicznie | Patromierz - statystyki Patronite.pl
+title: Fundacja EkoLogicznie | Patromierz
 
 permalink: /fundacja-ekologicznie
 ---

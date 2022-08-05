@@ -1,6 +1,5 @@
 ---
-title: Rejent i Szumowski w domu na streamie - Browar Rejenta | Patromierz - statystyki
-  Patronite.pl
+title: Rejent i Szumowski w domu na streamie - Browar Rejenta | Patromierz
 
 permalink: /browarrejenta
 ---

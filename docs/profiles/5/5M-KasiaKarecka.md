@@ -1,5 +1,5 @@
 ---
-title: Blog 5M - Kasia Karecka | Patromierz - statystyki Patronite.pl
+title: Blog 5M - Kasia Karecka | Patromierz
 
 permalink: /5M-KasiaKarecka
 ---

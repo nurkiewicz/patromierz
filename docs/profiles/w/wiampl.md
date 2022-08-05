@@ -1,5 +1,5 @@
 ---
-title: WIAM.pl | Patromierz - statystyki Patronite.pl
+title: WIAM.pl | Patromierz
 
 permalink: /wiampl
 ---

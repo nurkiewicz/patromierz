@@ -1,5 +1,5 @@
 ---
-title: RADIO ROCKSERWIS FM | Patromierz - statystyki Patronite.pl
+title: RADIO ROCKSERWIS FM | Patromierz
 
 permalink: /rockserwisfm
 ---

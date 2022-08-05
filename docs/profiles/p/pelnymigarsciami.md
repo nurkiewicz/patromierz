@@ -1,5 +1,5 @@
 ---
-title: Barbara Turek  | Patromierz - statystyki Patronite.pl
+title: Barbara Turek  | Patromierz
 
 permalink: /pelnymigarsciami
 ---

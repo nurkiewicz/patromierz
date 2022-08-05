@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj W\u0142odarczyk | Patromierz - statystyki Patronite.pl"
+title: "Miko\u0142aj W\u0142odarczyk | Patromierz"
 
 permalink: /mikolaj-wlodarczyk-sleddog-tea
 ---

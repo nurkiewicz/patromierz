@@ -1,5 +1,5 @@
 ---
-title: So Kayka | Patromierz - statystyki Patronite.pl
+title: So Kayka | Patromierz
 
 permalink: /sokayka
 ---

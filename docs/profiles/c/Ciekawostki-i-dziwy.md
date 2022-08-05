@@ -1,5 +1,5 @@
 ---
-title: Ciekawostki i inne dziwy | Patromierz - statystyki Patronite.pl
+title: Ciekawostki i inne dziwy | Patromierz
 
 permalink: /Ciekawostki-i-dziwy
 ---

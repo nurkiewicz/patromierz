@@ -1,5 +1,5 @@
 ---
-title: Mazowieckie To i Owo | Patromierz - statystyki Patronite.pl
+title: Mazowieckie To i Owo | Patromierz
 
 permalink: /toiowo
 ---

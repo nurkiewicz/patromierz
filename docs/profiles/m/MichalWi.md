@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Wi | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Wi | Patromierz"
 
 permalink: /MichalWi
 ---

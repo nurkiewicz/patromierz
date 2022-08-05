@@ -1,5 +1,5 @@
 ---
-title: Charmin hime | Patromierz - statystyki Patronite.pl
+title: Charmin hime | Patromierz
 
 permalink: /charminhime
 ---

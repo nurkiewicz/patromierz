@@ -1,5 +1,5 @@
 ---
-title: "Pieszo przez \u015Bwiat  | Patromierz - statystyki Patronite.pl"
+title: "Pieszo przez \u015Bwiat  | Patromierz"
 
 permalink: /pieszoprzezswiat
 ---

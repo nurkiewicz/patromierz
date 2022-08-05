@@ -1,5 +1,5 @@
 ---
-title: Knebel studio Makleros | Patromierz - statystyki Patronite.pl
+title: Knebel studio Makleros | Patromierz
 
 permalink: /Knebelstudio
 ---

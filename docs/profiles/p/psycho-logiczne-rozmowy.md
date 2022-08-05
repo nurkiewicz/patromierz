@@ -1,5 +1,5 @@
 ---
-title: Psycho-logiczne rozmowy | Patromierz - statystyki Patronite.pl
+title: Psycho-logiczne rozmowy | Patromierz
 
 permalink: /psycho-logiczne-rozmowy
 ---

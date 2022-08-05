@@ -1,5 +1,5 @@
 ---
-title: "Kr\u0119gi w zbo\u017Cu | Patromierz - statystyki Patronite.pl"
+title: "Kr\u0119gi w zbo\u017Cu | Patromierz"
 
 permalink: /kregiwzbozu
 ---

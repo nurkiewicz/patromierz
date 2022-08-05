@@ -1,5 +1,5 @@
 ---
-title: Festiwal Musica Divina | Patromierz - statystyki Patronite.pl
+title: Festiwal Musica Divina | Patromierz
 
 permalink: /musicadivina
 ---

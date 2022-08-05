@@ -1,5 +1,5 @@
 ---
-title: amberisosom | Patromierz - statystyki Patronite.pl
+title: amberisosom | Patromierz
 
 permalink: /amberisosom
 ---

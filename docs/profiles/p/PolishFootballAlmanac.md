@@ -1,5 +1,5 @@
 ---
-title: PolishFootballAlmanac | Patromierz - statystyki Patronite.pl
+title: PolishFootballAlmanac | Patromierz
 
 permalink: /PolishFootballAlmanac
 ---

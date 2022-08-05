@@ -1,5 +1,5 @@
 ---
-title: "Kacper Kurzyd\u0142o | Patromierz - statystyki Patronite.pl"
+title: "Kacper Kurzyd\u0142o | Patromierz"
 
 permalink: /trikacper
 ---

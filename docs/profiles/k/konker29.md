@@ -1,5 +1,5 @@
 ---
-title: Damian Konstanty | Patromierz - statystyki Patronite.pl
+title: Damian Konstanty | Patromierz
 
 permalink: /konker29
 ---

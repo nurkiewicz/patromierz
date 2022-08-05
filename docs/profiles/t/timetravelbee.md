@@ -1,5 +1,5 @@
 ---
-title: Time Travel Bee | Patromierz - statystyki Patronite.pl
+title: Time Travel Bee | Patromierz
 
 permalink: /timetravelbee
 ---

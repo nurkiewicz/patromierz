@@ -1,5 +1,5 @@
 ---
-title: Kurier Historyczny | Patromierz - statystyki Patronite.pl
+title: Kurier Historyczny | Patromierz
 
 permalink: /KurierHistoryczny
 ---

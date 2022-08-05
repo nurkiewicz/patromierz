@@ -1,5 +1,5 @@
 ---
-title: Vademecum Liturgiczne | Patromierz - statystyki Patronite.pl
+title: Vademecum Liturgiczne | Patromierz
 
 permalink: /VademecumLiturgiczne
 ---

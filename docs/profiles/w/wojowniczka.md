@@ -1,5 +1,5 @@
 ---
-title: Anna Antoniak | Patromierz - statystyki Patronite.pl
+title: Anna Antoniak | Patromierz
 
 permalink: /wojowniczka
 ---

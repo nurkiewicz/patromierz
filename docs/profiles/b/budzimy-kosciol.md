@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Nowa Pi\u0119\u0107dziesi\u0105tnica | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Nowa Pi\u0119\u0107dziesi\u0105tnica | Patromierz"
 
 permalink: /budzimy-kosciol
 ---

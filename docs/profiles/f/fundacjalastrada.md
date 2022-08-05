@@ -1,5 +1,5 @@
 ---
-title: Fundacja La Strada | Patromierz - statystyki Patronite.pl
+title: Fundacja La Strada | Patromierz
 
 permalink: /fundacjalastrada
 ---

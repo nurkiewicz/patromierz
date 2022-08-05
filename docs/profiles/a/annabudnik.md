@@ -1,5 +1,5 @@
 ---
-title: "czu\u0142ostan - Psychodietetyka Anna Budnik | Patromierz - statystyki Patronite.pl"
+title: "czu\u0142ostan - Psychodietetyka Anna Budnik | Patromierz"
 
 permalink: /annabudnik
 ---

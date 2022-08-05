@@ -1,5 +1,5 @@
 ---
-title: Niezatapialni | Patromierz - statystyki Patronite.pl
+title: Niezatapialni | Patromierz
 
 permalink: /niezatapialni
 ---

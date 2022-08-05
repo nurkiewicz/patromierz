@@ -1,5 +1,5 @@
 ---
-title: "Kot Bez Wyobra\u017Ani \u2219 Gosia Gawlik | Patromierz - statystyki Patronite.pl"
+title: "Kot Bez Wyobra\u017Ani \u2219 Gosia Gawlik | Patromierz"
 
 permalink: /kotbezwyobrazni
 ---

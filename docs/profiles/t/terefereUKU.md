@@ -1,5 +1,5 @@
 ---
-title: tere-fere-UKU - czyli hUKU wiELE z UKULELE | Patromierz - statystyki Patronite.pl
+title: tere-fere-UKU - czyli hUKU wiELE z UKULELE | Patromierz
 
 permalink: /terefereUKU
 ---

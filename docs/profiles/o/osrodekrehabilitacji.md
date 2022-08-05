@@ -1,6 +1,5 @@
 ---
-title: "O\u015Brodek Rehabilitacji Zwierz\u0105t Chronionych | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "O\u015Brodek Rehabilitacji Zwierz\u0105t Chronionych | Patromierz"
 
 permalink: /osrodekrehabilitacji
 ---

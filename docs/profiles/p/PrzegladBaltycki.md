@@ -1,5 +1,5 @@
 ---
-title: "Przegl\u0105d Ba\u0142tycki | Patromierz - statystyki Patronite.pl"
+title: "Przegl\u0105d Ba\u0142tycki | Patromierz"
 
 permalink: /PrzegladBaltycki
 ---

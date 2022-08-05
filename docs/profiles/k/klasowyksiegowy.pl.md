@@ -1,5 +1,5 @@
 ---
-title: "Rados\u0142aw Gromek | Patromierz - statystyki Patronite.pl"
+title: "Rados\u0142aw Gromek | Patromierz"
 
 permalink: /klasowyksiegowy.pl
 ---

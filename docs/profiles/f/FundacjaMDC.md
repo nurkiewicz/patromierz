@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Ma\u0142y Du\u017Cy Cz\u0142owiek  | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Ma\u0142y Du\u017Cy Cz\u0142owiek  | Patromierz"
 
 permalink: /FundacjaMDC
 ---

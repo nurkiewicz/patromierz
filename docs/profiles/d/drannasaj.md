@@ -1,5 +1,5 @@
 ---
-title: dr Anna Saj | Patromierz - statystyki Patronite.pl
+title: dr Anna Saj | Patromierz
 
 permalink: /drannasaj
 ---

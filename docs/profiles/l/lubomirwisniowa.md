@@ -1,5 +1,5 @@
 ---
-title: "Lubomir Wi\u015Bniowa - sekcja kobiet | Patromierz - statystyki Patronite.pl"
+title: "Lubomir Wi\u015Bniowa - sekcja kobiet | Patromierz"
 
 permalink: /lubomirwisniowa
 ---

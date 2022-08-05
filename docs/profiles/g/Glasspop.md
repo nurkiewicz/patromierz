@@ -1,5 +1,5 @@
 ---
-title: Glasspop | Patromierz - statystyki Patronite.pl
+title: Glasspop | Patromierz
 
 permalink: /Glasspop
 ---

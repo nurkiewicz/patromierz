@@ -1,5 +1,5 @@
 ---
-title: Staszek iGRAszkowski | Patromierz - statystyki Patronite.pl
+title: Staszek iGRAszkowski | Patromierz
 
 permalink: /staszek
 ---

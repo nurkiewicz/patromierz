@@ -1,6 +1,5 @@
 ---
-title: "Przedsi\u0119biorca idei. Podcast Marcina Chmielowskiego | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Przedsi\u0119biorca idei. Podcast Marcina Chmielowskiego | Patromierz"
 
 permalink: /marcinchmielowski
 ---

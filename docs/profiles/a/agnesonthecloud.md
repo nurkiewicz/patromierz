@@ -1,5 +1,5 @@
 ---
-title: Agnes on the cloud. | Patromierz - statystyki Patronite.pl
+title: Agnes on the cloud. | Patromierz
 
 permalink: /agnesonthecloud
 ---

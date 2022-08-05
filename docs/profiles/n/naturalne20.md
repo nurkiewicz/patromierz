@@ -1,5 +1,5 @@
 ---
-title: Naturalne 20 | Patromierz - statystyki Patronite.pl
+title: Naturalne 20 | Patromierz
 
 permalink: /naturalne20
 ---

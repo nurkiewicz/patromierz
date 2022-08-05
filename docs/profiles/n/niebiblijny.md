@@ -1,5 +1,5 @@
 ---
-title: Nie/biblijny | Patromierz - statystyki Patronite.pl
+title: Nie/biblijny | Patromierz
 
 permalink: /niebiblijny
 ---

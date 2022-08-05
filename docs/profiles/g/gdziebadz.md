@@ -1,5 +1,5 @@
 ---
-title: "GDZIE B\u0104D\u0179 | Patromierz - statystyki Patronite.pl"
+title: "GDZIE B\u0104D\u0179 | Patromierz"
 
 permalink: /gdziebadz
 ---

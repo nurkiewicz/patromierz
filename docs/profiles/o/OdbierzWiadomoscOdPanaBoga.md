@@ -1,5 +1,5 @@
 ---
-title: "Odbierz wiadomo\u015B\u0107 od Pana Boga | Patromierz - statystyki Patronite.pl"
+title: "Odbierz wiadomo\u015B\u0107 od Pana Boga | Patromierz"
 
 permalink: /OdbierzWiadomoscOdPanaBoga
 ---

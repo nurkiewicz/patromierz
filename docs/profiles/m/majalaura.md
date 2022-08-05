@@ -1,5 +1,5 @@
 ---
-title: Maja Laura  | Patromierz - statystyki Patronite.pl
+title: Maja Laura  | Patromierz
 
 permalink: /majalaura
 ---

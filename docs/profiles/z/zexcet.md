@@ -1,5 +1,5 @@
 ---
-title: Zexcet  | Patromierz - statystyki Patronite.pl
+title: Zexcet  | Patromierz
 
 permalink: /zexcet
 ---

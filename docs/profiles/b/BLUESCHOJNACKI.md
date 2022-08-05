@@ -1,5 +1,5 @@
 ---
-title: Jan Chojnacki | Patromierz - statystyki Patronite.pl
+title: Jan Chojnacki | Patromierz
 
 permalink: /BLUESCHOJNACKI
 ---

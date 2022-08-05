@@ -1,5 +1,5 @@
 ---
-title: "Jak si\u0119 starze\u0107 bez godno\u015Bci | Patromierz - statystyki Patronite.pl"
+title: "Jak si\u0119 starze\u0107 bez godno\u015Bci | Patromierz"
 
 permalink: /jaksiestarzecbezgodnosci
 ---

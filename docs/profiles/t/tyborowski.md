@@ -1,6 +1,5 @@
 ---
-title: "Dr Daniel Tyborowski - \u015Arodowe spotkania z dziejami Ziemi  | Patromierz\
-  \ - statystyki Patronite.pl"
+title: "Dr Daniel Tyborowski - \u015Arodowe spotkania z dziejami Ziemi  | Patromierz"
 
 permalink: /tyborowski
 ---

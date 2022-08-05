@@ -1,5 +1,5 @@
 ---
-title: "Mariusz \u015Aniegulski | Patromierz - statystyki Patronite.pl"
+title: "Mariusz \u015Aniegulski | Patromierz"
 
 permalink: /sniegulskimusic
 ---

@@ -1,5 +1,5 @@
 ---
-title: DiakoN | Patromierz - statystyki Patronite.pl
+title: DiakoN | Patromierz
 
 permalink: /DiakoN
 ---

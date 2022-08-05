@@ -1,5 +1,5 @@
 ---
-title: Dominika Kiprowska | Patromierz - statystyki Patronite.pl
+title: Dominika Kiprowska | Patromierz
 
 permalink: /kiproo
 ---

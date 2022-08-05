@@ -1,5 +1,5 @@
 ---
-title: "Linia wsparcia dla os\xF3b po stracie | Patromierz - statystyki Patronite.pl"
+title: "Linia wsparcia dla os\xF3b po stracie | Patromierz"
 
 permalink: /naglesami
 ---

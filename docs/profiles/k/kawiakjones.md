@@ -1,5 +1,5 @@
 ---
-title: Kawiak Jones | Patromierz - statystyki Patronite.pl
+title: Kawiak Jones | Patromierz
 
 permalink: /kawiakjones
 ---

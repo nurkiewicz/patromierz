@@ -1,5 +1,5 @@
 ---
-title: "Ignacja\u0144ski rachunek sumienia | Patromierz - statystyki Patronite.pl"
+title: "Ignacja\u0144ski rachunek sumienia | Patromierz"
 
 permalink: /ignacjanski
 ---

@@ -1,5 +1,5 @@
 ---
-title: Viva! Interwencje  | Patromierz - statystyki Patronite.pl
+title: Viva! Interwencje  | Patromierz
 
 permalink: /vivainterwencje
 ---

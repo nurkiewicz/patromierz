@@ -1,5 +1,5 @@
 ---
-title: Frontem do Syrii | Patromierz - statystyki Patronite.pl
+title: Frontem do Syrii | Patromierz
 
 permalink: /FrontemDoSyrii
 ---

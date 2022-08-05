@@ -1,5 +1,5 @@
 ---
-title: Marcin Majewski | Patromierz - statystyki Patronite.pl
+title: Marcin Majewski | Patromierz
 
 permalink: /MarcinMajewski
 ---

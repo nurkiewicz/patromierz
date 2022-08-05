@@ -1,5 +1,5 @@
 ---
-title: Mao Powiedziane | Patromierz - statystyki Patronite.pl
+title: Mao Powiedziane | Patromierz
 
 permalink: /maopowiedziane
 ---

@@ -1,5 +1,5 @@
 ---
-title: Chwilo trwaj | Patromierz - statystyki Patronite.pl
+title: Chwilo trwaj | Patromierz
 
 permalink: /naszczescie
 ---

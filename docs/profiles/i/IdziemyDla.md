@@ -1,5 +1,5 @@
 ---
-title: Idziemy Dla | Patromierz - statystyki Patronite.pl
+title: Idziemy Dla | Patromierz
 
 permalink: /IdziemyDla
 ---

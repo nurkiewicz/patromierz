@@ -1,5 +1,5 @@
 ---
-title: Syndikate Co. | Patromierz - statystyki Patronite.pl
+title: Syndikate Co. | Patromierz
 
 permalink: /SyndikateCo
 ---

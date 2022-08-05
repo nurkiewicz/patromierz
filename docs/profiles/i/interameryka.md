@@ -1,5 +1,5 @@
 ---
-title: InterAmeryka | Patromierz - statystyki Patronite.pl
+title: InterAmeryka | Patromierz
 
 permalink: /interameryka
 ---

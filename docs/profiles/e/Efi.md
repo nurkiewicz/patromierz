@@ -1,5 +1,5 @@
 ---
-title: Efi | Patromierz - statystyki Patronite.pl
+title: Efi | Patromierz
 
 permalink: /Efi
 ---

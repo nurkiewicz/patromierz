@@ -1,5 +1,5 @@
 ---
-title: Duchy Imperium Rosyjskiego | Patromierz - statystyki Patronite.pl
+title: Duchy Imperium Rosyjskiego | Patromierz
 
 permalink: /duchyimperiumrosyjskiego
 ---

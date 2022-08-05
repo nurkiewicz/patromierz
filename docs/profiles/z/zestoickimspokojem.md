@@ -1,5 +1,5 @@
 ---
-title: Ze stoickim spokojem | Patromierz - statystyki Patronite.pl
+title: Ze stoickim spokojem | Patromierz
 
 permalink: /zestoickimspokojem
 ---

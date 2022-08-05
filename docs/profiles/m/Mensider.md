@@ -1,5 +1,5 @@
 ---
-title: Mensider Magazine | Patromierz - statystyki Patronite.pl
+title: Mensider Magazine | Patromierz
 
 permalink: /Mensider
 ---

@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie "Kolej Beskidzka" | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie "Kolej Beskidzka" | Patromierz
 
 permalink: /kolejbeskidzka
 ---

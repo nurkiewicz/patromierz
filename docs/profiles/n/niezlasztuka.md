@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Niez\u0142a Sztuka | Patromierz - statystyki Patronite.pl"
+title: "Fundacja Niez\u0142a Sztuka | Patromierz"
 
 permalink: /niezlasztuka
 ---

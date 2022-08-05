@@ -1,5 +1,5 @@
 ---
-title: MageT | Patromierz - statystyki Patronite.pl
+title: MageT | Patromierz
 
 permalink: /MageT
 ---

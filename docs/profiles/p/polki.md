@@ -1,5 +1,5 @@
 ---
-title: "Polki na Obczy\u017Anie | Patromierz - statystyki Patronite.pl"
+title: "Polki na Obczy\u017Anie | Patromierz"
 
 permalink: /polki
 ---

@@ -1,5 +1,5 @@
 ---
-title: WachU | Patromierz - statystyki Patronite.pl
+title: WachU | Patromierz
 
 permalink: /WachU
 ---

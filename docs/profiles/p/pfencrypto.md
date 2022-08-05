@@ -1,5 +1,5 @@
 ---
-title: Pfen Crypto | Patromierz - statystyki Patronite.pl
+title: Pfen Crypto | Patromierz
 
 permalink: /pfencrypto
 ---

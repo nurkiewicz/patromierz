@@ -1,5 +1,5 @@
 ---
-title: "Nasza Choszcz\xF3wka | Patromierz - statystyki Patronite.pl"
+title: "Nasza Choszcz\xF3wka | Patromierz"
 
 permalink: /naszachoszczowka
 ---

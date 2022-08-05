@@ -1,5 +1,5 @@
 ---
-title: Adrian Oratowski | Patromierz - statystyki Patronite.pl
+title: Adrian Oratowski | Patromierz
 
 permalink: /oratowski
 ---

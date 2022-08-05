@@ -1,5 +1,5 @@
 ---
-title: Bushcraftowy | Patromierz - statystyki Patronite.pl
+title: Bushcraftowy | Patromierz
 
 permalink: /bushcraftowy
 ---

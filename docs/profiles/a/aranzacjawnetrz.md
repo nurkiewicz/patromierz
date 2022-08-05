@@ -1,5 +1,5 @@
 ---
-title: "Aran\u017Cacja Wn\u0119trz | Patromierz - statystyki Patronite.pl"
+title: "Aran\u017Cacja Wn\u0119trz | Patromierz"
 
 permalink: /aranzacjawnetrz
 ---

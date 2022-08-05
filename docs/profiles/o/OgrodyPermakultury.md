@@ -1,5 +1,5 @@
 ---
-title: Edukacyjne Centrum Ogrody Permakultury | Patromierz - statystyki Patronite.pl
+title: Edukacyjne Centrum Ogrody Permakultury | Patromierz
 
 permalink: /OgrodyPermakultury
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hide | Patromierz - statystyki Patronite.pl
+title: Hide | Patromierz
 
 permalink: /hide
 ---

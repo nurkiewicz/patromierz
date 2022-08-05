@@ -1,5 +1,5 @@
 ---
-title: Kot Warszawski | Patromierz - statystyki Patronite.pl
+title: Kot Warszawski | Patromierz
 
 permalink: /KotWarszawski
 ---

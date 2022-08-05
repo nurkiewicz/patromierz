@@ -1,5 +1,5 @@
 ---
-title: Marta Kurek | Patromierz - statystyki Patronite.pl
+title: Marta Kurek | Patromierz
 
 permalink: /smoczamarta
 ---

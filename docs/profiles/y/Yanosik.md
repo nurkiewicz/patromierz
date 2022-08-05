@@ -1,5 +1,5 @@
 ---
-title: Yanosik | Patromierz - statystyki Patronite.pl
+title: Yanosik | Patromierz
 
 permalink: /Yanosik
 ---

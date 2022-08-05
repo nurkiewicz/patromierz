@@ -1,5 +1,5 @@
 ---
-title: Fundacja SejmLog | Patromierz - statystyki Patronite.pl
+title: Fundacja SejmLog | Patromierz
 
 permalink: /SejmLog
 ---

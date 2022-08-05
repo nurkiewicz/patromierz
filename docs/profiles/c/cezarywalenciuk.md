@@ -1,5 +1,5 @@
 ---
-title: Cezary Walenciuk | Patromierz - statystyki Patronite.pl
+title: Cezary Walenciuk | Patromierz
 
 permalink: /cezarywalenciuk
 ---

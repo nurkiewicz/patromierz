@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kowalonek | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Kowalonek | Patromierz"
 
 permalink: /KowalonekSongwriter
 ---

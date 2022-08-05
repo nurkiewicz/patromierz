@@ -1,5 +1,5 @@
 ---
-title: Schronisko w Korabiewicach VIVA | Patromierz - statystyki Patronite.pl
+title: Schronisko w Korabiewicach VIVA | Patromierz
 
 permalink: /schroniskowkorabiewicach
 ---

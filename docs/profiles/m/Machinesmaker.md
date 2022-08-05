@@ -1,5 +1,5 @@
 ---
-title: "Adam Maszynotw\xF3r | Patromierz - statystyki Patronite.pl"
+title: "Adam Maszynotw\xF3r | Patromierz"
 
 permalink: /Machinesmaker
 ---

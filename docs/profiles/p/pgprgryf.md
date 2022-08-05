@@ -1,5 +1,5 @@
 ---
-title: Pomorska Grupa Poszukiwawczo-Ratownicza GRYF | Patromierz - statystyki Patronite.pl
+title: Pomorska Grupa Poszukiwawczo-Ratownicza GRYF | Patromierz
 
 permalink: /pgprgryf
 ---

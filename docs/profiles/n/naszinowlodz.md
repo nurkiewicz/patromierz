@@ -1,5 +1,5 @@
 ---
-title: NaszInowlodz.PL | Patromierz - statystyki Patronite.pl
+title: NaszInowlodz.PL | Patromierz
 
 permalink: /naszinowlodz
 ---

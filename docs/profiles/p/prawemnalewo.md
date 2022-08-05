@@ -1,5 +1,5 @@
 ---
-title: Prawem Na Lewo | Patromierz - statystyki Patronite.pl
+title: Prawem Na Lewo | Patromierz
 
 permalink: /prawemnalewo
 ---

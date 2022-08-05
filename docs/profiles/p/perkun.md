@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Eksploracji Perkun  | Patromierz - statystyki Patronite.pl
+title: Stowarzyszenie Eksploracji Perkun  | Patromierz
 
 permalink: /perkun
 ---

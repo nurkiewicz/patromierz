@@ -1,5 +1,5 @@
 ---
-title: TV Atlantyda / Marcelo Zammenhoff | Patromierz - statystyki Patronite.pl
+title: TV Atlantyda / Marcelo Zammenhoff | Patromierz
 
 permalink: /tv_atlantyda
 ---

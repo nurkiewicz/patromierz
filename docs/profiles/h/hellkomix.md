@@ -1,5 +1,5 @@
 ---
-title: Hellkomix | Patromierz - statystyki Patronite.pl
+title: Hellkomix | Patromierz
 
 permalink: /hellkomix
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Nie Ma Lekko Kornel P\u0119ksa | Patromierz - statystyki Patronite.pl"
+title: "Nie Ma Lekko Kornel P\u0119ksa | Patromierz"
 
 permalink: /NieMaLekko
 ---

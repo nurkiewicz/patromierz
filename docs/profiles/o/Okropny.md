@@ -1,5 +1,5 @@
 ---
-title: Okropny | Patromierz - statystyki Patronite.pl
+title: Okropny | Patromierz
 
 permalink: /Okropny
 ---

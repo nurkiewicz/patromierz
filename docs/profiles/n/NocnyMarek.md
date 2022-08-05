@@ -1,5 +1,5 @@
 ---
-title: Nocny Marek | Patromierz - statystyki Patronite.pl
+title: Nocny Marek | Patromierz
 
 permalink: /NocnyMarek
 ---

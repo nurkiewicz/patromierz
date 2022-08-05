@@ -1,5 +1,5 @@
 ---
-title: "Anna B\u0105k | Patromierz - statystyki Patronite.pl"
+title: "Anna B\u0105k | Patromierz"
 
 permalink: /AnnaBak
 ---

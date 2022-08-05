@@ -1,5 +1,5 @@
 ---
-title: Miasto Odnowa | Patromierz - statystyki Patronite.pl
+title: Miasto Odnowa | Patromierz
 
 permalink: /miastoodnowa
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jeden z Wielu | Patromierz - statystyki Patronite.pl
+title: Jeden z Wielu | Patromierz
 
 permalink: /JedenzWielu
 ---

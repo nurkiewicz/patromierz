@@ -1,5 +1,5 @@
 ---
-title: Halo.Radio  | Patromierz - statystyki Patronite.pl
+title: Halo.Radio  | Patromierz
 
 permalink: /fundacjaobywatelska
 ---

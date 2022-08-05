@@ -1,5 +1,5 @@
 ---
-title: "Tak\u017BeTego | Patromierz - statystyki Patronite.pl"
+title: "Tak\u017BeTego | Patromierz"
 
 permalink: /tzt
 ---

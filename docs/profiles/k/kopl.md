@@ -1,5 +1,5 @@
 ---
-title: "Zenobia \u017Baczek | Patromierz - statystyki Patronite.pl"
+title: "Zenobia \u017Baczek | Patromierz"
 
 permalink: /kopl
 ---

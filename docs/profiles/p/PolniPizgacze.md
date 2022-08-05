@@ -1,5 +1,5 @@
 ---
-title: Polni Pizgacze | Patromierz - statystyki Patronite.pl
+title: Polni Pizgacze | Patromierz
 
 permalink: /PolniPizgacze
 ---

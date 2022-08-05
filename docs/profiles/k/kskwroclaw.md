@@ -1,5 +1,5 @@
 ---
-title: "Klub Sympatyk\xF3w Kolei we Wroc\u0142awiu | Patromierz - statystyki Patronite.pl"
+title: "Klub Sympatyk\xF3w Kolei we Wroc\u0142awiu | Patromierz"
 
 permalink: /kskwroclaw
 ---

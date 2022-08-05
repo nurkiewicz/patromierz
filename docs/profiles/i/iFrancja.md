@@ -1,5 +1,5 @@
 ---
-title: iFrancja | Patromierz - statystyki Patronite.pl
+title: iFrancja | Patromierz
 
 permalink: /iFrancja
 ---

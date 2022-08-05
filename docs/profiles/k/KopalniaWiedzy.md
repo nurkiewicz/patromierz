@@ -1,5 +1,5 @@
 ---
-title: KopalniaWiedzy.pl | Patromierz - statystyki Patronite.pl
+title: KopalniaWiedzy.pl | Patromierz
 
 permalink: /KopalniaWiedzy
 ---

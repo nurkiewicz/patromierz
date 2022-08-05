@@ -1,5 +1,5 @@
 ---
-title: Kluby "Tygodnika Powszechnego" | Patromierz - statystyki Patronite.pl
+title: Kluby "Tygodnika Powszechnego" | Patromierz
 
 permalink: /klubtygodnika
 ---

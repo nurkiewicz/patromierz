@@ -1,6 +1,5 @@
 ---
-title: "Od s\u0142owa do S\u0142owa - br. Tomasz Mantyk | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Od s\u0142owa do S\u0142owa - br. Tomasz Mantyk | Patromierz"
 
 permalink: /mantyk
 ---

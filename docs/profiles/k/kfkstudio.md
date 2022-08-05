@@ -1,5 +1,5 @@
 ---
-title: KFK Studio | Patromierz - statystyki Patronite.pl
+title: KFK Studio | Patromierz
 
 permalink: /kfkstudio
 ---

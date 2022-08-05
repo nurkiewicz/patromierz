@@ -1,5 +1,5 @@
 ---
-title: Gildia DCS | Patromierz - statystyki Patronite.pl
+title: Gildia DCS | Patromierz
 
 permalink: /gildiadcs
 ---

@@ -1,5 +1,5 @@
 ---
-title: Stenogramy zbrodni | Patromierz - statystyki Patronite.pl
+title: Stenogramy zbrodni | Patromierz
 
 permalink: /stenogramyzbrodni
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Koty z M\u0142ocin | Patromierz - statystyki Patronite.pl"
+title: "Koty z M\u0142ocin | Patromierz"
 
 permalink: /kotyzmlocin
 ---

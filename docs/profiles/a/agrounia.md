@@ -1,5 +1,5 @@
 ---
-title: AGROunia | Patromierz - statystyki Patronite.pl
+title: AGROunia | Patromierz
 
 permalink: /agrounia
 ---

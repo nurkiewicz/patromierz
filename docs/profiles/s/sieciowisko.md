@@ -1,5 +1,5 @@
 ---
-title: Wojciech Rubin | Patromierz - statystyki Patronite.pl
+title: Wojciech Rubin | Patromierz
 
 permalink: /sieciowisko
 ---

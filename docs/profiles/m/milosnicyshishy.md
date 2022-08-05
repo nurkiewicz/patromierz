@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142o\u015Bnicy shishy | Patromierz - statystyki Patronite.pl"
+title: "Mi\u0142o\u015Bnicy shishy | Patromierz"
 
 permalink: /milosnicyshishy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kira Sukhoboichenko | Patromierz - statystyki Patronite.pl
+title: Kira Sukhoboichenko | Patromierz
 
 permalink: /flyingbag
 ---

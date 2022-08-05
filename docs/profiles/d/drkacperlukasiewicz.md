@@ -1,5 +1,5 @@
 ---
-title: "dr Kacper \u0141ukasiewicz | Patromierz - statystyki Patronite.pl"
+title: "dr Kacper \u0141ukasiewicz | Patromierz"
 
 permalink: /drkacperlukasiewicz
 ---

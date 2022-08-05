@@ -1,5 +1,5 @@
 ---
-title: "J\u0119drzej Szweda - ZagrajnikTV | Patromierz - statystyki Patronite.pl"
+title: "J\u0119drzej Szweda - ZagrajnikTV | Patromierz"
 
 permalink: /ZagrajnikTV
 ---

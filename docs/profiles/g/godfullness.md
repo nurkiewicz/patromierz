@@ -1,5 +1,5 @@
 ---
-title: Godfullness | Patromierz - statystyki Patronite.pl
+title: Godfullness | Patromierz
 
 permalink: /godfullness
 ---

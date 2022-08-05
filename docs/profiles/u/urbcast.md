@@ -1,5 +1,5 @@
 ---
-title: Urbcast - podcast o miastach | Patromierz - statystyki Patronite.pl
+title: Urbcast - podcast o miastach | Patromierz
 
 permalink: /urbcast
 ---

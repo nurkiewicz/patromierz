@@ -1,5 +1,5 @@
 ---
-title: Amstaffy Niczyje | Patromierz - statystyki Patronite.pl
+title: Amstaffy Niczyje | Patromierz
 
 permalink: /AmstaffyNiczyje
 ---

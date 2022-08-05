@@ -1,5 +1,5 @@
 ---
-title: Polnisches Theater Berlin | Patromierz - statystyki Patronite.pl
+title: Polnisches Theater Berlin | Patromierz
 
 permalink: /polnischestheaterberlin
 ---

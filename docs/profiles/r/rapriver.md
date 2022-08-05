@@ -1,5 +1,5 @@
 ---
-title: RapRiver | Patromierz - statystyki Patronite.pl
+title: RapRiver | Patromierz
 
 permalink: /rapriver
 ---

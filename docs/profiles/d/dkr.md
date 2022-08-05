@@ -1,5 +1,5 @@
 ---
-title: "Dariusz Klejnowski-R\xF3\u017Cycki | Patromierz - statystyki Patronite.pl"
+title: "Dariusz Klejnowski-R\xF3\u017Cycki | Patromierz"
 
 permalink: /dkr
 ---

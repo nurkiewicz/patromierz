@@ -1,5 +1,5 @@
 ---
-title: "Widzialna \u0141apa | Patromierz - statystyki Patronite.pl"
+title: "Widzialna \u0141apa | Patromierz"
 
 permalink: /widzialnalapa
 ---

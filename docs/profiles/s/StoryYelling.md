@@ -1,5 +1,5 @@
 ---
-title: "Maciej G\u0142owacki | Patromierz - statystyki Patronite.pl"
+title: "Maciej G\u0142owacki | Patromierz"
 
 permalink: /StoryYelling
 ---

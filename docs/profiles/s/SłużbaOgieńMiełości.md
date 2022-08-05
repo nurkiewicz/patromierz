@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Miecznikowski | Patromierz - statystyki Patronite.pl
+title: Grzegorz Miecznikowski | Patromierz
 
 permalink: /SłużbaOgieńMiełości
 ---

@@ -1,5 +1,5 @@
 ---
-title: Dominik Czernik | Patromierz - statystyki Patronite.pl
+title: Dominik Czernik | Patromierz
 
 permalink: /Wobliczuzmian
 ---

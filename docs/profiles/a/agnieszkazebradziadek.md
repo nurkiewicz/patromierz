@@ -1,5 +1,5 @@
 ---
-title: Agnieszka "Zebra" Dziadek | Patromierz - statystyki Patronite.pl
+title: Agnieszka "Zebra" Dziadek | Patromierz
 
 permalink: /agnieszkazebradziadek
 ---

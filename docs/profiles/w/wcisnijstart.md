@@ -1,5 +1,5 @@
 ---
-title: "Wci\u015Bnij Start | Patromierz - statystyki Patronite.pl"
+title: "Wci\u015Bnij Start | Patromierz"
 
 permalink: /wcisnijstart
 ---

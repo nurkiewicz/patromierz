@@ -1,5 +1,5 @@
 ---
-title: Kompania Jonatana | Patromierz - statystyki Patronite.pl
+title: Kompania Jonatana | Patromierz
 
 permalink: /kompaniajonatana
 ---

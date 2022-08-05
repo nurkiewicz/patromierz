@@ -1,5 +1,5 @@
 ---
-title: "Oko\u0144 w sieci | Patromierz - statystyki Patronite.pl"
+title: "Oko\u0144 w sieci | Patromierz"
 
 permalink: /okonwsieci
 ---

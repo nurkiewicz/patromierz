@@ -1,5 +1,5 @@
 ---
-title: Ewa eM | Patromierz - statystyki Patronite.pl
+title: Ewa eM | Patromierz
 
 permalink: /-EwaeM-
 ---

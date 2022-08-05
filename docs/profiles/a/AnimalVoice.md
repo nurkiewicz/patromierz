@@ -1,5 +1,5 @@
 ---
-title: Animal Voice Warszawa | Patromierz - statystyki Patronite.pl
+title: Animal Voice Warszawa | Patromierz
 
 permalink: /AnimalVoice
 ---

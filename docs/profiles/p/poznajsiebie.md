@@ -1,5 +1,5 @@
 ---
-title: Poznaj Siebie | Patromierz - statystyki Patronite.pl
+title: Poznaj Siebie | Patromierz
 
 permalink: /poznajsiebie
 ---

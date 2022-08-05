@@ -1,5 +1,5 @@
 ---
-title: Koziguar | Patromierz - statystyki Patronite.pl
+title: Koziguar | Patromierz
 
 permalink: /koziguar
 ---

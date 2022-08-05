@@ -1,5 +1,5 @@
 ---
-title: Fundacja Science Watch Polska | Patromierz - statystyki Patronite.pl
+title: Fundacja Science Watch Polska | Patromierz
 
 permalink: /ScienceWatchPolska
 ---

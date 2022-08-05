@@ -1,5 +1,5 @@
 ---
-title: "Jakub Kotu\u0142a | Patromierz - statystyki Patronite.pl"
+title: "Jakub Kotu\u0142a | Patromierz"
 
 permalink: /fitontrip
 ---

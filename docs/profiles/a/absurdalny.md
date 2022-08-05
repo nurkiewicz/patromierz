@@ -1,5 +1,5 @@
 ---
-title: "Cz\u0142owiek Absurdalny | Patromierz - statystyki Patronite.pl"
+title: "Cz\u0142owiek Absurdalny | Patromierz"
 
 permalink: /absurdalny
 ---

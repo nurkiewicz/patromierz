@@ -1,5 +1,5 @@
 ---
-title: Light Keeper | Patromierz - statystyki Patronite.pl
+title: Light Keeper | Patromierz
 
 permalink: /lightkeeper
 ---

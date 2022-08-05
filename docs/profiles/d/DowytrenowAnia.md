@@ -1,5 +1,5 @@
 ---
-title: DowytrenowAnia | Patromierz - statystyki Patronite.pl
+title: DowytrenowAnia | Patromierz
 
 permalink: /DowytrenowAnia
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Migawka | Patromierz - statystyki Patronite.pl
+title: Fundacja Migawka | Patromierz
 
 permalink: /fundacjamigawka
 ---

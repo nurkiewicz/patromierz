@@ -1,5 +1,5 @@
 ---
-title: Szczerze o relacjach i gotowaniu  | Patromierz - statystyki Patronite.pl
+title: Szczerze o relacjach i gotowaniu  | Patromierz
 
 permalink: /annlove
 ---

@@ -1,5 +1,5 @@
 ---
-title: Life On Wheelz | Patromierz - statystyki Patronite.pl
+title: Life On Wheelz | Patromierz
 
 permalink: /lifeonwheelz
 ---

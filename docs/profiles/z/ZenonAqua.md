@@ -1,5 +1,5 @@
 ---
-title: Zenon Aqua | Patromierz - statystyki Patronite.pl
+title: Zenon Aqua | Patromierz
 
 permalink: /ZenonAqua
 ---

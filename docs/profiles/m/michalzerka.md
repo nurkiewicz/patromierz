@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Zerka | Patromierz - statystyki Patronite.pl"
+title: "Micha\u0142 Zerka | Patromierz"
 
 permalink: /michalzerka
 ---

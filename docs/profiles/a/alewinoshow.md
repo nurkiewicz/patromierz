@@ -1,5 +1,5 @@
 ---
-title: Ale Wino Show | Patromierz - statystyki Patronite.pl
+title: Ale Wino Show | Patromierz
 
 permalink: /alewinoshow
 ---

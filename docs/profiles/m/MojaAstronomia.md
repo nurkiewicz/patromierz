@@ -1,5 +1,5 @@
 ---
-title: MojaAstronomiaPL | Patromierz - statystyki Patronite.pl
+title: MojaAstronomiaPL | Patromierz
 
 permalink: /MojaAstronomia
 ---

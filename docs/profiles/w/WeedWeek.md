@@ -1,5 +1,5 @@
 ---
-title: Weed Week | Patromierz - statystyki Patronite.pl
+title: Weed Week | Patromierz
 
 permalink: /WeedWeek
 ---

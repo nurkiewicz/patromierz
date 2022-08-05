@@ -1,5 +1,5 @@
 ---
-title: '#VolleyTime | Patromierz - statystyki Patronite.pl'
+title: '#VolleyTime | Patromierz'
 
 permalink: /VolleyTime
 ---

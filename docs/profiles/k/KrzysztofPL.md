@@ -1,5 +1,5 @@
 ---
-title: Krzysztof PL | Patromierz - statystyki Patronite.pl
+title: Krzysztof PL | Patromierz
 
 permalink: /KrzysztofPL
 ---

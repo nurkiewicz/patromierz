@@ -1,6 +1,5 @@
 ---
-title: "Wok\xF3\u0142 \u201EPonurego\u201D - Historia AK | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Wok\xF3\u0142 \u201EPonurego\u201D - Historia AK | Patromierz"
 
 permalink: /WokółPonurego
 ---

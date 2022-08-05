@@ -1,5 +1,5 @@
 ---
-title: "Fotograficznie Rzecz Bior\u0105c | Patromierz - statystyki Patronite.pl"
+title: "Fotograficznie Rzecz Bior\u0105c | Patromierz"
 
 permalink: /fotograficznierzeczbiorac
 ---

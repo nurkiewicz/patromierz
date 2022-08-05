@@ -1,5 +1,5 @@
 ---
-title: Paulina Zborowska | Patromierz - statystyki Patronite.pl
+title: Paulina Zborowska | Patromierz
 
 permalink: /paulina_zborowska
 ---

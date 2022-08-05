@@ -1,5 +1,5 @@
 ---
-title: Wojtek Mistrzuje | Patromierz - statystyki Patronite.pl
+title: Wojtek Mistrzuje | Patromierz
 
 permalink: /WojtekMistrzuje
 ---

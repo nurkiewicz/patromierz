@@ -1,5 +1,5 @@
 ---
-title: Mr Fahrenheit CubeSat | Patromierz - statystyki Patronite.pl
+title: Mr Fahrenheit CubeSat | Patromierz
 
 permalink: /mr-fahrenheit
 ---

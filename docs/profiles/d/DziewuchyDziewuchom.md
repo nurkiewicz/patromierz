@@ -1,5 +1,5 @@
 ---
-title: Fundacja Dziewuchy Dziewuchom | Patromierz - statystyki Patronite.pl
+title: Fundacja Dziewuchy Dziewuchom | Patromierz
 
 permalink: /DziewuchyDziewuchom
 ---

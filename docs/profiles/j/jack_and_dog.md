@@ -1,5 +1,5 @@
 ---
-title: Jacek i Diego | Patromierz - statystyki Patronite.pl
+title: Jacek i Diego | Patromierz
 
 permalink: /jack_and_dog
 ---

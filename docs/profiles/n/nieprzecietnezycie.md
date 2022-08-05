@@ -1,5 +1,5 @@
 ---
-title: "Nieprzeci\u0119tne \u017Bycie | Patromierz - statystyki Patronite.pl"
+title: "Nieprzeci\u0119tne \u017Bycie | Patromierz"
 
 permalink: /nieprzecietnezycie
 ---

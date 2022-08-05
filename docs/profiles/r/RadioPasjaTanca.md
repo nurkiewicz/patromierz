@@ -1,5 +1,5 @@
 ---
-title: "Radio Pasja Ta\u0144ca | Patromierz - statystyki Patronite.pl"
+title: "Radio Pasja Ta\u0144ca | Patromierz"
 
 permalink: /RadioPasjaTanca
 ---

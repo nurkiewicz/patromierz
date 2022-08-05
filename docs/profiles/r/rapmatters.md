@@ -1,5 +1,5 @@
 ---
-title: Rap MATTers | Patromierz - statystyki Patronite.pl
+title: Rap MATTers | Patromierz
 
 permalink: /rapmatters
 ---

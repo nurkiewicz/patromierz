@@ -1,5 +1,5 @@
 ---
-title: "Nauka w plecaku - Sabina Pi\u0142at | Patromierz - statystyki Patronite.pl"
+title: "Nauka w plecaku - Sabina Pi\u0142at | Patromierz"
 
 permalink: /naukawplecaku
 ---

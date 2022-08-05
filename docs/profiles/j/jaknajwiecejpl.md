@@ -1,5 +1,5 @@
 ---
-title: jaknajwiecej.pl | Patromierz - statystyki Patronite.pl
+title: jaknajwiecej.pl | Patromierz
 
 permalink: /jaknajwiecejpl
 ---

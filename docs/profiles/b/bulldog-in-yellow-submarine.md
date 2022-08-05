@@ -1,5 +1,5 @@
 ---
-title: Bulldog in Yellow Submarine | Patromierz - statystyki Patronite.pl
+title: Bulldog in Yellow Submarine | Patromierz
 
 permalink: /bulldog-in-yellow-submarine
 ---

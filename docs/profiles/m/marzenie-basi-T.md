@@ -1,5 +1,5 @@
 ---
-title: Barbara Tukendorf | Patromierz - statystyki Patronite.pl
+title: Barbara Tukendorf | Patromierz
 
 permalink: /marzenie-basi-T
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tok\u0142owicz with strings   | Patromierz - statystyki Patronite.pl"
+title: "Tok\u0142owicz with strings   | Patromierz"
 
 permalink: /toklowiczwithstrings
 ---

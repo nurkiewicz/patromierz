@@ -1,5 +1,5 @@
 ---
-title: "Karola Ku\u0142aga | Patromierz - statystyki Patronite.pl"
+title: "Karola Ku\u0142aga | Patromierz"
 
 permalink: /namaluj-mi
 ---

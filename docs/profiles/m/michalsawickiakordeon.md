@@ -1,6 +1,5 @@
 ---
-title: "Micha\u0142 Sawicki-\u015Bpiewaj\u0105cy akordeonista | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Micha\u0142 Sawicki-\u015Bpiewaj\u0105cy akordeonista | Patromierz"
 
 permalink: /michalsawickiakordeon
 ---

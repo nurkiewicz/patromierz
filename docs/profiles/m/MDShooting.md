@@ -1,5 +1,5 @@
 ---
-title: M.D. Shooting | Patromierz - statystyki Patronite.pl
+title: M.D. Shooting | Patromierz
 
 permalink: /MDShooting
 ---

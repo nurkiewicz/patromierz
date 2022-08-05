@@ -1,5 +1,5 @@
 ---
-title: "Bart\u0142omiej KRUSZYNA  Bielas | Patromierz - statystyki Patronite.pl"
+title: "Bart\u0142omiej KRUSZYNA  Bielas | Patromierz"
 
 permalink: /Kruszyna
 ---

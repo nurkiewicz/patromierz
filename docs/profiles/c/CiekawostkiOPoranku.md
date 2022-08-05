@@ -1,5 +1,5 @@
 ---
-title: Ciekawostki o Poranku | Patromierz - statystyki Patronite.pl
+title: Ciekawostki o Poranku | Patromierz
 
 permalink: /CiekawostkiOPoranku
 ---

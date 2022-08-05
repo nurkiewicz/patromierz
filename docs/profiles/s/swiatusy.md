@@ -1,5 +1,5 @@
 ---
-title: "\u015Awiatusy | Patromierz - statystyki Patronite.pl"
+title: "\u015Awiatusy | Patromierz"
 
 permalink: /swiatusy
 ---

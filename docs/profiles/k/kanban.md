@@ -1,5 +1,5 @@
 ---
-title: Kanban przy kawie | Patromierz - statystyki Patronite.pl
+title: Kanban przy kawie | Patromierz
 
 permalink: /kanban
 ---

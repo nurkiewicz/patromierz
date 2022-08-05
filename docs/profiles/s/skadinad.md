@@ -1,6 +1,5 @@
 ---
-title: "SK\u0104DIN\u0104D. Podcast Tomasza Stawiszy\u0144skiego | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "SK\u0104DIN\u0104D. Podcast Tomasza Stawiszy\u0144skiego | Patromierz"
 
 permalink: /skadinad
 ---

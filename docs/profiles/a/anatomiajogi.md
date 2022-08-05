@@ -1,5 +1,5 @@
 ---
-title: Anatomia Jogi | Patromierz - statystyki Patronite.pl
+title: Anatomia Jogi | Patromierz
 
 permalink: /anatomiajogi
 ---

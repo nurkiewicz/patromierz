@@ -1,5 +1,5 @@
 ---
-title: kapszlak.pl | Patromierz - statystyki Patronite.pl
+title: kapszlak.pl | Patromierz
 
 permalink: /kapszlak
 ---

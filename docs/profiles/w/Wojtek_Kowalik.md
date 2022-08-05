@@ -1,5 +1,5 @@
 ---
-title: Wojciech Kowalik eventing | Patromierz - statystyki Patronite.pl
+title: Wojciech Kowalik eventing | Patromierz
 
 permalink: /Wojtek_Kowalik
 ---

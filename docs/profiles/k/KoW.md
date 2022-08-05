@@ -1,5 +1,5 @@
 ---
-title: "Kana\u0142 o Wszystkim | Patromierz - statystyki Patronite.pl"
+title: "Kana\u0142 o Wszystkim | Patromierz"
 
 permalink: /KoW
 ---

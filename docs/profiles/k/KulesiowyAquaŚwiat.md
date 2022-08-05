@@ -1,5 +1,5 @@
 ---
-title: "Kulesiowy Aqua\u015Awiat | Patromierz - statystyki Patronite.pl"
+title: "Kulesiowy Aqua\u015Awiat | Patromierz"
 
 permalink: /KulesiowyAquaŚwiat
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fair Racing | Patromierz - statystyki Patronite.pl
+title: Fair Racing | Patromierz
 
 permalink: /www.fairracing.com.pl
 ---

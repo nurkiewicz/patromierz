@@ -1,5 +1,5 @@
 ---
-title: "El\u017Cbieta Jurczyk | Patromierz - statystyki Patronite.pl"
+title: "El\u017Cbieta Jurczyk | Patromierz"
 
 permalink: /elzjur
 ---

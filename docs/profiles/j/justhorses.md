@@ -1,5 +1,5 @@
 ---
-title: JustHorses | Patromierz - statystyki Patronite.pl
+title: JustHorses | Patromierz
 
 permalink: /justhorses
 ---

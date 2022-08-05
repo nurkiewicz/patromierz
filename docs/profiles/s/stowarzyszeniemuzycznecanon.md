@@ -1,6 +1,5 @@
 ---
-title: "Stowarzyszenie Muzyczne Canon w Nowym Wi\u015Bniczu | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Stowarzyszenie Muzyczne Canon w Nowym Wi\u015Bniczu | Patromierz"
 
 permalink: /stowarzyszeniemuzycznecanon
 ---

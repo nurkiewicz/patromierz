@@ -1,5 +1,5 @@
 ---
-title: "Norbert Grzegorz Ko\u015Bciesza | Patromierz - statystyki Patronite.pl"
+title: "Norbert Grzegorz Ko\u015Bciesza | Patromierz"
 
 permalink: /Autor-NorbertKosciesza
 ---

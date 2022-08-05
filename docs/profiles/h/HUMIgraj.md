@@ -1,5 +1,5 @@
 ---
-title: HUMIGRAJ | Patromierz - statystyki Patronite.pl
+title: HUMIGRAJ | Patromierz
 
 permalink: /HUMIgraj
 ---

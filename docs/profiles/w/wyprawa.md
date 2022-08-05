@@ -1,5 +1,5 @@
 ---
-title: "Wyprawa na koniec \u017Cycia | Patromierz - statystyki Patronite.pl"
+title: "Wyprawa na koniec \u017Cycia | Patromierz"
 
 permalink: /wyprawa
 ---

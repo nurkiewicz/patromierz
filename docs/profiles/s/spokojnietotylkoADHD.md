@@ -1,5 +1,5 @@
 ---
-title: Spokojnie to tylko ADHD | Patromierz - statystyki Patronite.pl
+title: Spokojnie to tylko ADHD | Patromierz
 
 permalink: /spokojnietotylkoADHD
 ---

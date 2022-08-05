@@ -1,5 +1,5 @@
 ---
-title: Psychiczne Pojednanie | Patromierz - statystyki Patronite.pl
+title: Psychiczne Pojednanie | Patromierz
 
 permalink: /qwitu
 ---

@@ -1,5 +1,5 @@
 ---
-title: ivona franek | Patromierz - statystyki Patronite.pl
+title: ivona franek | Patromierz
 
 permalink: /ivonafranek
 ---

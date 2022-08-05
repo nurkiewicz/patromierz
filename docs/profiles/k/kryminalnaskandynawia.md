@@ -1,5 +1,5 @@
 ---
-title: Kryminalna Skandynawia Podcast | Patromierz - statystyki Patronite.pl
+title: Kryminalna Skandynawia Podcast | Patromierz
 
 permalink: /kryminalnaskandynawia
 ---

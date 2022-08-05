@@ -1,5 +1,5 @@
 ---
-title: "W j\u0105dro dyskursu | Patromierz - statystyki Patronite.pl"
+title: "W j\u0105dro dyskursu | Patromierz"
 
 permalink: /wjadrodyskursu
 ---

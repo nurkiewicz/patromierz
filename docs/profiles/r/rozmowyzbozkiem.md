@@ -1,5 +1,5 @@
 ---
-title: "Rozmowy z Bo\u017Ckiem | Patromierz - statystyki Patronite.pl"
+title: "Rozmowy z Bo\u017Ckiem | Patromierz"
 
 permalink: /rozmowyzbozkiem
 ---

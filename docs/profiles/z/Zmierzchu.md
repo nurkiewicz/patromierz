@@ -1,5 +1,5 @@
 ---
-title: "Nied\u017Awiecka o Zmierzchu | Patromierz - statystyki Patronite.pl"
+title: "Nied\u017Awiecka o Zmierzchu | Patromierz"
 
 permalink: /Zmierzchu
 ---

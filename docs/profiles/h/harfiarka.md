@@ -1,5 +1,5 @@
 ---
-title: Harfiarka Barbara Karlik | Patromierz - statystyki Patronite.pl
+title: Harfiarka Barbara Karlik | Patromierz
 
 permalink: /harfiarka
 ---

@@ -1,5 +1,5 @@
 ---
-title: Double Power | Patromierz - statystyki Patronite.pl
+title: Double Power | Patromierz
 
 permalink: /doublepower
 ---

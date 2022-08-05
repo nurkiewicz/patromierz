@@ -1,5 +1,5 @@
 ---
-title: Zalewianka | Patromierz - statystyki Patronite.pl
+title: Zalewianka | Patromierz
 
 permalink: /zalewianka
 ---

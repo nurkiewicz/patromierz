@@ -1,5 +1,5 @@
 ---
-title: Olaf Popkiewicz | Patromierz - statystyki Patronite.pl
+title: Olaf Popkiewicz | Patromierz
 
 permalink: /olafp
 ---

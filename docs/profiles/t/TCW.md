@@ -1,5 +1,5 @@
 ---
-title: Tarnobrzeskie Centrum Wolontariatu | Patromierz - statystyki Patronite.pl
+title: Tarnobrzeskie Centrum Wolontariatu | Patromierz
 
 permalink: /TCW
 ---

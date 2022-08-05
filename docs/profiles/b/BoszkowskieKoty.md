@@ -1,5 +1,5 @@
 ---
-title: Boszkowskie Koty  | Patromierz - statystyki Patronite.pl
+title: Boszkowskie Koty  | Patromierz
 
 permalink: /BoszkowskieKoty
 ---

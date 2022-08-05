@@ -1,5 +1,5 @@
 ---
-title: "Strategia Marki Pe\u0142nosprawnej | Patromierz - statystyki Patronite.pl"
+title: "Strategia Marki Pe\u0142nosprawnej | Patromierz"
 
 permalink: /StrategiaMarkiPelnosprawnej
 ---

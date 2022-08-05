@@ -1,5 +1,5 @@
 ---
-title: audyt obywatelski | Patromierz - statystyki Patronite.pl
+title: audyt obywatelski | Patromierz
 
 permalink: /audytobywatelski
 ---

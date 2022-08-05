@@ -1,5 +1,5 @@
 ---
-title: Stary Znowu Gra | Patromierz - statystyki Patronite.pl
+title: Stary Znowu Gra | Patromierz
 
 permalink: /szg
 ---

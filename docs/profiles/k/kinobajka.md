@@ -1,5 +1,5 @@
 ---
-title: Kino Bajka | Patromierz - statystyki Patronite.pl
+title: Kino Bajka | Patromierz
 
 permalink: /kinobajka
 ---

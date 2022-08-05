@@ -1,5 +1,5 @@
 ---
-title: "Fundacja M\xF3j Las | Patromierz - statystyki Patronite.pl"
+title: "Fundacja M\xF3j Las | Patromierz"
 
 permalink: /fundacjamojlas
 ---

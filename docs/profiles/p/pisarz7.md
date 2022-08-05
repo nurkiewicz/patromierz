@@ -1,5 +1,5 @@
 ---
-title: Davey - Kryminalnie  | Patromierz - statystyki Patronite.pl
+title: Davey - Kryminalnie  | Patromierz
 
 permalink: /pisarz7
 ---

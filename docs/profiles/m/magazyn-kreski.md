@@ -1,5 +1,5 @@
 ---
-title: Magazyn Kreski | Patromierz - statystyki Patronite.pl
+title: Magazyn Kreski | Patromierz
 
 permalink: /magazyn-kreski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Dop\xF3ki Walczysz & Kazania... | Patromierz - statystyki Patronite.pl"
+title: "Dop\xF3ki Walczysz & Kazania... | Patromierz"
 
 permalink: /DopokiWalczysz
 ---

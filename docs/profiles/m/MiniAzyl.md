@@ -1,5 +1,5 @@
 ---
-title: "MiniAzyl u Ma\u0142gosi. Kr\xF3liki do adopcji | Patromierz - statystyki Patronite.pl"
+title: "MiniAzyl u Ma\u0142gosi. Kr\xF3liki do adopcji | Patromierz"
 
 permalink: /MiniAzyl
 ---

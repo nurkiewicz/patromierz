@@ -1,5 +1,5 @@
 ---
-title: Free Flow Energy | Patromierz - statystyki Patronite.pl
+title: Free Flow Energy | Patromierz
 
 permalink: /freeflow
 ---

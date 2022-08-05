@@ -1,5 +1,5 @@
 ---
-title: Lala  ASMR  | Patromierz - statystyki Patronite.pl
+title: Lala  ASMR  | Patromierz
 
 permalink: /Patronite-Lala-ASMR
 ---

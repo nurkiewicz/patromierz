@@ -1,5 +1,5 @@
 ---
-title: POLKA W MEKSYKU | Patromierz - statystyki Patronite.pl
+title: POLKA W MEKSYKU | Patromierz
 
 permalink: /polkawmeksyku
 ---

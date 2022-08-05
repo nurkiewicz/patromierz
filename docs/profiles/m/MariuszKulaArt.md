@@ -1,5 +1,5 @@
 ---
-title: Mariusz Kula Art | Patromierz - statystyki Patronite.pl
+title: Mariusz Kula Art | Patromierz
 
 permalink: /MariuszKulaArt
 ---

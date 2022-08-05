@@ -1,5 +1,5 @@
 ---
-title: PREPOSTEVOLUTION | Patromierz - statystyki Patronite.pl
+title: PREPOSTEVOLUTION | Patromierz
 
 permalink: /prepostevolution
 ---

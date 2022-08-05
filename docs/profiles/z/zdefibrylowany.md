@@ -1,5 +1,5 @@
 ---
-title: Zdefibrylowany | Patromierz - statystyki Patronite.pl
+title: Zdefibrylowany | Patromierz
 
 permalink: /zdefibrylowany
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Koci mi\u0119tka | Patromierz - statystyki Patronite.pl"
+title: "Koci mi\u0119tka | Patromierz"
 
 permalink: /Kocimietkakoszalin
 ---

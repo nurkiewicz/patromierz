@@ -1,5 +1,5 @@
 ---
-title: Philip Flint | Patromierz - statystyki Patronite.pl
+title: Philip Flint | Patromierz
 
 permalink: /CzłowiekPoganin
 ---

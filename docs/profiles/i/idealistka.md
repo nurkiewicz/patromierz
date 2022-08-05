@@ -1,5 +1,5 @@
 ---
-title: Idea Listka | Patromierz - statystyki Patronite.pl
+title: Idea Listka | Patromierz
 
 permalink: /idealistka
 ---

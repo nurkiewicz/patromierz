@@ -1,5 +1,5 @@
 ---
-title: Bawer Aondo-Akaa | Patromierz - statystyki Patronite.pl
+title: Bawer Aondo-Akaa | Patromierz
 
 permalink: /bawer-aondo
 ---

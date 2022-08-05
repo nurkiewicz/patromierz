@@ -1,5 +1,5 @@
 ---
-title: "Zieloni w podr\xF3\u017Cy | Patromierz - statystyki Patronite.pl"
+title: "Zieloni w podr\xF3\u017Cy | Patromierz"
 
 permalink: /zieloniwpodrozy
 ---

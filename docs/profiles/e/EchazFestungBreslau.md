@@ -1,5 +1,5 @@
 ---
-title: Echa z Festung Breslau | Patromierz - statystyki Patronite.pl
+title: Echa z Festung Breslau | Patromierz
 
 permalink: /EchazFestungBreslau
 ---

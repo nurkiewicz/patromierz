@@ -1,5 +1,5 @@
 ---
-title: CyberMMA | Patromierz - statystyki Patronite.pl
+title: CyberMMA | Patromierz
 
 permalink: /CyberMMA
 ---

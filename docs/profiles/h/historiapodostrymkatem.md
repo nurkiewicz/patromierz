@@ -1,5 +1,5 @@
 ---
-title: "Historia pod ostrym k\u0105tem | Patromierz - statystyki Patronite.pl"
+title: "Historia pod ostrym k\u0105tem | Patromierz"
 
 permalink: /historiapodostrymkatem
 ---

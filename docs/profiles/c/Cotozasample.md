@@ -1,5 +1,5 @@
 ---
-title: Co to za sample? | Patromierz - statystyki Patronite.pl
+title: Co to za sample? | Patromierz
 
 permalink: /Cotozasample
 ---

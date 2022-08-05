@@ -1,6 +1,5 @@
 ---
-title: "Spo\u0142eczne stypendium dla Pani Beatki i Pana Ma\u0107ka  | Patromierz\
-  \ - statystyki Patronite.pl"
+title: "Spo\u0142eczne stypendium dla Pani Beatki i Pana Ma\u0107ka  | Patromierz"
 
 permalink: /BeataiMaciekINSPIRO
 ---

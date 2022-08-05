@@ -1,5 +1,5 @@
 ---
-title: "Ol.ka Pie\u015B\u0144 Serca | Patromierz - statystyki Patronite.pl"
+title: "Ol.ka Pie\u015B\u0144 Serca | Patromierz"
 
 permalink: /piesnserca
 ---

@@ -1,5 +1,5 @@
 ---
-title: MEDYK RESCUE TEAM | Patromierz - statystyki Patronite.pl
+title: MEDYK RESCUE TEAM | Patromierz
 
 permalink: /MedykRescueTeam
 ---

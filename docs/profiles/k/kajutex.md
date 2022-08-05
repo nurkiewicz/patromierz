@@ -1,5 +1,5 @@
 ---
-title: Kaja Klimek - Kajutex | Patromierz - statystyki Patronite.pl
+title: Kaja Klimek - Kajutex | Patromierz
 
 permalink: /kajutex
 ---

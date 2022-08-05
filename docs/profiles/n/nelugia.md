@@ -1,5 +1,5 @@
 ---
-title: Nelugia | Patromierz - statystyki Patronite.pl
+title: Nelugia | Patromierz
 
 permalink: /nelugia
 ---

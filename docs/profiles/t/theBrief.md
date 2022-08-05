@@ -1,5 +1,5 @@
 ---
-title: "The Brief \u2013 co znosi psychika grafika | Patromierz - statystyki Patronite.pl"
+title: "The Brief \u2013 co znosi psychika grafika | Patromierz"
 
 permalink: /theBrief
 ---

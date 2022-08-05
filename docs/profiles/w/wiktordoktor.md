@@ -1,5 +1,5 @@
 ---
-title: "Wiktor Dokt\xF3r | Patromierz - statystyki Patronite.pl"
+title: "Wiktor Dokt\xF3r | Patromierz"
 
 permalink: /wiktordoktor
 ---

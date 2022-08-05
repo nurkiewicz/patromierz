@@ -1,5 +1,5 @@
 ---
-title: Przygarnij Kota | Patromierz - statystyki Patronite.pl
+title: Przygarnij Kota | Patromierz
 
 permalink: /przygarnijkota
 ---

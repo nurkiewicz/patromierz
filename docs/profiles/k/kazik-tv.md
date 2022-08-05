@@ -1,5 +1,5 @@
 ---
-title: Kazik.TV | Patromierz - statystyki Patronite.pl
+title: Kazik.TV | Patromierz
 
 permalink: /kazik-tv
 ---

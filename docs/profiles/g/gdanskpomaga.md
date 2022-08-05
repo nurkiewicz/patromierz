@@ -1,5 +1,5 @@
 ---
-title: "Gda\u0144sk Pomaga | Patromierz - statystyki Patronite.pl"
+title: "Gda\u0144sk Pomaga | Patromierz"
 
 permalink: /gdanskpomaga
 ---

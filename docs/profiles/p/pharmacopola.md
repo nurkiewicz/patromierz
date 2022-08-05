@@ -1,5 +1,5 @@
 ---
-title: Pharmacopola | Patromierz - statystyki Patronite.pl
+title: Pharmacopola | Patromierz
 
 permalink: /pharmacopola
 ---

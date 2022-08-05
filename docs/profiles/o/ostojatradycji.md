@@ -1,5 +1,5 @@
 ---
-title: Ostoja Tradycji  | Patromierz - statystyki Patronite.pl
+title: Ostoja Tradycji  | Patromierz
 
 permalink: /ostojatradycji
 ---

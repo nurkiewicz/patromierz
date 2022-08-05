@@ -1,5 +1,5 @@
 ---
-title: Pasjonaci | Patromierz - statystyki Patronite.pl
+title: Pasjonaci | Patromierz
 
 permalink: /Pasjonaci
 ---

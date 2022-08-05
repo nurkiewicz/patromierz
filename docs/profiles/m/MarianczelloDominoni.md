@@ -1,5 +1,5 @@
 ---
-title: MarianczelloDominoni | Patromierz - statystyki Patronite.pl
+title: MarianczelloDominoni | Patromierz
 
 permalink: /MarianczelloDominoni
 ---

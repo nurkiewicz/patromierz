@@ -1,6 +1,5 @@
 ---
-title: "Nieznajomi (\u0427\u0443\u0436\u0430\u043A\u0438) | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "Nieznajomi (\u0427\u0443\u0436\u0430\u043A\u0438) | Patromierz"
 
 permalink: /Nieznajomi
 ---

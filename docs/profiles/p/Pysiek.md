@@ -1,5 +1,5 @@
 ---
-title: Pysiek | Patromierz - statystyki Patronite.pl
+title: Pysiek | Patromierz
 
 permalink: /Pysiek
 ---

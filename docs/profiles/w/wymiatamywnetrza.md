@@ -1,6 +1,5 @@
 ---
-title: "WYMIATAMY WN\u0118TRZA w ARCHICAD - dla ka\u017Cdego | Patromierz - statystyki\
-  \ Patronite.pl"
+title: "WYMIATAMY WN\u0118TRZA w ARCHICAD - dla ka\u017Cdego | Patromierz"
 
 permalink: /wymiatamywnetrza
 ---

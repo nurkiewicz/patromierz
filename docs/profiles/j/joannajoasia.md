@@ -1,5 +1,5 @@
 ---
-title: "Joanna P\u0142onka - muzycznie | Patromierz - statystyki Patronite.pl"
+title: "Joanna P\u0142onka - muzycznie | Patromierz"
 
 permalink: /joannajoasia
 ---

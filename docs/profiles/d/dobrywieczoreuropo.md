@@ -1,5 +1,5 @@
 ---
-title: "Dobry wiecz\xF3r Europo! | Patromierz - statystyki Patronite.pl"
+title: "Dobry wiecz\xF3r Europo! | Patromierz"
 
 permalink: /dobrywieczoreuropo
 ---

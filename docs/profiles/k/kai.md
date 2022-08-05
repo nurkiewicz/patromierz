@@ -1,5 +1,5 @@
 ---
-title: Katolicka Agencja Informacyjna KAI | Patromierz - statystyki Patronite.pl
+title: Katolicka Agencja Informacyjna KAI | Patromierz
 
 permalink: /kai
 ---

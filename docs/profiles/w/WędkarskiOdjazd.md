@@ -1,5 +1,5 @@
 ---
-title: "W\u0119dkarski Odjazd | Patromierz - statystyki Patronite.pl"
+title: "W\u0119dkarski Odjazd | Patromierz"
 
 permalink: /WędkarskiOdjazd
 ---

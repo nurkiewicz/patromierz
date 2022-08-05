@@ -1,5 +1,5 @@
 ---
-title: Fundacja Twoje Dziedzictwo | Patromierz - statystyki Patronite.pl
+title: Fundacja Twoje Dziedzictwo | Patromierz
 
 permalink: /ftd
 ---

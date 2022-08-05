@@ -1,5 +1,5 @@
 ---
-title: "Krakofonia Ch\xF3r | Patromierz - statystyki Patronite.pl"
+title: "Krakofonia Ch\xF3r | Patromierz"
 
 permalink: /krakofonia
 ---

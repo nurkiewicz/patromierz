@@ -1,5 +1,5 @@
 ---
-title: "Bart\u0142omiej Piekarski | Patromierz - statystyki Patronite.pl"
+title: "Bart\u0142omiej Piekarski | Patromierz"
 
 permalink: /LepszyTY
 ---

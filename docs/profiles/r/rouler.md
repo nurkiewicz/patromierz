@@ -1,5 +1,5 @@
 ---
-title: Rouler | Patromierz - statystyki Patronite.pl
+title: Rouler | Patromierz
 
 permalink: /rouler
 ---

@@ -1,5 +1,5 @@
 ---
-title: Muzyka w legionowskim | Patromierz - statystyki Patronite.pl
+title: Muzyka w legionowskim | Patromierz
 
 permalink: /muzykawlegionowskim
 ---

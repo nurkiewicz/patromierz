@@ -1,5 +1,5 @@
 ---
-title: Grafiki Graff.omania | Patromierz - statystyki Patronite.pl
+title: Grafiki Graff.omania | Patromierz
 
 permalink: /graff.omania
 ---

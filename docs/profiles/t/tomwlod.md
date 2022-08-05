@@ -1,5 +1,5 @@
 ---
-title: Tom Wlod | Patromierz - statystyki Patronite.pl
+title: Tom Wlod | Patromierz
 
 permalink: /tomwlod
 ---

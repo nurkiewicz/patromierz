@@ -1,5 +1,5 @@
 ---
-title: Arkady P. Fiedler | Patromierz - statystyki Patronite.pl
+title: Arkady P. Fiedler | Patromierz
 
 permalink: /ArkadyFiedler
 ---

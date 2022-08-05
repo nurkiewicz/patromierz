@@ -1,5 +1,5 @@
 ---
-title: Health & Nature | Patromierz - statystyki Patronite.pl
+title: Health & Nature | Patromierz
 
 permalink: /healthnature
 ---

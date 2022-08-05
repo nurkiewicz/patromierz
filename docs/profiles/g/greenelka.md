@@ -1,5 +1,5 @@
 ---
-title: Greenelka by Agnieszka Moitrot | Patromierz - statystyki Patronite.pl
+title: Greenelka by Agnieszka Moitrot | Patromierz
 
 permalink: /greenelka
 ---

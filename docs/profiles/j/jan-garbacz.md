@@ -1,5 +1,5 @@
 ---
-title: Jan Garbacz | Patromierz - statystyki Patronite.pl
+title: Jan Garbacz | Patromierz
 
 permalink: /jan-garbacz
 ---

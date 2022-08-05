@@ -1,5 +1,5 @@
 ---
-title: Kotulnia AnKa | Patromierz - statystyki Patronite.pl
+title: Kotulnia AnKa | Patromierz
 
 permalink: /KotulniaAnKa
 ---

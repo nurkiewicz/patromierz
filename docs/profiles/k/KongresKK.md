@@ -1,5 +1,5 @@
 ---
-title: "Kongres Katoliczek i Katolik\xF3w | Patromierz - statystyki Patronite.pl"
+title: "Kongres Katoliczek i Katolik\xF3w | Patromierz"
 
 permalink: /KongresKK
 ---

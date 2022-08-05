@@ -1,5 +1,5 @@
 ---
-title: "S\u0142owo i Moc | Patromierz - statystyki Patronite.pl"
+title: "S\u0142owo i Moc | Patromierz"
 
 permalink: /slowoimoc
 ---

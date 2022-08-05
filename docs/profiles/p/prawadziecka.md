@@ -1,5 +1,5 @@
 ---
-title: Prawa dziecka / Fundacja Go'n'Act | Patromierz - statystyki Patronite.pl
+title: Prawa dziecka / Fundacja Go'n'Act | Patromierz
 
 permalink: /prawadziecka
 ---

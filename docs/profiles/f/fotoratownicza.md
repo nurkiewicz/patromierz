@@ -1,5 +1,5 @@
 ---
-title: Fotografia Ratownicza Konrad Sikorski | Patromierz - statystyki Patronite.pl
+title: Fotografia Ratownicza Konrad Sikorski | Patromierz
 
 permalink: /fotoratownicza
 ---

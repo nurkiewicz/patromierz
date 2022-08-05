@@ -1,5 +1,5 @@
 ---
-title: Gupia Nauka | Patromierz - statystyki Patronite.pl
+title: Gupia Nauka | Patromierz
 
 permalink: /gupia_nauka
 ---

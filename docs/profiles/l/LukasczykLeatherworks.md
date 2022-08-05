@@ -1,5 +1,5 @@
 ---
-title: "Lukasczyk Wyroby Sk\xF3rzane | Patromierz - statystyki Patronite.pl"
+title: "Lukasczyk Wyroby Sk\xF3rzane | Patromierz"
 
 permalink: /LukasczykLeatherworks
 ---

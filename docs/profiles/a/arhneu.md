@@ -1,5 +1,5 @@
 ---
-title: arhn.eu | Patromierz - statystyki Patronite.pl
+title: arhn.eu | Patromierz
 
 permalink: /arhneu
 ---

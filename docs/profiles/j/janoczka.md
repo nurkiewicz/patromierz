@@ -1,5 +1,5 @@
 ---
-title: an_mari_now | Patromierz - statystyki Patronite.pl
+title: an_mari_now | Patromierz
 
 permalink: /janoczka
 ---

@@ -1,5 +1,5 @@
 ---
-title: "T\u0119cza Po Burzy | Patromierz - statystyki Patronite.pl"
+title: "T\u0119cza Po Burzy | Patromierz"
 
 permalink: /teczapoburzy
 ---

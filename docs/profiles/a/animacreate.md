@@ -1,5 +1,5 @@
 ---
-title: Anima create | Patromierz - statystyki Patronite.pl
+title: Anima create | Patromierz
 
 permalink: /animacreate
 ---

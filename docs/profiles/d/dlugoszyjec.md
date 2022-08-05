@@ -1,5 +1,5 @@
 ---
-title: "D\u0142ugoszyjec | Patromierz - statystyki Patronite.pl"
+title: "D\u0142ugoszyjec | Patromierz"
 
 permalink: /dlugoszyjec
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Emic | Patromierz - statystyki Patronite.pl
+title: Fundacja Emic | Patromierz
 
 permalink: /emic
 ---

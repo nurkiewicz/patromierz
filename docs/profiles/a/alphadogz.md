@@ -1,5 +1,5 @@
 ---
-title: Alpha Dogz Monika Rakowska | Patromierz - statystyki Patronite.pl
+title: Alpha Dogz Monika Rakowska | Patromierz
 
 permalink: /alphadogz
 ---

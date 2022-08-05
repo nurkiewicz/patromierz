@@ -1,5 +1,5 @@
 ---
-title: "Polska P\xF3\u0142ka Filmowa | Patromierz - statystyki Patronite.pl"
+title: "Polska P\xF3\u0142ka Filmowa | Patromierz"
 
 permalink: /PolskaPółkaFilmowa
 ---

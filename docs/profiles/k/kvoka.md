@@ -1,5 +1,5 @@
 ---
-title: Kvoka | Patromierz - statystyki Patronite.pl
+title: Kvoka | Patromierz
 
 permalink: /kvoka
 ---

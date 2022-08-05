@@ -1,5 +1,5 @@
 ---
-title: "Piknik na skraju g\u0142upoty | Patromierz - statystyki Patronite.pl"
+title: "Piknik na skraju g\u0142upoty | Patromierz"
 
 permalink: /Piknik-na-skraju-głupoty
 ---

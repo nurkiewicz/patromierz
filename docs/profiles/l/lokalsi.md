@@ -1,5 +1,5 @@
 ---
-title: Lokalsi.net | Patromierz - statystyki Patronite.pl
+title: Lokalsi.net | Patromierz
 
 permalink: /lokalsi
 ---

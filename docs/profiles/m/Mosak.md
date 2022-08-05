@@ -1,5 +1,5 @@
 ---
-title: Marcin Mossakowski | Patromierz - statystyki Patronite.pl
+title: Marcin Mossakowski | Patromierz
 
 permalink: /Mosak
 ---

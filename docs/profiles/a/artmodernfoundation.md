@@ -1,5 +1,5 @@
 ---
-title: Fundacja Art & Modern | Patromierz - statystyki Patronite.pl
+title: Fundacja Art & Modern | Patromierz
 
 permalink: /artmodernfoundation
 ---

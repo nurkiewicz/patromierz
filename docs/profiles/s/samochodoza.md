@@ -1,5 +1,5 @@
 ---
-title: samochodoza | Patromierz - statystyki Patronite.pl
+title: samochodoza | Patromierz
 
 permalink: /samochodoza
 ---

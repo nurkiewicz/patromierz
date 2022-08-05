@@ -1,5 +1,5 @@
 ---
-title: radiospacja | Patromierz - statystyki Patronite.pl
+title: radiospacja | Patromierz
 
 permalink: /radiospacja
 ---

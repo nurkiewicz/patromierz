@@ -1,5 +1,5 @@
 ---
-title: URBEXprojekt  | Patromierz - statystyki Patronite.pl
+title: URBEXprojekt  | Patromierz
 
 permalink: /URBEXprojekt36
 ---

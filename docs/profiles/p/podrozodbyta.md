@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017C Odbyta | Patromierz - statystyki Patronite.pl"
+title: "Podr\xF3\u017C Odbyta | Patromierz"
 
 permalink: /podrozodbyta
 ---

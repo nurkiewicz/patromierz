@@ -1,5 +1,5 @@
 ---
-title: "Ma\u0142a Czarna i Pyskata | Patromierz - statystyki Patronite.pl"
+title: "Ma\u0142a Czarna i Pyskata | Patromierz"
 
 permalink: /Malaczarnaipyskata
 ---

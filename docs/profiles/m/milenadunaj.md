@@ -1,5 +1,5 @@
 ---
-title: Milena Dunaj | Patromierz - statystyki Patronite.pl
+title: Milena Dunaj | Patromierz
 
 permalink: /milenadunaj
 ---

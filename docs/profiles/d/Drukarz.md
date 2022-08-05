@@ -1,5 +1,5 @@
 ---
-title: Drukarz | Patromierz - statystyki Patronite.pl
+title: Drukarz | Patromierz
 
 permalink: /Drukarz
 ---

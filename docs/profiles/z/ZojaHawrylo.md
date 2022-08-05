@@ -1,5 +1,5 @@
 ---
-title: "Zoja Hawry\u0142o | Patromierz - statystyki Patronite.pl"
+title: "Zoja Hawry\u0142o | Patromierz"
 
 permalink: /ZojaHawrylo
 ---

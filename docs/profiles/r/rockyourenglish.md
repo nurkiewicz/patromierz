@@ -1,5 +1,5 @@
 ---
-title: Rock Your English | Patromierz - statystyki Patronite.pl
+title: Rock Your English | Patromierz
 
 permalink: /rockyourenglish
 ---

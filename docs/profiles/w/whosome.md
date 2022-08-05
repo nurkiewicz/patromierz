@@ -1,5 +1,5 @@
 ---
-title: Whosome.pl | Patromierz - statystyki Patronite.pl
+title: Whosome.pl | Patromierz
 
 permalink: /whosome
 ---

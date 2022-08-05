@@ -1,5 +1,5 @@
 ---
-title: SzymonOFF | Patromierz - statystyki Patronite.pl
+title: SzymonOFF | Patromierz
 
 permalink: /SzymonOFF
 ---

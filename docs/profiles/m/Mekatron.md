@@ -1,5 +1,5 @@
 ---
-title: Mekatron | Patromierz - statystyki Patronite.pl
+title: Mekatron | Patromierz
 
 permalink: /Mekatron
 ---

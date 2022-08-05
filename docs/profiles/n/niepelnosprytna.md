@@ -1,5 +1,5 @@
 ---
-title: "Malwina \u0141api\u0144ska | Patromierz - statystyki Patronite.pl"
+title: "Malwina \u0141api\u0144ska | Patromierz"
 
 permalink: /niepelnosprytna
 ---

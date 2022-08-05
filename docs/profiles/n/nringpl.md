@@ -1,5 +1,5 @@
 ---
-title: "Nring.pl | \u0141ukasz Formella | Patromierz - statystyki Patronite.pl"
+title: "Nring.pl | \u0141ukasz Formella | Patromierz"
 
 permalink: /nringpl
 ---

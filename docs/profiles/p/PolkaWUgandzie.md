@@ -1,5 +1,5 @@
 ---
-title: Polka w Ugandzie | Patromierz - statystyki Patronite.pl
+title: Polka w Ugandzie | Patromierz
 
 permalink: /PolkaWUgandzie
 ---

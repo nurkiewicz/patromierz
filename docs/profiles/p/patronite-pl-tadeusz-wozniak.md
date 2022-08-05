@@ -1,5 +1,5 @@
 ---
-title: "Tadeusz Wo\u017Aniak | Patromierz - statystyki Patronite.pl"
+title: "Tadeusz Wo\u017Aniak | Patromierz"
 
 permalink: /patronite-pl-tadeusz-wozniak
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Konrad Bu\u0142ka | Patromierz - statystyki Patronite.pl"
+title: "Konrad Bu\u0142ka | Patromierz"
 
 permalink: /Buleczka
 ---

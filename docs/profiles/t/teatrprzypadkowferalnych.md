@@ -1,5 +1,5 @@
 ---
-title: "Teatr Przypadk\xF3w Feralnych | Patromierz - statystyki Patronite.pl"
+title: "Teatr Przypadk\xF3w Feralnych | Patromierz"
 
 permalink: /teatrprzypadkowferalnych
 ---

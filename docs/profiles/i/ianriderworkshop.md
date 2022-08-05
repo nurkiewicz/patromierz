@@ -1,5 +1,5 @@
 ---
-title: Ian Rider Workshop | Patromierz - statystyki Patronite.pl
+title: Ian Rider Workshop | Patromierz
 
 permalink: /ianriderworkshop
 ---

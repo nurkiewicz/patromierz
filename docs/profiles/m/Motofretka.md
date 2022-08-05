@@ -1,5 +1,5 @@
 ---
-title: "Kamila Pa\u0142ka | Patromierz - statystyki Patronite.pl"
+title: "Kamila Pa\u0142ka | Patromierz"
 
 permalink: /Motofretka
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Wyobra\u017Acie Sobie | Patromierz - statystyki Patronite.pl"
+title: "Wyobra\u017Acie Sobie | Patromierz"
 
 permalink: /wyobrazcie-sobie
 ---

@@ -1,5 +1,5 @@
 ---
-title: Urbex History | Patromierz - statystyki Patronite.pl
+title: Urbex History | Patromierz
 
 permalink: /urbexhistory
 ---

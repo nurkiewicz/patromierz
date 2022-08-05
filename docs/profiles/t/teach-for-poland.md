@@ -1,5 +1,5 @@
 ---
-title: Teach for Poland | Patromierz - statystyki Patronite.pl
+title: Teach for Poland | Patromierz
 
 permalink: /teach-for-poland
 ---

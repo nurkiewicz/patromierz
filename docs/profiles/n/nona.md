@@ -1,5 +1,5 @@
 ---
-title: Nona | Patromierz - statystyki Patronite.pl
+title: Nona | Patromierz
 
 permalink: /nona
 ---

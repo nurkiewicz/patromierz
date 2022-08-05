@@ -1,5 +1,5 @@
 ---
-title: Blimsien | Patromierz - statystyki Patronite.pl
+title: Blimsien | Patromierz
 
 permalink: /blimsien
 ---

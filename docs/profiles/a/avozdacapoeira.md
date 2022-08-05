@@ -1,5 +1,5 @@
 ---
-title: A Voz Da Capoeira | Patromierz - statystyki Patronite.pl
+title: A Voz Da Capoeira | Patromierz
 
 permalink: /avozdacapoeira
 ---

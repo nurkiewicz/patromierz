@@ -1,5 +1,5 @@
 ---
-title: Wally_Ratmed | Patromierz - statystyki Patronite.pl
+title: Wally_Ratmed | Patromierz
 
 permalink: /wally
 ---

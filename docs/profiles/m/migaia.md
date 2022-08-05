@@ -1,5 +1,5 @@
 ---
-title: MIGAIA | Patromierz - statystyki Patronite.pl
+title: MIGAIA | Patromierz
 
 permalink: /migaia
 ---

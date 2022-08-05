@@ -1,5 +1,5 @@
 ---
-title: foto by Karas | Patromierz - statystyki Patronite.pl
+title: foto by Karas | Patromierz
 
 permalink: /fotobykaras
 ---

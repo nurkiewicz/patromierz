@@ -1,5 +1,5 @@
 ---
-title: "II Wojna \u015Awiatowa w Kolorze | Patromierz - statystyki Patronite.pl"
+title: "II Wojna \u015Awiatowa w Kolorze | Patromierz"
 
 permalink: /WojnawKolorze
 ---

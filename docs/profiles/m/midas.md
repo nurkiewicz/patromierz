@@ -1,5 +1,5 @@
 ---
-title: Daniel Midas | Patromierz - statystyki Patronite.pl
+title: Daniel Midas | Patromierz
 
 permalink: /midas
 ---

@@ -1,5 +1,5 @@
 ---
-title: Vincent Van | Patromierz - statystyki Patronite.pl
+title: Vincent Van | Patromierz
 
 permalink: /vincentvan
 ---

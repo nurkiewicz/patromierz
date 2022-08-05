@@ -1,5 +1,5 @@
 ---
-title: Gabriel Maciejewski | Patromierz - statystyki Patronite.pl
+title: Gabriel Maciejewski | Patromierz
 
 permalink: /Coryllus
 ---

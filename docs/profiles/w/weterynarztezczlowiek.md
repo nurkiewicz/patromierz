@@ -1,5 +1,5 @@
 ---
-title: weterynarz.tez.czlowiek - M.Firlej-Oliwa | Patromierz - statystyki Patronite.pl
+title: weterynarz.tez.czlowiek - M.Firlej-Oliwa | Patromierz
 
 permalink: /weterynarztezczlowiek
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kamil Janicki | Patromierz - statystyki Patronite.pl
+title: Kamil Janicki | Patromierz
 
 permalink: /KryptoAnalizy
 ---

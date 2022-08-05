@@ -1,5 +1,5 @@
 ---
-title: Nie wszystko jedno | Patromierz - statystyki Patronite.pl
+title: Nie wszystko jedno | Patromierz
 
 permalink: /niewszystkojedno
 ---

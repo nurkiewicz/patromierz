@@ -1,5 +1,5 @@
 ---
-title: Projekt Pracownie | Patromierz - statystyki Patronite.pl
+title: Projekt Pracownie | Patromierz
 
 permalink: /ProjektPracownie
 ---

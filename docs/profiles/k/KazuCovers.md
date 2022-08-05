@@ -1,5 +1,5 @@
 ---
-title: Kazu | Patromierz - statystyki Patronite.pl
+title: Kazu | Patromierz
 
 permalink: /KazuCovers
 ---

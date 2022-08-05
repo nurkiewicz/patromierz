@@ -1,5 +1,5 @@
 ---
-title: Planszownia Grodzisk | Patromierz - statystyki Patronite.pl
+title: Planszownia Grodzisk | Patromierz
 
 permalink: /PlanszowniaGrodzisk
 ---

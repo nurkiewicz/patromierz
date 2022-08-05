@@ -1,5 +1,5 @@
 ---
-title: Jakub Zgierski | Patromierz - statystyki Patronite.pl
+title: Jakub Zgierski | Patromierz
 
 permalink: /jakubzgierski
 ---

@@ -1,5 +1,5 @@
 ---
-title: JacentyWie | Patromierz - statystyki Patronite.pl
+title: JacentyWie | Patromierz
 
 permalink: /JacentyWie
 ---

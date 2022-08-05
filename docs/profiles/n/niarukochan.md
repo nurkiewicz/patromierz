@@ -1,5 +1,5 @@
 ---
-title: Niaruko_chan | Patromierz - statystyki Patronite.pl
+title: Niaruko_chan | Patromierz
 
 permalink: /niarukochan
 ---

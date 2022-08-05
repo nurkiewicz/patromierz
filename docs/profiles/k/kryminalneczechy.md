@@ -1,5 +1,5 @@
 ---
-title: "Kryminalne Czechy i S\u0142owacja | Patromierz - statystyki Patronite.pl"
+title: "Kryminalne Czechy i S\u0142owacja | Patromierz"
 
 permalink: /kryminalneczechy
 ---

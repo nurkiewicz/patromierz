@@ -1,5 +1,5 @@
 ---
-title: OldCamera.pl | Patromierz - statystyki Patronite.pl
+title: OldCamera.pl | Patromierz
 
 permalink: /oldcamera
 ---

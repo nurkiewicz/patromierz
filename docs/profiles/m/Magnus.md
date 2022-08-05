@@ -1,5 +1,5 @@
 ---
-title: Magnus | Patromierz - statystyki Patronite.pl
+title: Magnus | Patromierz
 
 permalink: /Magnus
 ---

@@ -1,5 +1,5 @@
 ---
-title: MatejMatejGshock | Patromierz - statystyki Patronite.pl
+title: MatejMatejGshock | Patromierz
 
 permalink: /MatejMatejGshock
 ---

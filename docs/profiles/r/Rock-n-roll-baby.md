@@ -1,5 +1,5 @@
 ---
-title: Rock n roll Baby | Patromierz - statystyki Patronite.pl
+title: Rock n roll Baby | Patromierz
 
 permalink: /Rock-n-roll-baby
 ---

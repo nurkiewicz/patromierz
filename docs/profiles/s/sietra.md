@@ -1,5 +1,5 @@
 ---
-title: Sietra | Patromierz - statystyki Patronite.pl
+title: Sietra | Patromierz
 
 permalink: /sietra
 ---

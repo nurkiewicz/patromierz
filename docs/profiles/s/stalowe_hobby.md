@@ -1,5 +1,5 @@
 ---
-title: Stalowe hobby | Patromierz - statystyki Patronite.pl
+title: Stalowe hobby | Patromierz
 
 permalink: /stalowe_hobby
 ---

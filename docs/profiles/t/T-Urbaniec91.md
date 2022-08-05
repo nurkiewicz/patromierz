@@ -1,5 +1,5 @@
 ---
-title: Tomasz Urbaniec WCHZ | Patromierz - statystyki Patronite.pl
+title: Tomasz Urbaniec WCHZ | Patromierz
 
 permalink: /T-Urbaniec91
 ---

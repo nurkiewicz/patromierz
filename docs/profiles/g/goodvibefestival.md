@@ -1,5 +1,5 @@
 ---
-title: Good Vibe Festival | Patromierz - statystyki Patronite.pl
+title: Good Vibe Festival | Patromierz
 
 permalink: /goodvibefestival
 ---

@@ -1,5 +1,5 @@
 ---
-title: Vlog na Skale / Sacerdos.pl | Patromierz - statystyki Patronite.pl
+title: Vlog na Skale / Sacerdos.pl | Patromierz
 
 permalink: /vlognaskale
 ---

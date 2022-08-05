@@ -1,5 +1,5 @@
 ---
-title: Dem | Patromierz - statystyki Patronite.pl
+title: Dem | Patromierz
 
 permalink: /dem
 ---

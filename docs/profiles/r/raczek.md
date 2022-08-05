@@ -1,5 +1,5 @@
 ---
-title: Tomasz Raczek | Patromierz - statystyki Patronite.pl
+title: Tomasz Raczek | Patromierz
 
 permalink: /raczek
 ---

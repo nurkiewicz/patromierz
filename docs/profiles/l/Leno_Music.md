@@ -1,5 +1,5 @@
 ---
-title: Leno Music | Patromierz - statystyki Patronite.pl
+title: Leno Music | Patromierz
 
 permalink: /Leno_Music
 ---

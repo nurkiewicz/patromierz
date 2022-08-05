@@ -1,5 +1,5 @@
 ---
-title: Projekt Sheptuch | Patromierz - statystyki Patronite.pl
+title: Projekt Sheptuch | Patromierz
 
 permalink: /ProjektSheptuch
 ---

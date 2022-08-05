@@ -1,5 +1,5 @@
 ---
-title: sztuka na wynos | Patromierz - statystyki Patronite.pl
+title: sztuka na wynos | Patromierz
 
 permalink: /sztukanawynos
 ---

@@ -1,5 +1,5 @@
 ---
-title: PRACOWNIA OKO | Patromierz - statystyki Patronite.pl
+title: PRACOWNIA OKO | Patromierz
 
 permalink: /pracowniaoko
 ---

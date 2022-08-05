@@ -1,5 +1,5 @@
 ---
-title: "Stanis\u0142aw Neblik | Patromierz - statystyki Patronite.pl"
+title: "Stanis\u0142aw Neblik | Patromierz"
 
 permalink: /Fojerman
 ---

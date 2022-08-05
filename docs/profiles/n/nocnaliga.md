@@ -1,5 +1,5 @@
 ---
-title: Nocna Liga Halowa | Patromierz - statystyki Patronite.pl
+title: Nocna Liga Halowa | Patromierz
 
 permalink: /nocnaliga
 ---

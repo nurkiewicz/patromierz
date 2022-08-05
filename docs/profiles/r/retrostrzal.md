@@ -1,5 +1,5 @@
 ---
-title: "RETROSTRZA\u0141 | Patromierz - statystyki Patronite.pl"
+title: "RETROSTRZA\u0141 | Patromierz"
 
 permalink: /retrostrzal
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja TechPomaga | Patromierz - statystyki Patronite.pl
+title: Fundacja TechPomaga | Patromierz
 
 permalink: /TechPomaga
 ---

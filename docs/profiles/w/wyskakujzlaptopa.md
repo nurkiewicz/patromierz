@@ -1,5 +1,5 @@
 ---
-title: Wyskakuj z laptopa | Patromierz - statystyki Patronite.pl
+title: Wyskakuj z laptopa | Patromierz
 
 permalink: /wyskakujzlaptopa
 ---

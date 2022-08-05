@@ -1,5 +1,5 @@
 ---
-title: Babadu TV - Piosenki dla dzieci | Patromierz - statystyki Patronite.pl
+title: Babadu TV - Piosenki dla dzieci | Patromierz
 
 permalink: /BabaduTV
 ---
