@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["soundsitive-kids-bajki"] = [
 	[1659589871,50,1,50.0,50,null],
 	[1659675851,60,2,30.0,60,null],
+	[1659762691,60,2,30.0,60,null],
 ];

@@ -1,5 +1,5 @@
 ---
-title: Prosta Ekonomia | Patromierz - statystyki Patronite.pl
+title: Prosta Ekonomia | Patromierz
 
 permalink: /prostaekonomia
 ---
