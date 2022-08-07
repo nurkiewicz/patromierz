@@ -1,5 +1,5 @@
 ---
-title: Katarzyna  Sambierska  | Patromierz - statystyki Patronite.pl
+title: Katarzyna  Sambierska  | Patromierz
 
 permalink: /hiznits
 ---
