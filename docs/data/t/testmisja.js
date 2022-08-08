@@ -69,4 +69,5 @@ profiles["testmisja"] = [
 	[1649053584,null,null,null,450,null],
 	[1649071771,null,null,null,450,null],
 	[1659849666,50,1,50.0,500,null],
+	[1659936353,50,1,50.0,500,null],
 ];
