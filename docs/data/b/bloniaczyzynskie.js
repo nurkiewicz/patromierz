@@ -191,4 +191,5 @@ profiles["bloniaczyzynskie"] = [
 	[1659754122,30,1,30.0,730,null],
 	[1659840536,30,1,30.0,730,null],
 	[1659926968,30,null,null,730,null],
+	[1660013324,30,null,null,730,null],
 ];
