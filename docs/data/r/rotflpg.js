@@ -192,4 +192,6 @@ profiles["rotflpg"] = [
 	[1659848456,20,null,null,7845,null],
 	[1659935098,20,null,null,7845,null],
 	[1660021329,20,null,null,7845,null],
+	[1660107680,20,null,null,7845,null],
+	[1660194354,20,1,20.0,7865,null],
 ];
