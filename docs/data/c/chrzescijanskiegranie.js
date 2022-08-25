@@ -1,0 +1,8 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["chrzescijanskiegranie"] = [
+	[1660964195,55,2,27.5,55,null],
+	[1661223387,155,4,38.75,205,null],
+	[1661309777,155,4,38.75,205,null],
+	[1661396232,155,4,38.75,205,null],
+	[1661432888,155,4,38.75,205,null],
+];

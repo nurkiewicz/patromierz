@@ -1,9 +1,9 @@
 ---
-title: Justyna Kuligowska | Patromierz
+title: Justyna Kuligowska- justembroidery | Patromierz
 
 permalink: /Justembroidery
 ---
 
-# [Justyna Kuligowska](https://patronite.pl/Justembroidery)
+# [Justyna Kuligowska- justembroidery](https://patronite.pl/Justembroidery)
 
 {% include profile.md name="Justembroidery" prefix="j" %}

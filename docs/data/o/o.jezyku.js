@@ -1,0 +1,7 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["o.jezyku"] = [
+	[1661228539,95,8,11.87,671,null],
+	[1661315044,95,8,11.87,671,null],
+	[1661401461,95,8,11.87,671,null],
+	[1661433730,95,8,11.87,671,null],
+];
