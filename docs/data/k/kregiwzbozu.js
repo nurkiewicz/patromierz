@@ -153,4 +153,5 @@ profiles["kregiwzbozu"] = [
 	[1661312956,18,null,null,90,null],
 	[1661399375,18,null,null,90,null],
 	[1661433395,18,null,null,90,null],
+	[1661505006,46,1,46.0,118,1.0],
 ];
