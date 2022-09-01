@@ -1,9 +1,9 @@
 ---
-title: Tomek Kaczmarek | Patromierz
+title: Tomasz Kaczmarek | Patromierz
 
 permalink: /TomaszKaczmarek
 ---
 
-# [Tomek Kaczmarek](https://patronite.pl/TomaszKaczmarek)
+# [Tomasz Kaczmarek](https://patronite.pl/TomaszKaczmarek)
 
 {% include profile.md name="TomaszKaczmarek" prefix="t" %}
