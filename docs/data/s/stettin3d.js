@@ -214,4 +214,6 @@ profiles["stettin3d"] = [
 	[1661836550,null,1,null,160,-1.0],
 	[1661923578,null,1,null,160,-1.0],
 	[1662009504,null,1,null,160,null],
+	[1662096688,null,1,null,160,null],
+	[1662182823,null,1,null,160,null],
 ];
