@@ -217,4 +217,5 @@ profiles["BarcaFansPL"] = [
 	[1661994200,5,1,5.0,60,null],
 	[1662080772,null,1,null,60,null],
 	[1662167082,null,1,null,60,null],
+	[1662253425,null,1,null,60,null],
 ];
