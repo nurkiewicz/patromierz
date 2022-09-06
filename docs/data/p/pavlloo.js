@@ -192,4 +192,5 @@ profiles["pavlloo"] = [
 	[1662180173,25,null,null,2390,null],
 	[1662266508,25,null,null,2390,null],
 	[1662352903,25,null,null,2390,null],
+	[1662439024,25,1,25.0,2415,null],
 ];
