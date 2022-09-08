@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["mimowszystko"] = [
 	[1662437720,50,1,50.0,50,null],
 	[1662524379,50,1,50.0,50,null],
+	[1662610670,50,1,50.0,50,null],
 ];
