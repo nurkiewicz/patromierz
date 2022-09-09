@@ -221,4 +221,5 @@ profiles["znaki-riese"] = [
 	[1662443562,40,1,40.0,3205,null],
 	[1662530351,40,null,null,3205,null],
 	[1662616607,40,null,null,3205,null],
+	[1662703413,40,null,null,3205,null],
 ];

@@ -69,4 +69,5 @@ profiles["rauhut"] = [
 	[1649052114,null,null,null,15,null],
 	[1649071392,null,null,null,15,null],
 	[1662613819,20,1,20.0,35,null],
+	[1662700558,20,1,20.0,35,null],
 ];
