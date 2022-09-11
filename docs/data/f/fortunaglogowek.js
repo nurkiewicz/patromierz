@@ -223,4 +223,5 @@ profiles["fortunaglogowek"] = [
 	[1662607340,5,null,null,350,null],
 	[1662693925,5,null,null,350,null],
 	[1662780464,5,null,null,350,null],
+	[1662866420,5,null,null,350,null],
 ];

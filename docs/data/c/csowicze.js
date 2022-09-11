@@ -187,4 +187,5 @@ profiles["csowicze"] = [
 	[1662606271,10,null,null,440,null],
 	[1662692844,10,null,null,440,null],
 	[1662779372,10,null,null,440,null],
+	[1662865367,10,1,10.0,450,null],
 ];
