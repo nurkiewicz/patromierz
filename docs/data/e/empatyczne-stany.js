@@ -224,4 +224,5 @@ profiles["empatyczne-stany"] = [
 	[1662693614,5,1,5.0,300,null],
 	[1662780151,5,1,5.0,300,null],
 	[1662866117,null,1,null,300,null],
+	[1662952970,null,1,null,300,null],
 ];
