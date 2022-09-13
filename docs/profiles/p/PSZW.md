@@ -1,9 +1,9 @@
 ---
-title: Polskie Stowarzyszenie Zero Waste   | Patromierz
+title: "Mniej Znaczy Wi\u0119cej! | Patromierz"
 
 permalink: /PSZW
 ---
 
-# [Polskie Stowarzyszenie Zero Waste  ](https://patronite.pl/PSZW)
+# [Mniej Znaczy Więcej!](https://patronite.pl/PSZW)
 
 {% include profile.md name="PSZW" prefix="p" %}
