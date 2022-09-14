@@ -198,4 +198,5 @@ profiles["wspolnymianownik"] = [
 	[1662875332,25,null,null,285,null],
 	[1662962375,25,null,null,285,null],
 	[1663048649,25,null,null,285,null],
+	[1663134818,25,1,25.0,310,null],
 ];
