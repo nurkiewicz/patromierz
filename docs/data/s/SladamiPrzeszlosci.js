@@ -69,4 +69,5 @@ profiles["SladamiPrzeszlosci"] = [
 	[1649041845,null,null,null,440,null],
 	[1649068615,null,null,null,440,null],
 	[1663122076,10,1,10.0,450,null],
+	[1663208354,10,1,10.0,450,null],
 ];

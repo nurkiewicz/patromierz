@@ -148,4 +148,5 @@ profiles["Lukaszek"] = [
 	[1662947282,25,null,null,1090,null],
 	[1663033628,25,null,null,1090,null],
 	[1663120008,25,null,null,1090,null],
+	[1663206316,25,1,25.0,1115,null],
 ];
