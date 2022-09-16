@@ -152,4 +152,5 @@ profiles["klasowyksiegowy.pl"] = [
 	[1663041437,10,1,10.0,50,null],
 	[1663127706,10,null,null,50,null],
 	[1663213946,10,null,null,50,null],
+	[1663300490,10,null,null,50,null],
 ];

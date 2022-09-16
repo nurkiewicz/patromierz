@@ -1,9 +1,9 @@
 ---
-title: UBoga. Podcast z Ducha strony | Patromierz
+title: UBoga Podcast | Patromierz
 
 permalink: /ubogapodcast
 ---
 
-# [UBoga. Podcast z Ducha strony](https://patronite.pl/ubogapodcast)
+# [UBoga Podcast](https://patronite.pl/ubogapodcast)
 
 {% include profile.md name="ubogapodcast" prefix="u" %}
