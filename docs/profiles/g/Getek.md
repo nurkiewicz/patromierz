@@ -1,9 +1,9 @@
 ---
-title: Marcin Getek - nagrania z Fizyki na YT | Patromierz
+title: Fizyk Marcin - nagrania z Fizyki na YouTube | Patromierz
 
 permalink: /Getek
 ---
 
-# [Marcin Getek - nagrania z Fizyki na YT](https://patronite.pl/Getek)
+# [Fizyk Marcin - nagrania z Fizyki na YouTube](https://patronite.pl/Getek)
 
 {% include profile.md name="Getek" prefix="g" %}
