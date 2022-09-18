@@ -1,9 +1,9 @@
 ---
-title: 'Reorient: kultura i nauka | Patromierz'
+title: Reorient.pl | Patromierz
 
 permalink: /Reorient
 ---
 
-# [Reorient: kultura i nauka](https://patronite.pl/Reorient)
+# [Reorient.pl](https://patronite.pl/Reorient)
 
 {% include profile.md name="Reorient" prefix="r" %}

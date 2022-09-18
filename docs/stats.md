@@ -19,39 +19,41 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/piotrbednarek.js"></script>
-<script type="text/javascript" src="data/m/michalmarszal.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/a/artis-symphony-orchestra.js"></script>
-<script type="text/javascript" src="data/a/alegoria.js"></script>
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/u/urbexhistory.js"></script>
-<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/t/tzt.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/k/KryptoAnalizy.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/n/neybero.js"></script>
+<script type="text/javascript" src="data/f/fundacja-weblex.js"></script>
+<script type="text/javascript" src="data/u/urbexhistory.js"></script>
+<script type="text/javascript" src="data/a/alegoria.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/a/applemuzeumpolska.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/k/KuchniaMartySawickiej.js"></script>
+<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+<script type="text/javascript" src="data/1/182047.js"></script>
+<script type="text/javascript" src="data/m/michalmarszal.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/k/KL.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/p/piotrbednarek.js"></script>
+<script type="text/javascript" src="data/t/tzt.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 <script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 <script type="text/javascript" src="data/s/SekcjaGimnastyczna.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/k/KL.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/1/182047.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
@@ -59,6 +61,6 @@ Ostatnie 7 dni.
             drawMulti(
                 ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','sekielski','historiarealna','palhajstv','TERENWIZJA','VirtualDream','planetaabstrakcja','michalmarszal','darwin','brzmienie-swiata','rockserwisfm','znokautujbukmachera','wolskiowojnie','Zmierzchu','poglebiarka'], 
                 1, 'top_but_two', 'currency');
-            drawHorizontal([["Radio 357", -1837], ["Kultura Liberalna", -955], ["Virtual Dream - Piotr Łój", -835], ["Dolnośląski Inspektorat Ochrony Zwierząt", -670], ["Dariusz Rosiak", -540], ["TakŻeTego", -535], ["Sekielski Brothers Studio", -520], ["Grupa Filmowa Darwin ", -514], ["Iwona Pietrala", -500], ["Marcin Zieliński", -440], ["Urbex History", 488], ["Kuchnia dla ubogich Marty Sawickiej", 500], ["Artis Symphony Orchestra", 500], ["Kamil Janicki", 610], ["Fundacja Alegoria ", 620], ["Piotr Bednarek - Wolne Rzeki", 841], ["Sekcja Gimnastyczna", 890], ["Jarosław Wolski", 1083], ["Witold Gadowski", 1425], ["Radio Nowy Świat", 4496]], 'largest_changes');
+            drawHorizontal([["Radio 357", -2247], ["Kultura Liberalna", -940], ["Virtual Dream - Piotr Łój", -845], ["Sekielski Brothers Studio", -680], ["Grupa Filmowa Darwin ", -578], ["Iwona Pietrala", -500], ["Dariusz Rosiak", -470], ["TakŻeTego", -427], ["APPLE MUZEUM POLSKA", -300], ["Fundacja web.lex", -297], ["Podcast Wojenne Historie", 520], ["Urbex History", 521], ["Dominikanie.pl", 535], ["Fundacja Alegoria ", 620], ["Piotr Bednarek - Wolne Rzeki", 885], ["Jarosław Wolski", 947], ["Neybero", 1000], ["Witold Gadowski", 1080], ["Sekcja Gimnastyczna", 1690], ["Radio Nowy Świat", 4677]], 'largest_changes');
     };
 </script>
