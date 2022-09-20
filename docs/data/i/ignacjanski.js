@@ -232,4 +232,5 @@ profiles["ignacjanski"] = [
 	[1663385986,20,null,null,530,null],
 	[1663472282,20,null,null,530,null],
 	[1663558898,20,null,null,530,null],
+	[1663645233,20,1,20.0,550,null],
 ];
