@@ -238,4 +238,6 @@ profiles["Focus"] = [
 	[1663982495,5,1,5.0,50,null],
 	[1664069034,null,1,null,50,null],
 	[1664155355,null,1,null,50,null],
+	[1664241857,null,1,null,50,null],
+	[1664414544,null,1,null,50,null],
 ];
