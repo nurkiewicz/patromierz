@@ -1,10 +1,10 @@
 ---
-title: "M\u0142odzie\u017Cowa Dru\u017Cyna Po\u017Carnicza OSP Nowy Dw\xF3r Mazowiecki\
-  \ | Patromierz"
+title: "M\u0142odzie\u017Cowa Dru\u017Cyna Po\u017Carnicza im. Druha Edmunda Witolda\
+  \ Kuty | Patromierz"
 
 permalink: /MDP
 ---
 
-# [Młodzieżowa Drużyna Pożarnicza OSP Nowy Dwór Mazowiecki](https://patronite.pl/MDP)
+# [Młodzieżowa Drużyna Pożarnicza im. Druha Edmunda Witolda Kuty](https://patronite.pl/MDP)
 
 {% include profile.md name="MDP" prefix="m" %}
