@@ -175,4 +175,5 @@ profiles["strefaciekawosci"] = [
 	[1664861250,20,1,20.0,120,null],
 	[1665207071,20,1,20.0,120,null],
 	[1665294036,20,null,null,120,null],
+	[1665380245,20,null,null,120,null],
 ];

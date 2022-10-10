@@ -81,4 +81,5 @@ profiles["FundacjaWolneMiejsce"] = [
 	[1664846711,10,1,10.0,30,null],
 	[1665192302,10,1,10.0,30,null],
 	[1665278924,null,1,null,30,null],
+	[1665365243,null,1,null,30,null],
 ];
