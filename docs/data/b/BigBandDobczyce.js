@@ -246,4 +246,7 @@ profiles["BigBandDobczyce"] = [
 	[1665191276,null,1,null,651,null],
 	[1665277892,null,1,null,651,null],
 	[1665364197,null,1,null,651,null],
+	[1665450629,null,1,null,651,null],
+	[1665536923,null,1,null,651,null],
+	[1665623348,null,1,null,651,null],
 ];

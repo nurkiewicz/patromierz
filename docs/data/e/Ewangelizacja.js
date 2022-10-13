@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["Ewangelizacja"] = [
+	[1665451388,5,1,5.0,5,null],
+	[1665537677,5,1,5.0,5,null],
+	[1665624108,5,1,5.0,5,null],
+];

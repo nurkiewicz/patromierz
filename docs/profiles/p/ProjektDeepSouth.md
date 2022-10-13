@@ -1,9 +1,9 @@
 ---
-title: "Miko\u0142aj i Karol - Projekt Deep South | Patromierz"
+title: Projekt Deep South - USA jakich nie znasz! | Patromierz
 
 permalink: /ProjektDeepSouth
 ---
 
-# [Mikołaj i Karol - Projekt Deep South](https://patronite.pl/ProjektDeepSouth)
+# [Projekt Deep South - USA jakich nie znasz!](https://patronite.pl/ProjektDeepSouth)
 
 {% include profile.md name="ProjektDeepSouth" prefix="p" %}
