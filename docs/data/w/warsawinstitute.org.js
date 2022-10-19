@@ -253,4 +253,5 @@ profiles["warsawinstitute.org"] = [
 	[1665813272,null,1,null,900,-3.0],
 	[1665899665,null,1,null,900,-3.0],
 	[1665986220,null,1,null,900,-3.0],
+	[1666072702,null,1,null,900,-3.0],
 ];
