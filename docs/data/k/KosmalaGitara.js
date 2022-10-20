@@ -227,4 +227,6 @@ profiles["KosmalaGitara"] = [
 	[1665884507,null,1,null,95,null],
 	[1665970954,null,1,null,95,null],
 	[1666057446,null,1,null,95,null],
+	[1666143685,null,1,null,95,null],
+	[1666230254,14,2,7.0,109,null],
 ];
