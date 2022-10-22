@@ -96,4 +96,5 @@ profiles["wwwyoutube.comcKaczergame"] = [
 	[1666159034,10,1,10.0,40,null],
 	[1666246052,null,1,null,40,null],
 	[1666331539,null,1,null,40,null],
+	[1666418876,null,1,null,40,null],
 ];

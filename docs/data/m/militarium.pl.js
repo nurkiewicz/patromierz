@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["militarium.pl"] = [
 	[1666240164,90,4,22.5,90,null],
 	[1666325884,250,9,27.77,250,null],
+	[1666412928,270,10,27.0,270,null],
 ];
