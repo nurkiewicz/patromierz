@@ -1,9 +1,9 @@
 ---
-title: Paulina Kowalska | Patromierz
+title: Paulina | Patromierz
 
 permalink: /sheremite
 ---
 
-# [Paulina Kowalska](https://patronite.pl/sheremite)
+# [Paulina](https://patronite.pl/sheremite)
 
 {% include profile.md name="sheremite" prefix="s" %}

@@ -1,9 +1,9 @@
 ---
-title: Katarzyna Sambierska  | Patromierz
+title: Stowarzyszenie Hiznits  | Patromierz
 
 permalink: /hiznits
 ---
 
-# [Katarzyna Sambierska ](https://patronite.pl/hiznits)
+# [Stowarzyszenie Hiznits ](https://patronite.pl/hiznits)
 
 {% include profile.md name="hiznits" prefix="h" %}

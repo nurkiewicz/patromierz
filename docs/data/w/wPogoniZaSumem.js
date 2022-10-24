@@ -39,4 +39,5 @@ profiles["wPogoniZaSumem"] = [
 	[1666331027,50,1,50.0,55,null],
 	[1666418336,50,1,50.0,55,null],
 	[1666504715,null,1,null,55,null],
+	[1666591055,null,1,null,55,null],
 ];

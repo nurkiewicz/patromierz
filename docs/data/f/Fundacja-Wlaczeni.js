@@ -259,4 +259,5 @@ profiles["Fundacja-Wlaczeni"] = [
 	[1666315333,10,1,10.0,260,null],
 	[1666401899,10,1,10.0,260,null],
 	[1666488432,null,1,null,270,null],
+	[1666574778,null,1,null,270,null],
 ];
