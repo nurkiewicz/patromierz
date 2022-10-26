@@ -1,9 +1,9 @@
 ---
-title: Joanna Drzewiecka | Patromierz
+title: PODCASTY DRZEWIECKIEJ | Patromierz
 
 permalink: /podcastydrzewieckiej
 ---
 
-# [Joanna Drzewiecka](https://patronite.pl/podcastydrzewieckiej)
+# [PODCASTY DRZEWIECKIEJ](https://patronite.pl/podcastydrzewieckiej)
 
 {% include profile.md name="podcastydrzewieckiej" prefix="p" %}
