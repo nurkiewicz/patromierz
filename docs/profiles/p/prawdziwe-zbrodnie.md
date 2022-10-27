@@ -1,9 +1,9 @@
 ---
-title: Prawdziwe Zbrodnie Podcast | Patromierz
+title: Dwie Karoliny i Dwa Podcasty | Patromierz
 
 permalink: /prawdziwe-zbrodnie
 ---
 
-# [Prawdziwe Zbrodnie Podcast](https://patronite.pl/prawdziwe-zbrodnie)
+# [Dwie Karoliny i Dwa Podcasty](https://patronite.pl/prawdziwe-zbrodnie)
 
 {% include profile.md name="prawdziwe-zbrodnie" prefix="p" %}

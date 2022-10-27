@@ -1,9 +1,9 @@
 ---
-title: Niebieskie SOS | Patromierz
+title: Fenrir | Patromierz
 
 permalink: /oronowicz
 ---
 
-# [Niebieskie SOS](https://patronite.pl/oronowicz)
+# [Fenrir](https://patronite.pl/oronowicz)
 
 {% include profile.md name="oronowicz" prefix="o" %}
