@@ -1,9 +1,9 @@
 ---
-title: Polska Misja Medyczna i Radio 357 | Patromierz
+title: 'Misja: Ukraina | Polska Misja Medyczna | Patromierz'
 
 permalink: /pmm
 ---
 
-# [Polska Misja Medyczna i Radio 357](https://patronite.pl/pmm)
+# [Misja: Ukraina | Polska Misja Medyczna](https://patronite.pl/pmm)
 
 {% include profile.md name="pmm" prefix="p" %}

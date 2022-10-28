@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["nietylkopytania"] = [
 	[1666759503,15,2,7.5,15,null],
 	[1666845839,25,3,8.33,25,null],
+	[1666931294,25,3,8.33,25,null],
 ];
