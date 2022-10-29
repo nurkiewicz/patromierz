@@ -1,9 +1,9 @@
 ---
-title: "Fundacja dla Szczani\u0105t Judyta | Patromierz"
+title: "Fundacja dla Szczeni\u0105t Judyta | Patromierz"
 
 permalink: /fundacjajudyta
 ---
 
-# [Fundacja dla Szczaniąt Judyta](https://patronite.pl/fundacjajudyta)
+# [Fundacja dla Szczeniąt Judyta](https://patronite.pl/fundacjajudyta)
 
 {% include profile.md name="fundacjajudyta" prefix="f" %}

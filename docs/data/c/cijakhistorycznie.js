@@ -263,4 +263,5 @@ profiles["cijakhistorycznie"] = [
 	[1666754059,null,1,null,964,-1.0],
 	[1666840459,null,1,null,964,-1.0],
 	[1666926034,null,1,null,964,-1.0],
+	[1667012929,null,1,null,964,-1.0],
 ];

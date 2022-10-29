@@ -23,4 +23,5 @@ profiles["ksenergetyk"] = [
 	[1666757535,10,1,10.0,10,null],
 	[1666843875,null,1,null,10,null],
 	[1666929382,null,1,null,10,null],
+	[1667016288,null,1,null,10,null],
 ];
