@@ -1,0 +1,4 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["TOZ-Grupa-Interwencyjna-Mogiln"] = [
+	[1667096851,5,1,5.0,5,null],
+];
