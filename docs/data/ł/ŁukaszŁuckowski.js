@@ -63,4 +63,5 @@ profiles["ŁukaszŁuckowski"] = [
 	[1649055172,null,null,null,830,null],
 	[1649072144,null,null,null,830,null],
 	[1667199770,100,1,100.0,930,null],
+	[1667286750,100,1,100.0,930,null],
 ];
