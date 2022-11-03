@@ -228,4 +228,5 @@ profiles["majaklemp"] = [
 	[1667193066,10,null,null,70,null],
 	[1667279808,10,null,null,70,null],
 	[1667366199,10,null,null,70,null],
+	[1667452898,10,1,10.0,80,null],
 ];

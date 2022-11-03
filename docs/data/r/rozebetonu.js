@@ -69,4 +69,5 @@ profiles["rozebetonu"] = [
 	[1649052330,null,null,null,25,null],
 	[1649071449,null,null,null,25,null],
 	[1667370258,6,1,6.0,31,null],
+	[1667457012,6,1,6.0,31,null],
 ];
