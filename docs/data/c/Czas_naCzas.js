@@ -11,4 +11,5 @@ profiles["Czas_naCzas"] = [
 	[1667355242,50,1,50.0,50,null],
 	[1667441730,null,1,null,50,null],
 	[1667528062,null,1,null,50,null],
+	[1667614510,null,1,null,50,null],
 ];

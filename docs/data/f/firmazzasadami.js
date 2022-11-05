@@ -173,4 +173,5 @@ profiles["firmazzasadami"] = [
 	[1667363275,null,1,null,180,null],
 	[1667449940,null,1,null,180,null],
 	[1667535956,null,1,null,180,null],
+	[1667622506,null,1,null,180,-1.0],
 ];
