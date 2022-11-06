@@ -272,4 +272,5 @@ profiles["Dokurviator"] = [
 	[1667441923,200,1,200.0,5940,null],
 	[1667528247,200,null,null,5940,null],
 	[1667614697,200,null,null,5940,null],
+	[1667701115,200,null,null,5940,null],
 ];
