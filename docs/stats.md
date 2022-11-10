@@ -19,40 +19,41 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/p/pmm.js"></script>
-<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/t/TSMTB.js"></script>
-<script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/l/letsgotry.js"></script>
-<script type="text/javascript" src="data/w/www.evrepair.pl.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
 <script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/p/potemotem.js"></script>
+<script type="text/javascript" src="data/l/letsgotry.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
 <script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/k/Krajski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="data/p/przystanekswietlica.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
 <script type="text/javascript" src="data/m/miloszszymanski.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/z/Zmywak.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/a/artsby_onikag.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 <script type="text/javascript" src="data/f/fundacjajudyta.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/z/Zmywak.js"></script>
+<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/w/wolnesady.js"></script>
+<script type="text/javascript" src="data/t/TSMTB.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
@@ -60,6 +61,6 @@ Ostatnie 7 dni.
             drawMulti(
                 ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','sekielski','historiarealna','palhajstv','planetaabstrakcja','VirtualDream','TERENWIZJA','brzmienie-swiata','rockserwisfm','darwin','wolskiowojnie','znokautujbukmachera','miloszszymanski','Zmierzchu','poglebiarka'], 
                 1, 'top_but_two', 'currency');
-            drawHorizontal([["życie warte jest rozmowy", -990], ["Znokautuj bukmachera", -720], ["Dolnośląski Inspektorat Ochrony Zwierząt", -430], ["Sekielski Brothers Studio", -425], ["LetsGoTry", -408], ["Zmywak", -355], ["Stowarzyszenie Trójmiejskie Ścieżki MTB", -280], ["Misja: Ukraina | Polska Misja Medyczna", -275], ["EV REPAIR GARAGE", -250], ["Grupa Filmowa Darwin ", -248], ["Przystanek Świetlica dla dzieci uchodźców", 540], ["Radio Naukowe - podcast Karoliny Głowackiej", 555], ["UBoga Podcast", 560], ["Liga Superbohaterów", 610], ["Stanisław Krajski", 615], ["Marcin Zieliński", 760], ["Langusta na palmie", 905], ["Dariusz Rosiak", 945], ["Fundacja dla Szczeniąt Judyta", 1265], ["Radio Nowy Świat", 1685]], 'largest_changes');
+            drawHorizontal([["Potem-o-tem ", -988], ["Dolnośląski Inspektorat Ochrony Zwierząt", -955], ["Fundacja Wolne Sądy", -950], ["Znokautuj bukmachera", -710], ["LetsGoTry", -387], ["Zmywak", -355], ["Usłyszeć Na Czas", -340], ["Grupa MoCarta", -335], ["Stowarzyszenie Trójmiejskie Ścieżki MTB", -280], ["artsby_onikag", -250], ["Hubert Więcek", 500], ["kyudo", 500], ["Przystanek Świetlica dla dzieci uchodźców", 540], ["Virtual Dream - Piotr Łój", 615], ["Liga Superbohaterów", 630], ["Langusta na palmie", 825], ["Radio Nowy Świat", 1414], ["Fundacja dla Szczeniąt Judyta", 1575], ["Radio 357", 1615], ["życie warte jest rozmowy", 5370]], 'largest_changes');
     };
 </script>
