@@ -101,4 +101,5 @@ profiles["petpatrolrybnik"] = [
 	[1667800219,20,1,20.0,215,null],
 	[1667886808,20,1,20.0,215,null],
 	[1668092219,20,null,null,215,null],
+	[1668145980,20,null,null,215,null],
 ];

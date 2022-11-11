@@ -59,4 +59,5 @@ profiles["PLAKACIARY"] = [
 	[1667790298,100,null,null,200,null],
 	[1667876865,100,null,null,200,null],
 	[1668081808,100,null,null,200,null],
+	[1668136006,100,null,null,200,null],
 ];
