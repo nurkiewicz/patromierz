@@ -58,4 +58,5 @@ profiles["StowarzyszenieTęcza"] = [
 	[1649068663,null,null,null,420,null],
 	[1668083208,5,1,5.0,425,null],
 	[1668137262,5,1,5.0,425,null],
+	[1668223639,5,1,5.0,425,null],
 ];
