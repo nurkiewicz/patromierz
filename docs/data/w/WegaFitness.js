@@ -278,4 +278,5 @@ profiles["WegaFitness"] = [
 	[1668083999,69,1,69.0,5583,null],
 	[1668137969,69,null,null,5583,null],
 	[1668224353,69,null,null,5583,null],
+	[1668310443,69,null,null,5583,null],
 ];
