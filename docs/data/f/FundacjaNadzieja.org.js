@@ -176,4 +176,5 @@ profiles["FundacjaNadzieja.org"] = [
 	[1668219995,500,1,500.0,3000,null],
 	[1668306134,500,null,null,3000,null],
 	[1668429465,500,null,null,3000,null],
+	[1668501860,500,null,null,3000,null],
 ];

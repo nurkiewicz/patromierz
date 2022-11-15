@@ -69,4 +69,5 @@ profiles["szymi_runner"] = [
 	[1649053401,null,null,null,495,null],
 	[1649071723,null,null,null,495,null],
 	[1668431903,5,1,5.0,500,null],
+	[1668504283,5,1,5.0,500,null],
 ];
