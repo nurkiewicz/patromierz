@@ -281,4 +281,5 @@ profiles["MojaAstronomia"] = [
 	[1668307999,5,1,5.0,50,null],
 	[1668429760,5,1,5.0,50,null],
 	[1668502158,null,1,null,50,null],
+	[1668608858,null,1,null,50,null],
 ];
