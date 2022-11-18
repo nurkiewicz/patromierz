@@ -254,4 +254,5 @@ profiles["httpswwwyoutubecomcDzikiDziki"] = [
 	[1668503177,100,1,100.0,420,null],
 	[1668609887,100,1,100.0,420,null],
 	[1668676477,null,1,null,420,-3.0],
+	[1668746958,null,1,null,420,-3.0],
 ];
