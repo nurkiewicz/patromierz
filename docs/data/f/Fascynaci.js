@@ -285,4 +285,5 @@ profiles["Fascynaci"] = [
 	[1668608535,25,1,25.0,1335,null],
 	[1668675118,25,null,null,1335,null],
 	[1668738348,25,null,null,1335,null],
+	[1668824533,25,null,null,1335,null],
 ];
