@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pielgrzymrozumu"] = [
 	[1668837127,60,6,10.0,60,null],
 	[1668923405,80,7,11.42,80,null],
+	[1669009892,80,7,11.42,80,null],
 ];
