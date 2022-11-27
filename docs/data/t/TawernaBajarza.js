@@ -292,4 +292,5 @@ profiles["TawernaBajarza"] = [
 	[1669260668,null,1,null,300,null],
 	[1669347205,null,1,null,300,null],
 	[1669433598,null,1,null,300,null],
+	[1669520147,null,1,null,300,null],
 ];
