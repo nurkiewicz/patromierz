@@ -105,4 +105,5 @@ profiles["dawnotemu"] = [
 	[1669349845,null,1,null,12,null],
 	[1669436229,null,1,null,12,null],
 	[1669522836,null,1,null,12,null],
+	[1669608940,10,2,5.0,22,null],
 ];
