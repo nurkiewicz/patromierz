@@ -69,4 +69,5 @@ profiles["WujekKoszmar"] = [
 	[1649042847,null,null,null,210,null],
 	[1649068883,null,null,null,210,null],
 	[1669779644,10,1,10.0,220,null],
+	[1669866086,10,1,10.0,220,null],
 ];
