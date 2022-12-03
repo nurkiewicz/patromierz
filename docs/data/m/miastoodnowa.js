@@ -296,4 +296,5 @@ profiles["miastoodnowa"] = [
 	[1669785735,15,null,null,351,null],
 	[1669872193,15,null,null,351,null],
 	[1669958741,15,null,null,351,null],
+	[1670045383,15,null,null,351,null],
 ];
