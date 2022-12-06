@@ -93,4 +93,5 @@ profiles["WorldSpeedwayChallengeLeague"] = [
 	[1651024598,20,null,null,615,null],
 	[1651111129,20,null,null,615,null],
 	[1670211969,20,1,20.0,635,null],
+	[1670298270,20,1,20.0,635,null],
 ];

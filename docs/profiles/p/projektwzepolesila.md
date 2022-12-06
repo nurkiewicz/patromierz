@@ -1,9 +1,10 @@
 ---
-title: "Projekt  W Zespole Si\u0142a  | Patromierz"
+title: "Program W Zespole Si\u0142a, autorski program Stowarzyszenia Mini Basket Academy\
+  \ | Patromierz"
 
 permalink: /projektwzepolesila
 ---
 
-# [Projekt  W Zespole Siła ](https://patronite.pl/projektwzepolesila)
+# [Program W Zespole Siła, autorski program Stowarzyszenia Mini Basket Academy](https://patronite.pl/projektwzepolesila)
 
 {% include profile.md name="projektwzepolesila" prefix="p" %}
