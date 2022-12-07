@@ -302,4 +302,5 @@ profiles["VolnyChor"] = [
 	[1670125305,20,null,null,1200,null],
 	[1670211740,20,null,null,1200,null],
 	[1670298038,20,null,null,1200,null],
+	[1670384225,20,null,null,1200,null],
 ];

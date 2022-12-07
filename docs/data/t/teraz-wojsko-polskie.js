@@ -301,4 +301,5 @@ profiles["teraz-wojsko-polskie"] = [
 	[1670136936,null,1,null,574,null],
 	[1670223122,null,1,null,574,null],
 	[1670309601,null,1,null,574,null],
+	[1670395372,null,1,null,574,null],
 ];

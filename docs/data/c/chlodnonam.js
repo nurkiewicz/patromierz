@@ -303,4 +303,5 @@ profiles["chlodnonam"] = [
 	[1670127218,10,null,null,525,null],
 	[1670213619,10,null,null,525,null],
 	[1670299938,10,null,null,525,null],
+	[1670386061,10,1,10.0,535,null],
 ];
