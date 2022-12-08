@@ -267,4 +267,5 @@ profiles["DomNadziei"] = [
 	[1670206950,20,1,20.0,180,null],
 	[1670293191,20,null,null,180,null],
 	[1670379550,20,null,null,180,null],
+	[1670465987,20,null,null,180,null],
 ];

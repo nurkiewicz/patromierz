@@ -302,4 +302,5 @@ profiles["z-pogranicza"] = [
 	[1670224297,5,1,5.0,250,null],
 	[1670310802,5,null,null,250,null],
 	[1670396532,5,null,null,250,null],
+	[1670483796,5,null,null,250,null],
 ];
