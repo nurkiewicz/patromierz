@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["stowarzyszenie-zaginieni-cala-"] = [
 	[1670394832,80,3,26.66,80,null],
 	[1670481996,60,3,20.0,80,null],
+	[1670568145,60,3,20.0,80,null],
 ];
