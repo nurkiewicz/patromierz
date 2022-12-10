@@ -69,4 +69,5 @@ profiles["swiatoperatora"] = [
 	[1649053194,null,null,null,405,null],
 	[1649071673,null,null,null,405,null],
 	[1670568284,25,1,25.0,430,null],
+	[1670654750,25,1,25.0,430,null],
 ];
