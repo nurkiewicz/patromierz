@@ -20,4 +20,5 @@ profiles["Aniutka"] = [
 	[1670465099,null,1,null,5,null],
 	[1670551645,null,1,null,5,null],
 	[1670638077,null,1,null,5,null],
+	[1670724352,10,2,5.0,15,null],
 ];
