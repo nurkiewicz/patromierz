@@ -301,4 +301,5 @@ profiles["LeśnaKuchnia"] = [
 	[1670554316,12,1,12.0,780,null],
 	[1670640728,12,null,null,780,null],
 	[1670726961,12,null,null,780,null],
+	[1670813352,12,null,null,780,null],
 ];
