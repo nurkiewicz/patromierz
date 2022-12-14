@@ -19,43 +19,43 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/PwM.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/Marcin_Przybylek.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/k/kyudo.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/w/Wiez.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/m/miloszszymanski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/t/tzt.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/a/adminakademia.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/t/TomaszSlowinskiUSA.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/p/potemotem.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 <script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
-<script type="text/javascript" src="data/j/JulitaIlczyszyn.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
-<script type="text/javascript" src="data/s/smakksiazki.js"></script>
-<script type="text/javascript" src="data/s/skadinad.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 <script type="text/javascript" src="data/w/WspolnotaRTCK.js"></script>
+<script type="text/javascript" src="data/m/Marcin_Przybylek.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/c/chinskieautocentrum.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/t/TomaszSlowinskiUSA.js"></script>
+<script type="text/javascript" src="data/p/PwM.js"></script>
+<script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/o/outriders.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/j/JulitaIlczyszyn.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/a/adminakademia.js"></script>
+<script type="text/javascript" src="data/m/miloszszymanski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
+<script type="text/javascript" src="data/s/skadinad.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/potemotem.js"></script>
+<script type="text/javascript" src="data/w/Wiez.js"></script>
+<script type="text/javascript" src="data/q/quaz.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
@@ -63,6 +63,6 @@ Ostatnie 7 dni.
             drawMulti(
                 ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','historiarealna','sekielski','palhajstv','VirtualDream','planetaabstrakcja','brzmienie-swiata','rockserwisfm','TERENWIZJA','darwin','wolskiowojnie','znokautujbukmachera','miloszszymanski','dwochtypow','Zmierzchu'], 
                 1, 'top_but_two', 'currency');
-            drawHorizontal([["Marcin Sergiusz Przybyłek", -800], ["Hubert Więcek", -500], ["Tomasz Slowinski USA", -415], ["Julita Ilczyszyn", -370], ["Sekielski Brothers Studio", -360], ["Potem-o-tem ", -300], ["Więź", -255], ["TakŻeTego", -227], ["AdminAkademia", -205], ["smakksiazki.pl", -205], ["kyudo", 500], ["Witold Gadowski", 510], ["Radio Nowy Świat", 692], ["Pal Hajs TV", 750], ["Radio 357", 810], ["Outriders", 840], ["Polki w medycynie", 1000], ["SKĄDINĄD. Podcast Tomasza Stawiszyńskiego", 1020], ["Dwóch Typów Podcast", 1155], ["Wspólnota RTCK", 2230]], 'largest_changes');
+            drawHorizontal([["Marcin Sergiusz Przybyłek", -800], ["Tomasz Slowinski USA", -430], ["Potem-o-tem ", -400], ["Sekielski Brothers Studio", -375], ["Julita Ilczyszyn", -370], ["Langusta na palmie", -360], ["Jan Śpiewak", -260], ["Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery", -260], ["AdminAkademia", -235], ["Więź", -230], ["Chińskie Auto Centrum & Damian Chen", 469], ["Tomasz Drabik", 475], ["Podcast Wojenne Historie", 480], ["Outriders", 650], ["Pal Hajs TV", 685], ["Polki w medycynie", 1000], ["SKĄDINĄD. Podcast Tomasza Stawiszyńskiego", 1020], ["Dwóch Typów Podcast", 1120], ["Radio Nowy Świat", 1124], ["Wspólnota RTCK", 2190]], 'largest_changes');
     };
 </script>
