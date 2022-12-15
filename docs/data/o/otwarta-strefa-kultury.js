@@ -83,4 +83,5 @@ profiles["otwarta-strefa-kultury"] = [
 	[1670824173,10,1,10.0,30,null],
 	[1670910539,10,1,10.0,30,null],
 	[1670996916,null,1,null,30,null],
+	[1671083284,null,1,null,30,null],
 ];
