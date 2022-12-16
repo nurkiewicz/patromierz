@@ -1,0 +1,4 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["farfocle"] = [
+	[1671164885,20,2,10.0,20,null],
+];
