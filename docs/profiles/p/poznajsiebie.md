@@ -1,9 +1,9 @@
 ---
-title: Poznaj Siebie | Patromierz
+title: '***\ poznaj siebie /*** | Patromierz'
 
 permalink: /poznajsiebie
 ---
 
-# [Poznaj Siebie](https://patronite.pl/poznajsiebie)
+# [***\ poznaj siebie /***](https://patronite.pl/poznajsiebie)
 
 {% include profile.md name="poznajsiebie" prefix="p" %}
