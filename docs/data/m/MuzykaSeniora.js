@@ -314,4 +314,5 @@ profiles["MuzykaSeniora"] = [
 	[1671159693,25,null,null,475,null],
 	[1671246276,25,null,null,475,null],
 	[1671332569,25,null,null,475,null],
+	[1671418962,25,1,25.0,500,null],
 ];
