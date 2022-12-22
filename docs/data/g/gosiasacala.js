@@ -318,4 +318,5 @@ profiles["gosiasacala"] = [
 	[1671424895,20,1,20.0,18475,null],
 	[1671511493,20,null,null,18475,null],
 	[1671598040,20,null,null,18475,null],
+	[1671683975,20,null,null,18475,null],
 ];
