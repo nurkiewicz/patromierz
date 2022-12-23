@@ -1,9 +1,9 @@
 ---
-title: Nasze wyprawy naVeganie | Patromierz
+title: Wyprawy naVeganie | Patromierz
 
-permalink: /naveganie
+permalink: /naVeganie
 ---
 
-# [Nasze wyprawy naVeganie](https://patronite.pl/naveganie)
+# [Wyprawy naVeganie](https://patronite.pl/naVeganie)
 
-{% include profile.md name="naveganie" prefix="n" %}
+{% include profile.md name="naVeganie" prefix="n" %}
