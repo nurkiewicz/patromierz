@@ -1,9 +1,9 @@
 ---
-title: "\u0141ukasz Szewczyk | Patromierz"
+title: "Szewczyk Travel (Natalia i \u0141ukasz) | Patromierz"
 
 permalink: /lukaszszewczyk
 ---
 
-# [Łukasz Szewczyk](https://patronite.pl/lukaszszewczyk)
+# [Szewczyk Travel (Natalia i Łukasz)](https://patronite.pl/lukaszszewczyk)
 
 {% include profile.md name="lukaszszewczyk" prefix="l" %}

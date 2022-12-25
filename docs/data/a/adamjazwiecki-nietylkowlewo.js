@@ -319,4 +319,5 @@ profiles["adamjazwiecki-nietylkowlewo"] = [
 	[1671594801,20,null,null,380,null],
 	[1671680828,20,null,null,380,null],
 	[1671783590,20,null,null,380,null],
+	[1671940092,20,1,20.0,400,null],
 ];
