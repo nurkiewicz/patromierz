@@ -272,4 +272,5 @@ profiles["watahapolnocy"] = [
 	[1672038168,5,1,5.0,65,null],
 	[1672130240,5,null,null,65,null],
 	[1672214243,5,null,null,65,null],
+	[1672300375,5,null,null,65,null],
 ];
