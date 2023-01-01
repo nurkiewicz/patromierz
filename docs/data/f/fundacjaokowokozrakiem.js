@@ -323,4 +323,6 @@ profiles["fundacjaokowokozrakiem"] = [
 	[1672204105,10,null,null,2700,null],
 	[1672290240,10,null,null,2700,null],
 	[1672403890,10,null,null,2700,null],
+	[1672503265,10,1,10.0,2710,null],
+	[1672575771,10,1,10.0,2710,null],
 ];

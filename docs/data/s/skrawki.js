@@ -1,4 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["skrawki"] = [
 	[1672404822,10,1,10.0,10,null],
+	[1672504179,60,2,30.0,60,null],
+	[1672576730,60,2,30.0,60,null],
 ];
