@@ -327,4 +327,5 @@ profiles["cech-optykow-w-warszawie"] = [
 	[1672403678,null,1,null,230,null],
 	[1672503054,null,1,null,230,null],
 	[1672575563,null,1,null,230,null],
+	[1672662396,null,1,null,230,null],
 ];

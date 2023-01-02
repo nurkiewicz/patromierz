@@ -1,9 +1,9 @@
 ---
-title: Dominikanie.pl | Patromierz
+title: dominikanie.pl | Patromierz
 
 permalink: /portaldominikanie
 ---
 
-# [Dominikanie.pl](https://patronite.pl/portaldominikanie)
+# [dominikanie.pl](https://patronite.pl/portaldominikanie)
 
 {% include profile.md name="portaldominikanie" prefix="p" %}
