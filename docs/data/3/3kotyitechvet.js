@@ -69,4 +69,5 @@ profiles["3kotyitechvet"] = [
 	[1649036846,null,null,null,40,null],
 	[1649067314,null,null,null,40,null],
 	[1672661211,20,1,20.0,60,null],
+	[1672733755,20,1,20.0,60,null],
 ];

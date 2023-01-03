@@ -257,4 +257,5 @@ profiles["PZL"] = [
 	[1672502044,null,1,null,40,null],
 	[1672575093,null,1,null,40,null],
 	[1672661814,null,1,null,40,null],
+	[1672735556,null,1,null,40,null],
 ];
