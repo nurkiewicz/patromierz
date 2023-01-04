@@ -1,5 +1,5 @@
 ---
-title: Powabny Eklerek | Patromierz
+title: Powabny Eklerek | Statystyki patronite.pl | Patromierz
 
 permalink: /powabnyeklerek
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Aromaty \u017Bycia | Patromierz"
+title: "Aromaty \u017Bycia | Statystyki patronite.pl | Patromierz"
 
 permalink: /AromatyŻycia
 ---

@@ -1,5 +1,5 @@
 ---
-title: GMCLAN.org | Patromierz
+title: GMCLAN.org | Statystyki patronite.pl | Patromierz
 
 permalink: /GMCLAN
 ---

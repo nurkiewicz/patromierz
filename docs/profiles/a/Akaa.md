@@ -1,5 +1,5 @@
 ---
-title: Akaa | Patromierz
+title: Akaa | Statystyki patronite.pl | Patromierz
 
 permalink: /Akaa
 ---

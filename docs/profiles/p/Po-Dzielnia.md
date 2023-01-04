@@ -1,5 +1,5 @@
 ---
-title: Po-Dzielnia  | Patromierz
+title: Po-Dzielnia  | Statystyki patronite.pl | Patromierz
 
 permalink: /Po-Dzielnia
 ---

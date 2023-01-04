@@ -1,5 +1,6 @@
 ---
-title: "Fundacja Joanny Radziwi\u0142\u0142 \"Opieku\u0144cze Skrzyd\u0142a\" | Patromierz"
+title: "Fundacja Joanny Radziwi\u0142\u0142 \"Opieku\u0144cze Skrzyd\u0142a\" | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /FJR
 ---

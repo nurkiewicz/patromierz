@@ -1,5 +1,5 @@
 ---
-title: Mazby | Patromierz
+title: Mazby | Statystyki patronite.pl | Patromierz
 
 permalink: /Mazby
 ---

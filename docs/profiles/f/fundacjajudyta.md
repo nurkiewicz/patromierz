@@ -1,5 +1,5 @@
 ---
-title: "Fundacja dla Szczeni\u0105t Judyta | Patromierz"
+title: "Fundacja dla Szczeni\u0105t Judyta | Statystyki patronite.pl | Patromierz"
 
 permalink: /fundacjajudyta
 ---

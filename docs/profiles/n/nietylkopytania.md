@@ -1,5 +1,6 @@
 ---
-title: "Nie tylko pytania - rozmowy Ja\u015Bka Wasilewskiego | Patromierz"
+title: "Nie tylko pytania - rozmowy Ja\u015Bka Wasilewskiego | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /nietylkopytania
 ---

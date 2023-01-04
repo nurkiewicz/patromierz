@@ -1,5 +1,5 @@
 ---
-title: "Dzia\u0142 Zagraniczny | Patromierz"
+title: "Dzia\u0142 Zagraniczny | Statystyki patronite.pl | Patromierz"
 
 permalink: /dzialzagraniczny
 ---

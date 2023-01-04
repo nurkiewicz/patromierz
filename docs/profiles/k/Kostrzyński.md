@@ -1,5 +1,5 @@
 ---
-title: "Marcin Kostrzy\u0144ski | Patromierz"
+title: "Marcin Kostrzy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /Kostrzyński
 ---

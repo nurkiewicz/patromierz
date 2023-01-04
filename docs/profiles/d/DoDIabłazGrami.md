@@ -1,5 +1,5 @@
 ---
-title: "Do Diab\u0142a z Grami  | Patromierz"
+title: "Do Diab\u0142a z Grami  | Statystyki patronite.pl | Patromierz"
 
 permalink: /DoDIabłazGrami
 ---

@@ -1,5 +1,5 @@
 ---
-title: koduj24.pl | Patromierz
+title: koduj24.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /koduj24
 ---

@@ -1,5 +1,5 @@
 ---
-title: Okupowana Polska | Patromierz
+title: Okupowana Polska | Statystyki patronite.pl | Patromierz
 
 permalink: /okupowanapolska
 ---

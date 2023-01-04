@@ -1,5 +1,5 @@
 ---
-title: "Poma\u0142u, Poma\u0142u... | Patromierz"
+title: "Poma\u0142u, Poma\u0142u... | Statystyki patronite.pl | Patromierz"
 
 permalink: /pomalupomalu
 ---

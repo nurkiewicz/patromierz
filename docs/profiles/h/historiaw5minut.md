@@ -1,5 +1,5 @@
 ---
-title: Historia w 5 minut | Patromierz
+title: Historia w 5 minut | Statystyki patronite.pl | Patromierz
 
 permalink: /historiaw5minut
 ---

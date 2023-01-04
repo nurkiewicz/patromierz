@@ -1,5 +1,5 @@
 ---
-title: Sebastian Barycza | Patromierz
+title: Sebastian Barycza | Statystyki patronite.pl | Patromierz
 
 permalink: /Barycza
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sztuczne Fio\u0142ki | Patromierz"
+title: "Sztuczne Fio\u0142ki | Statystyki patronite.pl | Patromierz"
 
 permalink: /sztucznefiolki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hard Rider | Patromierz
+title: Hard Rider | Statystyki patronite.pl | Patromierz
 
 permalink: /hardriderband
 ---

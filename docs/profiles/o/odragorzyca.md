@@ -1,5 +1,5 @@
 ---
-title: "Odra G\xF3rzyca | Patromierz"
+title: "Odra G\xF3rzyca | Statystyki patronite.pl | Patromierz"
 
 permalink: /odragorzyca
 ---

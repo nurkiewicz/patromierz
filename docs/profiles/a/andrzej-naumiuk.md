@@ -1,5 +1,5 @@
 ---
-title: Andrzej  Naumiuk | Patromierz
+title: Andrzej  Naumiuk | Statystyki patronite.pl | Patromierz
 
 permalink: /andrzej-naumiuk
 ---

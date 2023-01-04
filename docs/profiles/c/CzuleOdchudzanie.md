@@ -1,5 +1,6 @@
 ---
-title: "Czu\u0142e Odchudzanie. Bez nienawi\u015Bci do jedzenia! :: zdrowie.je | Patromierz"
+title: "Czu\u0142e Odchudzanie. Bez nienawi\u015Bci do jedzenia! :: zdrowie.je | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /CzuleOdchudzanie
 ---

@@ -1,5 +1,5 @@
 ---
-title: Juliusz Aleksadner Szatkowski | Patromierz
+title: Juliusz Aleksadner Szatkowski | Statystyki patronite.pl | Patromierz
 
 permalink: /jaszatkovsky
 ---

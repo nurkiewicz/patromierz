@@ -1,5 +1,5 @@
 ---
-title: MiiKADO | Patromierz
+title: MiiKADO | Statystyki patronite.pl | Patromierz
 
 permalink: /www.miikadoart.com
 ---

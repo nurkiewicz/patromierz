@@ -1,5 +1,5 @@
 ---
-title: Angielski na wynos | Patromierz
+title: Angielski na wynos | Statystyki patronite.pl | Patromierz
 
 permalink: /angielskinawynos
 ---

@@ -1,5 +1,5 @@
 ---
-title: Elanguages | Patromierz
+title: Elanguages | Statystyki patronite.pl | Patromierz
 
 permalink: /elanguages
 ---

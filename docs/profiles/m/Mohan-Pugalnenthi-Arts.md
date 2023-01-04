@@ -1,5 +1,5 @@
 ---
-title: Mohan Pugalenthi | Patromierz
+title: Mohan Pugalenthi | Statystyki patronite.pl | Patromierz
 
 permalink: /Mohan-Pugalnenthi-Arts
 ---

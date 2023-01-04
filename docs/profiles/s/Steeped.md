@@ -1,5 +1,5 @@
 ---
-title: STEEPED | Patromierz
+title: STEEPED | Statystyki patronite.pl | Patromierz
 
 permalink: /Steeped
 ---

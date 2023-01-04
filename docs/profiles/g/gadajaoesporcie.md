@@ -1,5 +1,5 @@
 ---
-title: "Gadaj\u0105 o Esporcie | Patromierz"
+title: "Gadaj\u0105 o Esporcie | Statystyki patronite.pl | Patromierz"
 
 permalink: /gadajaoesporcie
 ---

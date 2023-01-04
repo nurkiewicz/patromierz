@@ -1,5 +1,5 @@
 ---
-title: Projekt Ketonator | Patromierz
+title: Projekt Ketonator | Statystyki patronite.pl | Patromierz
 
 permalink: /ProjektKetonator
 ---

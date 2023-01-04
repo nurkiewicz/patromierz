@@ -1,5 +1,5 @@
 ---
-title: tv.Mentality | Patromierz
+title: tv.Mentality | Statystyki patronite.pl | Patromierz
 
 permalink: /tv.Mentality
 ---

@@ -1,5 +1,5 @@
 ---
-title: Piotr Bukartyk & Ajagore | Patromierz
+title: Piotr Bukartyk & Ajagore | Statystyki patronite.pl | Patromierz
 
 permalink: /bukartyk
 ---

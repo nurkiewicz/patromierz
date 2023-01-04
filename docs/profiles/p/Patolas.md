@@ -1,5 +1,5 @@
 ---
-title: "Opowie\u015Bci z Patolasu | Patromierz"
+title: "Opowie\u015Bci z Patolasu | Statystyki patronite.pl | Patromierz"
 
 permalink: /Patolas
 ---

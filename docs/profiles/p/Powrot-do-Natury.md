@@ -1,5 +1,5 @@
 ---
-title: okonski.art | Patromierz
+title: okonski.art | Statystyki patronite.pl | Patromierz
 
 permalink: /Powrot-do-Natury
 ---

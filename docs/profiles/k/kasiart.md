@@ -1,5 +1,5 @@
 ---
-title: Kasia Kot | Patromierz
+title: Kasia Kot | Statystyki patronite.pl | Patromierz
 
 permalink: /kasiart
 ---

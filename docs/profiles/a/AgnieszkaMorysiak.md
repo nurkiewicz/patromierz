@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Morysiak | Patromierz
+title: Agnieszka Morysiak | Statystyki patronite.pl | Patromierz
 
 permalink: /AgnieszkaMorysiak
 ---

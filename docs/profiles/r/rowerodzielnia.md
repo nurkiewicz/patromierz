@@ -1,5 +1,5 @@
 ---
-title: Rowerodzielnia | Patromierz
+title: Rowerodzielnia | Statystyki patronite.pl | Patromierz
 
 permalink: /rowerodzielnia
 ---

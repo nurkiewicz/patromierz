@@ -1,5 +1,5 @@
 ---
-title: "Fizyk Wyja\u015Bnia | Patromierz"
+title: "Fizyk Wyja\u015Bnia | Statystyki patronite.pl | Patromierz"
 
 permalink: /fizykwyjasnia
 ---

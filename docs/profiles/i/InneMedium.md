@@ -1,5 +1,5 @@
 ---
-title: Inne Medium | Patromierz
+title: Inne Medium | Statystyki patronite.pl | Patromierz
 
 permalink: /InneMedium
 ---

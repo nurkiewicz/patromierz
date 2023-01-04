@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie Robotyk\xF3w SKALP | Patromierz"
+title: "Stowarzyszenie Robotyk\xF3w SKALP | Statystyki patronite.pl | Patromierz"
 
 permalink: /SRSKALP
 ---

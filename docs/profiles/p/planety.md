@@ -1,5 +1,5 @@
 ---
-title: Planety | Patromierz
+title: Planety | Statystyki patronite.pl | Patromierz
 
 permalink: /planety
 ---

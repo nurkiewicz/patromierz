@@ -1,5 +1,5 @@
 ---
-title: Grot Orderly | Patromierz
+title: Grot Orderly | Statystyki patronite.pl | Patromierz
 
 permalink: /GrotOrderly
 ---

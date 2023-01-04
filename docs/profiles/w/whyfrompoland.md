@@ -1,5 +1,5 @@
 ---
-title: Why | Patromierz
+title: Why | Statystyki patronite.pl | Patromierz
 
 permalink: /whyfrompoland
 ---

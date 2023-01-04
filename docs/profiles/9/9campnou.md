@@ -1,5 +1,5 @@
 ---
-title: 9CAMPNOU | Patromierz
+title: 9CAMPNOU | Statystyki patronite.pl | Patromierz
 
 permalink: /9campnou
 ---

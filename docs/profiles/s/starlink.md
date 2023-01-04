@@ -1,5 +1,5 @@
 ---
-title: Piotr Jaskiernia | Patromierz
+title: Piotr Jaskiernia | Statystyki patronite.pl | Patromierz
 
 permalink: /starlink
 ---

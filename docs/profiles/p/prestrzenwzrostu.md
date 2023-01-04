@@ -1,5 +1,5 @@
 ---
-title: "Przestrze\u0144 Wzrostu | Patromierz"
+title: "Przestrze\u0144 Wzrostu | Statystyki patronite.pl | Patromierz"
 
 permalink: /prestrzenwzrostu
 ---

@@ -1,5 +1,5 @@
 ---
-title: Project Explore | Patromierz
+title: Project Explore | Statystyki patronite.pl | Patromierz
 
 permalink: /projectexplore
 ---

@@ -1,5 +1,5 @@
 ---
-title: Niesamowite Narracje | Patromierz
+title: Niesamowite Narracje | Statystyki patronite.pl | Patromierz
 
 permalink: /niesamowitenarracje
 ---

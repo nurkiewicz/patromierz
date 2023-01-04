@@ -1,5 +1,5 @@
 ---
-title: Besto | Patromierz
+title: Besto | Statystyki patronite.pl | Patromierz
 
 permalink: /Besto
 ---

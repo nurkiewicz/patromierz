@@ -1,5 +1,5 @@
 ---
-title: Pet Patrol Rybnik | Patromierz
+title: Pet Patrol Rybnik | Statystyki patronite.pl | Patromierz
 
 permalink: /petpatrolrybnik
 ---

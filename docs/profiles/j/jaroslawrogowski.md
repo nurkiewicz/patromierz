@@ -1,5 +1,5 @@
 ---
-title: "Jaros\u0142aw  Rogowski | Patromierz"
+title: "Jaros\u0142aw  Rogowski | Statystyki patronite.pl | Patromierz"
 
 permalink: /jaroslawrogowski
 ---

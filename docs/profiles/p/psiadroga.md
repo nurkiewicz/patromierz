@@ -1,5 +1,5 @@
 ---
-title: Fundacja Psia Droga | Patromierz
+title: Fundacja Psia Droga | Statystyki patronite.pl | Patromierz
 
 permalink: /psiadroga
 ---

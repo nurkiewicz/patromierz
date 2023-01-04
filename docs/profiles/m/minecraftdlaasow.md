@@ -1,5 +1,5 @@
 ---
-title: "Minecraft dla As\xF3w | Patromierz"
+title: "Minecraft dla As\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /minecraftdlaasow
 ---

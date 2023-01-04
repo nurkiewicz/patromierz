@@ -1,5 +1,5 @@
 ---
-title: Marcinowe Recenzje | Patromierz
+title: Marcinowe Recenzje | Statystyki patronite.pl | Patromierz
 
 permalink: /Marcinowe_Recenzje
 ---

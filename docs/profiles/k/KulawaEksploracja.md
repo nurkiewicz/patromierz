@@ -1,5 +1,5 @@
 ---
-title: Kulawa Eksploracja | Patromierz
+title: Kulawa Eksploracja | Statystyki patronite.pl | Patromierz
 
 permalink: /KulawaEksploracja
 ---

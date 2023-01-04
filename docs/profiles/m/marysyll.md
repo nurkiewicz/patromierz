@@ -1,5 +1,5 @@
 ---
-title: Mary Syll | Patromierz
+title: Mary Syll | Statystyki patronite.pl | Patromierz
 
 permalink: /marysyll
 ---

@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Ambasada Braci Mniejszych | Patromierz
+title: Stowarzyszenie Ambasada Braci Mniejszych | Statystyki patronite.pl | Patromierz
 
 permalink: /ambasadaelk
 ---

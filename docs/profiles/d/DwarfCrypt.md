@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kucharski | Patromierz"
+title: "Micha\u0142 Kucharski | Statystyki patronite.pl | Patromierz"
 
 permalink: /DwarfCrypt
 ---

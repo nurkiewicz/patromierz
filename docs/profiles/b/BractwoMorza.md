@@ -1,5 +1,5 @@
 ---
-title: Bractwo Morza | Patromierz
+title: Bractwo Morza | Statystyki patronite.pl | Patromierz
 
 permalink: /BractwoMorza
 ---

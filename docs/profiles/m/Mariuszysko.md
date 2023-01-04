@@ -1,5 +1,5 @@
 ---
-title: Mariuszysko | Patromierz
+title: Mariuszysko | Statystyki patronite.pl | Patromierz
 
 permalink: /Mariuszysko
 ---

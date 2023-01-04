@@ -1,5 +1,5 @@
 ---
-title: Wojskowo-Historyczne Opowiastki | Patromierz
+title: Wojskowo-Historyczne Opowiastki | Statystyki patronite.pl | Patromierz
 
 permalink: /WojskoweOpowiastki
 ---

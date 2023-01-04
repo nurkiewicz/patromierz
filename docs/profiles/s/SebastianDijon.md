@@ -1,5 +1,5 @@
 ---
-title: Sebastian  Dijon | Patromierz
+title: Sebastian  Dijon | Statystyki patronite.pl | Patromierz
 
 permalink: /SebastianDijon
 ---

@@ -1,5 +1,5 @@
 ---
-title: Po prostu Pietruszewska | Patromierz
+title: Po prostu Pietruszewska | Statystyki patronite.pl | Patromierz
 
 permalink: /pietruszewska
 ---

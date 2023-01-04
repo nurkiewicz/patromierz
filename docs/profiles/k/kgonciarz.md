@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Gonciarz | Patromierz
+title: Krzysztof Gonciarz | Statystyki patronite.pl | Patromierz
 
 permalink: /kgonciarz
 ---

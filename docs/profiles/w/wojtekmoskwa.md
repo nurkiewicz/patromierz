@@ -1,5 +1,5 @@
 ---
-title: Wojtek Moskwa | Patromierz
+title: Wojtek Moskwa | Statystyki patronite.pl | Patromierz
 
 permalink: /wojtekmoskwa
 ---

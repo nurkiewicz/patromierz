@@ -1,5 +1,5 @@
 ---
-title: Sabina Jeszka | Patromierz
+title: Sabina Jeszka | Statystyki patronite.pl | Patromierz
 
 permalink: /sabinajeszka
 ---

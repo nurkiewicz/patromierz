@@ -1,5 +1,5 @@
 ---
-title: "KinoSzko\u0142a Fundacja Rozwoju Kompetencji | Patromierz"
+title: "KinoSzko\u0142a Fundacja Rozwoju Kompetencji | Statystyki patronite.pl | Patromierz"
 
 permalink: /KinoSzkola
 ---

@@ -1,5 +1,5 @@
 ---
-title: wlosingola | Patromierz
+title: wlosingola | Statystyki patronite.pl | Patromierz
 
 permalink: /wlosingola.com
 ---

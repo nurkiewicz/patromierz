@@ -1,5 +1,5 @@
 ---
-title: Fundacja Lambda Polska | Patromierz
+title: Fundacja Lambda Polska | Statystyki patronite.pl | Patromierz
 
 permalink: /lambdapolska
 ---

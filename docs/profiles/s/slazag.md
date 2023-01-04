@@ -1,5 +1,5 @@
 ---
-title: "\u015Al\u0105zag | Patromierz"
+title: "\u015Al\u0105zag | Statystyki patronite.pl | Patromierz"
 
 permalink: /slazag
 ---

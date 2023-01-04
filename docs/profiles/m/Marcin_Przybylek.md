@@ -1,5 +1,5 @@
 ---
-title: "Marcin Sergiusz Przyby\u0142ek | Patromierz"
+title: "Marcin Sergiusz Przyby\u0142ek | Statystyki patronite.pl | Patromierz"
 
 permalink: /Marcin_Przybylek
 ---

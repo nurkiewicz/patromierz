@@ -1,5 +1,5 @@
 ---
-title: TIG MASTERS  | Patromierz
+title: TIG MASTERS  | Statystyki patronite.pl | Patromierz
 
 permalink: /Tigmasters
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ciekawi Krakowa | Patromierz
+title: Ciekawi Krakowa | Statystyki patronite.pl | Patromierz
 
 permalink: /Ciekawi_Krakowa
 ---

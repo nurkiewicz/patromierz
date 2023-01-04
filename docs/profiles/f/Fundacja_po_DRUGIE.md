@@ -1,5 +1,5 @@
 ---
-title: Fundacja po DRUGIE | Patromierz
+title: Fundacja po DRUGIE | Statystyki patronite.pl | Patromierz
 
 permalink: /Fundacja_po_DRUGIE
 ---

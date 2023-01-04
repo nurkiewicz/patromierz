@@ -1,5 +1,6 @@
 ---
-title: "Kr\xF3lowa R\xF3\u017Ca\u0144ca \u015Awi\u0119tego | Patromierz"
+title: "Kr\xF3lowa R\xF3\u017Ca\u0144ca \u015Awi\u0119tego | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /krolowa-rozanca-swietego
 ---

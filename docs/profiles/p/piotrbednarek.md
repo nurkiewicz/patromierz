@@ -1,5 +1,5 @@
 ---
-title: Piotr Bednarek - Wolne Rzeki | Patromierz
+title: Piotr Bednarek - Wolne Rzeki | Statystyki patronite.pl | Patromierz
 
 permalink: /piotrbednarek
 ---

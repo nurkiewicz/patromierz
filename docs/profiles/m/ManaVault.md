@@ -1,5 +1,5 @@
 ---
-title: Mana Vault | Patromierz
+title: Mana Vault | Statystyki patronite.pl | Patromierz
 
 permalink: /ManaVault
 ---

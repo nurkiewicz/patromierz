@@ -1,5 +1,5 @@
 ---
-title: PODCASTY DRZEWIECKIEJ | Patromierz
+title: PODCASTY DRZEWIECKIEJ | Statystyki patronite.pl | Patromierz
 
 permalink: /podcastydrzewieckiej
 ---

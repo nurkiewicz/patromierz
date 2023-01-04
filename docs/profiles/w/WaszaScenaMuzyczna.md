@@ -1,5 +1,5 @@
 ---
-title: Wasza Scena Muzyczna | Patromierz
+title: Wasza Scena Muzyczna | Statystyki patronite.pl | Patromierz
 
 permalink: /WaszaScenaMuzyczna
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u017Baneta Che\u0142miniak | Patromierz"
+title: "\u017Baneta Che\u0142miniak | Statystyki patronite.pl | Patromierz"
 
 permalink: /zanetachelminiak
 ---

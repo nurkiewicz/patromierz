@@ -1,5 +1,5 @@
 ---
-title: Supermama | Patromierz
+title: Supermama | Statystyki patronite.pl | Patromierz
 
 permalink: /supermama
 ---

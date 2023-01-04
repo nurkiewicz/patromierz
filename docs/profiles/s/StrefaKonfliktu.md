@@ -1,5 +1,5 @@
 ---
-title: '#StrefaKonfliktu | Patromierz'
+title: '#StrefaKonfliktu | Statystyki patronite.pl | Patromierz'
 
 permalink: /StrefaKonfliktu
 ---

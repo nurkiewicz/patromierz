@@ -1,5 +1,5 @@
 ---
-title: "Jakbyniepacze\u0107 | Patromierz"
+title: "Jakbyniepacze\u0107 | Statystyki patronite.pl | Patromierz"
 
 permalink: /jakbyniepaczec
 ---

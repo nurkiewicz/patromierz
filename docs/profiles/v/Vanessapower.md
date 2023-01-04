@@ -1,5 +1,5 @@
 ---
-title: Vanessa Power Kujawiak | Patromierz
+title: Vanessa Power Kujawiak | Statystyki patronite.pl | Patromierz
 
 permalink: /Vanessapower
 ---

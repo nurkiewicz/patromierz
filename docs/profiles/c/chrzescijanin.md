@@ -1,5 +1,5 @@
 ---
-title: "Radio Chrze\u015Bcijanin | Patromierz"
+title: "Radio Chrze\u015Bcijanin | Statystyki patronite.pl | Patromierz"
 
 permalink: /chrzescijanin
 ---

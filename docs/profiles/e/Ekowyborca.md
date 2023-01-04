@@ -1,5 +1,5 @@
 ---
-title: Ekowyborca | Patromierz
+title: Ekowyborca | Statystyki patronite.pl | Patromierz
 
 permalink: /Ekowyborca
 ---

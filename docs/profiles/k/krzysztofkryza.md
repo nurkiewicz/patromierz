@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Kryza | Patromierz
+title: Krzysztof Kryza | Statystyki patronite.pl | Patromierz
 
 permalink: /krzysztofkryza
 ---

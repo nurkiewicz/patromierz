@@ -1,5 +1,5 @@
 ---
-title: Kowal Na Kole | Patromierz
+title: Kowal Na Kole | Statystyki patronite.pl | Patromierz
 
 permalink: /knk
 ---

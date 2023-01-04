@@ -1,5 +1,5 @@
 ---
-title: "Szymkiewicz Wsp\xF3\u0142dzielnia | Patromierz"
+title: "Szymkiewicz Wsp\xF3\u0142dzielnia | Statystyki patronite.pl | Patromierz"
 
 permalink: /szymkiewicz_majordonacyjny
 ---

@@ -1,5 +1,5 @@
 ---
-title: Diugcello | Patromierz
+title: Diugcello | Statystyki patronite.pl | Patromierz
 
 permalink: /diugcello
 ---

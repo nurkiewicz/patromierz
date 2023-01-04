@@ -1,5 +1,5 @@
 ---
-title: Z PORADNIKA ELEKTRYKA | Patromierz
+title: Z PORADNIKA ELEKTRYKA | Statystyki patronite.pl | Patromierz
 
 permalink: /zpe_mk
 ---

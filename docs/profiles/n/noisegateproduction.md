@@ -1,5 +1,5 @@
 ---
-title: Noise Gate Production | Patromierz
+title: Noise Gate Production | Statystyki patronite.pl | Patromierz
 
 permalink: /noisegateproduction
 ---

@@ -1,5 +1,5 @@
 ---
-title: Widma Historii | Patromierz
+title: Widma Historii | Statystyki patronite.pl | Patromierz
 
 permalink: /WidmaHistorii
 ---

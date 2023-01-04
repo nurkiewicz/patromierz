@@ -1,5 +1,5 @@
 ---
-title: Weles Studio | Patromierz
+title: Weles Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /WelesStudio
 ---

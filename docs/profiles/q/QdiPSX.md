@@ -1,5 +1,5 @@
 ---
-title: QdiPSX | Patromierz
+title: QdiPSX | Statystyki patronite.pl | Patromierz
 
 permalink: /QdiPSX
 ---

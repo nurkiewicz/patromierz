@@ -1,5 +1,5 @@
 ---
-title: "Fabiq Moto i Martu\u015B | Patromierz"
+title: "Fabiq Moto i Martu\u015B | Statystyki patronite.pl | Patromierz"
 
 permalink: /FabiqMoto
 ---

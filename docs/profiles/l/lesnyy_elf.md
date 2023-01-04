@@ -1,5 +1,5 @@
 ---
-title: "Le\u015Bny Elf | Patromierz"
+title: "Le\u015Bny Elf | Statystyki patronite.pl | Patromierz"
 
 permalink: /lesnyy_elf
 ---

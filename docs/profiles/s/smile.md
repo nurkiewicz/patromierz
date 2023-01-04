@@ -1,5 +1,5 @@
 ---
-title: Fundacja Smile Together | Patromierz
+title: Fundacja Smile Together | Statystyki patronite.pl | Patromierz
 
 permalink: /smile
 ---

@@ -1,5 +1,5 @@
 ---
-title: Polish Paranormal  TV | Patromierz
+title: Polish Paranormal  TV | Statystyki patronite.pl | Patromierz
 
 permalink: /pptv
 ---

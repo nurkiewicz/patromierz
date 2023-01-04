@@ -1,5 +1,5 @@
 ---
-title: Fikoty | Patromierz
+title: Fikoty | Statystyki patronite.pl | Patromierz
 
 permalink: /fikoty
 ---

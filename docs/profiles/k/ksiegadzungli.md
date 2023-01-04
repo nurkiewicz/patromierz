@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0119ga D\u017Cungli | Patromierz"
+title: "Ksi\u0119ga D\u017Cungli | Statystyki patronite.pl | Patromierz"
 
 permalink: /ksiegadzungli
 ---

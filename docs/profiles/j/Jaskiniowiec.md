@@ -1,5 +1,5 @@
 ---
-title: Jaskiniowiec | Patromierz
+title: Jaskiniowiec | Statystyki patronite.pl | Patromierz
 
 permalink: /Jaskiniowiec
 ---

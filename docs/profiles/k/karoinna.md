@@ -1,5 +1,5 @@
 ---
-title: Karoinna | Patromierz
+title: Karoinna | Statystyki patronite.pl | Patromierz
 
 permalink: /karoinna
 ---

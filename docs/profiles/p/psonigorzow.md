@@ -1,5 +1,5 @@
 ---
-title: "PSONI Ko\u0142o w Gorzowie Wielkopolskim | Patromierz"
+title: "PSONI Ko\u0142o w Gorzowie Wielkopolskim | Statystyki patronite.pl | Patromierz"
 
 permalink: /psonigorzow
 ---

@@ -1,5 +1,5 @@
 ---
-title: Grodzisko Rzeczyca | Patromierz
+title: Grodzisko Rzeczyca | Statystyki patronite.pl | Patromierz
 
 permalink: /grodziskorzeczyca
 ---

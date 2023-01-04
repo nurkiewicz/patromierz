@@ -1,5 +1,5 @@
 ---
-title: Viking C. | Patromierz
+title: Viking C. | Statystyki patronite.pl | Patromierz
 
 permalink: /VikingC
 ---

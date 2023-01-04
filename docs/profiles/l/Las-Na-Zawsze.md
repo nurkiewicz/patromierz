@@ -1,5 +1,5 @@
 ---
-title: Las Na Zawsze | Fundacja | Patromierz
+title: Las Na Zawsze | Fundacja | Statystyki patronite.pl | Patromierz
 
 permalink: /Las-Na-Zawsze
 ---

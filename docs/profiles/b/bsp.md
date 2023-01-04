@@ -1,5 +1,6 @@
 ---
-title: "Bojowe Schrony Proszowice - Izba Pami\u0119ci | Patromierz"
+title: "Bojowe Schrony Proszowice - Izba Pami\u0119ci | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /bsp
 ---

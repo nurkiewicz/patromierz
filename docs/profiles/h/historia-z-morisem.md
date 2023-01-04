@@ -1,5 +1,5 @@
 ---
-title: Historia z Morisem | Patromierz
+title: Historia z Morisem | Statystyki patronite.pl | Patromierz
 
 permalink: /historia-z-morisem
 ---

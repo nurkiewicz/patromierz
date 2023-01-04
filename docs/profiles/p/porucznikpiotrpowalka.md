@@ -1,5 +1,5 @@
 ---
-title: "Porucznik Piotr Powa\u0142ka | Patromierz"
+title: "Porucznik Piotr Powa\u0142ka | Statystyki patronite.pl | Patromierz"
 
 permalink: /porucznikpiotrpowalka
 ---

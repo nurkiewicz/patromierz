@@ -1,5 +1,5 @@
 ---
-title: Kultura Liberalna | Patromierz
+title: Kultura Liberalna | Statystyki patronite.pl | Patromierz
 
 permalink: /KL
 ---

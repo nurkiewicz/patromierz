@@ -1,5 +1,5 @@
 ---
-title: Habitat dla Ukrainy | Patromierz
+title: Habitat dla Ukrainy | Statystyki patronite.pl | Patromierz
 
 permalink: /habitat
 ---

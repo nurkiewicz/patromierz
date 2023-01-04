@@ -1,5 +1,5 @@
 ---
-title: "Paulina Wr\xF3blewska | Patromierz"
+title: "Paulina Wr\xF3blewska | Statystyki patronite.pl | Patromierz"
 
 permalink: /paulinawroblewska
 ---

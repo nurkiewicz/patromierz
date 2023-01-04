@@ -1,5 +1,5 @@
 ---
-title: Na bitewnym szlaku | Patromierz
+title: Na bitewnym szlaku | Statystyki patronite.pl | Patromierz
 
 permalink: /nabitewnymszlaku
 ---

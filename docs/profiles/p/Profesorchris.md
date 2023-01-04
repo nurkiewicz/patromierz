@@ -1,5 +1,5 @@
 ---
-title: Profesor Chris | Patromierz
+title: Profesor Chris | Statystyki patronite.pl | Patromierz
 
 permalink: /Profesorchris
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kajakiem Tu i Tam | Patromierz
+title: Kajakiem Tu i Tam | Statystyki patronite.pl | Patromierz
 
 permalink: /Kajakiem_Tu_i_Tam
 ---

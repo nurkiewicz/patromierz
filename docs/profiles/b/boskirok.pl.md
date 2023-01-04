@@ -1,5 +1,5 @@
 ---
-title: BOSKI rok | Patromierz
+title: BOSKI rok | Statystyki patronite.pl | Patromierz
 
 permalink: /boskirok.pl
 ---

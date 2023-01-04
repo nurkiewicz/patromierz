@@ -1,5 +1,5 @@
 ---
-title: "S\u0142u\u017Cby w akcji | Patromierz"
+title: "S\u0142u\u017Cby w akcji | Statystyki patronite.pl | Patromierz"
 
 permalink: /sluzbywakcji
 ---

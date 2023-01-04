@@ -1,5 +1,5 @@
 ---
-title: "Przedszkole Male\u0144ka Kraina | Patromierz"
+title: "Przedszkole Male\u0144ka Kraina | Statystyki patronite.pl | Patromierz"
 
 permalink: /malenkakraina
 ---

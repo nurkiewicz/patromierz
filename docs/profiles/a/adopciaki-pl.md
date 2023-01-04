@@ -1,5 +1,6 @@
 ---
-title: "Adopciaki.pl - adopcje z dom\xF3w tymczasowych | Patromierz"
+title: "Adopciaki.pl - adopcje z dom\xF3w tymczasowych | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /adopciaki-pl
 ---

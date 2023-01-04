@@ -1,5 +1,5 @@
 ---
-title: ZSNG - Za starzy na gry | Patromierz
+title: ZSNG - Za starzy na gry | Statystyki patronite.pl | Patromierz
 
 permalink: /grynieznane
 ---

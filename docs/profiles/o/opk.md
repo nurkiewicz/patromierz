@@ -1,5 +1,5 @@
 ---
-title: Otwarty Przewodnik Krajoznawczy | Patromierz
+title: Otwarty Przewodnik Krajoznawczy | Statystyki patronite.pl | Patromierz
 
 permalink: /opk
 ---

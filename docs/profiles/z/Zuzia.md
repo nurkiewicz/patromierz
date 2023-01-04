@@ -1,5 +1,5 @@
 ---
-title: Zuzanna Pawlikowska | Patromierz
+title: Zuzanna Pawlikowska | Statystyki patronite.pl | Patromierz
 
 permalink: /Zuzia
 ---

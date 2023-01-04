@@ -1,5 +1,6 @@
 ---
-title: "Polsko Ameryka\u0144ska Fundacja Edukacji i Rozwoju Ekonomicznego | Patromierz"
+title: "Polsko Ameryka\u0144ska Fundacja Edukacji i Rozwoju Ekonomicznego | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /pafere
 ---

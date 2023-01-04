@@ -1,5 +1,5 @@
 ---
-title: Instytut Humanites | Patromierz
+title: Instytut Humanites | Statystyki patronite.pl | Patromierz
 
 permalink: /www.humanites.pl
 ---

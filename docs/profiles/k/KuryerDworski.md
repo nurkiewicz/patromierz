@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Raducha | Patromierz
+title: Krzysztof Raducha | Statystyki patronite.pl | Patromierz
 
 permalink: /KuryerDworski
 ---

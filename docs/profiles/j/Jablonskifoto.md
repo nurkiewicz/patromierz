@@ -1,5 +1,5 @@
 ---
-title: "Jab\u0142o\u0144ski Photography  | Patromierz"
+title: "Jab\u0142o\u0144ski Photography  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Jablonskifoto
 ---

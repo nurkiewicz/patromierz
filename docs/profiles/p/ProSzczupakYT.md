@@ -1,5 +1,5 @@
 ---
-title: Pro Szczupak | Patromierz
+title: Pro Szczupak | Statystyki patronite.pl | Patromierz
 
 permalink: /ProSzczupakYT
 ---

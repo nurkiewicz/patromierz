@@ -1,5 +1,5 @@
 ---
-title: Reset Obywatelski | Patromierz
+title: Reset Obywatelski | Statystyki patronite.pl | Patromierz
 
 permalink: /resetobywatelski
 ---

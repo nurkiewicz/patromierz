@@ -1,5 +1,5 @@
 ---
-title: Nurse Plug | Patromierz
+title: Nurse Plug | Statystyki patronite.pl | Patromierz
 
 permalink: /NursePlug
 ---

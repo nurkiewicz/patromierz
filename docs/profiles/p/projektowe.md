@@ -1,5 +1,5 @@
 ---
-title: "Karol Stefa\u0144ski | Patromierz"
+title: "Karol Stefa\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /projektowe
 ---

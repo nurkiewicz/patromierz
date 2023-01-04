@@ -1,5 +1,5 @@
 ---
-title: "Whisky z Col\u0105 | Patromierz"
+title: "Whisky z Col\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /whiskyzcola
 ---

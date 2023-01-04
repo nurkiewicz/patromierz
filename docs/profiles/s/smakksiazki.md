@@ -1,5 +1,5 @@
 ---
-title: smakksiazki.pl | Patromierz
+title: smakksiazki.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /smakksiazki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Rejent i Szumowski w domu na streamie | Patromierz
+title: Rejent i Szumowski w domu na streamie | Statystyki patronite.pl | Patromierz
 
 permalink: /rejentiszumowski
 ---

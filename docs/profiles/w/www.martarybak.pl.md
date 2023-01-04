@@ -1,5 +1,5 @@
 ---
-title: Marta Rybak Juszczyszyn | Patromierz
+title: Marta Rybak Juszczyszyn | Statystyki patronite.pl | Patromierz
 
 permalink: /www.martarybak.pl
 ---

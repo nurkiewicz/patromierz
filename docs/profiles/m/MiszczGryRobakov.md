@@ -1,5 +1,5 @@
 ---
-title: Miszcz Gry Robakov | Patromierz
+title: Miszcz Gry Robakov | Statystyki patronite.pl | Patromierz
 
 permalink: /MiszczGryRobakov
 ---

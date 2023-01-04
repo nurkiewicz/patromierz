@@ -1,5 +1,5 @@
 ---
-title: "Zaczarowany Ogr\xF3d | Patromierz"
+title: "Zaczarowany Ogr\xF3d | Statystyki patronite.pl | Patromierz"
 
 permalink: /zaczarowanyogrod
 ---

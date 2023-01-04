@@ -1,5 +1,5 @@
 ---
-title: medievalheritage.eu | Patromierz
+title: medievalheritage.eu | Statystyki patronite.pl | Patromierz
 
 permalink: /medievalheritage
 ---

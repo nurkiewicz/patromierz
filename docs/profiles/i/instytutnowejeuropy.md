@@ -1,5 +1,5 @@
 ---
-title: Instytut Nowej Europy | Patromierz
+title: Instytut Nowej Europy | Statystyki patronite.pl | Patromierz
 
 permalink: /instytutnowejeuropy
 ---

@@ -1,5 +1,5 @@
 ---
-title: Na Styku Sieci | Patromierz
+title: Na Styku Sieci | Statystyki patronite.pl | Patromierz
 
 permalink: /nastykusieci
 ---

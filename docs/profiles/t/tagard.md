@@ -1,5 +1,5 @@
 ---
-title: Tagard | Patromierz
+title: Tagard | Statystyki patronite.pl | Patromierz
 
 permalink: /tagard
 ---

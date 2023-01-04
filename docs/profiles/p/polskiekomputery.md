@@ -1,5 +1,5 @@
 ---
-title: Polskie Komputery | Patromierz
+title: Polskie Komputery | Statystyki patronite.pl | Patromierz
 
 permalink: /polskiekomputery
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Endopolki | Patromierz
+title: Fundacja Endopolki | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjaendopolki
 ---

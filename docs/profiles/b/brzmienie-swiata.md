@@ -1,5 +1,5 @@
 ---
-title: "Brzmienie \u015Awiata z lotu Drozda | Patromierz"
+title: "Brzmienie \u015Awiata z lotu Drozda | Statystyki patronite.pl | Patromierz"
 
 permalink: /brzmienie-swiata
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie CHOD\u0179MY NA ROWER | Patromierz"
+title: "Stowarzyszenie CHOD\u0179MY NA ROWER | Statystyki patronite.pl | Patromierz"
 
 permalink: /stowarzyszenie-cnr
 ---

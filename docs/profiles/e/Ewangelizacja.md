@@ -1,5 +1,5 @@
 ---
-title: Karolina Wiktoria Hora Projekt Kobiety | Patromierz
+title: Karolina Wiktoria Hora Projekt Kobiety | Statystyki patronite.pl | Patromierz
 
 permalink: /Ewangelizacja
 ---

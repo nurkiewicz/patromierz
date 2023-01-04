@@ -1,5 +1,5 @@
 ---
-title: Eliza Michalik | Patromierz
+title: Eliza Michalik | Statystyki patronite.pl | Patromierz
 
 permalink: /elizamichalik
 ---

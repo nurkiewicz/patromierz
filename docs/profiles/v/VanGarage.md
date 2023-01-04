@@ -1,5 +1,5 @@
 ---
-title: VanGarage | Patromierz
+title: VanGarage | Statystyki patronite.pl | Patromierz
 
 permalink: /VanGarage
 ---

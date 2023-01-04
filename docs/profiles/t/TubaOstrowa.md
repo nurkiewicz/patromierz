@@ -1,5 +1,5 @@
 ---
-title: Tuba Ostrowa | Patromierz
+title: Tuba Ostrowa | Statystyki patronite.pl | Patromierz
 
 permalink: /TubaOstrowa
 ---

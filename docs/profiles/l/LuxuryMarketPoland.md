@@ -1,5 +1,5 @@
 ---
-title: Luxury Market Poland  | Patromierz
+title: Luxury Market Poland  | Statystyki patronite.pl | Patromierz
 
 permalink: /LuxuryMarketPoland
 ---

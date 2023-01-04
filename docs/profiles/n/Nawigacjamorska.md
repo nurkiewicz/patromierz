@@ -1,5 +1,5 @@
 ---
-title: Nawigacjamorska | Patromierz
+title: Nawigacjamorska | Statystyki patronite.pl | Patromierz
 
 permalink: /Nawigacjamorska
 ---

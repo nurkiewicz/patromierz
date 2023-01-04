@@ -1,5 +1,5 @@
 ---
-title: Nad Zwierzakiem | Patromierz
+title: Nad Zwierzakiem | Statystyki patronite.pl | Patromierz
 
 permalink: /nadzwierzakiem
 ---

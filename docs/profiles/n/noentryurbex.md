@@ -1,5 +1,5 @@
 ---
-title: No Entry Urbex | Patromierz
+title: No Entry Urbex | Statystyki patronite.pl | Patromierz
 
 permalink: /noentryurbex
 ---

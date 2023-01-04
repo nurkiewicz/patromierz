@@ -1,5 +1,6 @@
 ---
-title: "Przemys\u0142aw Stupnowicz Z nogami w chmurach | Patromierz"
+title: "Przemys\u0142aw Stupnowicz Z nogami w chmurach | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /znogamiwchmurach
 ---

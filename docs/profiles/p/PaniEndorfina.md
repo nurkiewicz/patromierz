@@ -1,5 +1,5 @@
 ---
-title: Pani Endorfina | Patromierz
+title: Pani Endorfina | Statystyki patronite.pl | Patromierz
 
 permalink: /PaniEndorfina
 ---

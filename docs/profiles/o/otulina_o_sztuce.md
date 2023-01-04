@@ -1,5 +1,5 @@
 ---
-title: Otulina o sztuce | Patromierz
+title: Otulina o sztuce | Statystyki patronite.pl | Patromierz
 
 permalink: /otulina_o_sztuce
 ---

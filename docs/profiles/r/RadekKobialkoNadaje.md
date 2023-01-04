@@ -1,5 +1,5 @@
 ---
-title: "Radek Kobia\u0142ko Nadaje | Patromierz"
+title: "Radek Kobia\u0142ko Nadaje | Statystyki patronite.pl | Patromierz"
 
 permalink: /RadekKobialkoNadaje
 ---

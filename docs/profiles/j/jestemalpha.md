@@ -1,5 +1,5 @@
 ---
-title: jestemAlpha. | Patromierz
+title: jestemAlpha. | Statystyki patronite.pl | Patromierz
 
 permalink: /jestemalpha
 ---

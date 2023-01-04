@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Stukot | Patromierz
+title: Stowarzyszenie Stukot | Statystyki patronite.pl | Patromierz
 
 permalink: /stowarzyszenie-stukot
 ---

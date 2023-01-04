@@ -1,5 +1,5 @@
 ---
-title: Patryk Kotlewski | Patromierz
+title: Patryk Kotlewski | Statystyki patronite.pl | Patromierz
 
 permalink: /PaprykoweFilmy
 ---

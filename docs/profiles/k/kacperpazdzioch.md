@@ -1,5 +1,5 @@
 ---
-title: "Kacper  Pa\u017Adzioch  | Patromierz"
+title: "Kacper  Pa\u017Adzioch  | Statystyki patronite.pl | Patromierz"
 
 permalink: /kacperpazdzioch
 ---

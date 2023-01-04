@@ -1,5 +1,5 @@
 ---
-title: Strefa Czytacza | Patromierz
+title: Strefa Czytacza | Statystyki patronite.pl | Patromierz
 
 permalink: /strefaczytacza
 ---

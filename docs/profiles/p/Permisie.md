@@ -1,5 +1,5 @@
 ---
-title: "Wojciech G\xF3rny Permisie.pl | Patromierz"
+title: "Wojciech G\xF3rny Permisie.pl | Statystyki patronite.pl | Patromierz"
 
 permalink: /Permisie
 ---

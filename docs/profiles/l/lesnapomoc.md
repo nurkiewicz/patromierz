@@ -1,5 +1,6 @@
 ---
-title: "O\u015Brodek Rehabilitacji Dzikich Zwierz\u0105t | Patromierz"
+title: "O\u015Brodek Rehabilitacji Dzikich Zwierz\u0105t | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /lesnapomoc
 ---

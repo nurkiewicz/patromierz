@@ -1,5 +1,5 @@
 ---
-title: Wolfie Black | Patromierz
+title: Wolfie Black | Statystyki patronite.pl | Patromierz
 
 permalink: /WolfieBlack
 ---

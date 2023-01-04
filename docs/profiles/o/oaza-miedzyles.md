@@ -1,5 +1,5 @@
 ---
-title: "Oaza \u201EMi\u0119dzyle\u015B\u201D  | Patromierz"
+title: "Oaza \u201EMi\u0119dzyle\u015B\u201D  | Statystyki patronite.pl | Patromierz"
 
 permalink: /oaza-miedzyles
 ---

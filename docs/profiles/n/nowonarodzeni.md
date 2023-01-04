@@ -1,5 +1,5 @@
 ---
-title: "Zesp\xF3\u0142 Nowonarodzeni | Patromierz"
+title: "Zesp\xF3\u0142 Nowonarodzeni | Statystyki patronite.pl | Patromierz"
 
 permalink: /nowonarodzeni
 ---

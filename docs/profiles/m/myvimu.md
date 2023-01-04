@@ -1,5 +1,5 @@
 ---
-title: MyViMu - Moje Wirtualne Muzeum | Patromierz
+title: MyViMu - Moje Wirtualne Muzeum | Statystyki patronite.pl | Patromierz
 
 permalink: /myvimu
 ---

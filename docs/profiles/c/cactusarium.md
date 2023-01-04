@@ -1,5 +1,5 @@
 ---
-title: Fundacja Cactusarium | Patromierz
+title: Fundacja Cactusarium | Statystyki patronite.pl | Patromierz
 
 permalink: /cactusarium
 ---

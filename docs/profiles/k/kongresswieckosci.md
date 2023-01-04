@@ -1,5 +1,5 @@
 ---
-title: "Kongres \u015Awiecko\u015Bci | Patromierz"
+title: "Kongres \u015Awiecko\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /kongresswieckosci
 ---

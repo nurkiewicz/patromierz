@@ -1,5 +1,5 @@
 ---
-title: Krzysztof TACZ.pl Taczalski | Patromierz
+title: Krzysztof TACZ.pl Taczalski | Statystyki patronite.pl | Patromierz
 
 permalink: /TACZ
 ---

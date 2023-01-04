@@ -1,5 +1,5 @@
 ---
-title: "Dawid Dro\u017Adzik | Patromierz"
+title: "Dawid Dro\u017Adzik | Statystyki patronite.pl | Patromierz"
 
 permalink: /swiatoperatora
 ---

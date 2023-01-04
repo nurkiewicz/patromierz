@@ -1,5 +1,5 @@
 ---
-title: Fundacja Zapomniane | Patromierz
+title: Fundacja Zapomniane | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjazapomniane
 ---

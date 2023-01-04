@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz  Dro\u017Adzik | Patromierz"
+title: "\u0141ukasz  Dro\u017Adzik | Statystyki patronite.pl | Patromierz"
 
 permalink: /OneMilionPortraits
 ---

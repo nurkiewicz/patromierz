@@ -1,5 +1,5 @@
 ---
-title: Sebastian Wojciechowski | Patromierz
+title: Sebastian Wojciechowski | Statystyki patronite.pl | Patromierz
 
 permalink: /MojKlasyk.pl
 ---

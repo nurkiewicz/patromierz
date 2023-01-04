@@ -1,5 +1,5 @@
 ---
-title: ZavadaHS | Patromierz
+title: ZavadaHS | Statystyki patronite.pl | Patromierz
 
 permalink: /ZavadaHS
 ---

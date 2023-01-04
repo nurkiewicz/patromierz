@@ -1,5 +1,5 @@
 ---
-title: MotoTester | Patromierz
+title: MotoTester | Statystyki patronite.pl | Patromierz
 
 permalink: /MotoTester
 ---

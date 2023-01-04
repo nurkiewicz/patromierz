@@ -1,5 +1,5 @@
 ---
-title: ALAC - Amatorska Liga Assetto Corsa | Patromierz
+title: ALAC - Amatorska Liga Assetto Corsa | Statystyki patronite.pl | Patromierz
 
 permalink: /alacpl
 ---

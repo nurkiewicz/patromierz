@@ -1,5 +1,5 @@
 ---
-title: Road of Adventure | Patromierz
+title: Road of Adventure | Statystyki patronite.pl | Patromierz
 
 permalink: /roadfadventure
 ---

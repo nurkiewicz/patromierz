@@ -1,5 +1,5 @@
 ---
-title: Simek Art | Patromierz
+title: Simek Art | Statystyki patronite.pl | Patromierz
 
 permalink: /simekrysuje
 ---

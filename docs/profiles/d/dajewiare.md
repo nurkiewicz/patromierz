@@ -1,5 +1,5 @@
 ---
-title: "daj\u0119 wiar\u0119 | Patromierz"
+title: "daj\u0119 wiar\u0119 | Statystyki patronite.pl | Patromierz"
 
 permalink: /dajewiare
 ---

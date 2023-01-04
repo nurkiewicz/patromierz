@@ -1,5 +1,5 @@
 ---
-title: Magazyn Szum | Patromierz
+title: Magazyn Szum | Statystyki patronite.pl | Patromierz
 
 permalink: /magazynszum
 ---

@@ -1,5 +1,5 @@
 ---
-title: Damian Reszka - Warcaby.TV | Patromierz
+title: Damian Reszka - Warcaby.TV | Statystyki patronite.pl | Patromierz
 
 permalink: /WarcabyTV
 ---

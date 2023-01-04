@@ -1,5 +1,5 @@
 ---
-title: Podcast "No Nie Gadaj..." | Patromierz
+title: Podcast "No Nie Gadaj..." | Statystyki patronite.pl | Patromierz
 
 permalink: /noniegadaj
 ---

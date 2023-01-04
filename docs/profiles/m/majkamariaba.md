@@ -1,5 +1,5 @@
 ---
-title: Majka Maria Ba | Patromierz
+title: Majka Maria Ba | Statystyki patronite.pl | Patromierz
 
 permalink: /majkamariaba
 ---

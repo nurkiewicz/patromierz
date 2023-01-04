@@ -1,5 +1,5 @@
 ---
-title: Kronika Ludwika | Patromierz
+title: Kronika Ludwika | Statystyki patronite.pl | Patromierz
 
 permalink: /KronikaLudwika
 ---

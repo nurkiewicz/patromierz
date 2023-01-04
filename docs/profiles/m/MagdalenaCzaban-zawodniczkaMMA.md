@@ -1,5 +1,5 @@
 ---
-title: Magdalena Czaban | Patromierz
+title: Magdalena Czaban | Statystyki patronite.pl | Patromierz
 
 permalink: /MagdalenaCzaban-zawodniczkaMMA
 ---

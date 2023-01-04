@@ -1,5 +1,5 @@
 ---
-title: "Witek Kupczy\u0144ski | Patromierz"
+title: "Witek Kupczy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /Witek_Toldzik_Kupczynski
 ---

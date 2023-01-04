@@ -1,5 +1,5 @@
 ---
-title: MrBobru | Patromierz
+title: MrBobru | Statystyki patronite.pl | Patromierz
 
 permalink: /MrBobru
 ---

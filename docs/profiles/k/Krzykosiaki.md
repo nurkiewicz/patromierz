@@ -1,5 +1,5 @@
 ---
-title: Fundacja Krzykosiaki - Psy w Potrzebie | Patromierz
+title: Fundacja Krzykosiaki - Psy w Potrzebie | Statystyki patronite.pl | Patromierz
 
 permalink: /Krzykosiaki
 ---

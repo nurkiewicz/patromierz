@@ -1,5 +1,5 @@
 ---
-title: Smutne synagogi | Patromierz
+title: Smutne synagogi | Statystyki patronite.pl | Patromierz
 
 permalink: /smutne_synagogi
 ---

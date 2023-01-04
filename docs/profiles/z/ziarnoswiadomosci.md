@@ -1,5 +1,5 @@
 ---
-title: "Ziarno \u015Bwiadomo\u015Bci | Patromierz"
+title: "Ziarno \u015Bwiadomo\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /ziarnoswiadomosci
 ---

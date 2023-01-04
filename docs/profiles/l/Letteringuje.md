@@ -1,5 +1,5 @@
 ---
-title: Klub Letteringuje | Patromierz
+title: Klub Letteringuje | Statystyki patronite.pl | Patromierz
 
 permalink: /Letteringuje
 ---

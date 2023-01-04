@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Kuczewski | Patromierz"
+title: "\u0141ukasz Kuczewski | Statystyki patronite.pl | Patromierz"
 
 permalink: /kultowe.stopiatki
 ---

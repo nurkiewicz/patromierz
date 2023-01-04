@@ -1,5 +1,5 @@
 ---
-title: Fundacja Abba Pater | Patromierz
+title: Fundacja Abba Pater | Statystyki patronite.pl | Patromierz
 
 permalink: /abbapater
 ---

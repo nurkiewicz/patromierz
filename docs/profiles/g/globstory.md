@@ -1,5 +1,5 @@
 ---
-title: Globstory  | Patromierz
+title: Globstory  | Statystyki patronite.pl | Patromierz
 
 permalink: /globstory
 ---

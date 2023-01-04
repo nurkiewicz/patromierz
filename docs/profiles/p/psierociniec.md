@@ -1,5 +1,5 @@
 ---
-title: PSIEROCINIEC | Patromierz
+title: PSIEROCINIEC | Statystyki patronite.pl | Patromierz
 
 permalink: /psierociniec
 ---

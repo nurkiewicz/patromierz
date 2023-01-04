@@ -1,5 +1,5 @@
 ---
-title: "Jachtem przez \u015Awiat - SailOceans | Patromierz"
+title: "Jachtem przez \u015Awiat - SailOceans | Statystyki patronite.pl | Patromierz"
 
 permalink: /sailoceans
 ---

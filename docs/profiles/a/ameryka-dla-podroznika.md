@@ -1,5 +1,5 @@
 ---
-title: "Ameryka dla Podr\xF3\u017Anika | Patromierz"
+title: "Ameryka dla Podr\xF3\u017Anika | Statystyki patronite.pl | Patromierz"
 
 permalink: /ameryka-dla-podroznika
 ---

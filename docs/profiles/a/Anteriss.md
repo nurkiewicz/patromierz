@@ -1,5 +1,5 @@
 ---
-title: TheAnteriss | Patromierz
+title: TheAnteriss | Statystyki patronite.pl | Patromierz
 
 permalink: /Anteriss
 ---

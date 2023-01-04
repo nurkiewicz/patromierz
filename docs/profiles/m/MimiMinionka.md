@@ -1,5 +1,5 @@
 ---
-title: FP MimiMinionka - Patryk Kosacki | Patromierz
+title: FP MimiMinionka - Patryk Kosacki | Statystyki patronite.pl | Patromierz
 
 permalink: /MimiMinionka
 ---

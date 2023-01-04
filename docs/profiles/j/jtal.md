@@ -1,5 +1,5 @@
 ---
-title: Just Take a Lesson | Patromierz
+title: Just Take a Lesson | Statystyki patronite.pl | Patromierz
 
 permalink: /jtal
 ---

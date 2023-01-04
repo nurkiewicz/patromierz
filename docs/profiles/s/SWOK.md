@@ -1,5 +1,6 @@
 ---
-title: "S\u0142u\u017Cba Wi\u0119zienna Okiem Klawisza | Patromierz"
+title: "S\u0142u\u017Cba Wi\u0119zienna Okiem Klawisza | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /SWOK
 ---

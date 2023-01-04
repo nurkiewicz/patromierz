@@ -1,5 +1,5 @@
 ---
-title: "Szmaragdowe Pi\xF3ro | Patromierz"
+title: "Szmaragdowe Pi\xF3ro | Statystyki patronite.pl | Patromierz"
 
 permalink: /SzmaragdowePioro
 ---

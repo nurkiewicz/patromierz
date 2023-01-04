@@ -1,5 +1,5 @@
 ---
-title: "Bli\u017Cej Zwierz\u0105t | Patromierz"
+title: "Bli\u017Cej Zwierz\u0105t | Statystyki patronite.pl | Patromierz"
 
 permalink: /blizejzwierzat
 ---

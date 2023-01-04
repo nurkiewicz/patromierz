@@ -1,5 +1,5 @@
 ---
-title: Polfan.pl | Patromierz
+title: Polfan.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /polfan
 ---

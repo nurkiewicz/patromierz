@@ -1,5 +1,5 @@
 ---
-title: Polandscapes | Patromierz
+title: Polandscapes | Statystyki patronite.pl | Patromierz
 
 permalink: /polandscapes
 ---

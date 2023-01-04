@@ -1,5 +1,5 @@
 ---
-title: Fundacja Dignum | Patromierz
+title: Fundacja Dignum | Statystyki patronite.pl | Patromierz
 
 permalink: /Dignum
 ---

@@ -1,5 +1,5 @@
 ---
-title: BKS Bochnia | Patromierz
+title: BKS Bochnia | Statystyki patronite.pl | Patromierz
 
 permalink: /bksbochnia
 ---

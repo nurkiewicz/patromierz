@@ -1,5 +1,5 @@
 ---
-title: "Akt\xF3wka Kultury | Patromierz"
+title: "Akt\xF3wka Kultury | Statystyki patronite.pl | Patromierz"
 
 permalink: /aktowkakultury
 ---

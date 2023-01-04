@@ -1,5 +1,5 @@
 ---
-title: Korespondencja z Londynu  | Patromierz
+title: Korespondencja z Londynu  | Statystyki patronite.pl | Patromierz
 
 permalink: /riennahera
 ---

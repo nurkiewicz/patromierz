@@ -1,5 +1,5 @@
 ---
-title: Motylarnia w Czaplach Wielkich | Patromierz
+title: Motylarnia w Czaplach Wielkich | Statystyki patronite.pl | Patromierz
 
 permalink: /Motylarnia
 ---

@@ -1,5 +1,5 @@
 ---
-title: De Layna | Patromierz
+title: De Layna | Statystyki patronite.pl | Patromierz
 
 permalink: /DeLayna
 ---

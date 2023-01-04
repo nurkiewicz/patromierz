@@ -1,5 +1,5 @@
 ---
-title: "Wsp\xF3lnota RTCK | Patromierz"
+title: "Wsp\xF3lnota RTCK | Statystyki patronite.pl | Patromierz"
 
 permalink: /WspolnotaRTCK
 ---

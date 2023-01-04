@@ -1,5 +1,5 @@
 ---
-title: Anty-Alienator | Patromierz
+title: Anty-Alienator | Statystyki patronite.pl | Patromierz
 
 permalink: /anty-alienator
 ---

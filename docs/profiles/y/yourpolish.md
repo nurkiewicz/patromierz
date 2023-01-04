@@ -1,5 +1,5 @@
 ---
-title: Michalina Furmaniak | Patromierz
+title: Michalina Furmaniak | Statystyki patronite.pl | Patromierz
 
 permalink: /yourpolish
 ---

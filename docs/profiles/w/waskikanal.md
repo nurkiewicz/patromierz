@@ -1,5 +1,5 @@
 ---
-title: "W\u0105ski Kana\u0142 | Patromierz"
+title: "W\u0105ski Kana\u0142 | Statystyki patronite.pl | Patromierz"
 
 permalink: /waskikanal
 ---

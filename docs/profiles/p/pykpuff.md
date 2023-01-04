@@ -1,5 +1,5 @@
 ---
-title: Pyk Puff - fajka tradycyjna | Patromierz
+title: Pyk Puff - fajka tradycyjna | Statystyki patronite.pl | Patromierz
 
 permalink: /pykpuff
 ---

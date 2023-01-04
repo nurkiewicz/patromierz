@@ -1,5 +1,5 @@
 ---
-title: "DOTYKAM \u017BYCIA | Patromierz"
+title: "DOTYKAM \u017BYCIA | Statystyki patronite.pl | Patromierz"
 
 permalink: /Baśniarka
 ---

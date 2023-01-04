@@ -1,5 +1,5 @@
 ---
-title: Dolina Modlitwy | Patromierz
+title: Dolina Modlitwy | Statystyki patronite.pl | Patromierz
 
 permalink: /dolinamodlitwy
 ---

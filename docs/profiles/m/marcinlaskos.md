@@ -1,5 +1,5 @@
 ---
-title: "Marcin Lasko\u015B | Patromierz"
+title: "Marcin Lasko\u015B | Statystyki patronite.pl | Patromierz"
 
 permalink: /marcinlaskos
 ---

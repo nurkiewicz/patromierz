@@ -1,5 +1,5 @@
 ---
-title: Reorient.pl | Patromierz
+title: Reorient.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /Reorient
 ---

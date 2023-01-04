@@ -1,5 +1,5 @@
 ---
-title: SZarpidrut.PL | Patromierz
+title: SZarpidrut.PL | Statystyki patronite.pl | Patromierz
 
 permalink: /SZarpidrutPL
 ---

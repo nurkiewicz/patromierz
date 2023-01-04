@@ -1,5 +1,5 @@
 ---
-title: "Dorota Kozi\u0144ska | Patromierz"
+title: "Dorota Kozi\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /upior-opera
 ---

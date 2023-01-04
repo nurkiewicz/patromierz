@@ -1,5 +1,5 @@
 ---
-title: GUITAR STORIES | Patromierz
+title: GUITAR STORIES | Statystyki patronite.pl | Patromierz
 
 permalink: /guitarstories
 ---

@@ -1,5 +1,5 @@
 ---
-title: Militarium | Patromierz
+title: Militarium | Statystyki patronite.pl | Patromierz
 
 permalink: /militarium.pl
 ---

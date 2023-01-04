@@ -1,5 +1,5 @@
 ---
-title: Podcast Rowerowy | Patromierz
+title: Podcast Rowerowy | Statystyki patronite.pl | Patromierz
 
 permalink: /podcast-rowerowy
 ---

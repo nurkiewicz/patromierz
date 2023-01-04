@@ -1,5 +1,5 @@
 ---
-title: Grafik_MNKY | Patromierz
+title: Grafik_MNKY | Statystyki patronite.pl | Patromierz
 
 permalink: /Grafik.mnky
 ---

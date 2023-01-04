@@ -1,5 +1,5 @@
 ---
-title: Alien ADVlog | Patromierz
+title: Alien ADVlog | Statystyki patronite.pl | Patromierz
 
 permalink: /AlienADVlog
 ---

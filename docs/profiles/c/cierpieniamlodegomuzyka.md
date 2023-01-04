@@ -1,5 +1,5 @@
 ---
-title: "Cierpienia M\u0142odego Muzyka | Patromierz"
+title: "Cierpienia M\u0142odego Muzyka | Statystyki patronite.pl | Patromierz"
 
 permalink: /cierpieniamlodegomuzyka
 ---

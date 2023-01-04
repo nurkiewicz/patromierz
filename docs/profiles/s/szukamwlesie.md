@@ -1,5 +1,5 @@
 ---
-title: "Szukam w lesie - Miko\u0142aj Basi\u0144ski | Patromierz"
+title: "Szukam w lesie - Miko\u0142aj Basi\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /szukamwlesie
 ---

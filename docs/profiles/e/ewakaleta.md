@@ -1,5 +1,5 @@
 ---
-title: Ewa Kaleta | Patromierz
+title: Ewa Kaleta | Statystyki patronite.pl | Patromierz
 
 permalink: /ewakaleta
 ---

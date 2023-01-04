@@ -1,5 +1,5 @@
 ---
-title: Astroserwis | Patromierz
+title: Astroserwis | Statystyki patronite.pl | Patromierz
 
 permalink: /astroserwis
 ---

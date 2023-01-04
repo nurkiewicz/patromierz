@@ -1,5 +1,5 @@
 ---
-title: Misiowi Przyjaciele | Patromierz
+title: Misiowi Przyjaciele | Statystyki patronite.pl | Patromierz
 
 permalink: /MisiowiPrzyjaciele
 ---

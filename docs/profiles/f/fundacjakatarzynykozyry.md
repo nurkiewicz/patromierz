@@ -1,5 +1,5 @@
 ---
-title: Fundacja Katarzyny Kozyry | Patromierz
+title: Fundacja Katarzyny Kozyry | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjakatarzynykozyry
 ---

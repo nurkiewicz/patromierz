@@ -1,5 +1,5 @@
 ---
-title: Zmywak | Patromierz
+title: Zmywak | Statystyki patronite.pl | Patromierz
 
 permalink: /Zmywak
 ---

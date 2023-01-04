@@ -1,5 +1,5 @@
 ---
-title: "NIEBYWA\u0141E | Patromierz"
+title: "NIEBYWA\u0141E | Statystyki patronite.pl | Patromierz"
 
 permalink: /Niebywale
 ---

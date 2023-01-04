@@ -1,5 +1,5 @@
 ---
-title: "Przesz\u0142o\u015B\u0107 od kuchni | Patromierz"
+title: "Przesz\u0142o\u015B\u0107 od kuchni | Statystyki patronite.pl | Patromierz"
 
 permalink: /przeszloscodkuchni
 ---

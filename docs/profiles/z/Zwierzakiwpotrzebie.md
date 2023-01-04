@@ -1,5 +1,5 @@
 ---
-title: Fundacja Zwierzaki w Potrzebie | Patromierz
+title: Fundacja Zwierzaki w Potrzebie | Statystyki patronite.pl | Patromierz
 
 permalink: /Zwierzakiwpotrzebie
 ---

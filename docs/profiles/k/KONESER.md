@@ -1,5 +1,5 @@
 ---
-title: KONESER  | Patromierz
+title: KONESER  | Statystyki patronite.pl | Patromierz
 
 permalink: /KONESER
 ---

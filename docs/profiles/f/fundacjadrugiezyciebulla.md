@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Drugie \u017Bycie Bulla | Patromierz"
+title: "Fundacja Drugie \u017Bycie Bulla | Statystyki patronite.pl | Patromierz"
 
 permalink: /fundacjadrugiezyciebulla
 ---

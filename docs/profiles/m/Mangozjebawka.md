@@ -1,5 +1,5 @@
 ---
-title: Mangozjebawka  | Patromierz
+title: Mangozjebawka  | Statystyki patronite.pl | Patromierz
 
 permalink: /Mangozjebawka
 ---

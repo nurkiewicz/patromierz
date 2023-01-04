@@ -1,5 +1,6 @@
 ---
-title: "JANTAR Elbl\u0105g Standard Formation Team - Formacja JANTAR | Patromierz"
+title: "JANTAR Elbl\u0105g Standard Formation Team - Formacja JANTAR | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /jantar.elblag
 ---

@@ -1,5 +1,5 @@
 ---
-title: Magda i sznurek | Patromierz
+title: Magda i sznurek | Statystyki patronite.pl | Patromierz
 
 permalink: /magdaisznurek
 ---

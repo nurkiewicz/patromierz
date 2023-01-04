@@ -1,5 +1,5 @@
 ---
-title: ' Dla Braci Mniejszych | Patromierz'
+title: ' Dla Braci Mniejszych | Statystyki patronite.pl | Patromierz'
 
 permalink: /braciamniejsi
 ---

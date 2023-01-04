@@ -1,5 +1,5 @@
 ---
-title: "Dom Pe\u0142ni \u017Bycia Gliwice | Patromierz"
+title: "Dom Pe\u0142ni \u017Bycia Gliwice | Statystyki patronite.pl | Patromierz"
 
 permalink: /pelnizycia
 ---

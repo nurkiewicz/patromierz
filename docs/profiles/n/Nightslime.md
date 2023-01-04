@@ -1,5 +1,5 @@
 ---
-title: Nightslime | Patromierz
+title: Nightslime | Statystyki patronite.pl | Patromierz
 
 permalink: /Nightslime
 ---

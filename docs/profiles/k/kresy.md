@@ -1,5 +1,5 @@
 ---
-title: Kresy.pl | Patromierz
+title: Kresy.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /kresy
 ---

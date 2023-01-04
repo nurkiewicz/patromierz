@@ -1,5 +1,6 @@
 ---
-title: "Micha\u0142 Bigoraj - porozmawiajmy i popiszmy o muzyce | Patromierz"
+title: "Micha\u0142 Bigoraj - porozmawiajmy i popiszmy o muzyce | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /michalbigoraj
 ---

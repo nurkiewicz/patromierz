@@ -1,5 +1,5 @@
 ---
-title: Inka | Patromierz
+title: Inka | Statystyki patronite.pl | Patromierz
 
 permalink: /inka.music
 ---

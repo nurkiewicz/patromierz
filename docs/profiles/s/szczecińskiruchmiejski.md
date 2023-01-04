@@ -1,5 +1,5 @@
 ---
-title: "Szczeci\u0144ski Ruch Miejski | Patromierz"
+title: "Szczeci\u0144ski Ruch Miejski | Statystyki patronite.pl | Patromierz"
 
 permalink: /szczecińskiruchmiejski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017C bez Paszportu | Patromierz"
+title: "Podr\xF3\u017C bez Paszportu | Statystyki patronite.pl | Patromierz"
 
 permalink: /podrozbezpaszportu
 ---

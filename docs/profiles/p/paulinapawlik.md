@@ -1,5 +1,5 @@
 ---
-title: Paulina Pawlik | Patromierz
+title: Paulina Pawlik | Statystyki patronite.pl | Patromierz
 
 permalink: /paulinapawlik
 ---

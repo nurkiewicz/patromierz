@@ -1,5 +1,5 @@
 ---
-title: Poza Space | Patromierz
+title: Poza Space | Statystyki patronite.pl | Patromierz
 
 permalink: /pozaspace
 ---

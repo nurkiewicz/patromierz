@@ -1,5 +1,5 @@
 ---
-title: "R\xF3wno_Waga | Patromierz"
+title: "R\xF3wno_Waga | Statystyki patronite.pl | Patromierz"
 
 permalink: /rownowaga
 ---

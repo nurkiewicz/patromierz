@@ -1,5 +1,5 @@
 ---
-title: informatyka EC | Patromierz
+title: informatyka EC | Statystyki patronite.pl | Patromierz
 
 permalink: /informatykaec
 ---

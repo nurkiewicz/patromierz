@@ -1,5 +1,5 @@
 ---
-title: Fundacja Zobacz Jak | Patromierz
+title: Fundacja Zobacz Jak | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja_zobaczjak
 ---

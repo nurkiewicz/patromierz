@@ -1,5 +1,5 @@
 ---
-title: SasanaPL | Patromierz
+title: SasanaPL | Statystyki patronite.pl | Patromierz
 
 permalink: /SasanaPL
 ---

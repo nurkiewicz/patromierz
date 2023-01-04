@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Lewenda | Patromierz"
+title: "\u0141ukasz Lewenda | Statystyki patronite.pl | Patromierz"
 
 permalink: /ŁukaszLewenda
 ---

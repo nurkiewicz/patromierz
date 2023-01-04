@@ -1,5 +1,5 @@
 ---
-title: "Wybieram \u017Cycie! | Patromierz"
+title: "Wybieram \u017Cycie! | Statystyki patronite.pl | Patromierz"
 
 permalink: /wybieram.zycie
 ---

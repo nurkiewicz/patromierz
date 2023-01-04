@@ -1,5 +1,5 @@
 ---
-title: Radio Kuropatwa  | Patromierz
+title: Radio Kuropatwa  | Statystyki patronite.pl | Patromierz
 
 permalink: /radiokuropatwa
 ---

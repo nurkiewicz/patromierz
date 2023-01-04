@@ -1,5 +1,6 @@
 ---
-title: "Fundacja Ma\u0142gosi Braunek \"B\u0105d\u017A\" | Patromierz"
+title: "Fundacja Ma\u0142gosi Braunek \"B\u0105d\u017A\" | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /Badz
 ---

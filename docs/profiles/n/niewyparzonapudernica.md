@@ -1,5 +1,5 @@
 ---
-title: Niewyparzona Pudernica | Patromierz
+title: Niewyparzona Pudernica | Statystyki patronite.pl | Patromierz
 
 permalink: /niewyparzonapudernica
 ---

@@ -1,5 +1,5 @@
 ---
-title: 9kier | Patromierz
+title: 9kier | Statystyki patronite.pl | Patromierz
 
 permalink: /9kier
 ---

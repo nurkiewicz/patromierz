@@ -1,5 +1,5 @@
 ---
-title: SERWIS - Pracownia Galeria | Patromierz
+title: SERWIS - Pracownia Galeria | Statystyki patronite.pl | Patromierz
 
 permalink: /zbior-pusty
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zbrodnie Prowincjonalne | Patromierz
+title: Zbrodnie Prowincjonalne | Statystyki patronite.pl | Patromierz
 
 permalink: /zbrodnie-prowincjonalne
 ---

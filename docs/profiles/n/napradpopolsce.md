@@ -1,5 +1,5 @@
 ---
-title: "Na pr\u0105d po Polsce  | Patromierz"
+title: "Na pr\u0105d po Polsce  | Statystyki patronite.pl | Patromierz"
 
 permalink: /napradpopolsce
 ---

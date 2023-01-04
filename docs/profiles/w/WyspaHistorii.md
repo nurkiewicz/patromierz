@@ -1,5 +1,5 @@
 ---
-title: Wyspa Historii | Patromierz
+title: Wyspa Historii | Statystyki patronite.pl | Patromierz
 
 permalink: /WyspaHistorii
 ---

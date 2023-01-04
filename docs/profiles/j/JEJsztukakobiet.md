@@ -1,5 +1,5 @@
 ---
-title: JEJsztukakobiet | Patromierz
+title: JEJsztukakobiet | Statystyki patronite.pl | Patromierz
 
 permalink: /JEJsztukakobiet
 ---

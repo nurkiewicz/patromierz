@@ -1,5 +1,5 @@
 ---
-title: Kate TruckDriverka | Patromierz
+title: Kate TruckDriverka | Statystyki patronite.pl | Patromierz
 
 permalink: /KateTruckDriverka
 ---

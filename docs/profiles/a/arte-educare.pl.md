@@ -1,5 +1,5 @@
 ---
-title: Arte Educare  | Patromierz
+title: Arte Educare  | Statystyki patronite.pl | Patromierz
 
 permalink: /arte-educare.pl
 ---

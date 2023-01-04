@@ -1,5 +1,5 @@
 ---
-title: "Kt\xF3\u017C jak B\xF3g | Patromierz"
+title: "Kt\xF3\u017C jak B\xF3g | Statystyki patronite.pl | Patromierz"
 
 permalink: /ktozjakbog
 ---

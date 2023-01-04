@@ -1,5 +1,5 @@
 ---
-title: "Przyjaciele 4 \u0141ap | Patromierz"
+title: "Przyjaciele 4 \u0141ap | Statystyki patronite.pl | Patromierz"
 
 permalink: /fp4l
 ---

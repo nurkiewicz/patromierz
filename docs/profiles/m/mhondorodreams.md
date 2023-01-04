@@ -1,5 +1,5 @@
 ---
-title: Mhondoro Dreams | Patromierz
+title: Mhondoro Dreams | Statystyki patronite.pl | Patromierz
 
 permalink: /mhondorodreams
 ---

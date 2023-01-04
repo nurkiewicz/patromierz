@@ -1,5 +1,5 @@
 ---
-title: INTOPASSION.COM | Patromierz
+title: INTOPASSION.COM | Statystyki patronite.pl | Patromierz
 
 permalink: /intopassion
 ---

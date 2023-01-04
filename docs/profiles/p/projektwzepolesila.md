@@ -1,6 +1,6 @@
 ---
 title: "Program W Zespole Si\u0142a, autorski program Stowarzyszenia Mini Basket Academy\
-  \ | Patromierz"
+  \ | Statystyki patronite.pl | Patromierz"
 
 permalink: /projektwzepolesila
 ---

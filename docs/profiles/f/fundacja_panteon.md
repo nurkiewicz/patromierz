@@ -1,5 +1,5 @@
 ---
-title: Fundacja Panteon | Patromierz
+title: Fundacja Panteon | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja_panteon
 ---

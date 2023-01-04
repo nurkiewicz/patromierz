@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Igiel | Patromierz"
+title: "Przemys\u0142aw Igiel | Statystyki patronite.pl | Patromierz"
 
 permalink: /Igielfoto
 ---

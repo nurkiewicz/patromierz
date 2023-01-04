@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Po\u0142udniok | Patromierz"
+title: "Rafa\u0142 Po\u0142udniok | Statystyki patronite.pl | Patromierz"
 
 permalink: /fael
 ---

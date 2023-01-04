@@ -1,5 +1,5 @@
 ---
-title: Fundacja dla Rodziny | Patromierz
+title: Fundacja dla Rodziny | Statystyki patronite.pl | Patromierz
 
 permalink: /dlarodziny
 ---

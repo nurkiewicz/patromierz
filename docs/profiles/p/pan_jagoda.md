@@ -1,5 +1,5 @@
 ---
-title: Pan Jagoda  | Patromierz
+title: Pan Jagoda  | Statystyki patronite.pl | Patromierz
 
 permalink: /pan_jagoda
 ---

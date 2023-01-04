@@ -1,5 +1,5 @@
 ---
-title: Magazyn Kontakt | Patromierz
+title: Magazyn Kontakt | Statystyki patronite.pl | Patromierz
 
 permalink: /magazyn-kontakt
 ---

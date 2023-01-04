@@ -1,5 +1,5 @@
 ---
-title: Venomous Art | Patromierz
+title: Venomous Art | Statystyki patronite.pl | Patromierz
 
 permalink: /VenomousArt
 ---

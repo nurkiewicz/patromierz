@@ -1,5 +1,5 @@
 ---
-title: Piotr Sobota | Patromierz
+title: Piotr Sobota | Statystyki patronite.pl | Patromierz
 
 permalink: /PiotrSobotaMojePolskieRadjo
 ---

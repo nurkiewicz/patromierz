@@ -1,5 +1,5 @@
 ---
-title: Jankowski Norbert | Patromierz
+title: Jankowski Norbert | Statystyki patronite.pl | Patromierz
 
 permalink: /Ping
 ---

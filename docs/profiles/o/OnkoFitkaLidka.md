@@ -1,5 +1,5 @@
 ---
-title: OnkoFitka Lidka | Patromierz
+title: OnkoFitka Lidka | Statystyki patronite.pl | Patromierz
 
 permalink: /OnkoFitkaLidka
 ---

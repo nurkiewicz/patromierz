@@ -1,5 +1,5 @@
 ---
-title: "Daniel Mr\xF3z | Patromierz"
+title: "Daniel Mr\xF3z | Statystyki patronite.pl | Patromierz"
 
 permalink: /blizejlasu
 ---

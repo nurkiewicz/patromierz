@@ -1,5 +1,5 @@
 ---
-title: Agile Adept | Patromierz
+title: Agile Adept | Statystyki patronite.pl | Patromierz
 
 permalink: /agile-adept
 ---

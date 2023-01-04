@@ -1,5 +1,5 @@
 ---
-title: Karczmarz | Patromierz
+title: Karczmarz | Statystyki patronite.pl | Patromierz
 
 permalink: /Karczmarz
 ---

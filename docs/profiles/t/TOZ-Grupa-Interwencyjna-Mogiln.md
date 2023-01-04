@@ -1,5 +1,5 @@
 ---
-title: Grupa Mogilno | Patromierz
+title: Grupa Mogilno | Statystyki patronite.pl | Patromierz
 
 permalink: /TOZ-Grupa-Interwencyjna-Mogiln
 ---

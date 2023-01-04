@@ -1,5 +1,5 @@
 ---
-title: Magna Polonia | Patromierz
+title: Magna Polonia | Statystyki patronite.pl | Patromierz
 
 permalink: /magnapolonia
 ---

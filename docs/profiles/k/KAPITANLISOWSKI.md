@@ -1,5 +1,5 @@
 ---
-title: "KAPITAN LISOWSKI \U0001F1F5\U0001F1F1 | Patromierz"
+title: "KAPITAN LISOWSKI \U0001F1F5\U0001F1F1 | Statystyki patronite.pl | Patromierz"
 
 permalink: /KAPITANLISOWSKI
 ---

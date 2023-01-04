@@ -1,6 +1,6 @@
 ---
 title: "Tomasz Doro\u017Ca\u0142a - S\u0142u\u017Cba Apostolska \"Ogie\u0144 Przebudzenia\"\
-  \ | Patromierz"
+  \ | Statystyki patronite.pl | Patromierz"
 
 permalink: /ogien-przebudzenia
 ---

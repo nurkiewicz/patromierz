@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Piersa | Patromierz
+title: Krzysztof Piersa | Statystyki patronite.pl | Patromierz
 
 permalink: /krzysztof_piersa
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Psalm Na Ka\u017Cdy Dzie\u0144 | Patromierz"
+title: "Psalm Na Ka\u017Cdy Dzie\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /psalmnakazdydzien
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Maria Kobry\u0144 | Patromierz"
+title: "Maria Kobry\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /mecenasodbiznesu
 ---

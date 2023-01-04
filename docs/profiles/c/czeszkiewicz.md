@@ -1,5 +1,5 @@
 ---
-title: Aleksander Czeszkiewicz | Patromierz
+title: Aleksander Czeszkiewicz | Statystyki patronite.pl | Patromierz
 
 permalink: /czeszkiewicz
 ---

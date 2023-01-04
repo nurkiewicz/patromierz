@@ -1,5 +1,5 @@
 ---
-title: Przemyslav | Patromierz
+title: Przemyslav | Statystyki patronite.pl | Patromierz
 
 permalink: /Przemyslav
 ---

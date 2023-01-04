@@ -1,5 +1,5 @@
 ---
-title: "Ewelina G\u0105ciarska | Patromierz"
+title: "Ewelina G\u0105ciarska | Statystyki patronite.pl | Patromierz"
 
 permalink: /naislandii
 ---

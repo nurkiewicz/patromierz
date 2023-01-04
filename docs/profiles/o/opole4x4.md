@@ -1,5 +1,5 @@
 ---
-title: "Jacek W\xF3jcik | Patromierz"
+title: "Jacek W\xF3jcik | Statystyki patronite.pl | Patromierz"
 
 permalink: /opole4x4
 ---

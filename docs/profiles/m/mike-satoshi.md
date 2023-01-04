@@ -1,5 +1,5 @@
 ---
-title: Mike Satoshi | Patromierz
+title: Mike Satoshi | Statystyki patronite.pl | Patromierz
 
 permalink: /mike-satoshi
 ---

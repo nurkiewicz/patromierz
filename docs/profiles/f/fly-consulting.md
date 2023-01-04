@@ -1,5 +1,5 @@
 ---
-title: Fly-Consulting | Patromierz
+title: Fly-Consulting | Statystyki patronite.pl | Patromierz
 
 permalink: /fly-consulting
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Andrzej W\u0142usek - Historia poza horyzont  | Patromierz"
+title: "Andrzej W\u0142usek - Historia poza horyzont  | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /andrzejwlusek
 ---

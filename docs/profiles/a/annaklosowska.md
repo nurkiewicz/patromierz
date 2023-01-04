@@ -1,5 +1,5 @@
 ---
-title: "Anna K\u0142osowska - Odm\u0119ty Absurdu | Patromierz"
+title: "Anna K\u0142osowska - Odm\u0119ty Absurdu | Statystyki patronite.pl | Patromierz"
 
 permalink: /annaklosowska
 ---

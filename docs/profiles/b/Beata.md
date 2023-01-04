@@ -1,5 +1,5 @@
 ---
-title: Beata Niemyjska | Patromierz
+title: Beata Niemyjska | Statystyki patronite.pl | Patromierz
 
 permalink: /Beata
 ---

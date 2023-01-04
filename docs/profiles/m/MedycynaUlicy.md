@@ -1,5 +1,5 @@
 ---
-title: Medycy na Ulicy | Patromierz
+title: Medycy na Ulicy | Statystyki patronite.pl | Patromierz
 
 permalink: /MedycynaUlicy
 ---

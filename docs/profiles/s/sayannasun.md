@@ -1,5 +1,5 @@
 ---
-title: Sayanna Sun | Patromierz
+title: Sayanna Sun | Statystyki patronite.pl | Patromierz
 
 permalink: /sayannasun
 ---

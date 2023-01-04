@@ -1,5 +1,5 @@
 ---
-title: Franc Zalewski | Patromierz
+title: Franc Zalewski | Statystyki patronite.pl | Patromierz
 
 permalink: /drfranc
 ---

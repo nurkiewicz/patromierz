@@ -1,5 +1,5 @@
 ---
-title: Klaudia eM | Patromierz
+title: Klaudia eM | Statystyki patronite.pl | Patromierz
 
 permalink: /Klaudia_eM
 ---

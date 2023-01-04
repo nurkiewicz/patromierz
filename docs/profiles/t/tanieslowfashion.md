@@ -1,5 +1,5 @@
 ---
-title: Tanie Slow Fashion | Patromierz
+title: Tanie Slow Fashion | Statystyki patronite.pl | Patromierz
 
 permalink: /tanieslowfashion
 ---

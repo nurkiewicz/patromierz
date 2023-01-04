@@ -1,5 +1,5 @@
 ---
-title: Metalurgia | Patromierz
+title: Metalurgia | Statystyki patronite.pl | Patromierz
 
 permalink: /metalurgia
 ---

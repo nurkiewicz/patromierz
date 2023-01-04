@@ -1,5 +1,5 @@
 ---
-title: Tomek Konca - Radio Koncao | Patromierz
+title: Tomek Konca - Radio Koncao | Statystyki patronite.pl | Patromierz
 
 permalink: /RadioKoncao
 ---

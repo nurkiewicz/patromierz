@@ -1,5 +1,5 @@
 ---
-title: "Anna Tess Go\u0142\u0119biowska | Patromierz"
+title: "Anna Tess Go\u0142\u0119biowska | Statystyki patronite.pl | Patromierz"
 
 permalink: /AnnaTess
 ---

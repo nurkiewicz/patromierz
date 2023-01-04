@@ -1,5 +1,5 @@
 ---
-title: Mateusz Chrobok | Patromierz
+title: Mateusz Chrobok | Statystyki patronite.pl | Patromierz
 
 permalink: /MateuszChrobok
 ---

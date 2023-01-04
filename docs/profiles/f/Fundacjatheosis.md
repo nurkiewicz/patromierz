@@ -1,5 +1,5 @@
 ---
-title: Fundacja Theosis | Patromierz
+title: Fundacja Theosis | Statystyki patronite.pl | Patromierz
 
 permalink: /Fundacjatheosis
 ---

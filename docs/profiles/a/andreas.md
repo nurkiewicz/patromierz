@@ -1,5 +1,5 @@
 ---
-title: Andrzej Bazgier | Patromierz
+title: Andrzej Bazgier | Statystyki patronite.pl | Patromierz
 
 permalink: /andreas
 ---

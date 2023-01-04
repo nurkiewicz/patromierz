@@ -1,5 +1,5 @@
 ---
-title: Eurowizja.org | Patromierz
+title: Eurowizja.org | Statystyki patronite.pl | Patromierz
 
 permalink: /eurowizja.org
 ---

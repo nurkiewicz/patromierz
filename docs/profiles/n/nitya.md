@@ -1,5 +1,5 @@
 ---
-title: Nitya Patrycja Pruchnik | Patromierz
+title: Nitya Patrycja Pruchnik | Statystyki patronite.pl | Patromierz
 
 permalink: /nitya
 ---

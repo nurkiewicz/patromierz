@@ -1,5 +1,5 @@
 ---
-title: Puls Lewantu | Patromierz
+title: Puls Lewantu | Statystyki patronite.pl | Patromierz
 
 permalink: /PulsLewantu
 ---

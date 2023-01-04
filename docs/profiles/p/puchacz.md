@@ -1,5 +1,5 @@
 ---
-title: puchacz | Patromierz
+title: puchacz | Statystyki patronite.pl | Patromierz
 
 permalink: /puchacz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Pyndalarz | Patromierz
+title: Pyndalarz | Statystyki patronite.pl | Patromierz
 
 permalink: /Pyndalarz
 ---

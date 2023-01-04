@@ -1,5 +1,5 @@
 ---
-title: PlayStation Tech | Patromierz
+title: PlayStation Tech | Statystyki patronite.pl | Patromierz
 
 permalink: /PlayStationTech
 ---

@@ -1,5 +1,5 @@
 ---
-title: SKRAWKI | Patromierz
+title: SKRAWKI | Statystyki patronite.pl | Patromierz
 
 permalink: /skrawki
 ---

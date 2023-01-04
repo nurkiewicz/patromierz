@@ -1,5 +1,5 @@
 ---
-title: dostawczakiem.pl | Patromierz
+title: dostawczakiem.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /dostawczakiempl
 ---

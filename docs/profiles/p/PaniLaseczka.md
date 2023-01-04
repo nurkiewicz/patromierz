@@ -1,5 +1,6 @@
 ---
-title: "Pani Laseczka - niesamowite materia\u0142y dla Senior\xF3w | Patromierz"
+title: "Pani Laseczka - niesamowite materia\u0142y dla Senior\xF3w | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /PaniLaseczka
 ---

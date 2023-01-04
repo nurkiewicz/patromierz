@@ -1,5 +1,6 @@
 ---
-title: "Stowarzyszenie Tr\xF3jmiejskie \u015Acie\u017Cki MTB | Patromierz"
+title: "Stowarzyszenie Tr\xF3jmiejskie \u015Acie\u017Cki MTB | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /TSMTB
 ---

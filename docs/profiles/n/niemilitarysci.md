@@ -1,5 +1,5 @@
 ---
-title: Niemilitarysci | Patromierz
+title: Niemilitarysci | Statystyki patronite.pl | Patromierz
 
 permalink: /niemilitarysci
 ---

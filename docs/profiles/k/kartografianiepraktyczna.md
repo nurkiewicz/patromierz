@@ -1,5 +1,5 @@
 ---
-title: Kartografia Niepraktyczna | Patromierz
+title: Kartografia Niepraktyczna | Statystyki patronite.pl | Patromierz
 
 permalink: /kartografianiepraktyczna
 ---

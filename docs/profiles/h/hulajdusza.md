@@ -1,5 +1,5 @@
 ---
-title: Hulaj Dusza | Patromierz
+title: Hulaj Dusza | Statystyki patronite.pl | Patromierz
 
 permalink: /hulajdusza
 ---

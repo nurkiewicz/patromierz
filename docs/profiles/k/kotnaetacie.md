@@ -1,5 +1,5 @@
 ---
-title: Kot na Etacie | Patromierz
+title: Kot na Etacie | Statystyki patronite.pl | Patromierz
 
 permalink: /kotnaetacie
 ---

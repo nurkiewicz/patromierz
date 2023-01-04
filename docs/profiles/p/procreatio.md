@@ -1,5 +1,5 @@
 ---
-title: ProCreatio | Patromierz
+title: ProCreatio | Statystyki patronite.pl | Patromierz
 
 permalink: /procreatio
 ---

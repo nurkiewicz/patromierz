@@ -1,5 +1,5 @@
 ---
-title: 3D Studio by Buser | Patromierz
+title: 3D Studio by Buser | Statystyki patronite.pl | Patromierz
 
 permalink: /3DStudioByBUSER
 ---

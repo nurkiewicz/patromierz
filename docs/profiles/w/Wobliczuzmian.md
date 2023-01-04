@@ -1,5 +1,5 @@
 ---
-title: W Obliczu Zmian | Patromierz
+title: W Obliczu Zmian | Statystyki patronite.pl | Patromierz
 
 permalink: /Wobliczuzmian
 ---

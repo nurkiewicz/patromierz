@@ -1,5 +1,5 @@
 ---
-title: Sonary i mapy | Patromierz
+title: Sonary i mapy | Statystyki patronite.pl | Patromierz
 
 permalink: /sonaryimapy
 ---

@@ -1,5 +1,5 @@
 ---
-title: GrapplerINFO | Patromierz
+title: GrapplerINFO | Statystyki patronite.pl | Patromierz
 
 permalink: /GrapplerINFO
 ---

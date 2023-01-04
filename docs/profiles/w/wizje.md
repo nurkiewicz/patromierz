@@ -1,5 +1,5 @@
 ---
-title: Magazyn Wizje | Patromierz
+title: Magazyn Wizje | Statystyki patronite.pl | Patromierz
 
 permalink: /wizje
 ---

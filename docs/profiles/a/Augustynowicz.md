@@ -1,5 +1,5 @@
 ---
-title: Magdalena Augustynowicz | Patromierz
+title: Magdalena Augustynowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /Augustynowicz
 ---

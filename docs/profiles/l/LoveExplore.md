@@ -1,5 +1,5 @@
 ---
-title: Love Explore | Patromierz
+title: Love Explore | Statystyki patronite.pl | Patromierz
 
 permalink: /LoveExplore
 ---

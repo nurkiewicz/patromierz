@@ -1,5 +1,5 @@
 ---
-title: "Mod\xE9_\u015Al\u014Dn\u014Fki | Patromierz"
+title: "Mod\xE9_\u015Al\u014Dn\u014Fki | Statystyki patronite.pl | Patromierz"
 
 permalink: /modeslonzoki
 ---

@@ -1,5 +1,5 @@
 ---
-title: "To wszystko wina elf\xF3w | Patromierz"
+title: "To wszystko wina elf\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /WinaElfow
 ---

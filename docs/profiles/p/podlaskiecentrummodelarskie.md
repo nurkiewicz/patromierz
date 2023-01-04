@@ -1,5 +1,5 @@
 ---
-title: Podlaskie Centrum Modelarskie | Patromierz
+title: Podlaskie Centrum Modelarskie | Statystyki patronite.pl | Patromierz
 
 permalink: /podlaskiecentrummodelarskie
 ---

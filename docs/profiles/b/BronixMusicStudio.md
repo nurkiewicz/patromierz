@@ -1,5 +1,5 @@
 ---
-title: Bronix Music Studio | Patromierz
+title: Bronix Music Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /BronixMusicStudio
 ---

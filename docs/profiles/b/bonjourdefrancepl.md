@@ -1,5 +1,6 @@
 ---
-title: "J\u0119zyk Francuski dla Polak\xF3w - bonjourdefrance.pl | Patromierz"
+title: "J\u0119zyk Francuski dla Polak\xF3w - bonjourdefrance.pl | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /bonjourdefrancepl
 ---

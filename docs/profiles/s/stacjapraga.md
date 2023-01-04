@@ -1,5 +1,5 @@
 ---
-title: STACJA PRAGA  | Patromierz
+title: STACJA PRAGA  | Statystyki patronite.pl | Patromierz
 
 permalink: /stacjapraga
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fausystem | Patromierz
+title: Fausystem | Statystyki patronite.pl | Patromierz
 
 permalink: /Fausystem
 ---

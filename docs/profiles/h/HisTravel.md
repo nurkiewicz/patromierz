@@ -1,5 +1,6 @@
 ---
-title: "Historian's Journeys - blog podr\xF3\u017Cniczy  | Patromierz"
+title: "Historian's Journeys - blog podr\xF3\u017Cniczy  | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /HisTravel
 ---

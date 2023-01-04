@@ -1,5 +1,5 @@
 ---
-title: naOSTROinfo  | Patromierz
+title: naOSTROinfo  | Statystyki patronite.pl | Patromierz
 
 permalink: /naostroinfo
 ---

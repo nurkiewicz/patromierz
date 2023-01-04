@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a PitagoLasa | Patromierz"
+title: "Szko\u0142a PitagoLasa | Statystyki patronite.pl | Patromierz"
 
 permalink: /SzkolaPitagoLasa
 ---

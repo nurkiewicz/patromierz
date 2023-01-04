@@ -1,5 +1,5 @@
 ---
-title: "Nienawi\u015B\u0107.pl | Patromierz"
+title: "Nienawi\u015B\u0107.pl | Statystyki patronite.pl | Patromierz"
 
 permalink: /nienawiscpl
 ---

@@ -1,5 +1,6 @@
 ---
-title: "\U0001F68C EwangeliBus \U0001F68C      Ks. \u0141ukasz Plata  | Patromierz"
+title: "\U0001F68C EwangeliBus \U0001F68C      Ks. \u0141ukasz Plata  | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /EwangeliBus
 ---

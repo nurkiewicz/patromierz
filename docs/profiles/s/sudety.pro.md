@@ -1,5 +1,5 @@
 ---
-title: Sudety.pro | Patromierz
+title: Sudety.pro | Statystyki patronite.pl | Patromierz
 
 permalink: /sudety.pro
 ---

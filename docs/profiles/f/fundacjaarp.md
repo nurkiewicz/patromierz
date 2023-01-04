@@ -1,5 +1,5 @@
 ---
-title: Fundacja Animal Rescue Poland | Patromierz
+title: Fundacja Animal Rescue Poland | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjaarp
 ---

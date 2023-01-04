@@ -1,5 +1,6 @@
 ---
-title: "14 wdech\xF3w na minut\u0119 - \u0141ukasz Kraso\u0144 | Patromierz"
+title: "14 wdech\xF3w na minut\u0119 - \u0141ukasz Kraso\u0144 | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /14wdechownaminute
 ---

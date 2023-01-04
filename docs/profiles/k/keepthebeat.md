@@ -1,5 +1,5 @@
 ---
-title: keepthebeat | Patromierz
+title: keepthebeat | Statystyki patronite.pl | Patromierz
 
 permalink: /keepthebeat
 ---

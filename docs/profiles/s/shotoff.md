@@ -1,5 +1,5 @@
 ---
-title: SHOT OFF | Patromierz
+title: SHOT OFF | Statystyki patronite.pl | Patromierz
 
 permalink: /shotoff
 ---

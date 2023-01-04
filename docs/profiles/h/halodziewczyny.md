@@ -1,5 +1,5 @@
 ---
-title: Halo, Dziewczyny! | Patromierz
+title: Halo, Dziewczyny! | Statystyki patronite.pl | Patromierz
 
 permalink: /halodziewczyny
 ---

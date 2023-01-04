@@ -1,5 +1,5 @@
 ---
-title: "Szewczyk Travel (Natalia i \u0141ukasz) | Patromierz"
+title: "Szewczyk Travel (Natalia i \u0141ukasz) | Statystyki patronite.pl | Patromierz"
 
 permalink: /lukaszszewczyk
 ---

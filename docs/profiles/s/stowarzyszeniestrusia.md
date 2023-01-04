@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie im. J\xF3zefa Strusia  | Patromierz"
+title: "Stowarzyszenie im. J\xF3zefa Strusia  | Statystyki patronite.pl | Patromierz"
 
 permalink: /stowarzyszeniestrusia
 ---

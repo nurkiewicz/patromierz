@@ -1,5 +1,5 @@
 ---
-title: Adrian Nojek | Patromierz
+title: Adrian Nojek | Statystyki patronite.pl | Patromierz
 
 permalink: /nojekfotograf
 ---

@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Kulik | Patromierz
+title: Grzegorz Kulik | Statystyki patronite.pl | Patromierz
 
 permalink: /grzegorzkulik
 ---

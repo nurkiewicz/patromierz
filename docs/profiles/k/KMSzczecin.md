@@ -1,5 +1,5 @@
 ---
-title: KMSzczecin | Patromierz
+title: KMSzczecin | Statystyki patronite.pl | Patromierz
 
 permalink: /KMSzczecin
 ---

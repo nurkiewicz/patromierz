@@ -1,5 +1,5 @@
 ---
-title: Harmony Art | Patromierz
+title: Harmony Art | Statystyki patronite.pl | Patromierz
 
 permalink: /HarmonyArt
 ---

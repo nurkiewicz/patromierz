@@ -1,5 +1,5 @@
 ---
-title: "Kamila Su\u0142ek | Patromierz"
+title: "Kamila Su\u0142ek | Statystyki patronite.pl | Patromierz"
 
 permalink: /domwszczerympolu
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Napisa\u0107 Wsch\xF3d | Patromierz"
+title: "Napisa\u0107 Wsch\xF3d | Statystyki patronite.pl | Patromierz"
 
 permalink: /napisacwschod
 ---

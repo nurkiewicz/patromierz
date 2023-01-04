@@ -1,5 +1,5 @@
 ---
-title: Tomasz Siembida | Patromierz
+title: Tomasz Siembida | Statystyki patronite.pl | Patromierz
 
 permalink: /OKIEM-PILOTA
 ---

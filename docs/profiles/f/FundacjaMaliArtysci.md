@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Mali Arty\u015Bci | Patromierz"
+title: "Fundacja Mali Arty\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /FundacjaMaliArtysci
 ---

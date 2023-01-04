@@ -1,5 +1,5 @@
 ---
-title: synopsa.pl | Patromierz
+title: synopsa.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /synopsa
 ---

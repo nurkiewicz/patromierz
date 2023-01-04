@@ -1,5 +1,5 @@
 ---
-title: Historia Nieoczywista | Patromierz
+title: Historia Nieoczywista | Statystyki patronite.pl | Patromierz
 
 permalink: /historian
 ---

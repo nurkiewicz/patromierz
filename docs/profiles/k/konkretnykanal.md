@@ -1,5 +1,5 @@
 ---
-title: "Konkretny Kana\u0142 | Patromierz"
+title: "Konkretny Kana\u0142 | Statystyki patronite.pl | Patromierz"
 
 permalink: /konkretnykanal
 ---

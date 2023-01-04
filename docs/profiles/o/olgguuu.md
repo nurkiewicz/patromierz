@@ -1,5 +1,5 @@
 ---
-title: Olga Guz | Patromierz
+title: Olga Guz | Statystyki patronite.pl | Patromierz
 
 permalink: /olgguuu
 ---

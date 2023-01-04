@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a Strzelania | Patromierz"
+title: "Szko\u0142a Strzelania | Statystyki patronite.pl | Patromierz"
 
 permalink: /szkola-strzelania
 ---

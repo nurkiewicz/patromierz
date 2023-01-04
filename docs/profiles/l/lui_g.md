@@ -1,5 +1,5 @@
 ---
-title: Lui_G | Patromierz
+title: Lui_G | Statystyki patronite.pl | Patromierz
 
 permalink: /lui_g
 ---

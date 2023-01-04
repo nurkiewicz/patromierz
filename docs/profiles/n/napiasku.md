@@ -1,5 +1,5 @@
 ---
-title: Na Piasku | Patromierz
+title: Na Piasku | Statystyki patronite.pl | Patromierz
 
 permalink: /napiasku
 ---

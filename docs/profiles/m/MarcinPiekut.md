@@ -1,5 +1,5 @@
 ---
-title: Marcin Piekut | Patromierz
+title: Marcin Piekut | Statystyki patronite.pl | Patromierz
 
 permalink: /MarcinPiekut
 ---

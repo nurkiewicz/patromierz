@@ -1,5 +1,5 @@
 ---
-title: Kreatura Podcast | Patromierz
+title: Kreatura Podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /kreatura
 ---

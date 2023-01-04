@@ -1,5 +1,5 @@
 ---
-title: "Krzysztof J\u0119drzejczyk | Patromierz"
+title: "Krzysztof J\u0119drzejczyk | Statystyki patronite.pl | Patromierz"
 
 permalink: /ColorfulCyclist
 ---

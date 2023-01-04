@@ -1,5 +1,5 @@
 ---
-title: Radykalny symetryzm | Patromierz
+title: Radykalny symetryzm | Statystyki patronite.pl | Patromierz
 
 permalink: /radykalnysymetryzm
 ---

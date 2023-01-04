@@ -1,5 +1,5 @@
 ---
-title: Fundacja Pomost | Patromierz
+title: Fundacja Pomost | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjapomost
 ---

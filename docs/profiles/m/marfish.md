@@ -1,5 +1,5 @@
 ---
-title: Marek Malman | Patromierz
+title: Marek Malman | Statystyki patronite.pl | Patromierz
 
 permalink: /marfish
 ---

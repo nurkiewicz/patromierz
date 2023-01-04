@@ -1,5 +1,5 @@
 ---
-title: to jebnie | Patromierz
+title: to jebnie | Statystyki patronite.pl | Patromierz
 
 permalink: /tojebnie
 ---

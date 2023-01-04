@@ -1,5 +1,5 @@
 ---
-title: Fundacja Pies OD-nowa | Patromierz
+title: Fundacja Pies OD-nowa | Statystyki patronite.pl | Patromierz
 
 permalink: /www.piesodnowa.pl
 ---

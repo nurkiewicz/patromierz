@@ -1,5 +1,5 @@
 ---
-title: zainspirowany | Patromierz
+title: zainspirowany | Statystyki patronite.pl | Patromierz
 
 permalink: /zainspirowany
 ---

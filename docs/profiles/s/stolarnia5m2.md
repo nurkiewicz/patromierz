@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Giergasz | Patromierz"
+title: "\u0141ukasz Giergasz | Statystyki patronite.pl | Patromierz"
 
 permalink: /stolarnia5m2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jakub Juszy\u0144ski | Patromierz"
+title: "Jakub Juszy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /JakubJuszynski
 ---

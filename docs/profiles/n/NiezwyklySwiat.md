@@ -1,5 +1,5 @@
 ---
-title: "Niezwyk\u0142y \u015Awiat | Patromierz"
+title: "Niezwyk\u0142y \u015Awiat | Statystyki patronite.pl | Patromierz"
 
 permalink: /NiezwyklySwiat
 ---

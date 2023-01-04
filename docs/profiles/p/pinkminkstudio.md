@@ -1,5 +1,5 @@
 ---
-title: Kasia - PINK MINK Studio | Patromierz
+title: Kasia - PINK MINK Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /pinkminkstudio
 ---

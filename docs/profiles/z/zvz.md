@@ -1,5 +1,5 @@
 ---
-title: ZVZ | Patromierz
+title: ZVZ | Statystyki patronite.pl | Patromierz
 
 permalink: /zvz
 ---

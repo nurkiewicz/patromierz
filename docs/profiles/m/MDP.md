@@ -1,6 +1,6 @@
 ---
 title: "M\u0142odzie\u017Cowa Dru\u017Cyna Po\u017Carnicza im. Druha Edmunda Witolda\
-  \ Kuty | Patromierz"
+  \ Kuty | Statystyki patronite.pl | Patromierz"
 
 permalink: /MDP
 ---

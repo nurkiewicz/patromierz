@@ -1,5 +1,5 @@
 ---
-title: Fundacja Firmy Rodzinne | Patromierz
+title: Fundacja Firmy Rodzinne | Statystyki patronite.pl | Patromierz
 
 permalink: /www.ffr.pl
 ---

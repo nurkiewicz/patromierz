@@ -1,5 +1,5 @@
 ---
-title: Irena Melcer | Patromierz
+title: Irena Melcer | Statystyki patronite.pl | Patromierz
 
 permalink: /pilateszirena
 ---

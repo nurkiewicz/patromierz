@@ -1,5 +1,5 @@
 ---
-title: Arkadiusz Olszewski | Patromierz
+title: Arkadiusz Olszewski | Statystyki patronite.pl | Patromierz
 
 permalink: /AmorPatriae
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hardy | Patromierz
+title: Hardy | Statystyki patronite.pl | Patromierz
 
 permalink: /hchardy
 ---

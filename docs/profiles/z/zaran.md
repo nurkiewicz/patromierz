@@ -1,5 +1,5 @@
 ---
-title: zaran | Patromierz
+title: zaran | Statystyki patronite.pl | Patromierz
 
 permalink: /zaran
 ---

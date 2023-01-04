@@ -1,5 +1,5 @@
 ---
-title: "poRUSZony UMYS\u0141 / moved mind | Patromierz"
+title: "poRUSZony UMYS\u0141 / moved mind | Statystyki patronite.pl | Patromierz"
 
 permalink: /poruszonyumysl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kajko i Kokosz | Patromierz
+title: Kajko i Kokosz | Statystyki patronite.pl | Patromierz
 
 permalink: /kajkoikokosz
 ---

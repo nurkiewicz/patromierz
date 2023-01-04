@@ -1,5 +1,5 @@
 ---
-title: Lady Pasztet | Patromierz
+title: Lady Pasztet | Statystyki patronite.pl | Patromierz
 
 permalink: /ladypasztet
 ---

@@ -1,5 +1,5 @@
 ---
-title: Adam Szolc | Patromierz
+title: Adam Szolc | Statystyki patronite.pl | Patromierz
 
 permalink: /adamszolc
 ---

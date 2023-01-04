@@ -1,5 +1,5 @@
 ---
-title: Zwierzofochy | Patromierz
+title: Zwierzofochy | Statystyki patronite.pl | Patromierz
 
 permalink: /zwierzofochy
 ---

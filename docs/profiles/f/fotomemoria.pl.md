@@ -1,5 +1,5 @@
 ---
-title: Fotomemoria | Patromierz
+title: Fotomemoria | Statystyki patronite.pl | Patromierz
 
 permalink: /fotomemoria.pl
 ---

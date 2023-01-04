@@ -1,5 +1,5 @@
 ---
-title: Nadia La Chiquetita | Patromierz
+title: Nadia La Chiquetita | Statystyki patronite.pl | Patromierz
 
 permalink: /nadia_la_chiquetita
 ---

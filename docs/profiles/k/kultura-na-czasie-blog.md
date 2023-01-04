@@ -1,5 +1,5 @@
 ---
-title: Kultura na Czasie blog | Patromierz
+title: Kultura na Czasie blog | Statystyki patronite.pl | Patromierz
 
 permalink: /kultura-na-czasie-blog
 ---

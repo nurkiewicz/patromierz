@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie Artyst\xF3w Euforis | Patromierz"
+title: "Stowarzyszenie Artyst\xF3w Euforis | Statystyki patronite.pl | Patromierz"
 
 permalink: /Euforis
 ---

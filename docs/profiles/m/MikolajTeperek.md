@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj Teperek | Patromierz"
+title: "Miko\u0142aj Teperek | Statystyki patronite.pl | Patromierz"
 
 permalink: /MikolajTeperek
 ---

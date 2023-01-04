@@ -1,5 +1,5 @@
 ---
-title: Tawerna Sesje RPG | Patromierz
+title: Tawerna Sesje RPG | Statystyki patronite.pl | Patromierz
 
 permalink: /tawerna-rpg
 ---

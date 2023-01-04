@@ -1,5 +1,5 @@
 ---
-title: "Kr\u0105g Biblijny | Patromierz"
+title: "Kr\u0105g Biblijny | Statystyki patronite.pl | Patromierz"
 
 permalink: /KragBiblijny
 ---

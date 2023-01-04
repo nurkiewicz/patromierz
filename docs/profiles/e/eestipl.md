@@ -1,5 +1,5 @@
 ---
-title: "Portal esto\u0144ski - Eesti.pl | Patromierz"
+title: "Portal esto\u0144ski - Eesti.pl | Statystyki patronite.pl | Patromierz"
 
 permalink: /eestipl
 ---

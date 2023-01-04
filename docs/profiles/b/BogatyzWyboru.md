@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Walaszek | Patromierz"
+title: "Rafa\u0142 Walaszek | Statystyki patronite.pl | Patromierz"
 
 permalink: /BogatyzWyboru
 ---

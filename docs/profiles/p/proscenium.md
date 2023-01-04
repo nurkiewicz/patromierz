@@ -1,5 +1,5 @@
 ---
-title: Fundacja Artystyczna Proscenium | Patromierz
+title: Fundacja Artystyczna Proscenium | Statystyki patronite.pl | Patromierz
 
 permalink: /proscenium
 ---

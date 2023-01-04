@@ -1,5 +1,5 @@
 ---
-title: AUTO JAK TA LALA | Patromierz
+title: AUTO JAK TA LALA | Statystyki patronite.pl | Patromierz
 
 permalink: /AUTOJTL
 ---

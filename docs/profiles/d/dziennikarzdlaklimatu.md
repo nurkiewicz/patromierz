@@ -1,5 +1,5 @@
 ---
-title: Szymon Bujalski - dziennikarz dla klimatu | Patromierz
+title: Szymon Bujalski - dziennikarz dla klimatu | Statystyki patronite.pl | Patromierz
 
 permalink: /dziennikarzdlaklimatu
 ---

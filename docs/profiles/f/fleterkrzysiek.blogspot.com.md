@@ -1,5 +1,5 @@
 ---
-title: Krzysiek Fleter | Patromierz
+title: Krzysiek Fleter | Statystyki patronite.pl | Patromierz
 
 permalink: /fleterkrzysiek.blogspot.com
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SGR PARAMEDIC/ GPR KO\u0141OBRZEG | Patromierz"
+title: "SGR PARAMEDIC/ GPR KO\u0141OBRZEG | Statystyki patronite.pl | Patromierz"
 
 permalink: /paramedic
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alpha Polska | Patromierz
+title: Alpha Polska | Statystyki patronite.pl | Patromierz
 
 permalink: /AlphaPolska
 ---

@@ -1,5 +1,5 @@
 ---
-title: Wojciech Wentura | Patromierz
+title: Wojciech Wentura | Statystyki patronite.pl | Patromierz
 
 permalink: /Wojciech.Wentura
 ---

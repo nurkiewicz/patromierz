@@ -1,5 +1,5 @@
 ---
-title: Crypto Anonym | Patromierz
+title: Crypto Anonym | Statystyki patronite.pl | Patromierz
 
 permalink: /CryptoAnonym
 ---

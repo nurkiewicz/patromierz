@@ -1,5 +1,5 @@
 ---
-title: TriGapa | Patromierz
+title: TriGapa | Statystyki patronite.pl | Patromierz
 
 permalink: /TriGapa
 ---

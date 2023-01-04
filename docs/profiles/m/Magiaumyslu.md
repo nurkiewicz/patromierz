@@ -1,5 +1,5 @@
 ---
-title: Karolina Borowiec | Patromierz
+title: Karolina Borowiec | Statystyki patronite.pl | Patromierz
 
 permalink: /Magiaumyslu
 ---

@@ -1,5 +1,5 @@
 ---
-title: Basia Metelska | Patromierz
+title: Basia Metelska | Statystyki patronite.pl | Patromierz
 
 permalink: /basiametelska
 ---

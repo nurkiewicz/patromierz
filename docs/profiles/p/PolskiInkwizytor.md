@@ -1,5 +1,5 @@
 ---
-title: Polski Inkwizytor | Patromierz
+title: Polski Inkwizytor | Statystyki patronite.pl | Patromierz
 
 permalink: /PolskiInkwizytor
 ---

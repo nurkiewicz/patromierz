@@ -1,5 +1,5 @@
 ---
-title: karwatpawel | Patromierz
+title: karwatpawel | Statystyki patronite.pl | Patromierz
 
 permalink: /karwatpawel
 ---

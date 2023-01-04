@@ -1,5 +1,5 @@
 ---
-title: Wojtusialke | Patromierz
+title: Wojtusialke | Statystyki patronite.pl | Patromierz
 
 permalink: /wojtusialke
 ---

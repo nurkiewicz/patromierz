@@ -1,5 +1,5 @@
 ---
-title: Alkoholik z TikToka | Patromierz
+title: Alkoholik z TikToka | Statystyki patronite.pl | Patromierz
 
 permalink: /alkoholikztiktoka
 ---

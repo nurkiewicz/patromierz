@@ -1,5 +1,5 @@
 ---
-title: Groszek na rowerze | Patromierz
+title: Groszek na rowerze | Statystyki patronite.pl | Patromierz
 
 permalink: /groszeknarowerze
 ---

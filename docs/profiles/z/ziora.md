@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Ziora | Patromierz"
+title: "Pawe\u0142 Ziora | Statystyki patronite.pl | Patromierz"
 
 permalink: /ziora
 ---

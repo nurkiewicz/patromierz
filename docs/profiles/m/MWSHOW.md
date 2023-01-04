@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Witkowski SHOW | Patromierz"
+title: "Micha\u0142 Witkowski SHOW | Statystyki patronite.pl | Patromierz"
 
 permalink: /MWSHOW
 ---

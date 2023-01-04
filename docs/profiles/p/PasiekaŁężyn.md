@@ -1,5 +1,5 @@
 ---
-title: "Pasieka \u0141\u0119\u017Cyn | Patromierz"
+title: "Pasieka \u0141\u0119\u017Cyn | Statystyki patronite.pl | Patromierz"
 
 permalink: /PasiekaŁężyn
 ---

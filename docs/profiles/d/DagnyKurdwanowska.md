@@ -1,5 +1,5 @@
 ---
-title: Dagny Kurdwanowska | Patromierz
+title: Dagny Kurdwanowska | Statystyki patronite.pl | Patromierz
 
 permalink: /DagnyKurdwanowska
 ---

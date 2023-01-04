@@ -1,5 +1,5 @@
 ---
-title: Klub Aktywnych Mam- Centrum Aktywnych Kobiet | Patromierz
+title: Klub Aktywnych Mam- Centrum Aktywnych Kobiet | Statystyki patronite.pl | Patromierz
 
 permalink: /www.klubaktywnychmam.pl
 ---

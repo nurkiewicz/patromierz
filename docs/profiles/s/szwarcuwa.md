@@ -1,5 +1,5 @@
 ---
-title: Anna Szwarc | Patromierz
+title: Anna Szwarc | Statystyki patronite.pl | Patromierz
 
 permalink: /szwarcuwa
 ---

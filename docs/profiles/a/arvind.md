@@ -1,5 +1,5 @@
 ---
-title: Arvind Juneja | Patromierz
+title: Arvind Juneja | Statystyki patronite.pl | Patromierz
 
 permalink: /arvind
 ---

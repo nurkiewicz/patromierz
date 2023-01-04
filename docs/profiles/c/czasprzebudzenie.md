@@ -1,5 +1,5 @@
 ---
-title: 'MineCraft Czas: Przebudzenie  | Patromierz'
+title: 'MineCraft Czas: Przebudzenie  | Statystyki patronite.pl | Patromierz'
 
 permalink: /czasprzebudzenie
 ---

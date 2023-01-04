@@ -1,5 +1,5 @@
 ---
-title: Aki Arkadiusz Gerlic | Patromierz
+title: Aki Arkadiusz Gerlic | Statystyki patronite.pl | Patromierz
 
 permalink: /AkiArkadiuszGerlic
 ---

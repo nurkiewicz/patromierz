@@ -1,5 +1,5 @@
 ---
-title: Fundacja Share the Care | Patromierz
+title: Fundacja Share the Care | Statystyki patronite.pl | Patromierz
 
 permalink: /www.sharethecare.pl
 ---

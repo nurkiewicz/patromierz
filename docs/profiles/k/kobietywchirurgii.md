@@ -1,5 +1,5 @@
 ---
-title: Fundacja Kobiety w chirurgii | Patromierz
+title: Fundacja Kobiety w chirurgii | Statystyki patronite.pl | Patromierz
 
 permalink: /kobietywchirurgii
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kamil Boberek | Patromierz
+title: Kamil Boberek | Statystyki patronite.pl | Patromierz
 
 permalink: /kamilsj
 ---

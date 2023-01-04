@@ -1,5 +1,5 @@
 ---
-title: Olsikowa | Patromierz
+title: Olsikowa | Statystyki patronite.pl | Patromierz
 
 permalink: /olsikowa
 ---

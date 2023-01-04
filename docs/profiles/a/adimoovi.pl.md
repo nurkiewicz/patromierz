@@ -1,5 +1,5 @@
 ---
-title: Adimoovi - Adam Bilik | Patromierz
+title: Adimoovi - Adam Bilik | Statystyki patronite.pl | Patromierz
 
 permalink: /adimoovi.pl
 ---

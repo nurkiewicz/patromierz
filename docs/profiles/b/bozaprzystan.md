@@ -1,5 +1,5 @@
 ---
-title: "Fundacja \" Z Mi\u0142o\u015Bci\" | Patromierz"
+title: "Fundacja \" Z Mi\u0142o\u015Bci\" | Statystyki patronite.pl | Patromierz"
 
 permalink: /bozaprzystan
 ---

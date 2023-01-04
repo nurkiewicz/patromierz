@@ -1,5 +1,5 @@
 ---
-title: "Bartosz Brzezi\u0144ski | Patromierz"
+title: "Bartosz Brzezi\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /autor-bartosz-brzezinski
 ---

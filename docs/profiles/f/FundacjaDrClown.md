@@ -1,5 +1,5 @@
 ---
-title: Fundacja Dr Clown | Patromierz
+title: Fundacja Dr Clown | Statystyki patronite.pl | Patromierz
 
 permalink: /FundacjaDrClown
 ---

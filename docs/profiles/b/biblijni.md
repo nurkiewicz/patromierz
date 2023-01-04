@@ -1,5 +1,5 @@
 ---
-title: Biblijni.pl | Patromierz
+title: Biblijni.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /biblijni
 ---

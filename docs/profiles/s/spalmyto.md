@@ -1,5 +1,5 @@
 ---
-title: Spalmy to! | Patromierz
+title: Spalmy to! | Statystyki patronite.pl | Patromierz
 
 permalink: /spalmyto
 ---

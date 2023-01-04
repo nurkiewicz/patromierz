@@ -1,5 +1,5 @@
 ---
-title: Ula Ryciak | Patromierz
+title: Ula Ryciak | Statystyki patronite.pl | Patromierz
 
 permalink: /wibrujaceciala
 ---

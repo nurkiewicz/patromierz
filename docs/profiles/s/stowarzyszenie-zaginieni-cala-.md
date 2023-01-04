@@ -1,5 +1,5 @@
 ---
-title: "Zaginieni Ca\u0142a Polska | Patromierz"
+title: "Zaginieni Ca\u0142a Polska | Statystyki patronite.pl | Patromierz"
 
 permalink: /stowarzyszenie-zaginieni-cala-
 ---

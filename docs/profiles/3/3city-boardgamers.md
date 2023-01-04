@@ -1,5 +1,5 @@
 ---
-title: 3city Boardgamers | Patromierz
+title: 3city Boardgamers | Statystyki patronite.pl | Patromierz
 
 permalink: /3city-boardgamers
 ---

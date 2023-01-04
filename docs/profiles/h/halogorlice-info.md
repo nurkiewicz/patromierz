@@ -1,5 +1,6 @@
 ---
-title: Informacyjny Portal Internetowy halogorlice.info  | Patromierz
+title: Informacyjny Portal Internetowy halogorlice.info  | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /halogorlice-info
 ---

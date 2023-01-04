@@ -1,5 +1,5 @@
 ---
-title: LubieStareGry | Patromierz
+title: LubieStareGry | Statystyki patronite.pl | Patromierz
 
 permalink: /LubieStareGry
 ---

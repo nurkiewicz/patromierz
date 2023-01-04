@@ -1,5 +1,5 @@
 ---
-title: Astroholik  | Patromierz
+title: Astroholik  | Statystyki patronite.pl | Patromierz
 
 permalink: /astroholik
 ---

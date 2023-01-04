@@ -1,5 +1,5 @@
 ---
-title: Entuzjastagier | Patromierz
+title: Entuzjastagier | Statystyki patronite.pl | Patromierz
 
 permalink: /Entuzjastagier
 ---

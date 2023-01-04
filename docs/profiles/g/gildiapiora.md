@@ -1,5 +1,5 @@
 ---
-title: "Gildia Pi\xF3ra | Patromierz"
+title: "Gildia Pi\xF3ra | Statystyki patronite.pl | Patromierz"
 
 permalink: /gildiapiora
 ---

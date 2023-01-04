@@ -1,5 +1,5 @@
 ---
-title: Float 2 Flight | Patromierz
+title: Float 2 Flight | Statystyki patronite.pl | Patromierz
 
 permalink: /float2flight
 ---

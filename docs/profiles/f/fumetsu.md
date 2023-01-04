@@ -1,5 +1,5 @@
 ---
-title: Fumetsu Subs | Patromierz
+title: Fumetsu Subs | Statystyki patronite.pl | Patromierz
 
 permalink: /fumetsu
 ---

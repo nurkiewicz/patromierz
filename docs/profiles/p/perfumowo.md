@@ -1,5 +1,5 @@
 ---
-title: perfumowo by Adam Engler  | Patromierz
+title: perfumowo by Adam Engler  | Statystyki patronite.pl | Patromierz
 
 permalink: /perfumowo
 ---

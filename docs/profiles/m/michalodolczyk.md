@@ -1,5 +1,5 @@
 ---
-title: Michal Odolczyk | Patromierz
+title: Michal Odolczyk | Statystyki patronite.pl | Patromierz
 
 permalink: /michalodolczyk
 ---

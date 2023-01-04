@@ -1,5 +1,5 @@
 ---
-title: Jednym Sercem | Patromierz
+title: Jednym Sercem | Statystyki patronite.pl | Patromierz
 
 permalink: /jednymsercem
 ---

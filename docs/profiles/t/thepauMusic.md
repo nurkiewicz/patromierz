@@ -1,5 +1,5 @@
 ---
-title: "the pau zostaje malark\u0105 | Patromierz"
+title: "the pau zostaje malark\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /thepauMusic
 ---

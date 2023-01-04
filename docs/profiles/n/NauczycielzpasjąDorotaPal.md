@@ -1,5 +1,5 @@
 ---
-title: Dorota Pal | Patromierz
+title: Dorota Pal | Statystyki patronite.pl | Patromierz
 
 permalink: /NauczycielzpasjąDorotaPal
 ---

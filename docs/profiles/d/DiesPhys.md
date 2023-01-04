@@ -1,5 +1,5 @@
 ---
-title: "Fizyka dla Laika czyli Nauka dla T\u0142uka | Patromierz"
+title: "Fizyka dla Laika czyli Nauka dla T\u0142uka | Statystyki patronite.pl | Patromierz"
 
 permalink: /DiesPhys
 ---

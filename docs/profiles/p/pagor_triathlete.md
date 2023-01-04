@@ -1,5 +1,5 @@
 ---
-title: "Jakub Pag\xF3rski - Pag\xF3r Triathlete | Patromierz"
+title: "Jakub Pag\xF3rski - Pag\xF3r Triathlete | Statystyki patronite.pl | Patromierz"
 
 permalink: /pagor_triathlete
 ---

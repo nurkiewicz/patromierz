@@ -1,5 +1,5 @@
 ---
-title: RONIN | Patromierz
+title: RONIN | Statystyki patronite.pl | Patromierz
 
 permalink: /roninv84
 ---

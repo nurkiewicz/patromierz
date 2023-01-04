@@ -1,5 +1,5 @@
 ---
-title: "Piotr J\xF3zefiak | Madkid | Patromierz"
+title: "Piotr J\xF3zefiak | Madkid | Statystyki patronite.pl | Patromierz"
 
 permalink: /madkid
 ---

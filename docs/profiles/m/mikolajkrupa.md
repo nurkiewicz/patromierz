@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj Krupa | Patromierz"
+title: "Miko\u0142aj Krupa | Statystyki patronite.pl | Patromierz"
 
 permalink: /mikolajkrupa
 ---

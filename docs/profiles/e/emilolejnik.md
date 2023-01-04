@@ -1,5 +1,5 @@
 ---
-title: Emil Olejnik | Patromierz
+title: Emil Olejnik | Statystyki patronite.pl | Patromierz
 
 permalink: /emilolejnik
 ---

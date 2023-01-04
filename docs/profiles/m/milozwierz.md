@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142ozwierz | Patromierz"
+title: "Mi\u0142ozwierz | Statystyki patronite.pl | Patromierz"
 
 permalink: /milozwierz
 ---

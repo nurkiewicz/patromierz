@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj Rutkowski | Patromierz"
+title: "Miko\u0142aj Rutkowski | Statystyki patronite.pl | Patromierz"
 
 permalink: /MikolajSnowboarder
 ---

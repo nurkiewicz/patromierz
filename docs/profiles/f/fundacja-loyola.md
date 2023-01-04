@@ -1,5 +1,5 @@
 ---
-title: "Fundacja im. \u015Bw. Ignacego Loyoli | Patromierz"
+title: "Fundacja im. \u015Bw. Ignacego Loyoli | Statystyki patronite.pl | Patromierz"
 
 permalink: /fundacja-loyola
 ---

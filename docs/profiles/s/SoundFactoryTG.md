@@ -1,5 +1,5 @@
 ---
-title: Sound Factory | Patromierz
+title: Sound Factory | Statystyki patronite.pl | Patromierz
 
 permalink: /SoundFactoryTG
 ---

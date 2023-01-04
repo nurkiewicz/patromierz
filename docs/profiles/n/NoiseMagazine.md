@@ -1,5 +1,5 @@
 ---
-title: NOISE Magazine | Patromierz
+title: NOISE Magazine | Statystyki patronite.pl | Patromierz
 
 permalink: /NoiseMagazine
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zuzanna Stachowska - Telemarkgirl | Patromierz
+title: Zuzanna Stachowska - Telemarkgirl | Statystyki patronite.pl | Patromierz
 
 permalink: /Telemarkgirl
 ---

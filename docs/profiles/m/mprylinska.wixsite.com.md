@@ -1,5 +1,5 @@
 ---
-title: Monika Prylinska | Patromierz
+title: Monika Prylinska | Statystyki patronite.pl | Patromierz
 
 permalink: /mprylinska.wixsite.com
 ---

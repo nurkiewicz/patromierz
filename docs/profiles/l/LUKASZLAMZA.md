@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Lam\u017Ca | Patromierz"
+title: "\u0141ukasz Lam\u017Ca | Statystyki patronite.pl | Patromierz"
 
 permalink: /LUKASZLAMZA
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jakub Zawistowski | Patromierz
+title: Jakub Zawistowski | Statystyki patronite.pl | Patromierz
 
 permalink: /JakubGladkiZawistowski
 ---

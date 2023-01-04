@@ -1,5 +1,5 @@
 ---
-title: mollDur | Patromierz
+title: mollDur | Statystyki patronite.pl | Patromierz
 
 permalink: /molldur
 ---

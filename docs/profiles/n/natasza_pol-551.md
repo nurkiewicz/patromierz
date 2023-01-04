@@ -1,5 +1,5 @@
 ---
-title: Natasza Rubanowicz | Patromierz
+title: Natasza Rubanowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /natasza_pol-551
 ---

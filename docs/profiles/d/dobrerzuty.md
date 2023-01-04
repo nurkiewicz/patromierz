@@ -1,5 +1,5 @@
 ---
-title: Dobre Rzuty | Patromierz
+title: Dobre Rzuty | Statystyki patronite.pl | Patromierz
 
 permalink: /dobrerzuty
 ---

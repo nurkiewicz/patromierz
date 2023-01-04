@@ -1,5 +1,5 @@
 ---
-title: Michalina Garbal | Patromierz
+title: Michalina Garbal | Statystyki patronite.pl | Patromierz
 
 permalink: /3kotyitechvet
 ---

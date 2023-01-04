@@ -1,5 +1,5 @@
 ---
-title: Zielony Atom | Patromierz
+title: Zielony Atom | Statystyki patronite.pl | Patromierz
 
 permalink: /zielonyatom
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ori ATV Riders | Patromierz
+title: Ori ATV Riders | Statystyki patronite.pl | Patromierz
 
 permalink: /OriATVRiders
 ---

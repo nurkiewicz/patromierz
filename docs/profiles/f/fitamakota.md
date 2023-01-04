@@ -1,5 +1,5 @@
 ---
-title: Fita ma kota | Patromierz
+title: Fita ma kota | Statystyki patronite.pl | Patromierz
 
 permalink: /fitamakota
 ---

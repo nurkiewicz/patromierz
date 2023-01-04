@@ -1,5 +1,5 @@
 ---
-title: Lasy Janowskie i okolice | Patromierz
+title: Lasy Janowskie i okolice | Statystyki patronite.pl | Patromierz
 
 permalink: /lasy_janowskie_i_okolice
 ---

@@ -1,5 +1,5 @@
 ---
-title: "J\xF3zef SKABARDIS | Patromierz"
+title: "J\xF3zef SKABARDIS | Statystyki patronite.pl | Patromierz"
 
 permalink: /jozef.skabardis
 ---

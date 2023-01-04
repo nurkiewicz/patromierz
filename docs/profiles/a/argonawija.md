@@ -1,5 +1,5 @@
 ---
-title: ARGO NAWIJA - Gry Planszowe | Patromierz
+title: ARGO NAWIJA - Gry Planszowe | Statystyki patronite.pl | Patromierz
 
 permalink: /argonawija
 ---

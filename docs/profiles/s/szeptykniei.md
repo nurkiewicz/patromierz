@@ -1,5 +1,5 @@
 ---
-title: Sebastian Czeremcha | Patromierz
+title: Sebastian Czeremcha | Statystyki patronite.pl | Patromierz
 
 permalink: /szeptykniei
 ---

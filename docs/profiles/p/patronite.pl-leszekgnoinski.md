@@ -1,5 +1,5 @@
 ---
-title: "Radio aktywny blog Leszka Gnoi\u0144skiego | Patromierz"
+title: "Radio aktywny blog Leszka Gnoi\u0144skiego | Statystyki patronite.pl | Patromierz"
 
 permalink: /patronite.pl-leszekgnoinski
 ---

@@ -1,5 +1,5 @@
 ---
-title: Geografia24.pl | Patromierz
+title: Geografia24.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /geografia24
 ---

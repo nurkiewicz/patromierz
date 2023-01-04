@@ -1,5 +1,5 @@
 ---
-title: Koci Szpital Fundacji KOT | Patromierz
+title: Koci Szpital Fundacji KOT | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja-kot
 ---

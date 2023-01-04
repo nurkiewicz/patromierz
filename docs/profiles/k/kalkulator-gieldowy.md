@@ -1,5 +1,5 @@
 ---
-title: Kalkulatorgieldowy.pl | Patromierz
+title: Kalkulatorgieldowy.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /kalkulator-gieldowy
 ---

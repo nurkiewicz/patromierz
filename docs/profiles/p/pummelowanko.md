@@ -1,5 +1,5 @@
 ---
-title: Pummelowanko | Patromierz
+title: Pummelowanko | Statystyki patronite.pl | Patromierz
 
 permalink: /pummelowanko
 ---

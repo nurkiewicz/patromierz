@@ -1,5 +1,5 @@
 ---
-title: Arkadikuss | Patromierz
+title: Arkadikuss | Statystyki patronite.pl | Patromierz
 
 permalink: /arkadikuss
 ---

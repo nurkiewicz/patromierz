@@ -1,5 +1,5 @@
 ---
-title: "\u015Awiat Wody | Patromierz"
+title: "\u015Awiat Wody | Statystyki patronite.pl | Patromierz"
 
 permalink: /ŚwiatWody
 ---

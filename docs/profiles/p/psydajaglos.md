@@ -1,5 +1,5 @@
 ---
-title: "Psy Daj\u0105 G\u0142os | Patromierz"
+title: "Psy Daj\u0105 G\u0142os | Statystyki patronite.pl | Patromierz"
 
 permalink: /psydajaglos
 ---

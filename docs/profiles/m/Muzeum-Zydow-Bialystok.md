@@ -1,5 +1,5 @@
 ---
-title: JewishBialystok.pl | Patromierz
+title: JewishBialystok.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /Muzeum-Zydow-Bialystok
 ---

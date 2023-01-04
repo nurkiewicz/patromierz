@@ -1,5 +1,5 @@
 ---
-title: czemplikmusic | Patromierz
+title: czemplikmusic | Statystyki patronite.pl | Patromierz
 
 permalink: /czemplikmusic
 ---

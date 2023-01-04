@@ -1,5 +1,5 @@
 ---
-title: STOWARZYSZENIE "BOCHNIANIE BEZDOMNIAKOM" | Patromierz
+title: STOWARZYSZENIE "BOCHNIANIE BEZDOMNIAKOM" | Statystyki patronite.pl | Patromierz
 
 permalink: /bochnianiebezdomniakom
 ---

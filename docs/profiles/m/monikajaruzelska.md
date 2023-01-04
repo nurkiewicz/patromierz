@@ -1,5 +1,5 @@
 ---
-title: Monika Jaruzelska | Patromierz
+title: Monika Jaruzelska | Statystyki patronite.pl | Patromierz
 
 permalink: /monikajaruzelska
 ---

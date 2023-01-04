@@ -1,5 +1,5 @@
 ---
-title: "\u015Amiem W\u0105tpi\u0107 | Patromierz"
+title: "\u015Amiem W\u0105tpi\u0107 | Statystyki patronite.pl | Patromierz"
 
 permalink: /ŚmiemWątpić
 ---

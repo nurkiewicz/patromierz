@@ -1,5 +1,5 @@
 ---
-title: Artis Symphony Orchestra | Patromierz
+title: Artis Symphony Orchestra | Statystyki patronite.pl | Patromierz
 
 permalink: /artis-symphony-orchestra
 ---

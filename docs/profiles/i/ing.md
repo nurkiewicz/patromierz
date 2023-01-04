@@ -1,5 +1,5 @@
 ---
-title: Johan Ingeborg - Gothicowe filmy animowane | Patromierz
+title: Johan Ingeborg - Gothicowe filmy animowane | Statystyki patronite.pl | Patromierz
 
 permalink: /ing
 ---

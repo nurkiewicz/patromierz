@@ -1,5 +1,5 @@
 ---
-title: Sim Sprint Series | Patromierz
+title: Sim Sprint Series | Statystyki patronite.pl | Patromierz
 
 permalink: /simss
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Imperator Mr\xF3wek | Patromierz"
+title: "Imperator Mr\xF3wek | Statystyki patronite.pl | Patromierz"
 
 permalink: /ImperatorMrowek
 ---

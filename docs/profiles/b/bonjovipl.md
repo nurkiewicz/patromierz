@@ -1,5 +1,5 @@
 ---
-title: Always - Bon Jovi Portal | Patromierz
+title: Always - Bon Jovi Portal | Statystyki patronite.pl | Patromierz
 
 permalink: /bonjovipl
 ---

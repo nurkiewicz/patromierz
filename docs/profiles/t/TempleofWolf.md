@@ -1,5 +1,5 @@
 ---
-title: "\u015Awi\u0105tynia Wilka | Patromierz"
+title: "\u015Awi\u0105tynia Wilka | Statystyki patronite.pl | Patromierz"
 
 permalink: /TempleofWolf
 ---

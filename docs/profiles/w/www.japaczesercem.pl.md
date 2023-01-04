@@ -1,5 +1,5 @@
 ---
-title: Ja Pacze Sercem | Patromierz
+title: Ja Pacze Sercem | Statystyki patronite.pl | Patromierz
 
 permalink: /www.japaczesercem.pl
 ---

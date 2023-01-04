@@ -1,5 +1,5 @@
 ---
-title: Fundacja NaszeZoo.pl | Patromierz
+title: Fundacja NaszeZoo.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjanaszezoopl
 ---

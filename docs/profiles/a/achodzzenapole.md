@@ -1,5 +1,5 @@
 ---
-title: "A chod\u017A\u017Ce na pole! | Patromierz"
+title: "A chod\u017A\u017Ce na pole! | Statystyki patronite.pl | Patromierz"
 
 permalink: /achodzzenapole
 ---

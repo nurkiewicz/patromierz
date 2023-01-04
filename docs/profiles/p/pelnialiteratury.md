@@ -1,5 +1,6 @@
 ---
-title: "Pe\u0142nia Literatury. Nocny podcast literacki | Patromierz"
+title: "Pe\u0142nia Literatury. Nocny podcast literacki | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /pelnialiteratury
 ---

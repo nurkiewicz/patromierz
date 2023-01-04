@@ -1,5 +1,5 @@
 ---
-title: "Wdzi\u0119czne Serce | Patromierz"
+title: "Wdzi\u0119czne Serce | Statystyki patronite.pl | Patromierz"
 
 permalink: /wdzieczne_serce
 ---

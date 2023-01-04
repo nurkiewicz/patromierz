@@ -1,5 +1,5 @@
 ---
-title: "Gabi i Wojciech G\u0105sior | Patromierz"
+title: "Gabi i Wojciech G\u0105sior | Statystyki patronite.pl | Patromierz"
 
 permalink: /GGDuo
 ---

@@ -1,5 +1,5 @@
 ---
-title: "M\xF3w do mnie grzecznie | Patromierz"
+title: "M\xF3w do mnie grzecznie | Statystyki patronite.pl | Patromierz"
 
 permalink: /mdmg
 ---

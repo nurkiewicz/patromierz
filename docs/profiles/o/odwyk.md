@@ -1,5 +1,5 @@
 ---
-title: Martin Lechowicz | Patromierz
+title: Martin Lechowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /odwyk
 ---

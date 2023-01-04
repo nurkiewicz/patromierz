@@ -1,5 +1,5 @@
 ---
-title: NFLBlog.pl | Patromierz
+title: NFLBlog.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /nflblog
 ---

@@ -1,5 +1,5 @@
 ---
-title: Transfer Dobra TV - Wojtek Juszkiewicz | Patromierz
+title: Transfer Dobra TV - Wojtek Juszkiewicz | Statystyki patronite.pl | Patromierz
 
 permalink: /transferdobratv
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Monika G\xF3rska | Patromierz"
+title: "Monika G\xF3rska | Statystyki patronite.pl | Patromierz"
 
 permalink: /monika-gorska
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Grzegorz Gur\u0142acz | Patromierz"
+title: "Grzegorz Gur\u0142acz | Statystyki patronite.pl | Patromierz"
 
 permalink: /kapelnica
 ---

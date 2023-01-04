@@ -1,5 +1,5 @@
 ---
-title: bEZ sLOGANU | Patromierz
+title: bEZ sLOGANU | Statystyki patronite.pl | Patromierz
 
 permalink: /bezsloganu
 ---

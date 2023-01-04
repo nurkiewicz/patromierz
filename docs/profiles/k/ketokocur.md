@@ -1,5 +1,5 @@
 ---
-title: KETOKOCUR | Patromierz
+title: KETOKOCUR | Statystyki patronite.pl | Patromierz
 
 permalink: /ketokocur
 ---

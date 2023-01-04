@@ -1,5 +1,5 @@
 ---
-title: "R\xF3bmy Dobrze | Patromierz"
+title: "R\xF3bmy Dobrze | Statystyki patronite.pl | Patromierz"
 
 permalink: /robmydobrze
 ---

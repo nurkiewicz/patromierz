@@ -1,5 +1,5 @@
 ---
-title: Gra Tajemnic | Patromierz
+title: Gra Tajemnic | Statystyki patronite.pl | Patromierz
 
 permalink: /gratajemnic
 ---

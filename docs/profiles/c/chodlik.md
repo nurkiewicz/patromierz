@@ -1,5 +1,5 @@
 ---
-title: Misja Archeologiczna w Chodliku | Patromierz
+title: Misja Archeologiczna w Chodliku | Statystyki patronite.pl | Patromierz
 
 permalink: /chodlik
 ---

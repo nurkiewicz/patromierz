@@ -1,5 +1,5 @@
 ---
-title: Boskie Karkonoskie | Patromierz
+title: Boskie Karkonoskie | Statystyki patronite.pl | Patromierz
 
 permalink: /boskiekarkonoskie.org
 ---

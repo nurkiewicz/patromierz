@@ -1,5 +1,5 @@
 ---
-title: Wyprawy naVeganie | Patromierz
+title: Wyprawy naVeganie | Statystyki patronite.pl | Patromierz
 
 permalink: /naVeganie
 ---

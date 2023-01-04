@@ -1,5 +1,5 @@
 ---
-title: Choroba_Stargardta  | Patromierz
+title: Choroba_Stargardta  | Statystyki patronite.pl | Patromierz
 
 permalink: /choroba_stargardta
 ---

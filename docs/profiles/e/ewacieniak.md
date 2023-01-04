@@ -1,5 +1,5 @@
 ---
-title: Ewa Cieniak | Patromierz
+title: Ewa Cieniak | Statystyki patronite.pl | Patromierz
 
 permalink: /ewacieniak
 ---

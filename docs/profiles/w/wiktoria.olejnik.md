@@ -1,5 +1,5 @@
 ---
-title: Wiktoria Olejnik | Patromierz
+title: Wiktoria Olejnik | Statystyki patronite.pl | Patromierz
 
 permalink: /wiktoria.olejnik
 ---

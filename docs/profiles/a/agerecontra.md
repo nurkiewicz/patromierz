@@ -1,5 +1,5 @@
 ---
-title: Agere Contra | Patromierz
+title: Agere Contra | Statystyki patronite.pl | Patromierz
 
 permalink: /agerecontra
 ---

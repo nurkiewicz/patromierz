@@ -1,5 +1,5 @@
 ---
-title: MICHALSKI | Patromierz
+title: MICHALSKI | Statystyki patronite.pl | Patromierz
 
 permalink: /MichalskiOfficial
 ---

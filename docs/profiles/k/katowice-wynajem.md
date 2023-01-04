@@ -1,5 +1,5 @@
 ---
-title: Katowice Wynajem | Patromierz
+title: Katowice Wynajem | Statystyki patronite.pl | Patromierz
 
 permalink: /katowice-wynajem
 ---

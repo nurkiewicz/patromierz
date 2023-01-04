@@ -1,5 +1,5 @@
 ---
-title: Fundacja  Ave Maria | Patromierz
+title: Fundacja  Ave Maria | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjaAveMaria
 ---

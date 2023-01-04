@@ -1,5 +1,5 @@
 ---
-title: ANATOMIA MECHANIKI | Patromierz
+title: ANATOMIA MECHANIKI | Statystyki patronite.pl | Patromierz
 
 permalink: /Anatomia_Mechaniki
 ---

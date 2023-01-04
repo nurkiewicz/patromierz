@@ -1,5 +1,5 @@
 ---
-title: Fundacja Twoja Pasja | Patromierz
+title: Fundacja Twoja Pasja | Statystyki patronite.pl | Patromierz
 
 permalink: /TwojaPasja
 ---

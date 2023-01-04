@@ -1,5 +1,5 @@
 ---
-title: Szum/Islandia | Patromierz
+title: Szum/Islandia | Statystyki patronite.pl | Patromierz
 
 permalink: /Szum-Islandia
 ---

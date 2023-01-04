@@ -1,5 +1,5 @@
 ---
-title: hejto.pl | Patromierz
+title: hejto.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /hejto
 ---

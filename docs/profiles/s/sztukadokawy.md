@@ -1,5 +1,5 @@
 ---
-title: Sztuka do kawy | Patromierz
+title: Sztuka do kawy | Statystyki patronite.pl | Patromierz
 
 permalink: /sztukadokawy
 ---

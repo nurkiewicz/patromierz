@@ -1,5 +1,5 @@
 ---
-title: "Maruda w Podr\xF3\u017Cy  | Patromierz"
+title: "Maruda w Podr\xF3\u017Cy  | Statystyki patronite.pl | Patromierz"
 
 permalink: /marudawpodrozy
 ---

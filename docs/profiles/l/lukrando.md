@@ -1,5 +1,5 @@
 ---
-title: Lukrando | Patromierz
+title: Lukrando | Statystyki patronite.pl | Patromierz
 
 permalink: /lukrando
 ---

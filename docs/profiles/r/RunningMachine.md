@@ -1,5 +1,5 @@
 ---
-title: Running Machine | Patromierz
+title: Running Machine | Statystyki patronite.pl | Patromierz
 
 permalink: /RunningMachine
 ---

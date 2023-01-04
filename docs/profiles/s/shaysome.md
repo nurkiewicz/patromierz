@@ -1,5 +1,5 @@
 ---
-title: Shaysome | Patromierz
+title: Shaysome | Statystyki patronite.pl | Patromierz
 
 permalink: /shaysome
 ---

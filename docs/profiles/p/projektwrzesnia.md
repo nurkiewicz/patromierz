@@ -1,5 +1,5 @@
 ---
-title: "Projekt Wrze\u015Bnia | Patromierz"
+title: "Projekt Wrze\u015Bnia | Statystyki patronite.pl | Patromierz"
 
 permalink: /projektwrzesnia
 ---

@@ -1,5 +1,5 @@
 ---
-title: "War Thunder - Wsp\xF3lne Granie | Patromierz"
+title: "War Thunder - Wsp\xF3lne Granie | Statystyki patronite.pl | Patromierz"
 
 permalink: /warthunderwspolnegranie
 ---

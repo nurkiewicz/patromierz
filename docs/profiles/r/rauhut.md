@@ -1,5 +1,5 @@
 ---
-title: Maciej Rauhut | Patromierz
+title: Maciej Rauhut | Statystyki patronite.pl | Patromierz
 
 permalink: /rauhut
 ---

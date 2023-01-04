@@ -1,5 +1,5 @@
 ---
-title: Podhalanskie kurki jakuba | Patromierz
+title: Podhalanskie kurki jakuba | Statystyki patronite.pl | Patromierz
 
 permalink: /podhalanskie_kurki_jakuba
 ---

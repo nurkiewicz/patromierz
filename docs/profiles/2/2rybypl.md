@@ -1,5 +1,5 @@
 ---
-title: 2ryby.pl | Patromierz
+title: 2ryby.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /2rybypl
 ---

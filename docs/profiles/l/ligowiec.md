@@ -1,5 +1,5 @@
 ---
-title: Ligowiec | Patromierz
+title: Ligowiec | Statystyki patronite.pl | Patromierz
 
 permalink: /ligowiec
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Nowe \u015Awiecie | Patromierz"
+title: "Nowe \u015Awiecie | Statystyki patronite.pl | Patromierz"
 
 permalink: /noweswiecie
 ---

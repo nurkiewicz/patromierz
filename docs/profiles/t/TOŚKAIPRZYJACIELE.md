@@ -1,5 +1,5 @@
 ---
-title: "FUNDACJA TO\u015AKA I PRZYJACIELE | Patromierz"
+title: "FUNDACJA TO\u015AKA I PRZYJACIELE | Statystyki patronite.pl | Patromierz"
 
 permalink: /TOŚKAIPRZYJACIELE
 ---

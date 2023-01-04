@@ -1,5 +1,5 @@
 ---
-title: "Podr\xF3\u017Cniczy Hubcio | Patromierz"
+title: "Podr\xF3\u017Cniczy Hubcio | Statystyki patronite.pl | Patromierz"
 
 permalink: /hubcio
 ---

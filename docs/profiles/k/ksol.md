@@ -1,5 +1,5 @@
 ---
-title: "Kilka s\u0142\xF3w o Legii | Patromierz"
+title: "Kilka s\u0142\xF3w o Legii | Statystyki patronite.pl | Patromierz"
 
 permalink: /ksol
 ---

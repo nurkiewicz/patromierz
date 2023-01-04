@@ -1,5 +1,5 @@
 ---
-title: Sylwia Dudziak - TravellersGeographic | Patromierz
+title: Sylwia Dudziak - TravellersGeographic | Statystyki patronite.pl | Patromierz
 
 permalink: /sylwiadudziak-travllersgeograp
 ---

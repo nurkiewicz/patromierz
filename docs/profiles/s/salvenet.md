@@ -1,5 +1,5 @@
 ---
-title: Salve Net | Patromierz
+title: Salve Net | Statystyki patronite.pl | Patromierz
 
 permalink: /salvenet
 ---

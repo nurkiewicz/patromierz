@@ -1,5 +1,5 @@
 ---
-title: Heinrich House Studio | Patromierz
+title: Heinrich House Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /HHS
 ---

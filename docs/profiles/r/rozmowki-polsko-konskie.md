@@ -1,5 +1,5 @@
 ---
-title: "Rozm\xF3wki polsko-ko\u0144skie | Patromierz"
+title: "Rozm\xF3wki polsko-ko\u0144skie | Statystyki patronite.pl | Patromierz"
 
 permalink: /rozmowki-polsko-konskie
 ---

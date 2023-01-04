@@ -1,5 +1,5 @@
 ---
-title: "Gryfny \u015Alub | Patromierz"
+title: "Gryfny \u015Alub | Statystyki patronite.pl | Patromierz"
 
 permalink: /gryfnyslub
 ---

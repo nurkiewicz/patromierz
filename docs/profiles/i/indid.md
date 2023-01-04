@@ -1,5 +1,5 @@
 ---
-title: Instytut Dyskursu i Dialogu | Patromierz
+title: Instytut Dyskursu i Dialogu | Statystyki patronite.pl | Patromierz
 
 permalink: /indid
 ---

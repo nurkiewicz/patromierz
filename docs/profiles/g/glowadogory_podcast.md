@@ -1,5 +1,5 @@
 ---
-title: "G\u0142owa do g\xF3ry - Podcast | Patromierz"
+title: "G\u0142owa do g\xF3ry - Podcast | Statystyki patronite.pl | Patromierz"
 
 permalink: /glowadogory_podcast
 ---

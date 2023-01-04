@@ -1,5 +1,5 @@
 ---
-title: "Paj\u0105ki | Patromierz"
+title: "Paj\u0105ki | Statystyki patronite.pl | Patromierz"
 
 permalink: /pajaki
 ---

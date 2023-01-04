@@ -1,5 +1,5 @@
 ---
-title: Profesor Pingwin | Patromierz
+title: Profesor Pingwin | Statystyki patronite.pl | Patromierz
 
 permalink: /ProfesorPingwin
 ---

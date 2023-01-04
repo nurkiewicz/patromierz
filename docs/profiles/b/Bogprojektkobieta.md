@@ -1,5 +1,5 @@
 ---
-title: "B\xF3gprojektkobieta | Patromierz"
+title: "B\xF3gprojektkobieta | Statystyki patronite.pl | Patromierz"
 
 permalink: /Bogprojektkobieta
 ---

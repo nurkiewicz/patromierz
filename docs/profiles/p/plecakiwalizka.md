@@ -1,5 +1,5 @@
 ---
-title: Plecak i walizka | Patromierz
+title: Plecak i walizka | Statystyki patronite.pl | Patromierz
 
 permalink: /plecakiwalizka
 ---

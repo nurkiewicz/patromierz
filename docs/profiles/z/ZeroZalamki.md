@@ -1,5 +1,5 @@
 ---
-title: "Zero Za\u0142amki - road to Paralympics | Patromierz"
+title: "Zero Za\u0142amki - road to Paralympics | Statystyki patronite.pl | Patromierz"
 
 permalink: /ZeroZalamki
 ---

@@ -1,5 +1,5 @@
 ---
-title: PAWAROTA Radio | Patromierz
+title: PAWAROTA Radio | Statystyki patronite.pl | Patromierz
 
 permalink: /pawarota
 ---

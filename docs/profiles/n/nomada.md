@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie NOMADA | Patromierz
+title: Stowarzyszenie NOMADA | Statystyki patronite.pl | Patromierz
 
 permalink: /nomada
 ---

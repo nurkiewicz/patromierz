@@ -1,5 +1,5 @@
 ---
-title: Outriders | Patromierz
+title: Outriders | Statystyki patronite.pl | Patromierz
 
 permalink: /outriders
 ---

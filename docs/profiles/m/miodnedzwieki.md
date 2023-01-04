@@ -1,5 +1,5 @@
 ---
-title: Patrycja Krysik | Patromierz
+title: Patrycja Krysik | Statystyki patronite.pl | Patromierz
 
 permalink: /miodnedzwieki
 ---

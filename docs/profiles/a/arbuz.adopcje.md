@@ -1,5 +1,5 @@
 ---
-title: "ArbuZ -  Adopcje Zwierz\u0105t | Patromierz"
+title: "ArbuZ -  Adopcje Zwierz\u0105t | Statystyki patronite.pl | Patromierz"
 
 permalink: /arbuz.adopcje
 ---

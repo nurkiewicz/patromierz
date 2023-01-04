@@ -1,5 +1,5 @@
 ---
-title: "ukidi - Video blog - ro\u015Bliny tropikalne | Patromierz"
+title: "ukidi - Video blog - ro\u015Bliny tropikalne | Statystyki patronite.pl | Patromierz"
 
 permalink: /ukidi
 ---

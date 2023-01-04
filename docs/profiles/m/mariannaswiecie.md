@@ -1,5 +1,5 @@
 ---
-title: "Marian na \u015Awiecie | Patromierz"
+title: "Marian na \u015Awiecie | Statystyki patronite.pl | Patromierz"
 
 permalink: /mariannaswiecie
 ---

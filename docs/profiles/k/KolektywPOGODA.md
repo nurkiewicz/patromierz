@@ -1,5 +1,5 @@
 ---
-title: Kolektyw POGODA | Patromierz
+title: Kolektyw POGODA | Statystyki patronite.pl | Patromierz
 
 permalink: /KolektywPOGODA
 ---

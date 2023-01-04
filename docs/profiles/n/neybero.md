@@ -1,5 +1,5 @@
 ---
-title: Neybero | Patromierz
+title: Neybero | Statystyki patronite.pl | Patromierz
 
 permalink: /neybero
 ---

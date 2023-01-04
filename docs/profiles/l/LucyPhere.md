@@ -1,5 +1,5 @@
 ---
-title: Lucy Phere | Patromierz
+title: Lucy Phere | Statystyki patronite.pl | Patromierz
 
 permalink: /LucyPhere
 ---

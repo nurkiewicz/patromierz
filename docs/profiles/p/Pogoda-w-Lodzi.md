@@ -1,5 +1,5 @@
 ---
-title: "Pogoda w \u0141odzi | Patromierz"
+title: "Pogoda w \u0141odzi | Statystyki patronite.pl | Patromierz"
 
 permalink: /Pogoda-w-Lodzi
 ---

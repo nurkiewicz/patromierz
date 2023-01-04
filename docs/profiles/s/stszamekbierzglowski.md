@@ -1,5 +1,5 @@
 ---
-title: "StS Zamek Bierzg\u0142owski | Patromierz"
+title: "StS Zamek Bierzg\u0142owski | Statystyki patronite.pl | Patromierz"
 
 permalink: /stszamekbierzglowski
 ---

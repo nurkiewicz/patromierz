@@ -1,5 +1,5 @@
 ---
-title: "DJ \u015AWIRU | Patromierz"
+title: "DJ \u015AWIRU | Statystyki patronite.pl | Patromierz"
 
 permalink: /djswiru
 ---

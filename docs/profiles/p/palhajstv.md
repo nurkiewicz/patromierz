@@ -1,5 +1,5 @@
 ---
-title: Pal Hajs TV | Patromierz
+title: Pal Hajs TV | Statystyki patronite.pl | Patromierz
 
 permalink: /palhajstv
 ---

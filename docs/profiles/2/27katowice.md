@@ -1,5 +1,5 @@
 ---
-title: KS 27 Katowice | Patromierz
+title: KS 27 Katowice | Statystyki patronite.pl | Patromierz
 
 permalink: /27katowice
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Niezale\u017Cno\u015B\u0107 Wojtka z Life On Wheelz | Patromierz"
+title: "Niezale\u017Cno\u015B\u0107 Wojtka z Life On Wheelz | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /lifeonwheelz
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A W Bili\u0144scy - fotografia przyrodnicza | Patromierz"
+title: "A W Bili\u0144scy - fotografia przyrodnicza | Statystyki patronite.pl | Patromierz"
 
 permalink: /Włodek-Biliński
 ---

@@ -1,5 +1,5 @@
 ---
-title: Metanoia | Patromierz
+title: Metanoia | Statystyki patronite.pl | Patromierz
 
 permalink: /metanoia
 ---

@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Jakubowski | Patromierz
+title: Krzysztof Jakubowski | Statystyki patronite.pl | Patromierz
 
 permalink: /jakubowski
 ---

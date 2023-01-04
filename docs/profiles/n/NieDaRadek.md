@@ -1,5 +1,5 @@
 ---
-title: NieDaRadek | Patromierz
+title: NieDaRadek | Statystyki patronite.pl | Patromierz
 
 permalink: /NieDaRadek
 ---

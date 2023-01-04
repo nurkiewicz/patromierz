@@ -1,5 +1,5 @@
 ---
-title: Wschodnie Zbrodnie | Patromierz
+title: Wschodnie Zbrodnie | Statystyki patronite.pl | Patromierz
 
 permalink: /wschodniezbrodnie
 ---

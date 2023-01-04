@@ -1,5 +1,5 @@
 ---
-title: "Pi\u0142ka guzikowa | Patromierz"
+title: "Pi\u0142ka guzikowa | Statystyki patronite.pl | Patromierz"
 
 permalink: /pilka_guzikowa
 ---

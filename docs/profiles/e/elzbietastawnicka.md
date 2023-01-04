@@ -1,5 +1,5 @@
 ---
-title: "El\u017Cbieta Stawnicka | Patromierz"
+title: "El\u017Cbieta Stawnicka | Statystyki patronite.pl | Patromierz"
 
 permalink: /elzbietastawnicka
 ---

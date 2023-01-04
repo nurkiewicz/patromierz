@@ -1,5 +1,5 @@
 ---
-title: Poczytaj mi Marto | Patromierz
+title: Poczytaj mi Marto | Statystyki patronite.pl | Patromierz
 
 permalink: /poczytajmimarto
 ---

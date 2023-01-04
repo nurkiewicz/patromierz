@@ -1,5 +1,6 @@
 ---
-title: "Czu\u0142e Punkty // Sylwia \"Nikko\" Biernacka  | Patromierz"
+title: "Czu\u0142e Punkty // Sylwia \"Nikko\" Biernacka  | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /czulepunkty
 ---

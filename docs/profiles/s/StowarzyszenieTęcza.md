@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie T\u0119cza w Krakowie  | Patromierz"
+title: "Stowarzyszenie T\u0119cza w Krakowie  | Statystyki patronite.pl | Patromierz"
 
 permalink: /StowarzyszenieTęcza
 ---

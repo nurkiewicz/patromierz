@@ -1,5 +1,5 @@
 ---
-title: NTN Snow & More | Patromierz
+title: NTN Snow & More | Statystyki patronite.pl | Patromierz
 
 permalink: /ntnsnowandmore
 ---

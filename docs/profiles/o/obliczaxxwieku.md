@@ -1,5 +1,5 @@
 ---
-title: Oblicza XX Wieku | Patromierz
+title: Oblicza XX Wieku | Statystyki patronite.pl | Patromierz
 
 permalink: /obliczaxxwieku
 ---

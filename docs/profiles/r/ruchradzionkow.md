@@ -1,5 +1,5 @@
 ---
-title: "Ruch Radzionk\xF3w | Patromierz"
+title: "Ruch Radzionk\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /ruchradzionkow
 ---

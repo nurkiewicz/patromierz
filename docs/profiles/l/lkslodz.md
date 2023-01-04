@@ -1,5 +1,5 @@
 ---
-title: "\u0141KS \u0141\xF3d\u017A | Patromierz"
+title: "\u0141KS \u0141\xF3d\u017A | Statystyki patronite.pl | Patromierz"
 
 permalink: /lkslodz
 ---

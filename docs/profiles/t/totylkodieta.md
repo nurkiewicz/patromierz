@@ -1,5 +1,5 @@
 ---
-title: Dorota Traczyk-Bednarek | Patromierz
+title: Dorota Traczyk-Bednarek | Statystyki patronite.pl | Patromierz
 
 permalink: /totylkodieta
 ---

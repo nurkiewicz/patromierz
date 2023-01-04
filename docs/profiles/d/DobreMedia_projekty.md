@@ -1,5 +1,5 @@
 ---
-title: Fundacja "Dobre Media" - projekty | Patromierz
+title: Fundacja "Dobre Media" - projekty | Statystyki patronite.pl | Patromierz
 
 permalink: /DobreMedia_projekty
 ---

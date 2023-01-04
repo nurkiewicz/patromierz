@@ -1,5 +1,5 @@
 ---
-title: Urbexy.pl | Patromierz
+title: Urbexy.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /urbexypl
 ---

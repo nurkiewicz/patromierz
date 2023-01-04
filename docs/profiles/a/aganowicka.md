@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Nowicka | Patromierz
+title: Agnieszka Nowicka | Statystyki patronite.pl | Patromierz
 
 permalink: /aganowicka
 ---

@@ -1,5 +1,5 @@
 ---
-title: Szymon Warsz - Szlakiem w nieznane | Patromierz
+title: Szymon Warsz - Szlakiem w nieznane | Statystyki patronite.pl | Patromierz
 
 permalink: /szymonwarsz
 ---

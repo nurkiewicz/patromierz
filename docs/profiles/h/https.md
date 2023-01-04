@@ -1,5 +1,5 @@
 ---
-title: Stajnia Gallop in the lens | Patromierz
+title: Stajnia Gallop in the lens | Statystyki patronite.pl | Patromierz
 
 permalink: /https
 ---

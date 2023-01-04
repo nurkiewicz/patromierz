@@ -1,5 +1,5 @@
 ---
-title: "O\u017Cywienie - Julia Kraso\u0144 | Patromierz"
+title: "O\u017Cywienie - Julia Kraso\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /ozywienie
 ---

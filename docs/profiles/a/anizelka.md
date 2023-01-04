@@ -1,5 +1,5 @@
 ---
-title: "Ani \u017Belka | Patromierz"
+title: "Ani \u017Belka | Statystyki patronite.pl | Patromierz"
 
 permalink: /anizelka
 ---

@@ -1,5 +1,5 @@
 ---
-title: Radek i Ela Siewniak | Patromierz
+title: Radek i Ela Siewniak | Statystyki patronite.pl | Patromierz
 
 permalink: /reministry
 ---

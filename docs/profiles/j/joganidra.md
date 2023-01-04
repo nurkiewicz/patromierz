@@ -1,5 +1,5 @@
 ---
-title: Kasia Klimczewska | Patromierz
+title: Kasia Klimczewska | Statystyki patronite.pl | Patromierz
 
 permalink: /joganidra
 ---

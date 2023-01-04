@@ -1,5 +1,5 @@
 ---
-title: "Na\u015Bladowca | Patromierz"
+title: "Na\u015Bladowca | Statystyki patronite.pl | Patromierz"
 
 permalink: /nasladowca
 ---

@@ -1,5 +1,5 @@
 ---
-title: Egzoovet | Patromierz
+title: Egzoovet | Statystyki patronite.pl | Patromierz
 
 permalink: /egzoovet
 ---

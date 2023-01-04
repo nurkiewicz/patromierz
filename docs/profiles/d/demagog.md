@@ -1,5 +1,5 @@
 ---
-title: Demagog  | Patromierz
+title: Demagog  | Statystyki patronite.pl | Patromierz
 
 permalink: /demagog
 ---

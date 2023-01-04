@@ -1,5 +1,5 @@
 ---
-title: Przedwojenne Restauracje, Bary i Hotele  | Patromierz
+title: Przedwojenne Restauracje, Bary i Hotele  | Statystyki patronite.pl | Patromierz
 
 permalink: /GastroIIRP
 ---

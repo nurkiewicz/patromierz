@@ -1,5 +1,5 @@
 ---
-title: Damian D. | Patromierz
+title: Damian D. | Statystyki patronite.pl | Patromierz
 
 permalink: /debowa-chatka
 ---

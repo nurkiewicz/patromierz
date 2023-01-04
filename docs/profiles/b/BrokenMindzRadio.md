@@ -1,5 +1,5 @@
 ---
-title: Broken Mindz | Patromierz
+title: Broken Mindz | Statystyki patronite.pl | Patromierz
 
 permalink: /BrokenMindzRadio
 ---

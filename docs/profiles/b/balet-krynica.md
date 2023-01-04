@@ -1,5 +1,6 @@
 ---
-title: "Krynickie Studio Baletowe im. W\u0142adys\u0142awa Szl\u0119ka | Patromierz"
+title: "Krynickie Studio Baletowe im. W\u0142adys\u0142awa Szl\u0119ka | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /balet-krynica
 ---

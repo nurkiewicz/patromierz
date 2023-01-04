@@ -1,5 +1,5 @@
 ---
-title: MateMagika  | Patromierz
+title: MateMagika  | Statystyki patronite.pl | Patromierz
 
 permalink: /matemagika
 ---

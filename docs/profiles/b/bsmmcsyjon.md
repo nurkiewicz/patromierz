@@ -1,6 +1,6 @@
 ---
 title: "Be\u0142chatowskie Stowarzyszenie Mi\u0142o\u015Bnik\xF3w Muzyki Chrze\u015B\
-  cija\u0144skiej ''Syjon'' | Patromierz"
+  cija\u0144skiej ''Syjon'' | Statystyki patronite.pl | Patromierz"
 
 permalink: /bsmmcsyjon
 ---

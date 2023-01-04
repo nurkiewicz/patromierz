@@ -1,5 +1,5 @@
 ---
-title: Mocni w Duchu | Patromierz
+title: Mocni w Duchu | Statystyki patronite.pl | Patromierz
 
 permalink: /mocniwduchu
 ---

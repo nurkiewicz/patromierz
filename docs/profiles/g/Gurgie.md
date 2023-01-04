@@ -1,5 +1,5 @@
 ---
-title: Klub Gurgie | Patromierz
+title: Klub Gurgie | Statystyki patronite.pl | Patromierz
 
 permalink: /Gurgie
 ---

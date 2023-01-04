@@ -1,5 +1,5 @@
 ---
-title: Tuba Cordis | Patromierz
+title: Tuba Cordis | Statystyki patronite.pl | Patromierz
 
 permalink: /tubacordis
 ---

@@ -1,5 +1,5 @@
 ---
-title: Justyna Margielewska | Patromierz
+title: Justyna Margielewska | Statystyki patronite.pl | Patromierz
 
 permalink: /justaanimuje
 ---

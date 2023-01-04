@@ -1,5 +1,5 @@
 ---
-title: "Pogodny Wa\u0142brzych | Patromierz"
+title: "Pogodny Wa\u0142brzych | Statystyki patronite.pl | Patromierz"
 
 permalink: /PogodnyWalbrzych
 ---

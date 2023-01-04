@@ -1,5 +1,5 @@
 ---
-title: "TwojaNowa\u015Awiadomo\u015B\u0107  | Patromierz"
+title: "TwojaNowa\u015Awiadomo\u015B\u0107  | Statystyki patronite.pl | Patromierz"
 
 permalink: /twojanowaswiadomosc
 ---

@@ -1,5 +1,5 @@
 ---
-title: Brygida Sordyl | Patromierz
+title: Brygida Sordyl | Statystyki patronite.pl | Patromierz
 
 permalink: /BrygidaSordyl87
 ---

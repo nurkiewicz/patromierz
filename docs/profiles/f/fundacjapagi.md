@@ -1,5 +1,5 @@
 ---
-title: Fundacja Pagi | Patromierz
+title: Fundacja Pagi | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjapagi
 ---

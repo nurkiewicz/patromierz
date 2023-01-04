@@ -1,5 +1,5 @@
 ---
-title: Yoga with Paulina | Patromierz
+title: Yoga with Paulina | Statystyki patronite.pl | Patromierz
 
 permalink: /joga-paulina
 ---

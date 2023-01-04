@@ -1,5 +1,5 @@
 ---
-title: Muzeum Skarb Narodu | Patromierz
+title: Muzeum Skarb Narodu | Statystyki patronite.pl | Patromierz
 
 permalink: /MuzeumSkarbNarodu
 ---

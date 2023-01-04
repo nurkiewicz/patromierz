@@ -1,5 +1,5 @@
 ---
-title: "Hello, Zo\u015B | Patromierz"
+title: "Hello, Zo\u015B | Statystyki patronite.pl | Patromierz"
 
 permalink: /hellozos
 ---

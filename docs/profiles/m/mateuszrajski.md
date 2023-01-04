@@ -1,5 +1,5 @@
 ---
-title: Mateusz Rajski | Patromierz
+title: Mateusz Rajski | Statystyki patronite.pl | Patromierz
 
 permalink: /mateuszrajski
 ---

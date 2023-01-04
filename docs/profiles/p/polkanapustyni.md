@@ -1,5 +1,5 @@
 ---
-title: Polka na pustyni | Patromierz
+title: Polka na pustyni | Statystyki patronite.pl | Patromierz
 
 permalink: /polkanapustyni
 ---

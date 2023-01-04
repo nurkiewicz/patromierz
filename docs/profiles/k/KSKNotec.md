@@ -1,5 +1,5 @@
 ---
-title: "KSK Note\u0107 Inowroc\u0142aw | Patromierz"
+title: "KSK Note\u0107 Inowroc\u0142aw | Statystyki patronite.pl | Patromierz"
 
 permalink: /KSKNotec
 ---

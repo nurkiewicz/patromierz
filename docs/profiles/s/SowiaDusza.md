@@ -1,5 +1,5 @@
 ---
-title: Sowia Dusza | Patromierz
+title: Sowia Dusza | Statystyki patronite.pl | Patromierz
 
 permalink: /SowiaDusza
 ---

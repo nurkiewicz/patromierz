@@ -1,5 +1,5 @@
 ---
-title: "Gemela pozna\u0144ska | Patromierz"
+title: "Gemela pozna\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /gemelapoznanska
 ---

@@ -1,5 +1,5 @@
 ---
-title: Crystal Tarot | Patromierz
+title: Crystal Tarot | Statystyki patronite.pl | Patromierz
 
 permalink: /crystaltarot
 ---

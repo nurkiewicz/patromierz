@@ -1,5 +1,5 @@
 ---
-title: "Mened\u017Cer Plus | Mariusz Chrapko | Patromierz"
+title: "Mened\u017Cer Plus | Mariusz Chrapko | Statystyki patronite.pl | Patromierz"
 
 permalink: /menedzerplus
 ---

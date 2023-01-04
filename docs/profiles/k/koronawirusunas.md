@@ -1,5 +1,5 @@
 ---
-title: Koronawirusunas.pl | Patromierz
+title: Koronawirusunas.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /koronawirusunas
 ---

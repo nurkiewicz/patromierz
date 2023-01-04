@@ -1,5 +1,5 @@
 ---
-title: "MKS Bzura Ozork\xF3w | Patromierz"
+title: "MKS Bzura Ozork\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /mksbzura.pl
 ---

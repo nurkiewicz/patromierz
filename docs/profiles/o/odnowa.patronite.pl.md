@@ -1,5 +1,5 @@
 ---
-title: "Wsp\xF3lnota Odnowa | Patromierz"
+title: "Wsp\xF3lnota Odnowa | Statystyki patronite.pl | Patromierz"
 
 permalink: /odnowa.patronite.pl
 ---

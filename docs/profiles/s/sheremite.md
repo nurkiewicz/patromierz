@@ -1,5 +1,5 @@
 ---
-title: Paulina | Patromierz
+title: Paulina | Statystyki patronite.pl | Patromierz
 
 permalink: /sheremite
 ---

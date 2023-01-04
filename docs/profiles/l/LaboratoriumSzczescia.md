@@ -1,5 +1,6 @@
 ---
-title: "Andrzej Stasiak Laboratorium Szcz\u0119\u015Bcia | Patromierz"
+title: "Andrzej Stasiak Laboratorium Szcz\u0119\u015Bcia | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /LaboratoriumSzczescia
 ---

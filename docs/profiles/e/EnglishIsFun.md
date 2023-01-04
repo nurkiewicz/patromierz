@@ -1,5 +1,5 @@
 ---
-title: English is FUN | Patromierz
+title: English is FUN | Statystyki patronite.pl | Patromierz
 
 permalink: /EnglishIsFun
 ---

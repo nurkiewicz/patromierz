@@ -1,5 +1,5 @@
 ---
-title: Pogotowie dla Drzew | Patromierz
+title: Pogotowie dla Drzew | Statystyki patronite.pl | Patromierz
 
 permalink: /dzikapolska.org
 ---

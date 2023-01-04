@@ -1,5 +1,5 @@
 ---
-title: "Marek Wa\u015Bkiel | Patromierz"
+title: "Marek Wa\u015Bkiel | Statystyki patronite.pl | Patromierz"
 
 permalink: /marekwaskiel
 ---

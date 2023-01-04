@@ -1,5 +1,5 @@
 ---
-title: Annica88 | Patromierz
+title: Annica88 | Statystyki patronite.pl | Patromierz
 
 permalink: /annica88
 ---

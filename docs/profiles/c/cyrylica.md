@@ -1,5 +1,5 @@
 ---
-title: "CY\u042FYLICA | Patromierz"
+title: "CY\u042FYLICA | Statystyki patronite.pl | Patromierz"
 
 permalink: /cyrylica
 ---

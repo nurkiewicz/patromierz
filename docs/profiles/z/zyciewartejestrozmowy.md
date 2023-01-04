@@ -1,5 +1,5 @@
 ---
-title: "\u017Cycie warte jest rozmowy | Patromierz"
+title: "\u017Cycie warte jest rozmowy | Statystyki patronite.pl | Patromierz"
 
 permalink: /zyciewartejestrozmowy
 ---

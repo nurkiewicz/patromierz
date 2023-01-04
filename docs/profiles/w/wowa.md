@@ -1,5 +1,5 @@
 ---
-title: WOWA | Patromierz
+title: WOWA | Statystyki patronite.pl | Patromierz
 
 permalink: /wowa
 ---

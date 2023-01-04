@@ -1,5 +1,5 @@
 ---
-title: Kuba Dudek Guitar | Patromierz
+title: Kuba Dudek Guitar | Statystyki patronite.pl | Patromierz
 
 permalink: /KubaDudek
 ---

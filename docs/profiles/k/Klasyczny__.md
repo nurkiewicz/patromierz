@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Sumyk | Patromierz"
+title: "Przemys\u0142aw Sumyk | Statystyki patronite.pl | Patromierz"
 
 permalink: /Klasyczny__
 ---

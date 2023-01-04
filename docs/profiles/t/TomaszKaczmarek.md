@@ -1,5 +1,5 @@
 ---
-title: Tomasz Kaczmarek | Patromierz
+title: Tomasz Kaczmarek | Statystyki patronite.pl | Patromierz
 
 permalink: /TomaszKaczmarek
 ---

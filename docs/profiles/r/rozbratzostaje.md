@@ -1,5 +1,5 @@
 ---
-title: Rozbrat | Patromierz
+title: Rozbrat | Statystyki patronite.pl | Patromierz
 
 permalink: /rozbratzostaje
 ---

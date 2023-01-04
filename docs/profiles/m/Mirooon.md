@@ -1,5 +1,5 @@
 ---
-title: Mirooon | Patromierz
+title: Mirooon | Statystyki patronite.pl | Patromierz
 
 permalink: /Mirooon
 ---

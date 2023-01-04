@@ -1,5 +1,6 @@
 ---
-title: "Wsp\xF3lnota MI\u0141O\u015A\u0106 I MI\u0141OSIERDZIE JEZUSA | Patromierz"
+title: "Wsp\xF3lnota MI\u0141O\u015A\u0106 I MI\u0141OSIERDZIE JEZUSA | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /mimj.org
 ---

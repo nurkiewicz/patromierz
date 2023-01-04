@@ -1,5 +1,5 @@
 ---
-title: "Teatr Z\u0142udze\u0144 prezentuje: IMP | Patromierz"
+title: "Teatr Z\u0142udze\u0144 prezentuje: IMP | Statystyki patronite.pl | Patromierz"
 
 permalink: /Teatr-Zludzen
 ---

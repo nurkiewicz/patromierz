@@ -1,5 +1,5 @@
 ---
-title: "Sebek K\u0119dziora | Patromierz"
+title: "Sebek K\u0119dziora | Statystyki patronite.pl | Patromierz"
 
 permalink: /SebastianKedziora
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ada Forrester | Patromierz
+title: Ada Forrester | Statystyki patronite.pl | Patromierz
 
 permalink: /czytane.aforrester
 ---

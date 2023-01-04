@@ -1,5 +1,5 @@
 ---
-title: Fundacja Duch Leona | Patromierz
+title: Fundacja Duch Leona | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjaduchleona
 ---

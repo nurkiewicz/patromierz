@@ -1,5 +1,5 @@
 ---
-title: Mafi Malibu | Patromierz
+title: Mafi Malibu | Statystyki patronite.pl | Patromierz
 
 permalink: /mafimalibu
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Radio Nowy \u015Awiat | Patromierz"
+title: "Radio Nowy \u015Awiat | Statystyki patronite.pl | Patromierz"
 
 permalink: /radionowyswiat
 ---

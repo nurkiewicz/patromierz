@@ -1,5 +1,5 @@
 ---
-title: Pani Syn Udaje | Patromierz
+title: Pani Syn Udaje | Statystyki patronite.pl | Patromierz
 
 permalink: /PaniSynUdaje
 ---

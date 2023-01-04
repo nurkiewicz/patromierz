@@ -1,5 +1,5 @@
 ---
-title: Kuszlewicz w imieniu | Patromierz
+title: Kuszlewicz w imieniu | Statystyki patronite.pl | Patromierz
 
 permalink: /kuszlewiczwimieniu
 ---

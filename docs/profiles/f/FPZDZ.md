@@ -1,5 +1,6 @@
 ---
-title: "Fundacja Przyjaciele Zwierz\u0105t dla Zwierz\u0105t | Patromierz"
+title: "Fundacja Przyjaciele Zwierz\u0105t dla Zwierz\u0105t | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /FPZDZ
 ---

@@ -1,5 +1,5 @@
 ---
-title: Kamila Mistarz | Patromierz
+title: Kamila Mistarz | Statystyki patronite.pl | Patromierz
 
 permalink: /kamilamistarz
 ---

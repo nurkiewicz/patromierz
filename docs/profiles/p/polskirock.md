@@ -1,5 +1,6 @@
 ---
-title: Archiwum Polskiego Rocka - Polski Rock w najlepszym wydaniu | Patromierz
+title: Archiwum Polskiego Rocka - Polski Rock w najlepszym wydaniu | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /polskirock
 ---

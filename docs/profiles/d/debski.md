@@ -1,5 +1,5 @@
 ---
-title: "Bart\u0142omiej D\u0119bski | Patromierz"
+title: "Bart\u0142omiej D\u0119bski | Statystyki patronite.pl | Patromierz"
 
 permalink: /debski
 ---

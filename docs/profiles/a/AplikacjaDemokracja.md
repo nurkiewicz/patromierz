@@ -1,5 +1,5 @@
 ---
-title: Aplikacja Demokracja | Patromierz
+title: Aplikacja Demokracja | Statystyki patronite.pl | Patromierz
 
 permalink: /AplikacjaDemokracja
 ---

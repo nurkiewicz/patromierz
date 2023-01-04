@@ -1,5 +1,6 @@
 ---
-title: dr Andrzej Silczuk / Niemyte Dusze / Overthinkers | Patromierz
+title: dr Andrzej Silczuk / Niemyte Dusze / Overthinkers | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /andrzejsilczuk
 ---

@@ -1,5 +1,5 @@
 ---
-title: infoszach | Patromierz
+title: infoszach | Statystyki patronite.pl | Patromierz
 
 permalink: /infoszach
 ---

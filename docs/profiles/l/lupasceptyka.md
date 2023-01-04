@@ -1,5 +1,5 @@
 ---
-title: Lupa Sceptyka | Patromierz
+title: Lupa Sceptyka | Statystyki patronite.pl | Patromierz
 
 permalink: /lupasceptyka
 ---

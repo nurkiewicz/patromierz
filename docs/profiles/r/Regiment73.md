@@ -1,5 +1,5 @@
 ---
-title: GRH Inf.-Reg. 73 | Patromierz
+title: GRH Inf.-Reg. 73 | Statystyki patronite.pl | Patromierz
 
 permalink: /Regiment73
 ---

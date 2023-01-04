@@ -1,5 +1,5 @@
 ---
-title: BIALOBLOCKI PRO COACHING TEAM | Patromierz
+title: BIALOBLOCKI PRO COACHING TEAM | Statystyki patronite.pl | Patromierz
 
 permalink: /BialoblockiPro
 ---

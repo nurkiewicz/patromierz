@@ -1,5 +1,5 @@
 ---
-title: Maciej Niemas | Patromierz
+title: Maciej Niemas | Statystyki patronite.pl | Patromierz
 
 permalink: /maciejniemas
 ---

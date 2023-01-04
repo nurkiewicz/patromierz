@@ -1,5 +1,5 @@
 ---
-title: Na celowniku - Artur Dubiel Podcast | Patromierz
+title: Na celowniku - Artur Dubiel Podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /nacelowniku
 ---

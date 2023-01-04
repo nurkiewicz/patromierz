@@ -1,5 +1,5 @@
 ---
-title: Ida Tymina | Patromierz
+title: Ida Tymina | Statystyki patronite.pl | Patromierz
 
 permalink: /idatymina
 ---

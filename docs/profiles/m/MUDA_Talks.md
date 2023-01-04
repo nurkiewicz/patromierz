@@ -1,5 +1,5 @@
 ---
-title: MUDA Talks | Patromierz
+title: MUDA Talks | Statystyki patronite.pl | Patromierz
 
 permalink: /MUDA_Talks
 ---

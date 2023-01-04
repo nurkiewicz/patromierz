@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 \"MichalizoR\" Ozi\u0119b\u0142y | Patromierz"
+title: "Micha\u0142 \"MichalizoR\" Ozi\u0119b\u0142y | Statystyki patronite.pl | Patromierz"
 
 permalink: /michaloziebly
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Macondo - Dom Pracy Tw\xF3rczej | Patromierz"
+title: "Macondo - Dom Pracy Tw\xF3rczej | Statystyki patronite.pl | Patromierz"
 
 permalink: /MacondoDomPracyTworczej
 ---

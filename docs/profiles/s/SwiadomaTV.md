@@ -1,5 +1,5 @@
 ---
-title: "\u015Awiadoma.TV | Patromierz"
+title: "\u015Awiadoma.TV | Statystyki patronite.pl | Patromierz"
 
 permalink: /SwiadomaTV
 ---

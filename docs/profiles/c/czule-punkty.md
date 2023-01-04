@@ -1,5 +1,5 @@
 ---
-title: "Czu\u0142e Punkty | Patromierz"
+title: "Czu\u0142e Punkty | Statystyki patronite.pl | Patromierz"
 
 permalink: /czule-punkty
 ---

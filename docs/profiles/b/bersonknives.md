@@ -1,5 +1,5 @@
 ---
-title: bersonknives | Patromierz
+title: bersonknives | Statystyki patronite.pl | Patromierz
 
 permalink: /bersonknives
 ---

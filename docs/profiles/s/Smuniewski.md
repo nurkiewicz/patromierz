@@ -1,5 +1,5 @@
 ---
-title: Konrad Smuniewski | Patromierz
+title: Konrad Smuniewski | Statystyki patronite.pl | Patromierz
 
 permalink: /Smuniewski
 ---

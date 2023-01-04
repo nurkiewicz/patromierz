@@ -1,5 +1,5 @@
 ---
-title: MaD Players | Patromierz
+title: MaD Players | Statystyki patronite.pl | Patromierz
 
 permalink: /madplayers
 ---

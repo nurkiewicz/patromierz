@@ -1,5 +1,6 @@
 ---
-title: "Intencje.pl - Platforma Duchowej \u0141\u0105czno\u015Bci | Patromierz"
+title: "Intencje.pl - Platforma Duchowej \u0141\u0105czno\u015Bci | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /intencje
 ---

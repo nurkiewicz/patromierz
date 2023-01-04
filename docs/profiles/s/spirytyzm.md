@@ -1,5 +1,5 @@
 ---
-title: Bez tajemnic | Patromierz
+title: Bez tajemnic | Statystyki patronite.pl | Patromierz
 
 permalink: /spirytyzm
 ---

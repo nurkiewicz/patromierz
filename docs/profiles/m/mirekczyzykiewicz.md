@@ -1,5 +1,5 @@
 ---
-title: "Mirek Czy\u017Cykiewicz  | Patromierz"
+title: "Mirek Czy\u017Cykiewicz  | Statystyki patronite.pl | Patromierz"
 
 permalink: /mirekczyzykiewicz
 ---

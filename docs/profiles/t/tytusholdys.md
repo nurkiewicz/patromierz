@@ -1,5 +1,5 @@
 ---
-title: "Tytus Ho\u0142dys  | Patromierz"
+title: "Tytus Ho\u0142dys  | Statystyki patronite.pl | Patromierz"
 
 permalink: /tytusholdys
 ---

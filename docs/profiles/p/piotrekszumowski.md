@@ -1,5 +1,6 @@
 ---
-title: "Komik dooko\u0142a \u015Bwiata 2 - BON VOYAGE | Patromierz"
+title: "Komik dooko\u0142a \u015Bwiata 2 - BON VOYAGE | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /piotrekszumowski
 ---

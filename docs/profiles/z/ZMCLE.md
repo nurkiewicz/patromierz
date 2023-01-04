@@ -1,5 +1,5 @@
 ---
-title: Zamojska Liga E-Sportowa | Patromierz
+title: Zamojska Liga E-Sportowa | Statystyki patronite.pl | Patromierz
 
 permalink: /ZMCLE
 ---

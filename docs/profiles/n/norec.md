@@ -1,5 +1,5 @@
 ---
-title: "Norbert Budzy\u0144ski | Patromierz"
+title: "Norbert Budzy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /norec
 ---

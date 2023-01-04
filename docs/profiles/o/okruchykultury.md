@@ -1,5 +1,5 @@
 ---
-title: Okruchy Kultury | Patromierz
+title: Okruchy Kultury | Statystyki patronite.pl | Patromierz
 
 permalink: /okruchykultury
 ---

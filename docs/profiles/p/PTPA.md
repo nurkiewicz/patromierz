@@ -1,5 +1,6 @@
 ---
-title: Polskie Towarzystwo Prawa Antydyskryminacyjnego | Patromierz
+title: Polskie Towarzystwo Prawa Antydyskryminacyjnego | Statystyki patronite.pl |
+  Patromierz
 
 permalink: /PTPA
 ---

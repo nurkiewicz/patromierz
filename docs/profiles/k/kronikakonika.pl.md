@@ -1,5 +1,5 @@
 ---
-title: Kronika Konika | Patromierz
+title: Kronika Konika | Statystyki patronite.pl | Patromierz
 
 permalink: /kronikakonika.pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Samiec Beta | Patromierz
+title: Samiec Beta | Statystyki patronite.pl | Patromierz
 
 permalink: /samiecbeta
 ---

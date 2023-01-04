@@ -1,5 +1,5 @@
 ---
-title: Aniutka | Patromierz
+title: Aniutka | Statystyki patronite.pl | Patromierz
 
 permalink: /Aniutka
 ---

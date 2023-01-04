@@ -1,5 +1,5 @@
 ---
-title: "Krzysztof Dziewi\u0105tkowski | Patromierz"
+title: "Krzysztof Dziewi\u0105tkowski | Statystyki patronite.pl | Patromierz"
 
 permalink: /kinto
 ---

@@ -1,5 +1,5 @@
 ---
-title: Spod Wody | Patromierz
+title: Spod Wody | Statystyki patronite.pl | Patromierz
 
 permalink: /spodwody
 ---

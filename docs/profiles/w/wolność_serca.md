@@ -1,5 +1,5 @@
 ---
-title: "Wolno\u015B\u0107 serca | Patromierz"
+title: "Wolno\u015B\u0107 serca | Statystyki patronite.pl | Patromierz"
 
 permalink: /wolność_serca
 ---

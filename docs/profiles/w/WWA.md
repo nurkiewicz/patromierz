@@ -1,5 +1,5 @@
 ---
-title: "W W\u0119dkarskim Amoku | Patromierz"
+title: "W W\u0119dkarskim Amoku | Statystyki patronite.pl | Patromierz"
 
 permalink: /WWA
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Instytut Wspomagania Rozwoju Dziecka | Patromierz
+title: Fundacja Instytut Wspomagania Rozwoju Dziecka | Statystyki patronite.pl | Patromierz
 
 permalink: /iwrd
 ---

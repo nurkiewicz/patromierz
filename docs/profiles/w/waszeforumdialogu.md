@@ -1,5 +1,5 @@
 ---
-title: WaszeForum Dialogu | Patromierz
+title: WaszeForum Dialogu | Statystyki patronite.pl | Patromierz
 
 permalink: /waszeforumdialogu
 ---

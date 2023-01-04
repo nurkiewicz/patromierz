@@ -1,5 +1,5 @@
 ---
-title: "Dominika Klimek - #wa\u017Cne podcast | Patromierz"
+title: "Dominika Klimek - #wa\u017Cne podcast | Statystyki patronite.pl | Patromierz"
 
 permalink: /waznepodcast
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zwierz popkulturalny | Patromierz
+title: Zwierz popkulturalny | Statystyki patronite.pl | Patromierz
 
 permalink: /zpopk
 ---

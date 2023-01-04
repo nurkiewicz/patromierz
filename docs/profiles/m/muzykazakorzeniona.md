@@ -1,5 +1,5 @@
 ---
-title: Muzyka Zakorzeniona | Patromierz
+title: Muzyka Zakorzeniona | Statystyki patronite.pl | Patromierz
 
 permalink: /muzykazakorzeniona
 ---

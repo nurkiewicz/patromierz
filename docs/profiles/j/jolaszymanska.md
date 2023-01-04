@@ -1,5 +1,5 @@
 ---
-title: "Jola Szyma\u0144ska | Patromierz"
+title: "Jola Szyma\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /jolaszymanska
 ---

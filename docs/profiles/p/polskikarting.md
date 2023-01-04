@@ -1,5 +1,5 @@
 ---
-title: Polski Karting | Patromierz
+title: Polski Karting | Statystyki patronite.pl | Patromierz
 
 permalink: /polskikarting
 ---

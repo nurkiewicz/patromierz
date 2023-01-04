@@ -1,5 +1,5 @@
 ---
-title: Jan Wieczorek - Siemianowice Subiektywnie | Patromierz
+title: Jan Wieczorek - Siemianowice Subiektywnie | Statystyki patronite.pl | Patromierz
 
 permalink: /siemianowicesubiektywnie
 ---

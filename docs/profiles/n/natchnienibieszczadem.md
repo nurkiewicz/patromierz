@@ -1,5 +1,5 @@
 ---
-title: STOWARZYSZENIE "NATCHNIENI BIESZCZADEM"  | Patromierz
+title: STOWARZYSZENIE "NATCHNIENI BIESZCZADEM"  | Statystyki patronite.pl | Patromierz
 
 permalink: /natchnienibieszczadem
 ---

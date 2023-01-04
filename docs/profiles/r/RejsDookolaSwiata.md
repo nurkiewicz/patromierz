@@ -1,5 +1,5 @@
 ---
-title: "Rejs Dooko\u0142a \u015Awiata - SV Crystal | Patromierz"
+title: "Rejs Dooko\u0142a \u015Awiata - SV Crystal | Statystyki patronite.pl | Patromierz"
 
 permalink: /RejsDookolaSwiata
 ---

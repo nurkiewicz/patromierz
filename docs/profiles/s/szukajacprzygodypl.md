@@ -1,5 +1,6 @@
 ---
-title: "Szukaj\u0105c Przygody - \u017Bycie na Filipinach | Patromierz"
+title: "Szukaj\u0105c Przygody - \u017Bycie na Filipinach | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /szukajacprzygodypl
 ---

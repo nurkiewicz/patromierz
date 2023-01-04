@@ -1,5 +1,5 @@
 ---
-title: "Kasia \u015Amia\u0142ek | Patromierz"
+title: "Kasia \u015Amia\u0142ek | Statystyki patronite.pl | Patromierz"
 
 permalink: /kasiasmialek
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PROROCTWO (Fundacja im. \u015Bw. Filomeny)  | Patromierz"
+title: "PROROCTWO (Fundacja im. \u015Bw. Filomeny)  | Statystyki patronite.pl | Patromierz"
 
 permalink: /PROROCTWO
 ---

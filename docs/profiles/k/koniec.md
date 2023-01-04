@@ -1,5 +1,5 @@
 ---
-title: Koniec | Patromierz
+title: Koniec | Statystyki patronite.pl | Patromierz
 
 permalink: /koniec
 ---

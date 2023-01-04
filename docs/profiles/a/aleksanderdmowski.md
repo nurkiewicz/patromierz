@@ -1,5 +1,5 @@
 ---
-title: Aleksander Dmowski | Patromierz
+title: Aleksander Dmowski | Statystyki patronite.pl | Patromierz
 
 permalink: /aleksanderdmowski
 ---

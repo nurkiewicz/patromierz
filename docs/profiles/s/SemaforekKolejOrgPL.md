@@ -1,5 +1,5 @@
 ---
-title: Semaforek.Kolej.Org.Pl | Patromierz
+title: Semaforek.Kolej.Org.Pl | Statystyki patronite.pl | Patromierz
 
 permalink: /SemaforekKolejOrgPL
 ---

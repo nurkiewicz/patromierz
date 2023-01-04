@@ -1,5 +1,5 @@
 ---
-title: "Du\u0144ski Do Kawy | Patromierz"
+title: "Du\u0144ski Do Kawy | Statystyki patronite.pl | Patromierz"
 
 permalink: /dunskidokawy
 ---

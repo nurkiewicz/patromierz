@@ -1,5 +1,5 @@
 ---
-title: Manuela Gretkowska | Patromierz
+title: Manuela Gretkowska | Statystyki patronite.pl | Patromierz
 
 permalink: /manuelagretkowska
 ---

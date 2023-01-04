@@ -1,5 +1,5 @@
 ---
-title: "Scout Camp Pozna\u0144 | Patromierz"
+title: "Scout Camp Pozna\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /ScoutCampPoznań
 ---

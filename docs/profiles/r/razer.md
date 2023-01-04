@@ -1,5 +1,5 @@
 ---
-title: Razer | Patromierz
+title: Razer | Statystyki patronite.pl | Patromierz
 
 permalink: /razer
 ---

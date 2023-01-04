@@ -1,5 +1,5 @@
 ---
-title: Gra na nerwach | Patromierz
+title: Gra na nerwach | Statystyki patronite.pl | Patromierz
 
 permalink: /grananerwach
 ---

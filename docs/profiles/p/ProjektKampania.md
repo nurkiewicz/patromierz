@@ -1,5 +1,5 @@
 ---
-title: Projekt Kampania | Patromierz
+title: Projekt Kampania | Statystyki patronite.pl | Patromierz
 
 permalink: /ProjektKampania
 ---

@@ -1,5 +1,5 @@
 ---
-title: Prosto o Prawie | Patromierz
+title: Prosto o Prawie | Statystyki patronite.pl | Patromierz
 
 permalink: /prosto-o-prawie
 ---

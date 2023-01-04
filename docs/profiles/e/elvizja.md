@@ -1,5 +1,5 @@
 ---
-title: Elvizja | Patromierz
+title: Elvizja | Statystyki patronite.pl | Patromierz
 
 permalink: /elvizja
 ---

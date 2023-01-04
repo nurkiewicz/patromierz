@@ -1,5 +1,5 @@
 ---
-title: W PODSKOKACH | Patromierz
+title: W PODSKOKACH | Statystyki patronite.pl | Patromierz
 
 permalink: /w-podskokach
 ---

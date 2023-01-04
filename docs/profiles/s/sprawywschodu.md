@@ -1,5 +1,5 @@
 ---
-title: Sprawy Wschodu | Patromierz
+title: Sprawy Wschodu | Statystyki patronite.pl | Patromierz
 
 permalink: /sprawywschodu
 ---

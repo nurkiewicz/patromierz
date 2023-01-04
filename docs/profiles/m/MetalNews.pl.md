@@ -1,5 +1,5 @@
 ---
-title: MetalNews.pl | Patromierz
+title: MetalNews.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /MetalNews.pl
 ---

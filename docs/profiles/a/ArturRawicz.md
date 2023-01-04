@@ -1,5 +1,5 @@
 ---
-title: Rozmowy Rawicza | Patromierz
+title: Rozmowy Rawicza | Statystyki patronite.pl | Patromierz
 
 permalink: /ArturRawicz
 ---

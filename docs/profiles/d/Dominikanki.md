@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Si\xF3str \u015Aw. Dominika | Patromierz"
+title: "Fundacja Si\xF3str \u015Aw. Dominika | Statystyki patronite.pl | Patromierz"
 
 permalink: /Dominikanki
 ---

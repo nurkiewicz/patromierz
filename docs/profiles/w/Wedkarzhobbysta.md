@@ -1,5 +1,5 @@
 ---
-title: "w\u0119dkarz hobbysta | Patromierz"
+title: "w\u0119dkarz hobbysta | Statystyki patronite.pl | Patromierz"
 
 permalink: /Wedkarzhobbysta
 ---

@@ -1,5 +1,5 @@
 ---
-title: Homokomando | Patromierz
+title: Homokomando | Statystyki patronite.pl | Patromierz
 
 permalink: /homokomando
 ---

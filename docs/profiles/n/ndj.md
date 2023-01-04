@@ -1,5 +1,5 @@
 ---
-title: "Nale\u017Ce\u0107 do Jezusa | Patromierz"
+title: "Nale\u017Ce\u0107 do Jezusa | Statystyki patronite.pl | Patromierz"
 
 permalink: /ndj
 ---

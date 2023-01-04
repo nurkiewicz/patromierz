@@ -1,5 +1,5 @@
 ---
-title: Rakietomania | Patromierz
+title: Rakietomania | Statystyki patronite.pl | Patromierz
 
 permalink: /Rakietomania
 ---

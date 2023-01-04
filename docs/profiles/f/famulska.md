@@ -1,5 +1,5 @@
 ---
-title: Nadia Famulska | Patromierz
+title: Nadia Famulska | Statystyki patronite.pl | Patromierz
 
 permalink: /famulska
 ---

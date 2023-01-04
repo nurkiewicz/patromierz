@@ -1,5 +1,5 @@
 ---
-title: Fundacja RAP | Patromierz
+title: Fundacja RAP | Statystyki patronite.pl | Patromierz
 
 permalink: /FundacjaRAP
 ---

@@ -1,5 +1,5 @@
 ---
-title: UBoga Podcast | Patromierz
+title: UBoga Podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /ubogapodcast
 ---

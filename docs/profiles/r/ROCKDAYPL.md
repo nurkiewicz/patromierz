@@ -1,5 +1,5 @@
 ---
-title: ROCKDAYPL | Patromierz
+title: ROCKDAYPL | Statystyki patronite.pl | Patromierz
 
 permalink: /ROCKDAYPL
 ---

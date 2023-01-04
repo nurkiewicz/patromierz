@@ -1,5 +1,5 @@
 ---
-title: ZnajomyKRoLIKA | Patromierz
+title: ZnajomyKRoLIKA | Statystyki patronite.pl | Patromierz
 
 permalink: /znajomykrolika
 ---

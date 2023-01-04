@@ -1,5 +1,5 @@
 ---
-title: "Husaria \u0141apczyca | Patromierz"
+title: "Husaria \u0141apczyca | Statystyki patronite.pl | Patromierz"
 
 permalink: /husarialapczyca
 ---

@@ -1,5 +1,5 @@
 ---
-title: 2plus4 | Patromierz
+title: 2plus4 | Statystyki patronite.pl | Patromierz
 
 permalink: /2plus4
 ---

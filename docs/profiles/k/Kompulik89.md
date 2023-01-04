@@ -1,5 +1,5 @@
 ---
-title: Z ArPiwum X | Patromierz
+title: Z ArPiwum X | Statystyki patronite.pl | Patromierz
 
 permalink: /Kompulik89
 ---

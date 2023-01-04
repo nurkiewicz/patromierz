@@ -1,5 +1,5 @@
 ---
-title: "Zaprogramuj \u017Bycie | Patromierz"
+title: "Zaprogramuj \u017Bycie | Statystyki patronite.pl | Patromierz"
 
 permalink: /zaprogramujzycie
 ---

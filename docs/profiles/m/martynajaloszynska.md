@@ -1,5 +1,5 @@
 ---
-title: "Martyna Ja\u0142oszy\u0144ska | Patromierz"
+title: "Martyna Ja\u0142oszy\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /martynajaloszynska
 ---

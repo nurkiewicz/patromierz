@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Bez | Patromierz
+title: Stowarzyszenie Bez | Statystyki patronite.pl | Patromierz
 
 permalink: /stowarzyszeniebez.org
 ---

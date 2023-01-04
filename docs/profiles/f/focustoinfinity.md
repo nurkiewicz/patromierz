@@ -1,5 +1,5 @@
 ---
-title: Focus to Infinity | Patromierz
+title: Focus to Infinity | Statystyki patronite.pl | Patromierz
 
 permalink: /focustoinfinity
 ---

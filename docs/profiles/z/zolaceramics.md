@@ -1,5 +1,5 @@
 ---
-title: maria zola | Patromierz
+title: maria zola | Statystyki patronite.pl | Patromierz
 
 permalink: /zolaceramics
 ---

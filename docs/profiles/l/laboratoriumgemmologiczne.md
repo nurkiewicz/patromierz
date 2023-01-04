@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Stankiewicz | Patromierz
+title: Krzysztof Stankiewicz | Statystyki patronite.pl | Patromierz
 
 permalink: /laboratoriumgemmologiczne
 ---

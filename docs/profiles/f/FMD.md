@@ -1,5 +1,6 @@
 ---
-title: "Stowarzyszenie Forum M\u0142odych Dyplomat\xF3w | Patromierz"
+title: "Stowarzyszenie Forum M\u0142odych Dyplomat\xF3w | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /FMD
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ryzyko Narracyjne - Podcast RPG | Patromierz
+title: Ryzyko Narracyjne - Podcast RPG | Statystyki patronite.pl | Patromierz
 
 permalink: /ryzykonarracyjne
 ---

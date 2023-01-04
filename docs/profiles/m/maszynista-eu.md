@@ -1,5 +1,5 @@
 ---
-title: Maszynista.eu | Patromierz
+title: Maszynista.eu | Statystyki patronite.pl | Patromierz
 
 permalink: /maszynista-eu
 ---

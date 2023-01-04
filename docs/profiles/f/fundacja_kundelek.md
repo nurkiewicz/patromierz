@@ -1,5 +1,5 @@
 ---
-title: Fundacja Kundelek | Patromierz
+title: Fundacja Kundelek | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja_kundelek
 ---

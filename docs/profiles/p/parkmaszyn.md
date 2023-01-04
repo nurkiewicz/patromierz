@@ -1,5 +1,5 @@
 ---
-title: Park Maszyn | Patromierz
+title: Park Maszyn | Statystyki patronite.pl | Patromierz
 
 permalink: /parkmaszyn
 ---

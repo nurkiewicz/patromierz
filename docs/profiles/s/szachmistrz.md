@@ -1,5 +1,5 @@
 ---
-title: "Maciej Sroczy\u0144ski | Patromierz"
+title: "Maciej Sroczy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /szachmistrz
 ---

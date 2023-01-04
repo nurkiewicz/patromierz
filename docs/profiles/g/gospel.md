@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie Gospel Nad Rab\u0105 | Patromierz"
+title: "Stowarzyszenie Gospel Nad Rab\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /gospel
 ---

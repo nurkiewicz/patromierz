@@ -1,5 +1,5 @@
 ---
-title: "Lepiej nie b\u0119dzie | Patromierz"
+title: "Lepiej nie b\u0119dzie | Statystyki patronite.pl | Patromierz"
 
 permalink: /lepiejniebedzie
 ---

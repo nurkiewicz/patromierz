@@ -1,5 +1,5 @@
 ---
-title: Kasia D | Patromierz
+title: Kasia D | Statystyki patronite.pl | Patromierz
 
 permalink: /KasiaD
 ---

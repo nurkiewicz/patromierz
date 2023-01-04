@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Szko\u0142a Lider\xF3w | Patromierz"
+title: "Fundacja Szko\u0142a Lider\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /SzkołaLiderów
 ---

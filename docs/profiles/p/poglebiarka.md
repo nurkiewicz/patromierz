@@ -1,5 +1,5 @@
 ---
-title: Poglebiarka.pl | Patromierz
+title: Poglebiarka.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /poglebiarka
 ---

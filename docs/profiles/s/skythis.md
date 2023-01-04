@@ -1,5 +1,5 @@
 ---
-title: Sky This Warszawa | Patromierz
+title: Sky This Warszawa | Statystyki patronite.pl | Patromierz
 
 permalink: /skythis
 ---

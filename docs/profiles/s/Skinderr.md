@@ -1,5 +1,5 @@
 ---
-title: Skinder Garage | Patromierz
+title: Skinder Garage | Statystyki patronite.pl | Patromierz
 
 permalink: /Skinderr
 ---

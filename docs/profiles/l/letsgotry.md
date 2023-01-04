@@ -1,5 +1,5 @@
 ---
-title: LetsGoTry | Patromierz
+title: LetsGoTry | Statystyki patronite.pl | Patromierz
 
 permalink: /letsgotry
 ---

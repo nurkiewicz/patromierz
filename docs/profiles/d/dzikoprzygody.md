@@ -1,5 +1,5 @@
 ---
-title: Dzikoprzygody | Patromierz
+title: Dzikoprzygody | Statystyki patronite.pl | Patromierz
 
 permalink: /dzikoprzygody
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Plansz\xF3wki we dwoje | Patromierz"
+title: "Plansz\xF3wki we dwoje | Statystyki patronite.pl | Patromierz"
 
 permalink: /Planszówkiwedwoje
 ---

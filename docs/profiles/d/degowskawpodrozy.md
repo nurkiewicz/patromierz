@@ -1,5 +1,5 @@
 ---
-title: "Degowska w Podr\xF3\u017Cy  | Patromierz"
+title: "Degowska w Podr\xF3\u017Cy  | Statystyki patronite.pl | Patromierz"
 
 permalink: /degowskawpodrozy
 ---

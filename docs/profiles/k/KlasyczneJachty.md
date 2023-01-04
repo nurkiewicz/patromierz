@@ -1,5 +1,5 @@
 ---
-title: Fundacja Klasyczne Jachty | Patromierz
+title: Fundacja Klasyczne Jachty | Statystyki patronite.pl | Patromierz
 
 permalink: /KlasyczneJachty
 ---

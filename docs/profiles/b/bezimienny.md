@@ -1,5 +1,5 @@
 ---
-title: Bezimienny Podcast | Patromierz
+title: Bezimienny Podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /bezimienny
 ---

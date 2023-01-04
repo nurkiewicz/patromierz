@@ -1,5 +1,5 @@
 ---
-title: Marcin Walczak | Patromierz
+title: Marcin Walczak | Statystyki patronite.pl | Patromierz
 
 permalink: /MarcinWalczak
 ---

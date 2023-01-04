@@ -1,5 +1,5 @@
 ---
-title: Iza Handerek | Patromierz
+title: Iza Handerek | Statystyki patronite.pl | Patromierz
 
 permalink: /izahanderek
 ---

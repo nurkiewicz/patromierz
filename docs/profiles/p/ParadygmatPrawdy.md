@@ -1,5 +1,5 @@
 ---
-title: Paradygmat Prawdy | Patromierz
+title: Paradygmat Prawdy | Statystyki patronite.pl | Patromierz
 
 permalink: /ParadygmatPrawdy
 ---

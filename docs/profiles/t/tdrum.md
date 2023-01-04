@@ -1,5 +1,5 @@
 ---
-title: T drum | Patromierz
+title: T drum | Statystyki patronite.pl | Patromierz
 
 permalink: /tdrum
 ---

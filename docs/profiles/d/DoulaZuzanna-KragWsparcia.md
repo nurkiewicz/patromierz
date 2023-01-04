@@ -1,5 +1,5 @@
 ---
-title: "Zuzanna Ko\u0142acz-Kordzi\u0144ska | Patromierz"
+title: "Zuzanna Ko\u0142acz-Kordzi\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /DoulaZuzanna-KragWsparcia
 ---

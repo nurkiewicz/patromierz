@@ -1,5 +1,5 @@
 ---
-title: Przemyslaw Sobczyk | Patromierz
+title: Przemyslaw Sobczyk | Statystyki patronite.pl | Patromierz
 
 permalink: /tatrzanskiogrod.pl
 ---

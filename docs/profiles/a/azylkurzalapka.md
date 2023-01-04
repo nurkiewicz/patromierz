@@ -1,5 +1,5 @@
 ---
-title: "Azyl Kurza \u0141apka  | Patromierz"
+title: "Azyl Kurza \u0141apka  | Statystyki patronite.pl | Patromierz"
 
 permalink: /azylkurzalapka
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Maciej Wielob\xF3b | Patromierz"
+title: "Maciej Wielob\xF3b | Statystyki patronite.pl | Patromierz"
 
 permalink: /maciej-wielobob
 ---

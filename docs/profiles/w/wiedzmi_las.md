@@ -1,5 +1,5 @@
 ---
-title: "Wied\u017Ami Las | Patromierz"
+title: "Wied\u017Ami Las | Statystyki patronite.pl | Patromierz"
 
 permalink: /wiedzmi_las
 ---

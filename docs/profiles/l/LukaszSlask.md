@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz \u015Al\u0105sk | Patromierz"
+title: "\u0141ukasz \u015Al\u0105sk | Statystyki patronite.pl | Patromierz"
 
 permalink: /LukaszSlask
 ---

@@ -1,5 +1,5 @@
 ---
-title: aguYoga | Patromierz
+title: aguYoga | Statystyki patronite.pl | Patromierz
 
 permalink: /aguyoga
 ---

@@ -1,5 +1,5 @@
 ---
-title: Biznes Bez Stresu | Patromierz
+title: Biznes Bez Stresu | Statystyki patronite.pl | Patromierz
 
 permalink: /BiznesBezStresu
 ---

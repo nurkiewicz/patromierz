@@ -1,5 +1,6 @@
 ---
-title: "Towarzystwo Przyjaci\xF3\u0142 Ziemi L\u0105deckiej  | Patromierz"
+title: "Towarzystwo Przyjaci\xF3\u0142 Ziemi L\u0105deckiej  | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /TowarzystwoPrzyjaciółZiemiLąde
 ---

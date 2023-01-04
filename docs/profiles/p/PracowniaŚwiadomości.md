@@ -1,5 +1,5 @@
 ---
-title: "Pracownia \u015Awiadomo\u015Bci | Patromierz"
+title: "Pracownia \u015Awiadomo\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /PracowniaŚwiadomości
 ---

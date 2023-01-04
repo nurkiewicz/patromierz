@@ -1,5 +1,5 @@
 ---
-title: "Pyrkon - Fantastyczne Miejsce Spotka\u0144 | Patromierz"
+title: "Pyrkon - Fantastyczne Miejsce Spotka\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /Pyrkon
 ---

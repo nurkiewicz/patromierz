@@ -1,5 +1,5 @@
 ---
-title: "KS Polonia Pozna\u0144 | Patromierz"
+title: "KS Polonia Pozna\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /kspolonia
 ---

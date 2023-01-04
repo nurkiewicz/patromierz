@@ -1,5 +1,5 @@
 ---
-title: Julia Wollner / "Lente" | Patromierz
+title: Julia Wollner / "Lente" | Statystyki patronite.pl | Patromierz
 
 permalink: /lente
 ---

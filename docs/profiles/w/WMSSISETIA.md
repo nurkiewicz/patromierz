@@ -1,5 +1,5 @@
 ---
-title: WMSS ISETIA | Patromierz
+title: WMSS ISETIA | Statystyki patronite.pl | Patromierz
 
 permalink: /WMSSISETIA
 ---

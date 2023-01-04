@@ -1,5 +1,5 @@
 ---
-title: Internetowa Liga Go | Patromierz
+title: Internetowa Liga Go | Statystyki patronite.pl | Patromierz
 
 permalink: /iglo
 ---

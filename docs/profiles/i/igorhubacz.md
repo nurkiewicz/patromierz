@@ -1,5 +1,5 @@
 ---
-title: Igor Hubacz | Patromierz
+title: Igor Hubacz | Statystyki patronite.pl | Patromierz
 
 permalink: /igorhubacz
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bo Lubi\u0119 Robi\u0107 Zdj\u0119cia | Patromierz"
+title: "Bo Lubi\u0119 Robi\u0107 Zdj\u0119cia | Statystyki patronite.pl | Patromierz"
 
 permalink: /BoLubieRobicZdjecia
 ---

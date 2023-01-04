@@ -1,5 +1,5 @@
 ---
-title: Vicek83 | Patromierz
+title: Vicek83 | Statystyki patronite.pl | Patromierz
 
 permalink: /vicek83
 ---

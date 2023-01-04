@@ -1,5 +1,5 @@
 ---
-title: Katarzyna Wycisk | Patromierz
+title: Katarzyna Wycisk | Statystyki patronite.pl | Patromierz
 
 permalink: /katarzynawycisk
 ---

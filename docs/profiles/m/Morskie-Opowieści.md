@@ -1,5 +1,5 @@
 ---
-title: "Morskie Opowie\u015Bci | Patromierz"
+title: "Morskie Opowie\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /Morskie-Opowieści
 ---

@@ -1,5 +1,5 @@
 ---
-title: Forza Motorsport Polska | Patromierz
+title: Forza Motorsport Polska | Statystyki patronite.pl | Patromierz
 
 permalink: /forzamotorsportpolska
 ---

@@ -1,5 +1,5 @@
 ---
-title: Prahumira | Patromierz
+title: Prahumira | Statystyki patronite.pl | Patromierz
 
 permalink: /prahumira
 ---

@@ -1,5 +1,5 @@
 ---
-title: Anastazja z Mariupola | Patromierz
+title: Anastazja z Mariupola | Statystyki patronite.pl | Patromierz
 
 permalink: /nastalgia
 ---

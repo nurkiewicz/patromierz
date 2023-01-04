@@ -1,5 +1,5 @@
 ---
-title: "Maksymilian  Dy\u015Bko  | Patromierz"
+title: "Maksymilian  Dy\u015Bko  | Statystyki patronite.pl | Patromierz"
 
 permalink: /dyskomaksymilian
 ---

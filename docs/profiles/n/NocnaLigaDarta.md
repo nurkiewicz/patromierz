@@ -1,5 +1,5 @@
 ---
-title: Nocna Liga Darta | Patromierz
+title: Nocna Liga Darta | Statystyki patronite.pl | Patromierz
 
 permalink: /NocnaLigaDarta
 ---

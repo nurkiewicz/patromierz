@@ -1,5 +1,5 @@
 ---
-title: Business Update Podcast | Patromierz
+title: Business Update Podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /businessupdate
 ---

@@ -1,5 +1,5 @@
 ---
-title: Iza Michalewicz | Patromierz
+title: Iza Michalewicz | Statystyki patronite.pl | Patromierz
 
 permalink: /IzaMichalewicz
 ---

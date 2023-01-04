@@ -1,5 +1,5 @@
 ---
-title: Karol Schwarz | Patromierz
+title: Karol Schwarz | Statystyki patronite.pl | Patromierz
 
 permalink: /KarolSchwarz
 ---

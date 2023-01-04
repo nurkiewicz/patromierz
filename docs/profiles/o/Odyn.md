@@ -1,5 +1,5 @@
 ---
-title: Odyn | Patromierz
+title: Odyn | Statystyki patronite.pl | Patromierz
 
 permalink: /Odyn
 ---

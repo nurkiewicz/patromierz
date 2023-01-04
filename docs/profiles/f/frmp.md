@@ -1,5 +1,5 @@
 ---
-title: Fundacja Ratownictwo Motocyklowe Polska  | Patromierz
+title: Fundacja Ratownictwo Motocyklowe Polska  | Statystyki patronite.pl | Patromierz
 
 permalink: /frmp
 ---

@@ -1,5 +1,5 @@
 ---
-title: Antoni Maluje | Patromierz
+title: Antoni Maluje | Statystyki patronite.pl | Patromierz
 
 permalink: /AntoniMaluje
 ---

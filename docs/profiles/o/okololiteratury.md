@@ -1,5 +1,5 @@
 ---
-title: "Oko\u0142o Literatury | Patromierz"
+title: "Oko\u0142o Literatury | Statystyki patronite.pl | Patromierz"
 
 permalink: /okololiteratury
 ---

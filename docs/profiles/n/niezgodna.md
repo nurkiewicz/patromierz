@@ -1,5 +1,5 @@
 ---
-title: "NIEZGODNA - Iza Nazaria Mo\u015Bcicka | Patromierz"
+title: "NIEZGODNA - Iza Nazaria Mo\u015Bcicka | Statystyki patronite.pl | Patromierz"
 
 permalink: /niezgodna
 ---

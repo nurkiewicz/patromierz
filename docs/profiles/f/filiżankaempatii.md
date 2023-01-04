@@ -1,5 +1,5 @@
 ---
-title: "Fili\u017Canka Empatii | Patromierz"
+title: "Fili\u017Canka Empatii | Statystyki patronite.pl | Patromierz"
 
 permalink: /filiżankaempatii
 ---

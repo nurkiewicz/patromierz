@@ -1,5 +1,5 @@
 ---
-title: TAK to WIDZIMY | Patromierz
+title: TAK to WIDZIMY | Statystyki patronite.pl | Patromierz
 
 permalink: /TAKtoWIDZIMY
 ---

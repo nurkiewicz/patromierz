@@ -1,5 +1,5 @@
 ---
-title: Radek Teklak | Patromierz
+title: Radek Teklak | Statystyki patronite.pl | Patromierz
 
 permalink: /Teklak
 ---

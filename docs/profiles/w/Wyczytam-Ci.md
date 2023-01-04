@@ -1,5 +1,5 @@
 ---
-title: Mich Pabian czytacz_szperacz | Patromierz
+title: Mich Pabian czytacz_szperacz | Statystyki patronite.pl | Patromierz
 
 permalink: /Wyczytam-Ci
 ---

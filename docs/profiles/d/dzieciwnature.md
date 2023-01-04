@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Dzieci w Natur\u0119 | Patromierz"
+title: "Fundacja Dzieci w Natur\u0119 | Statystyki patronite.pl | Patromierz"
 
 permalink: /dzieciwnature
 ---

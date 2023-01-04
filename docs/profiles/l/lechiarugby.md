@@ -1,5 +1,5 @@
 ---
-title: "Rugby Club Lechia Gda\u0144sk | Patromierz"
+title: "Rugby Club Lechia Gda\u0144sk | Statystyki patronite.pl | Patromierz"
 
 permalink: /lechiarugby
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Koci\u0119ta Koty z Interwencji  | Patromierz"
+title: "Fundacja Koci\u0119ta Koty z Interwencji  | Statystyki patronite.pl | Patromierz"
 
 permalink: /KotyzInterwencji
 ---

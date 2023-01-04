@@ -1,5 +1,5 @@
 ---
-title: Hanna Krajewska | Patromierz
+title: Hanna Krajewska | Statystyki patronite.pl | Patromierz
 
 permalink: /hkrajewskanordicwalking20
 ---

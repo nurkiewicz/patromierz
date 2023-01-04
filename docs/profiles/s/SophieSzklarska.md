@@ -1,5 +1,5 @@
 ---
-title: Sophie Szklarska | Patromierz
+title: Sophie Szklarska | Statystyki patronite.pl | Patromierz
 
 permalink: /SophieSzklarska
 ---

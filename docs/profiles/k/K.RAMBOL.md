@@ -1,5 +1,5 @@
 ---
-title: K.RAMBOL | Patromierz
+title: K.RAMBOL | Statystyki patronite.pl | Patromierz
 
 permalink: /K.RAMBOL
 ---

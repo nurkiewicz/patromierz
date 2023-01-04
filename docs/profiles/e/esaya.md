@@ -1,5 +1,5 @@
 ---
-title: "Edyta \"Esaya\" Ra\u017Aniak | Patromierz"
+title: "Edyta \"Esaya\" Ra\u017Aniak | Statystyki patronite.pl | Patromierz"
 
 permalink: /esaya
 ---

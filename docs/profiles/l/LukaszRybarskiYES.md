@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Rybarski YES:) | Patromierz"
+title: "\u0141ukasz Rybarski YES:) | Statystyki patronite.pl | Patromierz"
 
 permalink: /LukaszRybarskiYES
 ---

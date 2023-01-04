@@ -1,5 +1,5 @@
 ---
-title: BackToEden.pl | Patromierz
+title: BackToEden.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /btepl
 ---

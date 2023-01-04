@@ -1,5 +1,5 @@
 ---
-title: GTS Drums | Patromierz
+title: GTS Drums | Statystyki patronite.pl | Patromierz
 
 permalink: /GTSDrums
 ---

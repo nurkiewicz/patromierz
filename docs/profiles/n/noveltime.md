@@ -1,5 +1,5 @@
 ---
-title: NovelTime | Patromierz
+title: NovelTime | Statystyki patronite.pl | Patromierz
 
 permalink: /noveltime
 ---

@@ -1,5 +1,5 @@
 ---
-title: W Architekturze | Patromierz
+title: W Architekturze | Statystyki patronite.pl | Patromierz
 
 permalink: /wArchitekturze
 ---

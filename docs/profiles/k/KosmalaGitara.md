@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kosmala | Patromierz"
+title: "Micha\u0142 Kosmala | Statystyki patronite.pl | Patromierz"
 
 permalink: /KosmalaGitara
 ---

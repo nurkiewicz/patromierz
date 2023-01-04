@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Czejgis | Patromierz"
+title: "Micha\u0142 Czejgis | Statystyki patronite.pl | Patromierz"
 
 permalink: /michalczejgis
 ---

@@ -1,5 +1,5 @@
 ---
-title: Porozumienie dla Pragi | Patromierz
+title: Porozumienie dla Pragi | Statystyki patronite.pl | Patromierz
 
 permalink: /dlapragi
 ---

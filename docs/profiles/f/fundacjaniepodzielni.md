@@ -1,5 +1,5 @@
 ---
-title: Fundacja  Niepodzielni | Patromierz
+title: Fundacja  Niepodzielni | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjaniepodzielni
 ---

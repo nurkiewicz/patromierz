@@ -1,5 +1,5 @@
 ---
-title: Khantaris | Patromierz
+title: Khantaris | Statystyki patronite.pl | Patromierz
 
 permalink: /khantaris
 ---

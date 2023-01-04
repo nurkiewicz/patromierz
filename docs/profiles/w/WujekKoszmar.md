@@ -1,5 +1,5 @@
 ---
-title: Wujek Koszmar | Patromierz
+title: Wujek Koszmar | Statystyki patronite.pl | Patromierz
 
 permalink: /WujekKoszmar
 ---

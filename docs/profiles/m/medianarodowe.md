@@ -1,5 +1,5 @@
 ---
-title: Media Narodowe | Patromierz
+title: Media Narodowe | Statystyki patronite.pl | Patromierz
 
 permalink: /medianarodowe
 ---

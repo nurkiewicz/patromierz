@@ -1,5 +1,5 @@
 ---
-title: Doniesienia z putinowskiej Polski | Patromierz
+title: Doniesienia z putinowskiej Polski | Statystyki patronite.pl | Patromierz
 
 permalink: /PutinowaPolska
 ---

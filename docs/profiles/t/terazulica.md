@@ -1,5 +1,5 @@
 ---
-title: FUNDACJA TERAZ ULICA | Patromierz
+title: FUNDACJA TERAZ ULICA | Statystyki patronite.pl | Patromierz
 
 permalink: /terazulica
 ---

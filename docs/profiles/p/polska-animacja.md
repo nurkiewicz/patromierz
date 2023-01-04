@@ -1,6 +1,6 @@
 ---
 title: 'Piotr Kardas | Autorskie Festiwale Animacji: O!PLA, Rising of Lusitania |
-  Patromierz'
+  Statystyki patronite.pl | Patromierz'
 
 permalink: /polska-animacja
 ---

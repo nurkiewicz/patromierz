@@ -1,5 +1,5 @@
 ---
-title: FLASH - Redakcja Niepokorna | Patromierz
+title: FLASH - Redakcja Niepokorna | Statystyki patronite.pl | Patromierz
 
 permalink: /redakcjaflash
 ---

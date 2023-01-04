@@ -1,5 +1,5 @@
 ---
-title: "Olimpijskie Ko\u0142o Informatyczne | Patromierz"
+title: "Olimpijskie Ko\u0142o Informatyczne | Statystyki patronite.pl | Patromierz"
 
 permalink: /oki
 ---

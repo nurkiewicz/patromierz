@@ -1,5 +1,5 @@
 ---
-title: "Beata Jeleniewicz - \u015Acie\u017Cka Driady | Patromierz"
+title: "Beata Jeleniewicz - \u015Acie\u017Cka Driady | Statystyki patronite.pl | Patromierz"
 
 permalink: /sciezkadriady
 ---

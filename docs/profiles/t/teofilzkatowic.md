@@ -1,5 +1,5 @@
 ---
-title: Teofil z Katowic | Patromierz
+title: Teofil z Katowic | Statystyki patronite.pl | Patromierz
 
 permalink: /teofilzkatowic
 ---

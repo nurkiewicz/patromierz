@@ -1,5 +1,5 @@
 ---
-title: Fundacja Help4Herps | Patromierz
+title: Fundacja Help4Herps | Statystyki patronite.pl | Patromierz
 
 permalink: /Help4Herps
 ---

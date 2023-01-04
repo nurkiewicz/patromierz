@@ -1,5 +1,5 @@
 ---
-title: Aplikacja Drogowskaz | Patromierz
+title: Aplikacja Drogowskaz | Statystyki patronite.pl | Patromierz
 
 permalink: /AplikacjaDrogowskaz
 ---

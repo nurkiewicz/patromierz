@@ -1,5 +1,5 @@
 ---
-title: "Damian Soba\u0144ski | Patromierz"
+title: "Damian Soba\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /projektfindyourself
 ---

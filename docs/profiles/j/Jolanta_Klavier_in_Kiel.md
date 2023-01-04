@@ -1,5 +1,5 @@
 ---
-title: Jolanta Klavier_in_Kiel | Patromierz
+title: Jolanta Klavier_in_Kiel | Statystyki patronite.pl | Patromierz
 
 permalink: /Jolanta_Klavier_in_Kiel
 ---

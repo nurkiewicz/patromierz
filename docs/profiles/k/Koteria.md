@@ -1,5 +1,6 @@
 ---
-title: "Koteria - O\u015Brodek dla kot\xF3w miejskich  | Patromierz"
+title: "Koteria - O\u015Brodek dla kot\xF3w miejskich  | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /Koteria
 ---

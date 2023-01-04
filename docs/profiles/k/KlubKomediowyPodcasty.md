@@ -1,5 +1,5 @@
 ---
-title: Klub Komediowy Podcasty | Patromierz
+title: Klub Komediowy Podcasty | Statystyki patronite.pl | Patromierz
 
 permalink: /KlubKomediowyPodcasty
 ---

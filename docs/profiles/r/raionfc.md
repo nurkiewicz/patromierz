@@ -1,5 +1,5 @@
 ---
-title: RAION Fight Club | Patromierz
+title: RAION Fight Club | Statystyki patronite.pl | Patromierz
 
 permalink: /raionfc
 ---

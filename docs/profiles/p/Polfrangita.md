@@ -1,5 +1,5 @@
 ---
-title: Polfrangita | Patromierz
+title: Polfrangita | Statystyki patronite.pl | Patromierz
 
 permalink: /Polfrangita
 ---

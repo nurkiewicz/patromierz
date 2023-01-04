@@ -1,5 +1,5 @@
 ---
-title: "Chatka na dzia\u0142ce | Patromierz"
+title: "Chatka na dzia\u0142ce | Statystyki patronite.pl | Patromierz"
 
 permalink: /Chatka-na-dzialce
 ---

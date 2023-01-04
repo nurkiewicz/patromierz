@@ -1,5 +1,5 @@
 ---
-title: "Chaos i inne pi\u0119tra - Kaja Kowalewska  | Patromierz"
+title: "Chaos i inne pi\u0119tra - Kaja Kowalewska  | Statystyki patronite.pl | Patromierz"
 
 permalink: /chaosiinnepietra
 ---

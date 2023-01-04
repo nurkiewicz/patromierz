@@ -1,5 +1,5 @@
 ---
-title: Uwalniam od nadmiaru | Patromierz
+title: Uwalniam od nadmiaru | Statystyki patronite.pl | Patromierz
 
 permalink: /uwalniamodnadmiaru
 ---

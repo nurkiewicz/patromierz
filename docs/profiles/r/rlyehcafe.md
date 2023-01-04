@@ -1,5 +1,5 @@
 ---
-title: R'lyeh Cafe | Patromierz
+title: R'lyeh Cafe | Statystyki patronite.pl | Patromierz
 
 permalink: /rlyehcafe
 ---

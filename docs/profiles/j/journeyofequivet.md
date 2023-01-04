@@ -1,5 +1,5 @@
 ---
-title: "Journey of Equivet (M. Wr\xF3blewska) | Patromierz"
+title: "Journey of Equivet (M. Wr\xF3blewska) | Statystyki patronite.pl | Patromierz"
 
 permalink: /journeyofequivet
 ---

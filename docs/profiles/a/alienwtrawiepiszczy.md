@@ -1,5 +1,6 @@
 ---
-title: Dominik Hycner - Alien Inventory (Alien w trawie piszczy) | Patromierz
+title: Dominik Hycner - Alien Inventory (Alien w trawie piszczy) | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /alienwtrawiepiszczy
 ---

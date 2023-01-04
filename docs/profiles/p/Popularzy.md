@@ -1,5 +1,5 @@
 ---
-title: "Stronnictwo Popular\xF3w | Patromierz"
+title: "Stronnictwo Popular\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /Popularzy
 ---

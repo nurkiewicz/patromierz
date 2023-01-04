@@ -1,5 +1,5 @@
 ---
-title: Klub Muzyczny Bogart | Patromierz
+title: Klub Muzyczny Bogart | Statystyki patronite.pl | Patromierz
 
 permalink: /klub_muzyczny_bogart
 ---

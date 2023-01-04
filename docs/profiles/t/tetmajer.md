@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Przerwa-Tetmajer | Patromierz"
+title: "Micha\u0142 Przerwa-Tetmajer | Statystyki patronite.pl | Patromierz"
 
 permalink: /tetmajer
 ---

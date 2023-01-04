@@ -1,5 +1,5 @@
 ---
-title: FOLK24 Magazyn | Patromierz
+title: FOLK24 Magazyn | Statystyki patronite.pl | Patromierz
 
 permalink: /FOLK24
 ---

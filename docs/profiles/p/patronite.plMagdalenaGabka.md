@@ -1,5 +1,5 @@
 ---
-title: "Magdalena G\u0105bka | Patromierz"
+title: "Magdalena G\u0105bka | Statystyki patronite.pl | Patromierz"
 
 permalink: /patronite.plMagdalenaGabka
 ---

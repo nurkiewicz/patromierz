@@ -1,5 +1,5 @@
 ---
-title: "Instytut Mieczys\u0142awa Wajnberga | Patromierz"
+title: "Instytut Mieczys\u0142awa Wajnberga | Statystyki patronite.pl | Patromierz"
 
 permalink: /imw
 ---

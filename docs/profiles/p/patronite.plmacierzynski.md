@@ -1,5 +1,5 @@
 ---
-title: "Piotr Macierzy\u0144ski | Patromierz"
+title: "Piotr Macierzy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /patronite.plmacierzynski
 ---

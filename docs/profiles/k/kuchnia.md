@@ -1,5 +1,5 @@
 ---
-title: KUCHNIA ON TOUR by Matthew  Clarck | Patromierz
+title: KUCHNIA ON TOUR by Matthew  Clarck | Statystyki patronite.pl | Patromierz
 
 permalink: /kuchnia
 ---

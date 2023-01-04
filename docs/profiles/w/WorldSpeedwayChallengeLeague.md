@@ -1,5 +1,5 @@
 ---
-title: World Speedway Challenge League WSCL | Patromierz
+title: World Speedway Challenge League WSCL | Statystyki patronite.pl | Patromierz
 
 permalink: /WorldSpeedwayChallengeLeague
 ---

@@ -1,5 +1,5 @@
 ---
-title: Planodo.pl | Patromierz
+title: Planodo.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /Planodo.pl
 ---

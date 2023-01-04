@@ -1,5 +1,5 @@
 ---
-title: Malgorzata Halber | Patromierz
+title: Malgorzata Halber | Statystyki patronite.pl | Patromierz
 
 permalink: /halber
 ---

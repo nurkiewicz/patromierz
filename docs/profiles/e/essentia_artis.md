@@ -1,5 +1,5 @@
 ---
-title: Essentia Artis | Patromierz
+title: Essentia Artis | Statystyki patronite.pl | Patromierz
 
 permalink: /essentia_artis
 ---

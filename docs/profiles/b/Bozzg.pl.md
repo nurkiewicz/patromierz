@@ -1,5 +1,5 @@
 ---
-title: "BIURO OCHRONY ZWIERZ\u0104T | Patromierz"
+title: "BIURO OCHRONY ZWIERZ\u0104T | Statystyki patronite.pl | Patromierz"
 
 permalink: /Bozzg.pl
 ---

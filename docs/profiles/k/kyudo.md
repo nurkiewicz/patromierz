@@ -1,5 +1,5 @@
 ---
-title: kyudo | Patromierz
+title: kyudo | Statystyki patronite.pl | Patromierz
 
 permalink: /kyudo
 ---

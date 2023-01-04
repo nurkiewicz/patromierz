@@ -1,5 +1,5 @@
 ---
-title: "Pasmo Skok\xF3w | Patromierz"
+title: "Pasmo Skok\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /pasmo-skokow
 ---

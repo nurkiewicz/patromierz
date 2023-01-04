@@ -1,5 +1,5 @@
 ---
-title: Wojennik TV - Gry Planszowe | Patromierz
+title: Wojennik TV - Gry Planszowe | Statystyki patronite.pl | Patromierz
 
 permalink: /wojenniktv
 ---

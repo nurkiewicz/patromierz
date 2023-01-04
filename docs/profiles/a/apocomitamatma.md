@@ -1,5 +1,5 @@
 ---
-title: A po co MI ta MATMA? | Patromierz
+title: A po co MI ta MATMA? | Statystyki patronite.pl | Patromierz
 
 permalink: /apocomitamatma
 ---

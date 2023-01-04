@@ -1,5 +1,5 @@
 ---
-title: Niewystraszony Urbex | Patromierz
+title: Niewystraszony Urbex | Statystyki patronite.pl | Patromierz
 
 permalink: /NiewystraszonyUrbex
 ---

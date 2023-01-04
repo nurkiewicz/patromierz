@@ -1,5 +1,5 @@
 ---
-title: Rodzice Drugiej Kategorii | Patromierz
+title: Rodzice Drugiej Kategorii | Statystyki patronite.pl | Patromierz
 
 permalink: /RDK
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Psiakowo pod lasem | Patromierz
+title: Fundacja Psiakowo pod lasem | Statystyki patronite.pl | Patromierz
 
 permalink: /Psiakowopodlasem
 ---

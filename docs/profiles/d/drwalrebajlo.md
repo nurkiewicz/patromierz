@@ -1,5 +1,5 @@
 ---
-title: "Drwal R\u0119baj\u0142o | Patromierz"
+title: "Drwal R\u0119baj\u0142o | Statystyki patronite.pl | Patromierz"
 
 permalink: /drwalrebajlo
 ---

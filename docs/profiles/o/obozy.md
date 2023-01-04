@@ -1,5 +1,5 @@
 ---
-title: Obozy - Gra terenowa | Patromierz
+title: Obozy - Gra terenowa | Statystyki patronite.pl | Patromierz
 
 permalink: /obozy
 ---

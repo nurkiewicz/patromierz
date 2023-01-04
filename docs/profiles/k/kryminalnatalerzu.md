@@ -1,5 +1,5 @@
 ---
-title: "Krymina\u0142 na talerzu | Patromierz"
+title: "Krymina\u0142 na talerzu | Statystyki patronite.pl | Patromierz"
 
 permalink: /kryminalnatalerzu
 ---

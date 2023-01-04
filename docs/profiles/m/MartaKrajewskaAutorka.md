@@ -1,5 +1,5 @@
 ---
-title: Marta Krajewska - autorka | Patromierz
+title: Marta Krajewska - autorka | Statystyki patronite.pl | Patromierz
 
 permalink: /MartaKrajewskaAutorka
 ---

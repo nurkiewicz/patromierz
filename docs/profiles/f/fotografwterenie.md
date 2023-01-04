@@ -1,5 +1,5 @@
 ---
-title: Fotograf w Terenie | Patromierz
+title: Fotograf w Terenie | Statystyki patronite.pl | Patromierz
 
 permalink: /fotografwterenie
 ---

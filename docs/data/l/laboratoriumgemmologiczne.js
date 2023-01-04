@@ -327,4 +327,5 @@ profiles["laboratoriumgemmologiczne"] = [
 	[1672576047,5,1,5.0,115,null],
 	[1672663317,5,1,5.0,115,null],
 	[1672734791,5,1,5.0,115,null],
+	[1672819469,null,1,null,115,null],
 ];

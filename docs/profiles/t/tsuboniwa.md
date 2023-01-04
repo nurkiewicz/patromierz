@@ -1,5 +1,5 @@
 ---
-title: Monika Wielguszewska-Tsuchiya | Patromierz
+title: Monika Wielguszewska-Tsuchiya | Statystyki patronite.pl | Patromierz
 
 permalink: /tsuboniwa
 ---

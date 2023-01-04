@@ -1,5 +1,5 @@
 ---
-title: "Irena Kuczy\u0144ska | Patromierz"
+title: "Irena Kuczy\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /kuczynska
 ---

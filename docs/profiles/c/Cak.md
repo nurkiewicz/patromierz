@@ -1,5 +1,5 @@
 ---
-title: CAK | Patromierz
+title: CAK | Statystyki patronite.pl | Patromierz
 
 permalink: /Cak
 ---

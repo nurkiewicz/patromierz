@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Chudy | Patromierz"
+title: "Rafa\u0142 Chudy | Statystyki patronite.pl | Patromierz"
 
 permalink: /MonitorLesny
 ---

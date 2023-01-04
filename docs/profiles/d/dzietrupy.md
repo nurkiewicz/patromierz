@@ -1,5 +1,5 @@
 ---
-title: dzietrupy | Patromierz
+title: dzietrupy | Statystyki patronite.pl | Patromierz
 
 permalink: /dzietrupy
 ---

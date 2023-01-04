@@ -1,5 +1,5 @@
 ---
-title: Dailytips.pl | Patromierz
+title: Dailytips.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /Dailytips
 ---

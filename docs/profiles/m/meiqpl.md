@@ -1,5 +1,5 @@
 ---
-title: MeiQ | Patromierz
+title: MeiQ | Statystyki patronite.pl | Patromierz
 
 permalink: /meiqpl
 ---

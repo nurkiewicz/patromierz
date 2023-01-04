@@ -1,5 +1,5 @@
 ---
-title: Kryminomaniak | Patromierz
+title: Kryminomaniak | Statystyki patronite.pl | Patromierz
 
 permalink: /Kryminomaniak
 ---

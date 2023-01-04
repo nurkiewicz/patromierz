@@ -1,5 +1,5 @@
 ---
-title: "Kraina Goblin\xF3w | Patromierz"
+title: "Kraina Goblin\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /KrainaGoblinów
 ---

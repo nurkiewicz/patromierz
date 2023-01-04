@@ -1,5 +1,5 @@
 ---
-title: Naturalne20 | RPG | Patromierz
+title: Naturalne20 | RPG | Statystyki patronite.pl | Patromierz
 
 permalink: /naturalne20
 ---

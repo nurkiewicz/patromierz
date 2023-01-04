@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142e Obrazki - Maria Kaczorowska | Patromierz"
+title: "Mi\u0142e Obrazki - Maria Kaczorowska | Statystyki patronite.pl | Patromierz"
 
 permalink: /Mileobrazki
 ---

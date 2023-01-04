@@ -1,5 +1,5 @@
 ---
-title: Daria Brzozowska | Patromierz
+title: Daria Brzozowska | Statystyki patronite.pl | Patromierz
 
 permalink: /asw.dariab
 ---

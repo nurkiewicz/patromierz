@@ -1,5 +1,5 @@
 ---
-title: Adopcja | Patromierz
+title: Adopcja | Statystyki patronite.pl | Patromierz
 
 permalink: /adopcja
 ---

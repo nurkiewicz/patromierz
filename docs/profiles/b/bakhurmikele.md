@@ -1,5 +1,5 @@
 ---
-title: "Miko\u0142aj Bakhur | Patromierz"
+title: "Miko\u0142aj Bakhur | Statystyki patronite.pl | Patromierz"
 
 permalink: /bakhurmikele
 ---

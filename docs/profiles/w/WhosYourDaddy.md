@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Dominiak/WhosYourDaddy | Patromierz"
+title: "\u0141ukasz Dominiak/WhosYourDaddy | Statystyki patronite.pl | Patromierz"
 
 permalink: /WhosYourDaddy
 ---

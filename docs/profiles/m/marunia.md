@@ -1,5 +1,5 @@
 ---
-title: "Marek Mitr\u0119ga | Patromierz"
+title: "Marek Mitr\u0119ga | Statystyki patronite.pl | Patromierz"
 
 permalink: /marunia
 ---

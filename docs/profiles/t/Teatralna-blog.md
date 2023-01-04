@@ -1,5 +1,5 @@
 ---
-title: Teatralna blog | Patromierz
+title: Teatralna blog | Statystyki patronite.pl | Patromierz
 
 permalink: /Teatralna-blog
 ---

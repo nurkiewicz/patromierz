@@ -1,5 +1,5 @@
 ---
-title: "O j\u0119zyku | Patromierz"
+title: "O j\u0119zyku | Statystyki patronite.pl | Patromierz"
 
 permalink: /o.jezyku
 ---

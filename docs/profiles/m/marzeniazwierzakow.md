@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Marzenia Zwierzak\xF3w | Patromierz"
+title: "Fundacja Marzenia Zwierzak\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /marzeniazwierzakow
 ---

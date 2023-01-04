@@ -1,5 +1,5 @@
 ---
-title: "Jakub Zapa\u0142a | Patromierz"
+title: "Jakub Zapa\u0142a | Statystyki patronite.pl | Patromierz"
 
 permalink: /DziedzictwoImperium
 ---

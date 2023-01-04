@@ -1,5 +1,5 @@
 ---
-title: "Fantastyczny Dolny \u015Al\u0105sk | Patromierz"
+title: "Fantastyczny Dolny \u015Al\u0105sk | Statystyki patronite.pl | Patromierz"
 
 permalink: /fds
 ---

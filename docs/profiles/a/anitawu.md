@@ -1,5 +1,5 @@
 ---
-title: Anitawu | Patromierz
+title: Anitawu | Statystyki patronite.pl | Patromierz
 
 permalink: /anitawu
 ---

@@ -1,5 +1,5 @@
 ---
-title: Irmina Wolniak | Patromierz
+title: Irmina Wolniak | Statystyki patronite.pl | Patromierz
 
 permalink: /irmi.wol
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sp\xF3\u0142dzielnia Ogniwo  | Patromierz"
+title: "Sp\xF3\u0142dzielnia Ogniwo  | Statystyki patronite.pl | Patromierz"
 
 permalink: /ogniwo
 ---

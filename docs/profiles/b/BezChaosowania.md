@@ -1,5 +1,5 @@
 ---
-title: BezChaosowania | Patromierz
+title: BezChaosowania | Statystyki patronite.pl | Patromierz
 
 permalink: /BezChaosowania
 ---

@@ -1,5 +1,5 @@
 ---
-title: COBI Expert | Patromierz
+title: COBI Expert | Statystyki patronite.pl | Patromierz
 
 permalink: /CobiExpert
 ---

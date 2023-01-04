@@ -1,5 +1,5 @@
 ---
-title: Fundacja Szopowisko | Patromierz
+title: Fundacja Szopowisko | Statystyki patronite.pl | Patromierz
 
 permalink: /szopowisko
 ---

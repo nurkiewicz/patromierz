@@ -1,5 +1,5 @@
 ---
-title: "Fryderyk Lechno-Wasiuty\u0144ski | Patromierz"
+title: "Fryderyk Lechno-Wasiuty\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /Frycek
 ---

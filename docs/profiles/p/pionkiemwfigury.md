@@ -1,5 +1,5 @@
 ---
-title: Pionkiem w figury | Patromierz
+title: Pionkiem w figury | Statystyki patronite.pl | Patromierz
 
 permalink: /pionkiemwfigury
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mariusz Surosz | Patromierz
+title: Mariusz Surosz | Statystyki patronite.pl | Patromierz
 
 permalink: /surosz
 ---

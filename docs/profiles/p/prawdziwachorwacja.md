@@ -1,5 +1,5 @@
 ---
-title: Prawdziwa Chorwacja | Patromierz
+title: Prawdziwa Chorwacja | Statystyki patronite.pl | Patromierz
 
 permalink: /prawdziwachorwacja
 ---

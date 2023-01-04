@@ -1,5 +1,5 @@
 ---
-title: "Siostra Bo\u017Cenna | Patromierz"
+title: "Siostra Bo\u017Cenna | Statystyki patronite.pl | Patromierz"
 
 permalink: /siostrabozenna
 ---

@@ -1,5 +1,5 @@
 ---
-title: BRD24.pl | Patromierz
+title: BRD24.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /brd24
 ---

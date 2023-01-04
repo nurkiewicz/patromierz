@@ -1,5 +1,5 @@
 ---
-title: Pan KuBaka | Patromierz
+title: Pan KuBaka | Statystyki patronite.pl | Patromierz
 
 permalink: /pankubaka
 ---

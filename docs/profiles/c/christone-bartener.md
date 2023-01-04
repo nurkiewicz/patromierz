@@ -1,5 +1,5 @@
 ---
-title: Christone Bartener | Patromierz
+title: Christone Bartener | Statystyki patronite.pl | Patromierz
 
 permalink: /christone-bartener
 ---

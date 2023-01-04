@@ -1,5 +1,5 @@
 ---
-title: Reverse Community | Patromierz
+title: Reverse Community | Statystyki patronite.pl | Patromierz
 
 permalink: /ReverseCommunity
 ---

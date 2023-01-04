@@ -1,5 +1,5 @@
 ---
-title: "Wie\u015Bci ze Wschodu | Patromierz"
+title: "Wie\u015Bci ze Wschodu | Statystyki patronite.pl | Patromierz"
 
 permalink: /WiesciZeWschodu
 ---

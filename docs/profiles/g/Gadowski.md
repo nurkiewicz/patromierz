@@ -1,5 +1,5 @@
 ---
-title: Witold Gadowski | Patromierz
+title: Witold Gadowski | Statystyki patronite.pl | Patromierz
 
 permalink: /Gadowski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Miros\u0142aw Mi\u015Btak | Patromierz"
+title: "Miros\u0142aw Mi\u015Btak | Statystyki patronite.pl | Patromierz"
 
 permalink: /Tusiefilmuje
 ---

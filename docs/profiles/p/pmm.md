@@ -1,5 +1,5 @@
 ---
-title: 'Misja: Ukraina | Polska Misja Medyczna | Patromierz'
+title: 'Misja: Ukraina | Polska Misja Medyczna | Statystyki patronite.pl | Patromierz'
 
 permalink: /pmm
 ---

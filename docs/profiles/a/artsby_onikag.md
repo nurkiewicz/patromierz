@@ -1,5 +1,5 @@
 ---
-title: artsby_onikag | Patromierz
+title: artsby_onikag | Statystyki patronite.pl | Patromierz
 
 permalink: /artsby_onikag
 ---

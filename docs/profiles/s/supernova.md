@@ -1,5 +1,5 @@
 ---
-title: Scena Supernova | Patromierz
+title: Scena Supernova | Statystyki patronite.pl | Patromierz
 
 permalink: /supernova
 ---

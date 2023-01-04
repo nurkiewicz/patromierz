@@ -1,5 +1,5 @@
 ---
-title: "Na bosaka \u2014 podcasty dla wokalist\xF3w | Patromierz"
+title: "Na bosaka \u2014 podcasty dla wokalist\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /nabosaka
 ---

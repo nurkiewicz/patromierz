@@ -1,5 +1,5 @@
 ---
-title: "Kr\xF3lestwo Bez Kresu | Patromierz"
+title: "Kr\xF3lestwo Bez Kresu | Statystyki patronite.pl | Patromierz"
 
 permalink: /kbk
 ---

@@ -1,5 +1,5 @@
 ---
-title: MyDreamland | Patromierz
+title: MyDreamland | Statystyki patronite.pl | Patromierz
 
 permalink: /Mydreamland
 ---

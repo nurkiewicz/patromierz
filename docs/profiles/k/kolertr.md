@@ -1,5 +1,5 @@
 ---
-title: Kolertr | Patromierz
+title: Kolertr | Statystyki patronite.pl | Patromierz
 
 permalink: /kolertr
 ---

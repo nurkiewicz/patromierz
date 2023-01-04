@@ -1,5 +1,5 @@
 ---
-title: Zofia Rosin | Patromierz
+title: Zofia Rosin | Statystyki patronite.pl | Patromierz
 
 permalink: /zofiarosin
 ---

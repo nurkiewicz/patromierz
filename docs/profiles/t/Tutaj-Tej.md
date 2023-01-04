@@ -1,5 +1,5 @@
 ---
-title: Tutaj Tej | Patromierz
+title: Tutaj Tej | Statystyki patronite.pl | Patromierz
 
 permalink: /Tutaj-Tej
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz \u0141uckowski | Patromierz"
+title: "\u0141ukasz \u0141uckowski | Statystyki patronite.pl | Patromierz"
 
 permalink: /ŁukaszŁuckowski
 ---

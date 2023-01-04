@@ -1,5 +1,5 @@
 ---
-title: Wojtas_carpenter | Patromierz
+title: Wojtas_carpenter | Statystyki patronite.pl | Patromierz
 
 permalink: /Wojtas_carpenter
 ---

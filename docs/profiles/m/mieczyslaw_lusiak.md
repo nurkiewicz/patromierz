@@ -1,5 +1,5 @@
 ---
-title: "Mieczys\u0142aw \u0141usiak SJ | Patromierz"
+title: "Mieczys\u0142aw \u0141usiak SJ | Statystyki patronite.pl | Patromierz"
 
 permalink: /mieczyslaw_lusiak
 ---

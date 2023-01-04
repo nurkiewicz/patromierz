@@ -1,5 +1,5 @@
 ---
-title: Prosta Historia | Patromierz
+title: Prosta Historia | Statystyki patronite.pl | Patromierz
 
 permalink: /prostahistoria
 ---

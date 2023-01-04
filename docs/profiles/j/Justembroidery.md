@@ -1,5 +1,5 @@
 ---
-title: Justyna Kuligowska- justembroidery | Patromierz
+title: Justyna Kuligowska- justembroidery | Statystyki patronite.pl | Patromierz
 
 permalink: /Justembroidery
 ---

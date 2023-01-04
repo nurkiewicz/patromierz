@@ -1,5 +1,5 @@
 ---
-title: "Niesko\u0144czone teksty | Patromierz"
+title: "Niesko\u0144czone teksty | Statystyki patronite.pl | Patromierz"
 
 permalink: /nieskonczone
 ---

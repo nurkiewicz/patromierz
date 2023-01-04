@@ -1,5 +1,5 @@
 ---
-title: jerkbait.pl | Patromierz
+title: jerkbait.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /jerkbait
 ---

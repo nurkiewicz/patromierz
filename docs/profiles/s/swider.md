@@ -1,5 +1,5 @@
 ---
-title: "Wojciech \u015Awider - ekonomia, inwestycje | Patromierz"
+title: "Wojciech \u015Awider - ekonomia, inwestycje | Statystyki patronite.pl | Patromierz"
 
 permalink: /swider
 ---

@@ -1,5 +1,5 @@
 ---
-title: Krystian Paluch | Patromierz
+title: Krystian Paluch | Statystyki patronite.pl | Patromierz
 
 permalink: /predki
 ---

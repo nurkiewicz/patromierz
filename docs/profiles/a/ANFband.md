@@ -1,5 +1,5 @@
 ---
-title: As Night Falls Band | Patromierz
+title: As Night Falls Band | Statystyki patronite.pl | Patromierz
 
 permalink: /ANFband
 ---

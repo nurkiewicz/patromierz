@@ -1,5 +1,5 @@
 ---
-title: "angelika w\u0105tor | Patromierz"
+title: "angelika w\u0105tor | Statystyki patronite.pl | Patromierz"
 
 permalink: /WatorAngelika
 ---

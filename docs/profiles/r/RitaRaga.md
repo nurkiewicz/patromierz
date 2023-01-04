@@ -1,5 +1,5 @@
 ---
-title: Rita Raga | Patromierz
+title: Rita Raga | Statystyki patronite.pl | Patromierz
 
 permalink: /RitaRaga
 ---

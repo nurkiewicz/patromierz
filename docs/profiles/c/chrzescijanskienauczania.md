@@ -1,5 +1,5 @@
 ---
-title: "Chrze\u015Bcija\u0144skie Nauczania | Patromierz"
+title: "Chrze\u015Bcija\u0144skie Nauczania | Statystyki patronite.pl | Patromierz"
 
 permalink: /chrzescijanskienauczania
 ---

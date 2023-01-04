@@ -1,5 +1,5 @@
 ---
-title: Chorzewska_Instaporadnia | Patromierz
+title: Chorzewska_Instaporadnia | Statystyki patronite.pl | Patromierz
 
 permalink: /Instaporadnia
 ---

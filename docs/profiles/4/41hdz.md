@@ -1,6 +1,6 @@
 ---
 title: "41 Harcerska Dru\u017Cyna \u017Beglarska im. W\u0142adys\u0142awa Wagnera\
-  \ | Patromierz"
+  \ | Statystyki patronite.pl | Patromierz"
 
 permalink: /41hdz
 ---

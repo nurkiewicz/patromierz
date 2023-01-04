@@ -1,5 +1,5 @@
 ---
-title: Dakann | Patromierz
+title: Dakann | Statystyki patronite.pl | Patromierz
 
 permalink: /dakann
 ---

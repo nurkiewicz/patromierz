@@ -1,5 +1,6 @@
 ---
-title: "FUNDACJA AKADEMIA PI\u0141KARSKA MAM TALENT LIMANOWA | Patromierz"
+title: "FUNDACJA AKADEMIA PI\u0141KARSKA MAM TALENT LIMANOWA | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /apmtlimanowa
 ---

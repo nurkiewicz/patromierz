@@ -1,5 +1,5 @@
 ---
-title: Gospoda RPG | Patromierz
+title: Gospoda RPG | Statystyki patronite.pl | Patromierz
 
 permalink: /gospodarpg
 ---

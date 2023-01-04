@@ -1,5 +1,5 @@
 ---
-title: "Jezusowy \u017Bo\u0142nierz | Patromierz"
+title: "Jezusowy \u017Bo\u0142nierz | Statystyki patronite.pl | Patromierz"
 
 permalink: /jezusowyzolnierz
 ---

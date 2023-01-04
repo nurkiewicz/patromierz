@@ -1,5 +1,5 @@
 ---
-title: UKS Komandos Warszawa | Patromierz
+title: UKS Komandos Warszawa | Statystyki patronite.pl | Patromierz
 
 permalink: /komandos
 ---

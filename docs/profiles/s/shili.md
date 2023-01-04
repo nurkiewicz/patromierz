@@ -1,5 +1,5 @@
 ---
-title: shili | Patromierz
+title: shili | Statystyki patronite.pl | Patromierz
 
 permalink: /shili
 ---

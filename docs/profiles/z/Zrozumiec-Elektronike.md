@@ -1,5 +1,5 @@
 ---
-title: "Piotr G\xF3recki | Patromierz"
+title: "Piotr G\xF3recki | Statystyki patronite.pl | Patromierz"
 
 permalink: /Zrozumiec-Elektronike
 ---

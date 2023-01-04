@@ -1,5 +1,5 @@
 ---
-title: Velomapa.pl | Patromierz
+title: Velomapa.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /velomapa
 ---

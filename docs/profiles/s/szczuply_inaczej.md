@@ -1,5 +1,5 @@
 ---
-title: "Szczup\u0142y Inaczej | Patromierz"
+title: "Szczup\u0142y Inaczej | Statystyki patronite.pl | Patromierz"
 
 permalink: /szczuply_inaczej
 ---

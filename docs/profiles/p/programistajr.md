@@ -1,5 +1,5 @@
 ---
-title: Programista Junior | Patromierz
+title: Programista Junior | Statystyki patronite.pl | Patromierz
 
 permalink: /programistajr
 ---

@@ -1,5 +1,5 @@
 ---
-title: Marek Teologicznie | Patromierz
+title: Marek Teologicznie | Statystyki patronite.pl | Patromierz
 
 permalink: /marekteologicznie
 ---

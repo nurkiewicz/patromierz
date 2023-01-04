@@ -1,5 +1,5 @@
 ---
-title: "PROSTO W KANA\u0141 | Patromierz"
+title: "PROSTO W KANA\u0141 | Statystyki patronite.pl | Patromierz"
 
 permalink: /prostowkanal
 ---

@@ -1,5 +1,5 @@
 ---
-title: Patrik Heliosz | Patromierz
+title: Patrik Heliosz | Statystyki patronite.pl | Patromierz
 
 permalink: /patrikheliosz
 ---

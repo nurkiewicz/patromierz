@@ -1,5 +1,5 @@
 ---
-title: ' Fundacja Trop Warszawa | Patromierz'
+title: ' Fundacja Trop Warszawa | Statystyki patronite.pl | Patromierz'
 
 permalink: /tropwarszawa
 ---

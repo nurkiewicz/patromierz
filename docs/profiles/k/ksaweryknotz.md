@@ -1,5 +1,5 @@
 ---
-title: Ksawery Knotz OFMCap | Patromierz
+title: Ksawery Knotz OFMCap | Statystyki patronite.pl | Patromierz
 
 permalink: /ksaweryknotz
 ---

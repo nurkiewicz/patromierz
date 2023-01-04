@@ -1,5 +1,5 @@
 ---
-title: Jakub Luczak | Patromierz
+title: Jakub Luczak | Statystyki patronite.pl | Patromierz
 
 permalink: /Pogruzinsku
 ---

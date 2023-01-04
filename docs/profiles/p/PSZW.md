@@ -1,5 +1,5 @@
 ---
-title: "Mniej Znaczy Wi\u0119cej! | Patromierz"
+title: "Mniej Znaczy Wi\u0119cej! | Statystyki patronite.pl | Patromierz"
 
 permalink: /PSZW
 ---

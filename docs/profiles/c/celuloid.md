@@ -1,5 +1,5 @@
 ---
-title: "Celuloid i \u015Bwiat\u0142o | Patromierz"
+title: "Celuloid i \u015Bwiat\u0142o | Statystyki patronite.pl | Patromierz"
 
 permalink: /celuloid
 ---

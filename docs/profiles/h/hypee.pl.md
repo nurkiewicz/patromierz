@@ -1,5 +1,5 @@
 ---
-title: HYPEE | Patromierz
+title: HYPEE | Statystyki patronite.pl | Patromierz
 
 permalink: /hypee.pl
 ---

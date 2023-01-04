@@ -1,5 +1,6 @@
 ---
-title: "Id\u017A ze swoj\u0105 si\u0142\u0105! - Magdalena Czech | Patromierz"
+title: "Id\u017A ze swoj\u0105 si\u0142\u0105! - Magdalena Czech | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /idz.ze.swoja.sila
 ---

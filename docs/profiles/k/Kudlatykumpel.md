@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Kud\u0142aty Kumpel  | Patromierz"
+title: "Fundacja Kud\u0142aty Kumpel  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Kudlatykumpel
 ---

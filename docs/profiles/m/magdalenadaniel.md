@@ -1,5 +1,5 @@
 ---
-title: Magdalena Daniel | Patromierz
+title: Magdalena Daniel | Statystyki patronite.pl | Patromierz
 
 permalink: /magdalenadaniel
 ---

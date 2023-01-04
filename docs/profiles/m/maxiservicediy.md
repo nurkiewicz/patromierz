@@ -1,5 +1,5 @@
 ---
-title: Hubert MAXISERVICE | Patromierz
+title: Hubert MAXISERVICE | Statystyki patronite.pl | Patromierz
 
 permalink: /maxiservicediy
 ---

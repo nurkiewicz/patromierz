@@ -1,5 +1,5 @@
 ---
-title: "Kurator S\u0105dowy | Patromierz"
+title: "Kurator S\u0105dowy | Statystyki patronite.pl | Patromierz"
 
 permalink: /kurator.sadowy
 ---

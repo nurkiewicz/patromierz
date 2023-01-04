@@ -1,5 +1,5 @@
 ---
-title: Kolektyw Kult | Patromierz
+title: Kolektyw Kult | Statystyki patronite.pl | Patromierz
 
 permalink: /kolektywkult
 ---

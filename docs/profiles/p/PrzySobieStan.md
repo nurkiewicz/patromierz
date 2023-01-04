@@ -1,5 +1,5 @@
 ---
-title: "PrzySobieSta\u0144 | Patromierz"
+title: "PrzySobieSta\u0144 | Statystyki patronite.pl | Patromierz"
 
 permalink: /PrzySobieStan
 ---

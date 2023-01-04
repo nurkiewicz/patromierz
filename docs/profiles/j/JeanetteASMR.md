@@ -1,5 +1,5 @@
 ---
-title: JeanetteASMR | Patromierz
+title: JeanetteASMR | Statystyki patronite.pl | Patromierz
 
 permalink: /JeanetteASMR
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Notatnik Re\u017Cysera by Pawe\u0142 J. Rodan | Patromierz"
+title: "Notatnik Re\u017Cysera by Pawe\u0142 J. Rodan | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /pjrodan
 ---

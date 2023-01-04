@@ -1,5 +1,5 @@
 ---
-title: Polski Instytut Transportu Drogowego | Patromierz
+title: Polski Instytut Transportu Drogowego | Statystyki patronite.pl | Patromierz
 
 permalink: /PITD
 ---

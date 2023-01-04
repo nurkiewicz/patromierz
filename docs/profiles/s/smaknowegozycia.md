@@ -1,5 +1,5 @@
 ---
-title: "Smak Nowego \u017Bycia | Patromierz"
+title: "Smak Nowego \u017Bycia | Statystyki patronite.pl | Patromierz"
 
 permalink: /smaknowegozycia
 ---

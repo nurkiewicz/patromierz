@@ -1,5 +1,5 @@
 ---
-title: Queer.pl | Patromierz
+title: Queer.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /queerpl
 ---

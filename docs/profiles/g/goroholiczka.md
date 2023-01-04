@@ -1,5 +1,5 @@
 ---
-title: "G\xF3roholiczka | Patromierz"
+title: "G\xF3roholiczka | Statystyki patronite.pl | Patromierz"
 
 permalink: /goroholiczka
 ---

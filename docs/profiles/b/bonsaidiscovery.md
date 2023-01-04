@@ -1,5 +1,5 @@
 ---
-title: Bonsai Discovery - Bartosz Warwas | Patromierz
+title: Bonsai Discovery - Bartosz Warwas | Statystyki patronite.pl | Patromierz
 
 permalink: /bonsaidiscovery
 ---

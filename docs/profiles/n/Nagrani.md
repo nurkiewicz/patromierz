@@ -1,5 +1,5 @@
 ---
-title: Na Grani | Patromierz
+title: Na Grani | Statystyki patronite.pl | Patromierz
 
 permalink: /Nagrani
 ---

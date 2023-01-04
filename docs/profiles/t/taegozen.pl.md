@@ -1,5 +1,5 @@
 ---
-title: "Szko\u0142a Zen Taego | Patromierz"
+title: "Szko\u0142a Zen Taego | Statystyki patronite.pl | Patromierz"
 
 permalink: /taegozen.pl
 ---

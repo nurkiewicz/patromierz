@@ -1,5 +1,5 @@
 ---
-title: KUXON | Patromierz
+title: KUXON | Statystyki patronite.pl | Patromierz
 
 permalink: /kuxonbeatbox
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Siedlisko Marcin\xF3wka | Patromierz"
+title: "Siedlisko Marcin\xF3wka | Statystyki patronite.pl | Patromierz"
 
 permalink: /siedliskomarcinowka
 ---

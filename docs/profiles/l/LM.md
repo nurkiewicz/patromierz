@@ -1,5 +1,5 @@
 ---
-title: Lans Macabre | Patromierz
+title: Lans Macabre | Statystyki patronite.pl | Patromierz
 
 permalink: /LM
 ---

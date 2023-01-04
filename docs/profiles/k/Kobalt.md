@@ -1,5 +1,5 @@
 ---
-title: Kobalt  | Patromierz
+title: Kobalt  | Statystyki patronite.pl | Patromierz
 
 permalink: /Kobalt
 ---

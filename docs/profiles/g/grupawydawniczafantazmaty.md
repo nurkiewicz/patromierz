@@ -1,5 +1,5 @@
 ---
-title: Fantazmaty | Patromierz
+title: Fantazmaty | Statystyki patronite.pl | Patromierz
 
 permalink: /grupawydawniczafantazmaty
 ---

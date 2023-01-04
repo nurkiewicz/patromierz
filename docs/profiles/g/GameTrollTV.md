@@ -1,5 +1,5 @@
 ---
-title: Game Troll | Patromierz
+title: Game Troll | Statystyki patronite.pl | Patromierz
 
 permalink: /GameTrollTV
 ---

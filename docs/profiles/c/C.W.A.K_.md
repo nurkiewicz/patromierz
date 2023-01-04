@@ -1,5 +1,5 @@
 ---
-title: c.w.a.k | Patromierz
+title: c.w.a.k | Statystyki patronite.pl | Patromierz
 
 permalink: /C.W.A.K_
 ---

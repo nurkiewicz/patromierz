@@ -1,5 +1,5 @@
 ---
-title: "Wojtek Kie\u0142basa | Patromierz"
+title: "Wojtek Kie\u0142basa | Statystyki patronite.pl | Patromierz"
 
 permalink: /wojtekkielbasa
 ---

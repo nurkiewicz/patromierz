@@ -1,5 +1,5 @@
 ---
-title: Bikepark Kazoora  | Patromierz
+title: Bikepark Kazoora  | Statystyki patronite.pl | Patromierz
 
 permalink: /BikeparkKazoora
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Miros\u0142aw Trochanowski | Patromierz"
+title: "Miros\u0142aw Trochanowski | Statystyki patronite.pl | Patromierz"
 
 permalink: /miroslawtrochanowski
 ---

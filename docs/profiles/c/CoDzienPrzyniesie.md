@@ -1,5 +1,5 @@
 ---
-title: "CoDzie\u0144Przyniesie | Patromierz"
+title: "CoDzie\u0144Przyniesie | Statystyki patronite.pl | Patromierz"
 
 permalink: /CoDzienPrzyniesie
 ---

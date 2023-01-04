@@ -1,5 +1,5 @@
 ---
-title: "Dorota Lipczy\u0144ska | Patromierz"
+title: "Dorota Lipczy\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /dorotayoga
 ---

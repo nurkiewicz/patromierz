@@ -1,5 +1,5 @@
 ---
-title: Proanima.pl | Patromierz
+title: Proanima.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /proanima
 ---

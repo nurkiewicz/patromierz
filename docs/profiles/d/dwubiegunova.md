@@ -1,5 +1,5 @@
 ---
-title: DwubieguNova | Patromierz
+title: DwubieguNova | Statystyki patronite.pl | Patromierz
 
 permalink: /dwubiegunova
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ci\u0119\u017Ckie Majki Podcast | Patromierz"
+title: "Ci\u0119\u017Ckie Majki Podcast | Statystyki patronite.pl | Patromierz"
 
 permalink: /CiezkieMajki
 ---

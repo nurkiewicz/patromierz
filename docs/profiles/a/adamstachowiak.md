@@ -1,5 +1,5 @@
 ---
-title: Adam Stachowiak | Patromierz
+title: Adam Stachowiak | Statystyki patronite.pl | Patromierz
 
 permalink: /adamstachowiak
 ---

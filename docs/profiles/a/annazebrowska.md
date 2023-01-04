@@ -1,5 +1,5 @@
 ---
-title: "Anna \u017Bebrowska | Patromierz"
+title: "Anna \u017Bebrowska | Statystyki patronite.pl | Patromierz"
 
 permalink: /annazebrowska
 ---

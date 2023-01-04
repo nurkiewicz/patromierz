@@ -1,5 +1,5 @@
 ---
-title: Frontiersman | Patromierz
+title: Frontiersman | Statystyki patronite.pl | Patromierz
 
 permalink: /Frontiersman
 ---

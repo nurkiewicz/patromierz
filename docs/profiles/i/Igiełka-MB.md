@@ -1,5 +1,5 @@
 ---
-title: "Igie\u0142ka-MB | Patromierz"
+title: "Igie\u0142ka-MB | Statystyki patronite.pl | Patromierz"
 
 permalink: /Igiełka-MB
 ---

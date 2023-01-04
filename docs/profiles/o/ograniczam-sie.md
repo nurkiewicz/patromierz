@@ -1,5 +1,5 @@
 ---
-title: "Ograniczam Si\u0119 Kasia W\u0105growska | Patromierz"
+title: "Ograniczam Si\u0119 Kasia W\u0105growska | Statystyki patronite.pl | Patromierz"
 
 permalink: /ograniczam-sie
 ---

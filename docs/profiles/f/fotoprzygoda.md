@@ -1,5 +1,5 @@
 ---
-title: Modry | Patromierz
+title: Modry | Statystyki patronite.pl | Patromierz
 
 permalink: /fotoprzygoda
 ---

@@ -1,5 +1,5 @@
 ---
-title: Omnis Arma | Patromierz
+title: Omnis Arma | Statystyki patronite.pl | Patromierz
 
 permalink: /OmnisArma
 ---

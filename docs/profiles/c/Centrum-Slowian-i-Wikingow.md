@@ -1,5 +1,5 @@
 ---
-title: "Centrum S\u0142owian i Wiking\xF3w w Wolinie | Patromierz"
+title: "Centrum S\u0142owian i Wiking\xF3w w Wolinie | Statystyki patronite.pl | Patromierz"
 
 permalink: /Centrum-Slowian-i-Wikingow
 ---

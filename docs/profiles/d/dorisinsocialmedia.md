@@ -1,5 +1,5 @@
 ---
-title: Doris in Social Media | Patromierz
+title: Doris in Social Media | Statystyki patronite.pl | Patromierz
 
 permalink: /dorisinsocialmedia
 ---

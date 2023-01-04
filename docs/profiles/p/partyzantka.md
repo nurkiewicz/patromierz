@@ -1,5 +1,5 @@
 ---
-title: Miejska Partyzantka Ogrodnicza | Patromierz
+title: Miejska Partyzantka Ogrodnicza | Statystyki patronite.pl | Patromierz
 
 permalink: /partyzantka
 ---

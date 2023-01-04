@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Przysta\u0144 Medyczna | Patromierz"
+title: "Fundacja Przysta\u0144 Medyczna | Statystyki patronite.pl | Patromierz"
 
 permalink: /FPM
 ---

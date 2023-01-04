@@ -1,5 +1,5 @@
 ---
-title: "C\xD3RY | Patromierz"
+title: "C\xD3RY | Statystyki patronite.pl | Patromierz"
 
 permalink: /tomycory
 ---

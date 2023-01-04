@@ -1,5 +1,5 @@
 ---
-title: Sierra Echo | Patromierz
+title: Sierra Echo | Statystyki patronite.pl | Patromierz
 
 permalink: /SierraEcho
 ---

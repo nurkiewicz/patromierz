@@ -1,5 +1,5 @@
 ---
-title: Latarnik Kaliski | Patromierz
+title: Latarnik Kaliski | Statystyki patronite.pl | Patromierz
 
 permalink: /LatarnikKaliski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "turystyka BEZ FILTR\xD3W | Patromierz"
+title: "turystyka BEZ FILTR\xD3W | Statystyki patronite.pl | Patromierz"
 
 permalink: /turystykabezfiltrow
 ---

@@ -1,5 +1,5 @@
 ---
-title: KARINA TYMA | Patromierz
+title: KARINA TYMA | Statystyki patronite.pl | Patromierz
 
 permalink: /KTSquash
 ---

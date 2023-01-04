@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Zwierz\u0119ca Polana | Patromierz"
+title: "Fundacja Zwierz\u0119ca Polana | Statystyki patronite.pl | Patromierz"
 
 permalink: /FundacjaZwierzecaPolana
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Dziko\u015B\u0107 w Sercu | Patromierz"
+title: "Dziko\u015B\u0107 w Sercu | Statystyki patronite.pl | Patromierz"
 
 permalink: /dzikoscwsercu
 ---

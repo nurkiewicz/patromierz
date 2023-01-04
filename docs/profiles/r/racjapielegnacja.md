@@ -1,5 +1,5 @@
 ---
-title: "Racjapiel\u0119gnacja | Patromierz"
+title: "Racjapiel\u0119gnacja | Statystyki patronite.pl | Patromierz"
 
 permalink: /racjapielegnacja
 ---

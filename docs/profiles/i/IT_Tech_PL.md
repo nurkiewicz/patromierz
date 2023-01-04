@@ -1,5 +1,5 @@
 ---
-title: IT Tech PL | Patromierz
+title: IT Tech PL | Statystyki patronite.pl | Patromierz
 
 permalink: /IT_Tech_PL
 ---

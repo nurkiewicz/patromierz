@@ -1,5 +1,5 @@
 ---
-title: "SMGP KO\u015ACI | Patromierz"
+title: "SMGP KO\u015ACI | Statystyki patronite.pl | Patromierz"
 
 permalink: /kosci
 ---

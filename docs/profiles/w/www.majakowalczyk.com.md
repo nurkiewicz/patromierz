@@ -1,5 +1,5 @@
 ---
-title: Maja Kowalczyk | Patromierz
+title: Maja Kowalczyk | Statystyki patronite.pl | Patromierz
 
 permalink: /www.majakowalczyk.com
 ---

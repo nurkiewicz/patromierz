@@ -1,5 +1,5 @@
 ---
-title: inne.radio | Patromierz
+title: inne.radio | Statystyki patronite.pl | Patromierz
 
 permalink: /inneradio
 ---

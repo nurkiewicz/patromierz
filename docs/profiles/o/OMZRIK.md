@@ -1,5 +1,5 @@
 ---
-title: OMZRiK | Patromierz
+title: OMZRiK | Statystyki patronite.pl | Patromierz
 
 permalink: /OMZRIK
 ---

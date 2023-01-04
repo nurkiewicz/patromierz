@@ -1,5 +1,6 @@
 ---
-title: "Fundacja Anny Dymnej \u201EMimo Wszystko\u201D | Patromierz"
+title: "Fundacja Anny Dymnej \u201EMimo Wszystko\u201D | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /mimowszystko
 ---

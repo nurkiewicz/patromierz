@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Rudzki | Patromierz"
+title: "Przemys\u0142aw Rudzki | Statystyki patronite.pl | Patromierz"
 
 permalink: /kickoff-przemyslawrudzki
 ---

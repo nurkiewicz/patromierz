@@ -1,5 +1,5 @@
 ---
-title: "Klub Jagiello\u0144ski | Patromierz"
+title: "Klub Jagiello\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /klubjagiellonski
 ---

@@ -1,5 +1,5 @@
 ---
-title: TravelersPL | Patromierz
+title: TravelersPL | Statystyki patronite.pl | Patromierz
 
 permalink: /TravelersPL
 ---

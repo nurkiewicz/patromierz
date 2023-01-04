@@ -1,5 +1,5 @@
 ---
-title: "Katarzyna  Szyma\u0144ska  | Patromierz"
+title: "Katarzyna  Szyma\u0144ska  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Jogisza
 ---

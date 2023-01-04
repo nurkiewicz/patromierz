@@ -1,5 +1,5 @@
 ---
-title: Jarek Guc  'Odetchnij Spokojem' | Patromierz
+title: Jarek Guc  'Odetchnij Spokojem' | Statystyki patronite.pl | Patromierz
 
 permalink: /jarekguc
 ---

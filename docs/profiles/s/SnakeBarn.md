@@ -1,5 +1,5 @@
 ---
-title: Snake Barn | Patromierz
+title: Snake Barn | Statystyki patronite.pl | Patromierz
 
 permalink: /SnakeBarn
 ---

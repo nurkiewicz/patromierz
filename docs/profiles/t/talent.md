@@ -1,5 +1,5 @@
 ---
-title: Fundacja Talent Cieszyn | Patromierz
+title: Fundacja Talent Cieszyn | Statystyki patronite.pl | Patromierz
 
 permalink: /talent
 ---

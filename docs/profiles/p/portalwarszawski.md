@@ -1,5 +1,5 @@
 ---
-title: Portal Warszawski/NOWA STRONA WWW | Patromierz
+title: Portal Warszawski/NOWA STRONA WWW | Statystyki patronite.pl | Patromierz
 
 permalink: /portalwarszawski
 ---

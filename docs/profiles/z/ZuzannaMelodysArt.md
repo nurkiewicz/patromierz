@@ -1,5 +1,5 @@
 ---
-title: Zuzanna Melody's art | Patromierz
+title: Zuzanna Melody's art | Statystyki patronite.pl | Patromierz
 
 permalink: /ZuzannaMelodysArt
 ---

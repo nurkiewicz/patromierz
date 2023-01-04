@@ -1,5 +1,5 @@
 ---
-title: Maciek Trochimowicz | Patromierz
+title: Maciek Trochimowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /trochim
 ---

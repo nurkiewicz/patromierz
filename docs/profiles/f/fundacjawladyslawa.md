@@ -1,5 +1,6 @@
 ---
-title: "Fundacja B\u0142ogos\u0142awionego W\u0142adys\u0142awa z Gielniowa | Patromierz"
+title: "Fundacja B\u0142ogos\u0142awionego W\u0142adys\u0142awa z Gielniowa | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /fundacjawladyslawa
 ---

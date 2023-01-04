@@ -1,5 +1,5 @@
 ---
-title: Zbrodnie Zapomniane | Patromierz
+title: Zbrodnie Zapomniane | Statystyki patronite.pl | Patromierz
 
 permalink: /ZbrodnieZapomniane
 ---

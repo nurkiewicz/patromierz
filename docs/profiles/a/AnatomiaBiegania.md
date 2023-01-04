@@ -1,5 +1,5 @@
 ---
-title: Anatomia Biegania | Patromierz
+title: Anatomia Biegania | Statystyki patronite.pl | Patromierz
 
 permalink: /AnatomiaBiegania
 ---

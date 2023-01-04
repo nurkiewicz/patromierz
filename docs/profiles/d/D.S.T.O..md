@@ -1,5 +1,5 @@
 ---
-title: DUKTOMANIA | Patromierz
+title: DUKTOMANIA | Statystyki patronite.pl | Patromierz
 
 permalink: /D.S.T.O.
 ---

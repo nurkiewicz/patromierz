@@ -1,5 +1,5 @@
 ---
-title: Coens Cave | Patromierz
+title: Coens Cave | Statystyki patronite.pl | Patromierz
 
 permalink: /CoensCave
 ---

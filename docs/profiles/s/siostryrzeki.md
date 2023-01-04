@@ -1,5 +1,5 @@
 ---
-title: Siostry Rzeki | Patromierz
+title: Siostry Rzeki | Statystyki patronite.pl | Patromierz
 
 permalink: /siostryrzeki
 ---

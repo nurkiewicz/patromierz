@@ -1,5 +1,6 @@
 ---
-title: Skatehistoria.pl - Historia Polskiej Deskorolki | Patromierz
+title: Skatehistoria.pl - Historia Polskiej Deskorolki | Statystyki patronite.pl |
+  Patromierz
 
 permalink: /skatehistoria
 ---

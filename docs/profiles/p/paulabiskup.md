@@ -1,5 +1,5 @@
 ---
-title: Paula Biskup | Patromierz
+title: Paula Biskup | Statystyki patronite.pl | Patromierz
 
 permalink: /paulabiskup
 ---

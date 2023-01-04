@@ -1,5 +1,5 @@
 ---
-title: Damian Rutkowski | Patromierz
+title: Damian Rutkowski | Statystyki patronite.pl | Patromierz
 
 permalink: /Ogranykanal
 ---

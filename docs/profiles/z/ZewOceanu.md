@@ -1,5 +1,6 @@
 ---
-title: "Zew Oceanu - dooko\u0142a \u015Bwiata, raz jeszcze | Patromierz"
+title: "Zew Oceanu - dooko\u0142a \u015Bwiata, raz jeszcze | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /ZewOceanu
 ---

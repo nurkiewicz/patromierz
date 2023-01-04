@@ -1,5 +1,5 @@
 ---
-title: Velesar | Patromierz
+title: Velesar | Statystyki patronite.pl | Patromierz
 
 permalink: /velesar
 ---

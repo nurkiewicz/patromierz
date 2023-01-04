@@ -1,5 +1,5 @@
 ---
-title: Telewizja RzeczJasna | Patromierz
+title: Telewizja RzeczJasna | Statystyki patronite.pl | Patromierz
 
 permalink: /RzeczJasna
 ---

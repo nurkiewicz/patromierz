@@ -1,5 +1,5 @@
 ---
-title: "Rodzinne Podr\xF3\u017Ce  | Patromierz"
+title: "Rodzinne Podr\xF3\u017Ce  | Statystyki patronite.pl | Patromierz"
 
 permalink: /RodzinnePodróże
 ---

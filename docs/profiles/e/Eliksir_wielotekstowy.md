@@ -1,5 +1,5 @@
 ---
-title: Eliksir wielotekstowy | Patromierz
+title: Eliksir wielotekstowy | Statystyki patronite.pl | Patromierz
 
 permalink: /Eliksir_wielotekstowy
 ---

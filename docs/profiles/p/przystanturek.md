@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie PRZYSTA\u0143 | Patromierz"
+title: "Stowarzyszenie PRZYSTA\u0143 | Statystyki patronite.pl | Patromierz"
 
 permalink: /przystanturek
 ---

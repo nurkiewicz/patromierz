@@ -1,5 +1,5 @@
 ---
-title: "Mi\u0142o\u015Bnicy  Podr\xF3\u017Cowania  | Patromierz"
+title: "Mi\u0142o\u015Bnicy  Podr\xF3\u017Cowania  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Milosnicy-Podrozowania
 ---

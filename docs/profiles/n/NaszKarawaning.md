@@ -1,5 +1,5 @@
 ---
-title: Nasz Karawaning | Patromierz
+title: Nasz Karawaning | Statystyki patronite.pl | Patromierz
 
 permalink: /NaszKarawaning
 ---

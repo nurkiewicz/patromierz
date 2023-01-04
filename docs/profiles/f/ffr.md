@@ -1,5 +1,5 @@
 ---
-title: Fundacja First Responder | Patromierz
+title: Fundacja First Responder | Statystyki patronite.pl | Patromierz
 
 permalink: /ffr
 ---

@@ -1,5 +1,6 @@
 ---
-title: Porady  Medyczne Rzetelna i Wiarygodna wiedza On line | Patromierz
+title: Porady  Medyczne Rzetelna i Wiarygodna wiedza On line | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /porady
 ---

@@ -1,5 +1,5 @@
 ---
-title: LeKret | Patromierz
+title: LeKret | Statystyki patronite.pl | Patromierz
 
 permalink: /anfoman
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nyskie Pogotowie Opieku\u0144czo-Adopcyjne  dla Zwierz\u0105t \u0141APA  |\
-  \ Patromierz"
+  \ Statystyki patronite.pl | Patromierz"
 
 permalink: /lapanysa
 ---

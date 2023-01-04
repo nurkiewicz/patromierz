@@ -1,5 +1,5 @@
 ---
-title: 8th Regiment | Patromierz
+title: 8th Regiment | Statystyki patronite.pl | Patromierz
 
 permalink: /8thRegiment
 ---

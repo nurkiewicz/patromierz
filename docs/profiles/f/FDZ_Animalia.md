@@ -1,5 +1,5 @@
 ---
-title: "Fundacja dla Zwierz\u0105t Animalia | Patromierz"
+title: "Fundacja dla Zwierz\u0105t Animalia | Statystyki patronite.pl | Patromierz"
 
 permalink: /FDZ_Animalia
 ---

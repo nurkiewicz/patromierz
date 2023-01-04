@@ -1,5 +1,5 @@
 ---
-title: "Klub muzyczny Anielski M\u0142yn | Patromierz"
+title: "Klub muzyczny Anielski M\u0142yn | Statystyki patronite.pl | Patromierz"
 
 permalink: /anielskimlyncieszyn
 ---

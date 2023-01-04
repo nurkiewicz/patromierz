@@ -1,5 +1,5 @@
 ---
-title: LUKSUSOWE TOREBKI by Lux&Happy | Patromierz
+title: LUKSUSOWE TOREBKI by Lux&Happy | Statystyki patronite.pl | Patromierz
 
 permalink: /luksusowetorebki
 ---

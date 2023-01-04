@@ -1,5 +1,5 @@
 ---
-title: Oxie Moron | Patromierz
+title: Oxie Moron | Statystyki patronite.pl | Patromierz
 
 permalink: /oxiemoron
 ---

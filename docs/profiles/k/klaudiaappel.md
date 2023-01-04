@@ -1,5 +1,5 @@
 ---
-title: Klaudia Appel | Patromierz
+title: Klaudia Appel | Statystyki patronite.pl | Patromierz
 
 permalink: /klaudiaappel
 ---

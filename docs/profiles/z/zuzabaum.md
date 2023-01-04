@@ -1,5 +1,5 @@
 ---
-title: ZUZA BAUM | Patromierz
+title: ZUZA BAUM | Statystyki patronite.pl | Patromierz
 
 permalink: /zuzabaum
 ---

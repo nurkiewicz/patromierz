@@ -1,5 +1,5 @@
 ---
-title: '***\ poznaj siebie /*** | Patromierz'
+title: '***\ poznaj siebie /*** | Statystyki patronite.pl | Patromierz'
 
 permalink: /poznajsiebie
 ---

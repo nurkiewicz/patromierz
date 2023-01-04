@@ -1,5 +1,5 @@
 ---
-title: Arek Trajdos | Patromierz
+title: Arek Trajdos | Statystyki patronite.pl | Patromierz
 
 permalink: /ArekTrajdos
 ---

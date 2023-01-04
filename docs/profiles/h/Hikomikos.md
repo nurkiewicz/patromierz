@@ -1,5 +1,5 @@
 ---
-title: Hikomikos | Patromierz
+title: Hikomikos | Statystyki patronite.pl | Patromierz
 
 permalink: /Hikomikos
 ---

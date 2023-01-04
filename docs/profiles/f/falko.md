@@ -1,5 +1,5 @@
 ---
-title: Falko Project | Patromierz
+title: Falko Project | Statystyki patronite.pl | Patromierz
 
 permalink: /falko
 ---

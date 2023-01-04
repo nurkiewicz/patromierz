@@ -1,5 +1,5 @@
 ---
-title: Muzeum Elektroniki | Patromierz
+title: Muzeum Elektroniki | Statystyki patronite.pl | Patromierz
 
 permalink: /muzeumelektroniki
 ---

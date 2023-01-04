@@ -1,5 +1,5 @@
 ---
-title: Dom Diecezjalny TABOR | Patromierz
+title: Dom Diecezjalny TABOR | Statystyki patronite.pl | Patromierz
 
 permalink: /domdiecezjalnytabor
 ---

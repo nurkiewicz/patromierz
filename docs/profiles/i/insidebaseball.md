@@ -1,5 +1,5 @@
 ---
-title: Inside Baseball | Patromierz
+title: Inside Baseball | Statystyki patronite.pl | Patromierz
 
 permalink: /insidebaseball
 ---

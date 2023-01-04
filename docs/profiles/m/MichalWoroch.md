@@ -1,5 +1,6 @@
 ---
-title: "Micha\u0142 Woroch - w h e e l c h a i r t r i p | Patromierz"
+title: "Micha\u0142 Woroch - w h e e l c h a i r t r i p | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /MichalWoroch
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kuba Koci\u0119ba | Patromierz"
+title: "Kuba Koci\u0119ba | Statystyki patronite.pl | Patromierz"
 
 permalink: /kkocieba
 ---

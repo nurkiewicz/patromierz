@@ -1,5 +1,5 @@
 ---
-title: My Wonderland.com.pl | Patromierz
+title: My Wonderland.com.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /mywonderland_com_pl
 ---

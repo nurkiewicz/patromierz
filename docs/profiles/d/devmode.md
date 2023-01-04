@@ -1,5 +1,5 @@
 ---
-title: Devmode | Patromierz
+title: Devmode | Statystyki patronite.pl | Patromierz
 
 permalink: /devmode
 ---

@@ -1,5 +1,5 @@
 ---
-title: Ola Nowe Perspektywy | Patromierz
+title: Ola Nowe Perspektywy | Statystyki patronite.pl | Patromierz
 
 permalink: /Ola.nowe.perspektywy
 ---

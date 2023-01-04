@@ -1,5 +1,5 @@
 ---
-title: Postaw na siebie! | Patromierz
+title: Postaw na siebie! | Statystyki patronite.pl | Patromierz
 
 permalink: /postaw-na-siebie
 ---

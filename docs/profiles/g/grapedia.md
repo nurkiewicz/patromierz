@@ -1,5 +1,5 @@
 ---
-title: GRApedia | Patromierz
+title: GRApedia | Statystyki patronite.pl | Patromierz
 
 permalink: /grapedia
 ---

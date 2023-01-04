@@ -1,5 +1,5 @@
 ---
-title: Wyrwani z Niewoli | Patromierz
+title: Wyrwani z Niewoli | Statystyki patronite.pl | Patromierz
 
 permalink: /wzn
 ---

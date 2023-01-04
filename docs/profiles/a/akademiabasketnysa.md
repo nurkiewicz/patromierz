@@ -1,5 +1,5 @@
 ---
-title: Akademia Basket Nysa | Patromierz
+title: Akademia Basket Nysa | Statystyki patronite.pl | Patromierz
 
 permalink: /akademiabasketnysa
 ---

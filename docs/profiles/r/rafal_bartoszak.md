@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Bartoszak | Patromierz"
+title: "Rafa\u0142 Bartoszak | Statystyki patronite.pl | Patromierz"
 
 permalink: /rafal_bartoszak
 ---

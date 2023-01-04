@@ -1,5 +1,5 @@
 ---
-title: Piotr Ikonowicz | Patromierz
+title: Piotr Ikonowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /ikonowicz
 ---

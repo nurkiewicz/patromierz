@@ -1,5 +1,5 @@
 ---
-title: Smartgasm | Patromierz
+title: Smartgasm | Statystyki patronite.pl | Patromierz
 
 permalink: /smartgasm
 ---

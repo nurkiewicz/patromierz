@@ -1,5 +1,5 @@
 ---
-title: Krzysztof Petek | Patromierz
+title: Krzysztof Petek | Statystyki patronite.pl | Patromierz
 
 permalink: /petek
 ---

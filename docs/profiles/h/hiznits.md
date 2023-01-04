@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Hiznits  | Patromierz
+title: Stowarzyszenie Hiznits  | Statystyki patronite.pl | Patromierz
 
 permalink: /hiznits
 ---

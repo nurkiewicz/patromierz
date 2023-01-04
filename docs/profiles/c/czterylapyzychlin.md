@@ -1,5 +1,5 @@
 ---
-title: "Cztery \u0141apy \u017Bychlin | Patromierz"
+title: "Cztery \u0141apy \u017Bychlin | Statystyki patronite.pl | Patromierz"
 
 permalink: /czterylapyzychlin
 ---

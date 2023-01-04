@@ -1,5 +1,6 @@
 ---
-title: "Na wi\u0119ksz\u0105 Chwa\u0142\u0119 Bo\u017C\u0105 | Patromierz"
+title: "Na wi\u0119ksz\u0105 Chwa\u0142\u0119 Bo\u017C\u0105 | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /wiekszedobro
 ---

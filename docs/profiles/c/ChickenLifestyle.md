@@ -1,5 +1,5 @@
 ---
-title: Chicken Lifestyle | Patromierz
+title: Chicken Lifestyle | Statystyki patronite.pl | Patromierz
 
 permalink: /ChickenLifestyle
 ---

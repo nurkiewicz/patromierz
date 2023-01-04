@@ -1,5 +1,5 @@
 ---
-title: Karolina Korwin Piotrowska  | Patromierz
+title: Karolina Korwin Piotrowska  | Statystyki patronite.pl | Patromierz
 
 permalink: /karolinakp
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Stowarzyszenie P\xF3\u0142pi\u0119tro | Patromierz"
+title: "Stowarzyszenie P\xF3\u0142pi\u0119tro | Statystyki patronite.pl | Patromierz"
 
 permalink: /polpietro
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Edward S\u0142owianin Leh | Patromierz"
+title: "Edward S\u0142owianin Leh | Statystyki patronite.pl | Patromierz"
 
 permalink: /EdwardSłowianin
 ---

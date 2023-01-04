@@ -1,5 +1,5 @@
 ---
-title: Vlog Kreta | Patromierz
+title: Vlog Kreta | Statystyki patronite.pl | Patromierz
 
 permalink: /VlogKreta
 ---

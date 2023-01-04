@@ -1,5 +1,5 @@
 ---
-title: Maja Karina Rozbicka | Patromierz
+title: Maja Karina Rozbicka | Statystyki patronite.pl | Patromierz
 
 permalink: /majakarinarozbicka
 ---

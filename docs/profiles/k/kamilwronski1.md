@@ -1,5 +1,5 @@
 ---
-title: "Kamil Wro\u0144ski - nastoletni student | Patromierz"
+title: "Kamil Wro\u0144ski - nastoletni student | Statystyki patronite.pl | Patromierz"
 
 permalink: /kamilwronski1
 ---

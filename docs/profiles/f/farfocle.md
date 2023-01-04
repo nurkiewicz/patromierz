@@ -1,5 +1,5 @@
 ---
-title: Zuzanna Siwek | Patromierz
+title: Zuzanna Siwek | Statystyki patronite.pl | Patromierz
 
 permalink: /farfocle
 ---

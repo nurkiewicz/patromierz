@@ -1,5 +1,5 @@
 ---
-title: CarPoint | Patromierz
+title: CarPoint | Statystyki patronite.pl | Patromierz
 
 permalink: /carpoint
 ---

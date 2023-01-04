@@ -1,5 +1,5 @@
 ---
-title: SmoothSail Music | Patromierz
+title: SmoothSail Music | Statystyki patronite.pl | Patromierz
 
 permalink: /smoothsail-music
 ---

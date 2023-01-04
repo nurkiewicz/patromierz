@@ -1,5 +1,5 @@
 ---
-title: "Uwaga Naukowy Be\u0142kot | Patromierz"
+title: "Uwaga Naukowy Be\u0142kot | Statystyki patronite.pl | Patromierz"
 
 permalink: /NaukowyBelkot
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0119garnia \"Czytelnia\" | Patromierz"
+title: "Ksi\u0119garnia \"Czytelnia\" | Statystyki patronite.pl | Patromierz"
 
 permalink: /Księgarnia
 ---

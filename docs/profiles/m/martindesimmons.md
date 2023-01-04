@@ -1,5 +1,5 @@
 ---
-title: Martin de Simmons | Patromierz
+title: Martin de Simmons | Statystyki patronite.pl | Patromierz
 
 permalink: /martindesimmons
 ---

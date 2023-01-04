@@ -1,5 +1,5 @@
 ---
-title: "Karo Wi\u015Bniewska | Patromierz"
+title: "Karo Wi\u015Bniewska | Statystyki patronite.pl | Patromierz"
 
 permalink: /cierpkawisnia
 ---

@@ -1,5 +1,5 @@
 ---
-title: Historia nie gryzie  | Patromierz
+title: Historia nie gryzie  | Statystyki patronite.pl | Patromierz
 
 permalink: /HNG
 ---

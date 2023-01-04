@@ -1,5 +1,5 @@
 ---
-title: Nieanegdotycznie | Patromierz
+title: Nieanegdotycznie | Statystyki patronite.pl | Patromierz
 
 permalink: /nieanegdotycznie
 ---

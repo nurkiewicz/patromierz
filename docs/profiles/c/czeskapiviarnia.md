@@ -1,5 +1,5 @@
 ---
-title: Czeska Piviarnia | Patromierz
+title: Czeska Piviarnia | Statystyki patronite.pl | Patromierz
 
 permalink: /czeskapiviarnia
 ---

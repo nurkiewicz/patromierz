@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Bu\u0142at | Patromierz"
+title: "Pawe\u0142 Bu\u0142at | Statystyki patronite.pl | Patromierz"
 
 permalink: /xman
 ---

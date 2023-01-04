@@ -1,6 +1,6 @@
 ---
 title: "Wojtek Krzy\u017Caniak: G\u0142os Szczerej S\u0142owia\u0144skiej Szydery\
-  \ | Patromierz"
+  \ | Statystyki patronite.pl | Patromierz"
 
 permalink: /Krzyzaniak
 ---

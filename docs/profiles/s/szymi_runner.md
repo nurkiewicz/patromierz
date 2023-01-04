@@ -1,5 +1,5 @@
 ---
-title: "Szymon Doro\u017Cy\u0144ski | Patromierz"
+title: "Szymon Doro\u017Cy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /szymi_runner
 ---

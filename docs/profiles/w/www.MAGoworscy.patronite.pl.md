@@ -1,5 +1,5 @@
 ---
-title: Marta Panas-Goworska & Andrzej Goworski | Patromierz
+title: Marta Panas-Goworska & Andrzej Goworski | Statystyki patronite.pl | Patromierz
 
 permalink: /www.MAGoworscy.patronite.pl
 ---

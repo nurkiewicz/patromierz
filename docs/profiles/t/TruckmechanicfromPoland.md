@@ -1,5 +1,5 @@
 ---
-title: Truck Mechanic from Poland | Patromierz
+title: Truck Mechanic from Poland | Statystyki patronite.pl | Patromierz
 
 permalink: /TruckmechanicfromPoland
 ---

@@ -1,5 +1,5 @@
 ---
-title: "W\u0119dkuj z Juli\u0105 | Patromierz"
+title: "W\u0119dkuj z Juli\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /wedkujzjulia
 ---

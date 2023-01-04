@@ -1,5 +1,5 @@
 ---
-title: Bez Spiny | Patromierz
+title: Bez Spiny | Statystyki patronite.pl | Patromierz
 
 permalink: /BezSpiny
 ---

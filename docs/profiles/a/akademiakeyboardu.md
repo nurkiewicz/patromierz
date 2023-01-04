@@ -1,5 +1,5 @@
 ---
-title: Akademia Keyboardu KeyboardWay | Patromierz
+title: Akademia Keyboardu KeyboardWay | Statystyki patronite.pl | Patromierz
 
 permalink: /akademiakeyboardu
 ---

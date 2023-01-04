@@ -1,5 +1,5 @@
 ---
-title: "Beata \u015Aliwka | Patromierz"
+title: "Beata \u015Aliwka | Statystyki patronite.pl | Patromierz"
 
 permalink: /beatasliwka
 ---

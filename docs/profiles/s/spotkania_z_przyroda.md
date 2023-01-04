@@ -1,5 +1,6 @@
 ---
-title: "Micha\u0142 Stanecki - podkast Spotkania z Przyrod\u0105  | Patromierz"
+title: "Micha\u0142 Stanecki - podkast Spotkania z Przyrod\u0105  | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /spotkania_z_przyroda
 ---

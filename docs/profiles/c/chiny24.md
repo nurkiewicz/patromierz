@@ -1,5 +1,5 @@
 ---
-title: chiny24.com | Patromierz
+title: chiny24.com | Statystyki patronite.pl | Patromierz
 
 permalink: /chiny24
 ---

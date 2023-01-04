@@ -1,5 +1,5 @@
 ---
-title: "Fundacja SK\u0141ADAK | Patromierz"
+title: "Fundacja SK\u0141ADAK | Statystyki patronite.pl | Patromierz"
 
 permalink: /Fundacja.Skladak
 ---

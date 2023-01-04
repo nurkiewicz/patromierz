@@ -1,5 +1,5 @@
 ---
-title: "Jarek z Lubi\u0119 komiksy | Patromierz"
+title: "Jarek z Lubi\u0119 komiksy | Statystyki patronite.pl | Patromierz"
 
 permalink: /lubiekomiksy.pl
 ---

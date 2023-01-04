@@ -1,5 +1,5 @@
 ---
-title: "Natalia Pi\xF3recka | Patromierz"
+title: "Natalia Pi\xF3recka | Statystyki patronite.pl | Patromierz"
 
 permalink: /nataliapiorecka
 ---

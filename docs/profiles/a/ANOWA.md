@@ -1,5 +1,5 @@
 ---
-title: ANOWA | Patromierz
+title: ANOWA | Statystyki patronite.pl | Patromierz
 
 permalink: /ANOWA
 ---

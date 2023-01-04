@@ -1,5 +1,5 @@
 ---
-title: ' Gentleman''s Club Warszawa | Patromierz'
+title: ' Gentleman''s Club Warszawa | Statystyki patronite.pl | Patromierz'
 
 permalink: /gc
 ---

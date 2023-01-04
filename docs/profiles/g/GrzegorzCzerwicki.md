@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Czerwicki | Patromierz
+title: Grzegorz Czerwicki | Statystyki patronite.pl | Patromierz
 
 permalink: /GrzegorzCzerwicki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Marcin Ogdowski | Patromierz
+title: Marcin Ogdowski | Statystyki patronite.pl | Patromierz
 
 permalink: /marcin-ogdowski-bezkamuflazu
 ---

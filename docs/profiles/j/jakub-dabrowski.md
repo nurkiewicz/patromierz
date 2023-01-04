@@ -1,5 +1,5 @@
 ---
-title: Jakub Dabrowski | Patromierz
+title: Jakub Dabrowski | Statystyki patronite.pl | Patromierz
 
 permalink: /jakub-dabrowski
 ---

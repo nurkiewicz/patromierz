@@ -1,5 +1,5 @@
 ---
-title: Laryngoskop | Patromierz
+title: Laryngoskop | Statystyki patronite.pl | Patromierz
 
 permalink: /anestezjopodcastpl
 ---

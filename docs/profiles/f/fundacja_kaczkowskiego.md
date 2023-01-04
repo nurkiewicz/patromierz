@@ -1,5 +1,5 @@
 ---
-title: Fundacja Kaczkowskiego - Projekt PaKa | Patromierz
+title: Fundacja Kaczkowskiego - Projekt PaKa | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja_kaczkowskiego
 ---

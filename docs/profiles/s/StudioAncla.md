@@ -1,5 +1,5 @@
 ---
-title: Studio Ancla | Patromierz
+title: Studio Ancla | Statystyki patronite.pl | Patromierz
 
 permalink: /StudioAncla
 ---

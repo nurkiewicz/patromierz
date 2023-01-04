@@ -1,5 +1,5 @@
 ---
-title: myPolitics | Patromierz
+title: myPolitics | Statystyki patronite.pl | Patromierz
 
 permalink: /mypolitics
 ---

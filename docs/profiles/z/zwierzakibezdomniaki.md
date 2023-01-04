@@ -1,5 +1,6 @@
 ---
-title: Stowarzyszenie Zwierzaki Bezdomniaki Home for pets | Patromierz
+title: Stowarzyszenie Zwierzaki Bezdomniaki Home for pets | Statystyki patronite.pl
+  | Patromierz
 
 permalink: /zwierzakibezdomniaki
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u015Aladami Przesz\u0142o\u015Bci | Patromierz"
+title: "\u015Aladami Przesz\u0142o\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /SladamiPrzeszlosci
 ---

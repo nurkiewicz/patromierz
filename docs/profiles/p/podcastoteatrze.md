@@ -1,5 +1,5 @@
 ---
-title: Podcast o teatrze | Patromierz
+title: Podcast o teatrze | Statystyki patronite.pl | Patromierz
 
 permalink: /podcastoteatrze
 ---

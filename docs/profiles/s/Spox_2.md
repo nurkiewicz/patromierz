@@ -1,5 +1,5 @@
 ---
-title: Szymon Byra | Patromierz
+title: Szymon Byra | Statystyki patronite.pl | Patromierz
 
 permalink: /Spox_2
 ---

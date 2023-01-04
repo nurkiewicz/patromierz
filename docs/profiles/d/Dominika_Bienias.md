@@ -1,5 +1,5 @@
 ---
-title: Dominika Bienias | Patromierz
+title: Dominika Bienias | Statystyki patronite.pl | Patromierz
 
 permalink: /Dominika_Bienias
 ---

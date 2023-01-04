@@ -1,5 +1,5 @@
 ---
-title: "Hablo Espa\xF1ol | Patromierz"
+title: "Hablo Espa\xF1ol | Statystyki patronite.pl | Patromierz"
 
 permalink: /HabloEspañol
 ---

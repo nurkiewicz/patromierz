@@ -1,5 +1,5 @@
 ---
-title: "Babskie Gus\u0142a | Patromierz"
+title: "Babskie Gus\u0142a | Statystyki patronite.pl | Patromierz"
 
 permalink: /babskiegusla
 ---

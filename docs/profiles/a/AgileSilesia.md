@@ -1,5 +1,5 @@
 ---
-title: Agile Silesia | Patromierz
+title: Agile Silesia | Statystyki patronite.pl | Patromierz
 
 permalink: /AgileSilesia
 ---

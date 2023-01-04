@@ -1,5 +1,5 @@
 ---
-title: "Muzeum Historii Komputer\xF3w i Informatyki | Patromierz"
+title: "Muzeum Historii Komputer\xF3w i Informatyki | Statystyki patronite.pl | Patromierz"
 
 permalink: /MHKI
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fajny Sprz\u0119t Biodra | Patromierz"
+title: "Fajny Sprz\u0119t Biodra | Statystyki patronite.pl | Patromierz"
 
 permalink: /FSBiodra
 ---

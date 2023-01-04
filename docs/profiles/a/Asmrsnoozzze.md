@@ -1,5 +1,5 @@
 ---
-title: "Monika Przyby\u0142 | Patromierz"
+title: "Monika Przyby\u0142 | Statystyki patronite.pl | Patromierz"
 
 permalink: /Asmrsnoozzze
 ---

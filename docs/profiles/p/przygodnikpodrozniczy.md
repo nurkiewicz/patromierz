@@ -1,5 +1,5 @@
 ---
-title: "Przygodnik Podr\xF3\u017Cniczy | Patromierz"
+title: "Przygodnik Podr\xF3\u017Cniczy | Statystyki patronite.pl | Patromierz"
 
 permalink: /przygodnikpodrozniczy
 ---

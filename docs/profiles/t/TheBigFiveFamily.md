@@ -1,5 +1,5 @@
 ---
-title: The Big Five Family | Patromierz
+title: The Big Five Family | Statystyki patronite.pl | Patromierz
 
 permalink: /TheBigFiveFamily
 ---

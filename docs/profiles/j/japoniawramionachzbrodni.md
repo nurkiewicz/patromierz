@@ -1,5 +1,5 @@
 ---
-title: Shinami | Patromierz
+title: Shinami | Statystyki patronite.pl | Patromierz
 
 permalink: /japoniawramionachzbrodni
 ---

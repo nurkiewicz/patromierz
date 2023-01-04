@@ -1,5 +1,5 @@
 ---
-title: "Bogumi\u0142a Adryan | Patromierz"
+title: "Bogumi\u0142a Adryan | Statystyki patronite.pl | Patromierz"
 
 permalink: /bogusiaboogieadryan.patronite.
 ---

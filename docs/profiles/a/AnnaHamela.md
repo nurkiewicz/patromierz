@@ -1,5 +1,5 @@
 ---
-title: Anna Hamela | Patromierz
+title: Anna Hamela | Statystyki patronite.pl | Patromierz
 
 permalink: /AnnaHamela
 ---

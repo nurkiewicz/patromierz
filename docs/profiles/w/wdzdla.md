@@ -1,5 +1,5 @@
 ---
-title: "Wd\u017B dla zaawansowanych | Patromierz"
+title: "Wd\u017B dla zaawansowanych | Statystyki patronite.pl | Patromierz"
 
 permalink: /wdzdla
 ---

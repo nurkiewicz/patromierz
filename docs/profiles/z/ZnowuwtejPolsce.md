@@ -1,5 +1,5 @@
 ---
-title: Znowu w  tej Polsce | Patromierz
+title: Znowu w  tej Polsce | Statystyki patronite.pl | Patromierz
 
 permalink: /ZnowuwtejPolsce
 ---

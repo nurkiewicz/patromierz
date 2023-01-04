@@ -1,5 +1,5 @@
 ---
-title: Galeria u Agatki | Patromierz
+title: Galeria u Agatki | Statystyki patronite.pl | Patromierz
 
 permalink: /Galeria_u_Agatki
 ---

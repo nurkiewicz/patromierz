@@ -1,5 +1,5 @@
 ---
-title: Fizyk Marcin - nagrania z Fizyki na YouTube | Patromierz
+title: Fizyk Marcin - nagrania z Fizyki na YouTube | Statystyki patronite.pl | Patromierz
 
 permalink: /Getek
 ---

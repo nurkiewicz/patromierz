@@ -1,5 +1,5 @@
 ---
-title: Akcja dla Kolarstwa | Patromierz
+title: Akcja dla Kolarstwa | Statystyki patronite.pl | Patromierz
 
 permalink: /APC
 ---

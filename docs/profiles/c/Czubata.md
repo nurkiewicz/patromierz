@@ -1,5 +1,5 @@
 ---
-title: Magdalena Czubaszek | Patromierz
+title: Magdalena Czubaszek | Statystyki patronite.pl | Patromierz
 
 permalink: /Czubata
 ---

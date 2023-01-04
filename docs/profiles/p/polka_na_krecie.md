@@ -1,5 +1,5 @@
 ---
-title: Polka na Krecie | Patromierz
+title: Polka na Krecie | Statystyki patronite.pl | Patromierz
 
 permalink: /polka_na_krecie
 ---

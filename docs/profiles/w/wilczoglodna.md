@@ -1,5 +1,5 @@
 ---
-title: "Wilczo G\u0142odna | Patromierz"
+title: "Wilczo G\u0142odna | Statystyki patronite.pl | Patromierz"
 
 permalink: /wilczoglodna
 ---

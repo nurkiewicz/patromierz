@@ -1,5 +1,5 @@
 ---
-title: Karol Modzelewski | Patromierz
+title: Karol Modzelewski | Statystyki patronite.pl | Patromierz
 
 permalink: /Modzelewski
 ---

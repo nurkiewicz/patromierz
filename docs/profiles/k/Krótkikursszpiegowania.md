@@ -1,5 +1,6 @@
 ---
-title: "\"Kr\xF3tki kurs szpiegowania\" - Piotr Niemczyk | Patromierz"
+title: "\"Kr\xF3tki kurs szpiegowania\" - Piotr Niemczyk | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /Krótkikursszpiegowania
 ---

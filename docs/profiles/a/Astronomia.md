@@ -1,5 +1,5 @@
 ---
-title: Astronomia | Patromierz
+title: Astronomia | Statystyki patronite.pl | Patromierz
 
 permalink: /Astronomia
 ---

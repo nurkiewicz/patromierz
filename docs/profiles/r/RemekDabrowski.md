@@ -1,5 +1,5 @@
 ---
-title: "Remek D\u0105browski | Patromierz"
+title: "Remek D\u0105browski | Statystyki patronite.pl | Patromierz"
 
 permalink: /RemekDabrowski
 ---

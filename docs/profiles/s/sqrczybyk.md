@@ -1,5 +1,5 @@
 ---
-title: SQrczybyk | Patromierz
+title: SQrczybyk | Statystyki patronite.pl | Patromierz
 
 permalink: /sqrczybyk
 ---

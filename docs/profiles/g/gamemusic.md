@@ -1,5 +1,5 @@
 ---
-title: Fundacja Game Music | Patromierz
+title: Fundacja Game Music | Statystyki patronite.pl | Patromierz
 
 permalink: /gamemusic
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zesp\xF3\u0142  PAW | Patromierz"
+title: "Zesp\xF3\u0142  PAW | Statystyki patronite.pl | Patromierz"
 
 permalink: /paw
 ---

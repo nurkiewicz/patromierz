@@ -1,5 +1,5 @@
 ---
-title: Hackroom122 | Patromierz
+title: Hackroom122 | Statystyki patronite.pl | Patromierz
 
 permalink: /hackroom122
 ---

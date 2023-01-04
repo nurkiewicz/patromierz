@@ -1,5 +1,5 @@
 ---
-title: Gniewomir Mazowiecki | Patromierz
+title: Gniewomir Mazowiecki | Statystyki patronite.pl | Patromierz
 
 permalink: /gniewomirmazowiecki
 ---

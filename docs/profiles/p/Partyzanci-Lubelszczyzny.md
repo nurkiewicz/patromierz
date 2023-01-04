@@ -1,5 +1,5 @@
 ---
-title: Partyzanci Lubelszczyzny  | Patromierz
+title: Partyzanci Lubelszczyzny  | Statystyki patronite.pl | Patromierz
 
 permalink: /Partyzanci-Lubelszczyzny
 ---

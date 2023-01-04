@@ -1,5 +1,5 @@
 ---
-title: SNACK Kasi i Uli | Patromierz
+title: SNACK Kasi i Uli | Statystyki patronite.pl | Patromierz
 
 permalink: /SNACK_KASIIULI
 ---

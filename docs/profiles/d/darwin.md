@@ -1,5 +1,5 @@
 ---
-title: Grupa Filmowa Darwin  | Patromierz
+title: Grupa Filmowa Darwin  | Statystyki patronite.pl | Patromierz
 
 permalink: /darwin
 ---

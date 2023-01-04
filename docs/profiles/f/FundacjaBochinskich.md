@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Bochi\u0144skich | Patromierz"
+title: "Fundacja Bochi\u0144skich | Statystyki patronite.pl | Patromierz"
 
 permalink: /FundacjaBochinskich
 ---

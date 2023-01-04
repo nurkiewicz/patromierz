@@ -1,5 +1,5 @@
 ---
-title: Aleksandra Helix | Patromierz
+title: Aleksandra Helix | Statystyki patronite.pl | Patromierz
 
 permalink: /helix
 ---

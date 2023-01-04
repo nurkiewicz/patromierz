@@ -1,5 +1,5 @@
 ---
-title: Sewio | Patromierz
+title: Sewio | Statystyki patronite.pl | Patromierz
 
 permalink: /Sewio
 ---

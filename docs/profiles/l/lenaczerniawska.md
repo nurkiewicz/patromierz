@@ -1,5 +1,5 @@
 ---
-title: Lena  Czerniawska | Patromierz
+title: Lena  Czerniawska | Statystyki patronite.pl | Patromierz
 
 permalink: /lenaczerniawska
 ---

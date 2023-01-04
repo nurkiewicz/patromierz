@@ -1,5 +1,5 @@
 ---
-title: Ostra FINKA | Patromierz
+title: Ostra FINKA | Statystyki patronite.pl | Patromierz
 
 permalink: /ostrafinka
 ---

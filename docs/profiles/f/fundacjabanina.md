@@ -1,5 +1,5 @@
 ---
-title: Fundacja Banina | Patromierz
+title: Fundacja Banina | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjabanina
 ---

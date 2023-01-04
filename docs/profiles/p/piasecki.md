@@ -1,5 +1,5 @@
 ---
-title: Maciek Piasecki | Patromierz
+title: Maciek Piasecki | Statystyki patronite.pl | Patromierz
 
 permalink: /piasecki
 ---

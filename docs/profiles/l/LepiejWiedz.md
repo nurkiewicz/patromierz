@@ -1,5 +1,5 @@
 ---
-title: "Lepiej Wiedzie\u0107 | Patromierz"
+title: "Lepiej Wiedzie\u0107 | Statystyki patronite.pl | Patromierz"
 
 permalink: /LepiejWiedz
 ---

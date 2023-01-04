@@ -1,5 +1,5 @@
 ---
-title: "Hubert Wi\u0119cek | Patromierz"
+title: "Hubert Wi\u0119cek | Statystyki patronite.pl | Patromierz"
 
 permalink: /hubertwiecek
 ---

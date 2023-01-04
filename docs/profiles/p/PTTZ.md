@@ -1,5 +1,5 @@
 ---
-title: "Polskie Towarzystwo Terapii Zabaw\u0105 | Patromierz"
+title: "Polskie Towarzystwo Terapii Zabaw\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /PTTZ
 ---

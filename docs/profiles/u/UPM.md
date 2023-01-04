@@ -1,5 +1,5 @@
 ---
-title: "Uczelnia Psa My\u015Bliwskiego | Patromierz"
+title: "Uczelnia Psa My\u015Bliwskiego | Statystyki patronite.pl | Patromierz"
 
 permalink: /UPM
 ---

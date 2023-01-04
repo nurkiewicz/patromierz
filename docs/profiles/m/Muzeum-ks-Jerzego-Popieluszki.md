@@ -1,5 +1,5 @@
 ---
-title: "Muzeum ks. Jerzego Popie\u0142uszki | Patromierz"
+title: "Muzeum ks. Jerzego Popie\u0142uszki | Statystyki patronite.pl | Patromierz"
 
 permalink: /Muzeum-ks-Jerzego-Popieluszki
 ---

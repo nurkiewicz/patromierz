@@ -1,5 +1,5 @@
 ---
-title: Fundacja Ad Arma | Patromierz
+title: Fundacja Ad Arma | Statystyki patronite.pl | Patromierz
 
 permalink: /adarma
 ---

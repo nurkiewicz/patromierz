@@ -1,5 +1,5 @@
 ---
-title: "Sta\u0107 Mnie | Patromierz"
+title: "Sta\u0107 Mnie | Statystyki patronite.pl | Patromierz"
 
 permalink: /stacmnie
 ---

@@ -1,5 +1,5 @@
 ---
-title: ToxicTree Studio | Patromierz
+title: ToxicTree Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /TomorrowLost
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mateusz \u015Amiatacz & RobCoins | Patromierz"
+title: "Mateusz \u015Amiatacz & RobCoins | Statystyki patronite.pl | Patromierz"
 
 permalink: /Śmiatacz
 ---

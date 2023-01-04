@@ -1,5 +1,6 @@
 ---
-title: " Fundacja Medycyny Prenatalnej - im. Ernesta W\xF3jcickiego | Patromierz"
+title: " Fundacja Medycyny Prenatalnej - im. Ernesta W\xF3jcickiego | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /fundacjaernesta
 ---

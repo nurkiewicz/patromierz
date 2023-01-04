@@ -1,5 +1,5 @@
 ---
-title: Mateusz Lachowski | Patromierz
+title: Mateusz Lachowski | Statystyki patronite.pl | Patromierz
 
 permalink: /mateuszlachowski
 ---

@@ -1,5 +1,5 @@
 ---
-title: OsiemPrzezDwa | Patromierz
+title: OsiemPrzezDwa | Statystyki patronite.pl | Patromierz
 
 permalink: /osiemprzezdwa
 ---

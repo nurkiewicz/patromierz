@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Z cukrzyc\u0105 na Ty | Patromierz"
+title: "Fundacja Z cukrzyc\u0105 na Ty | Statystyki patronite.pl | Patromierz"
 
 permalink: /www.zcukrzycanaty.pl
 ---

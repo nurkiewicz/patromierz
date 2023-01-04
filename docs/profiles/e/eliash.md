@@ -1,5 +1,5 @@
 ---
-title: Eliash | Patromierz
+title: Eliash | Statystyki patronite.pl | Patromierz
 
 permalink: /eliash
 ---

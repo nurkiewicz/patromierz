@@ -1,5 +1,5 @@
 ---
-title: StareManiowy.pl | Patromierz
+title: StareManiowy.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /staremaniowy
 ---

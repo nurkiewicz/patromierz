@@ -1,5 +1,5 @@
 ---
-title: "Michalina Ta\u0144ska | Patromierz"
+title: "Michalina Ta\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /michalinatanska
 ---

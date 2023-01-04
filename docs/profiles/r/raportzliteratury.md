@@ -1,5 +1,5 @@
 ---
-title: Raport z Literatury | Agnieszka Budnik | Patromierz
+title: Raport z Literatury | Agnieszka Budnik | Statystyki patronite.pl | Patromierz
 
 permalink: /raportzliteratury
 ---

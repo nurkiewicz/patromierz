@@ -1,5 +1,5 @@
 ---
-title: Sudecka Ostoja | Patromierz
+title: Sudecka Ostoja | Statystyki patronite.pl | Patromierz
 
 permalink: /SudeckaOstoja
 ---

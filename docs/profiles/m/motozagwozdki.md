@@ -1,5 +1,5 @@
 ---
-title: Moto Zagwozdki | Patromierz
+title: Moto Zagwozdki | Statystyki patronite.pl | Patromierz
 
 permalink: /motozagwozdki
 ---

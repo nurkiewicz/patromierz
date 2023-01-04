@@ -1,5 +1,5 @@
 ---
-title: EDU-klaster | Patromierz
+title: EDU-klaster | Statystyki patronite.pl | Patromierz
 
 permalink: /EDU-klaster
 ---

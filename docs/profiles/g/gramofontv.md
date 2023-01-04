@@ -1,5 +1,5 @@
 ---
-title: Maxior | Patromierz
+title: Maxior | Statystyki patronite.pl | Patromierz
 
 permalink: /gramofontv
 ---

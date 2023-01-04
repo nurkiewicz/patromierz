@@ -1,5 +1,5 @@
 ---
-title: Aplikacja Deditus | Patromierz
+title: Aplikacja Deditus | Statystyki patronite.pl | Patromierz
 
 permalink: /deditus
 ---

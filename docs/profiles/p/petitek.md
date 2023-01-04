@@ -1,5 +1,5 @@
 ---
-title: Petit_Imp | Patromierz
+title: Petit_Imp | Statystyki patronite.pl | Patromierz
 
 permalink: /petitek
 ---

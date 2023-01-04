@@ -1,5 +1,5 @@
 ---
-title: Kolektyw  Chemia | Patromierz
+title: Kolektyw  Chemia | Statystyki patronite.pl | Patromierz
 
 permalink: /kolektywchemia
 ---

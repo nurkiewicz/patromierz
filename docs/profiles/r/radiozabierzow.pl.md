@@ -1,5 +1,5 @@
 ---
-title: "RADIO Zabierz\xF3w | Patromierz"
+title: "RADIO Zabierz\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /radiozabierzow.pl
 ---

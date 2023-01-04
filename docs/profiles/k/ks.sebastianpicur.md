@@ -1,5 +1,5 @@
 ---
-title: Ks. Sebastian Picur | Patromierz
+title: Ks. Sebastian Picur | Statystyki patronite.pl | Patromierz
 
 permalink: /ks.sebastianpicur
 ---

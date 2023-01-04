@@ -1,5 +1,5 @@
 ---
-title: Szczytomaniak | Patromierz
+title: Szczytomaniak | Statystyki patronite.pl | Patromierz
 
 permalink: /Szczytomaniak
 ---

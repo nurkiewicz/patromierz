@@ -1,5 +1,5 @@
 ---
-title: Bart Audiobooki | Patromierz
+title: Bart Audiobooki | Statystyki patronite.pl | Patromierz
 
 permalink: /bartaudiobooks
 ---

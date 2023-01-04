@@ -1,5 +1,5 @@
 ---
-title: Krzew | Patromierz
+title: Krzew | Statystyki patronite.pl | Patromierz
 
 permalink: /klawiaturowyblog
 ---

@@ -1,5 +1,5 @@
 ---
-title: EXTRA TIME - PRO  | Patromierz
+title: EXTRA TIME - PRO  | Statystyki patronite.pl | Patromierz
 
 permalink: /extratimepro
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hadzbe | Patromierz
+title: Hadzbe | Statystyki patronite.pl | Patromierz
 
 permalink: /hadzbe
 ---

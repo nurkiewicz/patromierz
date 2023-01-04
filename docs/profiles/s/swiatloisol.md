@@ -1,5 +1,5 @@
 ---
-title: "Fundacja \u015Awiat\u0142o i S\xF3l | Patromierz"
+title: "Fundacja \u015Awiat\u0142o i S\xF3l | Statystyki patronite.pl | Patromierz"
 
 permalink: /swiatloisol
 ---

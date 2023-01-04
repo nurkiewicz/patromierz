@@ -1,5 +1,5 @@
 ---
-title: "Waldemar Lipi\u0144ski | Patromierz"
+title: "Waldemar Lipi\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /www.fundacja22.org
 ---

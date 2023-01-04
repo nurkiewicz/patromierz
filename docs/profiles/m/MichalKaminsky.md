@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Kami\u0144ski | Patromierz"
+title: "Micha\u0142 Kami\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /MichalKaminsky
 ---

@@ -1,5 +1,5 @@
 ---
-title: Autobusowa Zajawka | Patromierz
+title: Autobusowa Zajawka | Statystyki patronite.pl | Patromierz
 
 permalink: /autobusowazajawka
 ---

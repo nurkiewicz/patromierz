@@ -1,5 +1,5 @@
 ---
-title: Fundacja Start From Ghana | Patromierz
+title: Fundacja Start From Ghana | Statystyki patronite.pl | Patromierz
 
 permalink: /startfromghana.pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Typowy Kierowca Gda\u0144skiego Autobusu  | Patromierz"
+title: "Typowy Kierowca Gda\u0144skiego Autobusu  | Statystyki patronite.pl | Patromierz"
 
 permalink: /typowykierowca
 ---

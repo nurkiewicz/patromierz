@@ -1,5 +1,6 @@
 ---
-title: "1 Beskidzka Dru\u017Cyna Harcerzy \"SZARA\" im. Aleksego Dawidowskiego | Patromierz"
+title: "1 Beskidzka Dru\u017Cyna Harcerzy \"SZARA\" im. Aleksego Dawidowskiego | Statystyki\
+  \ patronite.pl | Patromierz"
 
 permalink: /1bdh
 ---

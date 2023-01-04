@@ -1,5 +1,5 @@
 ---
-title: Podcast Roku | Patromierz
+title: Podcast Roku | Statystyki patronite.pl | Patromierz
 
 permalink: /podcastroku
 ---

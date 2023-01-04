@@ -1,5 +1,5 @@
 ---
-title: Anna Mularczyk-Meyer | Patromierz
+title: Anna Mularczyk-Meyer | Statystyki patronite.pl | Patromierz
 
 permalink: /ajkaminimalistka
 ---

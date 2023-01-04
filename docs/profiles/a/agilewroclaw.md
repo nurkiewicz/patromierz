@@ -1,5 +1,5 @@
 ---
-title: "Agile Wroc\u0142aw | Patromierz"
+title: "Agile Wroc\u0142aw | Statystyki patronite.pl | Patromierz"
 
 permalink: /agilewroclaw
 ---

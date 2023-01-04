@@ -1,5 +1,5 @@
 ---
-title: QIGONG PANDA | Patromierz
+title: QIGONG PANDA | Statystyki patronite.pl | Patromierz
 
 permalink: /qigongpanda
 ---

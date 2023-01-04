@@ -1,5 +1,5 @@
 ---
-title: Historie na Faktach | Patromierz
+title: Historie na Faktach | Statystyki patronite.pl | Patromierz
 
 permalink: /HistorieNaFaktach
 ---

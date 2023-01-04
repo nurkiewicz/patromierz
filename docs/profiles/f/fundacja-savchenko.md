@@ -1,5 +1,5 @@
 ---
-title: Fundacja Savchenko | Patromierz
+title: Fundacja Savchenko | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja-savchenko
 ---

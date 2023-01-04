@@ -1,5 +1,5 @@
 ---
-title: "Ch\xF3r MIM UW | Patromierz"
+title: "Ch\xF3r MIM UW | Statystyki patronite.pl | Patromierz"
 
 permalink: /chormimuw
 ---

@@ -1,5 +1,5 @@
 ---
-title: TeatrEXIT | Patromierz
+title: TeatrEXIT | Statystyki patronite.pl | Patromierz
 
 permalink: /teatrexit
 ---

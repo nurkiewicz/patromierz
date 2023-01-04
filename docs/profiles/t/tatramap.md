@@ -1,5 +1,5 @@
 ---
-title: TatraMap.eu | Patromierz
+title: TatraMap.eu | Statystyki patronite.pl | Patromierz
 
 permalink: /tatramap
 ---

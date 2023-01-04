@@ -1,5 +1,5 @@
 ---
-title: "NOWY Z\u0141OTY | Patromierz"
+title: "NOWY Z\u0141OTY | Statystyki patronite.pl | Patromierz"
 
 permalink: /nowyzloty
 ---

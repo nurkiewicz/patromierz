@@ -1,5 +1,5 @@
 ---
-title: Curves Cats Crafts | Patromierz
+title: Curves Cats Crafts | Statystyki patronite.pl | Patromierz
 
 permalink: /curves.cats.crafts
 ---

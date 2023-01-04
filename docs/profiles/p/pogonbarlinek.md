@@ -1,5 +1,5 @@
 ---
-title: "Pogo\u0144 Barlinek | Patromierz"
+title: "Pogo\u0144 Barlinek | Statystyki patronite.pl | Patromierz"
 
 permalink: /pogonbarlinek
 ---

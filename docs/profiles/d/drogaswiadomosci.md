@@ -1,5 +1,5 @@
 ---
-title: "Droga \u015Awiadomo\u015Bci | Patromierz"
+title: "Droga \u015Awiadomo\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /drogaswiadomosci
 ---

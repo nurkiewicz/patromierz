@@ -1,5 +1,5 @@
 ---
-title: malakuchnia_ | Patromierz
+title: malakuchnia_ | Statystyki patronite.pl | Patromierz
 
 permalink: /malakuchnia_
 ---

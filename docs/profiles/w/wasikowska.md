@@ -1,5 +1,5 @@
 ---
-title: "EWA W\u0104SIKOWSKA-TOMCZY\u0143SKA | Patromierz"
+title: "EWA W\u0104SIKOWSKA-TOMCZY\u0143SKA | Statystyki patronite.pl | Patromierz"
 
 permalink: /wasikowska
 ---

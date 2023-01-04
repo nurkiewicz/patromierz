@@ -1,5 +1,5 @@
 ---
-title: Pielgrzym Rozumu | Patromierz
+title: Pielgrzym Rozumu | Statystyki patronite.pl | Patromierz
 
 permalink: /pielgrzymrozumu
 ---

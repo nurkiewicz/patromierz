@@ -1,5 +1,5 @@
 ---
-title: Angelika  | Patromierz
+title: Angelika  | Statystyki patronite.pl | Patromierz
 
 permalink: /anndzikk
 ---

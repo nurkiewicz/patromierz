@@ -1,5 +1,5 @@
 ---
-title: Nie Tylko Bajki | Patromierz
+title: Nie Tylko Bajki | Statystyki patronite.pl | Patromierz
 
 permalink: /nietylkobajki
 ---

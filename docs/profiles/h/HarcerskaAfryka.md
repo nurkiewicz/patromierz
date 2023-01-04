@@ -1,5 +1,5 @@
 ---
-title: Harcerska Afryka | Patromierz
+title: Harcerska Afryka | Statystyki patronite.pl | Patromierz
 
 permalink: /HarcerskaAfryka
 ---

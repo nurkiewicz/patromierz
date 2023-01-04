@@ -1,5 +1,5 @@
 ---
-title: "Dorota Sumi\u0144ska | Patromierz"
+title: "Dorota Sumi\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /zwierzecisie
 ---

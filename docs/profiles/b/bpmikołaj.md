@@ -1,5 +1,6 @@
 ---
-title: "Stowarzyszenie \u015Bw. Miko\u0142aja Biskupa | Patromierz"
+title: "Stowarzyszenie \u015Bw. Miko\u0142aja Biskupa | Statystyki patronite.pl |\
+  \ Patromierz"
 
 permalink: /bpmikołaj
 ---

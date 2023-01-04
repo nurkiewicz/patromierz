@@ -1,5 +1,5 @@
 ---
-title: Podcast Religioznawczy | Patromierz
+title: Podcast Religioznawczy | Statystyki patronite.pl | Patromierz
 
 permalink: /podcast-religioznawczy
 ---

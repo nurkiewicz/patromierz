@@ -1,5 +1,5 @@
 ---
-title: "Otuli\u0107 Mam\u0119 | Patromierz"
+title: "Otuli\u0107 Mam\u0119 | Statystyki patronite.pl | Patromierz"
 
 permalink: /otulicmame
 ---

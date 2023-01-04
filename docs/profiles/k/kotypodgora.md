@@ -1,5 +1,5 @@
 ---
-title: "Koty pod G\xF3r\u0105 | Patromierz"
+title: "Koty pod G\xF3r\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /kotypodgora
 ---

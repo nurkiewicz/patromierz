@@ -1,5 +1,5 @@
 ---
-title: Komiksoteka w szkole | Patromierz
+title: Komiksoteka w szkole | Statystyki patronite.pl | Patromierz
 
 permalink: /Komiksoteka
 ---

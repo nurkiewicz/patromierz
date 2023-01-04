@@ -1,5 +1,6 @@
 ---
-title: "Piwna Kompania - Podr\xF3\u017Ce przy dobrym piwie | Patromierz"
+title: "Piwna Kompania - Podr\xF3\u017Ce przy dobrym piwie | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /piwnakompania
 ---

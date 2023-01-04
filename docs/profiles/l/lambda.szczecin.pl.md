@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Lambda Szczecin | Patromierz
+title: Stowarzyszenie Lambda Szczecin | Statystyki patronite.pl | Patromierz
 
 permalink: /lambda.szczecin.pl
 ---

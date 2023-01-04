@@ -1,5 +1,5 @@
 ---
-title: "Chorobe\u0142y i Zmoroby | Patromierz"
+title: "Chorobe\u0142y i Zmoroby | Statystyki patronite.pl | Patromierz"
 
 permalink: /chorobelyizmoroby
 ---

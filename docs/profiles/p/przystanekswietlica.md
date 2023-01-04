@@ -1,5 +1,6 @@
 ---
-title: "Przystanek \u015Awietlica dla dzieci uchod\u017Ac\xF3w | Patromierz"
+title: "Przystanek \u015Awietlica dla dzieci uchod\u017Ac\xF3w | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /przystanekswietlica
 ---

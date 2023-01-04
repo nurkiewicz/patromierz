@@ -1,5 +1,5 @@
 ---
-title: Podkast Tygodnika Powszechnego | Patromierz
+title: Podkast Tygodnika Powszechnego | Statystyki patronite.pl | Patromierz
 
 permalink: /PodkastTygodnikaPowszechnego
 ---

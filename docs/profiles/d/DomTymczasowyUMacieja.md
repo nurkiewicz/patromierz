@@ -1,5 +1,5 @@
 ---
-title: Dom tymczasowy u Macieja | Patromierz
+title: Dom tymczasowy u Macieja | Statystyki patronite.pl | Patromierz
 
 permalink: /DomTymczasowyUMacieja
 ---

@@ -1,5 +1,5 @@
 ---
-title: Dziewczyna z Lasu | Patromierz
+title: Dziewczyna z Lasu | Statystyki patronite.pl | Patromierz
 
 permalink: /DziewczynaZlasu
 ---

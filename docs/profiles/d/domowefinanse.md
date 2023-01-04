@@ -1,5 +1,5 @@
 ---
-title: Domowe Finanse | Patromierz
+title: Domowe Finanse | Statystyki patronite.pl | Patromierz
 
 permalink: /domowefinanse
 ---

@@ -1,5 +1,5 @@
 ---
-title: ABIR J.JACKIEWICZ | Patromierz
+title: ABIR J.JACKIEWICZ | Statystyki patronite.pl | Patromierz
 
 permalink: /abir-music
 ---

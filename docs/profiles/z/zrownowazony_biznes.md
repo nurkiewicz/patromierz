@@ -1,5 +1,5 @@
 ---
-title: "Zr\xF3wnowa\u017Cony Biznes Podcast | Patromierz"
+title: "Zr\xF3wnowa\u017Cony Biznes Podcast | Statystyki patronite.pl | Patromierz"
 
 permalink: /zrownowazony_biznes
 ---

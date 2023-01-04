@@ -1,5 +1,5 @@
 ---
-title: Radio Zamek Nadaje | Patromierz
+title: Radio Zamek Nadaje | Statystyki patronite.pl | Patromierz
 
 permalink: /zameknadaje
 ---

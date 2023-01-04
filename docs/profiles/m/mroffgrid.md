@@ -1,5 +1,5 @@
 ---
-title: mrOffGrid | Patromierz
+title: mrOffGrid | Statystyki patronite.pl | Patromierz
 
 permalink: /mroffgrid
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jonasz Osmenda | Patromierz
+title: Jonasz Osmenda | Statystyki patronite.pl | Patromierz
 
 permalink: /IGDJonaszOsmenda
 ---

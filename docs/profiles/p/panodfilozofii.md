@@ -1,5 +1,5 @@
 ---
-title: Pan od filozofii | Patromierz
+title: Pan od filozofii | Statystyki patronite.pl | Patromierz
 
 permalink: /panodfilozofii
 ---

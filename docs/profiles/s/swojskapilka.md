@@ -1,5 +1,5 @@
 ---
-title: "Swojska Pi\u0142ka | Patromierz"
+title: "Swojska Pi\u0142ka | Statystyki patronite.pl | Patromierz"
 
 permalink: /swojskapilka
 ---

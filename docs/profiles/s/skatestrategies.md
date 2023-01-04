@@ -1,5 +1,5 @@
 ---
-title: Kamil Skate Strategies | Patromierz
+title: Kamil Skate Strategies | Statystyki patronite.pl | Patromierz
 
 permalink: /skatestrategies
 ---

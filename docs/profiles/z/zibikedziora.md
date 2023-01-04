@@ -1,5 +1,5 @@
 ---
-title: Zibi Kedziora | Patromierz
+title: Zibi Kedziora | Statystyki patronite.pl | Patromierz
 
 permalink: /zibikedziora
 ---

@@ -1,5 +1,5 @@
 ---
-title: Rynek Informacji | Patromierz
+title: Rynek Informacji | Statystyki patronite.pl | Patromierz
 
 permalink: /Rynekinformacji
 ---

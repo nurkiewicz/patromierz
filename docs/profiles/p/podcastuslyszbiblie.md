@@ -1,5 +1,5 @@
 ---
-title: "Us\u0142ysz Bibli\u0119 | Patromierz"
+title: "Us\u0142ysz Bibli\u0119 | Statystyki patronite.pl | Patromierz"
 
 permalink: /podcastuslyszbiblie
 ---

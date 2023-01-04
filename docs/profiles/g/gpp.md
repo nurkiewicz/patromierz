@@ -1,5 +1,5 @@
 ---
-title: "G\u0142owa Pe\u0142na Przyg\xF3d | Patromierz"
+title: "G\u0142owa Pe\u0142na Przyg\xF3d | Statystyki patronite.pl | Patromierz"
 
 permalink: /gpp
 ---

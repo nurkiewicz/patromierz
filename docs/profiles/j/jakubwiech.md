@@ -1,5 +1,5 @@
 ---
-title: Jakub Wiech | Patromierz
+title: Jakub Wiech | Statystyki patronite.pl | Patromierz
 
 permalink: /jakubwiech
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DOM M\u0141ODYCH | Patromierz"
+title: "DOM M\u0141ODYCH | Statystyki patronite.pl | Patromierz"
 
 permalink: /dmrokitno
 ---

@@ -1,5 +1,5 @@
 ---
-title: Artur Owczarski | Patromierz
+title: Artur Owczarski | Statystyki patronite.pl | Patromierz
 
 permalink: /www.owczarskiartur.pl
 ---

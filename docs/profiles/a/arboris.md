@@ -1,5 +1,5 @@
 ---
-title: "Patroni Ogrodu Tw\xF3rz Zielone Pi\u0119kno | Patromierz"
+title: "Patroni Ogrodu Tw\xF3rz Zielone Pi\u0119kno | Statystyki patronite.pl | Patromierz"
 
 permalink: /arboris
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Stanis\u0142aw Krajski | Patromierz"
+title: "Stanis\u0142aw Krajski | Statystyki patronite.pl | Patromierz"
 
 permalink: /Krajski
 ---

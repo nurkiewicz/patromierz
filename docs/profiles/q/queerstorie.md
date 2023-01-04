@@ -1,5 +1,5 @@
 ---
-title: Queerstorie_podcast | Patromierz
+title: Queerstorie_podcast | Statystyki patronite.pl | Patromierz
 
 permalink: /queerstorie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rafa\u0142 Babi\u0144ski | Patromierz"
+title: "Rafa\u0142 Babi\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /RoweremNaWoodstock
 ---

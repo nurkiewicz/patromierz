@@ -1,5 +1,5 @@
 ---
-title: Dorota Freitag | Patromierz
+title: Dorota Freitag | Statystyki patronite.pl | Patromierz
 
 permalink: /DorotaFreitag
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hanna Maria Giza | Patromierz
+title: Hanna Maria Giza | Statystyki patronite.pl | Patromierz
 
 permalink: /klcw
 ---

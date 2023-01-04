@@ -1,5 +1,5 @@
 ---
-title: The Dziemians | Patromierz
+title: The Dziemians | Statystyki patronite.pl | Patromierz
 
 permalink: /Dziemian
 ---

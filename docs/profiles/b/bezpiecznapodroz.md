@@ -1,5 +1,5 @@
 ---
-title: "Radio Bezpieczna Podr\xF3\u017C | Patromierz"
+title: "Radio Bezpieczna Podr\xF3\u017C | Statystyki patronite.pl | Patromierz"
 
 permalink: /bezpiecznapodroz
 ---

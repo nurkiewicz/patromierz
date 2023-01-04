@@ -1,5 +1,5 @@
 ---
-title: "\u015Awiat Kocimi Oczami  | Patromierz"
+title: "\u015Awiat Kocimi Oczami  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Swiatkocimioczami
 ---

@@ -1,5 +1,5 @@
 ---
-title: taken from travel | agnieszka cytacka | Patromierz
+title: taken from travel | agnieszka cytacka | Statystyki patronite.pl | Patromierz
 
 permalink: /taken_from_travel
 ---

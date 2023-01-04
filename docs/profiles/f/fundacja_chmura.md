@@ -1,5 +1,5 @@
 ---
-title: Fundacja Kultury Wizualnej CHMURA | Patromierz
+title: Fundacja Kultury Wizualnej CHMURA | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacja_chmura
 ---

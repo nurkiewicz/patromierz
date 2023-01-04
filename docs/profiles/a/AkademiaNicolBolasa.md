@@ -1,5 +1,5 @@
 ---
-title: Akademia Nicol Bolasa | Patromierz
+title: Akademia Nicol Bolasa | Statystyki patronite.pl | Patromierz
 
 permalink: /AkademiaNicolBolasa
 ---

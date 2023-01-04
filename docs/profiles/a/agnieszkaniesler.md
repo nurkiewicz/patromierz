@@ -1,5 +1,5 @@
 ---
-title: Agnieszka Niesler | Patromierz
+title: Agnieszka Niesler | Statystyki patronite.pl | Patromierz
 
 permalink: /agnieszkaniesler
 ---

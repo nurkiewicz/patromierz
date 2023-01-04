@@ -1,5 +1,5 @@
 ---
-title: "Teatr M\u0142ody im. Kilosa53 | Patromierz"
+title: "Teatr M\u0142ody im. Kilosa53 | Statystyki patronite.pl | Patromierz"
 
 permalink: /tm_kilos53
 ---

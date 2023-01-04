@@ -1,5 +1,5 @@
 ---
-title: W SKALE - Jacek Czech | Patromierz
+title: W SKALE - Jacek Czech | Statystyki patronite.pl | Patromierz
 
 permalink: /wSkale
 ---

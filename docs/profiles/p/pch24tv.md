@@ -1,5 +1,5 @@
 ---
-title: PCh24TV | Patromierz
+title: PCh24TV | Statystyki patronite.pl | Patromierz
 
 permalink: /pch24tv
 ---

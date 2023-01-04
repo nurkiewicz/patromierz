@@ -1,5 +1,5 @@
 ---
-title: "Sowi\u0144scy Bonsai Squad | Patromierz"
+title: "Sowi\u0144scy Bonsai Squad | Statystyki patronite.pl | Patromierz"
 
 permalink: /sowinscybonsaisquad
 ---

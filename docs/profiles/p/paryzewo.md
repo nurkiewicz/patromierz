@@ -1,5 +1,5 @@
 ---
-title: "Pary\u017Cewo | Patromierz"
+title: "Pary\u017Cewo | Statystyki patronite.pl | Patromierz"
 
 permalink: /paryzewo
 ---

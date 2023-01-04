@@ -1,5 +1,5 @@
 ---
-title: CyberBible | Patromierz
+title: CyberBible | Statystyki patronite.pl | Patromierz
 
 permalink: /cyberbible
 ---

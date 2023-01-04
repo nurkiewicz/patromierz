@@ -1,5 +1,5 @@
 ---
-title: Sandra Cygan | Patromierz
+title: Sandra Cygan | Statystyki patronite.pl | Patromierz
 
 permalink: /SandraCygan
 ---

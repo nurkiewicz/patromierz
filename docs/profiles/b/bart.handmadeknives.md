@@ -1,5 +1,5 @@
 ---
-title: Bart.Handmadeknives | Patromierz
+title: Bart.Handmadeknives | Statystyki patronite.pl | Patromierz
 
 permalink: /bart.handmadeknives
 ---

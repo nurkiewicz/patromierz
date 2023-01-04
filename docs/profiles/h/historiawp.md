@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Zieli\u0144ski | Patromierz"
+title: "Przemys\u0142aw Zieli\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /historiawp
 ---

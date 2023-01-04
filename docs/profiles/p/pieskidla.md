@@ -1,5 +1,5 @@
 ---
-title: PieskiDla | Patromierz
+title: PieskiDla | Statystyki patronite.pl | Patromierz
 
 permalink: /pieskidla
 ---

@@ -1,5 +1,5 @@
 ---
-title: Anna Ulatowska | Patromierz
+title: Anna Ulatowska | Statystyki patronite.pl | Patromierz
 
 permalink: /jaorbita
 ---

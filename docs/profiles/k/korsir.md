@@ -1,5 +1,5 @@
 ---
-title: Korsir | Patromierz
+title: Korsir | Statystyki patronite.pl | Patromierz
 
 permalink: /korsir
 ---

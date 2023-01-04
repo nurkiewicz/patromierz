@@ -1,5 +1,5 @@
 ---
-title: Odzyskani | Patromierz
+title: Odzyskani | Statystyki patronite.pl | Patromierz
 
 permalink: /odzyskani
 ---

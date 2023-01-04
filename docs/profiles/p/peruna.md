@@ -1,5 +1,5 @@
 ---
-title: Fundacja Peruna | Patromierz
+title: Fundacja Peruna | Statystyki patronite.pl | Patromierz
 
 permalink: /peruna
 ---

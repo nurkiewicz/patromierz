@@ -1,5 +1,5 @@
 ---
-title: Fotografowani | Patromierz
+title: Fotografowani | Statystyki patronite.pl | Patromierz
 
 permalink: /fotografowani
 ---

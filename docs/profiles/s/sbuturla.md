@@ -1,5 +1,5 @@
 ---
-title: tyskiflesz.pl | Patromierz
+title: tyskiflesz.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /sbuturla
 ---

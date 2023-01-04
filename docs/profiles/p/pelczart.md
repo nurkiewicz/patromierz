@@ -1,5 +1,5 @@
 ---
-title: Pelczart | Patromierz
+title: Pelczart | Statystyki patronite.pl | Patromierz
 
 permalink: /pelczart
 ---

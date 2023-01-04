@@ -1,5 +1,5 @@
 ---
-title: Kacper Sztuka Racing | Patromierz
+title: Kacper Sztuka Racing | Statystyki patronite.pl | Patromierz
 
 permalink: /kacpersztukaracing
 ---

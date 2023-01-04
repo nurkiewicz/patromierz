@@ -1,5 +1,5 @@
 ---
-title: Fundacja Azyl dla Koni Kucykowo | Patromierz
+title: Fundacja Azyl dla Koni Kucykowo | Statystyki patronite.pl | Patromierz
 
 permalink: /Kucykowo
 ---

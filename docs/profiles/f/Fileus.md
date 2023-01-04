@@ -1,5 +1,5 @@
 ---
-title: Marcin 'Fileus' Tarka | Patromierz
+title: Marcin 'Fileus' Tarka | Statystyki patronite.pl | Patromierz
 
 permalink: /Fileus
 ---

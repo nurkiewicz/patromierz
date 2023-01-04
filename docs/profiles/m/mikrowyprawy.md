@@ -1,5 +1,5 @@
 ---
-title: Mikrowyprawy | Patromierz
+title: Mikrowyprawy | Statystyki patronite.pl | Patromierz
 
 permalink: /mikrowyprawy
 ---

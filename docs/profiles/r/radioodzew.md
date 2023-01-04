@@ -1,5 +1,5 @@
 ---
-title: Radio Odzew | Patromierz
+title: Radio Odzew | Statystyki patronite.pl | Patromierz
 
 permalink: /radioodzew
 ---

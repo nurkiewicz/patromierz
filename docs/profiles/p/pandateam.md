@@ -1,5 +1,6 @@
 ---
-title: "Fundacja Panda Team im. Micha\u0142ka Tarachowicza | Patromierz"
+title: "Fundacja Panda Team im. Micha\u0142ka Tarachowicza | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /pandateam
 ---

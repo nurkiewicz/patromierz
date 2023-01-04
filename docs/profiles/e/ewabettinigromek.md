@@ -1,5 +1,5 @@
 ---
-title: Ewa Bettini-Gromek | Patromierz
+title: Ewa Bettini-Gromek | Statystyki patronite.pl | Patromierz
 
 permalink: /ewabettinigromek
 ---

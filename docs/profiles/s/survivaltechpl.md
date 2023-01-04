@@ -1,5 +1,5 @@
 ---
-title: survivaltechpl | Patromierz
+title: survivaltechpl | Statystyki patronite.pl | Patromierz
 
 permalink: /survivaltechpl
 ---

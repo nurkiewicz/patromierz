@@ -1,5 +1,5 @@
 ---
-title: Lowking.pl | Patromierz
+title: Lowking.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /Portal-Lowking-Pl
 ---

@@ -1,5 +1,5 @@
 ---
-title: Plan Janusza | Patromierz
+title: Plan Janusza | Statystyki patronite.pl | Patromierz
 
 permalink: /planjanusza
 ---

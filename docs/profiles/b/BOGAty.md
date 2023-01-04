@@ -1,5 +1,5 @@
 ---
-title: BOGAty | Patromierz
+title: BOGAty | Statystyki patronite.pl | Patromierz
 
 permalink: /BOGAty
 ---

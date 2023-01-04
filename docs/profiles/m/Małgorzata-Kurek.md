@@ -1,5 +1,5 @@
 ---
-title: "Ma\u0142gorzata Kurek | Patromierz"
+title: "Ma\u0142gorzata Kurek | Statystyki patronite.pl | Patromierz"
 
 permalink: /Małgorzata-Kurek
 ---

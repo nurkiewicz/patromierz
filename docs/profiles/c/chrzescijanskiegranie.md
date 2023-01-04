@@ -1,5 +1,5 @@
 ---
-title: "Chrze\u015Bcija\u0144skie Granie | Patromierz"
+title: "Chrze\u015Bcija\u0144skie Granie | Statystyki patronite.pl | Patromierz"
 
 permalink: /chrzescijanskiegranie
 ---

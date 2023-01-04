@@ -1,5 +1,5 @@
 ---
-title: Gdzie w Polsce na weekend? | Patromierz
+title: Gdzie w Polsce na weekend? | Statystyki patronite.pl | Patromierz
 
 permalink: /GdziewPolscenaweekend
 ---

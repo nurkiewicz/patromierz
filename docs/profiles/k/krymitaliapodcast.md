@@ -1,5 +1,5 @@
 ---
-title: Krymitalia | Patromierz
+title: Krymitalia | Statystyki patronite.pl | Patromierz
 
 permalink: /krymitaliapodcast
 ---

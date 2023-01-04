@@ -1,5 +1,6 @@
 ---
-title: "Ewangelikalna Wy\u017Csza Szko\u0142a Teologiczna | Patromierz"
+title: "Ewangelikalna Wy\u017Csza Szko\u0142a Teologiczna | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /EWST
 ---

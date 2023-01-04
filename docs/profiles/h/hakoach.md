@@ -1,5 +1,5 @@
 ---
-title: HaKoach | Patromierz
+title: HaKoach | Statystyki patronite.pl | Patromierz
 
 permalink: /hakoach
 ---

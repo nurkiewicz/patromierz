@@ -1,5 +1,5 @@
 ---
-title: Bonez&Gix | Patromierz
+title: Bonez&Gix | Statystyki patronite.pl | Patromierz
 
 permalink: /bonezgix
 ---

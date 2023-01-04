@@ -1,5 +1,5 @@
 ---
-title: "ADVENTURER Kajetan Wilczy\u0144ski | Patromierz"
+title: "ADVENTURER Kajetan Wilczy\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /adventurer
 ---

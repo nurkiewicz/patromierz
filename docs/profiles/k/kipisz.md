@@ -1,5 +1,5 @@
 ---
-title: KIPISZ | Patromierz
+title: KIPISZ | Statystyki patronite.pl | Patromierz
 
 permalink: /kipisz
 ---

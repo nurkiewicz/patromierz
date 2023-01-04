@@ -1,5 +1,5 @@
 ---
-title: Bikepark Skarpa | Patromierz
+title: Bikepark Skarpa | Statystyki patronite.pl | Patromierz
 
 permalink: /skarpa
 ---

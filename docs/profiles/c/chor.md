@@ -1,5 +1,5 @@
 ---
-title: "Ch\xF3r Politechniki Morskiej w Szczecinie | Patromierz"
+title: "Ch\xF3r Politechniki Morskiej w Szczecinie | Statystyki patronite.pl | Patromierz"
 
 permalink: /chor
 ---

@@ -1,5 +1,5 @@
 ---
-title: Grzegorz Krzeminski | Patromierz
+title: Grzegorz Krzeminski | Statystyki patronite.pl | Patromierz
 
 permalink: /Centrum-Bezpieczenstwa
 ---

@@ -1,5 +1,5 @@
 ---
-title: "RAFA\u0141 SZOPA W WALCE Z NA\u0141OGAMI | Patromierz"
+title: "RAFA\u0141 SZOPA W WALCE Z NA\u0141OGAMI | Statystyki patronite.pl | Patromierz"
 
 permalink: /rafalszopawwalceznalogami
 ---

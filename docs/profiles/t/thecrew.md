@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Morajski | Patromierz"
+title: "Micha\u0142 Morajski | Statystyki patronite.pl | Patromierz"
 
 permalink: /thecrew
 ---

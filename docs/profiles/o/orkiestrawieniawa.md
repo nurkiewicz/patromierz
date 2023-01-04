@@ -1,5 +1,5 @@
 ---
-title: Orkiestra Wieniawa | Patromierz
+title: Orkiestra Wieniawa | Statystyki patronite.pl | Patromierz
 
 permalink: /orkiestrawieniawa
 ---

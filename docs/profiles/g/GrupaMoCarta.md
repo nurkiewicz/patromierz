@@ -1,5 +1,5 @@
 ---
-title: Grupa MoCarta | Patromierz
+title: Grupa MoCarta | Statystyki patronite.pl | Patromierz
 
 permalink: /GrupaMoCarta
 ---

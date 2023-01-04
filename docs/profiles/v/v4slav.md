@@ -1,5 +1,5 @@
 ---
-title: Viacheslav Zarutskii | Patromierz
+title: Viacheslav Zarutskii | Statystyki patronite.pl | Patromierz
 
 permalink: /v4slav
 ---

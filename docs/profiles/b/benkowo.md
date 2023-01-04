@@ -1,5 +1,5 @@
 ---
-title: "Benkowo - dom zwierz\u0105t | Patromierz"
+title: "Benkowo - dom zwierz\u0105t | Statystyki patronite.pl | Patromierz"
 
 permalink: /benkowo
 ---

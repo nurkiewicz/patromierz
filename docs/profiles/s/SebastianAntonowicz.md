@@ -1,5 +1,5 @@
 ---
-title: Sebastian Antonowicz | Patromierz
+title: Sebastian Antonowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /SebastianAntonowicz
 ---

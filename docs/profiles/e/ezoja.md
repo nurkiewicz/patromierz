@@ -1,5 +1,5 @@
 ---
-title: "eZoja Anna Jab\u0142o\u0144ska | Patromierz"
+title: "eZoja Anna Jab\u0142o\u0144ska | Statystyki patronite.pl | Patromierz"
 
 permalink: /ezoja
 ---

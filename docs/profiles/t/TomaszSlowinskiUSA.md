@@ -1,5 +1,5 @@
 ---
-title: Tomasz Slowinski USA | Patromierz
+title: Tomasz Slowinski USA | Statystyki patronite.pl | Patromierz
 
 permalink: /TomaszSlowinskiUSA
 ---

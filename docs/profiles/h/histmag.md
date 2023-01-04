@@ -1,5 +1,5 @@
 ---
-title: Histmag.org | Patromierz
+title: Histmag.org | Statystyki patronite.pl | Patromierz
 
 permalink: /histmag
 ---

@@ -1,5 +1,5 @@
 ---
-title: Radio Paranormalium | Patromierz
+title: Radio Paranormalium | Statystyki patronite.pl | Patromierz
 
 permalink: /radioparanormalium
 ---

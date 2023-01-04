@@ -1,5 +1,5 @@
 ---
-title: Tomasz Lewandowski | Patromierz
+title: Tomasz Lewandowski | Statystyki patronite.pl | Patromierz
 
 permalink: /FishingWithAce
 ---

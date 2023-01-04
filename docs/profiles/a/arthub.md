@@ -1,5 +1,5 @@
 ---
-title: ART HUB | Patromierz
+title: ART HUB | Statystyki patronite.pl | Patromierz
 
 permalink: /arthub
 ---

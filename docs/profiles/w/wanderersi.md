@@ -1,5 +1,5 @@
 ---
-title: Wanderersi | Patromierz
+title: Wanderersi | Statystyki patronite.pl | Patromierz
 
 permalink: /wanderersi
 ---

@@ -1,5 +1,5 @@
 ---
-title: Eryk Skrzypczak | Patromierz
+title: Eryk Skrzypczak | Statystyki patronite.pl | Patromierz
 
 permalink: /Minefreedom
 ---

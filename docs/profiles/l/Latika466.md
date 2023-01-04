@@ -1,5 +1,5 @@
 ---
-title: "Latika Opali\u0144ska  | Patromierz"
+title: "Latika Opali\u0144ska  | Statystyki patronite.pl | Patromierz"
 
 permalink: /Latika466
 ---

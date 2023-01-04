@@ -1,5 +1,5 @@
 ---
-title: Wolne Lektury | Patromierz
+title: Wolne Lektury | Statystyki patronite.pl | Patromierz
 
 permalink: /wolnelektury
 ---

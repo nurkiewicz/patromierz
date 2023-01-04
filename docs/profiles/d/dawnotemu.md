@@ -1,5 +1,5 @@
 ---
-title: dawnotemu | Patromierz
+title: dawnotemu | Statystyki patronite.pl | Patromierz
 
 permalink: /dawnotemu
 ---

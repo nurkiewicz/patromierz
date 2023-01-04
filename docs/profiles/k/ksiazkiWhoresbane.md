@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0105\u017Cki Whoresbane'a | Patromierz"
+title: "Ksi\u0105\u017Cki Whoresbane'a | Statystyki patronite.pl | Patromierz"
 
 permalink: /ksiazkiWhoresbane
 ---

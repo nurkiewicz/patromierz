@@ -1,5 +1,5 @@
 ---
-title: Joanna Flis | Patromierz
+title: Joanna Flis | Statystyki patronite.pl | Patromierz
 
 permalink: /madamemonday
 ---

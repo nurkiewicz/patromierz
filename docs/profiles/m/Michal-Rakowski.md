@@ -1,5 +1,5 @@
 ---
-title: "Micha\u0142 Rakowski FOTOGRAFIA | Patromierz"
+title: "Micha\u0142 Rakowski FOTOGRAFIA | Statystyki patronite.pl | Patromierz"
 
 permalink: /Michal-Rakowski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rullaman - w\xF3zkiem przez \u015Bwiat | Patromierz"
+title: "Rullaman - w\xF3zkiem przez \u015Bwiat | Statystyki patronite.pl | Patromierz"
 
 permalink: /rullaman
 ---

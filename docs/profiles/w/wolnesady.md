@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Wolne S\u0105dy | Patromierz"
+title: "Fundacja Wolne S\u0105dy | Statystyki patronite.pl | Patromierz"
 
 permalink: /wolnesady
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Piotrek W Podr\xF3\u017Cy | Patromierz"
+title: "Piotrek W Podr\xF3\u017Cy | Statystyki patronite.pl | Patromierz"
 
 permalink: /Piotrekwpodrozy
 ---

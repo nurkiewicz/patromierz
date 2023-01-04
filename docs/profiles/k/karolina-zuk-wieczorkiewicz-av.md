@@ -1,5 +1,5 @@
 ---
-title: "Karolina \u017Buk-Wieczorkiewicz | Patromierz"
+title: "Karolina \u017Buk-Wieczorkiewicz | Statystyki patronite.pl | Patromierz"
 
 permalink: /karolina-zuk-wieczorkiewicz-av
 ---

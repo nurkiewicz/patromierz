@@ -1,5 +1,5 @@
 ---
-title: GraczFun | Patromierz
+title: GraczFun | Statystyki patronite.pl | Patromierz
 
 permalink: /Graczfun
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hallack | Patromierz
+title: Hallack | Statystyki patronite.pl | Patromierz
 
 permalink: /Hallack
 ---

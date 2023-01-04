@@ -1,5 +1,5 @@
 ---
-title: Nowa Akropolis | Patromierz
+title: Nowa Akropolis | Statystyki patronite.pl | Patromierz
 
 permalink: /akropolis
 ---

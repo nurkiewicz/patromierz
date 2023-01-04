@@ -1,5 +1,5 @@
 ---
-title: Irys Korsak | Patromierz
+title: Irys Korsak | Statystyki patronite.pl | Patromierz
 
 permalink: /Gociak
 ---

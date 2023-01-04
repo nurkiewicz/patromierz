@@ -1,5 +1,5 @@
 ---
-title: UA4UA | Patromierz
+title: UA4UA | Statystyki patronite.pl | Patromierz
 
 permalink: /UA4UA
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jednostka Ratownictwa Specjalistycznego s12 | Patromierz
+title: Jednostka Ratownictwa Specjalistycznego s12 | Statystyki patronite.pl | Patromierz
 
 permalink: /jrss12
 ---

@@ -1,5 +1,5 @@
 ---
-title: Likonic_carnuthub | Patromierz
+title: Likonic_carnuthub | Statystyki patronite.pl | Patromierz
 
 permalink: /likonic
 ---

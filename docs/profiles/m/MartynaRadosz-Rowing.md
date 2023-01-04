@@ -1,5 +1,5 @@
 ---
-title: Martyna Radosz | Patromierz
+title: Martyna Radosz | Statystyki patronite.pl | Patromierz
 
 permalink: /MartynaRadosz-Rowing
 ---

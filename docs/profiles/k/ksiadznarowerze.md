@@ -1,5 +1,5 @@
 ---
-title: "Ksi\u0105dz na rowerze | Patromierz"
+title: "Ksi\u0105dz na rowerze | Statystyki patronite.pl | Patromierz"
 
 permalink: /ksiadznarowerze
 ---

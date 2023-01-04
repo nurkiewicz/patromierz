@@ -1,5 +1,5 @@
 ---
-title: Fundacja Jagoda im. Jagody Pachota | Patromierz
+title: Fundacja Jagoda im. Jagody Pachota | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjajagoda
 ---

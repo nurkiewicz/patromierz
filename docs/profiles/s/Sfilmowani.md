@@ -1,5 +1,5 @@
 ---
-title: Sfilmowani | Patromierz
+title: Sfilmowani | Statystyki patronite.pl | Patromierz
 
 permalink: /Sfilmowani
 ---

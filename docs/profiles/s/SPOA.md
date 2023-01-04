@@ -1,5 +1,5 @@
 ---
-title: Stowarzyszenie Pomocy Osobom Autystycznym | Patromierz
+title: Stowarzyszenie Pomocy Osobom Autystycznym | Statystyki patronite.pl | Patromierz
 
 permalink: /SPOA
 ---

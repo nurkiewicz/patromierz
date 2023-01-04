@@ -1,5 +1,5 @@
 ---
-title: Koty bez granic - adopcje i pomoc | Patromierz
+title: Koty bez granic - adopcje i pomoc | Statystyki patronite.pl | Patromierz
 
 permalink: /Koty-bez-granic
 ---

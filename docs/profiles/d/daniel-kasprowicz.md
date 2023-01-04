@@ -1,5 +1,5 @@
 ---
-title: Daniel Kasprowicz | Patromierz
+title: Daniel Kasprowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /daniel-kasprowicz
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bezpestkowe | Patromierz
+title: Bezpestkowe | Statystyki patronite.pl | Patromierz
 
 permalink: /bezpestkowe
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fundacja Audionomia | Patromierz
+title: Fundacja Audionomia | Statystyki patronite.pl | Patromierz
 
 permalink: /audionomia
 ---

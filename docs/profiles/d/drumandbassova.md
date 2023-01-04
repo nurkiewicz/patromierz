@@ -1,5 +1,5 @@
 ---
-title: Drum&Bassova | Patromierz
+title: Drum&Bassova | Statystyki patronite.pl | Patromierz
 
 permalink: /drumandbassova
 ---

@@ -1,5 +1,5 @@
 ---
-title: "\u0141ukasz Biela | Patromierz"
+title: "\u0141ukasz Biela | Statystyki patronite.pl | Patromierz"
 
 permalink: /lukas_biela
 ---

@@ -1,5 +1,5 @@
 ---
-title: Gosia Norman | Patromierz
+title: Gosia Norman | Statystyki patronite.pl | Patromierz
 
 permalink: /gosia-norman
 ---

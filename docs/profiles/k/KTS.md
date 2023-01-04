@@ -1,5 +1,5 @@
 ---
-title: "KTS Wesz\u0142o | Patromierz"
+title: "KTS Wesz\u0142o | Statystyki patronite.pl | Patromierz"
 
 permalink: /KTS
 ---

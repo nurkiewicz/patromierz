@@ -1,5 +1,5 @@
 ---
-title: mojdzienwkade | Patromierz
+title: mojdzienwkade | Statystyki patronite.pl | Patromierz
 
 permalink: /mojdzienwkade
 ---

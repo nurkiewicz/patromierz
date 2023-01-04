@@ -1,5 +1,5 @@
 ---
-title: "Sporty Walki \u0141\u0119czna | Patromierz"
+title: "Sporty Walki \u0141\u0119czna | Statystyki patronite.pl | Patromierz"
 
 permalink: /swl
 ---

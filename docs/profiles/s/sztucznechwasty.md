@@ -1,5 +1,5 @@
 ---
-title: Sztuczne Chwasty | Patromierz
+title: Sztuczne Chwasty | Statystyki patronite.pl | Patromierz
 
 permalink: /sztucznechwasty
 ---

@@ -1,5 +1,5 @@
 ---
-title: Sebastian Kotlarz | Patromierz
+title: Sebastian Kotlarz | Statystyki patronite.pl | Patromierz
 
 permalink: /sebastiankotlarz
 ---

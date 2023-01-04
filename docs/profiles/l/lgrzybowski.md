@@ -1,5 +1,5 @@
 ---
-title: Wszystko o Warszawie | Patromierz
+title: Wszystko o Warszawie | Statystyki patronite.pl | Patromierz
 
 permalink: /lgrzybowski
 ---

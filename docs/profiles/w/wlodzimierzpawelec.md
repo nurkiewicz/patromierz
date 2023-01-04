@@ -1,5 +1,5 @@
 ---
-title: "W\u0142odzimierz Pawelec | Patromierz"
+title: "W\u0142odzimierz Pawelec | Statystyki patronite.pl | Patromierz"
 
 permalink: /wlodzimierzpawelec
 ---

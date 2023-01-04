@@ -1,5 +1,5 @@
 ---
-title: 'Bart : Biz & Chill Networking biznesowy | Patromierz'
+title: 'Bart : Biz & Chill Networking biznesowy | Statystyki patronite.pl | Patromierz'
 
 permalink: /Bart-Networking
 ---

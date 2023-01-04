@@ -1,5 +1,5 @@
 ---
-title: "Marek i ro\u015Bliny | Patromierz"
+title: "Marek i ro\u015Bliny | Statystyki patronite.pl | Patromierz"
 
 permalink: /Marekirosliny
 ---

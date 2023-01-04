@@ -1,5 +1,5 @@
 ---
-title: Konrad Jeremus | Patromierz
+title: Konrad Jeremus | Statystyki patronite.pl | Patromierz
 
 permalink: /KonradJeremus
 ---

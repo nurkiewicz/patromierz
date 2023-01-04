@@ -1,5 +1,5 @@
 ---
-title: MTB Trails Mielec | Patromierz
+title: MTB Trails Mielec | Statystyki patronite.pl | Patromierz
 
 permalink: /mtb-trails-mielec
 ---

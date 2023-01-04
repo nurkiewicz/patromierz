@@ -1,5 +1,5 @@
 ---
-title: MotoDziennik  | Patromierz
+title: MotoDziennik  | Statystyki patronite.pl | Patromierz
 
 permalink: /motodziennik
 ---

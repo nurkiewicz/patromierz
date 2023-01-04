@@ -1,5 +1,5 @@
 ---
-title: "Jak strzela\u0107? | Patromierz"
+title: "Jak strzela\u0107? | Statystyki patronite.pl | Patromierz"
 
 permalink: /Jakstrzelac
 ---

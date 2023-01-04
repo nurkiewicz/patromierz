@@ -1,5 +1,5 @@
 ---
-title: Maciej Bonk | Patromierz
+title: Maciej Bonk | Statystyki patronite.pl | Patromierz
 
 permalink: /malerzeki
 ---
