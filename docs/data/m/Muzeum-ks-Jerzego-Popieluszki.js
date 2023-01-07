@@ -332,4 +332,5 @@ profiles["Muzeum-ks-Jerzego-Popieluszki"] = [
 	[1672819768,null,1,null,1810,-2.0],
 	[1672907268,null,1,null,1810,-2.0],
 	[1672992940,null,1,null,1810,-2.0],
+	[1673092347,null,1,null,1810,-2.0],
 ];

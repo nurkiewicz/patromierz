@@ -332,4 +332,5 @@ profiles["FundacjaSAWANCI"] = [
 	[1672819033,40,1,40.0,1449,null],
 	[1672906515,40,null,null,1449,null],
 	[1672992222,40,null,null,1449,null],
+	[1673091635,40,null,null,1449,null],
 ];

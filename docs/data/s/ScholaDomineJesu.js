@@ -332,4 +332,5 @@ profiles["ScholaDomineJesu"] = [
 	[1672820390,50,null,null,1425,null],
 	[1672907897,50,null,null,1425,null],
 	[1672993531,50,null,null,1425,null],
+	[1673093467,50,1,50.0,1475,null],
 ];
