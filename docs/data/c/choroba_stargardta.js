@@ -335,4 +335,5 @@ profiles["choroba_stargardta"] = [
 	[1672991914,4,1,4.0,48,null],
 	[1673091334,4,1,4.0,48,null],
 	[1673162895,null,1,null,48,null],
+	[1673252778,null,1,null,48,null],
 ];
