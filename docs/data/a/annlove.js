@@ -343,4 +343,5 @@ profiles["annlove"] = [
 	[1673252575,10,null,null,485,null],
 	[1673339432,10,null,null,485,null],
 	[1673426968,10,null,null,485,null],
+	[1673510002,10,1,10.0,495,null],
 ];
