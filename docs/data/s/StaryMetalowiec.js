@@ -69,4 +69,5 @@ profiles["StaryMetalowiec"] = [
 	[1649041984,null,null,null,150,null],
 	[1649068653,null,null,null,150,null],
 	[1673512327,10,1,10.0,160,null],
+	[1673605784,10,1,10.0,160,null],
 ];

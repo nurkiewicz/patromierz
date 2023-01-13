@@ -1,9 +1,9 @@
 ---
-title: Sasha Bajek - Rosjanka w Polsce | Statystyki patronite.pl | Patromierz
+title: Sasha - Rosjanka w Polsce | Statystyki patronite.pl | Patromierz
 
 permalink: /sashabajek
 ---
 
-# [Sasha Bajek - Rosjanka w Polsce](https://patronite.pl/sashabajek)
+# [Sasha - Rosjanka w Polsce](https://patronite.pl/sashabajek)
 
 {% include profile.md name="sashabajek" prefix="s" %}
