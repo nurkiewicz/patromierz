@@ -1,5 +1,5 @@
 ---
-title: "Kiki \u015Awiat | Patromierz"
+title: "Kiki \u015Awiat | Statystyki patronite.pl | Patromierz"
 
 permalink: /kikiswiat
 ---
