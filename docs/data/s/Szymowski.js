@@ -69,4 +69,5 @@ profiles["Szymowski"] = [
 	[1649042162,null,null,null,150,null],
 	[1649068700,null,null,null,150,null],
 	[1674117645,10,1,10.0,160,null],
+	[1674210032,10,1,10.0,160,null],
 ];

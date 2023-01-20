@@ -66,4 +66,5 @@ profiles["fundacjaterytoriaksiazki"] = [
 	[1649045875,null,null,null,405,null],
 	[1649069691,null,null,null,405,null],
 	[1674115961,10,1,10.0,415,null],
+	[1674208287,10,1,10.0,415,null],
 ];

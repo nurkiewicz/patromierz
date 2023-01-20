@@ -1,5 +1,5 @@
 ---
-title: Tomasz Kielar | Patromierz
+title: Tomasz Kielar | Statystyki patronite.pl | Patromierz
 
 permalink: /tomaszkielar
 ---
