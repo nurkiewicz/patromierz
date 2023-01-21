@@ -1,5 +1,5 @@
 ---
-title: brzmienie duszy | Patromierz
+title: brzmienie duszy | Statystyki patronite.pl | Patromierz
 
 permalink: /brzmienieduszy
 ---
