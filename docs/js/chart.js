@@ -80,10 +80,50 @@ function drawHorizontal(data, id) {
     });
 }
 
+function makeTable(data) {
+    function currencyFormatter(currency) {
+        if(!currency) {
+          return '';
+        }
+          var sansDec = currency.toFixed(0);
+          var formatted = sansDec.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+          return `${formatted} zł`;
+        }
+
+        function dateFormatter(date) {
+          return date.toISOString().substring(0, 10);
+        }
+
+       const gridOptions = {
+        rowData: data.map(row => {return {
+            date: new Date(row[0] * 1000),
+            monthly: row[1],
+            supporters: row[2],
+            average: row[3],
+            total: row[4],
+            increase: row[5]
+          }}).reverse(),
+          domLayout: 'autoHeight',
+         columnDefs: [
+           {field: "date", headerName: 'Data',  valueFormatter: params => dateFormatter(params.data.date)},
+           {field: "monthly", headerName: 'Wsparcie',  valueFormatter: params => currencyFormatter(params.data.monthly)},
+           {field: "supporters", headerName: 'Patroni', },
+           {field: "total", headerName: 'Łącznie',  valueFormatter: params => currencyFormatter(params.data.total)},
+     //    {field: "average", headerName: 'Średnio',  valueFormatter: params => currencyFormatter(params.data.average)},
+           {field: "increase", headerName: 'Wzrost (28 dni)',  valueFormatter: params => currencyFormatter(params.data.increase)},
+         ],
+         defaultColDef: {sortable: true, filter: false}
+       };
+
+       new agGrid.Grid(document.getElementById("table"), gridOptions);
+       gridOptions.api.sizeColumnsToFit();
+}
+
 function drawCharts(data) {
     drawBasic(data, 1, 'chart_monthly', 'Miesięcznie', 'currency');
     drawBasic(data, 2, 'chart_supporters', 'Patroni');
     drawBasic(data, 3, 'chart_average', 'Średnie wsparcie', 'currency');
     drawBasic(data, 4, 'chart_total', 'Łącznie', 'currency');
     drawBasic(data, 5, 'chart_increase', 'Zmiana dzienna', 'currency');
+    makeTable(data);
 }
