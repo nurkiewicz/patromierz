@@ -347,4 +347,5 @@ profiles["sredniowieczny"] = [
 	[1674117542,25,1,25.0,365,null],
 	[1674209922,25,null,null,365,null],
 	[1674287832,25,null,null,365,null],
+	[1674369448,25,null,null,365,null],
 ];
