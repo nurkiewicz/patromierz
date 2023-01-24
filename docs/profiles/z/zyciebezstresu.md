@@ -1,5 +1,5 @@
 ---
-title: "\u017Bycie Bez Stresu - Technika Uwalniania | Patromierz"
+title: "\u017Bycie Bez Stresu - Technika Uwalniania | Statystyki patronite.pl | Patromierz"
 
 permalink: /zyciebezstresu
 ---

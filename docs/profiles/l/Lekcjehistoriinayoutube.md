@@ -1,5 +1,5 @@
 ---
-title: Lekcje historii na YouTube | Patromierz
+title: Lekcje historii na YouTube | Statystyki patronite.pl | Patromierz
 
 permalink: /Lekcjehistoriinayoutube
 ---

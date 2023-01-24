@@ -1,5 +1,5 @@
 ---
-title: "Ochtabi\u0144ski | Patromierz"
+title: "Ochtabi\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /ochtabinski
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Milanowskie Muzeum Gier i Komputer\xF3w | Patromierz"
+title: "Milanowskie Muzeum Gier i Komputer\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /mmgik
 ---

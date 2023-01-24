@@ -1,5 +1,5 @@
 ---
-title: "Przytulisko  G\u0142owno  | Patromierz"
+title: "Przytulisko  G\u0142owno  | Statystyki patronite.pl | Patromierz"
 
 permalink: /przytuliskoglowno
 ---

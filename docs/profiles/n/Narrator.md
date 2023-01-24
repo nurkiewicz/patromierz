@@ -1,5 +1,5 @@
 ---
-title: Refur Narrator | Patromierz
+title: Refur Narrator | Statystyki patronite.pl | Patromierz
 
 permalink: /Narrator
 ---

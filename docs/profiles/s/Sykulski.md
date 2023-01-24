@@ -1,5 +1,5 @@
 ---
-title: Leszek Sykulski | Patromierz
+title: Leszek Sykulski | Statystyki patronite.pl | Patromierz
 
 permalink: /Sykulski
 ---

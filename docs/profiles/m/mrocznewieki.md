@@ -1,5 +1,5 @@
 ---
-title: Mroczne Wieki | Patromierz
+title: Mroczne Wieki | Statystyki patronite.pl | Patromierz
 
 permalink: /mrocznewieki
 ---

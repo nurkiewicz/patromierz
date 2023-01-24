@@ -1,30 +1,9 @@
 ---
-title: RomanFicek | Patromierz
+title: Roman Ficek | Statystyki patronite.pl | Patromierz
+
 permalink: /RomanFicek
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript" src="data/r/RomanFicek.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
+# [Roman Ficek](https://patronite.pl/RomanFicek)
 
-# [RomanFicek](https://patronite.pl/RomanFicek)
-
-## Miesięczne wsparcie
-
-<div id="chart_monthly" class="chart"></div>
-
-## Patroni
-
-<div id="chart_supporters" class="chart"></div>
-
-## Łącznie
-
-<div id="chart_total" class="chart"></div>
-
-## Średnie wsparcie
-
-<div id="chart_average" class="chart"></div>
-
-<script type="text/javascript">
-    window.onload = () => drawCharts(profiles["RomanFicek"]);
-</script>
+{% include profile.md name="RomanFicek" prefix="r" %}
