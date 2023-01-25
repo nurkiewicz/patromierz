@@ -350,4 +350,5 @@ profiles["VademecumLiturgiczne"] = [
 	[1674371353,null,1,null,1405,null],
 	[1674458103,null,1,null,1405,null],
 	[1674551769,null,1,null,1405,null],
+	[1674623752,null,1,null,1405,null],
 ];

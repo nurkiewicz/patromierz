@@ -351,4 +351,5 @@ profiles["SaturdayCarFever"] = [
 	[1674368587,10,1,10.0,null,null],
 	[1674455310,10,1,10.0,null,null],
 	[1674551456,15,2,7.5,null,null],
+	[1674620986,15,2,7.5,null,null],
 ];
