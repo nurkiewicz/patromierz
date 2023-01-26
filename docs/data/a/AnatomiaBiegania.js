@@ -104,4 +104,5 @@ profiles["AnatomiaBiegania"] = [
 	[1674439661,10,null,null,220,null],
 	[1674549703,10,null,null,220,null],
 	[1674605383,10,1,10.0,230,null],
+	[1674693587,10,1,10.0,230,null],
 ];

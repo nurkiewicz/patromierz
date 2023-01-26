@@ -350,4 +350,5 @@ profiles["hecticmagazyn"] = [
 	[1674445068,10,1,10.0,300,null],
 	[1674550305,10,null,null,300,null],
 	[1674610780,10,null,null,300,null],
+	[1674699084,10,null,null,300,null],
 ];
