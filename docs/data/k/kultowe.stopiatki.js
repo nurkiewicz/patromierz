@@ -352,4 +352,7 @@ profiles["kultowe.stopiatki"] = [
 	[1674613402,20,null,null,960,null],
 	[1674701754,20,null,null,960,null],
 	[1674787768,20,null,null,960,null],
+	[1674874508,20,null,null,960,null],
+	[1674960703,20,null,null,960,null],
+	[1674980430,20,null,null,960,null],
 ];

@@ -1,5 +1,5 @@
 ---
-title: Bartosz Krzeszewski | Patromierz
+title: Bartosz Krzeszewski | Statystyki patronite.pl | Patromierz
 
 permalink: /stepujacybudowlaniec
 ---

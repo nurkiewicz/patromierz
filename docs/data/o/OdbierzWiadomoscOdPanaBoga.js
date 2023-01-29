@@ -353,4 +353,7 @@ profiles["OdbierzWiadomoscOdPanaBoga"] = [
 	[1674616915,400,2,200.0,null,null],
 	[1674705353,400,2,200.0,null,null],
 	[1674791215,400,2,200.0,null,null],
+	[1674878050,400,2,200.0,null,null],
+	[1674964200,400,2,200.0,null,null],
+	[1674980870,400,2,200.0,null,null],
 ];

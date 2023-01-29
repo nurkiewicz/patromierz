@@ -191,4 +191,7 @@ profiles["codziennemotywacjepl"] = [
 	[1674607418,null,1,null,35,null],
 	[1674695658,null,1,null,35,null],
 	[1674781879,null,1,null,35,null],
+	[1674868467,null,1,null,35,null],
+	[1674954726,null,1,null,35,null],
+	[1674979690,null,1,null,35,null],
 ];

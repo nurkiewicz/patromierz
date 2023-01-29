@@ -353,4 +353,7 @@ profiles["Samochodemnawakacje_pl"] = [
 	[1674620919,5,1,5.0,100,null],
 	[1674709466,5,1,5.0,100,null],
 	[1674795162,null,1,null,100,null],
+	[1674882106,null,1,null,100,null],
+	[1674968206,null,1,null,100,null],
+	[1674981371,null,1,null,100,null],
 ];
