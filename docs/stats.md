@@ -19,39 +19,48 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/pixel.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/w/www.japaczesercem.pl.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/c/CSM.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
-<script type="text/javascript" src="data/m/mocniwduchu.js"></script>
+<script type="text/javascript" src="data/a/arkadikuss.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
 <script type="text/javascript" src="data/h/hejto.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/p/pan_jagoda.js"></script>
-<script type="text/javascript" src="data/n/nitya.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/m/Modzelewski.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/t/TwojaPasja.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/g/GTBT.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/c/CSM.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/a/arhneu.js"></script>
+<script type="text/javascript" src="data/p/pixel.js"></script>
+<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/a/adamszolc.js"></script>
+<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Grupa MoCarta", -1395], ["życie warte jest rozmowy", -1240], ["Dolnośląski Inspektorat Ochrony Zwierząt", -695], ["Marcin Zieliński", -545], ["PIXEL", -545], ["Mocni w Duchu", -315], ["Sekielski Brothers Studio", -290], ["Karol Modzelewski", -275], ["Pan Jagoda", -270], ["Good Times Bad Times", -260], ["Nitya Patrycja Pruchnik", 500], ["Ja Pacze Sercem", 500], ["Dariusz Rosiak", 525], ["hejto.pl", 1015], ["CSM/worship", 1115], ["Kuszlewicz w imieniu", 1204], ["Witold Gadowski", 1250], ["Radio 357", 1895], ["Radio Nowy Świat", 2517], ["Langusta na palmie", 3605]], 'largest_changes');
+            drawHorizontal([["Adam Szolc", -2500], ["Grupa MoCarta", -1580], ["życie warte jest rozmowy", -1250], ["arhn.eu", -605], ["Dolnośląski Inspektorat Ochrony Zwierząt", -520], ["PIXEL", -508], ["Sekielski Brothers Studio", -470], ["Historia Realna - Piotr Zychowicz", -315], ["Fundacja Twoja Pasja", -256], ["Arkadikuss", -250], ["Dariusz Rosiak", 550], ["Brzmienie Świata z lotu Drozda", 555], ["Fundacja Nautilus", 570], ["hejto.pl", 765], ["CSM/worship", 1015], ["Kuszlewicz w imieniu", 1060], ["Witold Gadowski", 1375], ["Radio 357", 2215], ["Radio Nowy Świat", 3200], ["Langusta na palmie", 3810]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['radionowyswiat','radionowyswiat','DariuszRosiak','DariuszRosiak','DIOZ','DIOZ','langustanapalmie','langustanapalmie','dzialzagraniczny','dzialzagraniczny','marcinzielinski','marcinzielinski','UsłyszećNaCzas','UsłyszećNaCzas','palhajstv','palhajstv','VirtualDream','VirtualDream','historiarealna','historiarealna'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','VirtualDream','historiarealna','sekielski','Vlogcasha','dwochtypow','accantus','znokautujbukmachera','planetaabstrakcja','rockserwisfm','brzmienie-swiata','Zmierzchu','TERENWIZJA','radionaukowe'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
