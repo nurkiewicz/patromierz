@@ -29,11 +29,12 @@ function drawMulti(profileNames, column, id, format) {
         });
         var options = {
             vAxis: {
-                format: format
+                format: format,
             },
             legend: {
-                position: 'right'
+                position: 'bottom'
             },
+            chartArea: {'width': '80%', 'height': '80%'},
             explorer: explorer
         };
         var chart = new google.visualization.LineChart(document.getElementById(id));
@@ -54,6 +55,7 @@ function drawBasic(data, column, id, label, format) {
             legend: {
                 position: 'none'
             },
+            chartArea: {'width': '80%', 'height': '80%'},
             explorer: explorer
         };
         var chart = new google.visualization.LineChart(document.getElementById(id));
@@ -76,6 +78,7 @@ function drawHorizontal(data, id) {
             vAxis: {
                 format: 'currency'
             },
+            chartArea: {'width': '80%', 'height': '80%'},
         });
     });
 }
