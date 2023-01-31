@@ -1,5 +1,5 @@
 ---
-title: obcy artist run space | Patromierz
+title: obcy artist run space | Statystyki patronite.pl | Patromierz
 
 permalink: /obcy
 ---
