@@ -358,4 +358,5 @@ profiles["simmc"] = [
 	[1674981423,20,1,20.0,null,null],
 	[1675055528,20,1,20.0,null,null],
 	[1675141554,null,1,null,null,-1.0],
+	[1675228561,null,1,null,null,-1.0],
 ];
