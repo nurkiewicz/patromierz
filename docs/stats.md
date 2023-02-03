@@ -19,46 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
-<script type="text/javascript" src="data/a/arhneu.js"></script>
-<script type="text/javascript" src="data/s/shaysome.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
-<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
-<script type="text/javascript" src="data/g/GTBT.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
+<script type="text/javascript" src="data/k/Krajski.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/p/paulinawroblewska.js"></script>
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/s/shaysome.js"></script>
+<script type="text/javascript" src="data/b/BezSchematu.js"></script>
 <script type="text/javascript" src="data/w/wywiad-z-czlowiekiem-radio-war.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/k/KL.js"></script>
-<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/t/TwojaPasja.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/d/DajBadyla.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/a/arhneu.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/k/KL.js"></script>
+<script type="text/javascript" src="data/d/DajBadyla.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Grupa MoCarta", -1635], ["arhn.eu", -645], ["Dolnośląski Inspektorat Ochrony Zwierząt", -595], ["Niezależność Wojtka z Life On Wheelz", -500], ["Sekielski Brothers Studio", -470], ["UBoga Podcast", -420], ["Historia Realna - Piotr Zychowicz", -405], ["Shaysome", -300], ["Fundacja Twoja Pasja", -288], ["Good Times Bad Times", -260], ["Wywiad z Człowiekiem", 570], ["Fundacja Nautilus", 580], ["Karolina Korwin Piotrowska ", 730], ["Langusta na palmie", 870], ["Kuszlewicz w imieniu", 933], ["Kultura Liberalna", 1040], ["Daj Badyla", 1160], ["Witold Gadowski", 1430], ["Radio 357", 2535], ["Radio Nowy Świat", 3170]], 'largest_changes');
+            drawHorizontal([["Grupa MoCarta", -1175], ["Paulina Wróblewska", -1000], ["Dolnośląski Inspektorat Ochrony Zwierząt", -690], ["arhn.eu", -670], ["Niezależność Wojtka z Life On Wheelz", -500], ["Stanisław Krajski", -470], ["UBoga Podcast", -410], ["Historia Realna - Piotr Zychowicz", -330], ["Pal Hajs TV", -330], ["Shaysome", -300], ["Wywiad z Człowiekiem", 620], ["Bez/Schematu", 680], ["Karolina Korwin Piotrowska ", 685], ["Langusta na palmie", 935], ["Kultura Liberalna", 1000], ["Kuszlewicz w imieniu", 1084], ["Daj Badyla", 1260], ["Witold Gadowski", 1455], ["Radio Nowy Świat", 1631], ["Radio 357", 1940]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
