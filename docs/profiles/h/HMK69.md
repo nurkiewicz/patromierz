@@ -1,5 +1,5 @@
 ---
-title: HMK69 | Patromierz
+title: HMK69 | Statystyki patronite.pl | Patromierz
 
 permalink: /HMK69
 ---
