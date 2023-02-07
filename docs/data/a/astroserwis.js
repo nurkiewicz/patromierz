@@ -365,4 +365,5 @@ profiles["astroserwis"] = [
 	[1675471738,25,null,null,1193,null],
 	[1675558173,25,null,null,1193,null],
 	[1675644630,25,null,null,1193,null],
+	[1675730868,25,1,25.0,1218,null],
 ];
