@@ -92,4 +92,5 @@ profiles["fundacja_zobaczjak"] = [
 	[1675734639,5,1,5.0,15,null],
 	[1675821245,5,1,5.0,15,null],
 	[1675907662,null,1,null,15,null],
+	[1675994421,null,1,null,15,null],
 ];

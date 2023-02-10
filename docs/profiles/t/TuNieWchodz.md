@@ -1,5 +1,5 @@
 ---
-title: "Tu Nie Wchod\u017A | Patromierz"
+title: "Tu Nie Wchod\u017A | Statystyki patronite.pl | Patromierz"
 
 permalink: /TuNieWchodz
 ---
