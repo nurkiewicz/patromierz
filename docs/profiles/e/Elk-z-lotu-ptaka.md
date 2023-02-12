@@ -1,5 +1,5 @@
 ---
-title: "E\u0142k z lotu ptaka i naziemnego nielota | Patromierz"
+title: "E\u0142k z lotu ptaka i naziemnego nielota | Statystyki patronite.pl | Patromierz"
 
 permalink: /Elk-z-lotu-ptaka
 ---

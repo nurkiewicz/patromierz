@@ -118,4 +118,5 @@ profiles["mecenasodbiznesu"] = [
 	[1675913026,null,1,null,60,null],
 	[1675999823,null,1,null,60,null],
 	[1676086195,null,1,null,60,null],
+	[1676172489,null,1,null,60,null],
 ];
