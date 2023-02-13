@@ -19,47 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/k/kyudo.js"></script>
-<script type="text/javascript" src="data/n/Nejtan.js"></script>
+<script type="text/javascript" src="data/m/majastasko.js"></script>
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/n/nowonarodzeni.js"></script>
-<script type="text/javascript" src="data/f/fundacjajudyta.js"></script>
-<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
-<script type="text/javascript" src="data/y/YouMyGod.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/s/SebastianAntonowicz.js"></script>
-<script type="text/javascript" src="data/d/dzikieucho.js"></script>
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
-<script type="text/javascript" src="data/a/AgnieszkaMorysiak.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/t/trelemorele.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 <script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/a/agatastrzyzewska.js"></script>
 <script type="text/javascript" src="data/i/igorjanke.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/s/SebastianAntonowicz.js"></script>
+<script type="text/javascript" src="data/z/znokautujbukmachera.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaMorysiak.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/n/Nejtan.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/n/nowonarodzeni.js"></script>
+<script type="text/javascript" src="data/y/YouMyGod.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/f/fundacjajudyta.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/z/ZewOceanu.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/p/pixel.js"></script>
+<script type="text/javascript" src="data/d/dzikieucho.js"></script>
+<script type="text/javascript" src="data/m/musicadivina.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/t/trelemorele.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Zespół Nowonarodzeni", -1000], ["Agata Strzyżewska", -570], ["Jarosław Wolski", -569], ["Igor Janke. Układ Otwarty", -485], ["Historia Realna - Piotr Zychowicz", -450], ["DZIKIE UCHO", -410], ["Fundacja dla Szczeniąt Judyta", -410], ["Agnieszka Morysiak", -400], ["Borkoś", -315], ["Usłyszeć Na Czas", -270], ["Natalia Bartoń", 546], ["UBoga Podcast", 570], ["Sebastian Antonowicz", 599], ["Znokautuj bukmachera", 720], ["Karolina Korwin Piotrowska ", 795], ["Świat według Nejtana", 805], ["YouMyGod", 926], ["kyudo", 1000], ["Langusta na palmie", 1005], ["Radio Nowy Świat", 1300]], 'largest_changes');
+            drawHorizontal([["Zespół Nowonarodzeni", -1000], ["Virtual Dream - Piotr Łój", -705], ["PIXEL", -663], ["Historia Realna - Piotr Zychowicz", -545], ["Maja Staśko", -500], ["DZIKIE UCHO", -420], ["Agnieszka Morysiak", -400], ["Fundacja dla Szczeniąt Judyta", -400], ["Igor Janke. Układ Otwarty", -365], ["Festiwal Musica Divina", -350], ["Sebastian Antonowicz", 599], ["Natalia Bartoń", 624], ["Radio 357", 802], ["YouMyGod", 820], ["Świat według Nejtana", 885], ["Karolina Korwin Piotrowska ", 920], ["Zew Oceanu - dookoła świata, raz jeszcze", 1000], ["kyudo", 1000], ["Langusta na palmie", 1020], ["Radio Nowy Świat", 1604]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
