@@ -372,4 +372,5 @@ profiles["idealistka"] = [
 	[1676168549,19,null,null,844,null],
 	[1676254727,19,null,null,844,null],
 	[1676341279,19,null,null,844,null],
+	[1676427808,19,1,19.0,863,null],
 ];
