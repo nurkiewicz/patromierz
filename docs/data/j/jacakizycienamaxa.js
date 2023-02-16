@@ -373,4 +373,5 @@ profiles["jacakizycienamaxa"] = [
 	[1676255088,20,null,null,280,null],
 	[1676341639,20,null,null,280,null],
 	[1676428172,20,null,null,280,null],
+	[1676577239,20,1,20.0,300,null],
 ];
