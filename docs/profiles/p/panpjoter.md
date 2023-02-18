@@ -1,5 +1,5 @@
 ---
-title: Pan Pjoter | Patromierz - statystyki Patronite.pl
+title: Pan Pjoter | Statystyki patronite.pl | Patromierz
 
 permalink: /panpjoter
 ---
