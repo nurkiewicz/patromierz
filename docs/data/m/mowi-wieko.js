@@ -373,4 +373,5 @@ profiles["mowi-wieko"] = [
 	[1676710213,10,null,null,1660,null],
 	[1676791910,10,null,null,1660,null],
 	[1676864862,10,null,null,1660,null],
+	[1676971493,10,null,null,1660,null],
 ];

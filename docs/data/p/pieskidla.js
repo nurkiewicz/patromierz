@@ -377,4 +377,5 @@ profiles["pieskidla"] = [
 	[1676710489,10,null,null,2660,null],
 	[1676792188,10,null,null,2660,null],
 	[1676867098,10,null,null,2660,null],
+	[1676971756,10,1,10.0,2670,null],
 ];
