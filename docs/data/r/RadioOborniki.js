@@ -379,4 +379,5 @@ profiles["RadioOborniki"] = [
 	[1676792461,null,1,null,660,-2.0],
 	[1676869310,null,1,null,660,null],
 	[1676972015,null,1,null,660,null],
+	[1677056871,null,1,null,660,null],
 ];

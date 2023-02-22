@@ -373,4 +373,5 @@ profiles["LEŚNY-REKONESANS"] = [
 	[1676791210,14,1,14.0,2727,null],
 	[1676862838,14,null,null,2727,null],
 	[1676971253,14,null,null,2727,null],
+	[1677056001,14,null,null,2727,null],
 ];
