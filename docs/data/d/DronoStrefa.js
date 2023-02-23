@@ -113,4 +113,7 @@ profiles["DronoStrefa"] = [
 	[1652743570,null,1,null,670,null],
 	[1652863915,null,1,null,670,null],
 	[1652922333,null,1,null,670,null],
+	[1653008948,null,1,null,670,null],
+	[1653095122,null,1,null,670,null],
+	[1677145810,10,1,10.0,680,null],
 ];

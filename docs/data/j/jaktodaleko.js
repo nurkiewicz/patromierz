@@ -413,4 +413,5 @@ profiles["jaktodaleko"] = [
 	[1676860572,null,29,null,null,null],
 	[1676970989,null,29,null,null,null],
 	[1677055707,660,29,22.75,null,1.0],
+	[1677146182,640,29,22.06,null,null],
 ];
