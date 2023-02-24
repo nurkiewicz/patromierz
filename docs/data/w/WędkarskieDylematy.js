@@ -35,4 +35,6 @@ profiles["WędkarskieDylematy"] = [
 	[1653185650,5,null,null,5,null],
 	[1653272229,5,null,null,5,null],
 	[1653358684,5,null,null,5,null],
+	[1653445045,5,null,null,5,null],
+	[1677219878,5,1,5.0,10,null],
 ];
