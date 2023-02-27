@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["maxliga"] = [
 	[1677209427,500,2,250.0,500,null],
 	[1677382114,500,2,250.0,500,null],
+	[1677468412,500,2,250.0,500,null],
 ];

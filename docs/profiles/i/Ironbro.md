@@ -1,9 +1,9 @@
 ---
-title: IRON BRO | Statystyki patronite.pl | Patromierz
+title: Tomasz Maksymowicz | Statystyki patronite.pl | Patromierz
 
 permalink: /Ironbro
 ---
 
-# [IRON BRO](https://patronite.pl/Ironbro)
+# [Tomasz Maksymowicz](https://patronite.pl/Ironbro)
 
 {% include profile.md name="Ironbro" prefix="i" %}
