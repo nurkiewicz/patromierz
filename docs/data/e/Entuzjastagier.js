@@ -91,4 +91,5 @@ profiles["Entuzjastagier"] = [
 	[1672992102,8,1,8.0,24,null],
 	[1673091519,null,1,null,24,null],
 	[1673163083,null,1,null,24,null],
+	[1677572952,8,1,8.0,32,null],
 ];
