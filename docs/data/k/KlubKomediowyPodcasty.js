@@ -88,4 +88,5 @@ profiles["KlubKomediowyPodcasty"] = [
 	[1677466077,10,1,10.0,2500,null],
 	[1677573431,10,1,10.0,2500,null],
 	[1677638907,null,1,null,2500,null],
+	[1677747886,null,1,null,2500,null],
 ];
