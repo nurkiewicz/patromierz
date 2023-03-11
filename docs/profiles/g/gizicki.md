@@ -1,10 +1,9 @@
 ---
-title: "KSI\u0104\u017BKA - \"Wsp\xF3\u0142czesny polski komiks\" | Statystyki patronite.pl\
-  \ | Patromierz"
+title: Daniel Gizicki - scenarzysta komiksowy | Statystyki patronite.pl | Patromierz
 
 permalink: /gizicki
 ---
 
-# [KSIĄŻKA - "Współczesny polski komiks"](https://patronite.pl/gizicki)
+# [Daniel Gizicki - scenarzysta komiksowy](https://patronite.pl/gizicki)
 
 {% include profile.md name="gizicki" prefix="g" %}

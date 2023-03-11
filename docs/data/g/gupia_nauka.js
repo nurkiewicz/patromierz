@@ -387,4 +387,5 @@ profiles["gupia_nauka"] = [
 	[1677573172,null,1,null,7005,null],
 	[1677636848,null,1,null,7005,null],
 	[1677747582,null,1,null,7005,null],
+	[1678524584,20,1,20.0,7025,null],
 ];

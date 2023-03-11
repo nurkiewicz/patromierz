@@ -92,4 +92,5 @@ profiles["smaknowegozycia"] = [
 	[1675660836,5,1,5.0,15,null],
 	[1675746536,null,1,null,15,null],
 	[1675833327,null,1,null,15,null],
+	[1678526293,5,1,5.0,20,null],
 ];

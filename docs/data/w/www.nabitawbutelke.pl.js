@@ -1,0 +1,4 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["www.nabitawbutelke.pl"] = [
+	[1678526796,540,3,180.0,540,null],
+];
