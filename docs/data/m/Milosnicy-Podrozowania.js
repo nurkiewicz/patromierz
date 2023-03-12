@@ -167,4 +167,5 @@ profiles["Milosnicy-Podrozowania"] = [
 	[1677641651,10,1,10.0,60,null],
 	[1677748277,10,1,10.0,60,null],
 	[1678525316,10,null,null,60,null],
+	[1678592392,10,null,null,60,null],
 ];

@@ -69,4 +69,5 @@ profiles["Jdrek"] = [
 	[1649039071,null,null,null,850,null],
 	[1649067880,null,null,null,850,null],
 	[1678524746,50,1,50.0,900,null],
+	[1678588547,50,1,50.0,900,null],
 ];

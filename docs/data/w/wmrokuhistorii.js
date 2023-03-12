@@ -70,4 +70,5 @@ profiles["wmrokuhistorii"] = [
 	[1649054422,null,null,null,90,null],
 	[1649071973,null,null,null,90,null],
 	[1678526735,10,1,10.0,100,null],
+	[1678602132,10,1,10.0,100,null],
 ];
