@@ -81,4 +81,5 @@ profiles["odnowa.patronite.pl"] = [
 	[1677748515,10,1,10.0,30,null],
 	[1678525556,10,1,10.0,30,null],
 	[1678594112,null,1,null,30,null],
+	[1678680332,null,1,null,30,null],
 ];
