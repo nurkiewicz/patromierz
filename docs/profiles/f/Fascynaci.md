@@ -1,9 +1,10 @@
 ---
-title: "Fascynaci - Tw\xF3rczo\u015B\u0107 i Wydania | Statystyki patronite.pl | Patromierz"
+title: "Fascynaci.com - Sklep wspieraj\u0105cy pasj\u0119 Hobby.24 | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /Fascynaci
 ---
 
-# [Fascynaci - Twórczość i Wydania](https://patronite.pl/Fascynaci)
+# [Fascynaci.com - Sklep wspierający pasję Hobby.24](https://patronite.pl/Fascynaci)
 
 {% include profile.md name="Fascynaci" prefix="f" %}
