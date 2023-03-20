@@ -393,4 +393,6 @@ profiles["radykalnysymetryzm"] = [
 	[1678683786,null,1,null,480,null],
 	[1678788499,null,1,null,480,null],
 	[1678870928,null,1,null,480,null],
+	[1679067402,null,1,null,480,null],
+	[1679304998,null,1,null,480,null],
 ];

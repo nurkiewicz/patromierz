@@ -1,5 +1,5 @@
 ---
-title: Wolne Media | Patromierz
+title: Wolne Media | Statystyki patronite.pl | Patromierz
 
 permalink: /wolnemedia
 ---

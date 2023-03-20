@@ -1,5 +1,5 @@
 ---
-title: Orkiestra Siedlice | Patromierz
+title: Orkiestra Siedlice | Statystyki patronite.pl | Patromierz
 
 permalink: /OrkiestraSiedlice
 ---

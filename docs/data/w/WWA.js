@@ -115,4 +115,6 @@ profiles["WWA"] = [
 	[1678688495,50,null,null,1530,null],
 	[1678789761,50,null,null,1530,null],
 	[1678871568,50,null,null,1530,null],
+	[1679068016,50,null,null,1530,null],
+	[1679305634,50,null,null,1530,null],
 ];

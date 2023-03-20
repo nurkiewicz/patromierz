@@ -1,0 +1,4 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["webkomiksy"] = [
+	[1679305550,15,1,15.0,15,null],
+];
