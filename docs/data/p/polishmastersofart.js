@@ -437,4 +437,5 @@ profiles["polishmastersofart"] = [
 	[1678870685,825,31,26.61,null,null],
 	[1679067175,825,30,27.5,null,null],
 	[1679304758,825,30,27.5,null,null],
+	[1679388120,825,30,27.5,null,null],
 ];

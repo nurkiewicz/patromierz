@@ -78,4 +78,5 @@ profiles["hkrajewskanordicwalking20"] = [
 	[1678869609,10,1,10.0,30,null],
 	[1679066136,10,1,10.0,30,null],
 	[1679303635,null,1,null,30,null],
+	[1679387025,null,1,null,30,null],
 ];
