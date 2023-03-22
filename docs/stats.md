@@ -19,49 +19,48 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/s/SilentHeroesPL.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/m/miloszszymanski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/p/pixel.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/h/hejto.js"></script>
-<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
-<script type="text/javascript" src="data/r/RadoslawPyffel.js"></script>
-<script type="text/javascript" src="data/s/SebastianAntonowicz.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/f/FundacjaZwierzecaPolana.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/d/dzieci-świata.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/t/TheravadaPL.js"></script>
 <script type="text/javascript" src="data/t/tenmelon.js"></script>
+<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/c/Ciekawehistorie.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
 <script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/d/dzieci-świata.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/K3.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/piotrzylka.js"></script>
+<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
+<script type="text/javascript" src="data/m/miloszszymanski.js"></script>
+<script type="text/javascript" src="data/h/hejto.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/motoaddicts.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/l/lkslodz.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radosław Pyffel", -1025], ["Sebastian Antonowicz", -580], ["SilentHeroesPL", -500], ["Miłosz Szymański", -480], ["hejto.pl", -462], ["K3 podcast Dariusza Bugalskiego", -455], ["Marcin Strzyżewski", -446], ["SOWINSKY", -411], ["PIXEL", -317], ["tenmelon", -271], ["Radio Nowy Świat", 576], ["Fundacja Zwierzęca Polana", 604], ["Poglebiarka.pl", 655], ["Langusta na palmie", 770], ["Hubert Więcek", 850], ["Dzieci Świata - Marzena Figiel", 924], ["Witold Gadowski", 965], ["Karolina Korwin Piotrowska ", 965], ["KEZUVLOG - Poszukując prawdy...", 1060], ["Radio 357", 1971]], 'largest_changes');
+            drawHorizontal([["Virtual Dream - Piotr Łój", -920], ["Miłosz Szymański", -720], ["Piotr Żyłka", -520], ["K3 podcast Dariusza Bugalskiego", -440], ["hejto.pl", -409], ["ŁKS Łódź", -400], ["Historia Realna - Piotr Zychowicz", -375], ["Marcin Strzyżewski", -320], ["tenmelon", -277], ["Fundacja \"Theravada\"", -230], ["Poglebiarka.pl", 550], ["Karolina Korwin Piotrowska ", 750], ["Witold Gadowski", 790], ["Ciekawe Historie", 849], ["Hubert Więcek", 850], ["Dzieci Świata - Marzena Figiel", 862], ["Radio 357", 955], ["Moto Addicts", 1030], ["KEZUVLOG - Poszukując prawdy...", 1040], ["Dolnośląski Inspektorat Ochrony Zwierząt", 1265]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

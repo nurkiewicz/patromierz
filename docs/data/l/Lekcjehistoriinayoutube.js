@@ -181,4 +181,5 @@ profiles["Lekcjehistoriinayoutube"] = [
 	[1679066501,15,2,7.5,null,null],
 	[1679304025,15,2,7.5,null,null],
 	[1679387416,15,2,7.5,null,null],
+	[1679496064,15,2,7.5,null,null],
 ];

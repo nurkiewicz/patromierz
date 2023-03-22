@@ -76,4 +76,5 @@ profiles["WojskoweOpowiastki"] = [
 	[1679067987,null,1,null,300,-3.0],
 	[1679305603,null,1,null,300,-2.0],
 	[1679388974,null,1,null,300,-2.0],
+	[1679505660,null,1,null,300,-2.0],
 ];
