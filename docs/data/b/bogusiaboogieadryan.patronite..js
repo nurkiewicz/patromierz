@@ -78,4 +78,5 @@ profiles["bogusiaboogieadryan.patronite."] = [
 	[1679386417,20,1,20.0,60,null],
 	[1679495091,20,1,20.0,60,null],
 	[1679559308,20,1,20.0,60,null],
+	[1679653477,null,1,null,60,null],
 ];
