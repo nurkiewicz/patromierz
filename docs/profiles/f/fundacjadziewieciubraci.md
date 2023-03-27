@@ -1,5 +1,5 @@
 ---
-title: "Fundacja Dziewi\u0119ciu Braci | Patromierz"
+title: "Fundacja Dziewi\u0119ciu Braci | Statystyki patronite.pl | Patromierz"
 
 permalink: /fundacjadziewieciubraci
 ---

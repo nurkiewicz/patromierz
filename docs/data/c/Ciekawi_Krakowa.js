@@ -402,4 +402,5 @@ profiles["Ciekawi_Krakowa"] = [
 	[1679495177,null,1,null,1286,null],
 	[1679559405,null,1,null,1286,null],
 	[1679653563,null,1,null,1286,null],
+	[1679905929,null,1,null,1286,null],
 ];
