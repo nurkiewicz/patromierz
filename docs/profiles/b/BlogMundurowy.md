@@ -1,5 +1,5 @@
 ---
-title: Blog Mundurowy  | Patromierz
+title: Blog Mundurowy  | Statystyki patronite.pl | Patromierz
 
 permalink: /BlogMundurowy
 ---

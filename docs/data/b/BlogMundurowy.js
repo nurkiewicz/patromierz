@@ -175,4 +175,5 @@ profiles["BlogMundurowy"] = [
 	[1670033729,10,1,10.0,60,null],
 	[1670119933,null,1,null,60,null],
 	[1670206453,null,1,null,60,null],
+	[1679962632,20,1,20.0,80,null],
 ];
