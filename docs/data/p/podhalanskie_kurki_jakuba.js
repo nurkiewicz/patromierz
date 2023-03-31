@@ -77,4 +77,6 @@ profiles["podhalanskie_kurki_jakuba"] = [
 	[1679907549,5,1,5.0,15,null],
 	[1679975372,5,1,5.0,15,null],
 	[1680076737,5,1,5.0,15,null],
+	[1680162821,null,1,null,15,null],
+	[1680249989,null,1,null,15,null],
 ];

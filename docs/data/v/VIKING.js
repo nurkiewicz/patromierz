@@ -402,4 +402,6 @@ profiles["VIKING"] = [
 	[1679908306,25,null,null,1365,null],
 	[1679981363,25,null,null,1365,null],
 	[1680077498,25,null,null,1365,null],
+	[1680163599,25,null,null,1365,null],
+	[1680250850,25,1,25.0,1390,null],
 ];
