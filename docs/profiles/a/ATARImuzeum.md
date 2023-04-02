@@ -1,5 +1,5 @@
 ---
-title: ATARI Muzeum | Patromierz
+title: ATARI Muzeum | Statystyki patronite.pl | Patromierz
 
 permalink: /ATARImuzeum
 ---

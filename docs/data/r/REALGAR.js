@@ -70,4 +70,5 @@ profiles["REALGAR"] = [
 	[1649041347,null,null,null,120,null],
 	[1649068483,null,null,null,120,null],
 	[1680322402,20,1,20.0,140,null],
+	[1680437500,20,1,20.0,140,null],
 ];

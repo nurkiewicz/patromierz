@@ -1,5 +1,5 @@
 ---
-title: Monika Chojecka | Patromierz
+title: Monika Chojecka | Statystyki patronite.pl | Patromierz
 
 permalink: /KeepItalian
 ---
