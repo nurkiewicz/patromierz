@@ -251,4 +251,5 @@ profiles["Seatclub"] = [
 	[1665627691,20,null,null,1100,null],
 	[1665714189,20,null,null,1100,null],
 	[1665800397,20,null,null,1100,null],
+	[1680508971,20,1,20.0,1120,null],
 ];
