@@ -1,5 +1,5 @@
 ---
-title: Nauka na talerzu - Marta Szumiata | Patromierz
+title: Nauka na talerzu - Marta Szumiata | Statystyki patronite.pl | Patromierz
 
 permalink: /naukanatalerzu
 ---
