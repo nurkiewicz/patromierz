@@ -410,4 +410,5 @@ profiles["czarniolecko"] = [
 	[1680687575,20,1,20.0,1200,null],
 	[1680765470,null,1,null,1200,null],
 	[1680854862,null,1,null,1200,null],
+	[1681199825,null,1,null,1200,null],
 ];

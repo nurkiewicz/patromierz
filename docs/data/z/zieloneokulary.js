@@ -410,4 +410,5 @@ profiles["zieloneokulary"] = [
 	[1680690274,20,null,null,2510,null],
 	[1680768180,20,null,null,2510,null],
 	[1680857770,20,null,null,2510,null],
+	[1681202537,20,1,20.0,2530,null],
 ];

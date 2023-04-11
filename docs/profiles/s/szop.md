@@ -1,5 +1,5 @@
 ---
-title: SzopDemaskuje | Patromierz
+title: SzopDemaskuje | Statystyki patronite.pl | Patromierz
 
 permalink: /szop
 ---
