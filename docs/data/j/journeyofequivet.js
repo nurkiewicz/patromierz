@@ -232,4 +232,5 @@ profiles["journeyofequivet"] = [
 	[1680766115,15,1,15.0,135,null],
 	[1680855547,15,1,15.0,135,null],
 	[1681200476,null,1,null,135,null],
+	[1681263749,null,1,null,135,null],
 ];

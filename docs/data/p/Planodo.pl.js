@@ -94,4 +94,5 @@ profiles["Planodo.pl"] = [
 	[1680767089,10,1,10.0,40,null],
 	[1680856571,null,1,null,40,null],
 	[1681201439,null,1,null,40,null],
+	[1681270470,null,1,null,40,null],
 ];
