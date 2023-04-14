@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["fancon_pl"] = [
 	[1681260838,45,3,15.0,45,null],
 	[1681371949,145,4,36.25,145,null],
+	[1681466330,145,4,36.25,145,null],
 ];

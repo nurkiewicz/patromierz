@@ -1,4 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Tactical-Beardman-Movement"] = [
 	[1681374021,10,1,10.0,10,null],
+	[1681468469,10,1,10.0,10,null],
 ];

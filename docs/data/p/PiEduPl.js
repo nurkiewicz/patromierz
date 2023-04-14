@@ -317,4 +317,5 @@ profiles["PiEduPl"] = [
 	[1681201402,5,null,null,55,null],
 	[1681270213,5,null,null,55,null],
 	[1681373306,5,null,null,55,null],
+	[1681467748,5,1,5.0,60,null],
 ];
