@@ -1,4 +1,8 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["AlteracjeBarnabiArt"] = [
 	[1681465683,100,1,100.0,100,null],
+	[1681515992,100,1,100.0,100,null],
+	[1681602466,100,1,100.0,100,null],
+	[1681688619,100,1,100.0,100,null],
+	[1681803618,100,1,100.0,100,null],
 ];
