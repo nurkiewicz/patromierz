@@ -43,4 +43,5 @@ profiles["genealogiajankowskiego"] = [
 	[1681693807,200,1,200.0,400,null],
 	[1681804347,null,1,null,400,-6.0],
 	[1681866929,null,1,null,400,-6.0],
+	[1681978839,null,1,null,400,-6.0],
 ];
