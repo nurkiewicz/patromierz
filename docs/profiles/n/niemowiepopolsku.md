@@ -1,9 +1,9 @@
 ---
-title: Gokhan Mollaoglu | Statystyki patronite.pl | Patromierz
+title: "Nie M\xF3wi\u0119 Po Polsku | Statystyki patronite.pl | Patromierz"
 
 permalink: /niemowiepopolsku
 ---
 
-# [Gokhan Mollaoglu](https://patronite.pl/niemowiepopolsku)
+# [Nie Mówię Po Polsku](https://patronite.pl/niemowiepopolsku)
 
 {% include profile.md name="niemowiepopolsku" prefix="n" %}
