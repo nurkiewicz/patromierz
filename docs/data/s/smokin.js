@@ -69,4 +69,5 @@ profiles["smokin"] = [
 	[1649052821,null,null,null,50,null],
 	[1649071578,null,null,null,50,null],
 	[1682271661,20,1,20.0,70,null],
+	[1682330201,20,1,20.0,70,null],
 ];
