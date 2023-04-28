@@ -49,7 +49,7 @@ profiles["kochamtarnobrzeg"] = [
 	[1647326280,null,null,null,126,null],
 	[1647413033,null,null,null,126,null],
 	[1647499356,null,null,null,126,null],
-	[1647585843,null,null,null,126,null],
+	[1647585842,null,null,null,126,null],
 	[1647672199,null,null,null,126,null],
 	[1647758555,null,null,null,126,null],
 	[1647844833,null,null,null,126,null],
@@ -103,4 +103,5 @@ profiles["kochamtarnobrzeg"] = [
 	[1682328345,5,1,5.0,136,null],
 	[1682502621,30,1,30.0,161,1.0],
 	[1682590871,30,1,30.0,161,1.0],
+	[1682647641,30,1,30.0,161,1.0],
 ];
