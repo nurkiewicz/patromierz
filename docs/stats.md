@@ -19,52 +19,51 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/s/Samolyk.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/a/agnieszkazebradziadek.js"></script>
-<script type="text/javascript" src="data/s/spalmyto.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/s/strzelnicatv.js"></script>
-<script type="text/javascript" src="data/s/spoilermaster.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 <script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/f/FRAGOUT.js"></script>
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/s/StrataCzasu.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/k/Krajski.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/m/Marcin_Przybylek.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/n/NaukowoTV.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/m/miloszszymanski.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
+<script type="text/javascript" src="data/s/Samolyk.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/j/jakubwiech.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/s/StrataCzasu.js"></script>
+<script type="text/javascript" src="data/m/Marcin_Przybylek.js"></script>
+<script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
+<script type="text/javascript" src="data/s/strzelnicatv.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
+<script type="text/javascript" src="data/e/Effatha_gliwice.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/a/agnieszkazebradziadek.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/Krajski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Agnieszka \"Zebra\" Dziadek", -940], ["Stanisław Krajski", -870], ["Spalmy to!", -700], ["Joanna Flis", -650], ["Dolnośląski Inspektorat Ochrony Zwierząt", -640], ["Strata Czasu", -510], ["Fundacja Nautilus", -475], ["Marcin Sergiusz Przybyłek", -450], ["Grupa Filmowa Darwin ", -419], ["Cash", -380], ["FRAG OUT! Magazine", 510], ["NaukowoTV", 535], ["Dariusz Rosiak", 540], ["Strzelnica Tv", 570], ["Dobry wieczór Europo!", 689], ["Karolina Korwin Piotrowska ", 810], ["Dwie Lewe Ręce", 1750], ["Dudek o Historii", 2550], ["Radio Nowy Świat", 4038], ["Radio 357", 37506]], 'largest_changes');
+            drawHorizontal([["Agnieszka \"Zebra\" Dziadek", -935], ["Stanisław Krajski", -890], ["Dolnośląski Inspektorat Ochrony Zwierząt", -700], ["Joanna Flis", -660], ["Strata Czasu", -510], ["Marcin Sergiusz Przybyłek", -500], ["kyudo", -500], ["Fundacja Nautilus", -480], ["Marcin Zieliński", -390], ["Tomasz Samołyk", -365], ["Effatha Gliwice", 500], ["Strzelnica Tv", 520], ["Jakub Wiech", 593], ["Radio Nowy Świat", 735], ["Karolina Korwin Piotrowska ", 740], ["Dobry wieczór Europo!", 803], ["Dariusz Rosiak", 1350], ["Dwie Lewe Ręce", 1725], ["Dudek o Historii", 2540], ["Radio 357", 38307]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['langustanapalmie','marcinzielinski','UsłyszećNaCzas','Vlogcasha','VirtualDream','sekielski','rockserwisfm','radionaukowe','historiarealna','Zmierzchu','planetaabstrakcja','TERENWIZJA','karolinakp','Samolyk','Podcastwojennehistorie','portaldominikanie','miloszszymanski','wolskiowojnie','Gadowski','spoilermaster'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','Vlogcasha','VirtualDream','sekielski','accantus','rockserwisfm','radionaukowe','Zmierzchu','historiarealna','brzmienie-swiata','dwochtypow','planetaabstrakcja','poglebiarka','TERENWIZJA'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

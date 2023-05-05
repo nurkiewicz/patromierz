@@ -1,0 +1,5 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["domsztukiorg"] = [
+	[1683157276,25,1,25.0,25,null],
+	[1683250884,25,1,25.0,25,null],
+];

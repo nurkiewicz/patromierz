@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["animamundi"] = [
+	[1683071251,10,1,10.0,10,null],
+	[1683154577,10,1,10.0,10,null],
+	[1683247846,10,1,10.0,10,null],
+];
