@@ -373,4 +373,5 @@ profiles["fundacjadzieciompomagaj"] = [
 	[1683075865,10,1,10.0,475,-1.0],
 	[1683158694,10,null,null,475,-1.0],
 	[1683252470,10,null,null,475,null],
+	[1683339152,10,null,null,475,null],
 ];
