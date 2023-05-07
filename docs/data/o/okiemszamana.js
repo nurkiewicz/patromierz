@@ -1,4 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["okiemszamana"] = [
 	[1683347258,20,1,20.0,20,null],
+	[1683433096,50,4,12.5,50,null],
 ];

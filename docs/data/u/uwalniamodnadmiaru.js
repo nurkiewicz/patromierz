@@ -223,4 +223,5 @@ profiles["uwalniamodnadmiaru"] = [
 	[1683091009,10,1,10.0,290,null],
 	[1683267589,null,1,null,290,null],
 	[1683354703,null,1,null,290,null],
+	[1683440292,null,1,null,290,null],
 ];
