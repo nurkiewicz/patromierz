@@ -1,5 +1,5 @@
 ---
-title: "Wilczyc\u0105 By\u0107 | Patromierz"
+title: "Wilczyc\u0105 By\u0107 | Statystyki patronite.pl | Patromierz"
 
 permalink: /wilczyca_byc
 ---

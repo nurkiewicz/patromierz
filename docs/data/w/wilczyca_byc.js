@@ -148,4 +148,5 @@ profiles["wilczyca_byc"] = [
 	[1655788707,null,1,null,1470,null],
 	[1655875168,null,1,null,1470,null],
 	[1655961814,null,1,null,1470,null],
+	[1683528245,10,1,10.0,1480,null],
 ];
