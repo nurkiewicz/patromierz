@@ -105,4 +105,5 @@ profiles["maniek"] = [
 	[1683430352,50,1,50.0,300,null],
 	[1683517282,50,null,null,300,null],
 	[1683603248,50,null,null,300,null],
+	[1683689793,50,null,null,300,null],
 ];
