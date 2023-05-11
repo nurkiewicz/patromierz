@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["www.twitch.tvgiguutv"] = [
 	[1683614561,100,1,100.0,100,null],
 	[1683701169,100,1,100.0,100,null],
+	[1683787829,100,1,100.0,100,null],
 ];
