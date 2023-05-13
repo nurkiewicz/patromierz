@@ -1,9 +1,9 @@
 ---
-title: Bartosz Socha | Statystyki patronite.pl | Patromierz
+title: Okiem Szamana - Bartosz Socha | Statystyki patronite.pl | Patromierz
 
 permalink: /okiemszamana
 ---
 
-# [Bartosz Socha](https://patronite.pl/okiemszamana)
+# [Okiem Szamana - Bartosz Socha](https://patronite.pl/okiemszamana)
 
 {% include profile.md name="okiemszamana" prefix="o" %}
