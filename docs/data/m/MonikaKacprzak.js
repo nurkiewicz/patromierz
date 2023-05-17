@@ -108,4 +108,5 @@ profiles["MonikaKacprzak"] = [
 	[1683950444,null,1,null,60,null],
 	[1684036896,null,1,null,60,null],
 	[1684123130,null,1,null,60,null],
+	[1684295855,10,1,10.0,70,null],
 ];
