@@ -275,4 +275,5 @@ profiles["ucieczkadoraju"] = [
 	[1663479371,null,1,null,20350,null],
 	[1663566229,null,1,null,20350,null],
 	[1663652566,null,1,null,20350,null],
+	[1684477563,10,1,10.0,20360,null],
 ];
