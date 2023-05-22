@@ -450,4 +450,5 @@ profiles["FundacjaDlaWszystkich"] = [
 	[1684462304,null,1,null,378,-1.0],
 	[1684548543,null,1,null,378,-1.0],
 	[1684635211,null,1,null,378,-1.0],
+	[1684721665,null,1,null,378,-1.0],
 ];
