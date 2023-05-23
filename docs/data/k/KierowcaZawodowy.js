@@ -70,4 +70,5 @@ profiles["KierowcaZawodowy"] = [
 	[1684551468,5,1,5.0,15,null],
 	[1684638348,5,1,5.0,15,null],
 	[1684724742,null,1,null,15,null],
+	[1684810862,null,1,null,15,null],
 ];
