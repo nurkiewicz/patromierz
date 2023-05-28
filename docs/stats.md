@@ -19,51 +19,50 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/s/sekielski.js"></script>
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/p/PlanszoweNewsy.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/w/WspolnotaRTCK.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/t/twojanowaswiadomosc.js"></script>
-<script type="text/javascript" src="data/f/foodini.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/s/samiecbeta.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/m/moliwukrainie.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/m/maxliga.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 <script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="data/r/rocker.js"></script>
-<script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/r/raczek.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 <script type="text/javascript" src="data/a/AlekTemkin.js"></script>
+<script type="text/javascript" src="data/s/samiecbeta.js"></script>
+<script type="text/javascript" src="data/w/WspolnotaRTCK.js"></script>
+<script type="text/javascript" src="data/p/PlanszoweNewsy.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/m/moliwukrainie.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/f/foodini.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/m/maxliga.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Marcin Zieliński | Fundacja Rozpal Wiarę", -1490], ["Samiec Beta", -975], ["Radio Nowy Świat", -901], ["Cash", -570], ["TwojaNowaŚwiadomość ", -511], ["Aleksander Temkin", -500], ["Maxliga Warriors", -500], ["Rocker", -500], ["Virtual Dream - Piotr Łój", -475], ["Wspólnota RTCK", -445], ["Foodini", 368], ["Mateusz Lachowski", 403], ["Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery", 420], ["Dwie Lewe Ręce", 450], ["Tomasz Raczek", 460], ["Paweł Moliński", 520], ["Fundacja po DRUGIE", 549], ["Radio 357", 663], ["Dudek o Historii", 828], ["Planszowe Newsy", 1380]], 'largest_changes');
+            drawHorizontal([["Marcin Zieliński | Fundacja Rozpal Wiarę", -1310], ["Samiec Beta", -965], ["Radio Nowy Świat", -850], ["Dolnośląski Inspektorat Ochrony Zwierząt", -575], ["Aleksander Temkin", -500], ["Maxliga Warriors", -500], ["Rocker", -500], ["Cash", -495], ["Wspólnota RTCK", -465], ["Virtual Dream - Piotr Łój", -430], ["Mateusz Lachowski", 306], ["Jan Śpiewak", 337], ["Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery", 380], ["Foodini", 424], ["Karolina Korwin Piotrowska ", 465], ["Fundacja po DRUGIE", 474], ["Dwie Lewe Ręce", 500], ["Paweł Moliński", 520], ["Dudek o Historii", 828], ["Planszowe Newsy", 1400]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','Vlogcasha','VirtualDream','sekielski','accantus','radionaukowe','rockserwisfm','Zmierzchu','brzmienie-swiata','karolinakp','historiarealna','poglebiarka','dwochtypow','planetaabstrakcja'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','Vlogcasha','VirtualDream','sekielski','accantus','radionaukowe','rockserwisfm','Zmierzchu','karolinakp','brzmienie-swiata','historiarealna','poglebiarka','dwochtypow','planetaabstrakcja'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
