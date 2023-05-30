@@ -1,9 +1,9 @@
 ---
-title: Festiwal Akcja Empatia | Statystyki patronite.pl | Patromierz
+title: Festiwal Empatii | Statystyki patronite.pl | Patromierz
 
 permalink: /festiwalempatia
 ---
 
-# [Festiwal Akcja Empatia](https://patronite.pl/festiwalempatia)
+# [Festiwal Empatii](https://patronite.pl/festiwalempatia)
 
 {% include profile.md name="festiwalempatia" prefix="f" %}
