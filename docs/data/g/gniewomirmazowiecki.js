@@ -170,4 +170,5 @@ profiles["gniewomirmazowiecki"] = [
 	[1684462922,null,1,null,75,null],
 	[1684549160,null,1,null,75,null],
 	[1685499668,5,1,5.0,80,null],
+	[1685586169,5,1,5.0,80,null],
 ];
