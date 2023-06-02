@@ -1,5 +1,5 @@
 ---
-title: "S\u0141OWO FILOZOFA | Patromierz"
+title: "S\u0141OWO FILOZOFA | Statystyki patronite.pl | Patromierz"
 
 permalink: /slowo-filozofa
 ---

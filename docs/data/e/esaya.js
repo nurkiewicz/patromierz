@@ -179,4 +179,5 @@ profiles["esaya"] = [
 	[1684806999,75,null,null,360,null],
 	[1684893513,75,null,null,360,null],
 	[1684979765,75,null,null,360,null],
+	[1685670803,75,1,75.0,435,null],
 ];
