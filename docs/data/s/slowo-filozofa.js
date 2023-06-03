@@ -91,4 +91,5 @@ profiles["slowo-filozofa"] = [
 	[1660626457,null,1,null,15,null],
 	[1660713156,null,1,null,15,null],
 	[1685684486,5,1,5.0,20,null],
+	[1685771938,5,1,5.0,20,null],
 ];
