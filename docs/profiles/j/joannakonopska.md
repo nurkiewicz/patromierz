@@ -1,5 +1,5 @@
 ---
-title: Joanna Konopska | Patromierz
+title: Joanna Konopska | Statystyki patronite.pl | Patromierz
 
 permalink: /joannakonopska
 ---
