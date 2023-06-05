@@ -410,4 +410,5 @@ profiles["korrespondent-warszawski"] = [
 	[1685675180,null,1,null,2060,-2.0],
 	[1685762059,null,1,null,2060,-2.0],
 	[1685848379,null,1,null,2060,-2.0],
+	[1685934736,null,1,null,2060,-2.0],
 ];
