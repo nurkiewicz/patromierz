@@ -1,0 +1,4 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["WarszawskiKlubGo"] = [
+	[1686033253,250,6,41.66,250,null],
+];
