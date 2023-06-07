@@ -61,4 +61,5 @@ profiles["przmk"] = [
 	[1685856088,50,null,null,100,null],
 	[1685942409,50,null,null,100,null],
 	[1686028705,50,null,null,100,null],
+	[1686115152,50,1,50.0,150,null],
 ];
