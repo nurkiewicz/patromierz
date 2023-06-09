@@ -80,4 +80,5 @@ profiles["Stajnia_Jasyr"] = [
 	[1686030925,10,1,10.0,30,null],
 	[1686117414,10,1,10.0,30,null],
 	[1686203642,null,1,null,30,null],
+	[1686290385,null,1,null,30,null],
 ];
