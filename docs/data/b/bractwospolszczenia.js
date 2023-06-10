@@ -469,4 +469,5 @@ profiles["bractwospolszczenia"] = [
 	[1686100845,75,7,10.71,null,null],
 	[1686187114,75,7,10.71,null,null],
 	[1686273555,75,7,10.71,null,null],
+	[1686360159,75,7,10.71,null,null],
 ];
