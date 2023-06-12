@@ -81,4 +81,5 @@ profiles["monikakaluzny.trenerpersonalny"] = [
 	[1686283437,20,1,20.0,60,null],
 	[1686369868,20,1,20.0,60,null],
 	[1686456398,20,1,20.0,60,null],
+	[1686542482,null,1,null,60,-1.0],
 ];
