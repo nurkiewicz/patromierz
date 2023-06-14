@@ -1,5 +1,5 @@
 ---
-title: "Dotyk Obecno\u015Bci | Patromierz"
+title: "Dotyk Obecno\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /dotykobecnosci
 ---

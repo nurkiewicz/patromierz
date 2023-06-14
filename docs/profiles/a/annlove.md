@@ -1,9 +1,9 @@
 ---
-title: Szczerze o relacjach i gotowaniu  | Statystyki patronite.pl | Patromierz
+title: Szczerze o relacjach annlove | Statystyki patronite.pl | Patromierz
 
 permalink: /annlove
 ---
 
-# [Szczerze o relacjach i gotowaniu ](https://patronite.pl/annlove)
+# [Szczerze o relacjach annlove](https://patronite.pl/annlove)
 
 {% include profile.md name="annlove" prefix="a" %}
