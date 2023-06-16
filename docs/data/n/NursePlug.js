@@ -459,4 +459,5 @@ profiles["NursePlug"] = [
 	[1686543744,15,1,15.0,474,null],
 	[1686716775,15,null,null,474,null],
 	[1686803151,15,null,null,474,null],
+	[1686889435,15,null,null,474,null],
 ];
