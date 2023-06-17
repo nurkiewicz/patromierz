@@ -32,4 +32,5 @@ profiles["faniklockow"] = [
 	[1686449010,null,1,null,20,null],
 	[1686535371,null,1,null,20,null],
 	[1686708185,null,1,null,20,null],
+	[1686967292,60,3,20.0,80,2.0],
 ];
