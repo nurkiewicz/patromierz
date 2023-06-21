@@ -19,48 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/g/grandeconnection.js"></script>
-<script type="text/javascript" src="data/f/FundacjaNadzieja.org.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/u/urbexhistory.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/m/moliwukrainie.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/m/malgosiakozlowska.js"></script>
-<script type="text/javascript" src="data/m/mewawlocie.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
 <script type="text/javascript" src="data/l/lepsiezycie.js"></script>
-<script type="text/javascript" src="data/i/igorjanke.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/d/DopokiWalczysz.js"></script>
-<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/h/hs3.js"></script>
-<script type="text/javascript" src="data/k/koroluk.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/g/grandeconnection.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/d/DopokiWalczysz.js"></script>
+<script type="text/javascript" src="data/u/urbexhistory.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 <script type="text/javascript" src="data/n/noniegadaj.js"></script>
+<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
+<script type="text/javascript" src="data/k/koroluk.js"></script>
+<script type="text/javascript" src="data/m/malgosiakozlowska.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/f/FundacjaNadzieja.org.js"></script>
+<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
+<script type="text/javascript" src="data/s/slowfashionsale.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Małgosia Kozłowska", -1000], ["Podcast \"No Nie Gadaj...\"", -975], ["KEZUVLOG - Poszukując prawdy...", -890], ["Radio Nowy Świat", -826], ["GRANDE CONNECTION", -504], ["Fundacja Służby Rodzinie \"Nadzieja\"", -500], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -340], ["Hackerspace Trójmiasto", -320], ["Mewa w locie", -270], ["Igor Janke. Układ Otwarty", -260], ["Karolina Korwin Piotrowska ", 490], ["Dwie Lewe Ręce", 525], ["Koroluk", 550], ["Dopóki Walczysz & Kazania...", 580], ["Urbex History", 617], ["Paweł Moliński", 650], ["Stowarzyszenie lePsie życie", 660], ["Mateusz Lachowski", 817], ["SOWINSKY", 1561], ["Radio 357", 2152]], 'largest_changes');
+            drawHorizontal([["Małgosia Kozłowska", -1000], ["Podcast \"No Nie Gadaj...\"", -975], ["KEZUVLOG - Poszukując prawdy...", -870], ["Fundacja Służby Rodzinie \"Nadzieja\"", -500], ["Hubert Więcek", -500], ["Radio Nowy Świat", -468], ["Pal Hajs TV", -350], ["GRANDE CONNECTION", -327], ["Virtual Dream - Piotr Łój", -310], ["Slow Fashion SALE ", -300], ["Koroluk", 540], ["Karolina Korwin Piotrowska ", 565], ["Dopóki Walczysz & Kazania...", 590], ["Stowarzyszenie lePsie życie", 660], ["Urbex History", 817], ["Mateusz Lachowski", 874], ["Usłyszeć Na Czas", 940], ["Radio 357", 1412], ["SOWINSKY", 1470], ["Fundacja Kosmos dla Dziewczynek", 3505]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
