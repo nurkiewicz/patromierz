@@ -87,4 +87,5 @@ profiles["sailingphantom"] = [
 	[1687153532,5,2,2.5,30,null],
 	[1687239868,5,1,5.0,30,null],
 	[1687326261,null,1,null,30,null],
+	[1687412002,null,1,null,30,null],
 ];
