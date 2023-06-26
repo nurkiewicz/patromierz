@@ -1,5 +1,5 @@
 ---
-title: Piotr Tymcio | Patromierz
+title: Piotr Tymcio | Statystyki patronite.pl | Patromierz
 
 permalink: /PiotrTymcio
 ---

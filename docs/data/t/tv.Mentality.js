@@ -175,4 +175,5 @@ profiles["tv.Mentality"] = [
 	[1687501769,null,1,null,80,null],
 	[1687588669,null,1,null,80,null],
 	[1687674372,null,1,null,80,null],
+	[1687761094,null,1,null,80,null],
 ];

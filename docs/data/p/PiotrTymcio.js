@@ -105,4 +105,5 @@ profiles["PiotrTymcio"] = [
 	[1656461488,25,null,null,470,null],
 	[1656548012,25,null,null,470,null],
 	[1656640302,25,null,null,470,null],
+	[1687755114,10,1,10.0,480,null],
 ];
