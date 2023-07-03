@@ -79,4 +79,5 @@ profiles["soltyslubelszczyzny"] = [
 	[1685858089,10,1,10.0,30,null],
 	[1685944406,null,1,null,30,null],
 	[1686030655,null,1,null,30,null],
+	[1688363163,10,1,10.0,40,null],
 ];
