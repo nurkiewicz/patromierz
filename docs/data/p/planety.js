@@ -495,4 +495,5 @@ profiles["planety"] = [
 	[1688445681,33,null,null,2622,null],
 	[1688532554,33,null,null,2622,null],
 	[1688618952,33,null,null,2622,null],
+	[1688705348,33,1,33.0,2655,null],
 ];

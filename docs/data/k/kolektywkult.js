@@ -494,4 +494,5 @@ profiles["kolektywkult"] = [
 	[1688440236,50,null,null,1250,null],
 	[1688526486,50,null,null,1250,null],
 	[1688612837,50,null,null,1250,null],
+	[1688699295,50,1,50.0,1300,null],
 ];
