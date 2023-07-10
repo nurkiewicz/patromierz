@@ -1,5 +1,5 @@
 ---
-title: Tarka W Drodze | Patromierz - statystyki Patronite.pl
+title: Tarka W Drodze | Statystyki patronite.pl | Patromierz
 
 permalink: /UCbk59Os6vf0Ui73j15Yf_ug
 ---
