@@ -501,4 +501,5 @@ profiles["AnnaBak"] = [
 	[1688864207,5,null,null,920,null],
 	[1688950455,5,null,null,920,null],
 	[1689036722,5,null,null,920,null],
+	[1689123335,5,1,5.0,925,null],
 ];
