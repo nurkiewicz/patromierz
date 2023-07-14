@@ -88,4 +88,5 @@ profiles["fundacjabeztroskapsychoterapia"] = [
 	[1689041478,10,1,10.0,30,null],
 	[1689128136,10,1,10.0,30,null],
 	[1689214330,null,1,null,30,null],
+	[1689300925,null,1,null,30,null],
 ];
