@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["www.krolowafakapu.pl"] = [
 	[1689318199,280,5,56.0,280,null],
 	[1689404515,310,7,44.28,310,null],
+	[1689490286,360,8,45.0,360,null],
 ];
