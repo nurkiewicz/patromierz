@@ -505,4 +505,5 @@ profiles["Piran"] = [
 	[1689310545,5,null,null,4260,null],
 	[1689396938,5,null,null,4260,null],
 	[1689482873,5,null,null,4260,null],
+	[1689569422,5,1,5.0,4265,null],
 ];
