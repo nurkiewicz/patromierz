@@ -88,4 +88,5 @@ profiles["niemowiepopolsku"] = [
 	[1689740366,10,2,5.0,30,null],
 	[1689826804,5,2,2.5,30,null],
 	[1689913092,null,2,null,30,null],
+	[1689999601,null,1,null,30,null],
 ];

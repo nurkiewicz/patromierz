@@ -502,4 +502,5 @@ profiles["WeedWeek"] = [
 	[1689748828,25,null,null,6233,null],
 	[1689835300,25,null,null,6233,null],
 	[1689921575,25,null,null,6233,null],
+	[1690008172,25,null,null,6233,null],
 ];
