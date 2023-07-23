@@ -101,4 +101,5 @@ profiles["_Alderkan_"] = [
 	[1689813688,null,1,null,280,null],
 	[1689899924,null,1,null,280,null],
 	[1689986365,null,1,null,280,null],
+	[1690072806,null,1,null,280,-2.0],
 ];
