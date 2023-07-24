@@ -19,50 +19,50 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/v/v4slav.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
-<script type="text/javascript" src="data/s/SilentHeroesPL.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/p/PawelJezowski.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/i/Introwertyk.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
-<script type="text/javascript" src="data/c/Ciekawehistorie.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
-<script type="text/javascript" src="data/a/anitawu.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/s/spalmyto.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
+<script type="text/javascript" src="data/c/Ciekawehistorie.js"></script>
+<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/h/hubertwiecek.js"></script>
+<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
 <script type="text/javascript" src="data/m/mowisie.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/i/Introwertyk.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
+<script type="text/javascript" src="data/s/spalmyto.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/w/wywiad-z-czlowiekiem-radio-war.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/c/CSM.js"></script>
+<script type="text/javascript" src="data/v/v4slav.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dudek o Historii", -1985], ["Radio 357", -1652], ["Hubert Więcek", -1150], ["Sekielski Brothers Studio", -1115], ["Viacheslav Zarutskii", -1100], ["MIŁOŚNICY", -1000], ["Usłyszeć Na Czas", -820], ["Ciekawe Historie", -590], ["Anitawu", -560], ["SilentHeroesPL", -500], ["Karolina Korwin Piotrowska ", 405], ["Spalmy to!", 430], ["Mówi Się", 450], ["Paweł Jeżowski", 460], ["Piotr Latała", 470], ["Borkoś", 540], ["Dwie Lewe Ręce", 725], ["Langusta na palmie", 1250], ["Damian Duda", 1455], ["Radio Nowy Świat", 2474]], 'largest_changes');
+            drawHorizontal([["Dudek o Historii", -1994], ["Radio 357", -1307], ["Usłyszeć Na Czas", -1290], ["Sekielski Brothers Studio", -1245], ["Hubert Więcek", -1150], ["Viacheslav Zarutskii", -1125], ["CSM/worship", -1100], ["Ciekawe Historie", -580], ["UBoga Podcast", -510], ["Wywiad z Człowiekiem", -501], ["Mówi Się", 370], ["Spalmy to!", 380], ["Piotr Latała", 470], ["Dariusz Rosiak", 500], ["kyudo", 500], ["Karolina Korwin Piotrowska ", 545], ["Borkoś", 560], ["Dwie Lewe Ręce", 1025], ["Damian Duda", 1505], ["Radio Nowy Świat", 2686]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','karolinakp','accantus','VirtualDream','radionaukowe','Vlogcasha','sekielski','rockserwisfm','Zmierzchu','brzmienie-swiata','planetaabstrakcja','Podcastwojennehistorie','poglebiarka','dwochtypow'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','UsłyszećNaCzas','palhajstv','karolinakp','accantus','radionaukowe','VirtualDream','Vlogcasha','rockserwisfm','sekielski','Zmierzchu','brzmienie-swiata','planetaabstrakcja','Podcastwojennehistorie','poglebiarka','dwochtypow'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

@@ -349,4 +349,5 @@ profiles["FlyDroneStudio"] = [
 	[1689905086,20,1,20.0,390,null],
 	[1689991564,20,null,null,390,null],
 	[1690078003,20,null,null,390,null],
+	[1690164560,20,null,null,390,null],
 ];
