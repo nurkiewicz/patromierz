@@ -63,4 +63,5 @@ profiles["www.sama-mama.pl"] = [
 	[1690008986,100,1,100.0,200,null],
 	[1690095376,100,null,null,200,null],
 	[1690182238,100,null,null,200,null],
+	[1690288095,100,null,null,200,null],
 ];

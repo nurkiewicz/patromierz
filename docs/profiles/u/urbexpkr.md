@@ -1,5 +1,5 @@
 ---
-title: Urbex PKR | Patromierz - statystyki Patronite.pl
+title: Urbex PKR | Statystyki patronite.pl | Patromierz
 
 permalink: /urbexpkr
 ---

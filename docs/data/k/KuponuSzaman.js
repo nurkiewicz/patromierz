@@ -89,4 +89,5 @@ profiles["KuponuSzaman"] = [
 	[1689996107,5,1,5.0,105,null],
 	[1690082567,5,1,5.0,105,null],
 	[1690169160,null,1,null,105,null],
+	[1690283879,null,1,null,105,null],
 ];
