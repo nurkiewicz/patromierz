@@ -84,4 +84,5 @@ profiles["rasystaropolskie"] = [
 	[1670135373,10,1,10.0,30,null],
 	[1670221603,null,1,null,30,null],
 	[1670308045,null,1,null,30,null],
+	[1690520740,10,1,10.0,40,null],
 ];

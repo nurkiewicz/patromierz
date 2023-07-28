@@ -1,5 +1,5 @@
 ---
-title: "Przemys\u0142aw Tesak | Patromierz"
+title: "Przemys\u0142aw Tesak | Statystyki patronite.pl | Patromierz"
 
 permalink: /rasystaropolskie
 ---

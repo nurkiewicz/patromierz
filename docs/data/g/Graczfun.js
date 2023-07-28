@@ -382,4 +382,5 @@ profiles["Graczfun"] = [
 	[1677463780,50,null,null,500,null],
 	[1677573143,50,null,null,500,null],
 	[1677636609,50,null,null,500,null],
+	[1690510617,10,1,10.0,510,null],
 ];
