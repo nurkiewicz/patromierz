@@ -440,4 +440,5 @@ profiles["SzukamyUstawek"] = [
 	[1690373188,50,1,50.0,null,null],
 	[1690437183,50,1,50.0,null,null],
 	[1690523056,50,1,50.0,null,null],
+	[1690609207,null,1,null,null,-2.0],
 ];
