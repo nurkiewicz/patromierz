@@ -168,4 +168,5 @@ profiles["fundacjapsiakicudaki"] = [
 	[1688782550,50,null,null,300,null],
 	[1688869141,50,null,null,300,null],
 	[1688955341,50,null,null,300,null],
+	[1690942286,50,1,50.0,350,null],
 ];

@@ -521,4 +521,5 @@ profiles["imagomortis"] = [
 	[1690684129,50,null,null,2220,null],
 	[1690770879,50,null,null,2220,null],
 	[1690857351,50,null,null,2220,null],
+	[1690943576,50,1,50.0,2270,null],
 ];
