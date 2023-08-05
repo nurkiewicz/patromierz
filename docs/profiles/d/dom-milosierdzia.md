@@ -1,5 +1,5 @@
 ---
-title: "Dom Mi\u0142osierdzia w Otmuchowie | Patromierz"
+title: "Dom Mi\u0142osierdzia w Otmuchowie | Statystyki patronite.pl | Patromierz"
 
 permalink: /dom-milosierdzia
 ---
