@@ -1,11 +1,11 @@
 import { Grid, GridOptions } from 'ag-grid-community'
 
-import { google } from 'google-charts';
+import { GoogleCharts } from 'google-charts';
 import { LineChartOptions } from 'google-charts';
 
 declare let profiles: any;
 
-google.charts.load('current', { packages: ['corechart', 'line', 'bar'], language: 'pl' });
+GoogleCharts.load('current', { packages: ['corechart', 'line', 'bar'], language: 'pl' });
 
 const explorer = { 
     actions: ['dragToZoom', 'rightClickToReset'],
@@ -23,7 +23,7 @@ function buildRow(row, column, idx, seriesCount) {
 }
 
 function drawMulti(profileNames, column, id, format) {
-    google.charts.setOnLoadCallback(() => {
+    GoogleCharts.setOnLoadCallback(() => {
         var dt = new google.visualization.DataTable();
         dt.addColumn('date', '');
         profileNames.forEach(name => {
@@ -34,7 +34,7 @@ function drawMulti(profileNames, column, id, format) {
                 .map(row => buildRow(row, column, idx, profileNames.length))
             dt.addRows(rawData);
         });
-        var options = {
+        const options: LineChartOptions = {
             vAxis: {
                 format: format,
             },
@@ -50,7 +50,7 @@ function drawMulti(profileNames, column, id, format) {
 }
 
 function drawBasic(data, column, id, label, format?: string) {
-    google.charts.setOnLoadCallback(() => {
+    GoogleCharts.setOnLoadCallback(() => {
         var dt = new google.visualization.DataTable();
         dt.addColumn('date', '');
         dt.addColumn('number', label);
@@ -69,9 +69,9 @@ function drawBasic(data, column, id, label, format?: string) {
 }
 
 function drawHorizontal(data, id) {
-    google.charts.setOnLoadCallback(() => {
+    GoogleCharts.setOnLoadCallback(() => {
         data.unshift(['Profil', 'Zmiana w ciągu 7 dni']);
-        var materialChart = new google.charts.Bar(document.getElementById(id));
+        var materialChart = new GoogleCharts.Bar(document.getElementById(id));
         materialChart.draw(google.visualization.arrayToDataTable(data), {
             bars: 'horizontal',
             legend: 'none',
