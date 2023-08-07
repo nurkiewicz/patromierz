@@ -525,4 +525,5 @@ profiles["pagor_triathlete"] = [
 	[1691122515,50,1,50.0,3820,null],
 	[1691208704,50,null,null,3820,null],
 	[1691295634,50,null,null,3820,null],
+	[1691381605,50,null,null,3820,null],
 ];
