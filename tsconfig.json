@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "outDir": "./docs/js",
+    "strict": false,
+    "moduleResolution": "Node16"
+  },
+  "include": ["src/**/*.ts"],    
+  "exclude": ["node_modules", "docs"]
+}
