@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["slowziel"] = [
 	[1691299794,5,1,5.0,5,null],
 	[1691385701,5,1,5.0,5,null],
+	[1691472293,5,1,5.0,5,null],
 ];

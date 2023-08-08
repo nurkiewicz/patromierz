@@ -1,9 +1,9 @@
 ---
-title: FUNDACJA TERAZ ULICA | Statystyki patronite.pl | Patromierz
+title: Fundacja Teraz Ulica | Statystyki patronite.pl | Patromierz
 
 permalink: /terazulica
 ---
 
-# [FUNDACJA TERAZ ULICA](https://patronite.pl/terazulica)
+# [Fundacja Teraz Ulica](https://patronite.pl/terazulica)
 
 {% include profile.md name="terazulica" prefix="t" %}

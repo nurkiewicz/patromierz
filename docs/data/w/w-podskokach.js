@@ -322,4 +322,5 @@ profiles["w-podskokach"] = [
 	[1691215161,5,1,5.0,85,null],
 	[1691302282,5,null,null,85,null],
 	[1691388152,5,null,null,85,null],
+	[1691474765,5,null,null,85,null],
 ];
