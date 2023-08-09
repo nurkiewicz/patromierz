@@ -117,4 +117,5 @@ profiles["obalic-depresje"] = [
 	[1691295101,5,1,5.0,20,null],
 	[1691381077,5,1,5.0,20,null],
 	[1691467652,null,1,null,20,null],
+	[1691553704,null,1,null,20,null],
 ];
