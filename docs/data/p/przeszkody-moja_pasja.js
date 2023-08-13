@@ -118,4 +118,5 @@ profiles["przeszkody-moja_pasja"] = [
 	[1691643566,null,1,null,350,-4.0],
 	[1691729771,null,1,null,350,-4.0],
 	[1691816069,null,1,null,350,-4.0],
+	[1691902627,null,1,null,350,-4.0],
 ];
