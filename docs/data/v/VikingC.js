@@ -225,4 +225,5 @@ profiles["VikingC"] = [
 	[1691560719,null,1,null,1841,null],
 	[1691647752,null,1,null,1841,null],
 	[1691733894,null,1,null,1841,null],
+	[1692252333,10,1,10.0,1851,null],
 ];

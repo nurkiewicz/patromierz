@@ -534,4 +534,5 @@ profiles["BibliotekaOssus"] = [
 	[1691889109,15,2,7.5,null,null],
 	[1691975365,15,2,7.5,null,null],
 	[1692148299,15,2,7.5,null,null],
+	[1692234733,15,2,7.5,null,null],
 ];
