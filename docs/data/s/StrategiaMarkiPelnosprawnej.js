@@ -536,4 +536,5 @@ profiles["StrategiaMarkiPelnosprawnej"] = [
 	[1691991046,null,1,null,3630,-1.0],
 	[1692164226,null,1,null,3630,-1.0],
 	[1692250546,null,1,null,3630,-1.0],
+	[1692337357,null,1,null,3630,-1.0],
 ];
