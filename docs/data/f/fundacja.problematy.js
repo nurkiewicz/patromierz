@@ -8,4 +8,5 @@ profiles["fundacja.problematy"] = [
 	[1692151567,100,null,null,100,null],
 	[1692237999,100,null,null,100,null],
 	[1692324542,100,null,null,100,null],
+	[1692410826,100,null,null,100,null],
 ];
