@@ -19,42 +19,43 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/b/bardziejlubieksiazki.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/p/PawelJezowski.js"></script>
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
-<script type="text/javascript" src="data/d/DalekowschodnieRefleksje.js"></script>
-<script type="text/javascript" src="data/e/EvangelistLucasSzczepaniak.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/n/NiechToSzlak.js"></script>
-<script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/m/mieczyslaw_lusiak.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/m/motoaddicts.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/e/EvangelistLucasSzczepaniak.js"></script>
+<script type="text/javascript" src="data/j/JackDaniels.js"></script>
+<script type="text/javascript" src="data/m/Modzelewski.js"></script>
+<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 <script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/n/NiechToSzlak.js"></script>
+<script type="text/javascript" src="data/b/BezSchematu.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/b/bardziejlubieksiazki.js"></script>
+<script type="text/javascript" src="data/p/PawelJezowski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/j/jakubwiech.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -719], ["Radio 357", -706], ["Przez Świat na Fazie", -560], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -515], ["Łukasz Szczepaniak ", -500], ["Niech to Szlak", -500], ["Mieczysław Łusiak SJ", -485], ["Pal Hajs TV", -485], ["Cash", -450], ["Jakub Wiech", -390], ["K3 podcast Dariusza Bugalskiego", 320], ["Podcast Wojenne Historie", 320], ["Dalekowschodnie Refleksje", 350], ["Karolina Korwin Piotrowska ", 365], ["Bardziej Lubię Książki Niż Ludzi", 470], ["Langusta na palmie", 590], ["Fundacja Szopowisko", 605], ["Dział Zagraniczny", 975], ["Dwie Lewe Ręce", 1000], ["Paweł Jeżowski", 1310]], 'largest_changes');
+            drawHorizontal([["Pal Hajs TV", -535], ["Cash", -530], ["Radio Nowy Świat", -513], ["Łukasz Szczepaniak ", -500], ["Niech to Szlak", -500], ["Moto Addicts", -470], ["Radio 357", -428], ["Jakub Wiech", -399], ["Bez/Schematu", -340], ["Rafał \"Jack Daniels\" Gładysz", -340], ["Podcast Wojenne Historie", 350], ["Karol Modzelewski", 355], ["Karolina Korwin Piotrowska ", 370], ["Damian Duda", 450], ["Langusta na palmie", 465], ["Bardziej Lubię Książki Niż Ludzi", 500], ["Paweł Jeżowski", 540], ["Fundacja Szopowisko", 630], ["Dział Zagraniczny", 800], ["Dwie Lewe Ręce", 1000]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
