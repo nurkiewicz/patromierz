@@ -336,4 +336,5 @@ profiles["Nawigacjamorska"] = [
 	[1692331484,10,1,10.0,120,null],
 	[1692417738,10,1,10.0,120,null],
 	[1692503858,null,1,null,120,null],
+	[1692590518,null,1,null,120,null],
 ];
