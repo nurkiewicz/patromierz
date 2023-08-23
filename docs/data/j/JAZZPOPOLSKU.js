@@ -90,4 +90,5 @@ profiles["JAZZPOPOLSKU"] = [
 	[1692499125,10,1,10.0,30,null],
 	[1692585672,10,1,10.0,30,null],
 	[1692671907,null,1,null,30,null],
+	[1692758471,null,1,null,30,null],
 ];
