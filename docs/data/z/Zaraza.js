@@ -69,4 +69,5 @@ profiles["Zaraza"] = [
 	[1649042965,null,null,null,875,null],
 	[1649068917,null,null,null,875,null],
 	[1692772290,15,1,15.0,890,null],
+	[1692858594,15,1,15.0,890,null],
 ];
