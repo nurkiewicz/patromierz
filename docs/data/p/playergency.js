@@ -175,4 +175,5 @@ profiles["playergency"] = [
 	[1692678603,3,null,null,766,null],
 	[1692765167,3,null,null,766,null],
 	[1692851406,3,null,null,766,null],
+	[1692937816,3,1,3.0,769,null],
 ];

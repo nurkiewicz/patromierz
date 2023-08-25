@@ -542,4 +542,5 @@ profiles["sensownieosamochodach"] = [
 	[1692681467,5,null,null,395,null],
 	[1692768107,5,null,null,395,null],
 	[1692854333,5,null,null,395,null],
+	[1692940750,5,null,null,395,null],
 ];
