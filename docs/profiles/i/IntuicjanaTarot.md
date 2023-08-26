@@ -1,5 +1,5 @@
 ---
-title: Intuicjana Inti Tarot | Patromierz
+title: Intuicjana Inti Tarot | Statystyki patronite.pl | Patromierz
 
 permalink: /IntuicjanaTarot
 ---
