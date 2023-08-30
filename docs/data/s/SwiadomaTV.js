@@ -345,4 +345,5 @@ profiles["SwiadomaTV"] = [
 	[1693115006,null,1,null,470,null],
 	[1693201562,null,1,null,470,null],
 	[1693287464,null,1,null,470,null],
+	[1693373922,null,1,null,470,null],
 ];
