@@ -19,41 +19,32 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/b/BezSchematu.js"></script>
-<script type="text/javascript" src="data/d/DziejeNevendaar.js"></script>
-<script type="text/javascript" src="data/a/anitawu.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/e/elizamichalik.js"></script>
-<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
 <script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
-<script type="text/javascript" src="data/j/jolaszymanska.js"></script>
-<script type="text/javascript" src="data/i/IntuicjanaTarot.js"></script>
 <script type="text/javascript" src="data/i/igorjanke.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/m/moliwukrainie.js"></script>
-<script type="text/javascript" src="data/k/Karczmarz.js"></script>
 <script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
+<script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/a/anitawu.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
+<script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
 <script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 <script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
-<script type="text/javascript" src="data/k/KL.js"></script>
-<script type="text/javascript" src="data/c/carpigiani.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/k/Karczmarz.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Jakub Wiech", -1000], ["DziejeNevendaar", -250], ["Lista Carpigiani", -150], ["Jola Szymańska", -150], ["Kultura Liberalna", -140], ["Bez/Schematu", -120], ["Eliza Michalik", 125], ["Karolina Korwin Piotrowska ", 125], ["Dział Zagraniczny", 155], ["Paweł Moliński", 200], ["Lista Carpigiani", -150], ["Jola Szymańska", -150], ["Kultura Liberalna", -140], ["Bez/Schematu", -120], ["Eliza Michalik", 125], ["Karolina Korwin Piotrowska ", 125], ["Dział Zagraniczny", 155], ["Paweł Moliński", 200], ["Dwie Lewe Ręce", 225], ["Intuicjana Inti Tarot", 500]], 'largest_changes');
+            drawHorizontal([], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
