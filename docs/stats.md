@@ -19,27 +19,27 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
+<script type="text/javascript" src="data/d/dwochtypow.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/k/K3.js"></script>
+<script type="text/javascript" src="data/a/anitawu.js"></script>
+<script type="text/javascript" src="data/k/Karczmarz.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/i/igorjanke.js"></script>
+<script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
 <script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/d/dwochtypow.js"></script>
-<script type="text/javascript" src="data/i/igorjanke.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
-<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/a/anitawu.js"></script>
-<script type="text/javascript" src="data/k/Karczmarz.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/a/astrolife.js"></script>
 
 <script type="text/javascript">
