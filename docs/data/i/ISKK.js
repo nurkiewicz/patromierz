@@ -93,4 +93,5 @@ profiles["ISKK"] = [
 	[1651021033,null,1,null,15,null],
 	[1695179053,null,1,null,20,null],
 	[1695265056,null,1,null,20,null],
+	[1695351726,null,1,null,20,null],
 ];

@@ -69,4 +69,5 @@ profiles["e-prawapracownika"] = [
 	[1649045192,null,null,null,15,null],
 	[1649069499,null,null,null,15,null],
 	[1695261816,5,1,5.0,20,null],
+	[1695348461,5,1,5.0,20,null],
 ];

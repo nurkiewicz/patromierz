@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["SNM"] = [
 	[1695191489,225,7,32.14,225,null],
 	[1695273498,225,7,32.14,225,null],
+	[1695364053,225,7,32.14,225,null],
 ];

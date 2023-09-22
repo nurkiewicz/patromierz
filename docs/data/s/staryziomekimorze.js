@@ -2,4 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["staryziomekimorze"] = [
 	[1695191921,315,8,39.37,420,null],
 	[1695273928,315,8,39.37,420,null],
+	[1695364485,315,8,39.37,430,null],
 ];
