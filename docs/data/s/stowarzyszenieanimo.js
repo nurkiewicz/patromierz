@@ -553,4 +553,5 @@ profiles["stowarzyszenieanimo"] = [
 	[1695192016,15,1,15.0,null,null],
 	[1695274020,15,1,15.0,null,null],
 	[1695364576,30,2,15.0,null,null],
+	[1695451466,30,2,15.0,null,null],
 ];

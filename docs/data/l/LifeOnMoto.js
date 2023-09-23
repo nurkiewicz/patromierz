@@ -18,4 +18,5 @@ profiles["LifeOnMoto"] = [
 	[1649039725,null,null,null,120,null],
 	[1649068052,null,null,null,120,null],
 	[1695354664,30,1,30.0,150,null],
+	[1695441258,30,1,30.0,150,null],
 ];
