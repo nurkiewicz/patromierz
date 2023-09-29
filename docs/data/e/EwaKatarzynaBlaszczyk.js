@@ -42,4 +42,5 @@ profiles["EwaKatarzynaBlaszczyk"] = [
 	[1695688556,380,8,47.5,null,null],
 	[1695780727,380,8,47.5,null,null],
 	[1695867072,380,8,47.5,null,null],
+	[1695953476,380,8,47.5,null,-1.0],
 ];

@@ -557,4 +557,5 @@ profiles["MaratonamiDoRzymu"] = [
 	[1695693481,20,1,20.0,710,null],
 	[1695787445,20,1,20.0,710,null],
 	[1695873678,20,null,null,710,null],
+	[1695960218,20,null,null,710,null],
 ];
