@@ -1,9 +1,9 @@
 ---
-title: "Sebastian Stromid\u0142o | Statystyki patronite.pl | Patromierz"
+title: "Podcast W stron\u0119 Ultra | Statystyki patronite.pl | Patromierz"
 
 permalink: /WstroneUltra-podcast
 ---
 
-# [Sebastian Stromidło](https://patronite.pl/WstroneUltra-podcast)
+# [Podcast W stronę Ultra](https://patronite.pl/WstroneUltra-podcast)
 
 {% include profile.md name="WstroneUltra-podcast" prefix="w" %}
