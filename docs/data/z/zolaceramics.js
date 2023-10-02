@@ -560,4 +560,5 @@ profiles["zolaceramics"] = [
 	[1695973456,20,null,null,875,null],
 	[1696060849,20,null,null,875,null],
 	[1696146540,20,null,null,875,null],
+	[1696233270,20,1,20.0,895,null],
 ];
