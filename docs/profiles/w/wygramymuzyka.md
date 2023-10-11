@@ -1,5 +1,5 @@
 ---
-title: "Wygramy Muzyk\u0105 | Patromierz"
+title: "Wygramy Muzyk\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /wygramymuzyka
 ---

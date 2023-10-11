@@ -1,4 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["www.oczamibrata.pl"] = [
 	[1696923604,200,4,50.0,325,null],
+	[1697010128,200,4,50.0,325,null],
 ];
