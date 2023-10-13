@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["psychodeliki"] = [
 	[1696917542,355,7,50.71,355,null],
-	[1697090467,600,19,31.57,600,null],
+	[1697176848,715,26,27.5,715,null],
 ];

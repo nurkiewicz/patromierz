@@ -159,4 +159,5 @@ profiles["facetkaodbiologii"] = [
 	[1693015115,10,1,10.0,300,null],
 	[1693101427,null,1,null,300,null],
 	[1693187949,null,1,null,300,null],
+	[1697163536,5,1,5.0,305,null],
 ];

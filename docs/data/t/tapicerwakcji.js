@@ -565,5 +565,5 @@ profiles["tapicerwakcji"] = [
 	[1696488693,10,1,10.0,1040,null],
 	[1696575557,null,1,null,1040,null],
 	[1696920940,null,1,null,1040,null],
-	[1697093914,null,1,null,1040,null],
+	[1697180223,null,1,null,1040,null],
 ];
