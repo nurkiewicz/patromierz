@@ -1,5 +1,5 @@
 ---
-title: "Manua\u0142 Zielarski | Patromierz"
+title: "Manua\u0142 Zielarski | Statystyki patronite.pl | Patromierz"
 
 permalink: /ManualZielarski
 ---
