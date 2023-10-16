@@ -514,4 +514,5 @@ profiles["GKSZawisza"] = [
 	[1690079013,20,null,null,400,null],
 	[1690165538,20,null,null,400,null],
 	[1690279260,20,null,null,400,null],
+	[1697424267,20,1,20.0,420,null],
 ];
