@@ -19,49 +19,49 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/r/RadoslawPyffel.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/c/czabanrobiraban.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/p/prawnik.przedsiebiorcow.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/s/spalmyto.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/g/GB3.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 <script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/c/Connection5d.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/r/RadoslawPyffel.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 <script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/o/ORB.js"></script>
-<script type="text/javascript" src="data/g/GB3.js"></script>
-<script type="text/javascript" src="data/k/kyudo.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/t/TEDENOVELA.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/DominikMaluje.js"></script>
-<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/m/michalmarszal.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/b/BezSchematu.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Tymek Kucharczyk - kierowca wyścigowy", -1980], ["Radosław Pyffel", -1055], ["Usłyszeć Na Czas", -760], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -725], ["Cezary Gutowski", -590], ["Prawnik.przedsiebiorcow", -510], ["kyudo", -500], ["DOMINIK MALUJE", -499], ["Historia Realna - Piotr Zychowicz", -380], ["Langusta na palmie", -350], ["Fundacja Szopowisko", 760], ["Piotr Czaban", 780], ["Bez/Schematu", 980], ["Radio Nowy Świat", 1035], ["ORB", 1105], ["BezPlanu", 1270], ["Jarosław Wolski", 1380], ["Sekielski Brothers Studio", 1920], ["Wojciech Szewko", 2340], ["Dwie Lewe Ręce", 3150]], 'largest_changes');
+            drawHorizontal([["Michał Marszał", -2127], ["Tymek Kucharczyk - kierowca wyścigowy", -2000], ["Radosław Pyffel", -1005], ["Usłyszeć Na Czas", -780], ["kyudo", -500], ["Prawnik.przedsiebiorcow", -435], ["Spalmy to!", -370], ["Tedenovela", -330], ["Langusta na palmie", -310], ["Beata i Hubert", -300], ["Jarosław Wolski", 740], ["Liga Superbohaterów", 770], ["ORB", 870], ["Dolnośląski Inspektorat Ochrony Zwierząt", 910], ["BezPlanu", 1000], ["Sekielski Brothers Studio", 1040], ["Bez/Schematu", 1060], ["Wojciech Szewko", 1390], ["Radio Nowy Świat", 1593], ["Dwie Lewe Ręce", 2300]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','karolinakp','UsłyszećNaCzas','radionaukowe','dlr','accantus','palhajstv','sekielski','Zmierzchu','Podcastwojennehistorie','Vlogcasha','rockserwisfm','brzmienie-swiata','VirtualDream','wszewko','poglebiarka'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','karolinakp','UsłyszećNaCzas','radionaukowe','dlr','accantus','palhajstv','sekielski','Zmierzchu','Podcastwojennehistorie','rockserwisfm','Vlogcasha','brzmienie-swiata','wszewko','VirtualDream','poglebiarka'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

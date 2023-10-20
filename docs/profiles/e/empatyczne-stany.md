@@ -1,5 +1,5 @@
 ---
-title: "Empatyczne Stany \u015Awiadomo\u015Bci | Patromierz"
+title: "Empatyczne Stany \u015Awiadomo\u015Bci | Statystyki patronite.pl | Patromierz"
 
 permalink: /empatyczne-stany
 ---
