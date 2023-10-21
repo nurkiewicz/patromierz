@@ -1,4 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["KSR"] = [
 	[1697773472,15,1,15.0,15,null],
+	[1697860262,70,4,17.5,70,null],
 ];

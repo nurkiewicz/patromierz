@@ -183,4 +183,5 @@ profiles["Chylozaur"] = [
 	[1697593148,50,1,50.0,350,null],
 	[1697679668,50,null,null,350,null],
 	[1697766054,50,null,null,350,null],
+	[1697852509,50,null,null,350,null],
 ];
