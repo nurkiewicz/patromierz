@@ -579,4 +579,5 @@ profiles["BabaduTV"] = [
 	[1697764492,10,1,10.0,605,null],
 	[1697850894,10,null,null,605,null],
 	[1697937058,10,null,null,605,null],
+	[1698023710,10,null,null,605,null],
 ];
