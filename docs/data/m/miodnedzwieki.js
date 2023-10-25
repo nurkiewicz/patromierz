@@ -334,4 +334,5 @@ profiles["miodnedzwieki"] = [
 	[1697948960,null,1,null,550,null],
 	[1698035289,null,1,null,550,null],
 	[1698121509,null,1,null,550,null],
+	[1698208264,null,1,null,550,-1.0],
 ];
