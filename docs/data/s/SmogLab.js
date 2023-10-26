@@ -70,4 +70,5 @@ profiles["SmogLab"] = [
 	[1649041874,null,null,null,590,null],
 	[1649068623,null,null,null,590,null],
 	[1698215945,20,1,20.0,610,null],
+	[1698302047,20,1,20.0,610,null],
 ];

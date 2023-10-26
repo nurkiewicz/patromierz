@@ -1,9 +1,9 @@
 ---
-title: "Stosunkowo Bliski Wsch\xF3d | Statystyki patronite.pl | Patromierz"
+title: "Stosunkowo Bliski Wsch\xF3d - Jakub Katulski | Statystyki patronite.pl | Patromierz"
 
 permalink: /stosunkowobliskiwschod
 ---
 
-# [Stosunkowo Bliski Wschód](https://patronite.pl/stosunkowobliskiwschod)
+# [Stosunkowo Bliski Wschód - Jakub Katulski](https://patronite.pl/stosunkowobliskiwschod)
 
 {% include profile.md name="stosunkowobliskiwschod" prefix="s" %}

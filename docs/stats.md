@@ -19,51 +19,50 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
-<script type="text/javascript" src="data/m/michalmarszal.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-<script type="text/javascript" src="data/j/JackDaniels.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/d/DopokiWalczysz.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
-<script type="text/javascript" src="data/p/podrozbezpaszportu.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-<script type="text/javascript" src="data/t/TEDENOVELA.js"></script>
-<script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
-<script type="text/javascript" src="data/g/GeekFactor.js"></script>
-<script type="text/javascript" src="data/s/spalmyto.js"></script>
-<script type="text/javascript" src="data/p/paw.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/m/magda-lassota.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/i/Introwertyk.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/j/JackDaniels.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/magda-lassota.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/p/pmJezus.js"></script>
+<script type="text/javascript" src="data/h/haartpoland.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/p/paw.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/b/bezdomnypelikan.js"></script>
+<script type="text/javascript" src="data/d/DopokiWalczysz.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/podrozbezpaszportu.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/g/GeekFactor.js"></script>
+<script type="text/javascript" src="data/p/PolkaWUgandzie.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/a/agatastrzyzewska.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Michał Marszał", -2142], ["Magda Lassota", -1035], ["MIŁOŚNICY", -1000], ["Langusta na palmie", -515], ["Dopóki Walczysz & Kazania...", -490], ["Tedenovela", -440], ["Zespół  PAW", -350], ["Spalmy to!", -225], ["Piotr Latała", -210], ["Rafał \"Jack Daniels\" Gładysz", -200], ["Historia Realna - Piotr Zychowicz", 465], ["Kacper Sztuka Racing", 510], ["Geek Factor", 697], ["Liga Superbohaterów", 830], ["Radio Nowy Świat", 1074], ["BezPlanu", 1200], ["Radio 357", 1620], ["Podróż bez Paszportu", 1690], ["Wojciech Szewko", 1700], ["Dwie Lewe Ręce", 2425]], 'largest_changes');
+            drawHorizontal([["Magda Lassota", -1035], ["MIŁOŚNICY", -1000], ["Dopóki Walczysz & Kazania...", -500], ["Langusta na palmie", -475], ["Zespół  PAW", -350], ["Rafał \"Jack Daniels\" Gładysz", -200], ["Polka w Ugandzie", -200], ["Agata Strzyżewska", -200], ["Bezdomny Pelikan", -200], ["Fundacja HAART Poland", -200], ["Sekielski Brothers Studio", 445], ["Robert Skassa Prowadzi Mnie Jezus", 500], ["Kacper Sztuka Racing", 510], ["Geek Factor", 735], ["Radio Nowy Świat", 918], ["Radio 357", 1334], ["BezPlanu", 1400], ["Podróż bez Paszportu", 1785], ["Wojciech Szewko", 1850], ["Dwie Lewe Ręce", 2525]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','karolinakp','UsłyszećNaCzas','dlr','radionaukowe','accantus','palhajstv','sekielski','Zmierzchu','Podcastwojennehistorie','Vlogcasha','wszewko','rockserwisfm','brzmienie-swiata','VirtualDream','poglebiarka'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','karolinakp','UsłyszećNaCzas','dlr','radionaukowe','accantus','sekielski','palhajstv','Zmierzchu','Podcastwojennehistorie','wszewko','Vlogcasha','rockserwisfm','brzmienie-swiata','VirtualDream','poglebiarka'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
