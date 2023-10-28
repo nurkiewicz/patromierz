@@ -398,4 +398,5 @@ profiles["SzmaragdowePioro"] = [
 	[1698217123,10,1,10.0,370,null],
 	[1698303195,10,1,10.0,370,null],
 	[1698389554,null,1,null,370,null],
+	[1698475812,null,1,null,370,null],
 ];

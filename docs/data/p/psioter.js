@@ -69,4 +69,5 @@ profiles["psioter"] = [
 	[1649051873,null,null,null,2010,null],
 	[1649071329,null,null,null,2010,null],
 	[1698386383,110,2,55.0,2120,null],
+	[1698472645,110,2,55.0,2120,null],
 ];
