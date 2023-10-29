@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zglosrure"] = [
+profiles["zglosrure"] = {
+"name": "ZgłośRurę.pl",
+"snapshots": [
 	[1697875817,60,4,15.0,60,null],
 	[1697961647,60,4,15.0,60,null],
 	[1698047514,60,4,15.0,60,null],
@@ -9,4 +11,4 @@ profiles["zglosrure"] = [
 	[1698393150,60,4,15.0,60,null],
 	[1698479424,60,4,15.0,60,null],
 	[1698565797,80,5,16.0,80,null],
-];
+]};

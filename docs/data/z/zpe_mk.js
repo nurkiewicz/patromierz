@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zpe_mk"] = [
+profiles["zpe_mk"] = {
+"name": "Z PORADNIKA ELEKTRYKA",
+"snapshots": [
 	[1671952529,19,1,19.0,19,null],
 	[1672039054,19,1,19.0,19,null],
 	[1672130359,19,1,19.0,19,null],
@@ -215,4 +217,4 @@ profiles["zpe_mk"] = [
 	[1698393334,19,1,19.0,746,null],
 	[1698479606,19,1,19.0,746,null],
 	[1698565982,19,1,19.0,746,null],
-];
+]};

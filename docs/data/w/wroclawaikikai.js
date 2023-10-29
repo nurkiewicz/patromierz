@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wroclawaikikai"] = [
+profiles["wroclawaikikai"] = {
+"name": "Dojo Aikido -Wrocław Aikikai",
+"snapshots": [
 	[1689835836,520,8,65.0,16570,null],
 	[1689922106,520,8,65.0,16570,null],
 	[1690008711,520,8,65.0,16570,null],
@@ -76,4 +78,4 @@ profiles["wroclawaikikai"] = [
 	[1698392169,570,9,63.33,18180,2.0],
 	[1698478438,570,9,63.33,18180,2.0],
 	[1698564811,570,9,63.33,18180,2.0],
-];
+]};

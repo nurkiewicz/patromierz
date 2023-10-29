@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wojnaidei"] = [
+profiles["wojnaidei"] = {
+"name": "Szymon Pękala - Wojna Idei",
+"snapshots": [
 	[1555545600,1034,65,15.9,6219,null],
 	[1558224000,1205,73,16.5,7476,null],
 	[1582070400,3755,252,14.9,29866,null],
@@ -655,4 +657,4 @@ profiles["wojnaidei"] = [
 	[1698392013,10994,732,15.01,null,6.0],
 	[1698478282,10994,731,15.03,null,5.0],
 	[1698564655,11073,732,15.12,null,6.0],
-];
+]};

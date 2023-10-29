@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OnTable"] = [
+profiles["OnTable"] = {
+"name": "On Table Gry Planszowe",
+"snapshots": [
 	[1596585600,5177,111,46.63,null,null],
 	[1600819200,5181,106,48.87,null,null],
 	[1638576000,6323,124,50.99,null,null],
@@ -585,4 +587,4 @@ profiles["OnTable"] = [
 	[1698383036,5453,107,50.96,null,-6.0],
 	[1698469356,5453,107,50.96,null,-4.0],
 	[1698555697,5453,107,50.96,null,-4.0],
-];
+]};

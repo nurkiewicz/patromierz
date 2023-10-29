@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["LechiaNet"] = [
+profiles["LechiaNet"] = {
+"name": "Lechia.Net",
+"snapshots": [
 	[1691723502,10,1,10.0,10,null],
 	[1691809881,10,1,10.0,10,null],
 	[1691896451,10,1,10.0,10,null],
@@ -54,4 +56,4 @@ profiles["LechiaNet"] = [
 	[1698378573,30,2,15.0,50,1.0],
 	[1698464993,30,2,15.0,50,1.0],
 	[1698551258,30,2,15.0,50,1.0],
-];
+]};

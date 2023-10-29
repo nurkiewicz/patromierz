@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["plpj"] = [
+profiles["plpj"] = {
+"name": "Legendy Polskiego Jeździectwa",
+"snapshots": [
 	[1673340914,10,1,10.0,10,null],
 	[1673428528,10,1,10.0,10,null],
 	[1673511865,10,1,10.0,10,null],
@@ -248,4 +250,4 @@ profiles["plpj"] = [
 	[1698384381,150,5,30.0,2100,null],
 	[1698470673,150,5,30.0,2100,null],
 	[1698557031,150,5,30.0,2100,null],
-];
+]};

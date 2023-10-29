@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mistycyzmpopkulturowy"] = [
+profiles["mistycyzmpopkulturowy"] = {
+"name": "Mistycyzm Popkulturowy",
+"snapshots": [
 	[1591488000,215,15,14.33,6990,null],
 	[1643354321,1000,64,15.62,16130,null],
 	[1643425445,1000,63,15.87,16130,null],
@@ -584,4 +586,4 @@ profiles["mistycyzmpopkulturowy"] = [
 	[1698380878,3155,154,20.48,57165,12.0],
 	[1698467258,3155,154,20.48,57355,13.0],
 	[1698553587,3155,154,20.48,57405,13.0],
-];
+]};

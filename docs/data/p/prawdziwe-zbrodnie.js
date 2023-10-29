@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["prawdziwe-zbrodnie"] = [
+profiles["prawdziwe-zbrodnie"] = {
+"name": "Dwie Karoliny i Dwa Podcasty",
+"snapshots": [
 	[1643364940,1010,80,12.62,19870,null],
 	[1643427240,1005,80,12.56,19890,null],
 	[1643523677,1005,80,12.56,19920,null],
@@ -573,4 +575,4 @@ profiles["prawdziwe-zbrodnie"] = [
 	[1698385200,685,53,12.92,38980,-1.0],
 	[1698471475,680,53,12.83,38990,-2.0],
 	[1698557848,680,52,13.07,39000,-2.0],
-];
+]};

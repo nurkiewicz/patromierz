@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SierraEcho"] = [
+profiles["SierraEcho"] = {
+"name": "Sierra Echo",
+"snapshots": [
 	[1671593368,10,1,10.0,10,null],
 	[1671679452,30,3,10.0,30,null],
 	[1671783374,100,6,16.66,100,null],
@@ -266,4 +268,4 @@ profiles["SierraEcho"] = [
 	[1698387995,610,37,16.48,3810,2.0],
 	[1698474249,610,37,16.48,3830,2.0],
 	[1698560657,610,37,16.48,3830,2.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["smakksiazki"] = [
+profiles["smakksiazki"] = {
+"name": "smakksiazki.pl",
+"snapshots": [
 	[1645684599,890,28,31.78,890,null],
 	[1645771177,895,29,30.86,895,null],
 	[1645857890,895,29,30.86,895,null],
@@ -557,4 +559,4 @@ profiles["smakksiazki"] = [
 	[1698388348,1695,47,36.06,33925,null],
 	[1698474601,1695,47,36.06,33980,null],
 	[1698561006,1675,47,35.63,34155,-1.0],
-];
+]};

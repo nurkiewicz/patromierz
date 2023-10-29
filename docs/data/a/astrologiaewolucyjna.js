@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["astrologiaewolucyjna"] = [
+profiles["astrologiaewolucyjna"] = {
+"name": "Bartek  Sawicki - Astrologia Ewolucyjna",
+"snapshots": [
 	[1618444800,415,15,27.66,4185,null],
 	[1643362702,485,11,44.09,10650,null],
 	[1643430199,485,11,44.09,10650,null],
@@ -584,4 +586,4 @@ profiles["astrologiaewolucyjna"] = [
 	[1698368920,460,8,57.5,18390,-1.0],
 	[1698455485,460,8,57.5,18390,-1.0],
 	[1698541652,460,8,57.5,18390,-1.0],
-];
+]};

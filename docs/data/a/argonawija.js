@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["argonawija"] = [
+profiles["argonawija"] = {
+"name": "ARGO NAWIJA - Gry Planszowe",
+"snapshots": [
 	[1643357965,130,10,13.0,444,null],
 	[1643437736,130,10,13.0,444,null],
 	[1643511346,130,10,13.0,453,null],
@@ -585,4 +587,4 @@ profiles["argonawija"] = [
 	[1698368685,246,14,17.57,5146,-1.0],
 	[1698455247,246,14,17.57,5146,-1.0],
 	[1698541418,246,14,17.57,5175,-1.0],
-];
+]};

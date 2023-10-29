@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PlayStationTech"] = [
+profiles["PlayStationTech"] = {
+"name": "PlayStation Tech",
+"snapshots": [
 	[1643362922,30,2,15.0,391,null],
 	[1643434291,30,2,15.0,391,null],
 	[1643522499,30,2,15.0,391,null],
@@ -583,4 +585,4 @@ profiles["PlayStationTech"] = [
 	[1698384363,10,1,10.0,981,null],
 	[1698470655,10,1,10.0,981,null],
 	[1698557013,10,1,10.0,981,null],
-];
+]};

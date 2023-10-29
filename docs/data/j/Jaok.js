@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Jaok"] = [
+profiles["Jaok"] = {
+"name": "pyta.pl",
+"snapshots": [
 	[1643354388,115,6,19.16,null,null],
 	[1643428151,115,6,19.16,null,null],
 	[1643510155,115,6,19.16,null,null],
@@ -584,4 +586,4 @@ profiles["Jaok"] = [
 	[1698376083,25,2,12.5,null,null],
 	[1698462553,25,2,12.5,null,null],
 	[1698548777,25,2,12.5,null,null],
-];
+]};

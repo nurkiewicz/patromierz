@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["stosunkowobliskiwschod"] = [
+profiles["stosunkowobliskiwschod"] = {
+"name": "Stosunkowo Bliski Wschód - Jakub Katulski",
+"snapshots": [
 	[1643363845,794,47,16.89,13126,null],
 	[1643429004,794,47,16.89,13126,null],
 	[1643515958,794,47,16.89,13126,null],
@@ -365,4 +367,4 @@ profiles["stosunkowobliskiwschod"] = [
 	[1698388981,40,2,20.0,null,-1.0],
 	[1698475235,40,2,20.0,null,-1.0],
 	[1698561636,40,2,20.0,null,-1.0],
-];
+]};

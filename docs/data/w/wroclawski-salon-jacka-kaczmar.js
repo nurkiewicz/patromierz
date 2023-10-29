@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wroclawski-salon-jacka-kaczmar"] = [
+profiles["wroclawski-salon-jacka-kaczmar"] = {
+"name": "Wrocławski Salon Jacka Kaczmarskiego",
+"snapshots": [
 	[1672820818,20,1,20.0,20,null],
 	[1672908354,20,1,20.0,20,null],
 	[1672993961,570,13,43.84,570,null],
@@ -255,4 +257,4 @@ profiles["wroclawski-salon-jacka-kaczmar"] = [
 	[1698392172,1220,24,50.83,14230,-3.0],
 	[1698478440,1220,24,50.83,14230,-3.0],
 	[1698564813,1220,24,50.83,14230,-3.0],
-];
+]};

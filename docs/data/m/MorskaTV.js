@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MorskaTV"] = [
+profiles["MorskaTV"] = {
+"name": "Wędkarska Ekipa - Morska TV",
+"snapshots": [
 	[1643367554,960,20,48.0,null,null],
 	[1643426900,960,20,48.0,null,null],
 	[1643513084,960,20,48.0,null,null],
@@ -583,4 +585,4 @@ profiles["MorskaTV"] = [
 	[1698381201,540,11,49.09,null,null],
 	[1698467573,540,11,49.09,null,null],
 	[1698553907,540,11,49.09,null,null],
-];
+]};

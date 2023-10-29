@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["astrohomines.wordpress.com"] = [
+profiles["astrohomines.wordpress.com"] = {
+"name": "Astrohomines",
+"snapshots": [
 	[1693357241,5,1,5.0,5,null],
 	[1693443659,5,1,5.0,5,null],
 	[1695172370,5,1,5.0,5,null],
@@ -36,4 +38,4 @@ profiles["astrohomines.wordpress.com"] = [
 	[1698368911,5,1,5.0,10,null],
 	[1698455476,5,1,5.0,10,null],
 	[1698541644,5,1,5.0,10,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mjackowskadietetyka"] = [
+profiles["mjackowskadietetyka"] = {
+"name": "Małgorzata Jackowska - dietetyka dla mam i dzieci",
+"snapshots": [
 	[1654574439,12,1,12.0,12,null],
 	[1654660517,12,1,12.0,12,null],
 	[1654747088,12,1,12.0,12,null],
@@ -451,4 +453,4 @@ profiles["mjackowskadietetyka"] = [
 	[1698380903,45,1,45.0,768,null],
 	[1698467283,null,1,null,768,-2.0],
 	[1698553610,null,1,null,768,-2.0],
-];
+]};

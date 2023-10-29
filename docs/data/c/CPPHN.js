@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CPPHN"] = [
+profiles["CPPHN"] = {
+"name": "Centrum Pomocy Prawnej im. Haliny Nieć ",
+"snapshots": [
 	[1600732800,210,7,30.0,4155,null],
 	[1606694400,295,11,26.81,4700,null],
 	[1611100800,500,20,25.0,5455,null],
@@ -590,4 +592,4 @@ profiles["CPPHN"] = [
 	[1698370895,700,24,29.16,29490,null],
 	[1698457463,700,24,29.16,29600,null],
 	[1698543615,700,24,29.16,29620,null],
-];
+]};

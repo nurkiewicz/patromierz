@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pelnialiteratury"] = [
+profiles["pelnialiteratury"] = {
+"name": "Pełnia Literatury. Nocny podcast literacki",
+"snapshots": [
 	[1650685607,180,5,36.0,180,null],
 	[1650772511,220,7,31.42,220,null],
 	[1650858747,260,9,28.88,260,null],
@@ -497,4 +499,4 @@ profiles["pelnialiteratury"] = [
 	[1698383886,1080,38,28.42,14980,-1.0],
 	[1698470188,1080,38,28.42,14980,-1.0],
 	[1698556540,1100,40,27.5,15000,-1.0],
-];
+]};

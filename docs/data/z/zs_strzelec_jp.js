@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zs_strzelec_jp"] = [
+profiles["zs_strzelec_jp"] = {
+"name": "Związek Strzelecki \"Strzelec\" Józefa Piłsudskiego",
+"snapshots": [
 	[1691476416,20,1,20.0,480,null],
 	[1691562457,20,1,20.0,480,null],
 	[1691649532,20,1,20.0,480,null],
@@ -57,4 +59,4 @@ profiles["zs_strzelec_jp"] = [
 	[1698393364,40,2,20.0,560,null],
 	[1698479635,40,2,20.0,560,null],
 	[1698566010,40,2,20.0,560,null],
-];
+]};

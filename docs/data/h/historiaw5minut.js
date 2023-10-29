@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["historiaw5minut"] = [
+profiles["historiaw5minut"] = {
+"name": "Historia w 5 minut (HW5M)",
+"snapshots": [
 	[1643357955,365,20,18.25,1085,null],
 	[1643429715,365,20,18.25,1095,null],
 	[1643521573,365,20,18.25,1095,null],
@@ -585,4 +587,4 @@ profiles["historiaw5minut"] = [
 	[1698375213,1475,60,24.58,22485,-18.0],
 	[1698461696,1475,60,24.58,22515,-18.0],
 	[1698547907,1475,60,24.58,22565,-18.0],
-];
+]};

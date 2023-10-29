@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["upgrademozg"] = [
+profiles["upgrademozg"] = {
+"name": "MÓZG UPGRADE",
+"snapshots": [
 	[1643366602,1050,2,525.0,12630,null],
 	[1643436404,1050,2,525.0,12630,null],
 	[1643520692,1050,2,525.0,13630,null],
@@ -583,4 +585,4 @@ profiles["upgrademozg"] = [
 	[1698390975,50,1,50.0,22680,null],
 	[1698477237,50,1,50.0,22680,null],
 	[1698563621,50,1,50.0,22680,null],
-];
+]};

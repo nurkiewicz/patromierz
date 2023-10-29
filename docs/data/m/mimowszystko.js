@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mimowszystko"] = [
+profiles["mimowszystko"] = {
+"name": "Fundacja Anny Dymnej „Mimo Wszystko”",
+"snapshots": [
 	[1662437720,50,1,50.0,50,null],
 	[1662524379,50,1,50.0,50,null],
 	[1662610670,50,1,50.0,50,null],
@@ -360,4 +362,4 @@ profiles["mimowszystko"] = [
 	[1698380749,160,4,40.0,5370,-1.0],
 	[1698467133,160,4,40.0,5370,-1.0],
 	[1698553459,160,4,40.0,5370,-1.0],
-];
+]};

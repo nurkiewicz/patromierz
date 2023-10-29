@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["99NET"] = [
+profiles["99NET"] = {
+"name": "Grzegorz Prokopowicz - 99NET Inventory Cloud",
+"snapshots": [
 	[1695170953,9,1,9.0,9,null],
 	[1695257055,9,1,9.0,9,null],
 	[1695343678,9,1,9.0,9,null],
@@ -35,4 +37,4 @@ profiles["99NET"] = [
 	[1698367469,9,1,9.0,18,null],
 	[1698454024,9,1,9.0,18,null],
 	[1698540206,9,1,9.0,18,null],
-];
+]};

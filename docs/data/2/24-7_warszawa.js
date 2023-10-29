@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["24-7_warszawa"] = [
+profiles["24-7_warszawa"] = {
+"name": "24/7 Warszawa - Dom Modlitwy",
+"snapshots": [
 	[1607126400,960,13,73.84,1555,null],
 	[1643356691,2305,16,144.06,23415,null],
 	[1643436194,2280,16,142.5,23415,null],
@@ -585,4 +587,4 @@ profiles["24-7_warszawa"] = [
 	[1698367363,465,5,93.0,38635,null],
 	[1698453917,465,5,93.0,38635,null],
 	[1698540099,465,5,93.0,38635,null],
-];
+]};

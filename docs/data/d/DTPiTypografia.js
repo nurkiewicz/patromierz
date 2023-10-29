@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["DTPiTypografia"] = [
+profiles["DTPiTypografia"] = {
+"name": "DTP i Typografia",
+"snapshots": [
 	[1643365083,36,3,12.0,204,null],
 	[1643428243,36,3,12.0,204,null],
 	[1643512912,36,3,12.0,204,null],
@@ -584,4 +586,4 @@ profiles["DTPiTypografia"] = [
 	[1698372140,12,1,12.0,744,null],
 	[1698458685,12,1,12.0,744,null],
 	[1698544854,12,1,12.0,744,null],
-];
+]};

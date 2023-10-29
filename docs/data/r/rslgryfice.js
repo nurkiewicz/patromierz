@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["rslgryfice"] = [
+profiles["rslgryfice"] = {
+"name": "Red Swing Low Gryfice",
+"snapshots": [
 	[1677147328,50,3,16.66,50,null],
 	[1677215475,150,5,30.0,150,null],
 	[1677388197,180,5,36.0,240,null],
@@ -204,4 +206,4 @@ profiles["rslgryfice"] = [
 	[1698387375,580,20,29.0,4310,5.0],
 	[1698473631,580,20,29.0,4310,5.0],
 	[1698560042,580,20,29.0,4310,5.0],
-];
+]};

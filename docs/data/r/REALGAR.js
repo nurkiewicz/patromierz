@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["REALGAR"] = [
+profiles["REALGAR"] = {
+"name": "REALGAR - blog geologiczny kolekcjonerów minerałów",
+"snapshots": [
 	[1620259200,25,2,12.5,50,null],
 	[1643364559,null,null,null,120,null],
 	[1643431718,null,null,null,120,null],
@@ -249,4 +251,4 @@ profiles["REALGAR"] = [
 	[1698386956,100,2,50.0,900,null],
 	[1698473214,100,2,50.0,900,null],
 	[1698559618,100,2,50.0,900,null],
-];
+]};

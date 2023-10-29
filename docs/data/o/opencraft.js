@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["opencraft"] = [
+profiles["opencraft"] = {
+"name": "openCraft.pl",
+"snapshots": [
 	[1643365815,160,9,17.77,552,null],
 	[1643437038,160,9,17.77,552,null],
 	[1643513973,160,9,17.77,560,null],
@@ -580,4 +582,4 @@ profiles["opencraft"] = [
 	[1698383049,80,3,26.66,2992,-2.0],
 	[1698469369,80,3,26.66,3000,-2.0],
 	[1698555709,80,3,26.66,3000,-2.0],
-];
+]};

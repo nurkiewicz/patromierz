@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ukidi"] = [
+profiles["ukidi"] = {
+"name": "ukidi - Video blog - rośliny tropikalne",
+"snapshots": [
 	[1643355346,125,4,31.25,8560,null],
 	[1643435066,125,4,31.25,8560,null],
 	[1643524129,125,4,31.25,8560,null],
@@ -582,4 +584,4 @@ profiles["ukidi"] = [
 	[1698390907,130,5,26.0,11475,null],
 	[1698477169,130,5,26.0,11475,null],
 	[1698563553,130,5,26.0,11475,null],
-];
+]};

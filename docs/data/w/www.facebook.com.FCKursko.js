@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.facebook.com.FCKursko"] = [
+profiles["www.facebook.com.FCKursko"] = {
+"name": "FC Kursko",
+"snapshots": [
 	[1692253282,80,4,20.0,80,null],
 	[1692340141,140,6,23.33,140,null],
 	[1692426338,140,6,23.33,140,null],
@@ -49,4 +51,4 @@ profiles["www.facebook.com.FCKursko"] = [
 	[1698392364,150,7,21.42,540,null],
 	[1698478630,150,7,21.42,540,null],
 	[1698565007,150,7,21.42,540,null],
-];
+]};

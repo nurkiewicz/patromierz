@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sbs"] = [
+profiles["sbs"] = {
+"name": "Stowarzyszenie Bydgoska Siatkówka",
+"snapshots": [
 	[1680857029,290,4,72.5,290,null],
 	[1681201857,510,8,63.75,510,null],
 	[1681273388,510,8,63.75,510,null],
@@ -174,4 +176,4 @@ profiles["sbs"] = [
 	[1698387677,920,20,46.0,8280,-9.0],
 	[1698473931,920,20,46.0,8280,-9.0],
 	[1698560341,920,20,46.0,8280,-9.0],
-];
+]};

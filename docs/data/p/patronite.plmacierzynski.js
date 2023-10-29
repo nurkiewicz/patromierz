@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["patronite.plmacierzynski"] = [
+profiles["patronite.plmacierzynski"] = {
+"name": "Piotr Macierzyński",
+"snapshots": [
 	[1663216859,83,3,27.66,83,null],
 	[1663303411,233,5,46.6,233,null],
 	[1663389743,283,8,35.37,283,null],
@@ -356,4 +358,4 @@ profiles["patronite.plmacierzynski"] = [
 	[1698383681,762,23,33.13,11948,1.0],
 	[1698469987,762,23,33.13,11948,1.0],
 	[1698556335,762,23,33.13,11980,1.0],
-];
+]};

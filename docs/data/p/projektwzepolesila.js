@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["projektwzepolesila"] = [
+profiles["projektwzepolesila"] = {
+"name": "Program W Zespole Siła, autorski program Stowarzyszenia Mini Basket Academy",
+"snapshots": [
 	[1644733365,84,4,21.0,84,null],
 	[1644819793,133,7,19.0,133,null],
 	[1644905749,133,7,19.0,133,null],
@@ -566,4 +568,4 @@ profiles["projektwzepolesila"] = [
 	[1698386105,91,5,18.2,3024,1.0],
 	[1698472371,91,5,18.2,3024,1.0],
 	[1698558754,91,5,18.2,3024,1.0],
-];
+]};

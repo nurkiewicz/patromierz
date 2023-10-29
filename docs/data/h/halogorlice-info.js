@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["halogorlice-info"] = [
+profiles["halogorlice-info"] = {
+"name": "Informacyjny Portal Internetowy halogorlice.info ",
+"snapshots": [
 	[1649387030,25,2,12.5,25,null],
 	[1649473608,40,3,13.33,40,null],
 	[1649560028,40,3,13.33,40,null],
@@ -513,4 +515,4 @@ profiles["halogorlice-info"] = [
 	[1698374957,70,6,11.66,1375,null],
 	[1698461443,70,6,11.66,1385,null],
 	[1698547653,70,5,14.0,1400,null],
-];
+]};

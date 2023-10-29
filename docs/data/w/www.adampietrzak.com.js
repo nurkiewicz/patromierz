@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.adampietrzak.com"] = [
+profiles["www.adampietrzak.com"] = {
+"name": "Adam Pietrzak Prawdziwe Historie",
+"snapshots": [
 	[1695541041,10,1,10.0,10,null],
 	[1695627655,10,1,10.0,10,null],
 	[1695702703,10,1,10.0,10,null],
@@ -31,4 +33,4 @@ profiles["www.adampietrzak.com"] = [
 	[1698392297,10,1,10.0,20,null],
 	[1698478567,10,1,10.0,20,null],
 	[1698564944,10,1,10.0,20,null],
-];
+]};

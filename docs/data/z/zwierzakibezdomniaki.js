@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zwierzakibezdomniaki"] = [
+profiles["zwierzakibezdomniaki"] = {
+"name": "Stowarzyszenie Zwierzaki Bezdomniaki Home for pets",
+"snapshots": [
 	[1654407682,10,1,10.0,10,null],
 	[1654493210,10,1,10.0,10,null],
 	[1654580203,45,3,15.0,45,null],
@@ -453,4 +455,4 @@ profiles["zwierzakibezdomniaki"] = [
 	[1698393424,215,8,26.87,3755,null],
 	[1698479696,215,8,26.87,3755,null],
 	[1698566071,215,8,26.87,3755,null],
-];
+]};

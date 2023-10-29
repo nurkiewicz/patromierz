@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["syrenkaCX"] = [
+profiles["syrenkaCX"] = {
+"name": "Syrenka CX - Cyclocross Warszawa",
+"snapshots": [
 	[1643365505,1120,57,19.64,30040,null],
 	[1643434909,1120,57,19.64,30040,null],
 	[1643513308,1120,57,19.64,30040,null],
@@ -574,4 +576,4 @@ profiles["syrenkaCX"] = [
 	[1698389392,760,33,23.03,45850,3.0],
 	[1698475649,760,33,23.03,45850,3.0],
 	[1698562050,760,33,23.03,45850,3.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lifeonwheelz"] = [
+profiles["lifeonwheelz"] = {
+"name": "Life On Wheelz - Influencerzy z Misją",
+"snapshots": [
 	[1584144000,1905,43,44.3,13315,null],
 	[1611100800,5650,233,24.24,44085,null],
 	[1620518400,6975,262,26.62,68920,null],
@@ -576,4 +578,4 @@ profiles["lifeonwheelz"] = [
 	[1698378816,1970,89,22.13,167115,14.0],
 	[1698465237,1970,89,22.13,167140,14.0],
 	[1698551498,2070,91,22.74,167320,17.0],
-];
+]};

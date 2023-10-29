@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["vhshell"] = [
+profiles["vhshell"] = {
+"name": "VHS HELL",
+"snapshots": [
 	[1615248000,322,14,23.0,322,null],
 	[1643356565,836,45,18.57,8399,null],
 	[1643431213,836,45,18.57,8411,null],
@@ -584,4 +586,4 @@ profiles["vhshell"] = [
 	[1698391193,672,41,16.39,23835,null],
 	[1698477455,672,41,16.39,23835,null],
 	[1698563838,672,40,16.8,23847,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ogrodmiejskitczew"] = [
+profiles["ogrodmiejskitczew"] = {
+"name": "Ogród Miejski w Tczewie",
+"snapshots": [
 	[1683951917,25,1,25.0,25,null],
 	[1684038369,25,1,25.0,25,null],
 	[1684124568,25,1,25.0,25,null],
@@ -140,4 +142,4 @@ profiles["ogrodmiejskitczew"] = [
 	[1698382828,40,2,20.0,300,null],
 	[1698469162,40,2,20.0,300,null],
 	[1698555500,40,2,20.0,300,null],
-];
+]};

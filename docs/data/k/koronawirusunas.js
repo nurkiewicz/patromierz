@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["koronawirusunas"] = [
+profiles["koronawirusunas"] = {
+"name": "Koronawirusunas.pl",
+"snapshots": [
 	[1636934400,456,29,15.72,19009,null],
 	[1643359284,1351,76,17.77,21793,null],
 	[1643428857,1360,76,17.89,21802,null],
@@ -582,4 +584,4 @@ profiles["koronawirusunas"] = [
 	[1698377687,18,2,9.0,28491,null],
 	[1698464125,18,2,9.0,28491,null],
 	[1698550370,18,2,9.0,28500,null],
-];
+]};

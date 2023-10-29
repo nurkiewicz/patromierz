@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["piotrplebaniak"] = [
+profiles["piotrplebaniak"] = {
+"name": "Pieśni dalekich plemion (Piotr Plebaniak)",
+"snapshots": [
 	[1643365651,10,1,10.0,60,null],
 	[1643426618,10,1,10.0,60,null],
 	[1643520364,10,1,10.0,60,null],
@@ -564,4 +566,4 @@ profiles["piotrplebaniak"] = [
 	[1698384208,117,9,13.0,2486,1.0],
 	[1698470503,97,9,10.77,2496,null],
 	[1698556860,97,9,10.77,2496,null],
-];
+]};

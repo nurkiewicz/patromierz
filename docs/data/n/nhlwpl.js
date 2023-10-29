@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nhlwpl"] = [
+profiles["nhlwpl"] = {
+"name": "NHL w PL",
+"snapshots": [
 	[1604188800,192,4,48.0,402,null],
 	[1643352988,null,null,null,1660,null],
 	[1643426255,null,null,null,1660,null],
@@ -208,4 +210,4 @@ profiles["nhlwpl"] = [
 	[1698382174,35,1,35.0,1870,null],
 	[1698468523,35,1,35.0,1870,null],
 	[1698554857,35,1,35.0,1870,null],
-];
+]};

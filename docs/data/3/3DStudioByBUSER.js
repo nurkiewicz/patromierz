@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["3DStudioByBUSER"] = [
+profiles["3DStudioByBUSER"] = {
+"name": "3D Studio by Buser",
+"snapshots": [
 	[1610755200,880,36,24.44,880,null],
 	[1618358400,686,30,22.86,3563,null],
 	[1643363624,745,30,24.83,9494,null],
@@ -586,4 +588,4 @@ profiles["3DStudioByBUSER"] = [
 	[1698367403,1520,41,37.07,37129,-11.0],
 	[1698453956,1470,40,36.75,37304,-12.0],
 	[1698540139,1470,40,36.75,37304,-14.0],
-];
+]};

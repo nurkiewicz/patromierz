@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["teobankologia"] = [
+profiles["teobankologia"] = {
+"name": "Teobańkologia",
+"snapshots": [
 	[1600905600,7910,202,39.15,73720,null],
 	[1604016000,7340,206,35.63,82540,null],
 	[1654146318,9780,277,35.3,null,null],
@@ -460,4 +462,4 @@ profiles["teobankologia"] = [
 	[1698390083,8150,203,40.14,null,1.0],
 	[1698476342,8080,203,39.8,null,null],
 	[1698562736,8130,203,40.04,null,1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bonjourdefrancepl"] = [
+profiles["bonjourdefrancepl"] = {
+"name": "Język Francuski dla Polaków - bonjourdefrance.pl",
+"snapshots": [
 	[1639549772,105,8,13.12,null,null],
 	[1639636162,105,8,13.12,null,null],
 	[1639722563,105,8,13.12,null,null],
@@ -618,4 +620,4 @@ profiles["bonjourdefrancepl"] = [
 	[1698369977,185,8,23.12,null,-1.0],
 	[1698456544,185,8,23.12,null,-1.0],
 	[1698542704,165,8,20.62,null,-1.0],
-];
+]};

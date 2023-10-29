@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SzkolyAkwinaty"] = [
+profiles["SzkolyAkwinaty"] = {
+"name": "Ksiądz Szymon Bańka",
+"snapshots": [
 	[1697179945,1060,28,37.85,1080,null],
 	[1697266382,1320,34,38.82,1340,null],
 	[1697353069,1470,38,38.68,1490,null],
@@ -17,4 +19,4 @@ profiles["SzkolyAkwinaty"] = [
 	[1698389546,1730,47,36.8,1750,null],
 	[1698475803,1730,47,36.8,1750,null],
 	[1698562203,1730,47,36.8,1750,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["veraicon"] = [
+profiles["veraicon"] = {
+"name": "Vera Icon",
+"snapshots": [
 	[1679067893,5,2,2.5,15,null],
 	[1679305507,50,5,10.0,60,null],
 	[1679388876,60,5,12.0,70,null],
@@ -192,4 +194,4 @@ profiles["veraicon"] = [
 	[1698391176,1065,24,44.37,4350,null],
 	[1698477437,1065,24,44.37,4415,null],
 	[1698563821,1065,24,44.37,4460,null],
-];
+]};

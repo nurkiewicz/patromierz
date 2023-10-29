@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["patronite-pl-tadeusz-wozniak"] = [
+profiles["patronite-pl-tadeusz-wozniak"] = {
+"name": "Tadeusz Woźniak",
+"snapshots": [
 	[1643352264,1590,18,88.33,9490,null],
 	[1643435141,1590,18,88.33,9490,null],
 	[1643525334,1590,18,88.33,9490,null],
@@ -582,4 +584,4 @@ profiles["patronite-pl-tadeusz-wozniak"] = [
 	[1698383666,1400,13,107.69,32130,null],
 	[1698469972,1400,13,107.69,32140,null],
 	[1698556321,1400,13,107.69,32140,null],
-];
+]};

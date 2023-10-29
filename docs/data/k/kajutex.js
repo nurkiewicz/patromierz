@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kajutex"] = [
+profiles["kajutex"] = {
+"name": "Kaja Klimek - Kajutex",
+"snapshots": [
 	[1643357927,603,19,31.73,603,null],
 	[1643424742,603,19,31.73,603,null],
 	[1643510330,603,19,31.73,603,null],
@@ -583,4 +585,4 @@ profiles["kajutex"] = [
 	[1698376599,244,8,30.5,12168,-1.0],
 	[1698463058,244,8,30.5,12178,-1.0],
 	[1698549290,244,8,30.5,12178,-1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sznurowadla-mysli"] = [
+profiles["sznurowadla-mysli"] = {
+"name": "Kama Wojtkiewicz | Sznurowadła myśli",
+"snapshots": [
 	[1643355701,520,20,26.0,4240,null],
 	[1643427298,520,20,26.0,4240,null],
 	[1643522501,520,20,26.0,4240,null],
@@ -580,4 +582,4 @@ profiles["sznurowadla-mysli"] = [
 	[1698389562,890,42,21.19,null,-1.0],
 	[1698475819,890,42,21.19,null,-1.0],
 	[1698562218,890,42,21.19,null,-1.0],
-];
+]};

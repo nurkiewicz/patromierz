@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Pyrkon"] = [
+profiles["Pyrkon"] = {
+"name": "Pyrkon - Fantastyczne Miejsce Spotkań",
+"snapshots": [
 	[1613001600,815,16,50.93,815,null],
 	[1614902400,15320,454,33.74,16200,null],
 	[1621123200,18955,576,32.9,67665,null],
@@ -668,4 +670,4 @@ profiles["Pyrkon"] = [
 	[1698386551,1665,59,28.22,249705,-8.0],
 	[1698472808,1665,59,28.22,249770,-8.0],
 	[1698559196,1665,59,28.22,249770,-8.0],
-];
+]};

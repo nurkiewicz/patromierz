@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mowrzepczyno"] = [
+profiles["mowrzepczyno"] = {
+"name": "Młodzieżowy Ośrodek Wychowawczy w Rzepczynie",
+"snapshots": [
 	[1643351904,370,4,92.5,4250,null],
 	[1643423854,370,4,92.5,4250,null],
 	[1643514454,370,4,92.5,4250,null],
@@ -578,4 +580,4 @@ profiles["mowrzepczyno"] = [
 	[1698381316,170,4,42.5,9720,1.0],
 	[1698467681,170,4,42.5,9720,1.0],
 	[1698554015,170,4,42.5,9720,1.0],
-];
+]};

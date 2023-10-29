@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["klub_muzyczny_bogart"] = [
+profiles["klub_muzyczny_bogart"] = {
+"name": "Klub Muzyczny Bogart",
+"snapshots": [
 	[1643367635,250,6,41.66,29500,null],
 	[1643431277,250,6,41.66,29500,null],
 	[1643510751,250,6,41.66,29500,null],
@@ -584,4 +586,4 @@ profiles["klub_muzyczny_bogart"] = [
 	[1698377310,50,4,12.5,32770,null],
 	[1698463758,50,4,12.5,32770,null],
 	[1698549999,50,4,12.5,32770,null],
-];
+]};

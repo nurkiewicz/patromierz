@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["waw4free"] = [
+profiles["waw4free"] = {
+"name": "waw4free",
+"snapshots": [
 	[1558051200,30,2,15.0,12,null],
 	[1577664000,6,1,6.0,null,null],
 	[1610928000,9,2,4.5,null,null],
@@ -586,4 +588,4 @@ profiles["waw4free"] = [
 	[1698391497,6,1,6.0,null,null],
 	[1698477761,6,1,6.0,null,null],
 	[1698564143,6,1,6.0,null,null],
-];
+]};

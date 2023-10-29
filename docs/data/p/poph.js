@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["poph"] = [
+profiles["poph"] = {
+"name": "Podlaskie Ochotnicze Pogotowie Humanitarne",
+"snapshots": [
 	[1688619507,150,2,75.0,150,null],
 	[1688705897,170,3,56.66,170,null],
 	[1688792348,260,6,43.33,260,null],
@@ -89,4 +91,4 @@ profiles["poph"] = [
 	[1698384944,3330,64,52.03,7540,53.0],
 	[1698471224,3330,64,52.03,7660,53.0],
 	[1698557592,3330,64,52.03,7710,33.0],
-];
+]};

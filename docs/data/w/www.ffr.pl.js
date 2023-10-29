@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.ffr.pl"] = [
+profiles["www.ffr.pl"] = {
+"name": "Fundacja Firmy Rodzinne",
+"snapshots": [
 	[1670483593,50,1,50.0,50,null],
 	[1670569680,50,1,50.0,50,null],
 	[1670656165,50,1,50.0,50,null],
@@ -281,4 +283,4 @@ profiles["www.ffr.pl"] = [
 	[1698392371,150,2,75.0,1450,null],
 	[1698478637,150,2,75.0,1450,null],
 	[1698565014,150,2,75.0,1450,null],
-];
+]};

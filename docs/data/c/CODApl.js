@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CODApl"] = [
+profiles["CODApl"] = {
+"name": "CODA",
+"snapshots": [
 	[1634774400,950,39,24.35,null,null],
 	[1643360838,625,28,22.32,null,null],
 	[1643430466,625,28,22.32,null,null],
@@ -583,4 +585,4 @@ profiles["CODApl"] = [
 	[1698370793,330,10,33.0,null,3.0],
 	[1698457361,280,10,28.0,null,1.0],
 	[1698543513,280,10,28.0,null,1.0],
-];
+]};

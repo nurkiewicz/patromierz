@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["rpgowa-alchemia"] = [
+profiles["rpgowa-alchemia"] = {
+"name": "RPGowa Alchemia",
+"snapshots": [
 	[1643351197,490,19,25.78,3190,null],
 	[1643437419,490,19,25.78,3210,null],
 	[1643522460,490,19,25.78,3210,null],
@@ -584,4 +586,4 @@ profiles["rpgowa-alchemia"] = [
 	[1698387362,270,16,16.87,11730,-1.0],
 	[1698473618,270,16,16.87,11730,-1.0],
 	[1698560028,270,16,16.87,11730,-1.0],
-];
+]};

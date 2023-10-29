@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Leno_Music"] = [
+profiles["Leno_Music"] = {
+"name": "Leno Music",
+"snapshots": [
 	[1643366646,1185,24,49.37,31265,null],
 	[1643426060,1185,24,49.37,31265,null],
 	[1643512363,1185,24,49.37,31385,null],
@@ -583,4 +585,4 @@ profiles["Leno_Music"] = [
 	[1698378664,680,15,45.33,58850,null],
 	[1698465090,680,15,45.33,58850,null],
 	[1698551348,680,15,45.33,58850,null],
-];
+]};

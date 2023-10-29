@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lapanysa"] = [
+profiles["lapanysa"] = {
+"name": "Nyskie Pogotowie Opiekuńczo-Adopcyjne  dla Zwierząt ŁAPA ",
+"snapshots": [
 	[1659239409,1070,10,107.0,1070,null],
 	[1659325988,1190,12,99.16,1190,null],
 	[1659412447,1190,12,99.16,1190,null],
@@ -397,4 +399,4 @@ profiles["lapanysa"] = [
 	[1698378512,2120,48,44.16,30970,2.0],
 	[1698464933,2120,48,44.16,31030,2.0],
 	[1698551196,2120,48,44.16,31050,3.0],
-];
+]};

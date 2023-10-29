@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["apmtlimanowa"] = [
+profiles["apmtlimanowa"] = {
+"name": "FUNDACJA AKADEMIA PIŁKARSKA MAM TALENT LIMANOWA",
+"snapshots": [
 	[1643352649,430,5,86.0,1840,null],
 	[1643434771,430,5,86.0,1840,null],
 	[1643522675,430,5,86.0,1840,null],
@@ -585,4 +587,4 @@ profiles["apmtlimanowa"] = [
 	[1698368591,210,2,105.0,7140,null],
 	[1698455149,210,2,105.0,7140,null],
 	[1698541324,210,2,105.0,7140,null],
-];
+]};

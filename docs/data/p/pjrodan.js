@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pjrodan"] = [
+profiles["pjrodan"] = {
+"name": "Notatnik Reżysera by Paweł J. Rodan",
+"snapshots": [
 	[1589587200,250,2,125.0,2300,null],
 	[1596412800,350,3,116.66,3000,null],
 	[1643362970,250,2,125.0,7900,null],
@@ -585,4 +587,4 @@ profiles["pjrodan"] = [
 	[1698384308,100,1,100.0,12370,null],
 	[1698470602,100,1,100.0,12370,null],
 	[1698556959,100,1,100.0,12370,null],
-];
+]};

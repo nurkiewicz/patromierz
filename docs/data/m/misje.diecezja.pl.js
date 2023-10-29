@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["misje.diecezja.pl"] = [
+profiles["misje.diecezja.pl"] = {
+"name": "Duszpasterstwo Misyjne Archidiecezji Krakowskiej",
+"snapshots": [
 	[1690688289,10,1,10.0,10,null],
 	[1690775258,10,1,10.0,10,null],
 	[1690861828,10,1,10.0,10,null],
@@ -66,4 +68,4 @@ profiles["misje.diecezja.pl"] = [
 	[1698380851,20,1,20.0,50,null],
 	[1698467233,20,1,20.0,50,null],
 	[1698553560,20,1,20.0,50,null],
-];
+]};

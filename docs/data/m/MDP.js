@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MDP"] = [
+profiles["MDP"] = {
+"name": "Młodzieżowa Drużyna Pożarnicza im. Druha Edmunda Witolda Kuty",
+"snapshots": [
 	[1643367050,100,5,20.0,565,null],
 	[1643430794,100,5,20.0,565,null],
 	[1643516202,100,5,20.0,565,null],
@@ -584,4 +586,4 @@ profiles["MDP"] = [
 	[1698380262,40,1,40.0,2380,-1.0],
 	[1698466655,40,1,40.0,2380,-1.0],
 	[1698552976,40,1,40.0,2380,-1.0],
-];
+]};

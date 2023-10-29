@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["3encyklopedia"] = [
+profiles["3encyklopedia"] = {
+"name": "Trójmiejska Encyklopedia Muzyczna",
+"snapshots": [
 	[1675211302,5,1,5.0,5,null],
 	[1675297741,5,1,5.0,5,null],
 	[1675384378,5,1,5.0,5,null],
@@ -226,4 +228,4 @@ profiles["3encyklopedia"] = [
 	[1698367405,5,1,5.0,50,null],
 	[1698453959,5,1,5.0,50,null],
 	[1698540142,5,1,5.0,50,null],
-];
+]};

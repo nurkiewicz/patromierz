@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tetrispoland"] = [
+profiles["tetrispoland"] = {
+"name": "Classic Tetris Polska",
+"snapshots": [
 	[1683958547,70,3,23.33,70,null],
 	[1684044987,20,3,6.66,70,null],
 	[1684131197,20,3,6.66,70,null],
@@ -143,4 +145,4 @@ profiles["tetrispoland"] = [
 	[1698390133,10,1,10.0,160,null],
 	[1698476391,10,1,10.0,160,null],
 	[1698562785,10,1,10.0,160,null],
-];
+]};

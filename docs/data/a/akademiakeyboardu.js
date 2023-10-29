@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["akademiakeyboardu"] = [
+profiles["akademiakeyboardu"] = {
+"name": "Akademia Keyboardu KeyboardWay",
+"snapshots": [
 	[1649901865,60,2,30.0,60,null],
 	[1649988350,60,2,30.0,60,null],
 	[1650074535,60,2,30.0,60,null],
@@ -508,4 +510,4 @@ profiles["akademiakeyboardu"] = [
 	[1698367922,110,4,27.5,3210,-2.0],
 	[1698454478,110,4,27.5,3210,-2.0],
 	[1698540657,110,4,27.5,3210,-2.0],
-];
+]};

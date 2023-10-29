@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mspp"] = [
+profiles["mspp"] = {
+"name": "Młoda Sztuka Po Polsku",
+"snapshots": [
 	[1643358582,9,1,9.0,72,null],
 	[1643425447,9,1,9.0,72,null],
 	[1643521508,9,1,9.0,72,null],
@@ -579,4 +581,4 @@ profiles["mspp"] = [
 	[1698381429,9,1,9.0,261,null],
 	[1698467793,9,1,9.0,261,null],
 	[1698554127,9,1,9.0,261,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.zrozumiecnastolatka.pl"] = [
+profiles["www.zrozumiecnastolatka.pl"] = {
+"name": "Magdalena Wasilewska - Zrozumieć nastolatka",
+"snapshots": [
 	[1677219774,100,1,100.0,100,null],
 	[1677392509,100,1,100.0,100,null],
 	[1677478691,100,1,100.0,100,null],
@@ -197,4 +199,4 @@ profiles["www.zrozumiecnastolatka.pl"] = [
 	[1698392573,100,1,100.0,520,1.0],
 	[1698478843,100,1,100.0,520,1.0],
 	[1698565220,100,1,100.0,520,2.0],
-];
+]};

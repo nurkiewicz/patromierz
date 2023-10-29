@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["opk"] = [
+profiles["opk"] = {
+"name": "Otwarty Przewodnik Krajoznawczy",
+"snapshots": [
 	[1643360889,20,1,20.0,165,null],
 	[1643431601,20,1,20.0,165,null],
 	[1643525236,20,1,20.0,165,null],
@@ -518,4 +520,4 @@ profiles["opk"] = [
 	[1698383059,33,1,33.0,753,null],
 	[1698469379,33,1,33.0,753,null],
 	[1698555721,33,1,33.0,753,null],
-];
+]};

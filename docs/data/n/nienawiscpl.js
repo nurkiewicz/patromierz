@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nienawiscpl"] = [
+profiles["nienawiscpl"] = {
+"name": "Nienawiść.pl",
+"snapshots": [
 	[1573084800,1405,87,16.14,29978,null],
 	[1575763200,1095,80,13.68,31153,null],
 	[1589500800,1090,67,16.26,36658,null],
@@ -626,4 +628,4 @@ profiles["nienawiscpl"] = [
 	[1698382258,340,19,17.89,63818,null],
 	[1698468605,340,19,17.89,63828,null],
 	[1698554939,340,19,17.89,63828,null],
-];
+]};

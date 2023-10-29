@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["swl"] = [
+profiles["swl"] = {
+"name": "Sporty Walki Łęczna",
+"snapshots": [
 	[1665207187,10,1,10.0,10,null],
 	[1665294157,10,1,10.0,10,null],
 	[1665380366,10,1,10.0,10,null],
@@ -341,4 +343,4 @@ profiles["swl"] = [
 	[1698389324,10,1,10.0,220,null],
 	[1698475579,10,1,10.0,220,null],
 	[1698561981,10,1,10.0,220,null],
-];
+]};

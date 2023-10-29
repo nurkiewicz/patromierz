@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Concordia-Wejherowo"] = [
+profiles["Concordia-Wejherowo"] = {
+"name": "Duszpasterstwo Młodzieży Concordia",
+"snapshots": [
 	[1620345600,90,5,18.0,525,null],
 	[1643356150,110,3,36.66,1300,null],
 	[1643438543,110,3,36.66,1300,null],
@@ -585,4 +587,4 @@ profiles["Concordia-Wejherowo"] = [
 	[1698370848,10,2,5.0,2140,null],
 	[1698457416,10,2,5.0,2140,null],
 	[1698543568,10,2,5.0,2140,null],
-];
+]};

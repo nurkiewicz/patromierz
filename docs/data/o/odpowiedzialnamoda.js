@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["odpowiedzialnamoda"] = [
+profiles["odpowiedzialnamoda"] = {
+"name": "Odpowiedzialna Moda - Katarzyna Zajączkowska",
+"snapshots": [
 	[1643361069,10,1,10.0,20,null],
 	[1643427921,10,1,10.0,20,null],
 	[1643509680,10,1,10.0,20,null],
@@ -581,4 +583,4 @@ profiles["odpowiedzialnamoda"] = [
 	[1698382752,506,22,23.0,6894,-4.0],
 	[1698469087,506,22,23.0,6894,-4.0],
 	[1698555424,506,22,23.0,6894,-4.0],
-];
+]};

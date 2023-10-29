@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Centrum-Slowian-i-Wikingow"] = [
+profiles["Centrum-Slowian-i-Wikingow"] = {
+"name": "Centrum Słowian i Wikingów w Wolinie",
+"snapshots": [
 	[1607990400,905,27,33.51,905,null],
 	[1643363991,2647,73,36.26,64341,null],
 	[1643435320,2647,73,36.26,64362,null],
@@ -585,4 +587,4 @@ profiles["Centrum-Slowian-i-Wikingow"] = [
 	[1698370427,708,26,27.23,92259,-1.0],
 	[1698456994,708,26,27.23,92273,-1.0],
 	[1698543151,708,26,27.23,92273,-1.0],
-];
+]};

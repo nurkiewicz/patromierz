@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["idzpodprad"] = [
+profiles["idzpodprad"] = {
+"name": "Telewizja Idź Pod Prąd",
+"snapshots": [
 	[1640822400,10,1,10.0,10,null],
 	[1640908800,110,2,55.0,110,null],
 	[1641081600,310,8,38.75,360,null],
@@ -587,4 +589,4 @@ profiles["idzpodprad"] = [
 	[1698375453,1770,24,73.75,36680,1.0],
 	[1698461932,1770,24,73.75,36680,1.0],
 	[1698548147,1770,24,73.75,36730,1.0],
-];
+]};

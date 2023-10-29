@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Meteo"] = [
+profiles["Meteo"] = {
+"name": "\"Sorry. Taki mamy klimat\", czyli pogoda pod oknem Jarosława Turały",
+"snapshots": [
 	[1600905600,140,13,10.76,600,null],
 	[1611187200,140,12,11.66,1200,null],
 	[1623628800,170,17,10.0,1775,null],
@@ -587,4 +589,4 @@ profiles["Meteo"] = [
 	[1698380392,10,1,10.0,4335,null],
 	[1698466784,10,1,10.0,4335,null],
 	[1698553107,10,1,10.0,4335,null],
-];
+]};

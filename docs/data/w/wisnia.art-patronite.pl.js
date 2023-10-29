@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wisnia.art-patronite.pl"] = [
+profiles["wisnia.art-patronite.pl"] = {
+"name": "Aleksandra Wiśniewska",
+"snapshots": [
 	[1689404025,10,1,10.0,10,null],
 	[1689489810,10,1,10.0,10,null],
 	[1689576357,10,1,10.0,10,null],
@@ -81,4 +83,4 @@ profiles["wisnia.art-patronite.pl"] = [
 	[1698391870,50,1,50.0,230,null],
 	[1698478137,50,1,50.0,230,null],
 	[1698564513,50,1,50.0,230,null],
-];
+]};

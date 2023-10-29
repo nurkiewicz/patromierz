@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["livestreamrcs"] = [
+profiles["livestreamrcs"] = {
+"name": "RCS Livestream",
+"snapshots": [
 	[1695182120,250,4,62.5,250,null],
 	[1695354760,250,4,62.5,250,null],
 	[1695441356,250,4,62.5,250,null],
@@ -33,4 +35,4 @@ profiles["livestreamrcs"] = [
 	[1698378915,150,4,37.5,500,-3.0],
 	[1698465334,150,4,37.5,500,-3.0],
 	[1698551596,150,4,37.5,500,-3.0],
-];
+]};

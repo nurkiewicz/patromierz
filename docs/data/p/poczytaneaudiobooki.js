@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["poczytaneaudiobooki"] = [
+profiles["poczytaneaudiobooki"] = {
+"name": "Poczytane - audiobooki i słuchowiska",
+"snapshots": [
 	[1643355751,180,9,20.0,180,null],
 	[1643433365,180,9,20.0,180,null],
 	[1643518184,180,9,20.0,180,null],
@@ -583,4 +585,4 @@ profiles["poczytaneaudiobooki"] = [
 	[1698384458,340,13,26.15,4945,null],
 	[1698470748,340,13,26.15,4945,null],
 	[1698557107,340,13,26.15,5025,null],
-];
+]};

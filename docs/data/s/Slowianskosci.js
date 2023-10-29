@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Slowianskosci"] = [
+profiles["Slowianskosci"] = {
+"name": "Słowiańskości | Natalia Kościńska",
+"snapshots": [
 	[1611273600,174,11,15.81,332,null],
 	[1618272000,199,11,18.09,870,null],
 	[1620345600,199,11,18.09,905,null],
@@ -586,4 +588,4 @@ profiles["Slowianskosci"] = [
 	[1698388308,25,2,12.5,3367,null],
 	[1698474563,25,2,12.5,3367,null],
 	[1698560968,25,2,12.5,3367,null],
-];
+]};

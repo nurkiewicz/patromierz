@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["TBM"] = [
+profiles["TBM"] = {
+"name": "Tak Brzmi Miasto",
+"snapshots": [
 	[1643360379,790,18,43.88,5281,null],
 	[1643431741,790,18,43.88,5281,null],
 	[1643516153,790,17,46.47,5281,null],
@@ -584,4 +586,4 @@ profiles["TBM"] = [
 	[1698389903,212,10,21.2,15576,null],
 	[1698476163,212,10,21.2,15576,null],
 	[1698562559,212,10,21.2,15576,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Efi"] = [
+profiles["Efi"] = {
+"name": "Efi",
+"snapshots": [
 	[1655601062,60,2,30.0,60,null],
 	[1655687169,60,2,30.0,60,null],
 	[1655773777,60,2,30.0,60,null],
@@ -441,4 +443,4 @@ profiles["Efi"] = [
 	[1698372478,10,1,10.0,1430,null],
 	[1698459018,10,1,10.0,1430,null],
 	[1698545189,10,1,10.0,1430,null],
-];
+]};

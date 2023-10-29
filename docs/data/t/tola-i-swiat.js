@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tola-i-swiat"] = [
+profiles["tola-i-swiat"] = {
+"name": "Kanał edukacyjny dla dzieci - Tola i świat",
+"snapshots": [
 	[1692683480,10,1,10.0,10,null],
 	[1692770126,10,1,10.0,10,null],
 	[1692856393,10,1,10.0,10,null],
@@ -44,4 +46,4 @@ profiles["tola-i-swiat"] = [
 	[1698390307,25,1,25.0,50,null],
 	[1698476565,25,1,25.0,50,null],
 	[1698562958,25,1,25.0,50,null],
-];
+]};

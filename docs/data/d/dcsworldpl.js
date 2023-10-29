@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dcsworldpl"] = [
+profiles["dcsworldpl"] = {
+"name": "DCS World - Szkoła latania",
+"snapshots": [
 	[1623715200,130,7,18.57,1515,null],
 	[1643359454,155,8,19.37,2800,null],
 	[1643431535,155,8,19.37,2800,null],
@@ -586,4 +588,4 @@ profiles["dcsworldpl"] = [
 	[1698371442,215,10,21.5,7430,-1.0],
 	[1698458006,215,10,21.5,7430,-1.0],
 	[1698544159,215,10,21.5,7430,-1.0],
-];
+]};

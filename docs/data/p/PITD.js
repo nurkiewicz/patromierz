@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PITD"] = [
+profiles["PITD"] = {
+"name": "Polski Instytut Transportu Drogowego",
+"snapshots": [
 	[1669518612,20,1,20.0,20,null],
 	[1669604813,30,2,15.0,30,null],
 	[1669691318,40,3,13.33,40,null],
@@ -290,4 +292,4 @@ profiles["PITD"] = [
 	[1698384266,null,1,null,240,null],
 	[1698470560,null,1,null,240,null],
 	[1698556917,null,1,null,240,null],
-];
+]};

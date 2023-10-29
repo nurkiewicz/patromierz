@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["okienko-zycia-malgorzata-fober"] = [
+profiles["okienko-zycia-malgorzata-fober"] = {
+"name": "Okienko życia Foby - ratunek dla zwierząt",
+"snapshots": [
 	[1685679685,20,1,20.0,20,null],
 	[1685766821,20,1,20.0,20,null],
 	[1685852981,20,1,20.0,20,null],
@@ -120,4 +122,4 @@ profiles["okienko-zycia-malgorzata-fober"] = [
 	[1698382889,110,4,27.5,190,3.0],
 	[1698469221,110,4,27.5,190,3.0],
 	[1698555559,110,4,27.5,190,3.0],
-];
+]};

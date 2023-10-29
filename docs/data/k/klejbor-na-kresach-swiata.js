@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["klejbor-na-kresach-swiata"] = [
+profiles["klejbor-na-kresach-swiata"] = {
+"name": "Klejbor na Kresach Świata",
+"snapshots": [
 	[1643359706,102,3,34.0,1296,null],
 	[1643423673,102,3,34.0,1296,null],
 	[1643518907,102,3,34.0,1333,null],
@@ -584,4 +586,4 @@ profiles["klejbor-na-kresach-swiata"] = [
 	[1698377275,37,1,37.0,3088,null],
 	[1698463725,37,1,37.0,3088,null],
 	[1698549965,37,1,37.0,3088,null],
-];
+]};

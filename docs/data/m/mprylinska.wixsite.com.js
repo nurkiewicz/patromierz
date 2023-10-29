@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mprylinska.wixsite.com"] = [
+profiles["mprylinska.wixsite.com"] = {
+"name": "Monika Prylinska",
+"snapshots": [
 	[1643356380,200,11,18.18,200,null],
 	[1643438394,200,11,18.18,200,null],
 	[1643515846,200,11,18.18,200,null],
@@ -578,4 +580,4 @@ profiles["mprylinska.wixsite.com"] = [
 	[1698381346,30,4,7.5,2000,-1.0],
 	[1698467713,30,4,7.5,2000,-1.0],
 	[1698554047,30,4,7.5,2000,-1.0],
-];
+]};

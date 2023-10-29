@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OgrodyPermakultury"] = [
+profiles["OgrodyPermakultury"] = {
+"name": "Edukacyjne Centrum Ogrody Permakultury",
+"snapshots": [
 	[1645500353,null,null,null,180,null],
 	[1645586819,null,null,null,180,null],
 	[1645673251,null,null,null,180,null],
@@ -519,4 +521,4 @@ profiles["OgrodyPermakultury"] = [
 	[1698382842,70,3,23.33,920,null],
 	[1698469175,70,3,23.33,920,null],
 	[1698555513,70,3,23.33,920,null],
-];
+]};

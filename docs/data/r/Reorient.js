@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Reorient"] = [
+profiles["Reorient"] = {
+"name": "Reorient.pl",
+"snapshots": [
 	[1643358292,108,7,15.42,1206,null],
 	[1643433577,108,7,15.42,1206,null],
 	[1643517344,108,7,15.42,1206,null],
@@ -583,4 +585,4 @@ profiles["Reorient"] = [
 	[1698387059,132,7,18.85,4170,null],
 	[1698473314,132,7,18.85,4170,null],
 	[1698559721,132,7,18.85,4170,null],
-];
+]};

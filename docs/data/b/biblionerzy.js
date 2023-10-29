@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["biblionerzy"] = [
+profiles["biblionerzy"] = {
+"name": "Biblionerzy.pl - quiz biblijny",
+"snapshots": [
 	[1643358468,60,2,30.0,530,null],
 	[1643427054,60,2,30.0,530,null],
 	[1643518491,60,2,30.0,530,null],
@@ -583,4 +585,4 @@ profiles["biblionerzy"] = [
 	[1698369625,100,1,100.0,1905,null],
 	[1698456188,100,1,100.0,1905,null],
 	[1698542351,100,1,100.0,2005,null],
-];
+]};

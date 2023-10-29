@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.nabitawbutelke.pl"] = [
+profiles["www.nabitawbutelke.pl"] = {
+"name": "nabitawbutelke",
+"snapshots": [
 	[1678526796,540,3,180.0,540,null],
 	[1678602542,540,3,180.0,540,null],
 	[1678688611,540,3,180.0,540,null],
@@ -197,4 +199,4 @@ profiles["www.nabitawbutelke.pl"] = [
 	[1698392471,500,1,500.0,4160,null],
 	[1698478740,500,1,500.0,4160,null],
 	[1698565118,500,1,500.0,4160,null],
-];
+]};

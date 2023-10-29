@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["NowyTygodnikKulturalny"] = [
+profiles["NowyTygodnikKulturalny"] = {
+"name": "Nowy Tygodnik Kulturalny",
+"snapshots": [
 	[1605571200,1720,86,20.0,1720,null],
 	[1606608000,4100,199,20.6,4100,null],
 	[1611100800,7740,366,21.14,15640,null],
@@ -669,4 +671,4 @@ profiles["NowyTygodnikKulturalny"] = [
 	[1698382571,6165,289,21.33,254595,-4.0],
 	[1698468910,6180,289,21.38,254695,-3.0],
 	[1698555245,6215,291,21.35,254780,-3.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["biba_ocr"] = [
+profiles["biba_ocr"] = {
+"name": "Paweł Pastuszka",
+"snapshots": [
 	[1691025397,20,1,20.0,20,null],
 	[1691111430,20,1,20.0,20,null],
 	[1691197714,20,1,20.0,20,null],
@@ -63,4 +65,4 @@ profiles["biba_ocr"] = [
 	[1698369614,20,1,20.0,60,null],
 	[1698456177,20,1,20.0,60,null],
 	[1698542341,20,1,20.0,60,null],
-];
+]};

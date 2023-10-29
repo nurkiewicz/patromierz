@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["WETprojekty"] = [
+profiles["WETprojekty"] = {
+"name": "Witold Ernest Tomczak - artystyczne projekty",
+"snapshots": [
 	[1690286900,20,1,20.0,20,null],
 	[1690373526,20,1,20.0,20,null],
 	[1690438824,20,1,20.0,20,null],
@@ -71,4 +73,4 @@ profiles["WETprojekty"] = [
 	[1698391629,null,1,null,80,-1.0],
 	[1698477893,null,1,null,80,-1.0],
 	[1698564273,null,1,null,80,-1.0],
-];
+]};

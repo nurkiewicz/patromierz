@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["klaudiaczabokiantoninabialek"] = [
+profiles["klaudiaczabokiantoninabialek"] = {
+"name": "Klaudia Czabok i Antonina Białek",
+"snapshots": [
 	[1650682871,170,7,24.28,170,null],
 	[1650769698,240,9,26.66,240,null],
 	[1650855950,240,9,26.66,240,null],
@@ -498,4 +500,4 @@ profiles["klaudiaczabokiantoninabialek"] = [
 	[1698377246,20,2,10.0,3095,-1.0],
 	[1698463697,20,2,10.0,3095,null],
 	[1698549937,20,2,10.0,3095,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["NTT"] = [
+profiles["NTT"] = {
+"name": "Naukowe Towarzystwo Tomistyczne",
+"snapshots": [
 	[1643365226,20,1,20.0,40,null],
 	[1643429387,20,1,20.0,40,null],
 	[1643525031,20,1,20.0,40,null],
@@ -398,4 +400,4 @@ profiles["NTT"] = [
 	[1698382604,10,1,10.0,310,null],
 	[1698468942,10,1,10.0,310,null],
 	[1698555277,10,1,10.0,310,null],
-];
+]};

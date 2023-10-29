@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Python"] = [
+profiles["Python"] = {
+"name": "Kodowanie dla: osieroconych, uchodźców i patronów",
+"snapshots": [
 	[1649295969,100,1,100.0,100,null],
 	[1649382078,190,4,47.5,190,null],
 	[1649468636,190,4,47.5,190,null],
@@ -512,4 +514,4 @@ profiles["Python"] = [
 	[1698386558,93,4,23.25,2947,null],
 	[1698472815,93,4,23.25,2947,null],
 	[1698559203,93,4,23.25,2947,null],
-];
+]};

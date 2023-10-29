@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Hotelmania"] = [
+profiles["Hotelmania"] = {
+"name": "Stowarzyszenie Hotelmania",
+"snapshots": [
 	[1620345600,20,2,10.0,20,null],
 	[1655774397,10,1,10.0,1120,null],
 	[1655860658,10,1,10.0,1120,null],
@@ -440,4 +442,4 @@ profiles["Hotelmania"] = [
 	[1698375318,10,1,10.0,1310,null],
 	[1698461798,10,1,10.0,1310,null],
 	[1698548011,10,1,10.0,1310,null],
-];
+]};

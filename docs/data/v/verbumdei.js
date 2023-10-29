@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["verbumdei"] = [
+profiles["verbumdei"] = {
+"name": "Verbum Dei - Słowo Boże na dziś.",
+"snapshots": [
 	[1606694400,5,1,5.0,275,null],
 	[1620777600,5,1,5.0,305,null],
 	[1624492800,5,1,5.0,310,null],
@@ -225,4 +227,4 @@ profiles["verbumdei"] = [
 	[1698391179,5,1,5.0,430,null],
 	[1698477441,5,1,5.0,430,null],
 	[1698563824,5,1,5.0,430,null],
-];
+]};

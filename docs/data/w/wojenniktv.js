@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wojenniktv"] = [
+profiles["wojenniktv"] = {
+"name": "Wojennik TV - Gry Planszowe",
+"snapshots": [
 	[1643357166,170,4,42.5,1936,null],
 	[1643428730,170,4,42.5,1936,null],
 	[1643522679,170,4,42.5,1936,null],
@@ -583,4 +585,4 @@ profiles["wojenniktv"] = [
 	[1698392005,70,4,17.5,3005,null],
 	[1698478273,70,4,17.5,3005,null],
 	[1698564646,70,4,17.5,3005,null],
-];
+]};

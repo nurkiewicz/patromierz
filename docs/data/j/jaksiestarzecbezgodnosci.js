@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jaksiestarzecbezgodnosci"] = [
+profiles["jaksiestarzecbezgodnosci"] = {
+"name": "Jak się starzeć bez godności",
+"snapshots": [
 	[1652153286,15,1,15.0,15,null],
 	[1652267660,80,3,26.66,80,null],
 	[1652324180,80,3,26.66,80,null],
@@ -480,4 +482,4 @@ profiles["jaksiestarzecbezgodnosci"] = [
 	[1698375970,795,45,17.66,15710,-1.0],
 	[1698462438,825,46,17.93,15785,null],
 	[1698548662,825,46,17.93,15785,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["rodoradio"] = [
+profiles["rodoradio"] = {
+"name": "rodoRADIO by bitonline",
+"snapshots": [
 	[1643364449,144,1,144.0,144,null],
 	[1643435931,144,1,144.0,144,null],
 	[1643516539,144,1,144.0,144,null],
@@ -583,4 +585,4 @@ profiles["rodoradio"] = [
 	[1698387234,199,2,99.5,4032,null],
 	[1698473491,199,2,99.5,4032,null],
 	[1698559899,199,2,99.5,4032,null],
-];
+]};

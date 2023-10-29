@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["domeq"] = [
+profiles["domeq"] = {
+"name": "DOM EQ - Krakowskie Centrum Równości",
+"snapshots": [
 	[1615075200,165,6,27.5,900,null],
 	[1632182400,215,7,30.71,2080,null],
 	[1640217600,265,8,33.12,2760,null],
@@ -588,4 +590,4 @@ profiles["domeq"] = [
 	[1698371816,245,6,40.83,7935,2.0],
 	[1698458367,245,6,40.83,7935,2.0],
 	[1698544532,245,6,40.83,7935,2.0],
-];
+]};

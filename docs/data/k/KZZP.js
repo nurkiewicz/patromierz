@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KZZP"] = [
+profiles["KZZP"] = {
+"name": "Koalicja ZaZieleń Poznań",
+"snapshots": [
 	[1672819468,30,1,30.0,30,null],
 	[1672906961,30,1,30.0,30,null],
 	[1672992652,30,1,30.0,30,null],
@@ -160,4 +162,4 @@ profiles["KZZP"] = [
 	[1698378442,10,1,10.0,130,null],
 	[1698464863,10,1,10.0,130,null],
 	[1698551124,10,1,10.0,130,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MetalNews.pl"] = [
+profiles["MetalNews.pl"] = {
+"name": "MetalNews.pl",
+"snapshots": [
 	[1649898960,20,1,20.0,20,null],
 	[1649985438,20,1,20.0,20,null],
 	[1650071679,20,1,20.0,20,null],
@@ -507,4 +509,4 @@ profiles["MetalNews.pl"] = [
 	[1698380381,200,9,22.22,3875,1.0],
 	[1698466772,200,9,22.22,3875,1.0],
 	[1698553095,200,9,22.22,3875,1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["spotkania_z_przyroda"] = [
+profiles["spotkania_z_przyroda"] = {
+"name": "Michał Stanecki - podkast Spotkania z Przyrodą",
+"snapshots": [
 	[1647677706,5,1,5.0,5,null],
 	[1647764125,5,1,5.0,5,null],
 	[1647850676,5,1,5.0,5,null],
@@ -523,4 +525,4 @@ profiles["spotkania_z_przyroda"] = [
 	[1698388690,130,5,26.0,null,1.0],
 	[1698474941,130,5,26.0,null,1.0],
 	[1698561344,130,5,26.0,null,1.0],
-];
+]};

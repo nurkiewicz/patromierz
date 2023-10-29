@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MKSBieszczady"] = [
+profiles["MKSBieszczady"] = {
+"name": "MKS Bieszczady Ustrzyki Dolne",
+"snapshots": [
 	[1692157533,20,1,20.0,20,null],
 	[1692243895,20,1,20.0,20,null],
 	[1692330571,20,1,20.0,20,null],
@@ -50,4 +52,4 @@ profiles["MKSBieszczady"] = [
 	[1698380921,110,11,10.0,300,null],
 	[1698467300,110,11,10.0,300,null],
 	[1698553630,110,11,10.0,300,null],
-];
+]};

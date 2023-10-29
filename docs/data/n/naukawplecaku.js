@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["naukawplecaku"] = [
+profiles["naukawplecaku"] = {
+"name": "Nauka w plecaku - Sabina Piłat",
+"snapshots": [
 	[1643358890,70,4,17.5,520,null],
 	[1643434007,70,4,17.5,520,null],
 	[1643513719,70,4,17.5,520,null],
@@ -583,4 +585,4 @@ profiles["naukawplecaku"] = [
 	[1698382028,35,2,17.5,1520,null],
 	[1698468378,35,2,17.5,1520,null],
 	[1698554711,35,2,17.5,1520,null],
-];
+]};

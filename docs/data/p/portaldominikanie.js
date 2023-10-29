@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["portaldominikanie"] = [
+profiles["portaldominikanie"] = {
+"name": "dominikanie.pl",
+"snapshots": [
 	[1605225600,13265,784,16.91,25170,null],
 	[1606608000,13585,800,16.98,26310,null],
 	[1619049600,12670,733,17.28,93660,null],
@@ -617,4 +619,4 @@ profiles["portaldominikanie"] = [
 	[1698385001,16220,688,23.57,442825,6.0],
 	[1698471281,16245,689,23.57,443090,6.0],
 	[1698557652,16245,689,23.57,443285,6.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fccrp"] = [
+profiles["fccrp"] = {
+"name": "Fundacja Cane Corso Rescue Poland",
+"snapshots": [
 	[1695176364,25,1,25.0,25,null],
 	[1695262400,25,1,25.0,25,null],
 	[1695349052,25,1,25.0,25,null],
@@ -34,4 +36,4 @@ profiles["fccrp"] = [
 	[1698373005,25,1,25.0,50,null],
 	[1698459536,25,1,25.0,50,null],
 	[1698545713,25,1,25.0,50,null],
-];
+]};

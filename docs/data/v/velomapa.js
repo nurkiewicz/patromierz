@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["velomapa"] = [
+profiles["velomapa"] = {
+"name": "Velomapa.pl",
+"snapshots": [
 	[1663307108,50,6,8.33,50,null],
 	[1663393413,50,6,8.33,50,null],
 	[1663479478,50,6,8.33,50,null],
@@ -356,4 +358,4 @@ profiles["velomapa"] = [
 	[1698391155,110,9,12.22,2070,-1.0],
 	[1698477417,120,10,12.0,2080,-1.0],
 	[1698563801,115,10,11.5,2080,-1.0],
-];
+]};

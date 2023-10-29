@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["TSMTB"] = [
+profiles["TSMTB"] = {
+"name": "Stowarzyszenie Trójmiejskie Ścieżki MTB",
+"snapshots": [
 	[1643433210,225,7,32.14,225,null],
 	[1643516634,240,8,30.0,240,null],
 	[1643597258,240,8,30.0,240,null],
@@ -583,4 +585,4 @@ profiles["TSMTB"] = [
 	[1698390674,1960,49,40.0,25635,4.0],
 	[1698476932,1960,49,40.0,25635,4.0],
 	[1698563320,1960,49,40.0,25665,4.0],
-];
+]};

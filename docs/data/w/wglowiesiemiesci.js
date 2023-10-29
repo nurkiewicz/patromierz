@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wglowiesiemiesci"] = [
+profiles["wglowiesiemiesci"] = {
+"name": "Adam Elżanowski - W Głowie się Mieści",
+"snapshots": [
 	[1678526697,30,1,30.0,30,null],
 	[1678601874,30,1,30.0,30,null],
 	[1678687952,30,1,30.0,30,null],
@@ -197,4 +199,4 @@ profiles["wglowiesiemiesci"] = [
 	[1698391644,30,1,30.0,240,null],
 	[1698477910,30,1,30.0,240,null],
 	[1698564288,30,1,30.0,240,null],
-];
+]};

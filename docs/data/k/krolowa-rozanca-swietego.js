@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["krolowa-rozanca-swietego"] = [
+profiles["krolowa-rozanca-swietego"] = {
+"name": "Królowa Różańca Świętego",
+"snapshots": [
 	[1654745909,10,1,10.0,10,null],
 	[1654832343,10,1,10.0,10,null],
 	[1654918727,180,5,36.0,180,null],
@@ -451,4 +453,4 @@ profiles["krolowa-rozanca-swietego"] = [
 	[1698377930,660,21,31.42,12780,-1.0],
 	[1698464368,660,21,31.42,12780,-1.0],
 	[1698550616,660,20,33.0,12805,-1.0],
-];
+]};

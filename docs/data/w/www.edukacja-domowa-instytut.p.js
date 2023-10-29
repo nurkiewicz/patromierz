@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.edukacja-domowa-instytut.p"] = [
+profiles["www.edukacja-domowa-instytut.p"] = {
+"name": "INSTYTUT EDUCATIO DOMESTICA",
+"snapshots": [
 	[1688194332,10,1,10.0,10,null],
 	[1688281089,10,1,10.0,10,null],
 	[1688366599,10,1,10.0,10,null],
@@ -95,4 +97,4 @@ profiles["www.edukacja-domowa-instytut.p"] = [
 	[1698392333,120,5,24.0,450,null],
 	[1698478602,120,4,30.0,450,null],
 	[1698564980,120,4,30.0,450,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Pogoda-w-Lodzi"] = [
+profiles["Pogoda-w-Lodzi"] = {
+"name": "Pogoda w Łodzi",
+"snapshots": [
 	[1643358774,56,7,8.0,56,null],
 	[1643426590,56,7,8.0,56,null],
 	[1643522721,56,7,8.0,56,null],
@@ -583,4 +585,4 @@ profiles["Pogoda-w-Lodzi"] = [
 	[1698384645,10,2,5.0,522,null],
 	[1698470932,10,2,5.0,522,null],
 	[1698557294,10,2,5.0,522,null],
-];
+]};

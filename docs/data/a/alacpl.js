@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["alacpl"] = [
+profiles["alacpl"] = {
+"name": "ALAC - Amatorska Liga Assetto Corsa",
+"snapshots": [
 	[1643365239,255,15,17.0,2310,null],
 	[1643430352,305,16,19.06,2360,null],
 	[1643520545,305,16,19.06,2370,null],
@@ -584,4 +586,4 @@ profiles["alacpl"] = [
 	[1698367985,155,7,22.14,7700,null],
 	[1698454544,155,7,22.14,7710,null],
 	[1698540722,155,7,22.14,7710,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bardonatropietajemnichistorii"] = [
+profiles["bardonatropietajemnichistorii"] = {
+"name": "Bardo - na tropie tajemnic historii",
+"snapshots": [
 	[1643367603,180,5,36.0,4540,null],
 	[1643424823,160,5,32.0,4540,null],
 	[1643512492,160,5,32.0,4540,null],
@@ -583,4 +585,4 @@ profiles["bardonatropietajemnichistorii"] = [
 	[1698369251,150,4,37.5,7790,-1.0],
 	[1698455813,150,4,37.5,7890,null],
 	[1698541978,150,4,37.5,7890,null],
-];
+]};

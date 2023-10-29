@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.psnw.pl"] = [
+profiles["www.psnw.pl"] = {
+"name": "Polskie Stowarzyszenie Nordic Walking",
+"snapshots": [
 	[1691389087,10,1,10.0,10,null],
 	[1691475706,10,1,10.0,10,null],
 	[1691561758,10,1,10.0,10,null],
@@ -58,4 +60,4 @@ profiles["www.psnw.pl"] = [
 	[1698392504,10,1,10.0,30,null],
 	[1698478774,10,1,10.0,30,null],
 	[1698565153,10,1,10.0,30,null],
-];
+]};

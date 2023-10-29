@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ekocentryk.pl"] = [
+profiles["ekocentryk.pl"] = {
+"name": "Krzysiek Pokorski - ekocentryk.pl",
+"snapshots": [
 	[1695175892,20,2,10.0,20,null],
 	[1695261933,20,2,10.0,20,null],
 	[1695348580,20,2,10.0,20,null],
@@ -35,4 +37,4 @@ profiles["ekocentryk.pl"] = [
 	[1698372510,20,2,10.0,40,null],
 	[1698459049,20,2,10.0,40,null],
 	[1698545220,20,2,10.0,40,null],
-];
+]};

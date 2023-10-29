@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["exaktniemieckionline"] = [
+profiles["exaktniemieckionline"] = {
+"name": "Joanna Adamek - Niemiecki Online",
+"snapshots": [
 	[1696385562,77,4,19.25,105,null],
 	[1696471847,77,4,19.25,105,null],
 	[1696558614,77,4,19.25,105,null],
@@ -21,4 +23,4 @@ profiles["exaktniemieckionline"] = [
 	[1698372832,98,4,24.5,203,null],
 	[1698459366,98,4,24.5,203,null],
 	[1698545539,98,4,24.5,203,null],
-];
+]};

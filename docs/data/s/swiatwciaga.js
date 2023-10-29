@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["swiatwciaga"] = [
+profiles["swiatwciaga"] = {
+"name": "ŚWIAT WCIĄGA - Wojciech Piestrak",
+"snapshots": [
 	[1643366375,825,31,26.61,2185,null],
 	[1643426788,805,31,25.96,2185,null],
 	[1643523135,995,33,30.15,2615,null],
@@ -583,4 +585,4 @@ profiles["swiatwciaga"] = [
 	[1698389290,2105,79,26.64,43950,-3.0],
 	[1698475545,2125,80,26.56,44035,-3.0],
 	[1698561948,2125,80,26.56,44085,-3.0],
-];
+]};

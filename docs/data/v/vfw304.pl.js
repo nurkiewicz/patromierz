@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["vfw304.pl"] = [
+profiles["vfw304.pl"] = {
+"name": "VFW-304",
+"snapshots": [
 	[1643358580,60,5,12.0,239,null],
 	[1643427745,60,5,12.0,239,null],
 	[1643523438,60,5,12.0,239,null],
@@ -583,4 +585,4 @@ profiles["vfw304.pl"] = [
 	[1698391190,10,1,10.0,1179,null],
 	[1698477452,10,1,10.0,1179,null],
 	[1698563836,10,1,10.0,1179,null],
-];
+]};

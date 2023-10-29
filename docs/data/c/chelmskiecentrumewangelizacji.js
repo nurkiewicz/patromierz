@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chelmskiecentrumewangelizacji"] = [
+profiles["chelmskiecentrumewangelizacji"] = {
+"name": "Chełmskie Centrum Ewangelizacji",
+"snapshots": [
 	[1643359693,675,16,42.18,2165,null],
 	[1643432657,675,16,42.18,2195,null],
 	[1643518583,675,16,42.18,2195,null],
@@ -584,4 +586,4 @@ profiles["chelmskiecentrumewangelizacji"] = [
 	[1698370509,750,15,50.0,15355,4.0],
 	[1698457076,750,15,50.0,15455,4.0],
 	[1698543232,750,15,50.0,15455,4.0],
-];
+]};

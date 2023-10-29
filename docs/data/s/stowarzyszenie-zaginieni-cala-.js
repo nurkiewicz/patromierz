@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["stowarzyszenie-zaginieni-cala-"] = [
+profiles["stowarzyszenie-zaginieni-cala-"] = {
+"name": "Zaginieni Cała Polska",
+"snapshots": [
 	[1670394832,80,3,26.66,80,null],
 	[1670481996,60,3,20.0,80,null],
 	[1670568145,60,3,20.0,80,null],
@@ -282,4 +284,4 @@ profiles["stowarzyszenie-zaginieni-cala-"] = [
 	[1698388992,60,2,30.0,990,-1.0],
 	[1698475246,60,2,30.0,1040,-1.0],
 	[1698561647,60,2,30.0,1040,-1.0],
-];
+]};

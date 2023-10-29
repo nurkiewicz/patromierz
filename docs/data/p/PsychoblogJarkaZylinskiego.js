@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PsychoblogJarkaZylinskiego"] = [
+profiles["PsychoblogJarkaZylinskiego"] = {
+"name": "Psychoblog Jarka Żylińskiego",
+"snapshots": [
 	[1652060129,50,1,50.0,50,null],
 	[1652148283,50,1,50.0,50,null],
 	[1652262561,60,2,30.0,60,null],
@@ -480,4 +482,4 @@ profiles["PsychoblogJarkaZylinskiego"] = [
 	[1698386424,170,8,21.25,2920,-1.0],
 	[1698472684,170,8,21.25,2920,-1.0],
 	[1698559071,170,8,21.25,2920,-1.0],
-];
+]};

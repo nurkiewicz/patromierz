@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fundacjakapucynska"] = [
+profiles["fundacjakapucynska"] = {
+"name": "Fundacja Kapucyńska im. bł. Aniceta Koplińskiego",
+"snapshots": [
 	[1603411200,5126,162,31.64,15022,null],
 	[1631145600,4707,139,33.86,75766,null],
 	[1643364227,4881,127,38.43,98330,null],
@@ -575,4 +577,4 @@ profiles["fundacjakapucynska"] = [
 	[1698287765,4029,102,39.5,187018,-3.0],
 	[1698373822,4029,102,39.5,187253,-3.0],
 	[1698546526,4029,102,39.5,187437,-3.0],
-];
+]};

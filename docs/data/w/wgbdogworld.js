@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wgbdogworld"] = [
+profiles["wgbdogworld"] = {
+"name": "WGB DOG WORLD",
+"snapshots": [
 	[1614816000,190,8,23.75,190,null],
 	[1623542400,330,23,14.34,1265,null],
 	[1643362827,235,14,16.78,3590,null],
@@ -586,4 +588,4 @@ profiles["wgbdogworld"] = [
 	[1698391642,10,2,5.0,5105,null],
 	[1698477907,10,2,5.0,5110,null],
 	[1698564285,10,2,5.0,5110,null],
-];
+]};

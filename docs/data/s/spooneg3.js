@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["spooneg3"] = [
+profiles["spooneg3"] = {
+"name": "Mateusz Wujciów",
+"snapshots": [
 	[1643356468,260,7,37.14,260,null],
 	[1643430677,260,7,37.14,260,null],
 	[1643516613,260,7,37.14,260,null],
@@ -584,4 +586,4 @@ profiles["spooneg3"] = [
 	[1698388640,260,4,65.0,5820,null],
 	[1698474893,260,4,65.0,5820,null],
 	[1698561297,260,4,65.0,5820,null],
-];
+]};

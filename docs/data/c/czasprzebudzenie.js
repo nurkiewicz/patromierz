@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["czasprzebudzenie"] = [
+profiles["czasprzebudzenie"] = {
+"name": "MineCraft Czas: Przebudzenie ",
+"snapshots": [
 	[1663297690,65,2,32.5,65,null],
 	[1663384036,65,2,32.5,65,null],
 	[1663470382,65,2,32.5,65,null],
@@ -191,4 +193,4 @@ profiles["czasprzebudzenie"] = [
 	[1698371088,5,1,5.0,265,null],
 	[1698457659,5,1,5.0,265,null],
 	[1698543808,5,1,5.0,265,null],
-];
+]};

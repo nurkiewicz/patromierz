@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.ensofilm.pl"] = [
+profiles["www.ensofilm.pl"] = {
+"name": "[ dźwiękościeżka ] - podcast o muzyce filmowej",
+"snapshots": [
 	[1678526783,5,1,5.0,5,null],
 	[1678602462,5,1,5.0,5,null],
 	[1678688532,5,1,5.0,5,null],
@@ -197,4 +199,4 @@ profiles["www.ensofilm.pl"] = [
 	[1698392343,15,2,7.5,170,null],
 	[1698478609,15,2,7.5,170,null],
 	[1698564988,15,2,7.5,170,null],
-];
+]};

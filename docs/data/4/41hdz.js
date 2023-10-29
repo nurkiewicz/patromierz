@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["41hdz"] = [
+profiles["41hdz"] = {
+"name": "41 Harcerska Drużyna Żeglarska im. Władysława Wagnera",
+"snapshots": [
 	[1604188800,370,10,37.0,370,null],
 	[1606348800,680,18,37.77,680,null],
 	[1618185600,430,15,28.66,3480,null],
@@ -587,4 +589,4 @@ profiles["41hdz"] = [
 	[1698367418,220,7,31.42,13985,null],
 	[1698453972,220,7,31.42,13985,null],
 	[1698540154,220,7,31.42,13985,null],
-];
+]};

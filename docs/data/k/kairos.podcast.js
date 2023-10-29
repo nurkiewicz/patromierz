@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kairos.podcast"] = [
+profiles["kairos.podcast"] = {
+"name": "Kairos. Podcast Piotra Augustyniaka i Marka Pospieszalskiego",
+"snapshots": [
 	[1659065999,20,1,20.0,20,null],
 	[1659152259,20,1,20.0,20,null],
 	[1659238484,20,1,20.0,20,null],
@@ -404,4 +406,4 @@ profiles["kairos.podcast"] = [
 	[1698376582,170,6,28.33,2350,null],
 	[1698463042,170,6,28.33,2350,null],
 	[1698549274,170,6,28.33,2350,null],
-];
+]};

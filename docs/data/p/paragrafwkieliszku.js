@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["paragrafwkieliszku"] = [
+profiles["paragrafwkieliszku"] = {
+"name": "paragrafwkieliszku.pl ",
+"snapshots": [
 	[1643364908,645,12,53.75,15195,null],
 	[1643431891,645,12,53.75,15295,null],
 	[1643520686,645,12,53.75,15295,null],
@@ -582,4 +584,4 @@ profiles["paragrafwkieliszku"] = [
 	[1698383542,300,8,37.5,22220,1.0],
 	[1698469849,300,8,37.5,22220,1.0],
 	[1698556196,300,8,37.5,22250,1.0],
-];
+]};

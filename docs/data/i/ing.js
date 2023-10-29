@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ing"] = [
+profiles["ing"] = {
+"name": "Johan Ingeborg - Gothicowe filmy animowane",
+"snapshots": [
 	[1643358159,430,13,33.07,3670,null],
 	[1643438470,430,13,33.07,3720,null],
 	[1643519437,430,13,33.07,3720,null],
@@ -585,4 +587,4 @@ profiles["ing"] = [
 	[1698375608,250,9,27.77,11970,-2.0],
 	[1698462083,250,9,27.77,12030,-2.0],
 	[1698548300,250,9,27.77,12030,-2.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fds"] = [
+profiles["fds"] = {
+"name": "Fantastyczny Dolny Śląsk",
+"snapshots": [
 	[1655089570,340,7,48.57,340,null],
 	[1655175825,340,7,48.57,340,null],
 	[1655262524,340,7,48.57,340,null],
@@ -448,4 +450,4 @@ profiles["fds"] = [
 	[1698373008,590,9,65.55,9430,null],
 	[1698459538,590,9,65.55,9430,null],
 	[1698545715,590,9,65.55,9430,null],
-];
+]};

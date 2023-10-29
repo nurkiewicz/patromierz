@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Andrzej_Mankowski_Filmy_pod_sp"] = [
+profiles["Andrzej_Mankowski_Filmy_pod_sp"] = {
+"name": "Andrzej Mańkowski",
+"snapshots": [
 	[1696208303,500,3,166.66,500,null],
 	[1696294572,500,3,166.66,500,null],
 	[1696381077,500,3,166.66,500,null],
@@ -23,4 +25,4 @@ profiles["Andrzej_Mankowski_Filmy_pod_sp"] = [
 	[1698368284,600,6,100.0,700,null],
 	[1698454843,600,6,100.0,700,null],
 	[1698541017,600,6,100.0,700,null],
-];
+]};

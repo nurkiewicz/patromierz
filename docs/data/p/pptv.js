@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pptv"] = [
+profiles["pptv"] = {
+"name": "Polish Paranormal  TV",
+"snapshots": [
 	[1643356937,106,7,15.14,5504,null],
 	[1643438157,106,7,15.14,5504,null],
 	[1643515890,106,7,15.14,5504,null],
@@ -582,4 +584,4 @@ profiles["pptv"] = [
 	[1698385133,29,2,14.5,6745,null],
 	[1698471410,29,2,14.5,6745,null],
 	[1698557783,29,2,14.5,6745,null],
-];
+]};

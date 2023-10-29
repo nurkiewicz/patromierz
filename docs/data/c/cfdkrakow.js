@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["cfdkrakow"] = [
+profiles["cfdkrakow"] = {
+"name": "Centrum Formacji Duchowej - Kraków",
+"snapshots": [
 	[1693185918,130,5,26.0,130,null],
 	[1693272424,130,5,26.0,130,null],
 	[1693358527,210,7,30.0,210,null],
@@ -38,4 +40,4 @@ profiles["cfdkrakow"] = [
 	[1698370458,1210,24,50.41,2150,14.0],
 	[1698457026,1210,24,50.41,2380,14.0],
 	[1698543182,1210,24,50.41,2380,14.0],
-];
+]};

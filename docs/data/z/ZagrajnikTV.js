@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ZagrajnikTV"] = [
+profiles["ZagrajnikTV"] = {
+"name": "Jędrzej Szweda - ZagrajnikTV",
+"snapshots": [
 	[1558051200,745,37,20.13,14525,null],
 	[1643351394,910,39,23.33,43030,null],
 	[1643429469,910,39,23.33,43040,null],
@@ -585,4 +587,4 @@ profiles["ZagrajnikTV"] = [
 	[1698392893,410,21,19.52,55390,-2.0],
 	[1698479165,410,21,19.52,55410,-2.0],
 	[1698565540,410,21,19.52,55410,-2.0],
-];
+]};

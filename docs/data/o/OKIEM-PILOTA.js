@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OKIEM-PILOTA"] = [
+profiles["OKIEM-PILOTA"] = {
+"name": "Tomasz Siembida",
+"snapshots": [
 	[1643362750,710,4,177.5,2030,null],
 	[1643437316,710,4,177.5,2030,null],
 	[1643511307,710,4,177.5,2030,null],
@@ -581,4 +583,4 @@ profiles["OKIEM-PILOTA"] = [
 	[1698382864,100,1,100.0,4900,null],
 	[1698469196,100,1,100.0,4900,null],
 	[1698555535,100,1,100.0,4900,null],
-];
+]};

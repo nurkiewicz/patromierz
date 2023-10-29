@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["luksusowetorebki"] = [
+profiles["luksusowetorebki"] = {
+"name": "LUKSUSOWE TOREBKI by Lux&Happy",
+"snapshots": [
 	[1643354319,1145,68,16.83,6300,null],
 	[1643438707,1155,70,16.5,6315,null],
 	[1643517514,1135,70,16.21,6435,null],
@@ -582,4 +584,4 @@ profiles["luksusowetorebki"] = [
 	[1698379219,1400,40,35.0,31880,-1.0],
 	[1698465632,1400,41,34.14,31905,-1.0],
 	[1698551897,1375,42,32.73,32010,-1.0],
-];
+]};

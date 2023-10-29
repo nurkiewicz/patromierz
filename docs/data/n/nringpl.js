@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nringpl"] = [
+profiles["nringpl"] = {
+"name": "Nring.pl | Łukasz Formella",
+"snapshots": [
 	[1643366421,290,7,41.42,6080,null],
 	[1643434042,290,7,41.42,6080,null],
 	[1643523623,290,7,41.42,6080,null],
@@ -578,4 +580,4 @@ profiles["nringpl"] = [
 	[1698382592,190,5,38.0,11240,null],
 	[1698468931,190,5,38.0,11240,null],
 	[1698555267,190,5,38.0,11240,null],
-];
+]};

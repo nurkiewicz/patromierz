@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["strefaanime"] = [
+profiles["strefaanime"] = {
+"name": "Strefa Anime",
+"snapshots": [
 	[1645425459,5,1,5.0,null,null],
 	[1645511865,5,1,5.0,null,null],
 	[1645598496,5,1,5.0,null,null],
@@ -403,4 +405,4 @@ profiles["strefaanime"] = [
 	[1698389063,44,2,22.0,null,null],
 	[1698475315,44,2,22.0,null,null],
 	[1698561718,44,2,22.0,null,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Muzeum-ks-Jerzego-Popieluszki"] = [
+profiles["Muzeum-ks-Jerzego-Popieluszki"] = {
+"name": "Muzeum ks. Jerzego Popiełuszki",
+"snapshots": [
 	[1643355609,240,5,48.0,240,null],
 	[1643436594,240,5,48.0,240,null],
 	[1643525374,240,5,48.0,240,null],
@@ -566,4 +568,4 @@ profiles["Muzeum-ks-Jerzego-Popieluszki"] = [
 	[1698381525,330,4,82.5,3120,6.0],
 	[1698467888,330,4,82.5,3120,6.0],
 	[1698554222,330,4,82.5,3170,6.0],
-];
+]};

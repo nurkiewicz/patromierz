@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fisherman.angles"] = [
+profiles["fisherman.angles"] = {
+"name": "Jazz - Alternatywa - Koncerty - Warsztaty",
+"snapshots": [
 	[1676970723,50,1,50.0,50,null],
 	[1677055431,70,2,35.0,70,null],
 	[1677145917,100,3,33.33,100,null],
@@ -207,4 +209,4 @@ profiles["fisherman.angles"] = [
 	[1698373179,390,21,18.57,5510,null],
 	[1698459707,390,21,18.57,5510,null],
 	[1698545887,390,21,18.57,5530,null],
-];
+]};

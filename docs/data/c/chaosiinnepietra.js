@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chaosiinnepietra"] = [
+profiles["chaosiinnepietra"] = {
+"name": "Chaos i inne piętra - Kaja Kowalewska ",
+"snapshots": [
 	[1643354382,900,7,128.57,16525,null],
 	[1643429603,900,7,128.57,16525,null],
 	[1643513822,900,7,128.57,16525,null],
@@ -584,4 +586,4 @@ profiles["chaosiinnepietra"] = [
 	[1698370469,100,2,50.0,26850,-6.0],
 	[1698457036,100,2,50.0,26850,-6.0],
 	[1698543192,100,2,50.0,26850,null],
-];
+]};

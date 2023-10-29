@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["internet-czas-dzialac"] = [
+profiles["internet-czas-dzialac"] = {
+"name": "Internet. Czas działać!",
+"snapshots": [
 	[1614902400,14,1,14.0,14,null],
 	[1618704000,147,13,11.3,217,null],
 	[1624492800,203,18,11.27,672,null],
@@ -586,4 +588,4 @@ profiles["internet-czas-dzialac"] = [
 	[1698375715,248,24,10.33,8860,null],
 	[1698462188,248,24,10.33,8860,null],
 	[1698548408,248,24,10.33,8860,null],
-];
+]};

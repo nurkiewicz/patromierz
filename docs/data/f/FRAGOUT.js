@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["FRAGOUT"] = [
+profiles["FRAGOUT"] = {
+"name": "FRAG OUT! Magazine",
+"snapshots": [
 	[1682501992,280,10,28.0,280,null],
 	[1682590363,400,16,25.0,400,null],
 	[1682644160,410,17,24.11,410,null],
@@ -161,4 +163,4 @@ profiles["FRAGOUT"] = [
 	[1698373460,1350,38,35.52,7180,2.0],
 	[1698459983,1350,38,35.52,7260,1.0],
 	[1698546166,1350,38,35.52,7290,1.0],
-];
+]};

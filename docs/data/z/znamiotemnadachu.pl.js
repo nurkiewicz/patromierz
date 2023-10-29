@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["znamiotemnadachu.pl"] = [
+profiles["znamiotemnadachu.pl"] = {
+"name": "GibkoLand - zNamiotemNaDachu.pl",
+"snapshots": [
 	[1652759308,20,1,20.0,20,null],
 	[1652866342,40,2,20.0,40,null],
 	[1652937970,40,2,20.0,40,null],
@@ -473,4 +475,4 @@ profiles["znamiotemnadachu.pl"] = [
 	[1698393276,170,3,56.66,2595,null],
 	[1698479548,170,3,56.66,2595,null],
 	[1698565923,170,3,56.66,2595,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sferajednosci"] = [
+profiles["sferajednosci"] = {
+"name": "Sfera Jedności",
+"snapshots": [
 	[1682269280,10,1,10.0,10,null],
 	[1682330112,10,1,10.0,10,null],
 	[1682505615,50,2,25.0,50,null],
@@ -160,4 +162,4 @@ profiles["sferajednosci"] = [
 	[1698387908,60,2,30.0,380,null],
 	[1698474161,60,2,30.0,400,null],
 	[1698560569,60,2,30.0,400,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lambda.szczecin.pl"] = [
+profiles["lambda.szczecin.pl"] = {
+"name": "Stowarzyszenie Lambda Szczecin",
+"snapshots": [
 	[1662782845,285,8,35.62,11640,null],
 	[1662868815,235,8,29.37,11690,null],
 	[1662955665,235,8,29.37,11690,null],
@@ -358,4 +360,4 @@ profiles["lambda.szczecin.pl"] = [
 	[1698378494,545,8,68.12,17380,null],
 	[1698464914,545,8,68.12,17380,null],
 	[1698551177,545,8,68.12,17380,null],
-];
+]};

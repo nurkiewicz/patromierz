@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zrodlaszczescia"] = [
+profiles["zrodlaszczescia"] = {
+"name": "Źródła Szczęścia - według Chmielewskiego",
+"snapshots": [
 	[1643355862,20,2,10.0,40,null],
 	[1643431374,20,2,10.0,40,null],
 	[1643511784,20,2,10.0,40,null],
@@ -582,4 +584,4 @@ profiles["zrodlaszczescia"] = [
 	[1698393345,135,5,27.0,1174,null],
 	[1698479616,135,5,27.0,1174,null],
 	[1698565993,135,5,27.0,1174,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["skadinad"] = [
+profiles["skadinad"] = {
+"name": "SKĄDINĄD. Podcast Tomasza Stawiszyńskiego",
+"snapshots": [
 	[1607385600,3660,191,19.16,17035,null],
 	[1607558400,3630,188,19.3,17445,null],
 	[1613347200,4415,232,19.03,26595,null],
@@ -647,4 +649,4 @@ profiles["skadinad"] = [
 	[1698388096,11005,445,24.73,315920,16.0],
 	[1698474351,11005,445,24.73,316025,15.0],
 	[1698560756,10985,446,24.63,316215,12.0],
-];
+]};

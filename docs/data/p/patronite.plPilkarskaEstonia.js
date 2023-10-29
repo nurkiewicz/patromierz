@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["patronite.plPilkarskaEstonia"] = [
+profiles["patronite.plPilkarskaEstonia"] = {
+"name": "Piłkarska Estonia",
+"snapshots": [
 	[1643366795,78,4,19.5,174,null],
 	[1643438363,78,4,19.5,174,null],
 	[1643512635,78,4,19.5,174,null],
@@ -582,4 +584,4 @@ profiles["patronite.plPilkarskaEstonia"] = [
 	[1698383686,116,5,23.2,3194,null],
 	[1698469993,116,4,29.0,3194,null],
 	[1698556340,116,4,29.0,3194,null],
-];
+]};

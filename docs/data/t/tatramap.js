@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tatramap"] = [
+profiles["tatramap"] = {
+"name": "TatraMap.eu",
+"snapshots": [
 	[1669704524,100,1,100.0,100,null],
 	[1669790546,110,2,55.0,110,null],
 	[1669877045,110,2,55.0,110,null],
@@ -290,4 +292,4 @@ profiles["tatramap"] = [
 	[1698389868,655,11,59.54,3675,7.0],
 	[1698476128,655,11,59.54,3675,7.0],
 	[1698562526,655,11,59.54,4050,6.0],
-];
+]};

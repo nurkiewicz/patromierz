@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Muzeum-Zydow-Bialystok"] = [
+profiles["Muzeum-Zydow-Bialystok"] = {
+"name": "JewishBialystok.pl",
+"snapshots": [
 	[1643359844,280,7,40.0,13900,null],
 	[1643437400,280,7,40.0,13900,null],
 	[1643523723,280,7,40.0,13900,null],
@@ -582,4 +584,4 @@ profiles["Muzeum-Zydow-Bialystok"] = [
 	[1698381529,590,9,65.55,20020,9.0],
 	[1698467890,590,9,65.55,20020,9.0],
 	[1698554224,590,9,65.55,20020,9.0],
-];
+]};

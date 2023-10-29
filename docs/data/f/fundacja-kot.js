@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fundacja-kot"] = [
+profiles["fundacja-kot"] = {
+"name": "Koci Szpital Fundacji KOT",
+"snapshots": [
 	[1597190400,134,5,26.8,670,null],
 	[1599955200,134,6,22.33,854,null],
 	[1643367441,248,9,27.55,4316,null],
@@ -583,4 +585,4 @@ profiles["fundacja-kot"] = [
 	[1698373593,178,8,22.25,9622,-1.0],
 	[1698460113,178,8,22.25,9622,-1.0],
 	[1698546299,178,8,22.25,9722,-1.0],
-];
+]};

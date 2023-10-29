@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["artis-symphony-orchestra"] = [
+profiles["artis-symphony-orchestra"] = {
+"name": "Artis Symphony Orchestra",
+"snapshots": [
 	[1657160383,55,4,13.75,55,null],
 	[1657247676,55,4,13.75,55,null],
 	[1657541080,80,5,16.0,80,null],
@@ -424,4 +426,4 @@ profiles["artis-symphony-orchestra"] = [
 	[1698368773,85,4,21.25,4035,null],
 	[1698455335,85,4,21.25,4035,null],
 	[1698541507,85,4,21.25,4035,null],
-];
+]};

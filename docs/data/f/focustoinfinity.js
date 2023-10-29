@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["focustoinfinity"] = [
+profiles["focustoinfinity"] = {
+"name": "Focus to Infinity",
+"snapshots": [
 	[1557705600,65,3,21.66,570,null],
 	[1643351942,350,14,25.0,9995,null],
 	[1643437318,350,14,25.0,9995,null],
@@ -586,4 +588,4 @@ profiles["focustoinfinity"] = [
 	[1698373293,260,10,26.0,14965,null],
 	[1698459820,260,10,26.0,14965,null],
 	[1698546000,260,10,26.0,14965,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["indid"] = [
+profiles["indid"] = {
+"name": "Instytut Dyskursu i Dialogu",
+"snapshots": [
 	[1663040645,50,1,50.0,50,null],
 	[1663126926,50,1,50.0,50,null],
 	[1663213173,50,1,50.0,50,null],
@@ -359,4 +361,4 @@ profiles["indid"] = [
 	[1698375588,60,2,30.0,840,null],
 	[1698462064,60,2,30.0,840,null],
 	[1698548282,60,2,30.0,840,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Krzykosiaki"] = [
+profiles["Krzykosiaki"] = {
+"name": "Fundacja Krzykosiaki - Psy w Potrzebie",
+"snapshots": [
 	[1666748790,10,1,10.0,10,null],
 	[1666835296,10,1,10.0,10,null],
 	[1666920937,10,1,10.0,10,null],
@@ -323,4 +325,4 @@ profiles["Krzykosiaki"] = [
 	[1698378053,50,1,50.0,690,null],
 	[1698464486,50,1,50.0,690,null],
 	[1698550735,50,1,50.0,690,null],
-];
+]};

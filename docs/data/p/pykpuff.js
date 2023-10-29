@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pykpuff"] = [
+profiles["pykpuff"] = {
+"name": "Pyk Puff - fajka tradycyjna",
+"snapshots": [
 	[1643359655,227,12,18.91,1493,null],
 	[1643434945,227,12,18.91,1493,null],
 	[1643521029,227,12,18.91,1493,null],
@@ -581,4 +583,4 @@ profiles["pykpuff"] = [
 	[1698386543,30,1,30.0,4877,null],
 	[1698472799,30,1,30.0,4877,null],
 	[1698559188,30,1,30.0,4877,null],
-];
+]};

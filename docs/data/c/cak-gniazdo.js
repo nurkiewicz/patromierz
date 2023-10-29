@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["cak-gniazdo"] = [
+profiles["cak-gniazdo"] = {
+"name": "Centrum Aktywizmu Klimatycznego \"Gniazdo\" w Warszawie",
+"snapshots": [
 	[1696901759,1000,21,47.61,9610,null],
 	[1697160964,1000,21,47.61,9710,null],
 	[1697247352,1000,21,47.61,9710,null],
@@ -18,4 +20,4 @@ profiles["cak-gniazdo"] = [
 	[1698370327,1160,23,50.43,10180,null],
 	[1698456894,1160,23,50.43,10225,null],
 	[1698543050,1160,23,50.43,10325,null],
-];
+]};

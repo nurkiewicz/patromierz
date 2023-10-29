@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chor"] = [
+profiles["chor"] = {
+"name": "Chór Politechniki Morskiej w Szczecinie",
+"snapshots": [
 	[1667621359,5,1,5.0,5,null],
 	[1667707829,5,1,5.0,5,null],
 	[1667794038,5,1,5.0,5,null],
@@ -312,4 +314,4 @@ profiles["chor"] = [
 	[1698370597,820,40,20.5,7740,null],
 	[1698457167,820,40,20.5,7740,null],
 	[1698543319,820,40,20.5,7740,null],
-];
+]};

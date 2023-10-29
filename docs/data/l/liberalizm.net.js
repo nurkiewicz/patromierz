@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["liberalizm.net"] = [
+profiles["liberalizm.net"] = {
+"name": "Liberalizm.net",
+"snapshots": [
 	[1677640084,559,4,139.75,559,null],
 	[1677748055,572,5,114.4,572,null],
 	[1678525083,671,6,111.83,671,null],
@@ -197,4 +199,4 @@ profiles["liberalizm.net"] = [
 	[1698378788,1247,2,623.5,9717,null],
 	[1698465210,1247,2,623.5,9717,null],
 	[1698551471,1247,2,623.5,9730,null],
-];
+]};

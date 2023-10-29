@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Chryzantema"] = [
+profiles["Chryzantema"] = {
+"name": "W Kraju Chryzantemy - Historia Japonii",
+"snapshots": [
 	[1643357840,30,2,15.0,3380,null],
 	[1643437222,30,2,15.0,3380,null],
 	[1643509972,30,2,15.0,3380,null],
@@ -583,4 +585,4 @@ profiles["Chryzantema"] = [
 	[1698370646,10,1,10.0,3590,null],
 	[1698457215,10,1,10.0,3590,null],
 	[1698543368,10,1,10.0,3590,null],
-];
+]};

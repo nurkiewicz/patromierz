@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bajkijakdawniej"] = [
+profiles["bajkijakdawniej"] = {
+"name": "Bajki Jak Dawniej - słuchowisko dla dzieci",
+"snapshots": [
 	[1675212774,35,3,11.66,35,null],
 	[1675299167,55,4,13.75,55,null],
 	[1675385836,55,4,13.75,55,null],
@@ -226,4 +228,4 @@ profiles["bajkijakdawniej"] = [
 	[1698369171,5,1,5.0,315,null],
 	[1698455734,5,1,5.0,315,null],
 	[1698541900,5,1,5.0,315,null],
-];
+]};

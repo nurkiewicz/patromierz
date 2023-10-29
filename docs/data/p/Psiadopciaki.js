@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Psiadopciaki"] = [
+profiles["Psiadopciaki"] = {
+"name": "Psiadopciaki - Miłość ma mokry nos",
+"snapshots": [
 	[1671783300,50,1,50.0,50,null],
 	[1671938233,50,1,50.0,50,null],
 	[1672024652,50,1,50.0,50,null],
@@ -262,4 +264,4 @@ profiles["Psiadopciaki"] = [
 	[1698386350,100,2,50.0,1050,null],
 	[1698472612,100,2,50.0,1050,null],
 	[1698558998,100,2,50.0,1050,null],
-];
+]};

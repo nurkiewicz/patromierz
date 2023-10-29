@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["japonskaprowincja"] = [
+profiles["japonskaprowincja"] = {
+"name": "JAPOŃSKA PROWINCJA ",
+"snapshots": [
 	[1582070400,80,4,20.0,630,null],
 	[1643362776,205,9,22.77,4665,null],
 	[1643438771,205,9,22.77,4665,null],
@@ -586,4 +588,4 @@ profiles["japonskaprowincja"] = [
 	[1698376094,195,6,32.5,9670,null],
 	[1698462564,195,6,32.5,9670,null],
 	[1698548788,195,6,32.5,9670,null],
-];
+]};

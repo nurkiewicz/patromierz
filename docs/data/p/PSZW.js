@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PSZW"] = [
+profiles["PSZW"] = {
+"name": "Polskie Stowarzyszenie Zero Waste",
+"snapshots": [
 	[1603152000,400,14,28.57,2080,null],
 	[1604102400,410,14,29.28,2180,null],
 	[1611273600,350,12,29.16,3170,null],
@@ -589,4 +591,4 @@ profiles["PSZW"] = [
 	[1698386464,60,4,15.0,7720,null],
 	[1698472723,60,4,15.0,7720,null],
 	[1698559111,60,4,15.0,7720,null],
-];
+]};

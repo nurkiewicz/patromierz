@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KlubBiegowyOdraOpole"] = [
+profiles["KlubBiegowyOdraOpole"] = {
+"name": "Klub Biegowy Odra Opole",
+"snapshots": [
 	[1683255554,50,2,25.0,50,null],
 	[1683342333,80,3,26.66,80,null],
 	[1683428344,80,3,26.66,80,null],
@@ -152,4 +154,4 @@ profiles["KlubBiegowyOdraOpole"] = [
 	[1698377315,570,19,30.0,2980,null],
 	[1698463764,570,19,30.0,2980,null],
 	[1698550005,570,19,30.0,2980,null],
-];
+]};

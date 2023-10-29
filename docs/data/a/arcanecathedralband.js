@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["arcanecathedralband"] = [
+profiles["arcanecathedralband"] = {
+"name": "Arcane Cathedral",
+"snapshots": [
 	[1698455189,5,1,5.0,5,null],
 	[1698541362,5,1,5.0,5,null],
-];
+]};

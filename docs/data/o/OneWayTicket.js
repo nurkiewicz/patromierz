@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OneWayTicket"] = [
+profiles["OneWayTicket"] = {
+"name": "One Way Ticket",
+"snapshots": [
 	[1643364390,230,3,76.66,230,null],
 	[1643423569,230,3,76.66,230,null],
 	[1643509781,230,3,76.66,230,null],
@@ -581,4 +583,4 @@ profiles["OneWayTicket"] = [
 	[1698383013,100,1,100.0,2940,null],
 	[1698469335,100,1,100.0,2940,null],
 	[1698555675,100,1,100.0,2940,null],
-];
+]};

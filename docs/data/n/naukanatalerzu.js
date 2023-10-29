@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["naukanatalerzu"] = [
+profiles["naukanatalerzu"] = {
+"name": "Nauka na talerzu - Marta Szumiata",
+"snapshots": [
 	[1643355583,10,1,10.0,110,null],
 	[1643436324,10,1,10.0,110,null],
 	[1643511236,10,1,10.0,110,null],
@@ -326,4 +328,4 @@ profiles["naukanatalerzu"] = [
 	[1698382022,60,2,30.0,620,1.0],
 	[1698468373,60,2,30.0,620,1.0],
 	[1698554705,60,2,30.0,620,1.0],
-];
+]};

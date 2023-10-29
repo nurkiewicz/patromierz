@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fxkomodotraders"] = [
+profiles["fxkomodotraders"] = {
+"name": "FX Komodo_Traders",
+"snapshots": [
 	[1691806165,10,1,10.0,10,null],
 	[1691892758,10,1,10.0,10,null],
 	[1691978909,10,1,10.0,10,null],
@@ -54,4 +56,4 @@ profiles["fxkomodotraders"] = [
 	[1698374064,140,7,20.0,330,1.0],
 	[1698460571,140,7,20.0,330,1.0],
 	[1698546768,140,7,20.0,330,1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tyborowski"] = [
+profiles["tyborowski"] = {
+"name": "Dr Daniel Tyborowski - Środowe spotkania z dziejami Ziemi ",
+"snapshots": [
 	[1656997952,220,6,36.66,220,null],
 	[1657169987,255,8,31.87,255,null],
 	[1657257334,255,8,31.87,255,null],
@@ -423,4 +425,4 @@ profiles["tyborowski"] = [
 	[1698390792,310,11,28.18,10260,-2.0],
 	[1698477053,310,11,28.18,10260,-2.0],
 	[1698563440,310,10,31.0,10270,-2.0],
-];
+]};

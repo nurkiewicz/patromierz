@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Guzikówka"] = [
+profiles["Guzikówka"] = {
+"name": "Guzikówka Krosno/Koniczynka Krosno",
+"snapshots": [
 	[1643856943,330,8,41.25,2730,null],
 	[1643943380,330,8,41.25,2730,null],
 	[1644029775,330,8,41.25,2730,null],
@@ -579,4 +581,4 @@ profiles["Guzikówka"] = [
 	[1698374883,260,6,43.33,8760,null],
 	[1698461372,260,6,43.33,8760,null],
 	[1698547581,260,6,43.33,8760,null],
-];
+]};

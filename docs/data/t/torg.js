@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["torg"] = [
+profiles["torg"] = {
+"name": "TORG.PL",
+"snapshots": [
 	[1675921515,65,3,21.66,65,null],
 	[1676008356,65,3,21.66,65,null],
 	[1676094763,95,4,23.75,95,null],
@@ -176,4 +178,4 @@ profiles["torg"] = [
 	[1698390468,15,2,7.5,330,null],
 	[1698476727,15,2,7.5,330,null],
 	[1698563118,15,2,7.5,330,null],
-];
+]};

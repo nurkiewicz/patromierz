@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["brzmienie-swiata"] = [
+profiles["brzmienie-swiata"] = {
+"name": "Brzmienie Świata z lotu Drozda",
+"snapshots": [
 	[1600732800,8545,627,13.62,37400,null],
 	[1603238400,9830,732,13.42,47360,null],
 	[1607644800,11030,845,13.05,66540,null],
@@ -691,4 +693,4 @@ profiles["brzmienie-swiata"] = [
 	[1698370191,18855,1278,14.75,669750,8.0],
 	[1698456759,18810,1279,14.7,670225,7.0],
 	[1698542916,18785,1281,14.66,670970,4.0],
-];
+]};

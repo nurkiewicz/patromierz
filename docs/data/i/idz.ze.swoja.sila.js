@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["idz.ze.swoja.sila"] = [
+profiles["idz.ze.swoja.sila"] = {
+"name": "Idź ze swoją siłą! - Magdalena Czech",
+"snapshots": [
 	[1643365677,528,7,75.42,528,null],
 	[1643430194,556,8,69.5,556,null],
 	[1643511076,556,8,69.5,556,null],
@@ -584,4 +586,4 @@ profiles["idz.ze.swoja.sila"] = [
 	[1698375443,898,11,81.63,18154,-1.0],
 	[1698461920,898,11,81.63,18154,-1.0],
 	[1698548135,898,11,81.63,18154,-1.0],
-];
+]};

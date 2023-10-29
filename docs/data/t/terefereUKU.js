@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["terefereUKU"] = [
+profiles["terefereUKU"] = {
+"name": "tere-fere-UKU - czyli hUKU wiELE z UKULELE",
+"snapshots": [
 	[1643357709,50,1,50.0,200,null],
 	[1643433575,50,1,50.0,200,null],
 	[1643524556,50,1,50.0,200,null],
@@ -583,4 +585,4 @@ profiles["terefereUKU"] = [
 	[1698390106,45,5,9.0,2365,1.0],
 	[1698476365,45,5,9.0,2365,1.0],
 	[1698562760,45,5,9.0,2365,1.0],
-];
+]};

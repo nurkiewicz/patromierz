@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ReportazZwycinkowSwiata"] = [
+profiles["ReportazZwycinkowSwiata"] = {
+"name": "Reportaż z wycinków świata - Monika Białkowska",
+"snapshots": [
 	[1643365075,4416,162,27.25,null,null],
 	[1643436220,4400,162,27.16,null,null],
 	[1643519465,4400,163,26.99,null,null],
@@ -583,4 +585,4 @@ profiles["ReportazZwycinkowSwiata"] = [
 	[1698387063,10216,370,27.61,null,3.0],
 	[1698473319,10184,370,27.52,null,2.0],
 	[1698559724,10136,369,27.46,null,null],
-];
+]};

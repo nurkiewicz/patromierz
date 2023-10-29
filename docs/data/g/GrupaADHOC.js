@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["GrupaADHOC"] = [
+profiles["GrupaADHOC"] = {
+"name": "Grupa AD HOC",
+"snapshots": [
 	[1614902400,1290,54,23.88,2130,null],
 	[1615075200,1290,53,24.33,2180,null],
 	[1643360049,3030,151,20.06,30195,null],
@@ -587,4 +589,4 @@ profiles["GrupaADHOC"] = [
 	[1698374749,2920,161,18.13,null,6.0],
 	[1698461243,2960,164,18.04,null,7.0],
 	[1698547450,2970,164,18.1,null,7.0],
-];
+]};

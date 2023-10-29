@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["totylkoteoria"] = [
+profiles["totylkoteoria"] = {
+"name": "Łukasz Sakowski // To Tylko Teoria",
+"snapshots": [
 	[1552089600,2580,167,15.44,120,null],
 	[1589155200,2755,165,16.69,null,null],
 	[1591401600,2625,161,16.3,null,null],
@@ -635,4 +637,4 @@ profiles["totylkoteoria"] = [
 	[1698390507,4005,156,25.67,null,-3.0],
 	[1698476766,4005,156,25.67,null,-3.0],
 	[1698563156,4005,155,25.83,null,-3.0],
-];
+]};

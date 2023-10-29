@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["EWST"] = [
+profiles["EWST"] = {
+"name": "Ewangelikalna Wyższa Szkoła Teologiczna",
+"snapshots": [
 	[1643361030,430,18,23.88,1265,null],
 	[1643438484,430,18,23.88,1485,null],
 	[1643517661,410,18,22.77,1485,null],
@@ -584,4 +586,4 @@ profiles["EWST"] = [
 	[1698372827,150,4,37.5,6435,null],
 	[1698459360,150,4,37.5,6435,null],
 	[1698545534,150,4,37.5,6435,null],
-];
+]};

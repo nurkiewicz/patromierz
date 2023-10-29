@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["RejsDookolaSwiata"] = [
+profiles["RejsDookolaSwiata"] = {
+"name": "Rejs Dookoła Świata - Sailing Crystal",
+"snapshots": [
 	[1643364231,1520,19,80.0,37330,null],
 	[1643428468,1520,19,80.0,37330,null],
 	[1643509986,1520,19,80.0,37330,null],
@@ -584,4 +586,4 @@ profiles["RejsDookolaSwiata"] = [
 	[1698387014,685,17,40.29,57480,-8.0],
 	[1698473271,685,16,42.81,57480,-8.0],
 	[1698559676,685,16,42.81,57530,-8.0],
-];
+]};

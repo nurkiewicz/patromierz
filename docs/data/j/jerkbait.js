@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jerkbait"] = [
+profiles["jerkbait"] = {
+"name": "jerkbait.pl",
+"snapshots": [
 	[1646197658,20,2,10.0,20,null],
 	[1646283852,20,2,10.0,20,null],
 	[1646370003,20,2,10.0,20,null],
@@ -552,4 +554,4 @@ profiles["jerkbait"] = [
 	[1698376238,200,18,11.11,4090,null],
 	[1698462704,200,18,11.11,4090,null],
 	[1698548930,200,18,11.11,4095,null],
-];
+]};

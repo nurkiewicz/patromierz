@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["soundsitive-kids-bajki"] = [
+profiles["soundsitive-kids-bajki"] = {
+"name": "Soundsitive Kids - bajki dla dzieci",
+"snapshots": [
 	[1659589871,50,1,50.0,50,null],
 	[1659675851,60,2,30.0,60,null],
 	[1659762691,60,2,30.0,60,null],
@@ -398,4 +400,4 @@ profiles["soundsitive-kids-bajki"] = [
 	[1698388539,130,14,9.28,1355,null],
 	[1698474793,130,14,9.28,1365,null],
 	[1698561196,130,14,9.28,1375,null],
-];
+]};

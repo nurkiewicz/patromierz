@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["azkisn-pl"] = [
+profiles["azkisn-pl"] = {
+"name": "Antropogeniczne Zmiany Klimatu i Środowiska Naturalnego",
+"snapshots": [
 	[1624320000,505,24,21.04,4605,null],
 	[1643364566,290,13,22.3,7010,null],
 	[1643431335,290,13,22.3,7010,null],
@@ -584,4 +586,4 @@ profiles["azkisn-pl"] = [
 	[1698369083,205,8,25.62,12600,null],
 	[1698455646,205,8,25.62,12630,null],
 	[1698541813,205,8,25.62,12670,null],
-];
+]};

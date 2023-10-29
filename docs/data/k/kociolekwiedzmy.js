@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kociolekwiedzmy"] = [
+profiles["kociolekwiedzmy"] = {
+"name": "Kociołek Wiedźmy - Agnieszka Waszak",
+"snapshots": [
 	[1603843200,186,14,13.28,1108,null],
 	[1643352513,92,9,10.22,3515,null],
 	[1643435081,92,9,10.22,3515,null],
@@ -583,4 +585,4 @@ profiles["kociolekwiedzmy"] = [
 	[1698377436,22,2,11.0,4550,null],
 	[1698463883,22,2,11.0,4550,null],
 	[1698550123,22,2,11.0,4550,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["naszszydlowiec"] = [
+profiles["naszszydlowiec"] = {
+"name": "Klub Przyjaciół portalu \"Nasz Szydłowiec\"",
+"snapshots": [
 	[1643357777,30,2,15.0,1940,null],
 	[1643430632,30,2,15.0,1940,null],
 	[1643510905,30,2,15.0,1940,null],
@@ -582,4 +584,4 @@ profiles["naszszydlowiec"] = [
 	[1698381919,10,1,10.0,2210,null],
 	[1698468272,10,1,10.0,2210,null],
 	[1698554604,10,1,10.0,2210,null],
-];
+]};

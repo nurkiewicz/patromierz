@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["balet-krynica"] = [
+profiles["balet-krynica"] = {
+"name": "Krynickie Studio Baletowe im. Władysława Szlęka",
+"snapshots": [
 	[1643356308,746,6,124.33,2498,null],
 	[1643426545,746,6,124.33,2498,null],
 	[1643513355,746,6,124.33,2498,null],
@@ -584,4 +586,4 @@ profiles["balet-krynica"] = [
 	[1698369193,86,3,28.66,12499,null],
 	[1698455756,86,3,28.66,12499,null],
 	[1698541921,86,3,28.66,12499,null],
-];
+]};

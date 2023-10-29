@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["we-met.futsal.club"] = [
+profiles["we-met.futsal.club"] = {
+"name": "We-Met Futsal Club Kamienica Królewska",
+"snapshots": [
 	[1695702152,310,5,62.0,520,null],
 	[1695799124,310,5,62.0,520,null],
 	[1695885165,310,5,62.0,520,null],
@@ -29,4 +31,4 @@ profiles["we-met.futsal.club"] = [
 	[1698391556,310,5,62.0,830,null],
 	[1698477820,310,5,62.0,830,null],
 	[1698564200,310,5,62.0,830,null],
-];
+]};

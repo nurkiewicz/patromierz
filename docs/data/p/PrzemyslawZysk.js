@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PrzemyslawZysk"] = [
+profiles["PrzemyslawZysk"] = {
+"name": "\"OSTROŁĘCKI TARAN\" PRZEMYSŁAW ZYŚK",
+"snapshots": [
 	[1688707120,5,1,5.0,5,null],
 	[1688793567,5,1,5.0,5,null],
 	[1688880028,5,1,5.0,5,null],
@@ -89,4 +91,4 @@ profiles["PrzemyslawZysk"] = [
 	[1698386228,310,6,51.66,945,-3.0],
 	[1698472493,310,6,51.66,945,-3.0],
 	[1698558877,310,6,51.66,945,-3.0],
-];
+]};

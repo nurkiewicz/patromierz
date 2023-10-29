@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chinskieautocentrum"] = [
+profiles["chinskieautocentrum"] = {
+"name": "Chińskie Auto Centrum & Czas na Chiny",
+"snapshots": [
 	[1660273150,182,6,30.33,1431,null],
 	[1660359406,182,6,30.33,1431,null],
 	[1660445755,182,6,30.33,1455,null],
@@ -388,4 +390,4 @@ profiles["chinskieautocentrum"] = [
 	[1698370540,1104,106,10.41,21008,-4.0],
 	[1698457108,1104,105,10.51,21059,-4.0],
 	[1698543263,1104,104,10.61,21066,-4.0],
-];
+]};

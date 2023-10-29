@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tm_kilos53"] = [
+profiles["tm_kilos53"] = {
+"name": "Teatr Młody im. Kilosa53",
+"snapshots": [
 	[1643366751,260,12,21.66,1945,null],
 	[1643435394,260,12,21.66,1945,null],
 	[1643516049,260,12,21.66,1945,null],
@@ -582,4 +584,4 @@ profiles["tm_kilos53"] = [
 	[1698390264,105,2,52.5,5355,null],
 	[1698476523,105,2,52.5,5355,null],
 	[1698562916,105,2,52.5,5355,null],
-];
+]};

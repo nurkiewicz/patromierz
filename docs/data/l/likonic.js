@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["likonic"] = [
+profiles["likonic"] = {
+"name": "Likonic_carnuthub",
+"snapshots": [
 	[1643353495,5,1,5.0,685,null],
 	[1643429652,5,1,5.0,685,null],
 	[1643514372,5,1,5.0,685,null],
@@ -579,4 +581,4 @@ profiles["likonic"] = [
 	[1698378856,10,2,5.0,795,null],
 	[1698465277,10,2,5.0,795,null],
 	[1698551538,10,2,5.0,795,null],
-];
+]};

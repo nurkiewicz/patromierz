@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fcbarca-com"] = [
+profiles["fcbarca-com"] = {
+"name": "FCBarca.com",
+"snapshots": [
 	[1619481600,49,1,49.0,49,null],
 	[1622332800,1242,36,34.5,2209,null],
 	[1635552000,680,28,24.28,6066,null],
@@ -588,4 +590,4 @@ profiles["fcbarca-com"] = [
 	[1698373003,227,11,20.63,15747,null],
 	[1698459533,227,11,20.63,15806,null],
 	[1698545710,227,11,20.63,15806,null],
-];
+]};

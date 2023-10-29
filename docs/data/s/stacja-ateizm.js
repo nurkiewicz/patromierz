@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["stacja-ateizm"] = [
+profiles["stacja-ateizm"] = {
+"name": "Stacja Ateizm",
+"snapshots": [
 	[1643359148,995,37,26.89,9005,null],
 	[1643437045,995,37,26.89,9005,null],
 	[1643521762,995,37,26.89,9060,null],
@@ -583,4 +585,4 @@ profiles["stacja-ateizm"] = [
 	[1698388778,1030,35,29.42,27880,2.0],
 	[1698475029,1030,35,29.42,27945,2.0],
 	[1698561432,1030,35,29.42,27945,2.0],
-];
+]};

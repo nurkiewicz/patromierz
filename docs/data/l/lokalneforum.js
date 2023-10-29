@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lokalneforum"] = [
+profiles["lokalneforum"] = {
+"name": "Forum. Lokalny Portal Informacyjny",
+"snapshots": [
 	[1680162190,260,6,43.33,260,null],
 	[1680249361,260,6,43.33,260,null],
 	[1680315492,260,6,43.33,260,null],
@@ -182,4 +184,4 @@ profiles["lokalneforum"] = [
 	[1698378981,440,12,36.66,3250,null],
 	[1698465400,440,12,36.66,3250,null],
 	[1698551662,440,12,36.66,3250,null],
-];
+]};

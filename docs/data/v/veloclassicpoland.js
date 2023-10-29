@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["veloclassicpoland"] = [
+profiles["veloclassicpoland"] = {
+"name": "Velo Classic Poland Tworzymy Muzeum Kolarstwa Polskiego",
+"snapshots": [
 	[1676712996,10,1,10.0,10,null],
 	[1676793374,10,1,10.0,10,null],
 	[1676872980,10,1,10.0,10,null],
@@ -87,4 +89,4 @@ profiles["veloclassicpoland"] = [
 	[1698391150,25,1,25.0,85,null],
 	[1698477411,25,1,25.0,85,null],
 	[1698563795,25,1,25.0,85,null],
-];
+]};

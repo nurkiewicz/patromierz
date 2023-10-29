@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pls"] = [
+profiles["pls"] = {
+"name": "Polska Liga Simracingowa",
+"snapshots": [
 	[1677385593,85,3,28.33,85,null],
 	[1677471855,95,4,23.75,95,null],
 	[1677574154,105,5,21.0,105,null],
@@ -201,4 +203,4 @@ profiles["pls"] = [
 	[1698384384,155,6,25.83,1670,-2.0],
 	[1698470676,155,6,25.83,1680,-2.0],
 	[1698557034,155,6,25.83,1680,-2.0],
-];
+]};

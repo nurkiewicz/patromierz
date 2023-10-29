@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["vingardiumgrubiosa"] = [
+profiles["vingardiumgrubiosa"] = {
+"name": "Vingardium Grubiosa",
+"snapshots": [
 	[1643362170,279,11,25.36,3364,null],
 	[1643424454,279,11,25.36,3404,null],
 	[1643524372,279,11,25.36,3404,null],
@@ -580,4 +582,4 @@ profiles["vingardiumgrubiosa"] = [
 	[1698391232,739,44,16.79,12609,1.0],
 	[1698477494,739,44,16.79,12609,1.0],
 	[1698563878,739,44,16.79,12609,1.0],
-];
+]};

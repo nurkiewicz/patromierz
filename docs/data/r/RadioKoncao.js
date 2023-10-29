@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["RadioKoncao"] = [
+profiles["RadioKoncao"] = {
+"name": "Tomek Konca - Radio Koncao",
+"snapshots": [
 	[1620777600,590,17,34.7,3060,null],
 	[1643367185,370,13,28.46,6010,null],
 	[1643423735,370,13,28.46,6010,null],
@@ -585,4 +587,4 @@ profiles["RadioKoncao"] = [
 	[1698386672,230,7,32.85,12190,-2.0],
 	[1698472930,230,7,32.85,12190,-2.0],
 	[1698559330,230,7,32.85,12190,-2.0],
-];
+]};

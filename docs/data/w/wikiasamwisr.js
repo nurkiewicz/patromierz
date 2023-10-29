@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wikiasamwisr"] = [
+profiles["wikiasamwisr"] = {
+"name": "Wikia SAMW i SR",
+"snapshots": [
 	[1683091641,35,2,17.5,35,null],
 	[1683172698,35,2,17.5,35,null],
 	[1683268221,60,3,20.0,60,null],
@@ -153,4 +155,4 @@ profiles["wikiasamwisr"] = [
 	[1698391772,35,2,17.5,350,null],
 	[1698478038,35,2,17.5,350,null],
 	[1698564416,35,2,17.5,350,null],
-];
+]};

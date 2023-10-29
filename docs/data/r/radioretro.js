@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["radioretro"] = [
+profiles["radioretro"] = {
+"name": "Henryk Berezowski",
+"snapshots": [
 	[1695189745,30,2,15.0,30,null],
 	[1695271769,30,2,15.0,30,null],
 	[1695362325,30,2,15.0,30,null],
@@ -34,4 +36,4 @@ profiles["radioretro"] = [
 	[1698386714,30,2,15.0,60,null],
 	[1698472971,30,2,15.0,60,null],
 	[1698559372,30,2,15.0,60,null],
-];
+]};

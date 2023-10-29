@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["raportzliteratury"] = [
+profiles["raportzliteratury"] = {
+"name": "Raport z Literatury | Agnieszka Budnik",
+"snapshots": [
 	[1660971718,250,12,20.83,250,null],
 	[1661230752,340,17,20.0,340,null],
 	[1661317308,340,17,20.0,340,null],
@@ -382,4 +384,4 @@ profiles["raportzliteratury"] = [
 	[1698386879,810,38,21.31,10960,-2.0],
 	[1698473137,810,38,21.31,10960,-2.0],
 	[1698559541,810,38,21.31,10980,-2.0],
-];
+]};

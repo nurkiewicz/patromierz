@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fundacjagrom.org.pl"] = [
+profiles["fundacjagrom.org.pl"] = {
+"name": "Fundacja GROM Siła i Honor",
+"snapshots": [
 	[1678524457,10,1,10.0,10,null],
 	[1678586524,10,1,10.0,10,null],
 	[1678672860,10,1,10.0,10,null],
@@ -198,4 +200,4 @@ profiles["fundacjagrom.org.pl"] = [
 	[1698373783,30,2,15.0,120,null],
 	[1698460298,30,2,15.0,120,null],
 	[1698546487,30,2,15.0,120,null],
-];
+]};

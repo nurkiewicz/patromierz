@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["DziennikEurowizyjny"] = [
+profiles["DziennikEurowizyjny"] = {
+"name": "Maciej Tomasz Błażewicz",
+"snapshots": [
 	[1559088000,165,10,16.5,165,null],
 	[1576108800,195,8,24.37,2075,null],
 	[1597795200,130,6,21.66,4260,null],
@@ -597,4 +599,4 @@ profiles["DziennikEurowizyjny"] = [
 	[1698372312,20,1,20.0,8620,null],
 	[1698458854,20,1,20.0,8620,null],
 	[1698545023,20,1,20.0,8620,null],
-];
+]};

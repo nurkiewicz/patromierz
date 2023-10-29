@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["HokejoweSocios"] = [
+profiles["HokejoweSocios"] = {
+"name": "Zagłębie Sosnowiec Hokej",
+"snapshots": [
 	[1696906625,6520,59,110.5,12370,null],
 	[1697165897,6520,59,110.5,12580,null],
 	[1697252315,6520,59,110.5,12580,null],
@@ -18,4 +20,4 @@ profiles["HokejoweSocios"] = [
 	[1698375281,6720,61,110.16,18090,null],
 	[1698461761,6720,61,110.16,18090,null],
 	[1698547974,6620,61,108.52,18090,null],
-];
+]};

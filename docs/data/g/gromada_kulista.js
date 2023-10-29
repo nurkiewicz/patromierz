@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["gromada_kulista"] = [
+profiles["gromada_kulista"] = {
+"name": "Gromada Kulista - Astronomia Chodnikowa",
+"snapshots": [
 	[1690279304,20,1,20.0,20,null],
 	[1690370954,20,1,20.0,20,null],
 	[1690424753,20,1,20.0,20,null],
@@ -72,4 +74,4 @@ profiles["gromada_kulista"] = [
 	[1698374704,20,2,10.0,90,null],
 	[1698461198,20,2,10.0,90,null],
 	[1698547404,20,2,10.0,90,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jantar.elblag"] = [
+profiles["jantar.elblag"] = {
+"name": "JANTAR Elbląg Standard Formation Team - Formacja JANTAR",
+"snapshots": [
 	[1643358298,700,7,100.0,5419,null],
 	[1643434155,700,6,116.66,5419,null],
 	[1643514327,700,6,116.66,5419,null],
@@ -494,4 +496,4 @@ profiles["jantar.elblag"] = [
 	[1698376066,100,2,50.0,7317,null],
 	[1698462536,100,2,50.0,7317,null],
 	[1698548761,100,2,50.0,7317,null],
-];
+]};

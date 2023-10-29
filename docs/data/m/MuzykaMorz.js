@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MuzykaMorz"] = [
+profiles["MuzykaMorz"] = {
+"name": "Marek Szurawski Muzyka Mórz i Oceanów",
+"snapshots": [
 	[1606608000,167,6,27.83,334,null],
 	[1643362880,206,9,22.88,4151,null],
 	[1643423206,206,9,22.88,4151,null],
@@ -583,4 +585,4 @@ profiles["MuzykaMorz"] = [
 	[1698381574,39,1,39.0,5749,null],
 	[1698467933,39,1,39.0,5749,null],
 	[1698554268,39,1,39.0,5749,null],
-];
+]};

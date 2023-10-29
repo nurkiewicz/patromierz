@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wrocpp"] = [
+profiles["wrocpp"] = {
+"name": "Wro.cpp",
+"snapshots": [
 	[1643351922,192,2,96.0,2081,null],
 	[1643436495,192,2,96.0,2145,null],
 	[1643520581,192,2,96.0,2145,null],
@@ -582,4 +584,4 @@ profiles["wrocpp"] = [
 	[1698392177,162,3,54.0,6557,null],
 	[1698478446,162,3,54.0,6557,null],
 	[1698564820,162,3,54.0,6557,null],
-];
+]};

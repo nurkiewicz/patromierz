@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["upior-opera"] = [
+profiles["upior-opera"] = {
+"name": "Dorota Kozińska",
+"snapshots": [
 	[1656998032,30,3,10.0,30,null],
 	[1657170078,310,13,23.84,310,null],
 	[1657257419,420,16,26.25,420,null],
@@ -425,4 +427,4 @@ profiles["upior-opera"] = [
 	[1698390977,1860,53,35.09,25870,1.0],
 	[1698477240,1860,53,35.09,25870,1.0],
 	[1698563624,1860,53,35.09,26000,1.0],
-];
+]};

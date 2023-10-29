@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["paramedic"] = [
+profiles["paramedic"] = {
+"name": "SGR PARAMEDIC/ GPR KOŁOBRZEG",
+"snapshots": [
 	[1643361159,75,1,75.0,1632,null],
 	[1643432397,75,1,75.0,1632,null],
 	[1643522860,75,1,75.0,1632,null],
@@ -580,4 +582,4 @@ profiles["paramedic"] = [
 	[1698383545,200,6,33.33,5467,null],
 	[1698469853,200,6,33.33,5492,null],
 	[1698556199,200,6,33.33,5492,null],
-];
+]};

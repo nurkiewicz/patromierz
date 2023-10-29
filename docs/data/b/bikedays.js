@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bikedays"] = [
+profiles["bikedays"] = {
+"name": "BIKE DAYS - Międzynarodowy Festiwal Filmów Rowerowych",
+"snapshots": [
 	[1679064968,50,1,50.0,50,null],
 	[1679302996,50,1,50.0,50,null],
 	[1679386386,50,1,50.0,50,null],
@@ -189,4 +191,4 @@ profiles["bikedays"] = [
 	[1698369685,10,1,10.0,200,null],
 	[1698456248,10,1,10.0,200,null],
 	[1698542411,10,1,10.0,200,null],
-];
+]};

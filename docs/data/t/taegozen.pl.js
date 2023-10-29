@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["taegozen.pl"] = [
+profiles["taegozen.pl"] = {
+"name": "Szkoła Zen Taego",
+"snapshots": [
 	[1650688293,100,2,50.0,100,null],
 	[1650775306,100,2,50.0,100,null],
 	[1650861521,100,2,50.0,100,null],
@@ -496,4 +498,4 @@ profiles["taegozen.pl"] = [
 	[1698389750,60,2,30.0,1240,null],
 	[1698476009,60,2,30.0,1240,null],
 	[1698562407,60,2,30.0,1240,null],
-];
+]};

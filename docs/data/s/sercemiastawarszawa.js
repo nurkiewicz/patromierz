@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sercemiastawarszawa"] = [
+profiles["sercemiastawarszawa"] = {
+"name": "Serce Miasta",
+"snapshots": [
 	[1635811200,680,22,30.9,3910,null],
 	[1643365947,1340,45,29.77,7120,null],
 	[1643425133,1340,44,30.45,7120,null],
@@ -581,4 +583,4 @@ profiles["sercemiastawarszawa"] = [
 	[1698387865,635,21,30.23,23755,2.0],
 	[1698474118,635,21,30.23,23860,2.0],
 	[1698560527,625,21,29.76,23860,1.0],
-];
+]};

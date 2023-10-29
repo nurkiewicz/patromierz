@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["adiv"] = [
+profiles["adiv"] = {
+"name": "AdiV - @adirunning na TikTok",
+"snapshots": [
 	[1682501065,80,4,20.0,80,null],
 	[1682589587,330,12,27.5,330,null],
 	[1682639030,600,20,30.0,600,null],
@@ -159,4 +161,4 @@ profiles["adiv"] = [
 	[1698367649,130,5,26.0,2530,null],
 	[1698454204,130,4,32.5,2530,null],
 	[1698540385,130,4,32.5,2530,null],
-];
+]};

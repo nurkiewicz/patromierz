@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["togabezwroga"] = [
+profiles["togabezwroga"] = {
+"name": "Toga bez wroga | Adam Sornek",
+"snapshots": [
 	[1675230475,5,1,5.0,1621,null],
 	[1675316236,5,1,5.0,1621,null],
 	[1675403134,5,1,5.0,1621,null],
@@ -226,4 +228,4 @@ profiles["togabezwroga"] = [
 	[1698390287,143,4,35.75,2161,null],
 	[1698476547,143,4,35.75,2161,null],
 	[1698562939,143,4,35.75,2161,null],
-];
+]};

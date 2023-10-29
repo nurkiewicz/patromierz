@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SMOKPL"] = [
+profiles["SMOKPL"] = {
+"name": "Klubowe muzeum retro komputerów Stowarzyszenia Miłośników Oldschoolowych Komputerów SMOK",
+"snapshots": [
 	[1643363092,523,12,43.58,3203,null],
 	[1643430202,523,12,43.58,3203,null],
 	[1643522011,523,12,43.58,3203,null],
@@ -584,4 +586,4 @@ profiles["SMOKPL"] = [
 	[1698388417,1092,20,54.6,17229,16.0],
 	[1698474670,1121,20,56.05,17258,17.0],
 	[1698561075,1121,20,56.05,17258,16.0],
-];
+]};

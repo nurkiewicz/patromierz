@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["boardtimes"] = [
+profiles["boardtimes"] = {
+"name": "Board Times / Planszowe Gram Prix",
+"snapshots": [
 	[1673603941,79,4,19.75,79,null],
 	[1673683296,207,9,23.0,207,null],
 	[1673772127,314,12,26.16,314,null],
@@ -246,4 +248,4 @@ profiles["boardtimes"] = [
 	[1698369891,421,18,23.38,4926,null],
 	[1698456457,421,18,23.38,4926,null],
 	[1698542617,421,18,23.38,4955,null],
-];
+]};

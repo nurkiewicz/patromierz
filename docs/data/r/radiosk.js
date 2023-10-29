@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["radiosk"] = [
+profiles["radiosk"] = {
+"name": "Radio SK - Polski podcast o Stephenie Kingu",
+"snapshots": [
 	[1654577372,58,4,14.5,58,null],
 	[1654663374,178,8,22.25,178,null],
 	[1654749916,178,8,22.25,178,null],
@@ -453,4 +455,4 @@ profiles["radiosk"] = [
 	[1698386718,453,17,26.64,7541,null],
 	[1698472977,453,17,26.64,7541,null],
 	[1698559377,453,17,26.64,7541,null],
-];
+]};

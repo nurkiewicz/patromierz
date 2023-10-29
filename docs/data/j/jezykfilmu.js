@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jezykfilmu"] = [
+profiles["jezykfilmu"] = {
+"name": "Język Filmu - Szymon Kołodziejczyk",
+"snapshots": [
 	[1685587794,100,1,100.0,100,null],
 	[1685673920,100,1,100.0,100,null],
 	[1685760744,100,1,100.0,100,null],
@@ -125,4 +127,4 @@ profiles["jezykfilmu"] = [
 	[1698376281,130,3,43.33,1110,null],
 	[1698462747,130,3,43.33,1110,null],
 	[1698548975,130,3,43.33,1110,null],
-];
+]};

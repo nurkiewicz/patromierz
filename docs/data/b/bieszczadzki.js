@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bieszczadzki"] = [
+profiles["bieszczadzki"] = {
+"name": "Grupa Bieszczady Noclegi / Solina i Okolice / Bieszczady Mountains",
+"snapshots": [
 	[1680075016,20,2,10.0,20,null],
 	[1680161136,80,4,20.0,80,null],
 	[1680248299,95,5,19.0,95,null],
@@ -184,4 +186,4 @@ profiles["bieszczadzki"] = [
 	[1698369675,430,13,33.07,null,-10.0],
 	[1698456238,430,13,33.07,null,-10.0],
 	[1698542402,415,13,31.92,null,-10.0],
-];
+]};

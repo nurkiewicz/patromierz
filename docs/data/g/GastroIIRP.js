@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["GastroIIRP"] = [
+profiles["GastroIIRP"] = {
+"name": "Przedwojenne Restauracje, Bary i Hotele ",
+"snapshots": [
 	[1618185600,170,5,34.0,170,null],
 	[1624492800,145,4,36.25,565,null],
 	[1643352808,570,7,81.42,4230,null],
@@ -586,4 +588,4 @@ profiles["GastroIIRP"] = [
 	[1698374199,10,1,10.0,6995,null],
 	[1698460704,10,1,10.0,6995,null],
 	[1698546902,10,1,10.0,6995,null],
-];
+]};

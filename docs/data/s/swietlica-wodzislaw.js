@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["swietlica-wodzislaw"] = [
+profiles["swietlica-wodzislaw"] = {
+"name": "Świetlica dla bezdomnych w Wodzisławiu \"Wiara, Nadzieja, Miłość\"",
+"snapshots": [
 	[1681980646,20,1,20.0,20,null],
 	[1682068533,20,1,20.0,20,null],
 	[1682272813,20,1,20.0,20,null],
@@ -164,4 +166,4 @@ profiles["swietlica-wodzislaw"] = [
 	[1698389309,70,2,35.0,240,null],
 	[1698475564,70,2,35.0,240,null],
 	[1698561965,70,2,35.0,240,null],
-];
+]};

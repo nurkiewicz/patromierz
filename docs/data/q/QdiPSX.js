@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["QdiPSX"] = [
+profiles["QdiPSX"] = {
+"name": "QdiPSX",
+"snapshots": [
 	[1643354449,75,6,12.5,1705,null],
 	[1643434437,75,6,12.5,1705,null],
 	[1643511271,75,6,12.5,1705,null],
@@ -583,4 +585,4 @@ profiles["QdiPSX"] = [
 	[1698386567,25,2,12.5,2430,null],
 	[1698472824,25,2,12.5,2430,null],
 	[1698559221,25,2,12.5,2430,null],
-];
+]};

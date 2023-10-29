@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OFS"] = [
+profiles["OFS"] = {
+"name": "Overdrive Fun Studio",
+"snapshots": [
 	[1672661786,20,2,10.0,20,null],
 	[1672735193,30,3,10.0,30,null],
 	[1672819902,30,3,10.0,30,null],
@@ -254,4 +256,4 @@ profiles["OFS"] = [
 	[1698382795,605,16,37.81,3400,null],
 	[1698469128,605,16,37.81,3400,null],
 	[1698555466,605,16,37.81,3400,null],
-];
+]};

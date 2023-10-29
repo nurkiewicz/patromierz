@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["marcinzielinski"] = [
+profiles["marcinzielinski"] = {
+"name": "Marcin Zieliński | Fundacja Rozpal Wiarę",
+"snapshots": [
 	[1600905600,8630,182,47.41,175345,null],
 	[1625961600,15495,297,52.17,299070,null],
 	[1643354688,33330,609,54.72,495045,null],
@@ -586,4 +588,4 @@ profiles["marcinzielinski"] = [
 	[1698379804,34845,625,55.75,null,41.0],
 	[1698466207,34610,622,55.64,null,33.0],
 	[1698552522,34970,626,55.86,null,37.0],
-];
+]};

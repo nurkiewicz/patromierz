@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lechiarugby"] = [
+profiles["lechiarugby"] = {
+"name": "Rugby Club Lechia Gdańsk",
+"snapshots": [
 	[1643364698,843,21,40.14,14102,null],
 	[1643430897,843,21,40.14,14102,null],
 	[1643510332,874,22,39.72,14133,null],
@@ -580,4 +582,4 @@ profiles["lechiarugby"] = [
 	[1698378576,123,6,20.5,23749,null],
 	[1698464996,123,6,20.5,23749,null],
 	[1698551261,123,6,20.5,23749,null],
-];
+]};

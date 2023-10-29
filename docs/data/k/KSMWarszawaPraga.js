@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KSMWarszawaPraga"] = [
+profiles["KSMWarszawaPraga"] = {
+"name": "Katolickie Stowarzyszenie Młodzieży Diecezji Warszawsko-Praskiej",
+"snapshots": [
 	[1676084497,30,1,30.0,30,null],
 	[1676170816,30,1,30.0,30,null],
 	[1676256978,30,1,30.0,30,null],
@@ -216,4 +218,4 @@ profiles["KSMWarszawaPraga"] = [
 	[1698378170,40,2,20.0,490,null],
 	[1698464602,40,2,20.0,490,null],
 	[1698550855,40,2,20.0,490,null],
-];
+]};

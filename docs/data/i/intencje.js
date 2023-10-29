@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["intencje"] = [
+profiles["intencje"] = {
+"name": "Intencje.pl - Platforma Duchowej Łączności",
+"snapshots": [
 	[1670561526,10,1,10.0,10,null],
 	[1670647961,10,1,10.0,10,null],
 	[1670734041,10,1,10.0,10,null],
@@ -278,4 +280,4 @@ profiles["intencje"] = [
 	[1698375706,35,5,7.0,375,null],
 	[1698462180,35,5,7.0,375,null],
 	[1698548400,35,5,7.0,375,null],
-];
+]};

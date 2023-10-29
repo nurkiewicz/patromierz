@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["alternativepop"] = [
+profiles["alternativepop"] = {
+"name": "Alternativepop.pl - Magazyn Autorów",
+"snapshots": [
 	[1691801299,5,1,5.0,5,null],
 	[1691887909,5,1,5.0,5,null],
 	[1691974181,5,1,5.0,5,null],
@@ -54,4 +56,4 @@ profiles["alternativepop"] = [
 	[1698368147,5,1,5.0,15,null],
 	[1698454705,5,1,5.0,15,null],
 	[1698540881,5,1,5.0,15,null],
-];
+]};

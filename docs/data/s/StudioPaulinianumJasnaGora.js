@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["StudioPaulinianumJasnaGora"] = [
+profiles["StudioPaulinianumJasnaGora"] = {
+"name": "Wydawnictwo i Studio Paulinianum z Jasnej Góry",
+"snapshots": [
 	[1649814861,160,3,53.33,190,null],
 	[1649900749,160,3,53.33,190,null],
 	[1649987236,260,7,37.14,290,null],
@@ -508,4 +510,4 @@ profiles["StudioPaulinianumJasnaGora"] = [
 	[1698389139,150,4,37.5,3300,null],
 	[1698475391,150,4,37.5,3350,null],
 	[1698561794,150,4,37.5,3350,null],
-];
+]};

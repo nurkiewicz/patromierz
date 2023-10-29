@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.martarybak.pl"] = [
+profiles["www.martarybak.pl"] = {
+"name": "Marta Rybak Juszczyszyn",
+"snapshots": [
 	[1655962043,520,13,40.0,520,null],
 	[1656048998,680,17,40.0,680,null],
 	[1656134787,720,18,40.0,720,null],
@@ -437,4 +439,4 @@ profiles["www.martarybak.pl"] = [
 	[1698392452,6160,158,38.98,82290,-4.0],
 	[1698478722,6160,157,39.23,82290,-5.0],
 	[1698565100,6120,157,38.98,82450,-6.0],
-];
+]};

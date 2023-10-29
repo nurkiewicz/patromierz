@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bsp"] = [
+profiles["bsp"] = {
+"name": "Bojowe Schrony Proszowice - Izba Pamięci",
+"snapshots": [
 	[1656464498,10,2,5.0,10,null],
 	[1656551115,45,4,11.25,45,null],
 	[1656643353,55,6,9.16,55,null],
@@ -431,4 +433,4 @@ profiles["bsp"] = [
 	[1698370211,25,1,25.0,690,null],
 	[1698456778,25,1,25.0,690,null],
 	[1698542935,25,1,25.0,690,null],
-];
+]};

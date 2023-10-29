@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["przesiadkowy"] = [
+profiles["przesiadkowy"] = {
+"name": "Węzeł przesiadkowy",
+"snapshots": [
 	[1576972800,60,6,10.0,88,null],
 	[1589932800,224,18,12.44,1124,null],
 	[1606435200,447,30,14.9,3316,null],
@@ -586,4 +588,4 @@ profiles["przesiadkowy"] = [
 	[1698386242,725,38,19.07,25298,1.0],
 	[1698472507,725,38,19.07,25298,1.0],
 	[1698558890,725,38,19.07,25298,1.0],
-];
+]};

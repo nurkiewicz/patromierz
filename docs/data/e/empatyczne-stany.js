@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["empatyczne-stany"] = [
+profiles["empatyczne-stany"] = {
+"name": "Empatyczne Stany Świadomości",
+"snapshots": [
 	[1643358804,15,2,7.5,35,null],
 	[1643427663,15,2,7.5,35,null],
 	[1643512487,15,2,7.5,35,null],
@@ -235,4 +237,4 @@ profiles["empatyczne-stany"] = [
 	[1698372622,5,1,5.0,305,null],
 	[1698459158,5,1,5.0,305,null],
 	[1698545329,5,1,5.0,305,null],
-];
+]};

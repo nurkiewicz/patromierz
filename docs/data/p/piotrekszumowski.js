@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["piotrekszumowski"] = [
+profiles["piotrekszumowski"] = {
+"name": "Komik dookoła świata 2 - BON VOYAGE",
+"snapshots": [
 	[1671516158,180,4,45.0,180,null],
 	[1671602854,310,7,44.28,310,null],
 	[1671688662,340,9,37.77,340,null],
@@ -268,4 +270,4 @@ profiles["piotrekszumowski"] = [
 	[1698384194,1710,61,28.03,19830,-4.0],
 	[1698470490,1710,61,28.03,19880,-4.0],
 	[1698556846,1710,61,28.03,19930,-3.0],
-];
+]};

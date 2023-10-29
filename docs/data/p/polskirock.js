@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["polskirock"] = [
+profiles["polskirock"] = {
+"name": "Archiwum Polskiego Rocka - Polski Rock w najlepszym wydaniu",
+"snapshots": [
 	[1612569600,135,10,13.5,135,null],
 	[1625961600,235,11,21.36,1090,null],
 	[1634601600,235,11,21.36,1970,null],
@@ -584,4 +586,4 @@ profiles["polskirock"] = [
 	[1698384896,280,3,93.33,5290,8.0],
 	[1698471178,280,3,93.33,5290,8.0],
 	[1698557545,280,3,93.33,5290,8.0],
-];
+]};

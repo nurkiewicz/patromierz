@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["xbc"] = [
+profiles["xbc"] = {
+"name": "XBestCinema",
+"snapshots": [
 	[1643356031,35,3,11.66,3630,null],
 	[1643433760,35,3,11.66,3630,null],
 	[1643513808,35,3,11.66,3630,null],
@@ -583,4 +585,4 @@ profiles["xbc"] = [
 	[1698392725,25,2,12.5,4140,null],
 	[1698478997,25,2,12.5,4140,null],
 	[1698565373,25,2,12.5,4140,null],
-];
+]};

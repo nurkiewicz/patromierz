@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["polska-animacja"] = [
+profiles["polska-animacja"] = {
+"name": "Piotr Kardas | Autorskie Festiwale Animacji: O!PLA, Rising of Lusitania",
+"snapshots": [
 	[1610841600,150,8,18.75,150,null],
 	[1618185600,202,11,18.36,652,null],
 	[1618272000,202,11,18.36,662,null],
@@ -586,4 +588,4 @@ profiles["polska-animacja"] = [
 	[1698384827,290,13,22.3,7878,null],
 	[1698471110,290,13,22.3,7878,null],
 	[1698557476,290,13,22.3,7878,null],
-];
+]};

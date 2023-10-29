@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["motoryzacyjny"] = [
+profiles["motoryzacyjny"] = {
+"name": "Motoryzacyjny Skrót Tygodnia",
+"snapshots": [
 	[1623801600,230,4,57.5,500,null],
 	[1643353590,40,3,13.33,1650,null],
 	[1643425338,40,3,13.33,1650,null],
@@ -581,4 +583,4 @@ profiles["motoryzacyjny"] = [
 	[1698381253,20,1,20.0,2110,null],
 	[1698467622,20,1,20.0,2110,null],
 	[1698553956,20,1,20.0,2110,null],
-];
+]};

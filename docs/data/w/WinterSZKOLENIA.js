@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["WinterSZKOLENIA"] = [
+profiles["WinterSZKOLENIA"] = {
+"name": " Winter SZKOLENIA / Royal Tact-X",
+"snapshots": [
 	[1658283939,50,1,50.0,50,null],
 	[1658370568,100,2,50.0,100,null],
 	[1658456972,170,4,42.5,170,null],
@@ -413,4 +415,4 @@ profiles["WinterSZKOLENIA"] = [
 	[1698391838,480,11,43.63,8120,2.0],
 	[1698478105,480,11,43.63,8120,2.0],
 	[1698564482,480,11,43.63,8120,2.0],
-];
+]};

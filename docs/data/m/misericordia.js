@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["misericordia"] = [
+profiles["misericordia"] = {
+"name": "Pallotyńska Grupa Medialna",
+"snapshots": [
 	[1643354404,510,11,46.36,13460,null],
 	[1643435566,510,11,46.36,13470,null],
 	[1643517349,510,11,46.36,13470,null],
@@ -583,4 +585,4 @@ profiles["misericordia"] = [
 	[1698380834,460,11,41.81,22310,1.0],
 	[1698467215,460,11,41.81,22320,null],
 	[1698553543,460,11,41.81,22320,null],
-];
+]};

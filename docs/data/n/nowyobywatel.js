@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nowyobywatel"] = [
+profiles["nowyobywatel"] = {
+"name": "Kwartalnik „Nowy Obywatel” – pismo na rzecz sprawiedliwości społecznej",
+"snapshots": [
 	[1553299200,1900,53,35.84,38050,null],
 	[1578787200,1530,41,37.31,55840,null],
 	[1587600000,1620,48,33.75,60120,null],
@@ -584,4 +586,4 @@ profiles["nowyobywatel"] = [
 	[1698382565,1950,55,35.45,130500,4.0],
 	[1698468904,1950,55,35.45,130560,2.0],
 	[1698555240,1950,55,35.45,130640,2.0],
-];
+]};

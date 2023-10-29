@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["radzioflatout"] = [
+profiles["radzioflatout"] = {
+"name": "radzio FLAT OUT",
+"snapshots": [
 	[1643362036,1590,34,46.76,27300,null],
 	[1643432550,1590,33,48.18,27370,null],
 	[1643514201,1590,33,48.18,27370,null],
@@ -584,4 +586,4 @@ profiles["radzioflatout"] = [
 	[1698386771,400,8,50.0,46940,null],
 	[1698473029,400,8,50.0,46940,null],
 	[1698559429,400,8,50.0,46940,null],
-];
+]};

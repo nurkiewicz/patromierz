@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Grafik.mnky"] = [
+profiles["Grafik.mnky"] = {
+"name": "Grafik_MNKY",
+"snapshots": [
 	[1667615417,10,1,10.0,10,null],
 	[1667701844,10,1,10.0,10,null],
 	[1667788158,10,1,10.0,10,null],
@@ -314,4 +316,4 @@ profiles["Grafik.mnky"] = [
 	[1698374598,30,3,10.0,270,null],
 	[1698461095,30,3,10.0,270,null],
 	[1698547300,30,3,10.0,270,null],
-];
+]};

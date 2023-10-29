@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["glowadogory_podcast"] = [
+profiles["glowadogory_podcast"] = {
+"name": "Głowa do góry - Podcast",
+"snapshots": [
 	[1643361337,49,4,12.25,897,null],
 	[1643429586,49,4,12.25,897,null],
 	[1643513721,49,4,12.25,897,null],
@@ -565,4 +567,4 @@ profiles["glowadogory_podcast"] = [
 	[1698374435,55,5,11.0,2636,null],
 	[1698460934,55,5,11.0,2636,null],
 	[1698547136,55,5,11.0,2636,null],
-];
+]};

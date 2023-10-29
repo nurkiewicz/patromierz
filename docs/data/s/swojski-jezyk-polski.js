@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["swojski-jezyk-polski"] = [
+profiles["swojski-jezyk-polski"] = {
+"name": "Swojski Język Polski",
+"snapshots": [
 	[1643357044,77,2,38.5,294,null],
 	[1643426571,77,2,38.5,294,null],
 	[1643525016,77,2,38.5,294,null],
@@ -583,4 +585,4 @@ profiles["swojski-jezyk-polski"] = [
 	[1698389332,35,3,11.66,881,null],
 	[1698475587,35,3,11.66,881,null],
 	[1698561989,35,3,11.66,881,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mantyk"] = [
+profiles["mantyk"] = {
+"name": "Od słowa do Słowa - br. Tomasz Mantyk",
+"snapshots": [
 	[1643364864,1348,54,24.96,18463,null],
 	[1643434270,1348,54,24.96,18482,null],
 	[1643524521,1348,54,24.96,18482,null],
@@ -581,4 +583,4 @@ profiles["mantyk"] = [
 	[1698379681,1499,40,37.47,45783,1.0],
 	[1698466084,1499,40,37.47,45893,1.0],
 	[1698552400,1499,40,37.47,45959,1.0],
-];
+]};

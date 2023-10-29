@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ATARImuzeum"] = [
+profiles["ATARImuzeum"] = {
+"name": "ATARI Muzeum",
+"snapshots": [
 	[1656457748,16,1,16.0,16,null],
 	[1656544161,16,1,16.0,16,null],
 	[1656636517,16,1,16.0,16,null],
@@ -261,4 +263,4 @@ profiles["ATARImuzeum"] = [
 	[1698368949,64,1,64.0,512,null],
 	[1698455512,64,1,64.0,512,null],
 	[1698541680,64,1,64.0,512,null],
-];
+]};

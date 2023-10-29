@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["GMCLAN"] = [
+profiles["GMCLAN"] = {
+"name": "GMCLAN.org",
+"snapshots": [
 	[1620345600,200,12,16.66,200,null],
 	[1643357602,220,9,24.44,2215,null],
 	[1643425164,220,9,24.44,2215,null],
@@ -586,4 +588,4 @@ profiles["GMCLAN"] = [
 	[1698374446,140,6,23.33,5385,null],
 	[1698460945,140,6,23.33,5385,null],
 	[1698547148,140,6,23.33,5385,null],
-];
+]};

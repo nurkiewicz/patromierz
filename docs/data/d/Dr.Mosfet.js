@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Dr.Mosfet"] = [
+profiles["Dr.Mosfet"] = {
+"name": "Dr.Mosfet",
+"snapshots": [
 	[1688694393,10,1,10.0,10,null],
 	[1688780833,10,1,10.0,10,null],
 	[1688867357,10,1,10.0,10,null],
@@ -90,4 +92,4 @@ profiles["Dr.Mosfet"] = [
 	[1698371983,40,3,13.33,290,null],
 	[1698458531,40,3,13.33,290,null],
 	[1698544698,40,3,13.33,290,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CENTRUMMTG"] = [
+profiles["CENTRUMMTG"] = {
+"name": "CENTRUM MTG Jarosław Podlasiński",
+"snapshots": [
 	[1667614314,240,3,80.0,240,null],
 	[1667700728,325,6,54.16,325,null],
 	[1667787056,350,7,50.0,350,null],
@@ -313,4 +315,4 @@ profiles["CENTRUMMTG"] = [
 	[1698370436,325,6,54.16,6185,null],
 	[1698457004,325,6,54.16,6185,null],
 	[1698543160,325,6,54.16,6185,null],
-];
+]};

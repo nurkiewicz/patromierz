@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["WelderArt"] = [
+profiles["WelderArt"] = {
+"name": "Welder Art",
+"snapshots": [
 	[1643355756,75,5,15.0,640,null],
 	[1643429834,75,5,15.0,640,null],
 	[1643519814,75,5,15.0,660,null],
@@ -584,4 +586,4 @@ profiles["WelderArt"] = [
 	[1698391606,60,7,8.57,2210,-2.0],
 	[1698477871,60,7,8.57,2210,-2.0],
 	[1698564251,60,7,8.57,2210,-2.0],
-];
+]};

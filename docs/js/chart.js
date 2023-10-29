@@ -20,10 +20,10 @@ function drawMulti(profileNames, column, id, format) {
         var dt = new google.visualization.DataTable();
         dt.addColumn('date', '');
         profileNames.forEach(name => {
-            dt.addColumn('number', name);
+            dt.addColumn('number', profiles[name].name);
         });
         profileNames.forEach((name, idx) => {
-            let rawData = profiles[name]
+            let rawData = profiles[name].snapshots
                 .map(row => buildRow(row, column, idx, profileNames.length))
             dt.addRows(rawData);
         });
@@ -47,7 +47,7 @@ function drawBasic(data, column, id, label, format) {
         var dt = new google.visualization.DataTable();
         dt.addColumn('date', '');
         dt.addColumn('number', label);
-        dt.addRows(data.map(row => [new Date(row[0] * 1000), row[column]]).filter(row => row[1]));
+        dt.addRows(data.snapshots.map(row => [new Date(row[0] * 1000), row[column]]).filter(row => row[1]));
         var options = {
             vAxis: {
                 format: format
@@ -98,7 +98,7 @@ function makeTable(data) {
         }
 
        const gridOptions = {
-        rowData: data.map(row => {return {
+        rowData: data.snapshots.map(row => {return {
             date: new Date(row[0] * 1000),
             monthly: row[1],
             supporters: row[2],

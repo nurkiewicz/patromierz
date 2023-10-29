@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.krolowafakapu.pl"] = [
+profiles["www.krolowafakapu.pl"] = {
+"name": "Justyna Bargielska",
+"snapshots": [
 	[1689318199,280,5,56.0,280,null],
 	[1689404515,310,7,44.28,310,null],
 	[1689490286,360,8,45.0,360,null],
@@ -82,4 +84,4 @@ profiles["www.krolowafakapu.pl"] = [
 	[1698392425,560,17,32.94,2100,1.0],
 	[1698478695,560,17,32.94,2140,1.0],
 	[1698565072,560,17,32.94,2140,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mtb-trails-mielec"] = [
+profiles["mtb-trails-mielec"] = {
+"name": "MTB Trails Mielec",
+"snapshots": [
 	[1643362431,149,9,16.55,3403,null],
 	[1643437972,149,9,16.55,3403,null],
 	[1643518481,149,9,16.55,3403,null],
@@ -579,4 +581,4 @@ profiles["mtb-trails-mielec"] = [
 	[1698381442,137,9,15.22,6351,null],
 	[1698467806,137,9,15.22,6351,null],
 	[1698554140,137,9,15.22,6351,null],
-];
+]};

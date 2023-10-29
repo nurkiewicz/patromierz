@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["techspresso"] = [
+profiles["techspresso"] = {
+"name": "TECHSPRESSO.CAFE",
+"snapshots": [
 	[1633305600,660,24,27.5,6225,null],
 	[1643351325,1040,39,26.66,9175,null],
 	[1643433453,1040,39,26.66,9205,null],
@@ -583,4 +585,4 @@ profiles["techspresso"] = [
 	[1698390004,1680,77,21.81,39315,-2.0],
 	[1698476264,1680,77,21.81,39445,-1.0],
 	[1698562660,1680,77,21.81,39465,-1.0],
-];
+]};

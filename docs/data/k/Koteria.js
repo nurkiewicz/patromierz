@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Koteria"] = [
+profiles["Koteria"] = {
+"name": "Koteria - Ośrodek dla kotów miejskich ",
+"snapshots": [
 	[1654306075,50,1,50.0,50,null],
 	[1654392659,50,1,50.0,50,null],
 	[1654478813,50,1,50.0,50,null],
@@ -455,4 +457,4 @@ profiles["Koteria"] = [
 	[1698377756,1505,48,31.35,18875,6.0],
 	[1698464192,1505,48,31.35,18900,6.0],
 	[1698550440,1515,49,30.91,18910,6.0],
-];
+]};

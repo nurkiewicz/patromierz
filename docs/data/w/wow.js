@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wow"] = [
+profiles["wow"] = {
+"name": "Wrocławska Orkiestra Wszechmuzyczna",
+"snapshots": [
 	[1682507252,127,7,18.14,127,null],
 	[1682592827,127,7,18.14,127,null],
 	[1682660803,127,7,18.14,127,null],
@@ -159,4 +161,4 @@ profiles["wow"] = [
 	[1698392132,140,7,20.0,887,null],
 	[1698478401,140,8,17.5,908,null],
 	[1698564775,140,8,17.5,921,null],
-];
+]};

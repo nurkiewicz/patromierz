@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["GGDuo"] = [
+profiles["GGDuo"] = {
+"name": "Gabi i Wojciech Gąsior",
+"snapshots": [
 	[1610668800,150,10,15.0,2075,null],
 	[1610841600,150,10,15.0,2080,null],
 	[1618272000,150,10,15.0,2500,null],
@@ -590,4 +592,4 @@ profiles["GGDuo"] = [
 	[1698374316,60,5,12.0,6140,null],
 	[1698460820,60,5,12.0,6140,null],
 	[1698547019,60,5,12.0,6140,null],
-];
+]};

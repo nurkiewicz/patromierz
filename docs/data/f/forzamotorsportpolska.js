@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["forzamotorsportpolska"] = [
+profiles["forzamotorsportpolska"] = {
+"name": "Forza Motorsport Polska",
+"snapshots": [
 	[1643364004,85,6,14.16,1845,null],
 	[1643430799,85,6,14.16,1845,null],
 	[1643515442,85,6,14.16,1845,null],
@@ -585,4 +587,4 @@ profiles["forzamotorsportpolska"] = [
 	[1698373346,35,3,11.66,2930,null],
 	[1698459871,35,3,11.66,2930,null],
 	[1698546052,35,3,11.66,2930,null],
-];
+]};

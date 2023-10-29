@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kitkowo"] = [
+profiles["kitkowo"] = {
+"name": "Kitkow - Toruńskie Bezdomniaki",
+"snapshots": [
 	[1643359701,194,10,19.4,410,null],
 	[1643434021,194,10,19.4,410,null],
 	[1643525100,204,11,18.54,442,null],
@@ -583,4 +585,4 @@ profiles["kitkowo"] = [
 	[1698377186,96,7,13.71,2972,null],
 	[1698463637,96,7,13.71,2972,null],
 	[1698549877,96,7,13.71,2972,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["iSAP"] = [
+profiles["iSAP"] = {
+"name": "iSAP Słowiańska Agencja Prasowa",
+"snapshots": [
 	[1643356167,5,1,5.0,615,null],
 	[1643423529,5,1,5.0,615,null],
 	[1643519957,5,1,5.0,615,null],
@@ -584,4 +586,4 @@ profiles["iSAP"] = [
 	[1698375777,110,3,36.66,2585,null],
 	[1698462249,110,3,36.66,2585,null],
 	[1698548469,110,3,36.66,2585,null],
-];
+]};

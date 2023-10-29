@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kwantowo"] = [
+profiles["kwantowo"] = {
+"name": "Kwantowo.pl",
+"snapshots": [
 	[1476748800,345,22,15.68,795,null],
 	[1496793600,430,29,14.82,4035,null],
 	[1575763200,1635,80,20.43,null,null],
@@ -586,4 +588,4 @@ profiles["kwantowo"] = [
 	[1698378413,1725,96,17.96,null,-4.0],
 	[1698464835,1725,95,18.15,null,-4.0],
 	[1698551096,1725,95,18.15,null,-3.0],
-];
+]};

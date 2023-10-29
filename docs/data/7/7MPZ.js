@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["7MPZ"] = [
+profiles["7MPZ"] = {
+"name": "Rafał Gębura – Pokój nr 7",
+"snapshots": [
 	[1606348800,2860,145,19.72,77960,null],
 	[1635370877,3810,154,24.74,null,null],
 	[1635410312,3760,151,24.9,null,null],
@@ -673,4 +675,4 @@ profiles["7MPZ"] = [
 	[1698367458,1290,57,22.63,null,-5.0],
 	[1698454013,1290,57,22.63,null,-5.0],
 	[1698540196,1290,57,22.63,null,-5.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Nauka_to_przygoda"] = [
+profiles["Nauka_to_przygoda"] = {
+"name": "Fundacja Nauka to przygoda",
+"snapshots": [
 	[1695444445,50,1,50.0,50,null],
 	[1695530759,50,1,50.0,50,null],
 	[1695617243,70,2,35.0,70,null],
@@ -31,4 +33,4 @@ profiles["Nauka_to_przygoda"] = [
 	[1698382011,90,3,30.0,160,1.0],
 	[1698468363,90,3,30.0,160,1.0],
 	[1698554695,90,3,30.0,160,1.0],
-];
+]};

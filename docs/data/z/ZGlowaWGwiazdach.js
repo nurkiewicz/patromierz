@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ZGlowaWGwiazdach"] = [
+profiles["ZGlowaWGwiazdach"] = {
+"name": "Karol Wójcicki | Z głową w gwiazdach",
+"snapshots": [
 	[1606867200,230,11,20.9,3110,null],
 	[1643360780,5410,252,21.46,86585,null],
 	[1643433689,5410,253,21.38,86785,null],
@@ -584,4 +586,4 @@ profiles["ZGlowaWGwiazdach"] = [
 	[1698393155,4050,172,23.54,194980,-2.0],
 	[1698479429,4050,171,23.68,195090,-2.0],
 	[1698565803,4050,171,23.68,195155,-2.0],
-];
+]};

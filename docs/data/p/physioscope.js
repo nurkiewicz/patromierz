@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["physioscope"] = [
+profiles["physioscope"] = {
+"name": "Physioscope - newsletter dla fizjoterapeutów",
+"snapshots": [
 	[1673858638,5,1,5.0,5,null],
 	[1673945300,5,1,5.0,5,null],
 	[1674035605,5,1,5.0,5,null],
@@ -242,4 +244,4 @@ profiles["physioscope"] = [
 	[1698384000,15,2,7.5,145,null],
 	[1698470300,15,2,7.5,145,null],
 	[1698556653,15,2,7.5,145,null],
-];
+]};

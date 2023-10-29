@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tpd-maz-org"] = [
+profiles["tpd-maz-org"] = {
+"name": "Towarzystwo Przyjaciół Dzieci",
+"snapshots": [
 	[1675230677,100,1,100.0,100,null],
 	[1675316431,100,1,100.0,100,null],
 	[1675403331,100,1,100.0,100,null],
@@ -226,4 +228,4 @@ profiles["tpd-maz-org"] = [
 	[1698390529,20,1,20.0,570,null],
 	[1698476789,20,1,20.0,570,null],
 	[1698563179,20,1,20.0,570,null],
-];
+]};

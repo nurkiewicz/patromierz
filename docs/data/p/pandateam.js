@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pandateam"] = [
+profiles["pandateam"] = {
+"name": "Fundacja Panda Team im. Michałka Tarachowicza",
+"snapshots": [
 	[1658809869,10,1,10.0,10,null],
 	[1658896232,10,1,10.0,10,null],
 	[1658982984,10,1,10.0,10,null],
@@ -405,4 +407,4 @@ profiles["pandateam"] = [
 	[1698383377,245,12,20.41,4880,null],
 	[1698469688,220,12,18.33,4880,-1.0],
 	[1698556033,220,12,18.33,4880,-1.0],
-];
+]};

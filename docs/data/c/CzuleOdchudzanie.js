@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CzuleOdchudzanie"] = [
+profiles["CzuleOdchudzanie"] = {
+"name": "Czułe Odchudzanie. Bez nienawiści do jedzenia! :: ALFA-REAKTYWACJA",
+"snapshots": [
 	[1597363200,202,6,33.66,323,null],
 	[1643351369,210,10,21.0,5684,null],
 	[1643426007,210,10,21.0,5684,null],
@@ -585,4 +587,4 @@ profiles["CzuleOdchudzanie"] = [
 	[1698371146,75,5,15.0,8180,null],
 	[1698457715,75,5,15.0,8180,null],
 	[1698543864,75,5,15.0,8187,null],
-];
+]};

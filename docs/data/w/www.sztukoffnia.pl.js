@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.sztukoffnia.pl"] = [
+profiles["www.sztukoffnia.pl"] = {
+"name": "Teatr SZTUKOFFNIA",
+"snapshots": [
 	[1691734964,40,2,20.0,40,null],
 	[1691821173,40,2,20.0,40,null],
 	[1691907699,40,2,20.0,40,null],
@@ -54,4 +56,4 @@ profiles["www.sztukoffnia.pl"] = [
 	[1698392530,40,2,20.0,120,null],
 	[1698478801,40,2,20.0,120,null],
 	[1698565178,40,2,20.0,120,null],
-];
+]};

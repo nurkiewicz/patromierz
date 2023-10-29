@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dianadabrowskawloskiekino"] = [
+profiles["dianadabrowskawloskiekino"] = {
+"name": "Filmoznawczyni Diana Dąbrowska - Accademia Włoskiego Kina",
+"snapshots": [
 	[1673427268,905,40,22.62,17060,null],
 	[1673510306,1025,41,25.0,17200,null],
 	[1673604108,1035,41,25.24,17230,null],
@@ -249,4 +251,4 @@ profiles["dianadabrowskawloskiekino"] = [
 	[1698371576,615,23,26.73,24950,-2.0],
 	[1698458138,615,23,26.73,24950,-2.0],
 	[1698544293,615,23,26.73,25000,-2.0],
-];
+]};

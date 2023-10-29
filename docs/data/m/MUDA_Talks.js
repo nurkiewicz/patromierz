@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MUDA_Talks"] = [
+profiles["MUDA_Talks"] = {
+"name": "MUDA Talks",
+"snapshots": [
 	[1643356778,280,11,25.45,3340,null],
 	[1643428720,268,11,24.36,3390,null],
 	[1643514624,268,10,26.8,3415,null],
@@ -582,4 +584,4 @@ profiles["MUDA_Talks"] = [
 	[1698381465,50,1,50.0,6079,null],
 	[1698467829,50,1,50.0,6079,null],
 	[1698554163,50,1,50.0,6079,null],
-];
+]};

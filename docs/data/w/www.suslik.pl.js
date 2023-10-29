@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.suslik.pl"] = [
+profiles["www.suslik.pl"] = {
+"name": "White Wolf - Marek Suslik",
+"snapshots": [
 	[1677392486,222,4,55.5,222,null],
 	[1677478670,222,4,55.5,222,null],
 	[1677575006,222,4,55.5,222,null],
@@ -202,4 +204,4 @@ profiles["www.suslik.pl"] = [
 	[1698392527,374,7,53.42,3268,-1.0],
 	[1698478798,374,6,62.33,3288,-1.0],
 	[1698565175,374,6,62.33,3388,-1.0],
-];
+]};

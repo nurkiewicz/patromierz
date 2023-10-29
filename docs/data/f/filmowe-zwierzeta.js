@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["filmowe-zwierzeta"] = [
+profiles["filmowe-zwierzeta"] = {
+"name": "Filmowe zwierzęta - blog o postaciach zwierzęcych w kinie",
+"snapshots": [
 	[1643351562,165,8,20.62,1365,null],
 	[1643433743,165,8,20.62,1365,null],
 	[1643512506,165,8,20.62,1365,null],
@@ -585,4 +587,4 @@ profiles["filmowe-zwierzeta"] = [
 	[1698373133,145,8,18.12,5160,null],
 	[1698459661,145,8,18.12,5170,null],
 	[1698545838,145,8,18.12,5170,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["natropietajemnicolechowa"] = [
+profiles["natropietajemnicolechowa"] = {
+"name": "Na Tropie Tajemnic Olechowa",
+"snapshots": [
 	[1683778382,120,5,24.0,135,null],
 	[1683878488,150,8,18.75,165,null],
 	[1683951147,150,8,18.75,165,null],
@@ -145,4 +147,4 @@ profiles["natropietajemnicolechowa"] = [
 	[1698381970,115,6,19.16,855,null],
 	[1698468321,105,6,17.5,855,-1.0],
 	[1698554653,105,6,17.5,855,-1.0],
-];
+]};

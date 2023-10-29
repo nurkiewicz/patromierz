@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chodlik"] = [
+profiles["chodlik"] = {
+"name": "Misja Archeologiczna w Chodliku",
+"snapshots": [
 	[1618876800,111,11,10.09,4987,null],
 	[1643352375,113,11,10.27,6049,null],
 	[1643432960,113,11,10.27,6049,null],
@@ -584,4 +586,4 @@ profiles["chodlik"] = [
 	[1698370575,217,9,24.11,12174,null],
 	[1698457143,217,9,24.11,12174,null],
 	[1698543297,217,9,24.11,12174,null],
-];
+]};

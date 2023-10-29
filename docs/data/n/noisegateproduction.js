@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["noisegateproduction"] = [
+profiles["noisegateproduction"] = {
+"name": "Noise Gate Production",
+"snapshots": [
 	[1635811200,25,1,25.0,25,null],
 	[1643354425,90,7,12.85,265,null],
 	[1643434513,90,7,12.85,265,null],
@@ -583,4 +585,4 @@ profiles["noisegateproduction"] = [
 	[1698382449,50,4,12.5,1315,null],
 	[1698468791,50,4,12.5,1315,null],
 	[1698555128,50,4,12.5,1315,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fik"] = [
+profiles["fik"] = {
+"name": "Forum Inspiracji Kulturalnych",
+"snapshots": [
 	[1612396800,970,39,24.87,970,null],
 	[1643351506,895,93,9.62,11044,null],
 	[1643438465,895,93,9.62,11044,null],
@@ -586,4 +588,4 @@ profiles["fik"] = [
 	[1698373076,815,65,12.53,26899,null],
 	[1698459604,815,65,12.53,26899,null],
 	[1698545782,815,65,12.53,26904,null],
-];
+]};

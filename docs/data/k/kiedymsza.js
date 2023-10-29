@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kiedymsza"] = [
+profiles["kiedymsza"] = {
+"name": "KiedyMsza.PL - Piotr Podstawski",
+"snapshots": [
 	[1643358856,40,3,13.33,630,null],
 	[1643426795,40,3,13.33,630,null],
 	[1643520940,40,3,13.33,630,null],
@@ -584,4 +586,4 @@ profiles["kiedymsza"] = [
 	[1698377091,30,3,10.0,985,null],
 	[1698463543,30,3,10.0,985,null],
 	[1698549782,30,3,10.0,985,null],
-];
+]};

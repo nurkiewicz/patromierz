@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["DTF-Solutions"] = [
+profiles["DTF-Solutions"] = {
+"name": "DTF Solutions",
+"snapshots": [
 	[1643359888,425,7,60.71,2380,null],
 	[1643425873,425,7,60.71,2380,null],
 	[1643518391,425,7,60.71,2480,null],
@@ -585,4 +587,4 @@ profiles["DTF-Solutions"] = [
 	[1698372138,610,8,76.25,10915,null],
 	[1698458683,610,8,76.25,10915,null],
 	[1698544851,610,8,76.25,10915,3.0],
-];
+]};

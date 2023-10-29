@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["pgprgryf"] = [
+profiles["pgprgryf"] = {
+"name": "Pomorska Grupa Poszukiwawczo-Ratownicza GRYF",
+"snapshots": [
 	[1643352323,50,2,25.0,130,null],
 	[1643427276,50,2,25.0,130,null],
 	[1643520743,50,2,25.0,130,null],
@@ -579,4 +581,4 @@ profiles["pgprgryf"] = [
 	[1698383986,20,2,10.0,1340,-4.0],
 	[1698470287,20,2,10.0,1340,-4.0],
 	[1698556639,20,2,10.0,1340,-4.0],
-];
+]};

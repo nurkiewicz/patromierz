@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kolejwogrodzie"] = [
+profiles["kolejwogrodzie"] = {
+"name": "Żuławska Kolej Ogrodowa Tomka",
+"snapshots": [
 	[1643367581,10,1,10.0,10,null],
 	[1643436516,10,1,10.0,10,null],
 	[1643512066,10,1,10.0,10,null],
@@ -584,4 +586,4 @@ profiles["kolejwogrodzie"] = [
 	[1698377492,20,2,10.0,510,null],
 	[1698463937,20,2,10.0,510,null],
 	[1698550178,20,2,10.0,510,null],
-];
+]};

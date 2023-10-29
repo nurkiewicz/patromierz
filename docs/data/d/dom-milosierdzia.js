@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dom-milosierdzia"] = [
+profiles["dom-milosierdzia"] = {
+"name": "Dom Miłosierdzia w Otmuchowie",
+"snapshots": [
 	[1643363526,30,2,15.0,90,null],
 	[1643425035,30,2,15.0,110,null],
 	[1643515817,30,2,15.0,120,null],
@@ -216,4 +218,4 @@ profiles["dom-milosierdzia"] = [
 	[1698371790,50,1,50.0,520,null],
 	[1698458342,50,1,50.0,520,null],
 	[1698544507,50,1,50.0,520,null],
-];
+]};

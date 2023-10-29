@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CamperAustraliaTrip"] = [
+profiles["CamperAustraliaTrip"] = {
+"name": "Camper Australia Trip",
+"snapshots": [
 	[1643363993,65,6,10.83,2290,null],
 	[1643435203,65,6,10.83,2290,null],
 	[1643510006,65,6,10.83,2290,null],
@@ -584,4 +586,4 @@ profiles["CamperAustraliaTrip"] = [
 	[1698370353,40,3,13.33,3235,null],
 	[1698456920,40,3,13.33,3235,null],
 	[1698543077,40,3,13.33,3235,null],
-];
+]};

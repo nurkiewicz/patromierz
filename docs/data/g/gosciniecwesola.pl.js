@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["gosciniecwesola.pl"] = [
+profiles["gosciniecwesola.pl"] = {
+"name": "DOM UCHODŹCY GOŚCINIEC",
+"snapshots": [
 	[1676790771,40,4,10.0,40,null],
 	[1676859385,50,5,10.0,50,null],
 	[1676970851,60,6,10.0,60,null],
@@ -209,4 +211,4 @@ profiles["gosciniecwesola.pl"] = [
 	[1698374533,50,1,50.0,680,null],
 	[1698461029,50,1,50.0,680,null],
 	[1698547234,50,1,50.0,680,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["polskierpg"] = [
+profiles["polskierpg"] = {
+"name": "Polskie Erpegowanie",
+"snapshots": [
 	[1643365627,72,4,18.0,1250,null],
 	[1643436230,72,4,18.0,1250,null],
 	[1643522254,72,4,18.0,1250,null],
@@ -582,4 +584,4 @@ profiles["polskierpg"] = [
 	[1698384875,140,3,46.66,4094,null],
 	[1698471158,140,3,46.66,4094,null],
 	[1698557524,140,3,46.66,4094,null],
-];
+]};

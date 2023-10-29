@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MiniAzyl"] = [
+profiles["MiniAzyl"] = {
+"name": "MiniAzyl u Małgosi. Króliki do adopcji",
+"snapshots": [
 	[1643355801,null,null,null,345,null],
 	[1643435327,null,null,null,345,null],
 	[1643512538,null,null,null,345,null],
@@ -501,4 +503,4 @@ profiles["MiniAzyl"] = [
 	[1698380769,100,1,100.0,2085,null],
 	[1698467150,100,1,100.0,2085,null],
 	[1698553478,100,1,100.0,2085,null],
-];
+]};

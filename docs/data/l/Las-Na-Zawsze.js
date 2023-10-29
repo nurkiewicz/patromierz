@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Las-Na-Zawsze"] = [
+profiles["Las-Na-Zawsze"] = {
+"name": "Las Na Zawsze | Fundacja",
+"snapshots": [
 	[1601510400,1100,47,23.4,6375,null],
 	[1641600000,3225,66,48.86,34245,null],
 	[1643358275,3285,68,48.3,36645,null],
@@ -582,4 +584,4 @@ profiles["Las-Na-Zawsze"] = [
 	[1698378526,1855,60,30.91,89460,-1.0],
 	[1698464947,1855,60,30.91,89510,-1.0],
 	[1698551210,1855,60,30.91,89570,-1.0],
-];
+]};

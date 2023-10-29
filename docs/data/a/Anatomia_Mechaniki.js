@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Anatomia_Mechaniki"] = [
+profiles["Anatomia_Mechaniki"] = {
+"name": "ANATOMIA MECHANIKI",
+"snapshots": [
 	[1601164800,10,2,5.0,10,null],
 	[1643362070,5,1,5.0,190,null],
 	[1643424689,5,1,5.0,190,null],
@@ -584,4 +586,4 @@ profiles["Anatomia_Mechaniki"] = [
 	[1698368252,5,1,5.0,295,null],
 	[1698454811,5,1,5.0,295,null],
 	[1698540986,5,1,5.0,295,null],
-];
+]};

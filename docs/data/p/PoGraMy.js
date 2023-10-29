@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PoGraMy"] = [
+profiles["PoGraMy"] = {
+"name": "PoGraMy TV - portal o grach planszowych",
+"snapshots": [
 	[1643355233,1031,34,30.32,null,null],
 	[1643432874,1043,35,29.8,null,null],
 	[1643516752,1043,35,29.8,null,null],
@@ -583,4 +585,4 @@ profiles["PoGraMy"] = [
 	[1698384664,843,34,24.79,null,-1.0],
 	[1698470951,843,34,24.79,null,-1.0],
 	[1698557313,843,34,24.79,null,-1.0],
-];
+]};

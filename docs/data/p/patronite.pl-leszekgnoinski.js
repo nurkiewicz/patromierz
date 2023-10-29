@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["patronite.pl-leszekgnoinski"] = [
+profiles["patronite.pl-leszekgnoinski"] = {
+"name": "Radio aktywny blog Leszka Gnoińskiego",
+"snapshots": [
 	[1666931970,30,2,15.0,30,null],
 	[1667018889,30,2,15.0,30,null],
 	[1667105097,30,2,15.0,30,null],
@@ -320,4 +322,4 @@ profiles["patronite.pl-leszekgnoinski"] = [
 	[1698383669,60,4,15.0,2190,null],
 	[1698469975,60,4,15.0,2200,null],
 	[1698556324,60,4,15.0,2200,null],
-];
+]};

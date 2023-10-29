@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Stankiewicz"] = [
+profiles["Stankiewicz"] = {
+"name": "Myślnik Stankiewicza — stoicyzm reformowany, podcast i inne",
+"snapshots": [
 	[1683784570,68,3,22.66,2373,null],
 	[1683879414,185,5,37.0,2490,null],
 	[1683957374,234,6,39.0,2539,null],
@@ -144,4 +146,4 @@ profiles["Stankiewicz"] = [
 	[1698388838,1594,46,34.65,8591,10.0],
 	[1698475089,1594,46,34.65,8659,10.0],
 	[1698561492,1594,46,34.65,8678,7.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.mamaterapeutka.pl"] = [
+profiles["www.mamaterapeutka.pl"] = {
+"name": "Mama Terapeutka",
+"snapshots": [
 	[1679068029,80,4,20.0,80,null],
 	[1679305647,90,5,18.0,90,null],
 	[1679389020,90,5,18.0,90,null],
@@ -192,4 +194,4 @@ profiles["www.mamaterapeutka.pl"] = [
 	[1698392447,620,50,12.4,3650,1.0],
 	[1698478718,630,51,12.35,3670,1.0],
 	[1698565096,630,51,12.35,3690,1.0],
-];
+]};

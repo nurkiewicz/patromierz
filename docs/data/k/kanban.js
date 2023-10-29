@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kanban"] = [
+profiles["kanban"] = {
+"name": "Kanban przy kawie",
+"snapshots": [
 	[1615766400,54,5,10.8,486,null],
 	[1643363008,72,6,12.0,1323,null],
 	[1643432115,72,6,12.0,1323,null],
@@ -582,4 +584,4 @@ profiles["kanban"] = [
 	[1698376713,261,18,14.5,5703,null],
 	[1698463173,261,18,14.5,5703,null],
 	[1698549408,261,18,14.5,5721,null],
-];
+]};

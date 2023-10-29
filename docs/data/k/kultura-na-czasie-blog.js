@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kultura-na-czasie-blog"] = [
+profiles["kultura-na-czasie-blog"] = {
+"name": "Kultura na Czasie blog",
+"snapshots": [
 	[1614902400,213,20,10.65,738,null],
 	[1621036800,243,21,11.57,1270,null],
 	[1643351314,134,10,13.4,2998,null],
@@ -585,4 +587,4 @@ profiles["kultura-na-czasie-blog"] = [
 	[1698378312,22,2,11.0,4827,null],
 	[1698464735,22,2,11.0,4827,null],
 	[1698550997,22,2,11.0,4827,null],
-];
+]};

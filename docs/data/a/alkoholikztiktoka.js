@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["alkoholikztiktoka"] = [
+profiles["alkoholikztiktoka"] = {
+"name": "Alkoholik z TikToka",
+"snapshots": [
 	[1667447594,60,2,30.0,60,null],
 	[1667533701,150,6,25.0,150,null],
 	[1667620221,280,12,23.33,280,null],
@@ -316,4 +318,4 @@ profiles["alkoholikztiktoka"] = [
 	[1698368108,730,20,36.5,7950,5.0],
 	[1698454666,730,20,36.5,8000,4.0],
 	[1698540842,730,20,36.5,8000,4.0],
-];
+]};

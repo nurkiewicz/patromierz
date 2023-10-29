@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fundacja_chmura"] = [
+profiles["fundacja_chmura"] = {
+"name": "Fundacja Kultury Wizualnej CHMURA",
+"snapshots": [
 	[1643363046,70,6,11.66,545,null],
 	[1643427671,70,6,11.66,545,null],
 	[1643511258,70,6,11.66,550,null],
@@ -584,4 +586,4 @@ profiles["fundacja_chmura"] = [
 	[1698373634,5,1,5.0,1410,null],
 	[1698460153,5,1,5.0,1410,null],
 	[1698546339,5,1,5.0,1410,null],
-];
+]};

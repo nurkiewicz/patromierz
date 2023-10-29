@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["puchaczowka"] = [
+profiles["puchaczowka"] = {
+"name": "Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"",
+"snapshots": [
 	[1686201585,3190,95,33.57,null,null],
 	[1686288273,3190,95,33.57,null,null],
 	[1686374621,3290,97,33.91,null,null],
@@ -117,4 +119,4 @@ profiles["puchaczowka"] = [
 	[1698386489,3850,105,36.66,null,8.0],
 	[1698472748,3910,105,37.23,null,9.0],
 	[1698559135,3910,105,37.23,null,9.0],
-];
+]};

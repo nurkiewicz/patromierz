@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tozsuwalki"] = [
+profiles["tozsuwalki"] = {
+"name": "Towarzystwo Opieki nad Zwierzętami w Polsce Oddział w Suwałkach",
+"snapshots": [
 	[1643356752,260,9,28.88,1415,null],
 	[1643428189,260,9,28.88,1515,null],
 	[1643512104,260,9,28.88,1515,null],
@@ -581,4 +583,4 @@ profiles["tozsuwalki"] = [
 	[1698390520,315,11,28.63,7860,null],
 	[1698476780,315,11,28.63,7860,null],
 	[1698563171,315,11,28.63,7860,null],
-];
+]};

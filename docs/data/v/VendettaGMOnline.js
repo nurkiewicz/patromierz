@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["VendettaGMOnline"] = [
+profiles["VendettaGMOnline"] = {
+"name": "Vendetta GM Online",
+"snapshots": [
 	[1684823364,560,6,93.33,560,null],
 	[1684910445,560,6,93.33,560,null],
 	[1684995984,560,6,93.33,560,null],
@@ -133,4 +135,4 @@ profiles["VendettaGMOnline"] = [
 	[1698391158,1500,10,150.0,8035,null],
 	[1698477420,1500,10,150.0,8035,null],
 	[1698563803,1360,10,136.0,8175,-4.0],
-];
+]};

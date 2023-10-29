@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SkyStyle"] = [
+profiles["SkyStyle"] = {
+"name": "Sky Style - Służba dla młodzieży",
+"snapshots": [
 	[1643352021,5,1,5.0,60,null],
 	[1643423516,5,1,5.0,60,null],
 	[1643513257,5,1,5.0,60,null],
@@ -584,4 +586,4 @@ profiles["SkyStyle"] = [
 	[1698388217,5,1,5.0,165,null],
 	[1698474470,5,1,5.0,165,null],
 	[1698560875,5,1,5.0,165,null],
-];
+]};

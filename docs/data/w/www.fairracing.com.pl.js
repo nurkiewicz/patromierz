@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.fairracing.com.pl"] = [
+profiles["www.fairracing.com.pl"] = {
+"name": "Fair Racing",
+"snapshots": [
 	[1643364683,105,6,17.5,305,null],
 	[1643434225,105,6,17.5,305,null],
 	[1643524432,105,6,17.5,305,null],
@@ -584,4 +586,4 @@ profiles["www.fairracing.com.pl"] = [
 	[1698392368,95,7,13.57,2310,null],
 	[1698478634,95,7,13.57,2310,null],
 	[1698565012,95,7,13.57,2310,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["odf"] = [
+profiles["odf"] = {
+"name": "Fundacja Otwarty Dialog",
+"snapshots": [
 	[1637971200,10,1,10.0,10,null],
 	[1643363559,10,1,10.0,30,null],
 	[1643432639,10,1,10.0,30,null],
@@ -582,4 +584,4 @@ profiles["odf"] = [
 	[1698382723,1230,13,94.61,7920,5.0],
 	[1698469059,1180,13,90.76,8420,3.0],
 	[1698555394,1170,13,90.0,8420,3.0],
-];
+]};

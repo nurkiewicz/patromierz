@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["myvimu"] = [
+profiles["myvimu"] = {
+"name": "MyViMu - Moje Wirtualne Muzeum",
+"snapshots": [
 	[1618531200,95,6,15.83,95,null],
 	[1627689600,185,10,18.5,695,null],
 	[1637712000,225,13,17.3,1575,null],
@@ -584,4 +586,4 @@ profiles["myvimu"] = [
 	[1698381678,300,8,37.5,6825,1.0],
 	[1698468033,300,8,37.5,6825,1.0],
 	[1698554368,300,8,37.5,6825,1.0],
-];
+]};

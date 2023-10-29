@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PFWK"] = [
+profiles["PFWK"] = {
+"name": "Polska Federacja Wędkarstwa Karpiowego",
+"snapshots": [
 	[1643362718,101,3,33.66,101,null],
 	[1643437350,101,3,33.66,101,null],
 	[1643510953,101,3,33.66,101,null],
@@ -583,4 +585,4 @@ profiles["PFWK"] = [
 	[1698383981,30,1,30.0,1337,null],
 	[1698470281,30,1,30.0,1337,null],
 	[1698556634,30,1,30.0,1337,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["akszly"] = [
+profiles["akszly"] = {
+"name": "AKS ZŁY - klub sportowy w modelu społecznościowym",
+"snapshots": [
 	[1617580800,730,16,45.62,730,null],
 	[1643361948,1570,38,41.31,19240,null],
 	[1643429378,1570,38,41.31,19240,null],
@@ -585,4 +587,4 @@ profiles["akszly"] = [
 	[1698367956,1020,26,39.23,45405,-2.0],
 	[1698454515,1020,26,39.23,45405,-2.0],
 	[1698540693,1020,26,39.23,45405,-2.0],
-];
+]};

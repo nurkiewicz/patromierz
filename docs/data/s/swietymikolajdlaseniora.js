@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["swietymikolajdlaseniora"] = [
+profiles["swietymikolajdlaseniora"] = {
+"name": "Święty Mikołaj dla Seniora ",
+"snapshots": [
 	[1643359703,214,9,23.77,507,null],
 	[1643432682,209,9,23.22,507,null],
 	[1643523078,209,9,23.22,507,null],
@@ -581,4 +583,4 @@ profiles["swietymikolajdlaseniora"] = [
 	[1698389312,199,5,39.8,4651,null],
 	[1698475567,199,5,39.8,4651,null],
 	[1698561969,199,5,39.8,4651,null],
-];
+]};

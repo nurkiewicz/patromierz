@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KuchniaMartySawickiej"] = [
+profiles["KuchniaMartySawickiej"] = {
+"name": "Kuchnia dla ubogich Marty Sawickiej",
+"snapshots": [
 	[1643068800,970,31,31.29,4060,null],
 	[1643357633,970,30,32.33,4170,null],
 	[1643432257,970,30,32.33,4270,null],
@@ -580,4 +582,4 @@ profiles["KuchniaMartySawickiej"] = [
 	[1698292113,2170,41,52.92,46660,5.0],
 	[1698378267,2220,43,51.62,46820,7.0],
 	[1698550952,2270,44,51.59,47220,8.0],
-];
+]};

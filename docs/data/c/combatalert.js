@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["combatalert"] = [
+profiles["combatalert"] = {
+"name": "FUNDACJA NA RZECZ OBRONNOŚCI I BEZPIECZEŃSTWA KRAJU \"COMBAT ALERT\"",
+"snapshots": [
 	[1643354482,150,3,50.0,150,null],
 	[1643425751,150,3,50.0,150,null],
 	[1643515318,150,3,50.0,150,null],
@@ -583,4 +585,4 @@ profiles["combatalert"] = [
 	[1698370835,200,4,50.0,8130,-2.0],
 	[1698457404,200,4,50.0,8130,-2.0],
 	[1698543555,200,4,50.0,8230,-2.0],
-];
+]};

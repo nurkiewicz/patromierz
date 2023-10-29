@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dzieci-świata"] = [
+profiles["dzieci-świata"] = {
+"name": "Dzieci Świata - Marzena Figiel",
+"snapshots": [
 	[1643862709,57,3,19.0,1867,null],
 	[1643949186,57,3,19.0,1867,null],
 	[1644035687,125,5,25.0,1935,null],
@@ -579,4 +581,4 @@ profiles["dzieci-świata"] = [
 	[1698372275,4905,169,29.02,24820,12.0],
 	[1698458818,4886,169,28.91,24830,12.0],
 	[1698544987,4886,169,28.91,24840,12.0],
-];
+]};

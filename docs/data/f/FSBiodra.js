@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["FSBiodra"] = [
+profiles["FSBiodra"] = {
+"name": "Fajny Sprzęt Biodra",
+"snapshots": [
 	[1643363127,215,10,21.5,1830,null],
 	[1643423136,215,10,21.5,1830,null],
 	[1643515430,215,10,21.5,1830,null],
@@ -585,4 +587,4 @@ profiles["FSBiodra"] = [
 	[1698373540,65,4,16.25,4210,null],
 	[1698460061,65,4,16.25,4210,null],
 	[1698546245,65,4,16.25,4210,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lasy_janowskie_i_okolice"] = [
+profiles["lasy_janowskie_i_okolice"] = {
+"name": "Lasy Janowskie i okolice",
+"snapshots": [
 	[1643365393,292,15,19.46,3155,null],
 	[1643435231,292,15,19.46,3176,null],
 	[1643518683,292,15,19.46,3176,null],
@@ -582,4 +584,4 @@ profiles["lasy_janowskie_i_okolice"] = [
 	[1698378532,242,14,17.28,8347,null],
 	[1698464952,242,14,17.28,8388,null],
 	[1698551216,242,14,17.28,8388,null],
-];
+]};

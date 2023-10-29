@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mr-fahrenheit"] = [
+profiles["mr-fahrenheit"] = {
+"name": "Mr Fahrenheit CubeSat",
+"snapshots": [
 	[1635897600,50,1,50.0,50,null],
 	[1643356326,105,3,35.0,305,null],
 	[1643424446,105,3,35.0,305,null],
@@ -578,4 +580,4 @@ profiles["mr-fahrenheit"] = [
 	[1698381355,5,1,5.0,2515,null],
 	[1698467720,5,1,5.0,2520,null],
 	[1698554055,5,1,5.0,2520,null],
-];
+]};

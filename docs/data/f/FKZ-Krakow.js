@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["FKZ-Krakow"] = [
+profiles["FKZ-Krakow"] = {
+"name": "Festiwal Kultury Żydowskiej w Krakowie",
+"snapshots": [
 	[1643354393,130,4,32.5,980,null],
 	[1643430821,130,4,32.5,980,null],
 	[1643519217,130,4,32.5,980,null],
@@ -585,4 +587,4 @@ profiles["FKZ-Krakow"] = [
 	[1698373241,150,2,75.0,4060,null],
 	[1698459768,150,2,75.0,4060,null],
 	[1698545948,150,2,75.0,4060,null],
-];
+]};

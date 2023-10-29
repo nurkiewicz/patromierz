@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Krzyzaniak"] = [
+profiles["Krzyzaniak"] = {
+"name": "Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery",
+"snapshots": [
 	[1606089600,130,7,18.57,130,null],
 	[1643352331,2890,86,33.6,43100,null],
 	[1643428646,2890,85,34.0,43200,null],
@@ -584,4 +586,4 @@ profiles["Krzyzaniak"] = [
 	[1698378094,4320,113,38.23,126630,null],
 	[1698464528,4320,113,38.23,126730,null],
 	[1698550780,4290,113,37.96,126780,-1.0],
-];
+]};

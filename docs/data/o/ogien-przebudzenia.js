@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ogien-przebudzenia"] = [
+profiles["ogien-przebudzenia"] = {
+"name": "Tomasz Dorożała - Służba Apostolska \"Ogień Przebudzenia\"",
+"snapshots": [
 	[1639722578,1035,4,258.75,1125,null],
 	[1639808975,1035,4,258.75,1135,null],
 	[1639895376,1035,4,258.75,1135,null],
@@ -614,4 +616,4 @@ profiles["ogien-przebudzenia"] = [
 	[1698382806,1110,13,85.38,14720,3.0],
 	[1698469139,1110,13,85.38,14720,3.0],
 	[1698555478,1110,13,85.38,14970,3.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["UCbk59Os6vf0Ui73j15Yf_ug"] = [
+profiles["UCbk59Os6vf0Ui73j15Yf_ug"] = {
+"name": "Tarka W Drodze",
+"snapshots": [
 	[1643355237,150,2,75.0,650,null],
 	[1643423643,150,2,75.0,650,null],
 	[1643511638,150,2,75.0,650,null],
@@ -269,4 +271,4 @@ profiles["UCbk59Os6vf0Ui73j15Yf_ug"] = [
 	[1698390877,10,1,10.0,1240,null],
 	[1698477139,10,1,10.0,1240,null],
 	[1698563524,10,1,10.0,1240,null],
-];
+]};

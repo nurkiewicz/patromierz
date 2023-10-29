@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["trickboxproject"] = [
+profiles["trickboxproject"] = {
+"name": "Trickbox.Project - Paweł Kowalczyk ",
+"snapshots": [
 	[1643361596,40,2,20.0,2410,null],
 	[1643436611,40,2,20.0,2410,null],
 	[1643510050,40,2,20.0,2410,null],
@@ -583,4 +585,4 @@ profiles["trickboxproject"] = [
 	[1698390601,null,1,null,2930,-1.0],
 	[1698476859,null,1,null,2930,-1.0],
 	[1698563248,null,1,null,2930,-1.0],
-];
+]};

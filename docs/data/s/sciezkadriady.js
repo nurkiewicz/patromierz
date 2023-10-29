@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sciezkadriady"] = [
+profiles["sciezkadriady"] = {
+"name": "Beata Jeleniewicz - Ścieżka Driady",
+"snapshots": [
 	[1645857608,100,1,100.0,100,null],
 	[1645943718,100,1,100.0,100,null],
 	[1646029941,100,1,100.0,100,null],
@@ -554,4 +556,4 @@ profiles["sciezkadriady"] = [
 	[1698387734,180,5,36.0,5060,null],
 	[1698473988,180,5,36.0,5060,null],
 	[1698560398,180,5,36.0,5110,null],
-];
+]};

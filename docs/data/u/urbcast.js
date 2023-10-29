@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["urbcast"] = [
+profiles["urbcast"] = {
+"name": "Urbcast - podcast o miastach",
+"snapshots": [
 	[1643361346,90,8,11.25,265,null],
 	[1643435541,90,8,11.25,275,null],
 	[1643511225,90,8,11.25,275,null],
@@ -583,4 +585,4 @@ profiles["urbcast"] = [
 	[1698390999,215,13,16.53,3545,1.0],
 	[1698477261,215,13,16.53,3555,1.0],
 	[1698563645,215,13,16.53,3555,1.0],
-];
+]};

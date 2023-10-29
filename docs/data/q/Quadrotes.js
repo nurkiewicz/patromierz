@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Quadrotes"] = [
+profiles["Quadrotes"] = {
+"name": "Quadrotes - Opowieści Grozy ",
+"snapshots": [
 	[1643356061,120,4,30.0,null,null],
 	[1643432362,120,4,30.0,null,null],
 	[1643519301,120,4,30.0,null,null],
@@ -584,4 +586,4 @@ profiles["Quadrotes"] = [
 	[1698386573,40,7,5.71,null,null],
 	[1698472830,40,7,5.71,null,null],
 	[1698559227,40,7,5.71,null,null],
-];
+]};

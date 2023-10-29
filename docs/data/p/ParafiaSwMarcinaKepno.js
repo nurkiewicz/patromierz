@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ParafiaSwMarcinaKepno"] = [
+profiles["ParafiaSwMarcinaKepno"] = {
+"name": "Parafia pw. św. Marcina w Kępnie",
+"snapshots": [
 	[1674116980,35,2,17.5,35,null],
 	[1674209338,35,2,17.5,35,null],
 	[1674287239,35,2,17.5,35,null],
@@ -239,4 +241,4 @@ profiles["ParafiaSwMarcinaKepno"] = [
 	[1698383536,25,1,25.0,385,null],
 	[1698469844,25,1,25.0,385,null],
 	[1698556190,25,1,25.0,385,null],
-];
+]};

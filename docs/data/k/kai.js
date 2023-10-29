@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kai"] = [
+profiles["kai"] = {
+"name": "Katolicka Agencja Informacyjna KAI",
+"snapshots": [
 	[1599523200,430,13,33.07,4370,null],
 	[1612051200,520,18,28.88,6830,null],
 	[1622246400,670,21,31.9,8990,null],
@@ -589,4 +591,4 @@ profiles["kai"] = [
 	[1698376579,452,14,32.28,26204,null],
 	[1698463039,452,14,32.28,26204,null],
 	[1698549271,452,14,32.28,26204,null],
-];
+]};

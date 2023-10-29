@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["frmp"] = [
+profiles["frmp"] = {
+"name": "Fundacja Ratownictwo Motocyklowe Polska ",
+"snapshots": [
 	[1643362870,250,3,83.33,7070,null],
 	[1643432202,250,3,83.33,7070,null],
 	[1643517138,250,3,83.33,7070,null],
@@ -582,4 +584,4 @@ profiles["frmp"] = [
 	[1698373508,160,3,53.33,11890,-1.0],
 	[1698460030,160,3,53.33,11890,-1.0],
 	[1698546213,160,3,53.33,11890,-1.0],
-];
+]};

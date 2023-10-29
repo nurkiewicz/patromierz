@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["warunki"] = [
+profiles["warunki"] = {
+"name": "Aktualne Warunki w Górach",
+"snapshots": [
 	[1643351731,540,36,15.0,10875,null],
 	[1643434848,540,35,15.42,10900,null],
 	[1643515111,540,35,15.42,10950,null],
@@ -583,4 +585,4 @@ profiles["warunki"] = [
 	[1698391470,185,14,13.21,18010,null],
 	[1698477735,185,14,13.21,18010,null],
 	[1698564116,185,14,13.21,18010,null],
-];
+]};

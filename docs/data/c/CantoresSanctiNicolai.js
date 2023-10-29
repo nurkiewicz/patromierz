@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["CantoresSanctiNicolai"] = [
+profiles["CantoresSanctiNicolai"] = {
+"name": "Chór Męski Cantores Sancti Nicolai",
+"snapshots": [
 	[1685496065,50,1,50.0,50,null],
 	[1685582572,110,3,36.66,110,null],
 	[1685668738,110,3,36.66,110,null],
@@ -126,4 +128,4 @@ profiles["CantoresSanctiNicolai"] = [
 	[1698370363,60,2,30.0,450,null],
 	[1698456930,60,2,30.0,450,null],
 	[1698543087,60,2,30.0,450,null],
-];
+]};

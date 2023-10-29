@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ZawszeBylJakisDwor"] = [
+profiles["ZawszeBylJakisDwor"] = {
+"name": "Zawsze był jakiś dwór - Anna Mieszczanek",
+"snapshots": [
 	[1678526860,10,2,5.0,70,null],
 	[1678602988,10,2,5.0,70,null],
 	[1678689055,10,2,5.0,70,null],
@@ -197,4 +199,4 @@ profiles["ZawszeBylJakisDwor"] = [
 	[1698393004,20,1,20.0,180,null],
 	[1698479276,20,1,20.0,200,null],
 	[1698565651,20,1,20.0,200,null],
-];
+]};

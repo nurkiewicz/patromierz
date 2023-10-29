@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ospwiktorowko"] = [
+profiles["ospwiktorowko"] = {
+"name": "Ochotnicza Straż Pożarna Wiktorówko",
+"snapshots": [
 	[1692418652,23,1,23.0,23,null],
 	[1692504754,23,1,23.0,23,null],
 	[1692591416,23,1,23.0,23,null],
@@ -45,4 +47,4 @@ profiles["ospwiktorowko"] = [
 	[1698383188,243,10,24.3,578,null],
 	[1698469504,243,10,24.3,624,null],
 	[1698555848,243,10,24.3,670,null],
-];
+]};

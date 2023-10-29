@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Arktyka-blog"] = [
+profiles["Arktyka-blog"] = {
+"name": "Arktyczny Lód blog",
+"snapshots": [
 	[1596585600,60,6,10.0,840,null],
 	[1614384000,75,8,9.37,1350,null],
 	[1627171200,75,8,9.37,1755,null],
@@ -587,4 +589,4 @@ profiles["Arktyka-blog"] = [
 	[1698368709,20,3,6.66,3420,null],
 	[1698455269,20,3,6.66,3430,null],
 	[1698541442,20,3,6.66,3430,null],
-];
+]};

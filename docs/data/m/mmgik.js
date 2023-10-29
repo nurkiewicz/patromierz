@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mmgik"] = [
+profiles["mmgik"] = {
+"name": "Milanowskie Muzeum Gier i Komputerów",
+"snapshots": [
 	[1596585600,50,5,10.0,90,null],
 	[1643352023,520,16,32.5,5215,null],
 	[1643436556,520,16,32.5,5265,null],
@@ -584,4 +586,4 @@ profiles["mmgik"] = [
 	[1698380988,705,15,47.0,null,2.0],
 	[1698467366,705,15,47.0,null,2.0],
 	[1698553697,705,15,47.0,null,2.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nacelowniku"] = [
+profiles["nacelowniku"] = {
+"name": "Na celowniku - Artur Dubiel Podcast & Newsletter",
+"snapshots": [
 	[1655179449,14,1,14.0,14,null],
 	[1655266179,14,1,14.0,14,null],
 	[1655352504,14,1,14.0,14,null],
@@ -440,4 +442,4 @@ profiles["nacelowniku"] = [
 	[1698381718,78,2,39.0,799,null],
 	[1698468075,78,2,39.0,799,null],
 	[1698554407,78,2,39.0,848,null],
-];
+]};

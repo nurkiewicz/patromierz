@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wObliczuWody"] = [
+profiles["wObliczuWody"] = {
+"name": "W Obliczu Wody - Piotr Błaszczak",
+"snapshots": [
 	[1690439105,230,3,76.66,230,null],
 	[1690524925,230,3,76.66,230,null],
 	[1690611084,230,3,76.66,230,null],
@@ -69,4 +71,4 @@ profiles["wObliczuWody"] = [
 	[1698391961,164,3,54.66,722,null],
 	[1698478229,164,3,54.66,722,null],
 	[1698564603,164,3,54.66,722,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ANFband"] = [
+profiles["ANFband"] = {
+"name": "As Night Falls Band",
+"snapshots": [
 	[1667354304,10,1,10.0,10,null],
 	[1667440772,50,2,25.0,50,null],
 	[1667527138,50,2,25.0,50,null],
@@ -317,4 +319,4 @@ profiles["ANFband"] = [
 	[1698368321,265,7,37.85,3360,1.0],
 	[1698454879,265,7,37.85,3360,1.0],
 	[1698541053,265,7,37.85,3360,1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SPMK"] = [
+profiles["SPMK"] = {
+"name": "Stowarzyszenie Polskich Muzyków Kameralistów",
+"snapshots": [
 	[1603238400,468,18,26.0,4319,null],
 	[1614556800,418,21,19.9,6665,null],
 	[1643362539,236,6,39.33,8740,null],
@@ -586,4 +588,4 @@ profiles["SPMK"] = [
 	[1698388607,55,3,18.33,10075,null],
 	[1698474862,55,3,18.33,10075,null],
 	[1698561265,55,3,18.33,10085,null],
-];
+]};

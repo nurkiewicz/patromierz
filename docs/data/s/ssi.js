@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ssi"] = [
+profiles["ssi"] = {
+"name": "Śląska Szkoła Ikonograficzna",
+"snapshots": [
 	[1649739267,20,1,20.0,20,null],
 	[1649825517,20,1,20.0,20,null],
 	[1649911031,20,1,20.0,20,null],
@@ -509,4 +511,4 @@ profiles["ssi"] = [
 	[1698388773,210,8,26.25,2450,null],
 	[1698475023,210,8,26.25,2450,null],
 	[1698561427,210,8,26.25,2450,null],
-];
+]};

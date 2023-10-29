@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["1bdh"] = [
+profiles["1bdh"] = {
+"name": "1 Beskidzka Drużyna Harcerzy \"SZARA\" im. Aleksego Dawidowskiego",
+"snapshots": [
 	[1663808211,5,1,5.0,5,null],
 	[1663894617,5,1,5.0,5,null],
 	[1663980901,5,1,5.0,5,null],
@@ -349,4 +351,4 @@ profiles["1bdh"] = [
 	[1698367348,340,9,37.77,6145,null],
 	[1698453902,340,9,37.77,6175,null],
 	[1698540085,340,9,37.77,6265,null],
-];
+]};

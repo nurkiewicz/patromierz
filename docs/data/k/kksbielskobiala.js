@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kksbielskobiala"] = [
+profiles["kksbielskobiala"] = {
+"name": "SZKÓŁKA KOLARSKA KKS \"BB\" BIELSKO-BIAŁA",
+"snapshots": [
 	[1695871319,10,1,10.0,10,null],
 	[1695957845,10,1,10.0,10,null],
 	[1696044484,10,1,10.0,10,null],
@@ -27,4 +29,4 @@ profiles["kksbielskobiala"] = [
 	[1698377216,110,2,55.0,110,null],
 	[1698463666,110,2,55.0,120,null],
 	[1698549907,110,2,55.0,120,null],
-];
+]};

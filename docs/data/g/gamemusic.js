@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["gamemusic"] = [
+profiles["gamemusic"] = {
+"name": "Fundacja Game Music",
+"snapshots": [
 	[1588291200,40,2,20.0,40,null],
 	[1592092800,930,13,71.53,1610,null],
 	[1636156800,1610,24,67.08,28175,null],
@@ -589,4 +591,4 @@ profiles["gamemusic"] = [
 	[1698374155,1530,21,72.85,67135,1.0],
 	[1698460662,1530,21,72.85,67235,null],
 	[1698546859,1530,21,72.85,67385,null],
-];
+]};

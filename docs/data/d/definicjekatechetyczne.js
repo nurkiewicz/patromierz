@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["definicjekatechetyczne"] = [
+profiles["definicjekatechetyczne"] = {
+"name": "Definicje Katechetyczne Braci",
+"snapshots": [
 	[1648785855,30,3,10.0,30,null],
 	[1648872019,80,6,13.33,80,null],
 	[1648958451,80,6,13.33,80,null],
@@ -521,4 +523,4 @@ profiles["definicjekatechetyczne"] = [
 	[1698371472,80,7,11.42,2090,-1.0],
 	[1698458035,80,7,11.42,2090,-1.0],
 	[1698544189,80,7,11.42,2090,-1.0],
-];
+]};

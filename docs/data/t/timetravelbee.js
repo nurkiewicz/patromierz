@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["timetravelbee"] = [
+profiles["timetravelbee"] = {
+"name": "Time Travel Bee",
+"snapshots": [
 	[1643365175,14,1,14.0,14,null],
 	[1643435055,14,1,14.0,14,null],
 	[1643512820,14,1,14.0,14,null],
@@ -573,4 +575,4 @@ profiles["timetravelbee"] = [
 	[1698390241,14,1,14.0,308,null],
 	[1698476500,14,1,14.0,308,null],
 	[1698562892,14,1,14.0,308,null],
-];
+]};

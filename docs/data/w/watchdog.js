@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["watchdog"] = [
+profiles["watchdog"] = {
+"name": "Sieć Obywatelska Watchdog Polska",
+"snapshots": [
 	[1643354803,1220,47,25.95,16455,null],
 	[1643431346,1210,47,25.74,16460,null],
 	[1643510795,1210,47,25.74,16465,null],
@@ -582,4 +584,4 @@ profiles["watchdog"] = [
 	[1698391492,1085,43,25.23,39940,1.0],
 	[1698477755,1085,43,25.23,39960,1.0],
 	[1698564137,1085,43,25.23,39970,1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fizykwargentynie"] = [
+profiles["fizykwargentynie"] = {
+"name": "Wojciech Ganczarek (dawniej: Fizyk w Argentynie)",
+"snapshots": [
 	[1620518400,855,31,27.58,6850,null],
 	[1643351719,825,36,22.91,14420,null],
 	[1643428929,825,36,22.91,14475,null],
@@ -586,4 +588,4 @@ profiles["fizykwargentynie"] = [
 	[1698373229,1170,41,28.53,33630,3.0],
 	[1698459757,1170,41,28.53,33730,3.0],
 	[1698545937,1170,41,28.53,33730,3.0],
-];
+]};

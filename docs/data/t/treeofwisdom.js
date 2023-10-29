@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["treeofwisdom"] = [
+profiles["treeofwisdom"] = {
+"name": "Wiedźma Kinga Oliwia Kujawa",
+"snapshots": [
 	[1644216529,65,3,21.66,65,null],
 	[1644303138,65,3,21.66,65,null],
 	[1644388896,65,3,21.66,65,null],
@@ -573,4 +575,4 @@ profiles["treeofwisdom"] = [
 	[1698390578,250,10,25.0,6180,-1.0],
 	[1698476837,250,10,25.0,6195,-1.0],
 	[1698563227,250,10,25.0,6195,-1.0],
-];
+]};

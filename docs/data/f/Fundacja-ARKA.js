@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Fundacja-ARKA"] = [
+profiles["Fundacja-ARKA"] = {
+"name": "Fundacja ekologiczna ARKA",
+"snapshots": [
 	[1606608000,180,15,12.0,180,null],
 	[1611446400,210,18,11.66,575,null],
 	[1643360542,95,6,15.83,2600,null],
@@ -587,4 +589,4 @@ profiles["Fundacja-ARKA"] = [
 	[1698373568,30,3,10.0,3685,null],
 	[1698460088,30,3,10.0,3685,null],
 	[1698546273,30,3,10.0,3685,null],
-];
+]};

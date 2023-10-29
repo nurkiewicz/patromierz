@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ShiftHigher"] = [
+profiles["ShiftHigher"] = {
+"name": "Shift Higher",
+"snapshots": [
 	[1643365093,22,2,11.0,33,null],
 	[1643424224,22,2,11.0,33,null],
 	[1643520015,22,2,11.0,33,null],
@@ -584,4 +586,4 @@ profiles["ShiftHigher"] = [
 	[1698387938,11,1,11.0,286,null],
 	[1698474191,11,1,11.0,286,null],
 	[1698560600,11,1,11.0,286,null],
-];
+]};

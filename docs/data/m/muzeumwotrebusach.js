@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["muzeumwotrebusach"] = [
+profiles["muzeumwotrebusach"] = {
+"name": "Muzeum Motoryzacji i Techniki w Otrębusach",
+"snapshots": [
 	[1643359325,1189,44,27.02,13396,null],
 	[1643428058,1189,44,27.02,13523,null],
 	[1643512552,1189,44,27.02,13523,null],
@@ -580,4 +582,4 @@ profiles["muzeumwotrebusach"] = [
 	[1698381553,541,18,30.05,30409,-1.0],
 	[1698467912,541,18,30.05,30441,-1.0],
 	[1698554247,541,18,30.05,30441,-1.0],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mksbzura.pl"] = [
+profiles["mksbzura.pl"] = {
+"name": "MKS Bzura Ozorków",
+"snapshots": [
 	[1661433601,110,2,55.0,110,null],
 	[1661505223,145,6,24.16,145,null],
 	[1661573642,145,6,24.16,145,null],
@@ -377,4 +379,4 @@ profiles["mksbzura.pl"] = [
 	[1698380924,10,1,10.0,2105,null],
 	[1698467303,10,1,10.0,2105,null],
 	[1698553632,10,1,10.0,2105,null],
-];
+]};

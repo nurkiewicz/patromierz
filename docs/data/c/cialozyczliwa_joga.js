@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["cialozyczliwa_joga"] = [
+profiles["cialozyczliwa_joga"] = {
+"name": "Zuzanna Bućko - ciałożyczliwa joginka",
+"snapshots": [
 	[1682727870,89,3,29.66,89,null],
 	[1682814291,89,3,29.66,89,null],
 	[1682900670,89,3,29.66,89,null],
@@ -158,4 +160,4 @@ profiles["cialozyczliwa_joga"] = [
 	[1698370678,40,2,20.0,1072,-1.0],
 	[1698457247,40,2,20.0,1072,-1.0],
 	[1698543400,40,2,20.0,1072,-1.0],
-];
+]};

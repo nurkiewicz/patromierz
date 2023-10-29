@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["applemuzeumpolska"] = [
+profiles["applemuzeumpolska"] = {
+"name": "APPLE MUZEUM POLSKA",
+"snapshots": [
 	[1601856000,1525,20,76.25,2470,null],
 	[1615161600,1485,23,64.56,9090,null],
 	[1643365117,1530,22,69.54,25310,null],
@@ -587,4 +589,4 @@ profiles["applemuzeumpolska"] = [
 	[1698368599,1160,15,77.33,51560,-6.0],
 	[1698455158,1160,15,77.33,51560,-6.0],
 	[1698541333,1160,15,77.33,51560,-6.0],
-];
+]};

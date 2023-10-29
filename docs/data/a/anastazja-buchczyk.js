@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["anastazja-buchczyk"] = [
+profiles["anastazja-buchczyk"] = {
+"name": "Anastazja Buchczyk - łyżwiarka figurowa",
+"snapshots": [
 	[1681803630,100,1,100.0,100,null],
 	[1681861756,100,1,100.0,100,null],
 	[1681978131,100,1,100.0,100,null],
@@ -167,4 +169,4 @@ profiles["anastazja-buchczyk"] = [
 	[1698368244,300,5,60.0,1760,null],
 	[1698454803,300,5,60.0,1760,null],
 	[1698540978,300,5,60.0,1760,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dzuliawdzungli-gadziambulans"] = [
+profiles["dzuliawdzungli-gadziambulans"] = {
+"name": "Dżulia W Dżungli - GADZI AMBULANS",
+"snapshots": [
 	[1679822847,30,1,30.0,30,null],
 	[1679906129,30,1,30.0,30,null],
 	[1679964861,30,1,30.0,30,null],
@@ -185,4 +187,4 @@ profiles["dzuliawdzungli-gadziambulans"] = [
 	[1698372378,30,1,30.0,240,null],
 	[1698458918,30,1,30.0,240,null],
 	[1698545088,30,1,30.0,240,null],
-];
+]};

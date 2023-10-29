@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["RamseyUnited"] = [
+profiles["RamseyUnited"] = {
+"name": "Ramsey United - YouTube",
+"snapshots": [
 	[1681201754,5,1,5.0,5,null],
 	[1681272654,5,1,5.0,5,null],
 	[1681373660,5,1,5.0,5,null],
@@ -173,4 +175,4 @@ profiles["RamseyUnited"] = [
 	[1698386852,930,31,30.0,5110,-4.0],
 	[1698473111,930,31,30.0,5110,-4.0],
 	[1698559513,930,31,30.0,5165,-4.0],
-];
+]};

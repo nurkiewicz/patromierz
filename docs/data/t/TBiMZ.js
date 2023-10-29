@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["TBiMZ"] = [
+profiles["TBiMZ"] = {
+"name": "Telefony bardziej i mniej znane (TBiMZ)",
+"snapshots": [
 	[1643359492,228,16,14.25,6213,null],
 	[1643438784,228,16,14.25,6213,null],
 	[1643516340,228,16,14.25,6213,null],
@@ -584,4 +586,4 @@ profiles["TBiMZ"] = [
 	[1698389899,154,9,17.11,10134,null],
 	[1698476160,154,9,17.11,10136,null],
 	[1698562557,154,9,17.11,10136,null],
-];
+]};

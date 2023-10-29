@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["freeflow"] = [
+profiles["freeflow"] = {
+"name": "Free Flow Energy",
+"snapshots": [
 	[1644036196,10,2,5.0,2603,null],
 	[1644122962,10,2,5.0,2603,null],
 	[1644209075,10,2,5.0,2603,null],
@@ -572,4 +574,4 @@ profiles["freeflow"] = [
 	[1698373483,62,3,20.66,3390,null],
 	[1698460006,62,3,20.66,3390,null],
 	[1698546190,62,3,20.66,3414,null],
-];
+]};

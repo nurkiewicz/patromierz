@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["GrandeLeoniPL"] = [
+profiles["GrandeLeoniPL"] = {
+"name": "Pro Vercelli Polska 1892",
+"snapshots": [
 	[1691979359,5,1,5.0,5,null],
 	[1692152369,5,1,5.0,5,null],
 	[1692238794,5,1,5.0,5,null],
@@ -52,4 +54,4 @@ profiles["GrandeLeoniPL"] = [
 	[1698374630,null,1,null,15,null],
 	[1698461127,null,1,null,15,null],
 	[1698547333,null,1,null,15,null],
-];
+]};

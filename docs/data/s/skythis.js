@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["skythis"] = [
+profiles["skythis"] = {
+"name": "Sky This Warszawa",
+"snapshots": [
 	[1658553162,10,1,10.0,10,null],
 	[1658639110,10,1,10.0,10,null],
 	[1658725803,10,1,10.0,10,null],
@@ -410,4 +412,4 @@ profiles["skythis"] = [
 	[1698388220,40,2,20.0,580,null],
 	[1698474473,40,2,20.0,580,null],
 	[1698560878,40,2,20.0,580,null],
-];
+]};

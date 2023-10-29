@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["proanima"] = [
+profiles["proanima"] = {
+"name": "Proanima.pl",
+"snapshots": [
 	[1635465600,5,1,5.0,741,null],
 	[1643360459,10,2,5.0,756,null],
 	[1643435173,10,2,5.0,761,null],
@@ -584,4 +586,4 @@ profiles["proanima"] = [
 	[1698385267,5,1,5.0,926,null],
 	[1698471540,5,1,5.0,926,null],
 	[1698557915,5,1,5.0,926,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["skywarn"] = [
+profiles["skywarn"] = {
+"name": "Skywarn Polska (Polscy Łowcy Burz)",
+"snapshots": [
 	[1634774400,10,1,10.0,10,null],
 	[1638316800,190,6,31.66,330,null],
 	[1643353179,230,7,32.85,750,null],
@@ -585,4 +587,4 @@ profiles["skywarn"] = [
 	[1698388223,150,9,16.66,5730,null],
 	[1698474476,150,9,16.66,5730,null],
 	[1698560881,150,9,16.66,5740,null],
-];
+]};

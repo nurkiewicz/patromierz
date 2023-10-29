@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MiserArt"] = [
+profiles["MiserArt"] = {
+"name": "MiserArt – strefa kreatywna w labiryncie wykluczenia",
+"snapshots": [
 	[1643356354,235,8,29.37,2055,null],
 	[1643428875,235,8,29.37,2055,null],
 	[1643524315,235,8,29.37,2075,null],
@@ -583,4 +585,4 @@ profiles["MiserArt"] = [
 	[1698380831,115,6,19.16,5725,null],
 	[1698467212,115,6,19.16,5725,null],
 	[1698553540,115,6,19.16,5730,null],
-];
+]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wymiatamywnetrza"] = [
+profiles["wymiatamywnetrza"] = {
+"name": "WYMIATAMY WNĘTRZA w ARCHICAD - dla każdego",
+"snapshots": [
 	[1615075200,306,12,25.5,978,null],
 	[1643366215,40,2,20.0,2486,null],
 	[1643432694,40,2,20.0,2486,null],
@@ -584,4 +586,4 @@ profiles["wymiatamywnetrza"] = [
 	[1698392629,20,1,20.0,3126,null],
 	[1698478900,20,1,20.0,3126,null],
 	[1698565277,20,1,20.0,3126,null],
-];
+]};

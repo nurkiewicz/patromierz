@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["QTStudio"] = [
+profiles["QTStudio"] = {
+"name": "QT Studio",
+"snapshots": [
 	[1672820281,35,3,11.66,1610,null],
 	[1672907784,35,3,11.66,1610,null],
 	[1672993425,35,3,11.66,1610,null],
@@ -255,4 +257,4 @@ profiles["QTStudio"] = [
 	[1698386570,70,4,17.5,1880,2.0],
 	[1698472827,70,4,17.5,1880,2.0],
 	[1698559224,70,4,17.5,1880,2.0],
-];
+]};

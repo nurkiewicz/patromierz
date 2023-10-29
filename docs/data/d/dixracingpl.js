@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dixracingpl"] = [
+profiles["dixracingpl"] = {
+"name": "Liga Dix-Racing.pl",
+"snapshots": [
 	[1643360870,180,7,25.71,1880,null],
 	[1643437010,180,7,25.71,1880,null],
 	[1643511370,180,7,25.71,1880,null],
@@ -585,4 +587,4 @@ profiles["dixracingpl"] = [
 	[1698371634,410,20,20.5,7440,2.0],
 	[1698458195,410,20,20.5,7440,1.0],
 	[1698544352,410,20,20.5,7460,1.0],
-];
+]};
