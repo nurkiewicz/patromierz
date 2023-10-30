@@ -266,4 +266,5 @@ profiles["kolejowe-lekcje"] = {
 	[1698377483,50,null,null,1555,null],
 	[1698463928,50,null,null,1555,null],
 	[1698550169,50,null,null,1555,null],
+	[1698640416,50,1,50.0,1605,null],
 ]};

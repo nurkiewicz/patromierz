@@ -386,4 +386,5 @@ profiles["domowefinanse"] = {
 	[1698371883,null,1,null,150,null],
 	[1698458433,null,1,null,150,null],
 	[1698544599,null,1,null,150,null],
+	[1698634842,null,1,null,150,null],
 ]};
