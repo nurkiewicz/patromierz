@@ -1,5 +1,5 @@
 ---
-title: LockTube | Patromierz
+title: LockTube | Statystyki patronite.pl | Patromierz
 
 permalink: /LockTube
 ---

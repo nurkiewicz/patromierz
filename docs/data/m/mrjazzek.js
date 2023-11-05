@@ -586,4 +586,5 @@ profiles["mrjazzek"] = {
 	[1698904025,10,null,null,340,null],
 	[1698990580,10,null,null,340,null],
 	[1699077259,10,null,null,340,null],
+	[1699163842,10,1,10.0,350,null],
 ]};

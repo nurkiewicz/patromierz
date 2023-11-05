@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["LockTube"] = [
+profiles["LockTube"] = {
+"name": "LockTube",
+"snapshots": [
 	[1643367468,null,null,null,3595,null],
 	[1643435778,null,null,null,3595,null],
 	[1643517637,null,null,null,3595,null],
@@ -154,4 +156,5 @@ profiles["LockTube"] = [
 	[1668998811,15,1,15.0,3640,null],
 	[1669085329,null,1,null,3640,-1.0],
 	[1669171741,null,1,null,3640,-1.0],
-];
+	[1699161322,21,1,21.0,3661,null],
+]};

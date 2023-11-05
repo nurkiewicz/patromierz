@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["BabaduTV"] = [
+profiles["BabaduTV"] = {
+"name": "Babadu TV - Piosenki dla dzieci",
+"snapshots": [
 	[1600992000,20,2,10.0,120,null],
 	[1611187200,30,2,15.0,220,null],
 	[1643353293,10,1,10.0,405,null],
@@ -585,4 +587,5 @@ profiles["BabaduTV"] = [
 	[1698283056,10,null,null,605,null],
 	[1698369106,10,null,null,605,null],
 	[1698455669,10,null,null,605,null],
-];
+	[1699151026,10,1,10.0,615,null],
+]};
