@@ -3,4 +3,5 @@ profiles["bombardier.szczecin.pl"] = {
 "name": "SKF Bombardier",
 "snapshots": [
 	[1699238147,100,1,100.0,100,null],
+	[1699410635,220,3,73.33,220,null],
 ]};
