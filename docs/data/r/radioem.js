@@ -3,4 +3,5 @@ profiles["radioem"] = {
 "name": "Radio eM 107,6 fm",
 "snapshots": [
 	[1699427548,625,14,44.64,625,null],
+	[1699513985,715,16,44.68,715,null],
 ]};
