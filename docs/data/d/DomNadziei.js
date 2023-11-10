@@ -560,4 +560,5 @@ profiles["DomNadziei"] = {
 	[1699240185,20,null,null,400,null],
 	[1699412581,20,null,null,400,null],
 	[1699498925,20,null,null,400,null],
+	[1699585287,20,1,20.0,420,null],
 ]};
