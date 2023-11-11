@@ -1,5 +1,5 @@
 ---
-title: Fotazdrona | Patromierz
+title: Fotazdrona | Statystyki patronite.pl | Patromierz
 
 permalink: /fotazdrona
 ---
