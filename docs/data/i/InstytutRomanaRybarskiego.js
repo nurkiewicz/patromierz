@@ -4,4 +4,5 @@ profiles["InstytutRomanaRybarskiego"] = {
 "snapshots": [
 	[1699675781,50,2,25.0,50,null],
 	[1699762086,50,2,25.0,50,null],
+	[1699848377,50,2,25.0,50,null],
 ]};
