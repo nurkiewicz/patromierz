@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["agere"] = {
-"name": "mówimy o sukcesach #pomimo #niepełnosprawności / agere fundacja",
+"name": "siła do działania #pomimo #niepełnosprawności / agere fundacja",
 "snapshots": [
 	[1684370745,24,1,24.0,24,null],
 	[1684457090,24,1,24.0,24,null],
@@ -155,4 +155,5 @@ profiles["agere"] = {
 	[1699753999,33,2,16.5,273,-1.0],
 	[1699840434,33,2,16.5,273,-1.0],
 	[1699926925,33,2,16.5,273,-1.0],
+	[1700013480,33,2,16.5,273,null],
 ]};

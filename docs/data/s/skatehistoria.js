@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["skatehistoria"] = [
+profiles["skatehistoria"] = {
+"name": "Skatehistoria.pl - Historia Polskiej Deskorolki",
+"snapshots": [
 	[1643353497,20,1,20.0,160,null],
 	[1643424924,20,1,20.0,160,null],
 	[1643520696,20,1,20.0,160,null],
@@ -455,4 +457,5 @@ profiles["skatehistoria"] = [
 	[1693200585,20,1,20.0,460,null],
 	[1693286506,20,1,20.0,460,null],
 	[1693372973,20,1,20.0,460,null],
-];
+	[1700034490,10,1,10.0,470,null],
+]};

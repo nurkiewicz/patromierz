@@ -600,4 +600,5 @@ profiles["Jozektargosz"] = {
 	[1699762794,5,null,null,905,null],
 	[1699849070,5,null,null,905,null],
 	[1699935742,5,null,null,905,null],
+	[1700022369,5,1,5.0,910,null],
 ]};

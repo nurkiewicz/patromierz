@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["SLEEPnSOUND_ASMR"] = [
+profiles["SLEEPnSOUND_ASMR"] = {
+"name": "SLEEP&SOUND ASMR",
+"snapshots": [
 	[1683697415,10,1,10.0,10,null],
 	[1683784065,10,1,10.0,10,null],
 	[1683879336,10,1,10.0,10,null],
@@ -61,4 +63,5 @@ profiles["SLEEPnSOUND_ASMR"] = [
 	[1688795375,null,1,null,20,null],
 	[1688881842,null,1,null,20,null],
 	[1688968255,null,1,null,20,null],
-];
+	[1700034651,10,1,10.0,30,null],
+]};
