@@ -190,4 +190,5 @@ profiles["polishmantravel"] = {
 	[1699857423,30,1,30.0,300,null],
 	[1699944320,30,null,null,300,null],
 	[1700031033,30,null,null,300,null],
+	[1700202795,30,null,null,300,null],
 ]};
