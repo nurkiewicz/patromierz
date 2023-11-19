@@ -1,9 +1,9 @@
 ---
-title: GTS Drums | Statystyki patronite.pl | Patromierz
+title: Grzegorz Travis Szafran Drums | Statystyki patronite.pl | Patromierz
 
 permalink: /GTSDrums
 ---
 
-# [GTS Drums](https://patronite.pl/GTSDrums)
+# [Grzegorz Travis Szafran Drums](https://patronite.pl/GTSDrums)
 
 {% include profile.md name="GTSDrums" prefix="g" %}

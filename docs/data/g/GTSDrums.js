@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["GTSDrums"] = {
-"name": "GTS Drums",
+"name": "Grzegorz Travis Szafran Drums",
 "snapshots": [
 	[1663982709,50,1,50.0,609,null],
 	[1664069251,50,1,50.0,609,null],
@@ -369,4 +369,5 @@ profiles["GTSDrums"] = {
 	[1700020754,73,3,24.33,1631,null],
 	[1700192937,73,3,24.33,1631,null],
 	[1700279898,73,3,24.33,1631,null],
+	[1700365917,73,3,24.33,1631,null],
 ]};
