@@ -3,4 +3,5 @@ profiles["www.josesong.org.pl"] = {
 "name": "Fundacja Rozwoju Pasji JoséSong",
 "snapshots": [
 	[1700383879,10,1,10.0,10,null],
+	[1700469786,30,2,15.0,30,null],
 ]};

@@ -56,4 +56,5 @@ profiles["Szarmacher"] = {
 	[1700207513,10,1,10.0,20,null],
 	[1700294900,10,null,null,20,null],
 	[1700380802,10,null,null,20,null],
+	[1700466738,10,null,null,20,null],
 ]};
