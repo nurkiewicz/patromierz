@@ -1,5 +1,5 @@
 ---
-title: "Pawe\u0142 Szyma\u0144ski | Patromierz"
+title: "Pawe\u0142 Szyma\u0144ski | Statystyki patronite.pl | Patromierz"
 
 permalink: /pawelszymanski
 ---

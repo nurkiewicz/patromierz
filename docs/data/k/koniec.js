@@ -324,4 +324,5 @@ profiles["koniec"] = {
 	[1700282764,5,null,null,6335,null],
 	[1700368757,5,null,null,6335,null],
 	[1700454884,5,null,null,6335,null],
+	[1700541664,5,1,5.0,6340,null],
 ]};
