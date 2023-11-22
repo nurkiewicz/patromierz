@@ -4,4 +4,5 @@ profiles["www.krakowfootballkings.pl"] = {
 "snapshots": [
 	[1700469801,10,1,10.0,10,null],
 	[1700557212,10,1,10.0,10,null],
+	[1700643805,10,1,10.0,10,null],
 ]};
