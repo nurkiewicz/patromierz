@@ -243,4 +243,5 @@ profiles["fundacjadziewieciubraci"] = {
 	[1700451069,10,1,10.0,110,null],
 	[1700537682,10,1,10.0,110,null],
 	[1700624312,null,1,null,110,null],
+	[1700710665,null,1,null,110,null],
 ]};
