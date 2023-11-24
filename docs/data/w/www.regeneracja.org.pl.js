@@ -4,4 +4,5 @@ profiles["www.regeneracja.org.pl"] = {
 "snapshots": [
 	[1700643903,50,1,50.0,50,null],
 	[1700730393,50,1,50.0,50,null],
+	[1700816779,50,1,50.0,50,null],
 ]};
