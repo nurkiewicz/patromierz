@@ -550,4 +550,5 @@ profiles["spotkania_z_przyroda"] = {
 	[1700726281,140,7,20.0,null,null],
 	[1700812659,140,7,20.0,null,null],
 	[1700898552,140,7,20.0,null,null],
+	[1700984878,140,7,20.0,null,null],
 ]};
