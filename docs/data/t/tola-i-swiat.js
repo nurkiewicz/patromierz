@@ -72,4 +72,5 @@ profiles["tola-i-swiat"] = {
 	[1700814409,25,1,25.0,50,null],
 	[1700900247,25,null,null,50,null],
 	[1700986561,25,null,null,50,null],
+	[1701073158,25,null,null,50,null],
 ]};

@@ -189,4 +189,5 @@ profiles["noentryurbex"] = {
 	[1700806085,null,1,null,460,null],
 	[1700892168,null,1,null,460,null],
 	[1700978519,null,1,null,460,null],
+	[1701065008,null,1,null,460,-2.0],
 ]};
