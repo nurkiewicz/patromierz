@@ -3,4 +3,5 @@ profiles["wkslodz"] = {
 "name": "Wolny Klub Sportowy ŁÓDŹ",
 "snapshots": [
 	[1701161050,150,2,75.0,150,null],
+	[1701248312,150,2,75.0,150,null],
 ]};
