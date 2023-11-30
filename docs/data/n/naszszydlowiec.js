@@ -613,4 +613,5 @@ profiles["naszszydlowiec"] = {
 	[1701064460,10,null,null,2210,null],
 	[1701150759,10,null,null,2210,null],
 	[1701237672,10,null,null,2210,null],
+	[1701323914,10,1,10.0,2220,null],
 ]};
