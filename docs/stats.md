@@ -19,43 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/darwin.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/p/pralniaduszy.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/a/alinaczyzewska.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-<script type="text/javascript" src="data/i/IntuicjanaTarot.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/c/czescdziewczyny.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/o/ORB.js"></script>
-<script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/k/kyudo.js"></script>
+<script type="text/javascript" src="data/m/marzenaerm.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
 <script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/k/K3.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/c/czescdziewczyny.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/d/DzikieRadio.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/a/alinaczyzewska.js"></script>
+<script type="text/javascript" src="data/p/pralniaduszy.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/a/aska-lawicka.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/i/IntuicjanaTarot.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dolnośląski Inspektorat Ochrony Zwierząt", -1325], ["Intuicjana Inti Tarot", -750], ["K3 podcast Dariusza Bugalskiego", -625], ["Grupa Filmowa Darwin ", -565], ["Cześć Dziewczyny!", -500], ["Pal Hajs TV", -385], ["Radio Nowy Świat", -344], ["ORB", -340], ["TERENWIZJA", -330], ["Pralnia Duszy", -317], ["Dział Zagraniczny", 875], ["Fundacja DAJ HERBATĘ", 895], ["Alina Czyżewska", 1000], ["Marcin Zieliński | Fundacja Rozpal Wiarę", 1100], ["BezPlanu", 1270], ["Life On Wheelz - Influencerzy z Misją", 1570], ["Radio 357", 2129], ["Borkoś", 2165], ["Dwie Lewe Ręce", 2800], ["Radio Wnet", 10010]], 'largest_changes');
+            drawHorizontal([["DzikieRadio®", -755], ["K3 podcast Dariusza Bugalskiego", -645], ["Intuicjana Inti Tarot", -500], ["Cześć Dziewczyny!", -500], ["Aśka Ławicka", -410], ["TERENWIZJA", -380], ["Podcastex", -360], ["Dolnośląski Inspektorat Ochrony Zwierząt", -355], ["Jan Śpiewak", -320], ["Pralnia Duszy", -317], ["Alina Czyżewska", 900], ["Dział Zagraniczny", 930], ["Fundacja DAJ HERBATĘ", 985], ["kyudo", 1100], ["Marzena Erm", 1310], ["BezPlanu", 1470], ["Life On Wheelz - Influencerzy z Misją", 1590], ["Radio 357", 1974], ["Dwie Lewe Ręce", 2500], ["Radio Wnet", 9780]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
