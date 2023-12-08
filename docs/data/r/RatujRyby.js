@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["RatujRyby"] = {
-"name": "Ratuj Ryby",
+"name": "Ratuj Ryby - 800 ekologicznych działań / edukacja",
 "snapshots": [
 	[1614816000,444,12,37.0,444,null],
 	[1623542400,1016,28,36.28,3262,null],
@@ -624,4 +624,5 @@ profiles["RatujRyby"] = {
 	[1701761319,1049,37,28.35,33541,-5.0],
 	[1701846859,1066,38,28.05,33585,-5.0],
 	[1701927376,1066,38,28.05,33632,-6.0],
+	[1702020764,1066,38,28.05,33649,-6.0],
 ]};
