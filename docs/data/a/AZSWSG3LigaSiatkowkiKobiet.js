@@ -4,4 +4,5 @@ profiles["AZSWSG3LigaSiatkowkiKobiet"] = {
 "snapshots": [
 	[1701911376,10,1,10.0,10,null],
 	[1702001900,10,1,10.0,10,null],
+	[1702088209,10,1,10.0,10,null],
 ]};

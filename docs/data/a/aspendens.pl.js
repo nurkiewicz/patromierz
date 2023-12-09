@@ -196,4 +196,5 @@ profiles["aspendens.pl"] = {
 	[1701828827,50,null,null,450,null],
 	[1701911212,50,null,null,450,null],
 	[1702001694,50,null,null,450,null],
+	[1702088008,50,null,null,450,null],
 ]};
