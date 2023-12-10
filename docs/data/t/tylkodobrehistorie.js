@@ -58,4 +58,5 @@ profiles["tylkodobrehistorie"] = {
 	[1701930980,null,1,null,138,-2.0],
 	[1702024972,null,1,null,138,-2.0],
 	[1702110652,null,1,null,138,-2.0],
+	[1702197305,null,1,null,138,-2.0],
 ]};

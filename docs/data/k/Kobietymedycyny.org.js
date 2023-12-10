@@ -4,4 +4,5 @@ profiles["Kobietymedycyny.org"] = {
 "snapshots": [
 	[1702010693,50,1,50.0,50,null],
 	[1702096761,50,1,50.0,50,null],
+	[1702183309,50,1,50.0,50,null],
 ]};
