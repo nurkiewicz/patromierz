@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["bonjourdefrancepl"] = {
-"name": "Język Francuski dla Polaków - bonjourdefrance.pl",
+"name": "Darmowa nauka języków obcych",
 "snapshots": [
 	[1639549772,105,8,13.12,null,null],
 	[1639636162,105,8,13.12,null,null],
@@ -660,4 +660,5 @@ profiles["bonjourdefrancepl"] = {
 	[1702002826,145,6,24.16,null,-1.0],
 	[1702089113,145,6,24.16,null,-1.0],
 	[1702175561,145,6,24.16,null,-1.0],
+	[1702348234,145,6,24.16,null,-1.0],
 ]};

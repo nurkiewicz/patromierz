@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["benkowo"] = {
-"name": "Benkowo - dom zwierząt",
+"name": "Fundacja BENEK - przytulisko dla zwierząt",
 "snapshots": [
 	[1653705528,975,21,46.42,1455,null],
 	[1653791776,1280,29,44.13,1760,null],
@@ -501,4 +501,5 @@ profiles["benkowo"] = {
 	[1702002340,1587,39,40.69,33004,4.0],
 	[1702088637,1587,39,40.69,33019,4.0],
 	[1702175081,1587,39,40.69,33209,4.0],
+	[1702347753,1581,39,40.53,33249,4.0],
 ]};

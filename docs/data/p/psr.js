@@ -17,4 +17,5 @@ profiles["psr"] = {
 	[1702020214,null,1,null,20,null],
 	[1702106012,null,1,null,20,null],
 	[1702192630,null,1,null,20,null],
+	[1702365402,10,2,5.0,30,null],
 ]};

@@ -620,4 +620,5 @@ profiles["WędkarskiOdjazd"] = {
 	[1702027064,null,1,null,415,null],
 	[1702112694,null,1,null,415,null],
 	[1702199364,null,1,null,415,null],
+	[1702372199,null,1,null,415,null],
 ]};
