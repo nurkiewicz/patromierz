@@ -3,4 +3,5 @@ profiles["MonikaGora"] = {
 "name": "Monika Góra - Prawdziwe historie",
 "snapshots": [
 	[1702359931,20,1,20.0,20,null],
+	[1702446309,20,1,20.0,20,null],
 ]};
