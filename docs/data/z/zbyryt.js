@@ -3,4 +3,5 @@ profiles["zbyryt"] = {
 "name": "Adam Zbyryt - Człowiek z puszczy",
 "snapshots": [
 	[1702458705,140,4,35.0,140,null],
+	[1702545085,310,7,44.28,310,null],
 ]};
