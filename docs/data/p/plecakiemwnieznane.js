@@ -4,4 +4,5 @@ profiles["plecakiemwnieznane"] = {
 "snapshots": [
 	[1702449615,25,1,25.0,25,null],
 	[1702535867,25,1,25.0,25,null],
+	[1702622099,25,1,25.0,25,null],
 ]};

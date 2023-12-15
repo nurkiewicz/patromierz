@@ -1,9 +1,9 @@
 ---
-title: Fundacja Beztroska psychoterapia | Statystyki patronite.pl | Patromierz
+title: Fundacja Beztroska Psychoterapia | Statystyki patronite.pl | Patromierz
 
 permalink: /fundacjabeztroskapsychoterapia
 ---
 
-# [Fundacja Beztroska psychoterapia](https://patronite.pl/fundacjabeztroskapsychoterapia)
+# [Fundacja Beztroska Psychoterapia](https://patronite.pl/fundacjabeztroskapsychoterapia)
 
 {% include profile.md name="fundacjabeztroskapsychoterapia" prefix="f" %}
