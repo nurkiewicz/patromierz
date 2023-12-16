@@ -3,4 +3,5 @@ profiles["fcwarriors"] = {
 "name": "FC Słomniki Warriors",
 "snapshots": [
 	[1702610553,50,1,50.0,50,null],
+	[1702697191,50,1,50.0,50,null],
 ]};
