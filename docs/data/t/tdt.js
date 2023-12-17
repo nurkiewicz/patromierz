@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tdt"] = [
+profiles["tdt"] = {
+"name": "Turkusowy Dom Tymczasowy",
+"snapshots": [
 	[1643367557,null,null,null,180,null],
 	[1643425185,null,null,null,180,null],
 	[1643515858,null,null,null,180,null],
@@ -210,4 +212,5 @@ profiles["tdt"] = [
 	[1668611023,10,1,10.0,244,null],
 	[1668677618,null,1,null,244,null],
 	[1668754197,null,1,null,244,null],
-];
+	[1702801034,10,1,10.0,254,null],
+]};

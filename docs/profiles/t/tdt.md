@@ -1,5 +1,5 @@
 ---
-title: Turkusowy Dom Tymczasowy | Patromierz
+title: Turkusowy Dom Tymczasowy | Statystyki patronite.pl | Patromierz
 
 permalink: /tdt
 ---
