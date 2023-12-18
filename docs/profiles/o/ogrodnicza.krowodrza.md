@@ -1,5 +1,5 @@
 ---
-title: Ogrodnicza Krowodrza | Patromierz
+title: Ogrodnicza Krowodrza | Statystyki patronite.pl | Patromierz
 
 permalink: /ogrodnicza.krowodrza
 ---

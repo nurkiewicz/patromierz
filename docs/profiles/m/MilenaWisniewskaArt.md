@@ -1,5 +1,5 @@
 ---
-title: "Milena Wi\u015Bniewska | Patromierz"
+title: "Milena Wi\u015Bniewska | Statystyki patronite.pl | Patromierz"
 
 permalink: /MilenaWisniewskaArt
 ---

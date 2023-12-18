@@ -1,5 +1,5 @@
 ---
-title: ZOO-RATOWNICTWO Garbatka | Patromierz
+title: ZOO-RATOWNICTWO Garbatka | Statystyki patronite.pl | Patromierz
 
 permalink: /zoo-ratownictwo
 ---

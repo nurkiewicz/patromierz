@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["Podhalanskie-kurki-jakuba"] = {
+"name": "Podhalanskie kurki jakuba",
+"snapshots": [
+	[1702881988,1930,76,25.39,null,null],
+]};

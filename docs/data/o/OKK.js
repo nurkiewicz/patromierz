@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["OKK"] = [
+profiles["OKK"] = {
+"name": "Otwocki Kalendarz Kulturalny",
+"snapshots": [
 	[1614816000,180,11,16.36,1940,null],
 	[1643363766,245,14,17.5,4430,null],
 	[1643433957,245,14,17.5,4430,null],
@@ -548,4 +550,5 @@ profiles["OKK"] = [
 	[1693109654,135,6,22.5,8045,null],
 	[1693196173,135,6,22.5,8045,null],
 	[1693368613,135,6,22.5,8045,null],
-];
+	[1702880265,55790,3225,17.29,null,400.0],
+]};

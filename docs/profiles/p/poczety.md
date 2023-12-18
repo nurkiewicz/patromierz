@@ -1,5 +1,5 @@
 ---
-title: "Jakub Pocz\u0119ty | Patromierz"
+title: "Jakub Pocz\u0119ty | Statystyki patronite.pl | Patromierz"
 
 permalink: /poczety
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tsuuki | Patromierz
+title: Tsuuki | Statystyki patronite.pl | Patromierz
 
 permalink: /Tsuuki
 ---

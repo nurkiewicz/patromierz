@@ -1,5 +1,5 @@
 ---
-title: Waginy Bez Spiny | Patromierz
+title: Waginy Bez Spiny | Statystyki patronite.pl | Patromierz
 
 permalink: /waginybezspiny
 ---

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["sciezkalucznicza"] = [
+profiles["sciezkalucznicza"] = {
+"name": "Ścieżka Łucznicza    ",
+"snapshots": [
 	[1643357512,170,13,13.07,2350,null],
 	[1643427092,170,13,13.07,2350,null],
 	[1643523230,170,13,13.07,2360,null],
@@ -318,4 +320,5 @@ profiles["sciezkalucznicza"] = [
 	[1671518128,180,12,15.0,4190,null],
 	[1671604850,180,12,15.0,4190,null],
 	[1671690610,180,12,15.0,4200,null],
-];
+	[1702885308,660,26,25.38,null,1.0],
+]};

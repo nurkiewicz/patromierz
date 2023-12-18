@@ -1,5 +1,5 @@
 ---
-title: UltraLovers | Patromierz
+title: UltraLovers | Statystyki patronite.pl | Patromierz
 
 permalink: /UltraLovers
 ---

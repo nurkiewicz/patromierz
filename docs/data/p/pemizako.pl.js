@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["pemizako.pl"] = {
+"name": "Przemyslaw Sobczyk",
+"snapshots": [
+	[1702881315,1930,76,25.39,null,null],
+]};

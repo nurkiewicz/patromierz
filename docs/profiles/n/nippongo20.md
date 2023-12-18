@@ -1,5 +1,6 @@
 ---
-title: "J\u0119zyk japo\u0144ski - NipponGo! (nie tylko od podstaw) | Patromierz"
+title: "J\u0119zyk japo\u0144ski - NipponGo! (nie tylko od podstaw) | Statystyki patronite.pl\
+  \ | Patromierz"
 
 permalink: /nippongo20
 ---

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["TeoriaElektryki"] = [
+profiles["TeoriaElektryki"] = {
+"name": "TeoriaElektryki.pl",
+"snapshots": [
 	[1643366487,175,12,14.58,575,null],
 	[1643434444,175,12,14.58,575,null],
 	[1643523366,175,12,14.58,575,null],
@@ -328,4 +330,5 @@ profiles["TeoriaElektryki"] = [
 	[1672502240,110,10,11.0,2150,-1.0],
 	[1672575287,110,10,11.0,2150,-1.0],
 	[1672662077,100,10,10.0,2150,-1.0],
-];
+	[1702887811,2165,90,24.05,null,5.0],
+]};

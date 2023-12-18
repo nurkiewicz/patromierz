@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["rydzyna24"] = {
+"name": "rydzyna24.pl",
+"snapshots": [
+	[1702884994,2940,208,14.13,null,null],
+]};

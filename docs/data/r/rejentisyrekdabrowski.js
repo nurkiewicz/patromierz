@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["rejentisyrekdabrowski"] = [
+profiles["rejentisyrekdabrowski"] = {
+"name": "Rejent i Syrek-Dąbrowski w domu na streamie",
+"snapshots": [
 	[1679561057,1330,58,22.93,134320,null],
 	[1679655359,1310,57,22.98,134320,null],
 	[1679824701,1310,55,23.81,134390,null],
@@ -104,4 +106,5 @@ profiles["rejentisyrekdabrowski"] = [
 	[1688880699,1060,64,16.56,138680,-8.0],
 	[1688967093,1040,64,16.25,138740,-8.0],
 	[1689053547,920,64,14.37,138740,-12.0],
-];
+	[1702884530,2940,208,14.13,null,9.0],
+]};

@@ -1,5 +1,5 @@
 ---
-title: "Wawrzy\u0144cem | Patromierz"
+title: "Wawrzy\u0144cem | Statystyki patronite.pl | Patromierz"
 
 permalink: /wawrzyncem
 ---

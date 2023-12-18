@@ -1,5 +1,5 @@
 ---
-title: "J\u0119zyk w\u0142oski z \"Vacanze Romane\" | Patromierz"
+title: "J\u0119zyk w\u0142oski z \"Vacanze Romane\" | Statystyki patronite.pl | Patromierz"
 
 permalink: /vacanze-romane
 ---

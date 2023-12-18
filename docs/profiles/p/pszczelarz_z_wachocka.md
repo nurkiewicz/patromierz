@@ -1,5 +1,5 @@
 ---
-title: "Pszczelarz z W\u0105chocka | Patromierz"
+title: "Pszczelarz z W\u0105chocka | Statystyki patronite.pl | Patromierz"
 
 permalink: /pszczelarz_z_wachocka
 ---

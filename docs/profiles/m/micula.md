@@ -1,5 +1,5 @@
 ---
-title: "MICU\u0141A | Patromierz"
+title: "MICU\u0141A | Statystyki patronite.pl | Patromierz"
 
 permalink: /micula
 ---

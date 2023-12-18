@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nippongo20"] = [
+profiles["nippongo20"] = {
+"name": "Język japoński - NipponGo! (nie tylko od podstaw)",
+"snapshots": [
 	[1643361403,215,9,23.88,1360,null],
 	[1643424651,215,9,23.88,1360,null],
 	[1643524065,215,9,23.88,1360,null],
@@ -159,4 +161,5 @@ profiles["nippongo20"] = [
 	[1656735009,120,6,20.0,2360,-1.0],
 	[1656821156,120,6,20.0,2410,-1.0],
 	[1656907717,120,6,20.0,2410,-1.0],
-];
+	[1702879748,550,34,16.17,null,1.0],
+]};

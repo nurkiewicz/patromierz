@@ -1,5 +1,5 @@
 ---
-title: "Przemy\u015Blane Kadry | Patromierz"
+title: "Przemy\u015Blane Kadry | Statystyki patronite.pl | Patromierz"
 
 permalink: /przemyslanekadry
 ---

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zbigniewsyc-sztuki-walki"] = [
+profiles["zbigniewsyc-sztuki-walki"] = {
+"name": "Zbigniew Syc - Sztuki Walki",
+"snapshots": [
 	[1643362074,780,14,55.71,2840,null],
 	[1643432022,780,14,55.71,2840,null],
 	[1643512838,780,14,55.71,2840,null],
@@ -351,4 +353,5 @@ profiles["zbigniewsyc-sztuki-walki"] = [
 	[1674551932,200,5,40.0,6050,-1.0],
 	[1674625250,150,5,30.0,6050,-3.0],
 	[1674713885,100,5,20.0,6100,-4.0],
-];
+	[1702890998,11745,681,17.24,null,33.0],
+]};
