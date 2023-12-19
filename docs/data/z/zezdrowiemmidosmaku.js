@@ -3,4 +3,5 @@ profiles["zezdrowiemmidosmaku"] = {
 "name": "Ze zdrowiem mi do smaku",
 "snapshots": [
 	[1702891112,1305,41,31.82,null,null],
+	[1702977367,1930,76,25.39,null,null],
 ]};

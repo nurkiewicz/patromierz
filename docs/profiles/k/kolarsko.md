@@ -1,5 +1,5 @@
 ---
-title: Kolarsko.pl | Patromierz
+title: Kolarsko.pl | Statystyki patronite.pl | Patromierz
 
 permalink: /kolarsko
 ---

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KataklizmyPLWR"] = [
+profiles["KataklizmyPLWR"] = {
+"name": "Kataklizmy w Polsce i na świecie",
+"snapshots": [
 	[1636675200,20,1,20.0,20,null],
 	[1639722592,560,29,19.31,990,null],
 	[1639808988,560,29,19.31,1070,null],
@@ -309,4 +311,5 @@ profiles["KataklizmyPLWR"] = [
 	[1667702493,10,2,5.0,4690,-1.0],
 	[1667788795,10,2,5.0,4690,-1.0],
 	[1667875346,10,2,5.0,4690,-1.0],
-];
+	[1702960439,550,34,16.17,null,1.0],
+]};

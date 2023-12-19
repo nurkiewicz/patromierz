@@ -3,4 +3,5 @@ profiles["www.wekaf.pl"] = {
 "name": "WEKAF POLSKA",
 "snapshots": [
 	[1702890459,27070,1302,20.79,null,null],
+	[1702976719,90,3,30.0,null,null],
 ]};

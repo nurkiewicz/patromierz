@@ -253,4 +253,5 @@ profiles["wataha"] = {
 	[1671692360,null,2,null,null,null],
 	[1671785402,null,2,null,null,null],
 	[1702889319,27070,1302,20.79,null,null],
+	[1702975588,90,3,30.0,null,null],
 ]};

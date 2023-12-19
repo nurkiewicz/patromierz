@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["MPR"] = {
+"name": "Minister Podwyższonego Ryzyka",
+"snapshots": [
+	[1702964975,27080,1303,20.78,null,null],
+]};

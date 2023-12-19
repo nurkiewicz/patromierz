@@ -3,4 +3,5 @@ profiles["zcrossfitempl"] = {
 "name": "ZcrossFitem.Pl",
 "snapshots": [
 	[1702891034,11745,681,17.24,null,null],
+	[1702977288,90,3,30.0,null,null],
 ]};

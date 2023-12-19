@@ -334,4 +334,5 @@ profiles["TelewizjaTychy"] = {
 	[1672575285,null,3535,null,null,null],
 	[1672662075,null,3535,null,null,null],
 	[1702887760,1540,71,21.69,3820,null],
+	[1702974025,1545,20,77.25,3820,null],
 ]};

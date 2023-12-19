@@ -3,4 +3,5 @@ profiles["sexpositiveinstitute"] = {
 "name": "Instytut Pozytywnej Seksualności",
 "snapshots": [
 	[1702885486,1540,71,21.69,null,null],
+	[1702971762,6780,202,33.56,null,null],
 ]};

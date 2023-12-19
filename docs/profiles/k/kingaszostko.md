@@ -1,5 +1,5 @@
 ---
-title: Kinga Szostko | Patromierz
+title: Kinga Szostko | Statystyki patronite.pl | Patromierz
 
 permalink: /kingaszostko
 ---

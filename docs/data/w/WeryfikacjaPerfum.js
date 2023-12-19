@@ -3,4 +3,5 @@ profiles["WeryfikacjaPerfum"] = {
 "name": "Wojciech Zawadzki",
 "snapshots": [
 	[1702889461,630,52,12.11,null,null],
+	[1702975728,701,24,29.2,null,null],
 ]};

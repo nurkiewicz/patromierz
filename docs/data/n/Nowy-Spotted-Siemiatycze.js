@@ -3,4 +3,5 @@ profiles["Nowy-Spotted-Siemiatycze"] = {
 "name": "Nowy Spotted: Siemiatycze",
 "snapshots": [
 	[1702879913,11862,521,22.76,null,null],
+	[1702966227,2940,208,14.13,null,null],
 ]};

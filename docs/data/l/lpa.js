@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["lpa"] = [
+profiles["lpa"] = {
+"name": "Letnie Przesilenia Artystyczne",
+"snapshots": [
 	[1681372699,5,1,5.0,5,null],
 	[1681467133,5,1,5.0,5,null],
 	[1681525293,5,1,5.0,5,null],
@@ -60,4 +62,5 @@ profiles["lpa"] = [
 	[1686454529,5,1,5.0,10,null],
 	[1686540645,5,1,5.0,10,null],
 	[1686713599,5,1,5.0,15,null],
-];
+	[1702962615,160,5,32.0,null,1.0],
+]};

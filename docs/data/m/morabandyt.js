@@ -66,4 +66,5 @@ profiles["morabandyt"] = {
 	[1702705812,null,3,null,null,null],
 	[1702791914,null,3,null,null,null],
 	[1702878511,11862,3,3954.0,null,null],
+	[1702964829,2120,3,706.66,null,null],
 ]};

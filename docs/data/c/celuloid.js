@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["celuloid"] = [
+profiles["celuloid"] = {
+"name": "Celuloid i światło",
+"snapshots": [
 	[1643352556,85,6,14.16,610,null],
 	[1643437390,85,6,14.16,610,null],
 	[1643513088,85,6,14.16,610,null],
@@ -371,4 +373,5 @@ profiles["celuloid"] = [
 	[1676078083,15,2,7.5,1125,null],
 	[1676164492,15,2,7.5,1130,null],
 	[1676250695,15,2,7.5,1130,null],
-];
+	[1702953671,13565,464,29.23,null,40.0],
+]};

@@ -8,4 +8,5 @@ profiles["samiswoifuttraders"] = {
 	[1667197114,null,5,null,null,null],
 	[1667283925,null,12,null,null,null],
 	[1702885145,2940,208,14.13,null,null],
+	[1702971423,400,20,20.0,null,null],
 ]};

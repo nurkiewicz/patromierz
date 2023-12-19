@@ -1,5 +1,5 @@
 ---
-title: Akuma-Inn | Patromierz
+title: Akuma-Inn | Statystyki patronite.pl | Patromierz
 
 permalink: /akuma-inn
 ---

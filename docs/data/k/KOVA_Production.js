@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["KOVA_Production"] = [
+profiles["KOVA_Production"] = {
+"name": " KOVA PRODUCTION",
+"snapshots": [
 	[1665797784,100,1,100.0,100,null],
 	[1665884235,100,1,100.0,100,null],
 	[1665970682,100,1,100.0,100,null],
@@ -25,4 +27,5 @@ profiles["KOVA_Production"] = [
 	[1667702375,100,1,100.0,100,null],
 	[1667788678,100,1,100.0,100,null],
 	[1667875230,100,1,100.0,100,null],
-];
+	[1702961329,2940,208,14.13,null,null],
+]};

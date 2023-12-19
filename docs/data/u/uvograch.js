@@ -53,4 +53,5 @@ profiles["uvograch"] = {
 	[1702716316,null,26,null,null,null],
 	[1702802258,null,26,null,null,null],
 	[1702888870,1540,26,59.23,null,null],
+	[1702975139,550,26,21.15,null,null],
 ]};

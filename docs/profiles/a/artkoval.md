@@ -1,5 +1,5 @@
 ---
-title: ArtKoval | Patromierz
+title: ArtKoval | Statystyki patronite.pl | Patromierz
 
 permalink: /artkoval
 ---

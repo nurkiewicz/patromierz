@@ -72,4 +72,5 @@ profiles["scenadlakobiet"] = {
 	[1649052480,null,null,null,466,null],
 	[1649071490,null,null,null,466,null],
 	[1702885258,55770,3223,17.3,null,86.0],
+	[1702971534,55775,3223,17.3,null,86.0],
 ]};

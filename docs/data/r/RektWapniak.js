@@ -281,4 +281,5 @@ profiles["RektWapniak"] = {
 	[1702711943,null,3,null,null,null],
 	[1702797952,null,3,null,null,null],
 	[1702884550,1540,3,513.33,null,null],
+	[1702970840,6780,3,2260.0,null,null],
 ]};

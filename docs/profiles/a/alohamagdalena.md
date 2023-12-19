@@ -1,5 +1,5 @@
 ---
-title: Aloha Magdalena PL | Patromierz
+title: Aloha Magdalena PL | Statystyki patronite.pl | Patromierz
 
 permalink: /alohamagdalena
 ---

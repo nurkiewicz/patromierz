@@ -3,4 +3,5 @@ profiles["trombofilia"] = {
 "name": "Trombofilia ",
 "snapshots": [
 	[1702888390,2165,90,24.05,null,null],
+	[1702974660,550,34,16.17,null,null],
 ]};

@@ -1,5 +1,5 @@
 ---
-title: Happy Rabbit  | Patromierz
+title: Happy Rabbit  | Statystyki patronite.pl | Patromierz
 
 permalink: /HappyRabbit
 ---

@@ -3,4 +3,5 @@ profiles["niekulturalnie"] = {
 "name": "niekulturalnie.pl",
 "snapshots": [
 	[1702879582,1277,44,29.02,null,null],
+	[1702965897,6145,290,21.18,null,null],
 ]};

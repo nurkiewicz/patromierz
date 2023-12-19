@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kalkulator-gieldowy"] = [
+profiles["kalkulator-gieldowy"] = {
+"name": "Kalkulatorgieldowy.pl",
+"snapshots": [
 	[1643351412,160,10,16.0,1255,null],
 	[1643427949,160,10,16.0,1255,null],
 	[1643520428,155,10,15.5,1255,null],
@@ -370,4 +372,5 @@ profiles["kalkulator-gieldowy"] = [
 	[1676083199,365,24,15.2,4260,5.0],
 	[1676169533,365,24,15.2,4260,5.0],
 	[1676255705,365,24,15.2,4260,5.0],
-];
+	[1702960121,2940,208,14.13,null,8.0],
+]};

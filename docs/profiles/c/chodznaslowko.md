@@ -1,5 +1,5 @@
 ---
-title: "Chod\u017A na S\u0142\xF3wko | Patromierz"
+title: "Chod\u017A na S\u0142\xF3wko | Statystyki patronite.pl | Patromierz"
 
 permalink: /chodznaslowko
 ---

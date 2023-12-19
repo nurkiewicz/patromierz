@@ -1,5 +1,5 @@
 ---
-title: MamaPediatra | Patromierz
+title: MamaPediatra | Statystyki patronite.pl | Patromierz
 
 permalink: /mamapediatra
 ---

@@ -3,4 +3,5 @@ profiles["zlapgrafika"] = {
 "name": "Złapgrafika.pl",
 "snapshots": [
 	[1702891205,50,4,12.5,null,null],
+	[1702977460,25,3,8.33,null,null],
 ]};

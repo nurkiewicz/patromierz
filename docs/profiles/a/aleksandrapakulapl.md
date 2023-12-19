@@ -1,5 +1,5 @@
 ---
-title: "Aleksandra Paku\u0142a | Patromierz"
+title: "Aleksandra Paku\u0142a | Statystyki patronite.pl | Patromierz"
 
 permalink: /aleksandrapakulapl
 ---

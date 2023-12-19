@@ -3,4 +3,5 @@ profiles["nots"] = {
 "name": "NOTS - 100% Handmade ",
 "snapshots": [
 	[1702879863,85,4,21.25,null,null],
+	[1702966177,720,25,28.8,null,null],
 ]};

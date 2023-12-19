@@ -1,5 +1,5 @@
 ---
-title: LEGENDMAKE | Patromierz - statystyki Patronite.pl
+title: LEGENDMAKE | Statystyki patronite.pl | Patromierz
 
 permalink: /LEGENDMAKE
 ---

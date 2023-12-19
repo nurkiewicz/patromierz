@@ -3,4 +3,5 @@ profiles["polandinthelens"] = {
 "name": "Poland in the Lens",
 "snapshots": [
 	[1702882165,1930,76,25.39,null,null],
+	[1702968470,1305,41,31.82,null,null],
 ]};

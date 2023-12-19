@@ -536,4 +536,5 @@ profiles["PolniPizgacze"] = {
 	[1702709621,null,17,null,null,null],
 	[1702795654,null,17,null,null,null],
 	[1702882271,13674,17,804.35,null,null],
+	[1702968577,21186,17,1246.23,null,null],
 ]};

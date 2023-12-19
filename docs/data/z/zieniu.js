@@ -565,4 +565,5 @@ profiles["zieniu"] = {
 	[1702718646,null,206,null,null,null],
 	[1702804559,null,206,null,null,null],
 	[1702891183,1305,206,6.33,null,null],
+	[1702977436,1930,206,9.36,null,null],
 ]};

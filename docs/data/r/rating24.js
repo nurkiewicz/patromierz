@@ -3,4 +3,5 @@ profiles["rating24"] = {
 "name": "Rating24.pl",
 "snapshots": [
 	[1702884410,2940,208,14.13,null,null],
+	[1702970702,2940,208,14.13,null,null],
 ]};

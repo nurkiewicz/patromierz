@@ -3,4 +3,5 @@ profiles["US"] = {
 "name": "Układ Sił - Miesięcznik drukowany o geopolityce i stosunkach międzynarodowych",
 "snapshots": [
 	[1702888845,2165,90,24.05,null,null],
+	[1702975115,550,34,16.17,null,null],
 ]};

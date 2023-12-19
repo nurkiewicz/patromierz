@@ -1,0 +1,28 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["kobietainiezaleznosc"] = {
+"name": "KOBIETA I NIEZALEŻNOSĆ",
+"snapshots": [
+	[1649133887,null,2,null,null,null],
+	[1649220375,null,2,null,null,null],
+	[1649302286,null,2,null,null,null],
+	[1649388151,null,2,null,null,null],
+	[1649474723,null,2,null,null,null],
+	[1649561135,null,2,null,null,null],
+	[1649647804,null,2,null,null,null],
+	[1649733844,null,2,null,null,null],
+	[1649820109,null,2,null,null,null],
+	[1649905906,null,2,null,null,null],
+	[1649992238,null,2,null,null,null],
+	[1650078355,null,2,null,null,null],
+	[1650164817,null,2,null,null,null],
+	[1650250964,null,2,null,null,null],
+	[1650337600,null,2,null,null,null],
+	[1650424092,null,2,null,null,null],
+	[1650510551,null,2,null,null,null],
+	[1650596679,null,2,null,null,null],
+	[1650682921,null,2,null,null,null],
+	[1650769751,null,2,null,null,null],
+	[1650856000,null,2,null,null,null],
+	[1650942806,null,2,null,null,null],
+	[1702960888,1540,null,null,null,null],
+]};

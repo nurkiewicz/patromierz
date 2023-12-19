@@ -455,4 +455,5 @@ profiles["UrbanTransportSystems"] = {
 	[1702716237,null,1,null,null,null],
 	[1702802180,null,1,null,null,null],
 	[1702888791,11725,1,11725.0,null,null],
+	[1702975063,18400,1,18400.0,null,null],
 ]};

@@ -71,4 +71,5 @@ profiles["zbrodniajestkobieta"] = {
 	[1649054922,null,null,null,730,null],
 	[1649072077,null,null,null,730,null],
 	[1702891011,2120,56,37.85,null,3.0],
+	[1702977267,2515,143,17.58,null,4.0],
 ]};

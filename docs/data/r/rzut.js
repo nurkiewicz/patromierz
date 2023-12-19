@@ -3,4 +3,5 @@ profiles["rzut"] = {
 "name": "Kwartalnik Architektoniczny RZUT",
 "snapshots": [
 	[1702885045,17900,790,22.65,null,null],
+	[1702971323,1277,43,29.69,null,null],
 ]};

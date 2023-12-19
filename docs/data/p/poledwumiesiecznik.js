@@ -57,4 +57,5 @@ profiles["poledwumiesiecznik"] = {
 	[1702709539,120,null,null,360,null],
 	[1702795574,120,null,null,360,null],
 	[1702882188,120,44,2.72,360,null],
+	[1702968495,120,290,0.41,360,null],
 ]};

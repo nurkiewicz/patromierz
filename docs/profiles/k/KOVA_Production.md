@@ -1,5 +1,5 @@
 ---
-title: ' KOVA PRODUCTION | Patromierz'
+title: ' KOVA PRODUCTION | Statystyki patronite.pl | Patromierz'
 
 permalink: /KOVA_Production
 ---

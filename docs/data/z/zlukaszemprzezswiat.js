@@ -564,4 +564,5 @@ profiles["zlukaszemprzezswiat"] = {
 	[1702718684,null,43,null,null,null],
 	[1702804597,null,43,null,null,null],
 	[1702891220,2515,43,58.48,null,null],
+	[1702977474,55775,43,1297.09,null,null],
 ]};

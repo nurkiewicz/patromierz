@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["JBST"] = {
+"name": "Johnny Black - żeglarstwo dla wszystkich. Mistrzostwa Polski podopiecznych domów dziecka",
+"snapshots": [
+	[1702959655,90,3,30.0,null,null],
+]};

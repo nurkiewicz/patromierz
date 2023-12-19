@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["NatalaSzkoleniowaZiomala"] = [
+profiles["NatalaSzkoleniowaZiomala"] = {
+"name": "Natala Szkoleniowa Ziomala",
+"snapshots": [
 	[1643354511,5,1,5.0,355,null],
 	[1643430396,5,1,5.0,355,null],
 	[1643522081,5,1,5.0,355,null],
@@ -194,4 +196,16 @@ profiles["NatalaSzkoleniowaZiomala"] = [
 	[1660009857,5,1,5.0,385,null],
 	[1660096191,5,1,5.0,385,null],
 	[1660182671,5,1,5.0,385,null],
-];
+	[1660269260,5,1,5.0,385,null],
+	[1660355527,5,1,5.0,390,null],
+	[1660441997,5,1,5.0,390,null],
+	[1660528359,5,1,5.0,390,null],
+	[1660614630,5,1,5.0,390,null],
+	[1660700964,5,1,5.0,390,null],
+	[1660787753,5,1,5.0,390,null],
+	[1660873877,5,1,5.0,390,null],
+	[1660960308,5,1,5.0,390,null],
+	[1661219538,5,1,5.0,390,null],
+	[1661305858,5,1,5.0,390,null],
+	[1702965568,260,218,1.19,null,null],
+]};

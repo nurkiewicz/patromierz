@@ -3,4 +3,5 @@ profiles["sm.amw"] = {
 "name": "Stosunki Międzynarodowe AMW",
 "snapshots": [
 	[1702885943,2940,208,14.13,null,null],
+	[1702972217,2940,208,14.13,null,null],
 ]};

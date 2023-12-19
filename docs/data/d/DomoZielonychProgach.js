@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["DomoZielonychProgach"] = [
+profiles["DomoZielonychProgach"] = {
+"name": "Wojciech Szymański - Dom o Zielonych Progach",
+"snapshots": [
 	[1643366168,640,18,35.55,10440,null],
 	[1643427378,640,18,35.55,10440,null],
 	[1643514973,640,18,35.55,10440,null],
@@ -563,4 +565,5 @@ profiles["DomoZielonychProgach"] = [
 	[1696039074,130,4,32.5,15760,null],
 	[1696125388,130,4,32.5,15760,null],
 	[1696211899,30,4,7.5,15760,-2.0],
-];
+	[1702955198,2940,208,14.13,null,23.0],
+]};

@@ -565,4 +565,5 @@ profiles["szpilkinatrybunach"] = {
 	[1702714712,20,null,null,null,null],
 	[1702800687,20,null,null,null,null],
 	[1702887289,20,26,0.76,null,null],
+	[1702973554,20,null,null,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["PrimaDance"] = {
 "name": "Prima Dance Ruch Równowaga Relacje",
 "snapshots": [
 	[1702882727,11862,521,22.76,null,null],
+	[1702969029,2515,143,17.58,null,null],
 ]};

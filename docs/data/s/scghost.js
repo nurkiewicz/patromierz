@@ -560,4 +560,5 @@ profiles["scghost"] = {
 	[1702712663,null,5,null,null,null],
 	[1702798660,null,5,null,null,null],
 	[1702885266,2940,5,588.0,null,null],
+	[1702971542,21186,6,3531.0,null,null],
 ]};

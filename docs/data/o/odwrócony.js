@@ -3,4 +3,5 @@ profiles["odwrócony"] = {
 "name": "teatr odwrócony",
 "snapshots": [
 	[1702880144,1277,44,29.02,null,null],
+	[1702966457,6145,290,21.18,null,null],
 ]};

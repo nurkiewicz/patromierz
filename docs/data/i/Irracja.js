@@ -1,0 +1,23 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["Irracja"] = {
+"name": "Grzegorz Antoni Kanik",
+"snapshots": [
+	[1701403779,20,null,null,null,null],
+	[1701490246,20,null,null,null,null],
+	[1701576811,20,null,null,null,null],
+	[1701663195,20,null,null,null,null],
+	[1701749721,20,null,null,null,null],
+	[1701835801,20,null,null,null,null],
+	[1701917412,20,null,null,null,null],
+	[1702008976,20,null,null,null,null],
+	[1702095094,20,null,null,null,null],
+	[1702181630,20,null,null,null,null],
+	[1702354304,20,null,null,null,null],
+	[1702440813,20,null,null,null,null],
+	[1702527005,20,null,null,null,null],
+	[1702613387,20,null,null,null,null],
+	[1702700115,20,null,null,null,null],
+	[1702786331,20,null,null,null,null],
+	[1702872884,20,null,null,null,null],
+	[1702959224,20,290,0.06,null,null],
+]};

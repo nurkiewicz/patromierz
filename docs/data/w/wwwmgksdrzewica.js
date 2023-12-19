@@ -3,4 +3,5 @@ profiles["wwwmgksdrzewica"] = {
 "name": "Marcin Będkowski",
 "snapshots": [
 	[1702890509,27070,1302,20.79,null,null],
+	[1702976769,90,3,30.0,null,null],
 ]};

@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ear-learning"] = [
+profiles["ear-learning"] = {
+"name": "Ear-learning",
+"snapshots": [
 	[1643360362,10,1,10.0,10,null],
 	[1643436295,10,1,10.0,10,null],
 	[1643515942,10,1,10.0,10,null],
@@ -550,4 +552,5 @@ profiles["ear-learning"] = [
 	[1693274038,30,1,30.0,1190,null],
 	[1693360121,30,1,30.0,1190,null],
 	[1693446461,30,1,30.0,1190,null],
-];
+	[1702955727,2940,208,14.13,null,21.0],
+]};

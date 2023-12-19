@@ -1,5 +1,5 @@
 ---
-title: Let's Grajmy | Patromierz
+title: Let's Grajmy | Statystyki patronite.pl | Patromierz
 
 permalink: /letsgrajmy
 ---

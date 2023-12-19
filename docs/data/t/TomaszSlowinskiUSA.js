@@ -675,4 +675,5 @@ profiles["TomaszSlowinskiUSA"] = {
 	[1702715560,null,20,null,null,null],
 	[1702801520,null,20,null,null,null],
 	[1702888123,11725,20,586.25,null,372.0],
+	[1702974389,18400,20,920.0,null,602.0],
 ]};

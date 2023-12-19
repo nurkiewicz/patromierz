@@ -563,4 +563,5 @@ profiles["zthreee"] = {
 	[1702718819,null,469,null,null,null],
 	[1702804729,null,469,null,null,null],
 	[1702891354,1540,470,3.27,null,null],
+	[1702977607,550,471,1.16,null,null],
 ]};

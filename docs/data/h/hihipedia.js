@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["hihipedia"] = [
+profiles["hihipedia"] = {
+"name": "Wikipedia jako źródło cierpień (i wielu przyjemności)",
+"snapshots": [
 	[1682904610,50,1,50.0,50,null],
 	[1682990778,50,1,50.0,50,null],
 	[1683077054,50,1,50.0,50,null],
@@ -147,4 +149,5 @@ profiles["hihipedia"] = [
 	[1697597601,16,2,8.0,276,-1.0],
 	[1697684117,16,2,8.0,276,-1.0],
 	[1697770506,16,2,8.0,276,-1.0],
-];
+	[1702958566,1540,71,21.69,null,14.0],
+]};

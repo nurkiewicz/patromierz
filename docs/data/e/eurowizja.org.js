@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["eurowizja.org"] = [
+profiles["eurowizja.org"] = {
+"name": "Eurowizja.org",
+"snapshots": [
 	[1669955194,75,6,12.5,75,null],
 	[1670041858,125,8,15.62,125,null],
 	[1670128230,125,8,15.62,125,null],
@@ -244,4 +246,5 @@ profiles["eurowizja.org"] = [
 	[1692496344,195,11,17.72,1995,-2.0],
 	[1692582856,195,11,17.72,2045,-2.0],
 	[1692669118,195,11,17.72,2045,-2.0],
-];
+	[1702956086,2940,208,14.13,null,18.0],
+]};
