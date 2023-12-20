@@ -386,4 +386,5 @@ profiles["K.RAMBOL"] = {
 	[1702787120,70,null,null,null,null],
 	[1702873679,70,null,null,null,null],
 	[1702960019,70,3225,0.02,null,null],
+	[1703046377,70,3226,0.02,null,null],
 ]};

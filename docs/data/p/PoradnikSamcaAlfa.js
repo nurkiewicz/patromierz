@@ -4,4 +4,5 @@ profiles["PoradnikSamcaAlfa"] = {
 "snapshots": [
 	[1702882451,8095,225,35.97,null,null],
 	[1702968758,8105,1946,4.16,null,null],
+	[1703055064,1152,47,24.51,null,null],
 ]};

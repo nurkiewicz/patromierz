@@ -4,4 +4,5 @@ profiles["Poszukiwacze_Okazji"] = {
 "snapshots": [
 	[1702882525,2940,208,14.13,null,null],
 	[1702968827,2940,208,14.13,null,null],
+	[1703055135,2120,56,37.85,null,null],
 ]};

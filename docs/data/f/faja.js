@@ -3,4 +3,5 @@ profiles["faja"] = {
 "name": "Krzysztof Frajfeld",
 "snapshots": [
 	[1702956257,2515,143,17.58,null,null],
+	[1703042636,8105,1947,4.16,null,null],
 ]};

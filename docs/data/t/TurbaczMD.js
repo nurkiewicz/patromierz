@@ -566,4 +566,5 @@ profiles["TurbaczMD"] = {
 	[1702801874,100,null,null,null,null],
 	[1702888480,100,1302,0.07,null,null],
 	[1702974751,100,3,33.33,null,null],
+	[1703061007,100,692,0.14,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["125sdrigrom"] = {
 "name": "125 WDW HSG SDRI GROM",
 "snapshots": [
 	[1702950473,18400,818,22.49,null,null],
+	[1703036881,2930,208,14.08,null,null],
 ]};

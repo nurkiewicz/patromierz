@@ -404,4 +404,5 @@ profiles["pszczelarz_z_wachocka"] = {
 	[1702797348,null,1,null,null,null],
 	[1702883949,1540,1,1540.0,null,null],
 	[1702970244,6780,1,6780.0,null,null],
+	[1703056541,1480,1,1480.0,null,null],
 ]};

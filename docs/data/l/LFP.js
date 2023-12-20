@@ -3,4 +3,5 @@ profiles["LFP"] = {
 "name": "Little Footprints",
 "snapshots": [
 	[1702962336,4320,202,21.38,null,null],
+	[1703048689,2515,143,17.58,null,null],
 ]};

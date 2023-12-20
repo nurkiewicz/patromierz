@@ -4,4 +4,5 @@ profiles["ola-radomiak"] = {
 "snapshots": [
 	[1702880295,1277,44,29.02,null,null],
 	[1702966607,6145,290,21.18,null,null],
+	[1703052906,1277,43,29.69,null,null],
 ]};

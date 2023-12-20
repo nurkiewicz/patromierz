@@ -3,4 +3,5 @@ profiles["fizn"] = {
 "name": "Fundacja im. Zygmunta Noskowskiego",
 "snapshots": [
 	[1702956578,2940,208,14.13,null,null],
+	[1703042952,2930,208,14.08,null,null],
 ]};

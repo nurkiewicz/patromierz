@@ -71,4 +71,5 @@ profiles["kreatywnamanufaktura"] = {
 	[1649047611,null,null,null,200,null],
 	[1649070178,null,null,null,200,null],
 	[1702961418,2883,56,51.48,null,4.0],
+	[1703047769,3220,196,16.42,null,5.0],
 ]};

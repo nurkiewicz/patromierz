@@ -4,4 +4,5 @@ profiles["okiemdrona"] = {
 "snapshots": [
 	[1702880245,1930,76,25.39,null,null],
 	[1702966557,720,25,28.8,null,null],
+	[1703052855,25,3,8.33,null,null],
 ]};

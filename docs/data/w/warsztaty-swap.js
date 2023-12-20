@@ -4,4 +4,5 @@ profiles["warsztaty-swap"] = {
 "snapshots": [
 	[1702889290,2883,56,51.48,null,null],
 	[1702975558,1530,70,21.85,null,null],
+	[1703061800,730,11,66.36,null,null],
 ]};

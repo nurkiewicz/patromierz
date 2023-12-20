@@ -3,4 +3,5 @@ profiles["magnetic-lips"] = {
 "name": "Joanna M - Magnetic Lips",
 "snapshots": [
 	[1702963061,720,25,28.8,null,null],
+	[1703049401,1930,76,25.39,null,null],
 ]};

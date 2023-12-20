@@ -4,4 +4,5 @@ profiles["Oczami-Mezczyzny"] = {
 "snapshots": [
 	[1702880069,1277,44,29.02,null,null],
 	[1702966382,6145,290,21.18,null,null],
+	[1703052681,1277,43,29.69,null,null],
 ]};

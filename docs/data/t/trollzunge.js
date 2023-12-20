@@ -4,4 +4,5 @@ profiles["trollzunge"] = {
 "snapshots": [
 	[1702888388,11725,680,17.24,null,null],
 	[1702974657,18400,818,22.49,null,null],
+	[1703060914,2165,89,24.32,null,null],
 ]};

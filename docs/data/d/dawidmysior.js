@@ -566,4 +566,5 @@ profiles["dawidmysior"] = {
 	[1702781773,null,537,null,null,null],
 	[1702868317,null,537,null,null,null],
 	[1702954700,55780,537,103.87,null,null],
+	[1703041090,55775,537,103.86,null,null],
 ]};

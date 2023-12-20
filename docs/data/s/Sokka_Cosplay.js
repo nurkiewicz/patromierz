@@ -4,4 +4,5 @@ profiles["Sokka_Cosplay"] = {
 "snapshots": [
 	[1702886097,1615,54,29.9,null,null],
 	[1702972370,550,34,16.17,null,null],
+	[1703058656,1305,41,31.82,null,null],
 ]};

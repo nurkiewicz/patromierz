@@ -634,4 +634,5 @@ profiles["wojtekczytaWH40K"] = {
 	[1702803299,null,76,null,null,null],
 	[1702889916,6145,76,80.85,null,null],
 	[1702976182,13165,76,173.22,null,null],
+	[1703062414,6130,76,80.65,null,null],
 ]};

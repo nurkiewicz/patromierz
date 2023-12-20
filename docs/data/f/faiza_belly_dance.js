@@ -3,4 +3,5 @@ profiles["faiza_belly_dance"] = {
 "name": "Faiza",
 "snapshots": [
 	[1702956255,550,34,16.17,null,null],
+	[1703042633,3220,196,16.42,null,null],
 ]};

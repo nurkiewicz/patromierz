@@ -4,4 +4,5 @@ profiles["Slovanie"] = {
 "snapshots": [
 	[1702885898,2940,208,14.13,null,null],
 	[1702972172,2940,208,14.13,null,null],
+	[1703058458,400,20,20.0,null,null],
 ]};

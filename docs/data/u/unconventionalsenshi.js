@@ -4,4 +4,5 @@ profiles["unconventionalsenshi"] = {
 "snapshots": [
 	[1702888743,50,4,12.5,null,null],
 	[1702975016,25,3,8.33,null,null],
+	[1703061266,2930,208,14.08,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["FB-kingazuralskayourcoach"] = {
 "name": "Kinga Żuralska",
 "snapshots": [
 	[1702956343,260,2,130.0,null,null],
+	[1703042720,90,218,0.41,null,null],
 ]};

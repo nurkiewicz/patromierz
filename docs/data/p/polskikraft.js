@@ -4,4 +4,5 @@ profiles["polskikraft"] = {
 "snapshots": [
 	[1702882356,2940,208,14.13,null,null],
 	[1702968663,2940,208,14.13,null,null],
+	[1703054971,2120,56,37.85,null,null],
 ]};

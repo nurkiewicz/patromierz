@@ -3,4 +3,5 @@ profiles["kamperemprzezswiat"] = {
 "name": "Kamperem przez Świat",
 "snapshots": [
 	[1702960206,2940,208,14.13,null,null],
+	[1703046559,6780,201,33.73,null,null],
 ]};

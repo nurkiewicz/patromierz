@@ -4,4 +4,5 @@ profiles["SYGART"] = {
 "snapshots": [
 	[1702887012,50,4,12.5,null,null],
 	[1702973279,610,51,11.96,null,null],
+	[1703059559,730,11,66.36,null,null],
 ]};

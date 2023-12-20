@@ -4,4 +4,5 @@ profiles["PanTutaj"] = {
 "snapshots": [
 	[1702880891,8095,225,35.97,null,null],
 	[1702967203,8105,1946,4.16,null,null],
+	[1703053503,720,25,28.8,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["sedanscreation"] = {
 "snapshots": [
 	[1702885366,50,4,12.5,null,null],
 	[1702971642,610,51,11.96,null,null],
+	[1703057928,3220,196,16.42,null,null],
 ]};

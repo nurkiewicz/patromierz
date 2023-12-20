@@ -4,4 +4,5 @@ profiles["rekomisie"] = {
 "snapshots": [
 	[1702884544,701,24,29.2,null,null],
 	[1702970835,730,11,66.36,null,null],
+	[1703057129,550,34,16.17,null,null],
 ]};

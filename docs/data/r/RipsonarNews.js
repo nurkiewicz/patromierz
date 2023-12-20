@@ -4,4 +4,5 @@ profiles["RipsonarNews"] = {
 "snapshots": [
 	[1702884650,1540,71,21.69,null,null],
 	[1702970941,6780,202,33.56,null,null],
+	[1703057233,1480,70,21.14,null,null],
 ]};

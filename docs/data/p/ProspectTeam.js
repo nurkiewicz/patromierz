@@ -4,4 +4,5 @@ profiles["ProspectTeam"] = {
 "snapshots": [
 	[1702883625,1615,54,29.9,null,null],
 	[1702969919,1305,41,31.82,null,null],
+	[1703056217,1930,76,25.39,null,null],
 ]};

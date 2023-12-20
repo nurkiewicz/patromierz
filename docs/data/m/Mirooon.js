@@ -126,4 +126,5 @@ profiles["Mirooon"] = {
 	[1676625950,null,1,null,50,null],
 	[1676710167,null,1,null,50,null],
 	[1702964444,6780,null,null,50,21.0],
+	[1703050756,6780,null,null,50,21.0],
 ]};

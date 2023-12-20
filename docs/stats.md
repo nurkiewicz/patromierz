@@ -19,51 +19,48 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/pawbeats.js"></script>
-<script type="text/javascript" src="data/p/Polishboy.js"></script>
-<script type="text/javascript" src="data/r/Rava.js"></script>
-<script type="text/javascript" src="data/m/Mia.js"></script>
-<script type="text/javascript" src="data/r/red.tomasz.js"></script>
-<script type="text/javascript" src="data/r/rete.js"></script>
-<script type="text/javascript" src="data/p/Polinstrumentalista.js"></script>
-<script type="text/javascript" src="data/p/popioltokot.js"></script>
-<script type="text/javascript" src="data/m/MYUS.js"></script>
-<script type="text/javascript" src="data/p/prezenterflesh.js"></script>
-<script type="text/javascript" src="data/r/Rapgra.js"></script>
-<script type="text/javascript" src="data/m/Moscicki.js"></script>
-<script type="text/javascript" src="data/m/mati-muzyka.js"></script>
-<script type="text/javascript" src="data/p/piesapol.js"></script>
-<script type="text/javascript" src="data/r/radioOPOKA.js"></script>
-<script type="text/javascript" src="data/p/piotrmatusik.js"></script>
-<script type="text/javascript" src="data/r/RatwithNut.js"></script>
-<script type="text/javascript" src="data/p/Projektwesele.js"></script>
-<script type="text/javascript" src="data/m/Matias.js"></script>
-<script type="text/javascript" src="data/p/praktycznapani.js"></script>
-<script type="text/javascript" src="data/m/Mesney6.js"></script>
-<script type="text/javascript" src="data/p/Pokolenia.js"></script>
-<script type="text/javascript" src="data/r/radiorodzina.js"></script>
-<script type="text/javascript" src="data/p/portroyalcrew.js"></script>
-<script type="text/javascript" src="data/m/MTN12Matys.js"></script>
-<script type="text/javascript" src="data/p/PODPRAD.js"></script>
-<script type="text/javascript" src="data/r/revenwood.js"></script>
-<script type="text/javascript" src="data/r/refaktor.js"></script>
-<script type="text/javascript" src="data/p/PRmovies.js"></script>
-<script type="text/javascript" src="data/p/pawelskiba.js"></script>
-<script type="text/javascript" src="data/p/piotrakowski.js"></script>
 <script type="text/javascript" src="data/m/MonAmi.js"></script>
-<script type="text/javascript" src="data/p/pstykdj.js"></script>
+<script type="text/javascript" src="data/t/tygodnikpodlasianin.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/m/Moscicki.js"></script>
+<script type="text/javascript" src="data/t/Taxizlotowa.js"></script>
+<script type="text/javascript" src="data/t/tarocistadariusz.js"></script>
+<script type="text/javascript" src="data/t/terrarystaterra.js"></script>
+<script type="text/javascript" src="data/s/szukacz.js"></script>
+<script type="text/javascript" src="data/s/swiatmoichzwierzat.js"></script>
+<script type="text/javascript" src="data/m/MTN12Matys.js"></script>
+<script type="text/javascript" src="data/s/SWAGTV.js"></script>
+<script type="text/javascript" src="data/e/edymek.js"></script>
+<script type="text/javascript" src="data/s/szkodagadac.js"></script>
+<script type="text/javascript" src="data/s/swiatgosi.js"></script>
+<script type="text/javascript" src="data/s/sliski.js"></script>
+<script type="text/javascript" src="data/m/Mia.js"></script>
+<script type="text/javascript" src="data/u/UnaxRecencje.js"></script>
+<script type="text/javascript" src="data/t/Tramadolihydrochlor.js"></script>
+<script type="text/javascript" src="data/s/szostyzmysl.js"></script>
+<script type="text/javascript" src="data/s/SuperPies_DogTeacher.js"></script>
+<script type="text/javascript" src="data/t/tucholski.js"></script>
+<script type="text/javascript" src="data/m/Mostecjuszka.js"></script>
+<script type="text/javascript" src="data/s/SerafinTV.js"></script>
+<script type="text/javascript" src="data/s/smashit.js"></script>
 <script type="text/javascript" src="data/m/MPWRecords.js"></script>
-<script type="text/javascript" src="data/p/PiataStronaSwiata.js"></script>
+<script type="text/javascript" src="data/s/Sohayo.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/m/Mesney6.js"></script>
+<script type="text/javascript" src="data/s/Shoomi.js"></script>
+<script type="text/javascript" src="data/s/siostry_od_nieruchomosci.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/MYUS.js"></script>
+<script type="text/javascript" src="data/t/TheMyśliciel.js"></script>
 <script type="text/javascript" src="data/m/MidzGarrot.js"></script>
-<script type="text/javascript" src="data/p/PawełMelnarowicz.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Maciej Smoluch", -54250], ["Mati", -54250], ["MPW Records", -52850], ["MTN12/Matys", -52850], ["MYUS", -52850], ["Mesney6", -52850], ["Mia", -52850], ["Michal Sapiński", -52850], ["MonAmi", -52850], ["Mariusz Moscicki", -52850], ["Port Royal", 877993], ["Praktyczna Pani", 877993], ["Prezenter Flesh", 877993], ["Pstyktodj", 877993], ["radioOPOKA", 877993], ["Katolickie Radio Rodzina", 877993], ["red.tomasz", 877993], ["Refaktor", 877993], ["Rete", 877993], ["Ronald Evenwood (The RE Works)", 878013]], 'largest_changes');
+            drawHorizontal([["Tobiasz Nowakowski", -55079], ["MPW Records", -54260], ["MTN12/Matys", -54260], ["MYUS", -54260], ["Mesney6", -54260], ["Mia", -54260], ["Michal Sapiński", -54260], ["MonAmi", -54260], ["Mariusz Moscicki", -54260], ["Karolina Szary", -54260], ["Szkoda Gadać", 103760], ["Szósty Zmysł Tarot", 103760], ["SZUKACZ", 103760], ["Tarocista Dariusz", 103760], ["Terrarysta Terra", 103760], ["The Myśliciel", 104580], ["Tramadolihydrochlor", 104580], ["Unax Recenzje", 104580], ["Andrzej Tucholski", 104580], ["Tygodnik Podlasianin", 104580]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['PawełMelnarowicz','PiataStronaSwiata','Pokolenia','Polinstrumentalista','Polishboy','Projektwesele','Rapgra','RatwithNut','Rava','pawbeats','pawelskiba','piesapol','piotrakowski','piotrmatusik','popioltokot','portroyalcrew','praktycznapani','prezenterflesh','pstykdj','radioOPOKA'], 
+                    ['DariuszRosiak','SWAGTV','SerafinTV','Shoomi','Sohayo','SuperPies_DogTeacher','Taxizlotowa','TheMyśliciel','Tramadolihydrochlor','UnaxRecencje','siostry_od_nieruchomosci','sliski','smashit','swiatgosi','swiatmoichzwierzat','szkodagadac','szostyzmysl','szukacz','tarocistadariusz','terrarystaterra'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

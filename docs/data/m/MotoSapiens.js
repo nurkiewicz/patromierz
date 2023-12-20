@@ -563,4 +563,5 @@ profiles["MotoSapiens"] = {
 	[1702791982,null,25,null,null,null],
 	[1702878579,null,25,null,null,null],
 	[1702964897,27080,25,1083.2,null,null],
+	[1703051211,13175,25,527.0,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["pandolarWOT"] = {
 "snapshots": [
 	[1702880759,8095,225,35.97,null,null],
 	[1702967073,8105,1946,4.16,null,null],
+	[1703053368,720,25,28.8,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["truemom"] = {
 "snapshots": [
 	[1702888414,1540,71,21.69,null,null],
 	[1702974685,550,34,16.17,null,null],
+	[1703060942,25,3,8.33,null,null],
 ]};

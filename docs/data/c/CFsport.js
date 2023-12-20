@@ -3,4 +3,5 @@ profiles["CFsport"] = {
 "name": "CFsport",
 "snapshots": [
 	[1702953714,260,2,130.0,null,null],
+	[1703040106,90,218,0.41,null,null],
 ]};

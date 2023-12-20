@@ -3,4 +3,5 @@ profiles["kulturanacodzien"] = {
 "name": "Kultura na co dzień",
 "snapshots": [
 	[1702961861,1540,71,21.69,null,null],
+	[1703048212,6780,201,33.73,null,null],
 ]};

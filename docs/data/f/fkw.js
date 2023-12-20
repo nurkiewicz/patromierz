@@ -3,4 +3,5 @@ profiles["fkw"] = {
 "name": "Przywracamy pamięć o Żołnierzach Wyklętych",
 "snapshots": [
 	[1702956595,1540,71,21.69,null,null],
+	[1703042969,1805,58,31.12,null,null],
 ]};

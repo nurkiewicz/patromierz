@@ -4,4 +4,5 @@ profiles["SmacznyZdrowy"] = {
 "snapshots": [
 	[1702885945,2940,208,14.13,null,null],
 	[1702972219,1530,70,21.85,null,null],
+	[1703058506,1480,16,92.5,null,null],
 ]};

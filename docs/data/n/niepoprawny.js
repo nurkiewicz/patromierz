@@ -4,4 +4,5 @@ profiles["niepoprawny"] = {
 "snapshots": [
 	[1702879631,1152,47,24.51,null,null],
 	[1702965945,2515,143,17.58,null,null],
+	[1703052250,1530,70,21.85,null,null],
 ]};

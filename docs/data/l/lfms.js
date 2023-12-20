@@ -3,4 +3,5 @@ profiles["lfms"] = {
 "name": "ŁFMS",
 "snapshots": [
 	[1702962334,427,16,26.68,null,null],
+	[1703048687,11900,686,17.34,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["prondzyn"] = {
 "snapshots": [
 	[1702883598,1540,71,21.69,null,null],
 	[1702969892,6780,202,33.56,null,null],
+	[1703056189,550,34,16.17,null,null],
 ]};

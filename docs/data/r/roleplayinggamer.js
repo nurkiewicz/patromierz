@@ -4,4 +4,5 @@ profiles["roleplayinggamer"] = {
 "snapshots": [
 	[1702884792,17900,790,22.65,null,null],
 	[1702971080,1277,43,29.69,null,null],
+	[1703057371,6130,289,21.21,null,null],
 ]};

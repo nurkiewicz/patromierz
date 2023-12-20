@@ -4,4 +4,5 @@ profiles["www.estryszek.pl"] = {
 "snapshots": [
 	[1702890246,2940,208,14.13,null,null],
 	[1702976507,380,20,19.0,null,null],
+	[1703062741,2930,208,14.08,null,null],
 ]};

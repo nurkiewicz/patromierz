@@ -3,4 +3,5 @@ profiles["Bauaser"] = {
 "name": "Mroczne wieki",
 "snapshots": [
 	[1702952632,1305,41,31.82,null,null],
+	[1703039032,7200,139,51.79,null,null],
 ]};

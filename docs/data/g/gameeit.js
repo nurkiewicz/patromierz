@@ -3,4 +3,5 @@ profiles["gameeit"] = {
 "name": "Redakcja Gameeit",
 "snapshots": [
 	[1702957552,2515,143,17.58,null,null],
+	[1703043923,1152,47,24.51,null,null],
 ]};

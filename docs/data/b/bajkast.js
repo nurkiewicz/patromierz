@@ -412,4 +412,5 @@ profiles["bajkast"] = {
 	[1702779484,null,7,null,null,null],
 	[1702866000,null,7,null,null,null],
 	[1702952390,1305,7,186.42,null,null],
+	[1703038790,7200,7,1028.57,null,null],
 ]};

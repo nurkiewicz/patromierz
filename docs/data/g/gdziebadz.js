@@ -668,4 +668,5 @@ profiles["gdziebadz"] = {
 	[1702784697,null,30,null,null,null],
 	[1702871279,null,30,null,null,null],
 	[1702957637,3200,30,106.66,null,null],
+	[1703044006,3220,30,107.33,null,null],
 ]};

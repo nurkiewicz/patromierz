@@ -484,4 +484,5 @@ profiles["slodkipomysl"] = {
 	[1693373127,null,7,null,null,null],
 	[1702885890,2940,208,14.13,null,null],
 	[1702972165,1545,20,77.25,null,null],
+	[1703058450,2515,143,17.58,null,null],
 ]};

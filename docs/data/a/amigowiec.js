@@ -239,4 +239,5 @@ profiles["amigowiec"] = {
 	[1670039782,null,15,null,null,null],
 	[1670126122,null,15,null,null,null],
 	[1702951421,2515,143,17.58,null,null],
+	[1703037829,525,1947,0.26,null,null],
 ]};

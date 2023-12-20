@@ -3,4 +3,5 @@ profiles["graszkipl"] = {
 "name": "Graszki.pl",
 "snapshots": [
 	[1702958064,2515,143,17.58,null,null],
+	[1703044430,1152,47,24.51,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["fit_aga"] = {
 "name": "fit_aga",
 "snapshots": [
 	[1702956549,90,3,30.0,null,null],
+	[1703042923,90,218,0.41,null,null],
 ]};

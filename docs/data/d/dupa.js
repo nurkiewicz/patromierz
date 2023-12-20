@@ -3,4 +3,5 @@ profiles["dupa"] = {
 "name": "Dumne Ugrupowanie Pisarzy Absurdu",
 "snapshots": [
 	[1702955504,2120,56,37.85,null,null],
+	[1703041885,13175,692,19.03,null,null],
 ]};

@@ -630,4 +630,5 @@ profiles["madziabohohoho"] = {
 	[1702790044,null,28,null,null,null],
 	[1702876612,null,28,null,null,null],
 	[1702962944,4320,28,154.28,null,null],
+	[1703049284,2515,28,89.82,null,null],
 ]};

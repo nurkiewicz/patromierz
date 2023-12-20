@@ -4,4 +4,5 @@ profiles["schroniskomedor"] = {
 "snapshots": [
 	[1702885290,1540,71,21.69,null,null],
 	[1702971568,6780,202,33.56,null,null],
+	[1703057854,1480,70,21.14,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["reporterzysamozwancy"] = {
 "snapshots": [
 	[1702884584,2515,144,17.46,null,null],
 	[1702970875,2515,143,17.58,null,null],
+	[1703057168,2120,56,37.85,null,null],
 ]};

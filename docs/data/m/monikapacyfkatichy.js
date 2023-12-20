@@ -563,4 +563,5 @@ profiles["monikapacyfkatichy"] = {
 	[1702791887,null,11,null,null,null],
 	[1702878484,null,11,null,null,null],
 	[1702964803,6145,10,614.5,null,null],
+	[1703051118,1277,10,127.7,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["rudazwyboru"] = {
 "snapshots": [
 	[1702884942,17900,790,22.65,null,null],
 	[1702971223,1305,41,31.82,null,null],
+	[1703057513,4300,202,21.28,null,null],
 ]};

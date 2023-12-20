@@ -4,4 +4,5 @@ profiles["pitdadson"] = {
 "snapshots": [
 	[1702881707,2330,18,129.44,null,null],
 	[1702968017,90,218,0.41,null,null],
+	[1703054310,1445,218,6.62,null,null],
 ]};

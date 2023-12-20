@@ -4,4 +4,5 @@ profiles["petrolheart.pl"] = {
 "snapshots": [
 	[1702881378,11725,435,26.95,null,null],
 	[1702967691,11675,435,26.83,null,null],
+	[1703053987,427,16,26.68,null,null],
 ]};

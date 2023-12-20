@@ -3,4 +3,5 @@ profiles["fpptemida"] = {
 "name": "Fundacja Pomocy Prawnej \"Temida\"",
 "snapshots": [
 	[1702956810,1540,71,21.69,null,null],
+	[1703043183,1805,58,31.12,null,null],
 ]};

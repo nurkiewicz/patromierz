@@ -4,4 +4,5 @@ profiles["scianizm"] = {
 "snapshots": [
 	[1702885301,1615,54,29.9,null,null],
 	[1702971578,550,34,16.17,null,null],
+	[1703057865,1305,41,31.82,null,null],
 ]};

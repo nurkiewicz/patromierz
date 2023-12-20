@@ -4,4 +4,5 @@ profiles["trybunludowy"] = {
 "snapshots": [
 	[1702888424,2940,208,14.13,null,null],
 	[1702974694,2940,208,14.13,null,null],
+	[1703060952,2930,208,14.08,null,null],
 ]};

@@ -332,4 +332,5 @@ profiles["subiektywnoobiektywny"] = {
 	[1672664719,80,null,null,null,null],
 	[1702886819,null,208,null,80,null],
 	[1702973088,null,208,null,80,null],
+	[1703059369,null,208,null,80,null],
 ]};

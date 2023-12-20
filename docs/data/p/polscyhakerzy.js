@@ -4,4 +4,5 @@ profiles["polscyhakerzy"] = {
 "snapshots": [
 	[1702882289,2940,208,14.13,null,null],
 	[1702968596,2940,208,14.13,null,null],
+	[1703054904,2120,56,37.85,null,null],
 ]};

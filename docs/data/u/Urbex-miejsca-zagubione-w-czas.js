@@ -4,4 +4,5 @@ profiles["Urbex-miejsca-zagubione-w-czas"] = {
 "snapshots": [
 	[1702888803,11725,680,17.24,null,null],
 	[1702975073,18400,818,22.49,null,null],
+	[1703061324,2165,89,24.32,null,null],
 ]};

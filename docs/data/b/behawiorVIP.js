@@ -567,4 +567,5 @@ profiles["behawiorVIP"] = {
 	[1702779810,null,25,null,null,null],
 	[1702866328,null,23,null,null,null],
 	[1702952723,2515,23,109.34,null,null],
+	[1703039119,1530,23,66.52,null,null],
 ]};

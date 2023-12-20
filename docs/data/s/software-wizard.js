@@ -4,4 +4,5 @@ profiles["software-wizard"] = {
 "snapshots": [
 	[1702886089,2940,208,14.13,null,null],
 	[1702972364,2940,208,14.13,null,null],
+	[1703058649,400,20,20.0,null,null],
 ]};

@@ -632,4 +632,5 @@ profiles["WojnawKolorze"] = {
 	[1702803281,null,81,null,null,null],
 	[1702889899,2165,81,26.72,null,null],
 	[1702976164,550,82,6.7,null,null],
+	[1703062397,550,83,6.62,null,null],
 ]};

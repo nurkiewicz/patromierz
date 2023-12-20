@@ -3,4 +3,5 @@ profiles["hrap"] = {
 "name": "Hokejowa Reprezentacja Artystów Polskich",
 "snapshots": [
 	[1702958769,90,3,30.0,null,null],
+	[1703045133,260,218,1.19,null,null],
 ]};

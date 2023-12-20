@@ -4,4 +4,5 @@ profiles["tajemnicemitologii"] = {
 "snapshots": [
 	[1702887469,2165,90,24.05,null,null],
 	[1702973735,550,34,16.17,null,null],
+	[1703060010,1480,70,21.14,null,null],
 ]};

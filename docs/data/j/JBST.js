@@ -3,4 +3,5 @@ profiles["JBST"] = {
 "name": "Johnny Black - żeglarstwo dla wszystkich. Mistrzostwa Polski podopiecznych domów dziecka",
 "snapshots": [
 	[1702959655,90,3,30.0,null,null],
+	[1703046022,260,218,1.19,null,null],
 ]};

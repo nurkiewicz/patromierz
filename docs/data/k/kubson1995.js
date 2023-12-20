@@ -3,4 +3,5 @@ profiles["kubson1995"] = {
 "name": "Jakub Lotycz",
 "snapshots": [
 	[1702961798,2940,208,14.13,null,null],
+	[1703048149,6780,201,33.73,null,null],
 ]};

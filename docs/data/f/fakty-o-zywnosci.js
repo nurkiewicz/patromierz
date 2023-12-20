@@ -3,4 +3,5 @@ profiles["fakty-o-zywnosci"] = {
 "name": "Fakty o żywności",
 "snapshots": [
 	[1702956268,1540,71,21.69,null,null],
+	[1703042645,1805,58,31.12,null,null],
 ]};

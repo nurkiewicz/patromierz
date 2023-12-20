@@ -4,4 +4,5 @@ profiles["stary_wspanialy_swiat"] = {
 "snapshots": [
 	[1702886526,6145,290,21.18,null,null],
 	[1702972795,1277,43,29.69,null,null],
+	[1703059079,6130,289,21.21,null,null],
 ]};

@@ -106,4 +106,5 @@ profiles["KamilInvest"] = {
 	[1702787277,null,119,null,null,null],
 	[1702873838,null,119,null,null,null],
 	[1702960176,2940,118,24.91,null,null],
+	[1703046531,2120,117,18.11,null,null],
 ]};

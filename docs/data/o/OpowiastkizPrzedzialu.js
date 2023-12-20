@@ -4,4 +4,5 @@ profiles["OpowiastkizPrzedzialu"] = {
 "snapshots": [
 	[1702880436,1540,71,21.69,null,null],
 	[1702966750,730,11,66.36,null,null],
+	[1703053047,550,34,16.17,null,null],
 ]};

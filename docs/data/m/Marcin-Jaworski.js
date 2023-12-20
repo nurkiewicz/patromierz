@@ -632,4 +632,5 @@ profiles["Marcin-Jaworski"] = {
 	[1702790386,null,187,null,null,null],
 	[1702876960,null,186,null,null,null],
 	[1702963289,2515,186,13.52,null,null],
+	[1703049627,55775,188,296.67,null,null],
 ]};

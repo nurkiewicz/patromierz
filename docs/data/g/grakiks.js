@@ -567,4 +567,5 @@ profiles["grakiks"] = {
 	[1702785085,null,5,null,null,null],
 	[1702871671,null,5,null,null,null],
 	[1702958022,2515,5,503.0,null,null],
+	[1703044389,1152,5,230.4,null,null],
 ]};

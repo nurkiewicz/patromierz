@@ -4,4 +4,5 @@ profiles["rebelian"] = {
 "snapshots": [
 	[1702884481,2940,208,14.13,null,null],
 	[1702970772,400,20,20.0,null,null],
+	[1703057065,1152,47,24.51,null,null],
 ]};

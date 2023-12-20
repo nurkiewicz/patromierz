@@ -4,4 +4,5 @@ profiles["Piekneogrody"] = {
 "snapshots": [
 	[1702881455,13674,467,29.28,null,null],
 	[1702967768,21186,763,27.76,null,null],
+	[1703054063,6780,201,33.73,null,null],
 ]};

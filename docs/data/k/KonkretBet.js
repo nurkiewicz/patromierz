@@ -3,4 +3,5 @@ profiles["KonkretBet"] = {
 "name": "KonkretBet",
 "snapshots": [
 	[1702961120,427,16,26.68,null,null],
+	[1703047472,11900,686,17.34,null,null],
 ]};

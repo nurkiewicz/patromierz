@@ -4,4 +4,5 @@ profiles["Rygielsfx"] = {
 "snapshots": [
 	[1702884997,701,24,29.2,null,null],
 	[1702971277,730,11,66.36,null,null],
+	[1703057567,550,34,16.17,null,null],
 ]};

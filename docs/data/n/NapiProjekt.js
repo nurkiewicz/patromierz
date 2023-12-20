@@ -486,4 +486,5 @@ profiles["NapiProjekt"] = {
 	[1702792558,null,2,null,null,null],
 	[1702879159,null,2,null,null,null],
 	[1702965476,6780,2,3390.0,null,null],
+	[1703051783,6780,2,3390.0,null,null],
 ]};

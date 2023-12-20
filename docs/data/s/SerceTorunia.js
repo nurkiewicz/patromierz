@@ -4,4 +4,5 @@ profiles["SerceTorunia"] = {
 "snapshots": [
 	[1702885452,2330,18,129.44,null,null],
 	[1702971728,2330,18,129.44,null,null],
+	[1703058014,1480,70,21.14,null,null],
 ]};

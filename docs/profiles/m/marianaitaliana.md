@@ -1,5 +1,5 @@
 ---
-title: Marianaitaliana | Patromierz
+title: Marianaitaliana | Statystyki patronite.pl | Patromierz
 
 permalink: /marianaitaliana
 ---

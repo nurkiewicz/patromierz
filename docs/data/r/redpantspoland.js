@@ -4,4 +4,5 @@ profiles["redpantspoland"] = {
 "snapshots": [
 	[1702884508,2515,144,17.46,null,null],
 	[1702970798,2515,143,17.58,null,null],
+	[1703057091,2120,56,37.85,null,null],
 ]};

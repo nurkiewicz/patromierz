@@ -4,4 +4,5 @@ profiles["slgaming"] = {
 "snapshots": [
 	[1702885872,2940,208,14.13,null,null],
 	[1702972148,400,20,20.0,null,null],
+	[1703058433,550,34,16.17,null,null],
 ]};

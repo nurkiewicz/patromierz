@@ -4,4 +4,5 @@ profiles["tadychfoto"] = {
 "snapshots": [
 	[1702887452,550,34,16.17,null,null],
 	[1702973718,550,34,16.17,null,null],
+	[1703059993,1305,41,31.82,null,null],
 ]};

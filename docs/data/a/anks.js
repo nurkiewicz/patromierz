@@ -570,4 +570,5 @@ profiles["anks"] = {
 	[1702778738,null,377,null,null,null],
 	[1702865243,null,375,null,null,null],
 	[1702951640,4320,373,11.58,null,null],
+	[1703038047,13580,375,36.21,null,null],
 ]};

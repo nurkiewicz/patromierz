@@ -4,4 +4,5 @@ profiles["PWMediaFactory"] = {
 "snapshots": [
 	[1702884023,2515,144,17.46,null,null],
 	[1702970316,2515,143,17.58,null,null],
+	[1703056613,6780,201,33.73,null,null],
 ]};

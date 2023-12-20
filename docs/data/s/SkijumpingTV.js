@@ -4,4 +4,5 @@ profiles["SkijumpingTV"] = {
 "snapshots": [
 	[1702885734,17900,790,22.65,null,null],
 	[1702972009,1305,41,31.82,null,null],
+	[1703058296,4300,202,21.28,null,null],
 ]};

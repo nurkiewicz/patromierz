@@ -20,4 +20,5 @@ profiles["Irracja"] = {
 	[1702786331,20,null,null,null,null],
 	[1702872884,20,null,null,null,null],
 	[1702959224,20,290,0.06,null,null],
+	[1703045589,20,43,0.46,null,null],
 ]};

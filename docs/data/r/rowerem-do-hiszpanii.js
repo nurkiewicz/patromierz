@@ -4,4 +4,5 @@ profiles["rowerem-do-hiszpanii"] = {
 "snapshots": [
 	[1702884851,17900,790,22.65,null,null],
 	[1702971132,1305,41,31.82,null,null],
+	[1703057423,4300,202,21.28,null,null],
 ]};

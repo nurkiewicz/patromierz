@@ -1,5 +1,5 @@
 ---
-title: Mystery Hunters | Patromierz
+title: Mystery Hunters | Statystyki patronite.pl | Patromierz
 
 permalink: /MysteryHunters
 ---

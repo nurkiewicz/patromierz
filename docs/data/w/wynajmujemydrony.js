@@ -3,4 +3,5 @@ profiles["wynajmujemydrony"] = {
 "name": "Wynajmujemydrony.pl",
 "snapshots": [
 	[1702890564,6780,203,33.39,null,null],
+	[1703063051,2883,56,51.48,null,null],
 ]};

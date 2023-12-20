@@ -575,4 +575,5 @@ profiles["mellfalls"] = {
 	[1702791023,null,6,null,null,null],
 	[1702877600,null,6,null,null,null],
 	[1702963924,720,6,120.0,null,null],
+	[1703050252,25,6,4.16,null,null],
 ]};

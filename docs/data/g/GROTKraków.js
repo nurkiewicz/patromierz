@@ -3,4 +3,5 @@ profiles["GROTKraków"] = {
 "name": "GROT Kraków",
 "snapshots": [
 	[1702958128,3200,195,16.41,null,null],
+	[1703044496,3220,196,16.42,null,null],
 ]};

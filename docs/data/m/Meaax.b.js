@@ -141,4 +141,5 @@ profiles["Meaax.b"] = {
 	[1702790958,null,141,null,null,null],
 	[1702877535,null,142,null,null,null],
 	[1702963860,2515,141,17.83,null,null],
+	[1703050186,55775,142,392.78,null,null],
 ]};

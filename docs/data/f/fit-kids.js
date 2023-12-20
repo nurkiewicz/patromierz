@@ -3,4 +3,5 @@ profiles["fit-kids"] = {
 "name": "Fit-Kids Centrum Aktywnego Dziecka",
 "snapshots": [
 	[1702956546,90,3,30.0,null,null],
+	[1703042921,90,218,0.41,null,null],
 ]};

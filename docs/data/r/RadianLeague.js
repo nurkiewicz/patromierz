@@ -4,4 +4,5 @@ profiles["RadianLeague"] = {
 "snapshots": [
 	[1702884135,2940,208,14.13,null,null],
 	[1702970428,8105,1946,4.16,null,null],
+	[1703056724,1152,47,24.51,null,null],
 ]};

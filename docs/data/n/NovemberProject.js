@@ -4,4 +4,5 @@ profiles["NovemberProject"] = {
 "snapshots": [
 	[1702879870,55790,3225,17.29,null,null],
 	[1702966184,2940,208,14.13,null,null],
+	[1703052484,1530,70,21.85,null,null],
 ]};

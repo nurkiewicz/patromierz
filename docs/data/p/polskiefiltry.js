@@ -4,4 +4,5 @@ profiles["polskiefiltry"] = {
 "snapshots": [
 	[1702882330,2940,208,14.13,null,null],
 	[1702968636,2940,208,14.13,null,null],
+	[1703054944,2120,56,37.85,null,null],
 ]};

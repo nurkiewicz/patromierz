@@ -4,4 +4,5 @@ profiles["swiatmoichzwierzat"] = {
 "snapshots": [
 	[1702886933,2940,208,14.13,null,null],
 	[1702973203,21186,763,27.76,null,null],
+	[1703059483,106700,6929,15.39,null,null],
 ]};

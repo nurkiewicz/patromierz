@@ -3,4 +3,5 @@ profiles["wtk"] = {
 "name": "Animalsi Interwencje - dokument o walce przeciwko okrucieństwu i bezlitosnemu traktowaniu zwierząt",
 "snapshots": [
 	[1702890144,6780,203,33.39,null,null],
+	[1703062637,2883,56,51.48,null,null],
 ]};

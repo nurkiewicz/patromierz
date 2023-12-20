@@ -4,4 +4,5 @@ profiles["PrzygodyBombla"] = {
 "snapshots": [
 	[1702883773,17900,790,22.65,null,null],
 	[1702970067,1305,41,31.82,null,null],
+	[1703056364,4300,202,21.28,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["epiccheatmeal"] = {
 "name": "Epic Cheat Meal",
 "snapshots": [
 	[1702955997,260,2,130.0,null,null],
+	[1703042378,90,218,0.41,null,null],
 ]};

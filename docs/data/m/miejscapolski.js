@@ -3,4 +3,5 @@ profiles["miejscapolski"] = {
 "name": "Miejsca Polski",
 "snapshots": [
 	[1702964203,4320,202,21.38,null,null],
+	[1703050520,2515,143,17.58,null,null],
 ]};

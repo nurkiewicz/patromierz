@@ -4,4 +4,5 @@ profiles["vecube"] = {
 "snapshots": [
 	[1702888940,1540,71,21.69,null,null],
 	[1702975211,550,34,16.17,null,null],
+	[1703061458,25,3,8.33,null,null],
 ]};

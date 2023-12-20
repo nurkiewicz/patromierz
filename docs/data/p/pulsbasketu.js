@@ -4,4 +4,5 @@ profiles["pulsbasketu"] = {
 "snapshots": [
 	[1702883987,660,26,25.38,null,null],
 	[1702970282,90,218,0.41,null,null],
+	[1703056578,1445,218,6.62,null,null],
 ]};

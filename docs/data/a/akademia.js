@@ -633,4 +633,5 @@ profiles["akademia"] = {
 	[1702778176,null,13,null,null,null],
 	[1702864677,null,13,null,null,null],
 	[1702951079,2940,13,226.15,null,null],
+	[1703037488,550,15,36.66,null,null],
 ]};

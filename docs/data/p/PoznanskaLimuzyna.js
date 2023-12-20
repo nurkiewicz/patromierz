@@ -4,4 +4,5 @@ profiles["PoznanskaLimuzyna"] = {
 "snapshots": [
 	[1702882591,550,34,16.17,null,null],
 	[1702968895,550,34,16.17,null,null],
+	[1703055200,550,34,16.17,null,null],
 ]};
