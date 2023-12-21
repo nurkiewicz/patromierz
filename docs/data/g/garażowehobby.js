@@ -4,4 +4,5 @@ profiles["garażowehobby"] = {
 "snapshots": [
 	[1702957590,2515,143,17.58,null,null],
 	[1703043960,2120,56,37.85,null,null],
+	[1703130126,11862,522,22.72,null,null],
 ]};

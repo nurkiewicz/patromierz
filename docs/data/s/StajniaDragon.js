@@ -4,4 +4,5 @@ profiles["StajniaDragon"] = {
 "snapshots": [
 	[1702886434,660,26,25.38,null,null],
 	[1703058988,13175,692,19.03,null,null],
+	[1703144941,2515,143,17.58,null,null],
 ]};

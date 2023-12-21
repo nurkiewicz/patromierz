@@ -4,4 +4,5 @@ profiles["Konkubent"] = {
 "snapshots": [
 	[1702961125,1540,71,21.69,null,null],
 	[1703047477,2930,208,14.08,null,null],
+	[1703133590,1480,70,21.14,null,null],
 ]};

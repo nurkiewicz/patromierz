@@ -4,4 +4,5 @@ profiles["FundacjaPilkaNozna"] = {
 "snapshots": [
 	[1702957310,90,3,30.0,null,null],
 	[1703043684,260,218,1.19,null,null],
+	[1703129851,90,3,30.0,null,null],
 ]};

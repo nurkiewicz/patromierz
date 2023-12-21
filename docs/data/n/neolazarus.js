@@ -4,4 +4,5 @@ profiles["neolazarus"] = {
 "snapshots": [
 	[1702879462,2883,56,51.48,null,null],
 	[1703052084,720,25,28.8,null,null],
+	[1703138134,550,34,16.17,null,null],
 ]};

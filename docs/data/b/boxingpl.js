@@ -4,4 +4,5 @@ profiles["boxingpl"] = {
 "snapshots": [
 	[1702953308,260,2,130.0,null,null],
 	[1703039700,418,18,23.22,null,null],
+	[1703125939,90,3,30.0,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["edukacja"] = {
 "snapshots": [
 	[1702955776,550,34,16.17,null,null],
 	[1703042155,8105,1947,4.16,null,null],
+	[1703128350,1152,47,24.51,null,null],
 ]};

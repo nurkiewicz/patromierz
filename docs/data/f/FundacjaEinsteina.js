@@ -4,4 +4,5 @@ profiles["FundacjaEinsteina"] = {
 "snapshots": [
 	[1702957130,1540,71,21.69,null,null],
 	[1703043504,1805,58,31.12,null,null],
+	[1703129675,21207,764,27.75,null,null],
 ]};

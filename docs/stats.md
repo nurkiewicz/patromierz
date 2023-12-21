@@ -19,48 +19,54 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/m/MonAmi.js"></script>
-<script type="text/javascript" src="data/t/tygodnikpodlasianin.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/m/Moscicki.js"></script>
-<script type="text/javascript" src="data/t/Taxizlotowa.js"></script>
-<script type="text/javascript" src="data/t/tarocistadariusz.js"></script>
-<script type="text/javascript" src="data/t/terrarystaterra.js"></script>
-<script type="text/javascript" src="data/s/szukacz.js"></script>
-<script type="text/javascript" src="data/s/swiatmoichzwierzat.js"></script>
-<script type="text/javascript" src="data/m/MTN12Matys.js"></script>
-<script type="text/javascript" src="data/s/SWAGTV.js"></script>
-<script type="text/javascript" src="data/e/edymek.js"></script>
-<script type="text/javascript" src="data/s/szkodagadac.js"></script>
-<script type="text/javascript" src="data/s/swiatgosi.js"></script>
-<script type="text/javascript" src="data/s/sliski.js"></script>
-<script type="text/javascript" src="data/m/Mia.js"></script>
-<script type="text/javascript" src="data/u/UnaxRecencje.js"></script>
-<script type="text/javascript" src="data/t/Tramadolihydrochlor.js"></script>
-<script type="text/javascript" src="data/s/szostyzmysl.js"></script>
-<script type="text/javascript" src="data/s/SuperPies_DogTeacher.js"></script>
-<script type="text/javascript" src="data/t/tucholski.js"></script>
-<script type="text/javascript" src="data/m/Mostecjuszka.js"></script>
-<script type="text/javascript" src="data/s/SerafinTV.js"></script>
-<script type="text/javascript" src="data/s/smashit.js"></script>
-<script type="text/javascript" src="data/m/MPWRecords.js"></script>
-<script type="text/javascript" src="data/s/Sohayo.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/Mesney6.js"></script>
-<script type="text/javascript" src="data/s/Shoomi.js"></script>
-<script type="text/javascript" src="data/s/siostry_od_nieruchomosci.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/m/MYUS.js"></script>
-<script type="text/javascript" src="data/t/TheMyśliciel.js"></script>
+<script type="text/javascript" src="data/7/7zrodel.js"></script>
+<script type="text/javascript" src="data/b/barlogliteracki.js"></script>
+<script type="text/javascript" src="data/b/benevale.pl.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/a/AsiaiHarfa.js"></script>
+<script type="text/javascript" src="data/g/gdziewojsko.js"></script>
+<script type="text/javascript" src="data/g/gajapisze.js"></script>
+<script type="text/javascript" src="data/b/Bauaser.js"></script>
+<script type="text/javascript" src="data/a/AlexRMG.js"></script>
+<script type="text/javascript" src="data/f/FAQRAK.js"></script>
+<script type="text/javascript" src="data/m/Matias.js"></script>
+<script type="text/javascript" src="data/b/BanitaMaxxRadio.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/3/315studio.pl.js"></script>
+<script type="text/javascript" src="data/m/Majka_Rochowiak.js"></script>
 <script type="text/javascript" src="data/m/MidzGarrot.js"></script>
+<script type="text/javascript" src="data/a/Abstrakt.js"></script>
+<script type="text/javascript" src="data/p/Pokolenia.js"></script>
+<script type="text/javascript" src="data/a/Artyfiction.js"></script>
+<script type="text/javascript" src="data/1/126pPartyBike.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/a/Armatki.js"></script>
+<script type="text/javascript" src="data/a/Ailes.js"></script>
+<script type="text/javascript" src="data/p/PRmovies.js"></script>
+<script type="text/javascript" src="data/i/imho-bardzosubiektywnie.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/e/edymek.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/b/Bastetowy.js"></script>
+<script type="text/javascript" src="data/m/Mia.js"></script>
+<script type="text/javascript" src="data/m/Mesney6.js"></script>
+<script type="text/javascript" src="data/a/AvinionDance.js"></script>
+<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/e/emisjatv.js"></script>
+<script type="text/javascript" src="data/i/inkoholiczka.js"></script>
+<script type="text/javascript" src="data/p/PODPRAD.js"></script>
+<script type="text/javascript" src="data/e/EquosDoktrum.js"></script>
+<script type="text/javascript" src="data/b/Baniakbaniaka.js"></script>
+<script type="text/javascript" src="data/b/bdb.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Tobiasz Nowakowski", -55079], ["MPW Records", -54260], ["MTN12/Matys", -54260], ["MYUS", -54260], ["Mesney6", -54260], ["Mia", -54260], ["Michal Sapiński", -54260], ["MonAmi", -54260], ["Mariusz Moscicki", -54260], ["Karolina Szary", -54260], ["Szkoda Gadać", 103760], ["Szósty Zmysł Tarot", 103760], ["SZUKACZ", 103760], ["Tarocista Dariusz", 103760], ["Terrarysta Terra", 103760], ["The Myśliciel", 104580], ["Tramadolihydrochlor", 104580], ["Unax Recenzje", 104580], ["Andrzej Tucholski", 104580], ["Tygodnik Podlasianin", 104580]], 'largest_changes');
+            drawHorizontal([["Mateusz Tkocz", -54628], ["Tobiasz Nowakowski", -54628], ["eMisjaTv", -54628], ["Maciej Smoluch", -54310], ["Mesney6", -54310], ["Mia", -54310], ["Michal Sapiński", -54310], ["POD PRĄD", -54310], ["PR Movies", -54310], ["Grupa Folklorystyczna Pokolenia", -54310], ["Katarzyna Gajewska GajaPisze.pl", 52880], ["gdziewojsko - Paweł K. Malicki", 52880], ["IMHO - bardzo subiektywnie", 54280], ["Inkoholiczka", 54280], ["Armatki.net", 54515], ["Mroczne wieki", 54515], ["Barłóg Literacki", 54515], ["B.D.Bisha", 54515], ["Bene Vale", 54515], ["Majka Rochowiak", 55225]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','SWAGTV','SerafinTV','Shoomi','Sohayo','SuperPies_DogTeacher','Taxizlotowa','TheMyśliciel','Tramadolihydrochlor','UnaxRecencje','siostry_od_nieruchomosci','sliski','smashit','swiatgosi','swiatmoichzwierzat','szkodagadac','szostyzmysl','szukacz','tarocistadariusz','terrarystaterra'], 
+                    ['DariuszRosiak','DIOZ','langustanapalmie','radiownet','126pPartyBike','315studio.pl','7zrodel','Abstrakt','Ailes','AlexRMG','Armatki','Artyfiction','AsiaiHarfa','AvinionDance','Baniakbaniaka','BanitaMaxxRadio','Bastetowy','Bauaser','Exen','FAQRAK'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

@@ -4,4 +4,5 @@ profiles["KlubKolarstwaWalbrzych"] = {
 "snapshots": [
 	[1702960847,427,16,26.68,null,null],
 	[1703047200,11900,686,17.34,null,null],
+	[1703133317,11862,522,22.72,null,null],
 ]};

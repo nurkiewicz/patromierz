@@ -4,4 +4,5 @@ profiles["bozenakoj"] = {
 "snapshots": [
 	[1702953316,2940,208,14.13,null,null],
 	[1703039709,1530,70,21.85,null,null],
+	[1703125948,3430,135,25.4,null,null],
 ]};

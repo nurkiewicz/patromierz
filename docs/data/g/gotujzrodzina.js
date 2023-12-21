@@ -4,4 +4,5 @@ profiles["gotujzrodzina"] = {
 "snapshots": [
 	[1702957975,1450,20,72.5,null,null],
 	[1703044343,2515,143,17.58,null,null],
+	[1703130505,2515,143,17.58,null,null],
 ]};

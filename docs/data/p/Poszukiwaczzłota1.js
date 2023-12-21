@@ -4,4 +4,5 @@ profiles["Poszukiwaczzłota1"] = {
 "snapshots": [
 	[1702882527,17900,790,22.65,null,null],
 	[1703055137,2930,208,14.08,null,null],
+	[1703141126,2515,143,17.58,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["BiznesSluzbaBogu"] = {
 "snapshots": [
 	[1702952984,2515,143,17.58,null,null],
 	[1703039377,1530,70,21.85,null,null],
+	[1703125623,2960,209,14.16,null,null],
 ]};

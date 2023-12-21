@@ -572,4 +572,5 @@ profiles["blackhatultra"] = {
 	[1702866616,null,303,null,null,null],
 	[1702953011,2940,302,9.73,null,null],
 	[1703039404,1530,302,5.06,null,null],
+	[1703125649,3430,301,11.39,null,null],
 ]};

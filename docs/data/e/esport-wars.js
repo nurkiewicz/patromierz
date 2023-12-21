@@ -4,4 +4,5 @@ profiles["esport-wars"] = {
 "snapshots": [
 	[1702956032,550,34,16.17,null,null],
 	[1703042413,8105,1947,4.16,null,null],
+	[1703128601,1152,47,24.51,null,null],
 ]};

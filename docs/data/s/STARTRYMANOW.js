@@ -4,4 +4,5 @@ profiles["STARTRYMANOW"] = {
 "snapshots": [
 	[1702886521,660,26,25.38,null,null],
 	[1703059074,13175,692,19.03,null,null],
+	[1703145026,2515,143,17.58,null,null],
 ]};

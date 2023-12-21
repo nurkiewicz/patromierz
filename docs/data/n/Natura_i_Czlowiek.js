@@ -4,4 +4,5 @@ profiles["Natura_i_Czlowiek"] = {
 "snapshots": [
 	[1702879308,17900,790,22.65,null,null],
 	[1703051930,2515,143,17.58,null,null],
+	[1703137984,1480,70,21.14,null,null],
 ]};

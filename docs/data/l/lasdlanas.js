@@ -4,4 +4,5 @@ profiles["lasdlanas"] = {
 "snapshots": [
 	[1702962075,1540,71,21.69,null,null],
 	[1703048426,1530,70,21.85,null,null],
+	[1703134528,2960,209,14.16,null,null],
 ]};

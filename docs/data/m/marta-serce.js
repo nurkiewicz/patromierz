@@ -4,4 +4,5 @@ profiles["marta-serce"] = {
 "snapshots": [
 	[1702963541,4320,202,21.38,null,null],
 	[1703049869,2515,143,17.58,null,null],
+	[1703135943,1480,70,21.14,null,null],
 ]};

@@ -634,4 +634,5 @@ profiles["mewawlocie"] = {
 	[1702877682,null,50,null,null,null],
 	[1702964001,4320,51,84.7,null,null],
 	[1703050328,2515,51,49.31,null,null],
+	[1703136394,1480,51,29.01,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["astrohunters"] = {
 "snapshots": [
 	[1702952138,1305,41,31.82,null,null],
 	[1703038541,1305,41,31.82,null,null],
+	[1703124798,1930,76,25.39,null,null],
 ]};

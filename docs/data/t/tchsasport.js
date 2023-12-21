@@ -86,4 +86,5 @@ profiles["tchsasport"] = {
 	[1702887626,27070,6,4511.66,null,null],
 	[1702973891,null,6,null,null,null],
 	[1703060165,13175,6,2195.83,null,null],
+	[1703146109,550,6,91.66,null,null],
 ]};

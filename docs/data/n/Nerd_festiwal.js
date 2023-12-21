@@ -4,4 +4,5 @@ profiles["Nerd_festiwal"] = {
 "snapshots": [
 	[1702965784,400,20,20.0,null,null],
 	[1703052089,720,25,28.8,null,null],
+	[1703138139,95,1944,0.04,null,null],
 ]};

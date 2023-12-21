@@ -4,4 +4,5 @@ profiles["lepiejbiegac-UTMB2018"] = {
 "snapshots": [
 	[1702962230,4320,202,21.38,null,null],
 	[1703048581,2515,143,17.58,null,null],
+	[1703134681,4300,202,21.28,null,null],
 ]};

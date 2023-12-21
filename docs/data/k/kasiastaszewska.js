@@ -551,4 +551,5 @@ profiles["kasiastaszewska"] = {
 	[1702874085,null,1,null,null,null],
 	[1702960422,1540,1,1540.0,null,null],
 	[1703046776,2930,1,2930.0,null,null],
+	[1703132900,1480,1,1480.0,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["DziwnaWojna"] = {
 "snapshots": [
 	[1702955701,1540,71,21.69,null,null],
 	[1703042080,1805,58,31.12,null,null],
+	[1703128277,2515,143,17.58,null,null],
 ]};

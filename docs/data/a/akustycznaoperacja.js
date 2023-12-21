@@ -4,4 +4,5 @@ profiles["akustycznaoperacja"] = {
 "snapshots": [
 	[1702951174,2940,208,14.13,null,null],
 	[1703037583,1530,70,21.85,null,null],
+	[1703123846,55820,3228,17.29,null,null],
 ]};

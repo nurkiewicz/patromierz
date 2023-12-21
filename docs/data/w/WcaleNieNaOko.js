@@ -4,4 +4,5 @@ profiles["WcaleNieNaOko"] = {
 "snapshots": [
 	[1702975625,25,3,8.33,null,null],
 	[1703061868,610,51,11.96,null,null],
+	[1703147812,610,48,12.7,null,null],
 ]};

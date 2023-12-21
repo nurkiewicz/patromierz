@@ -4,4 +4,5 @@ profiles["Gdziejestziółek"] = {
 "snapshots": [
 	[1702957639,3200,195,16.41,null,null],
 	[1703044008,3220,196,16.42,null,null],
+	[1703130174,550,34,16.17,null,null],
 ]};

@@ -5,4 +5,5 @@ profiles["PracowniaPozytywnychMyśli"] = {
 	[1702882634,21282,763,27.89,null,null],
 	[1702968936,701,24,29.2,null,null],
 	[1703055239,50,3,16.66,null,null],
+	[1703141227,2515,143,17.58,null,null],
 ]};

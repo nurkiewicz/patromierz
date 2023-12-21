@@ -4,4 +4,5 @@ profiles["czasnaglebokosci"] = {
 "snapshots": [
 	[1702954351,1305,41,31.82,null,null],
 	[1703040737,7200,139,51.79,null,null],
+	[1703126959,550,34,16.17,null,null],
 ]};

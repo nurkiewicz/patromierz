@@ -4,4 +4,5 @@ profiles["granicaketrzyn"] = {
 "snapshots": [
 	[1702958047,90,3,30.0,null,null],
 	[1703044413,260,218,1.19,null,null],
+	[1703130575,90,3,30.0,null,null],
 ]};

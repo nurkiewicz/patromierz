@@ -484,4 +484,5 @@ profiles["WyprawyKojota"] = {
 	[1687330937,35,null,null,2190,null],
 	[1702890584,null,203,null,2190,null],
 	[1703063070,null,56,null,2190,null],
+	[1703149013,null,143,null,2190,null],
 ]};

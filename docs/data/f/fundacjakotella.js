@@ -4,4 +4,5 @@ profiles["fundacjakotella"] = {
 "snapshots": [
 	[1702957222,2940,208,14.13,null,null],
 	[1703043595,1530,70,21.85,null,null],
+	[1703129763,2960,209,14.16,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["freestylerzsercem"] = {
 "snapshots": [
 	[1702956859,550,34,16.17,null,null],
 	[1703043232,3220,196,16.42,null,null],
+	[1703129409,730,11,66.36,null,null],
 ]};

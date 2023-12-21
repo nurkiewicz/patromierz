@@ -4,4 +4,5 @@ profiles["jedziemyporadosc"] = {
 "snapshots": [
 	[1702959698,4320,202,21.38,null,null],
 	[1703046063,18580,831,22.35,null,null],
+	[1703132195,4300,202,21.28,null,null],
 ]};

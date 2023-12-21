@@ -4,4 +4,5 @@ profiles["kusinakulture"] = {
 "snapshots": [
 	[1702961927,1540,71,21.69,null,null],
 	[1703048279,6780,201,33.73,null,null],
+	[1703134385,1480,70,21.14,null,null],
 ]};

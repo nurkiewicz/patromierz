@@ -4,4 +4,5 @@ profiles["minus1.artspace"] = {
 "snapshots": [
 	[1702878089,2883,56,51.48,null,null],
 	[1703050721,50,3,16.66,null,null],
+	[1703136781,550,34,16.17,null,null],
 ]};

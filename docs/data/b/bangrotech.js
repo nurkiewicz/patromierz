@@ -4,4 +4,5 @@ profiles["bangrotech"] = {
 "snapshots": [
 	[1702952447,550,34,16.17,null,null],
 	[1703038846,525,1947,0.26,null,null],
+	[1703125099,400,20,20.0,null,null],
 ]};

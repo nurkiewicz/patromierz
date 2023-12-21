@@ -4,4 +4,5 @@ profiles["artur_witucki"] = {
 "snapshots": [
 	[1702952012,1455,217,6.7,null,null],
 	[1703038415,418,18,23.22,null,null],
+	[1703124675,90,3,30.0,null,null],
 ]};

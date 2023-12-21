@@ -4,4 +4,5 @@ profiles["liberlandpoland"] = {
 "snapshots": [
 	[1702962348,2940,208,14.13,null,null],
 	[1703048701,6780,201,33.73,null,null],
+	[1703134797,21207,764,27.75,null,null],
 ]};

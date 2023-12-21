@@ -4,4 +4,5 @@ profiles["pilka_na_obcasach"] = {
 "snapshots": [
 	[1702881535,2330,18,129.44,null,null],
 	[1702967846,90,218,0.41,null,null],
+	[1703140153,260,2,130.0,null,null],
 ]};

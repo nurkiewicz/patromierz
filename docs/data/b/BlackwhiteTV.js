@@ -4,4 +4,5 @@ profiles["BlackwhiteTV"] = {
 "snapshots": [
 	[1702953021,550,34,16.17,null,null],
 	[1703039415,8105,1947,4.16,null,null],
+	[1703125659,400,20,20.0,null,null],
 ]};

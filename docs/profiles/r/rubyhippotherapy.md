@@ -1,9 +1,9 @@
 ---
-title: Katarzyna Krawczyk | Statystyki patronite.pl | Patromierz
+title: Ruby Hippotherapy | Statystyki patronite.pl | Patromierz
 
 permalink: /rubyhippotherapy
 ---
 
-# [Katarzyna Krawczyk](https://patronite.pl/rubyhippotherapy)
+# [Ruby Hippotherapy](https://patronite.pl/rubyhippotherapy)
 
 {% include profile.md name="rubyhippotherapy" prefix="r" %}

@@ -4,4 +4,5 @@ profiles["gotujtosam"] = {
 "snapshots": [
 	[1702957973,2515,143,17.58,null,null],
 	[1703044340,2120,56,37.85,null,null],
+	[1703130503,11862,522,22.72,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["Kucharze-BezGranic"] = {
 "snapshots": [
 	[1702961800,550,34,16.17,null,null],
 	[1703048152,550,34,16.17,null,null],
+	[1703134261,2515,143,17.58,null,null],
 ]};

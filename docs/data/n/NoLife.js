@@ -4,4 +4,5 @@ profiles["NoLife"] = {
 "snapshots": [
 	[1702966128,400,20,20.0,null,null],
 	[1703052430,720,25,28.8,null,null],
+	[1703138477,95,1944,0.04,null,null],
 ]};

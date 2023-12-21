@@ -4,4 +4,5 @@ profiles["Jezus_cie_kocha"] = {
 "snapshots": [
 	[1702959761,2940,208,14.13,null,null],
 	[1703046125,2515,143,17.58,null,null],
+	[1703132258,21207,764,27.75,null,null],
 ]};

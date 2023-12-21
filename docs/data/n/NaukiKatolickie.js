@@ -14,4 +14,5 @@ profiles["NaukiKatolickie"] = {
 	[1669258931,null,15417,null,null,null],
 	[1702965679,27080,1303,20.78,null,null],
 	[1703051984,13175,692,19.03,null,null],
+	[1703138037,550,34,16.17,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["belt.sander"] = {
 "snapshots": [
 	[1702952738,2165,90,24.05,null,null],
 	[1703039134,1530,70,21.85,null,null],
+	[1703125383,2960,209,14.16,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["globusnakarku"] = {
 "snapshots": [
 	[1702957823,3200,195,16.41,null,null],
 	[1703044190,3220,196,16.42,null,null],
+	[1703130354,550,34,16.17,null,null],
 ]};

@@ -459,4 +459,5 @@ profiles["KryptoAnalizy"] = {
 	[1702875224,null,248,null,null,null],
 	[1702961550,2940,247,11.9,null,null],
 	[1703047901,2120,246,8.61,null,null],
+	[1703134009,2330,245,9.51,null,null],
 ]};

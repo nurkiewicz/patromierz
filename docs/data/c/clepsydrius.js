@@ -4,4 +4,5 @@ profiles["clepsydrius"] = {
 "snapshots": [
 	[1702954025,2515,143,17.58,null,null],
 	[1703040415,1530,70,21.85,null,null],
+	[1703126639,2960,209,14.16,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["androidpolska"] = {
 "snapshots": [
 	[1702951478,2515,143,17.58,null,null],
 	[1703037885,525,1947,0.26,null,null],
+	[1703124144,400,20,20.0,null,null],
 ]};

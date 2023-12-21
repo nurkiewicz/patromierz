@@ -4,4 +4,5 @@ profiles["na_kuchennym_kobiercu"] = {
 "snapshots": [
 	[1702965339,2515,143,17.58,null,null],
 	[1703051649,1530,70,21.85,null,null],
+	[1703137708,2120,56,37.85,null,null],
 ]};

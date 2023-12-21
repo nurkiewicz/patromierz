@@ -421,4 +421,5 @@ profiles["basiagepert"] = {
 	[1693444016,null,50,null,null,null],
 	[1702952595,1305,41,31.82,null,null],
 	[1703038995,1305,41,31.82,null,null],
+	[1703125246,1930,76,25.39,null,null],
 ]};

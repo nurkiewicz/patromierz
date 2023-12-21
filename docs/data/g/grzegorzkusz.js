@@ -566,4 +566,5 @@ profiles["grzegorzkusz"] = {
 	[1702871888,null,45,null,null,null],
 	[1702958235,1540,45,34.22,null,null],
 	[1703044603,1805,45,40.11,null,null],
+	[1703130760,21207,45,471.26,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["chrupek-asterix"] = {
 "snapshots": [
 	[1702953894,10,1,10.0,null,null],
 	[1703040285,360,29,12.41,null,null],
+	[1703126512,10,1,10.0,null,null],
 ]};

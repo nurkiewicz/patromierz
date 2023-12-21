@@ -4,4 +4,5 @@ profiles["lendakozub"] = {
 "snapshots": [
 	[1702962211,1540,71,21.69,null,null],
 	[1703048562,2930,208,14.08,null,null],
+	[1703134662,1480,70,21.14,null,null],
 ]};

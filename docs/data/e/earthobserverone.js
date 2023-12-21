@@ -4,4 +4,5 @@ profiles["earthobserverone"] = {
 "snapshots": [
 	[1702955729,550,34,16.17,null,null],
 	[1703042109,730,11,66.36,null,null],
+	[1703128304,1480,70,21.14,null,null],
 ]};

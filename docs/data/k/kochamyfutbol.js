@@ -4,4 +4,5 @@ profiles["kochamyfutbol"] = {
 "snapshots": [
 	[1702960934,427,16,26.68,null,null],
 	[1703047287,11900,686,17.34,null,null],
+	[1703133403,11862,522,22.72,null,null],
 ]};

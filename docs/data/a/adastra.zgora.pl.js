@@ -4,4 +4,5 @@ profiles["adastra.zgora.pl"] = {
 "snapshots": [
 	[1702950797,2515,143,17.58,null,null],
 	[1703037203,525,1947,0.26,null,null],
+	[1703123479,400,20,20.0,null,null],
 ]};

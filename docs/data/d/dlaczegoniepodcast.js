@@ -4,4 +4,5 @@ profiles["dlaczegoniepodcast"] = {
 "snapshots": [
 	[1702954955,13565,464,29.23,null,null],
 	[1703041344,701,24,29.2,null,null],
+	[1703127550,1152,47,24.51,null,null],
 ]};

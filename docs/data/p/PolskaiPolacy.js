@@ -4,4 +4,5 @@ profiles["PolskaiPolacy"] = {
 "snapshots": [
 	[1702882303,17900,790,22.65,null,null],
 	[1703054918,2930,208,14.08,null,null],
+	[1703140902,2515,143,17.58,null,null],
 ]};

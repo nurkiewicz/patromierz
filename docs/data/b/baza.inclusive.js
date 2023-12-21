@@ -4,4 +4,5 @@ profiles["baza.inclusive"] = {
 "snapshots": [
 	[1702952650,2940,208,14.13,null,null],
 	[1703039047,1530,70,21.85,null,null],
+	[1703125297,55820,3228,17.29,null,null],
 ]};

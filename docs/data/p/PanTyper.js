@@ -4,4 +4,5 @@ profiles["PanTyper"] = {
 "snapshots": [
 	[1702880893,2330,18,129.44,null,null],
 	[1702967205,260,218,1.19,null,null],
+	[1703139532,260,2,130.0,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["karol-nienartowicz"] = {
 "snapshots": [
 	[1702960291,4320,202,21.38,null,null],
 	[1703046645,18580,831,22.35,null,null],
+	[1703132771,4300,202,21.28,null,null],
 ]};

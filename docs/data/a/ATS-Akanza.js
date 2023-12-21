@@ -4,4 +4,5 @@ profiles["ATS-Akanza"] = {
 "snapshots": [
 	[1702952183,1455,217,6.7,null,null],
 	[1703038586,418,18,23.22,null,null],
+	[1703124842,90,3,30.0,null,null],
 ]};

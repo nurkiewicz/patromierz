@@ -4,4 +4,5 @@ profiles["marzenianaszczycie"] = {
 "snapshots": [
 	[1702963633,4320,202,21.38,null,null],
 	[1703049958,2515,143,17.58,null,null],
+	[1703136032,1480,70,21.14,null,null],
 ]};

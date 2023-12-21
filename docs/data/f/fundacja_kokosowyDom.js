@@ -4,4 +4,5 @@ profiles["fundacja_kokosowyDom"] = {
 "snapshots": [
 	[1702957022,2840,70,40.57,null,null],
 	[1703043394,1530,70,21.85,null,null],
+	[1703129567,1805,58,31.12,null,null],
 ]};

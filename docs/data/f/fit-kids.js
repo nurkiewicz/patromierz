@@ -4,4 +4,5 @@ profiles["fit-kids"] = {
 "snapshots": [
 	[1702956546,90,3,30.0,null,null],
 	[1703042921,90,218,0.41,null,null],
+	[1703129104,90,3,30.0,null,null],
 ]};

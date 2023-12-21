@@ -4,4 +4,5 @@ profiles["piast_info"] = {
 "snapshots": [
 	[1702881431,2330,18,129.44,null,null],
 	[1702967742,90,218,0.41,null,null],
+	[1703140050,260,2,130.0,null,null],
 ]};

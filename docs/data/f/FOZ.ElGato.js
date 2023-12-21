@@ -4,4 +4,5 @@ profiles["FOZ.ElGato"] = {
 "snapshots": [
 	[1702956799,2840,70,40.57,null,null],
 	[1703043173,1530,70,21.85,null,null],
+	[1703129350,1805,58,31.12,null,null],
 ]};

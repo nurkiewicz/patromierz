@@ -4,4 +4,5 @@ profiles["dollsbrandnewlook"] = {
 "snapshots": [
 	[1702955082,1805,58,31.12,null,null],
 	[1703041469,610,51,11.96,null,null],
+	[1703127672,610,48,12.7,null,null],
 ]};

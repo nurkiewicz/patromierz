@@ -4,4 +4,5 @@ profiles["ATVSilesiaQuad"] = {
 "snapshots": [
 	[1702952191,1455,217,6.7,null,null],
 	[1703038593,418,18,23.22,null,null],
+	[1703124850,90,3,30.0,null,null],
 ]};

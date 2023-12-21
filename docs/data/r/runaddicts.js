@@ -4,4 +4,5 @@ profiles["runaddicts"] = {
 "snapshots": [
 	[1702884962,660,26,25.38,null,null],
 	[1703057533,1445,218,6.62,null,null],
+	[1703143497,2515,143,17.58,null,null],
 ]};

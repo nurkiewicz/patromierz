@@ -5,4 +5,5 @@ profiles["www.lukasz-ptaszynski.com"] = {
 	[1702890334,1305,41,31.82,null,null],
 	[1702976596,1930,76,25.39,null,null],
 	[1703062827,1930,76,25.39,null,null],
+	[1703148771,11857,521,22.75,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["slawomirpartyka_com_pl"] = {
 "snapshots": [
 	[1702885851,660,26,25.38,null,null],
 	[1703058412,13175,692,19.03,null,null],
+	[1703144372,2515,143,17.58,null,null],
 ]};

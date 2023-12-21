@@ -4,4 +4,5 @@ profiles["jakdzisiajgramy"] = {
 "snapshots": [
 	[1702959421,90,3,30.0,null,null],
 	[1703045787,260,218,1.19,null,null],
+	[1703131925,11862,522,22.72,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["BartekBokserPL"] = {
 "snapshots": [
 	[1702952510,550,34,16.17,null,null],
 	[1703038909,525,1947,0.26,null,null],
+	[1703125162,400,20,20.0,null,null],
 ]};

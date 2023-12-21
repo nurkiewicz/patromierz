@@ -4,4 +4,5 @@ profiles["megaspacefighter"] = {
 "snapshots": [
 	[1702963912,6780,203,33.39,null,null],
 	[1703050240,6780,201,33.73,null,null],
+	[1703136308,18650,836,22.3,null,null],
 ]};

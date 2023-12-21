@@ -4,4 +4,5 @@ profiles["AnalizyDanych"] = {
 "snapshots": [
 	[1702951447,2515,143,17.58,null,null],
 	[1703037854,1530,70,21.85,null,null],
+	[1703124113,2960,209,14.16,null,null],
 ]};

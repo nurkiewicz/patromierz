@@ -4,4 +4,5 @@ profiles["ignatow-repaint-dolls"] = {
 "snapshots": [
 	[1702958923,610,51,11.96,null,null],
 	[1703045286,610,51,11.96,null,null],
+	[1703131433,2515,143,17.58,null,null],
 ]};

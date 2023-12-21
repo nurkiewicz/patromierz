@@ -4,4 +4,5 @@ profiles["maniekRODZINKA"] = {
 "snapshots": [
 	[1702963250,6780,203,33.39,null,null],
 	[1703049590,6780,201,33.73,null,null],
+	[1703135658,3210,196,16.37,null,null],
 ]};

@@ -4,4 +4,5 @@ profiles["miejscapolski"] = {
 "snapshots": [
 	[1702964203,4320,202,21.38,null,null],
 	[1703050520,2515,143,17.58,null,null],
+	[1703136584,1480,70,21.14,null,null],
 ]};

@@ -154,4 +154,5 @@ profiles["KubaPtasznikZajac"] = {
 	[1702875461,null,45,null,null,null],
 	[1702961782,4320,45,96.0,null,null],
 	[1703048134,18580,45,412.88,null,null],
+	[1703134243,4300,46,93.47,null,null],
 ]};
