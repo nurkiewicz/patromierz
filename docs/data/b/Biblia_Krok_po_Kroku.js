@@ -5,4 +5,5 @@ profiles["Biblia_Krok_po_Kroku"] = {
 	[1702952854,50,3,16.66,null,null],
 	[1703039251,720,25,28.8,null,null],
 	[1703125497,50,3,16.66,null,null],
+	[1703212213,701,24,29.2,null,null],
 ]};

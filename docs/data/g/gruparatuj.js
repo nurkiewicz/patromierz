@@ -4,4 +4,5 @@ profiles["gruparatuj"] = {
 "snapshots": [
 	[1702958174,2940,208,14.13,null,null],
 	[1703044542,13175,692,19.03,null,null],
+	[1703217539,2930,209,14.01,null,null],
 ]};

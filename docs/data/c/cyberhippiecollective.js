@@ -5,4 +5,5 @@ profiles["cyberhippiecollective"] = {
 	[1702954273,550,34,16.17,null,null],
 	[1703040660,8105,1947,4.16,null,null],
 	[1703126882,1152,47,24.51,null,null],
+	[1703213633,7980,219,36.43,null,null],
 ]};

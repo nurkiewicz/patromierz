@@ -626,4 +626,5 @@ profiles["nurkowanie-webinaria"] = {
 	[1702966285,260,34,7.64,null,null],
 	[1703052586,null,34,null,null,null],
 	[1703138630,260,34,7.64,null,null],
+	[1703225660,90,34,2.64,null,null],
 ]};

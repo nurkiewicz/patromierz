@@ -6,4 +6,5 @@ profiles["WeryfikacjaPerfum"] = {
 	[1702975728,701,24,29.2,null,null],
 	[1703061969,720,25,28.8,null,null],
 	[1703147915,730,11,66.36,null,null],
+	[1703235144,95,5,19.0,null,null],
 ]};

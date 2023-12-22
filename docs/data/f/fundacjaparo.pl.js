@@ -4,4 +4,5 @@ profiles["fundacjaparo.pl"] = {
 "snapshots": [
 	[1702957306,550,34,16.17,null,null],
 	[1703043679,13175,692,19.03,null,null],
+	[1703216669,2930,209,14.01,null,null],
 ]};

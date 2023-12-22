@@ -5,4 +5,5 @@ profiles["GrapCoachAcademy"] = {
 	[1702958054,90,3,30.0,null,null],
 	[1703044421,260,218,1.19,null,null],
 	[1703130583,90,3,30.0,null,null],
+	[1703217419,400,20,20.0,null,null],
 ]};

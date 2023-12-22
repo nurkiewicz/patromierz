@@ -67,4 +67,5 @@ profiles["finansowyumysl"] = {
 	[1662434332,null,227,null,null,null],
 	[1702956519,550,34,16.17,null,null],
 	[1703042894,13175,692,19.03,null,null],
+	[1703215881,2930,209,14.01,null,null],
 ]};

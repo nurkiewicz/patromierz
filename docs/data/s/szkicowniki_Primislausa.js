@@ -6,4 +6,5 @@ profiles["szkicowniki_Primislausa"] = {
 	[1702973465,610,51,11.96,null,null],
 	[1703059743,730,11,66.36,null,null],
 	[1703145692,3210,196,16.37,null,null],
+	[1703232876,3210,195,16.46,null,null],
 ]};

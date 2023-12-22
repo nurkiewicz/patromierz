@@ -4,4 +4,5 @@ profiles["nastya-majorette"] = {
 "snapshots": [
 	[1702965519,260,218,1.19,null,null],
 	[1703137881,260,2,130.0,null,null],
+	[1703224891,90,3,30.0,null,null],
 ]};

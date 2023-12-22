@@ -4,4 +4,5 @@ profiles["nikolatancerka-jazz08"] = {
 "snapshots": [
 	[1702966046,260,218,1.19,null,null],
 	[1703138396,260,2,130.0,null,null],
+	[1703225420,90,3,30.0,null,null],
 ]};

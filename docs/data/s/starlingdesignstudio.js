@@ -6,4 +6,5 @@ profiles["starlingdesignstudio"] = {
 	[1702972773,720,25,28.8,null,null],
 	[1703059058,720,25,28.8,null,null],
 	[1703145011,27240,1306,20.85,null,null],
+	[1703232181,730,11,66.36,null,null],
 ]};

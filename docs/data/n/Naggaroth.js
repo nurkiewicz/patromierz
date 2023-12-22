@@ -6,4 +6,5 @@ profiles["Naggaroth"] = {
 	[1702965391,550,null,null,null,null],
 	[1703051699,550,null,null,null,null],
 	[1703137757,2515,null,null,null,null],
+	[1703224764,2938,null,null,null,null],
 ]};

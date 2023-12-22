@@ -6,4 +6,5 @@ profiles["wlasnyspokoj"] = {
 	[1702976060,550,null,null,null,null],
 	[1703062294,550,null,null,null,null],
 	[1703148244,21194,null,null,null,null],
+	[1703235477,6870,null,null,null,null],
 ]};

@@ -6,4 +6,5 @@ profiles["poznanskiprometeusz.pl"] = {
 	[1702968899,4020,213,18.87,null,null],
 	[1703055205,2930,208,14.08,null,null],
 	[1703141193,1480,70,21.14,null,null],
+	[1703228274,2175,90,24.16,null,null],
 ]};

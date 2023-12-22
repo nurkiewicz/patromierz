@@ -4,4 +4,5 @@ profiles["nieobecni"] = {
 "snapshots": [
 	[1702965929,260,218,1.19,null,null],
 	[1703138282,260,2,130.0,null,null],
+	[1703225302,90,3,30.0,null,null],
 ]};

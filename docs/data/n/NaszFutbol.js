@@ -4,4 +4,5 @@ profiles["NaszFutbol"] = {
 "snapshots": [
 	[1702965547,260,218,1.19,null,null],
 	[1703137909,260,2,130.0,null,null],
+	[1703224919,90,3,30.0,null,null],
 ]};

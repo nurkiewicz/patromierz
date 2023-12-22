@@ -19,54 +19,51 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/7/7zrodel.js"></script>
-<script type="text/javascript" src="data/b/barlogliteracki.js"></script>
-<script type="text/javascript" src="data/b/benevale.pl.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/a/AsiaiHarfa.js"></script>
-<script type="text/javascript" src="data/g/gdziewojsko.js"></script>
-<script type="text/javascript" src="data/g/gajapisze.js"></script>
-<script type="text/javascript" src="data/b/Bauaser.js"></script>
-<script type="text/javascript" src="data/a/AlexRMG.js"></script>
-<script type="text/javascript" src="data/f/FAQRAK.js"></script>
-<script type="text/javascript" src="data/m/Matias.js"></script>
-<script type="text/javascript" src="data/b/BanitaMaxxRadio.js"></script>
+<script type="text/javascript" src="data/a/agna28.js"></script>
+<script type="text/javascript" src="data/i/Isos.js"></script>
+<script type="text/javascript" src="data/c/cholernysmakfranzowatejkafki.js"></script>
 <script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/3/315studio.pl.js"></script>
-<script type="text/javascript" src="data/m/Majka_Rochowiak.js"></script>
-<script type="text/javascript" src="data/m/MidzGarrot.js"></script>
-<script type="text/javascript" src="data/a/Abstrakt.js"></script>
-<script type="text/javascript" src="data/p/Pokolenia.js"></script>
-<script type="text/javascript" src="data/a/Artyfiction.js"></script>
-<script type="text/javascript" src="data/1/126pPartyBike.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/a/Armatki.js"></script>
-<script type="text/javascript" src="data/a/Ailes.js"></script>
-<script type="text/javascript" src="data/p/PRmovies.js"></script>
-<script type="text/javascript" src="data/i/imho-bardzosubiektywnie.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/a/akuma-inn.js"></script>
+<script type="text/javascript" src="data/f/fizn.js"></script>
+<script type="text/javascript" src="data/a/agnieszkapatelska.js"></script>
 <script type="text/javascript" src="data/e/edymek.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/b/Bastetowy.js"></script>
-<script type="text/javascript" src="data/m/Mia.js"></script>
-<script type="text/javascript" src="data/m/Mesney6.js"></script>
-<script type="text/javascript" src="data/a/AvinionDance.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/e/emisjatv.js"></script>
-<script type="text/javascript" src="data/i/inkoholiczka.js"></script>
-<script type="text/javascript" src="data/p/PODPRAD.js"></script>
+<script type="text/javascript" src="data/a/anata_no_nioi.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/a/AhmedGoldstein.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/a/agnieszkazielinska.js"></script>
 <script type="text/javascript" src="data/e/EquosDoktrum.js"></script>
-<script type="text/javascript" src="data/b/Baniakbaniaka.js"></script>
-<script type="text/javascript" src="data/b/bdb.js"></script>
+<script type="text/javascript" src="data/p/patronater.js"></script>
+<script type="text/javascript" src="data/p/portal.js"></script>
+<script type="text/javascript" src="data/g/GunTalkMusic.js"></script>
+<script type="text/javascript" src="data/p/powiedzsiostro.js"></script>
+<script type="text/javascript" src="data/g/Garaż-na-Długiej.js"></script>
+<script type="text/javascript" src="data/e/emisjatv.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/i/Izdebski.js"></script>
+<script type="text/javascript" src="data/m/mistrz-klawiatury.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/b/BBBB.js"></script>
+<script type="text/javascript" src="data/a/akirawiktoria.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/f/FlermanFM.js"></script>
+<script type="text/javascript" src="data/f/Freshville.js"></script>
+<script type="text/javascript" src="data/p/PaneleFotowoltaiczne.js"></script>
+<script type="text/javascript" src="data/a/AchTaBeata.js"></script>
+<script type="text/javascript" src="data/a/alisunki.js"></script>
+<script type="text/javascript" src="data/g/Gnatkowski.js"></script>
+<script type="text/javascript" src="data/p/prawicowo.js"></script>
+<script type="text/javascript" src="data/a/Ailes.js"></script>
+<script type="text/javascript" src="data/f/Fprp.js"></script>
+<script type="text/javascript" src="data/m/MPWRecords.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Mateusz Tkocz", -54628], ["Tobiasz Nowakowski", -54628], ["eMisjaTv", -54628], ["Maciej Smoluch", -54310], ["Mesney6", -54310], ["Mia", -54310], ["Michal Sapiński", -54310], ["POD PRĄD", -54310], ["PR Movies", -54310], ["Grupa Folklorystyczna Pokolenia", -54310], ["Katarzyna Gajewska GajaPisze.pl", 52880], ["gdziewojsko - Paweł K. Malicki", 52880], ["IMHO - bardzo subiektywnie", 54280], ["Inkoholiczka", 54280], ["Armatki.net", 54515], ["Mroczne wieki", 54515], ["Barłóg Literacki", 54515], ["B.D.Bisha", 54515], ["Bene Vale", 54515], ["Majka Rochowiak", 55225]], 'largest_changes');
+            drawHorizontal([["Mateusz Tkocz", -55380], ["Tobiasz Nowakowski", -55380], ["eMisjaTv", -55380], ["Grupa Ailes", -55079], ["agna28", -55079], ["RytmyNatury | Agnieszka Patelska-Rabenda", -55079], ["Agnieszka Zielińska", -55079], ["AKira - Wiktoria Poriazow", -55079], ["Mistrz Klawiatury", -53260], ["MPW Records", -52860], ["Akuma-Inn", 52605], ["Alisunki", 52605], ["Anata no nioi", 52605], ["Fundacja im. Zygmunta Noskowskiego", 52865], ["Tomasz Sebastian", 52885], ["Portal", 52885], ["Powiedz, Siostro", 52885], ["Prawicowo.pl", 52885], ["berrbwvwbv", 52922], ["Inicjatywa Oddojna", 52922]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','DIOZ','langustanapalmie','radiownet','126pPartyBike','315studio.pl','7zrodel','Abstrakt','Ailes','AlexRMG','Armatki','Artyfiction','AsiaiHarfa','AvinionDance','Baniakbaniaka','BanitaMaxxRadio','Bastetowy','Bauaser','Exen','FAQRAK'], 
+                    ['DariuszRosiak','DIOZ','radiownet','langustanapalmie','PaneleFotowoltaiczne','patronater','portal','powiedzsiostro','prawicowo','AchTaBeata','AhmedGoldstein','BBBB','FlermanFM','Fprp','Freshville','Garaż-na-Długiej','Gnatkowski','GunTalkMusic','Isos','Izdebski'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

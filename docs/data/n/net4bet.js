@@ -4,4 +4,5 @@ profiles["net4bet"] = {
 "snapshots": [
 	[1702965799,260,218,1.19,null,null],
 	[1703138154,260,2,130.0,null,null],
+	[1703225170,90,3,30.0,null,null],
 ]};

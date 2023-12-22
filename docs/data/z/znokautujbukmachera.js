@@ -635,4 +635,5 @@ profiles["znokautujbukmachera"] = {
 	[1702977515,90,2,45.0,null,null],
 	[1703063744,1445,2,722.5,null,null],
 	[1703149677,418,2,209.0,null,null],
+	[1703236976,10,2,5.0,null,null],
 ]};
