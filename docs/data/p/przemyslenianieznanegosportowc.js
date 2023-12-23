@@ -7,4 +7,5 @@ profiles["przemyslenianieznanegosportowc"] = {
 	[1703056314,1445,218,6.62,null,null],
 	[1703142286,2515,143,17.58,null,null],
 	[1703229403,1480,69,21.44,null,null],
+	[1703315421,2120,56,37.85,null,null],
 ]};

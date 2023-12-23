@@ -7,4 +7,5 @@ profiles["permakulturaifolk"] = {
 	[1703053951,730,11,66.36,null,null],
 	[1703139964,550,34,16.17,null,null],
 	[1703227024,25,3,8.33,null,null],
+	[1703313076,720,25,28.8,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["WeronikaGórskaAtelier"] = {
 	[1703061967,720,25,28.8,null,null],
 	[1703147913,730,11,66.36,null,null],
 	[1703235142,95,5,19.0,null,null],
+	[1703321098,730,11,66.36,null,null],
 ]};

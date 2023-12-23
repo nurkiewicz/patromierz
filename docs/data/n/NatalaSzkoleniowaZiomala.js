@@ -210,4 +210,5 @@ profiles["NatalaSzkoleniowaZiomala"] = {
 	[1702965568,260,218,1.19,null,null],
 	[1703137930,260,2,130.0,null,null],
 	[1703224940,90,3,30.0,null,null],
+	[1703311003,550,34,16.17,null,1.0],
 ]};

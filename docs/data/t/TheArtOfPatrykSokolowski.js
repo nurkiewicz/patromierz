@@ -7,4 +7,5 @@ profiles["TheArtOfPatrykSokolowski"] = {
 	[1703060415,720,25,28.8,null,null],
 	[1703146357,25,3,8.33,null,null],
 	[1703233557,3210,195,16.46,null,null],
+	[1703319534,25,3,8.33,null,null],
 ]};

@@ -6,4 +6,5 @@ profiles["MamSwiadomosc"] = {
 	[1703049559,null,692,null,1940,null],
 	[1703135628,null,143,null,1940,null],
 	[1703222579,null,34,null,1940,null],
+	[1703308672,null,34,null,1940,null],
 ]};

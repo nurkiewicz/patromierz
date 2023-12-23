@@ -6,4 +6,5 @@ profiles["greatsicilianescape"] = {
 	[1703044444,260,218,1.19,null,null],
 	[1703130605,90,3,30.0,null,null],
 	[1703217442,400,20,20.0,null,null],
+	[1703303565,11945,16,746.56,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["Pitcher"] = {
 	[1703054306,1445,218,6.62,null,null],
 	[1703140313,260,2,130.0,null,null],
 	[1703227380,90,3,30.0,null,null],
+	[1703313427,null,216,null,null,null],
 ]};

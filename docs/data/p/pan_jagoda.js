@@ -636,4 +636,5 @@ profiles["pan_jagoda"] = {
 	[1703053353,null,218,null,null,null],
 	[1703139386,260,217,1.19,null,null],
 	[1703226430,90,217,0.41,null,null],
+	[1703312492,null,216,null,null,null],
 ]};

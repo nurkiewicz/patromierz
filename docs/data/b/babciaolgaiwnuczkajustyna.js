@@ -253,4 +253,5 @@ profiles["babciaolgaiwnuczkajustyna"] = {
 	[1703038744,1530,70,21.85,null,null],
 	[1703124999,2960,209,14.16,null,null],
 	[1703211705,2930,209,14.01,null,null],
+	[1703297865,2930,209,14.01,null,null],
 ]};

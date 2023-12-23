@@ -5,4 +5,5 @@ profiles["Nicola_egwuatu_ijele"] = {
 	[1702965839,260,218,1.19,null,null],
 	[1703138193,260,2,130.0,null,null],
 	[1703225211,90,3,30.0,null,null],
+	[1703311270,550,34,16.17,null,null],
 ]};

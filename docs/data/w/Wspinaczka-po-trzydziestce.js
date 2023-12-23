@@ -7,4 +7,5 @@ profiles["Wspinaczka-po-trzydziestce"] = {
 	[1703062594,1445,218,6.62,null,null],
 	[1703148540,550,34,16.17,null,null],
 	[1703235781,10,1,10.0,null,null],
+	[1703321727,11877,519,22.88,null,null],
 ]};

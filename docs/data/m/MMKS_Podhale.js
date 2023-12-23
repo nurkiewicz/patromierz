@@ -4,4 +4,5 @@ profiles["MMKS_Podhale"] = {
 "snapshots": [
 	[1702964623,260,218,1.19,null,null],
 	[1703223991,13190,692,19.06,null,null],
+	[1703310061,550,34,16.17,null,null],
 ]};

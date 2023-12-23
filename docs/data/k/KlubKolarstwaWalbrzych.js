@@ -6,4 +6,5 @@ profiles["KlubKolarstwaWalbrzych"] = {
 	[1703047200,11900,686,17.34,null,null],
 	[1703133317,11862,522,22.72,null,null],
 	[1703220214,90,3,30.0,null,null],
+	[1703306322,1425,216,6.59,null,null],
 ]};

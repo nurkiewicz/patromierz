@@ -7,4 +7,5 @@ profiles["ObejrzyjBeforeFlight"] = {
 	[1703052627,13175,692,19.03,null,null],
 	[1703138671,550,34,16.17,null,null],
 	[1703225701,550,34,16.17,null,null],
+	[1703311767,550,34,16.17,null,null],
 ]};

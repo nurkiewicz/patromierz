@@ -7,4 +7,5 @@ profiles["prerenderowany-rododendron"] = {
 	[1703055313,1648,66,24.96,null,null],
 	[1703141300,2960,209,14.16,null,null],
 	[1703228383,2930,209,14.01,null,null],
+	[1703314421,1633,61,26.77,null,null],
 ]};

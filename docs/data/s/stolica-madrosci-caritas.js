@@ -7,4 +7,5 @@ profiles["stolica-madrosci-caritas"] = {
 	[1703059153,4300,202,21.28,null,null],
 	[1703145106,550,34,16.17,null,null],
 	[1703232277,2930,209,14.01,null,null],
+	[1703318266,2545,144,17.67,null,null],
 ]};

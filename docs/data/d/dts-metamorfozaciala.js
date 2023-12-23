@@ -6,4 +6,5 @@ profiles["dts-metamorfozaciala"] = {
 	[1703041843,90,218,0.41,null,null],
 	[1703128040,90,3,30.0,null,null],
 	[1703214817,400,20,20.0,null,null],
+	[1703300957,11945,16,746.56,null,null],
 ]};

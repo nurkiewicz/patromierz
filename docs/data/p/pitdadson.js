@@ -7,4 +7,5 @@ profiles["pitdadson"] = {
 	[1703054310,1445,218,6.62,null,null],
 	[1703140318,260,2,130.0,null,null],
 	[1703227385,90,3,30.0,null,null],
+	[1703313431,null,216,null,null,null],
 ]};

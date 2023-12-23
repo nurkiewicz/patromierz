@@ -7,4 +7,5 @@ profiles["Mtronic-motoryzacja-bez-fikcji"] = {
 	[1703051408,2515,143,17.58,null,null],
 	[1703137467,2120,56,37.85,null,null],
 	[1703224467,11877,520,22.84,null,null],
+	[1703310534,2545,144,17.67,null,null],
 ]};
