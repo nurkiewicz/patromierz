@@ -7,4 +7,5 @@ profiles["ChinskiWszechwiedzacy"] = {
 	[1703126418,2960,209,14.16,null,null],
 	[1703213157,null,20,null,null,null],
 	[1703299308,21168,764,27.7,null,null],
+	[1703385814,1830,59,31.01,null,null],
 ]};

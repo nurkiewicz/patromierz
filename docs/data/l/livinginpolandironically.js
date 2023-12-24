@@ -7,4 +7,5 @@ profiles["livinginpolandironically"] = {
 	[1703134921,3210,196,16.37,null,null],
 	[1703221848,50,3,16.66,null,null],
 	[1703307945,50,3,16.66,null,null],
+	[1703394490,600,48,12.5,null,null],
 ]};

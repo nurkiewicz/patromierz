@@ -8,4 +8,5 @@ profiles["OpowiastkizPrzedzialu"] = {
 	[1703139086,2515,143,17.58,null,null],
 	[1703226124,2938,56,52.46,null,null],
 	[1703312187,654,50,13.08,null,null],
+	[1703398730,50,3,16.66,null,null],
 ]};

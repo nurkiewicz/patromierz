@@ -7,4 +7,5 @@ profiles["AnonymousDiabloFans"] = {
 	[1703124385,400,20,20.0,null,null],
 	[1703211088,7980,219,36.43,null,null],
 	[1703297251,2120,56,37.85,null,null],
+	[1703383761,400,20,20.0,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["blog-kosmetyczny"] = {
 	[1703125706,2960,209,14.16,null,null],
 	[1703212427,null,20,null,null,null],
 	[1703298583,21168,764,27.7,null,null],
+	[1703385092,1830,59,31.01,null,null],
 ]};

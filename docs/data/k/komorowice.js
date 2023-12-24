@@ -7,4 +7,5 @@ profiles["komorowice"] = {
 	[1703133536,1480,70,21.14,null,null],
 	[1703220438,null,137,null,null,null],
 	[1703306546,2930,209,14.01,null,null],
+	[1703393087,56260,3259,17.26,null,null],
 ]};

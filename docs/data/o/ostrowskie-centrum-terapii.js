@@ -8,4 +8,5 @@ profiles["ostrowskie-centrum-terapii"] = {
 	[1703139230,1480,70,21.14,null,null],
 	[1703226272,1480,69,21.44,null,null],
 	[1703312334,1470,69,21.3,null,null],
+	[1703398877,2930,209,14.01,null,null],
 ]};

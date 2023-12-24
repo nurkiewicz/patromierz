@@ -8,4 +8,5 @@ profiles["ShinigamiCustoms"] = {
 	[1703144056,25,3,8.33,null,null],
 	[1703231208,2515,143,17.58,null,null],
 	[1703317211,25,3,8.33,null,null],
+	[1703403775,720,25,28.8,null,null],
 ]};

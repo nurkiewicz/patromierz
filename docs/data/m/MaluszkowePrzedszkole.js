@@ -7,4 +7,5 @@ profiles["MaluszkowePrzedszkole"] = {
 	[1703135606,1805,58,31.12,null,null],
 	[1703222556,2930,209,14.01,null,null],
 	[1703308648,2840,69,41.15,null,null],
+	[1703395196,1830,59,31.01,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["januszkorwinmikke"] = {
 	[1703132050,1480,70,21.14,null,null],
 	[1703218918,null,137,null,null,null],
 	[1703305035,2930,209,14.01,null,null],
+	[1703391568,56260,3259,17.26,null,null],
 ]};

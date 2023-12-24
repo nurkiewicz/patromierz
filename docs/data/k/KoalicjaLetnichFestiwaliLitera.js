@@ -7,4 +7,5 @@ profiles["KoalicjaLetnichFestiwaliLitera"] = {
 	[1703133347,2515,143,17.58,null,null],
 	[1703220244,6115,290,21.08,null,null],
 	[1703306352,13135,693,18.95,null,null],
+	[1703392894,6115,289,21.15,null,null],
 ]};

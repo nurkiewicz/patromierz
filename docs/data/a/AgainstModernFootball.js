@@ -6,4 +6,5 @@ profiles["AgainstModernFootball"] = {
 	[1703037315,418,18,23.22,null,null],
 	[1703123583,90,3,30.0,null,null],
 	[1703210261,10,1,10.0,null,null],
+	[1703382949,4790,124,38.62,null,null],
 ]};

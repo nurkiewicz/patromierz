@@ -7,4 +7,5 @@ profiles["chodzenie-boso"] = {
 	[1703126452,2960,209,14.16,null,null],
 	[1703213193,null,20,null,null,null],
 	[1703299344,21168,764,27.7,null,null],
+	[1703385849,1830,59,31.01,null,null],
 ]};

@@ -6,4 +6,5 @@ profiles["karolinajasinska"] = {
 	[1703046676,654,50,13.08,null,null],
 	[1703132802,25,3,8.33,null,null],
 	[1703219687,25,3,8.33,null,null],
+	[1703392340,654,50,13.08,null,null],
 ]};

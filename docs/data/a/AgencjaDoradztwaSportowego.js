@@ -7,4 +7,5 @@ profiles["AgencjaDoradztwaSportowego"] = {
 	[1703123630,2960,209,14.16,null,null],
 	[1703210310,2515,143,17.58,null,null],
 	[1703296477,2930,209,14.01,null,null],
+	[1703382997,2930,209,14.01,null,null],
 ]};

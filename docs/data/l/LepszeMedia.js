@@ -571,4 +571,5 @@ profiles["LepszeMedia"] = {
 	[1703134695,1480,29,51.03,null,null],
 	[1703221615,null,29,null,null,null],
 	[1703307716,2930,29,101.03,null,null],
+	[1703394262,56260,29,1940.0,null,null],
 ]};

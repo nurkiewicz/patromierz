@@ -7,4 +7,5 @@ profiles["multiplayergamingpl"] = {
 	[1703137499,95,1944,0.04,null,null],
 	[1703224499,1152,47,24.51,null,null],
 	[1703310564,7980,1944,4.1,null,null],
+	[1703397119,550,34,16.17,null,null],
 ]};

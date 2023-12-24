@@ -7,4 +7,5 @@ profiles["ChrześcijańskiVlog"] = {
 	[1703126529,2960,209,14.16,null,null],
 	[1703213272,null,20,null,null,null],
 	[1703299419,21168,764,27.7,null,null],
+	[1703385924,1830,59,31.01,null,null],
 ]};

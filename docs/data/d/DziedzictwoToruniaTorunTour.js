@@ -7,4 +7,5 @@ profiles["DziedzictwoToruniaTorunTour"] = {
 	[1703128189,730,11,66.36,null,null],
 	[1703214970,2175,90,24.16,null,null],
 	[1703301110,550,34,16.17,null,null],
+	[1703387606,3080,81,38.02,null,null],
 ]};

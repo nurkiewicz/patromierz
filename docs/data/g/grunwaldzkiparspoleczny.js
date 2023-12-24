@@ -7,4 +7,5 @@ profiles["grunwaldzkiparspoleczny"] = {
 	[1703130683,2515,143,17.58,null,null],
 	[1703217520,730,11,66.36,null,null],
 	[1703303644,550,34,16.17,null,null],
+	[1703390136,505,23,21.95,null,null],
 ]};

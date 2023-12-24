@@ -7,4 +7,5 @@ profiles["krypto-prawnik"] = {
 	[1703134007,1480,70,21.14,null,null],
 	[1703220918,null,137,null,null,null],
 	[1703307020,2930,209,14.01,null,null],
+	[1703393561,56260,3259,17.26,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["memy-i-ankiety-patronite"] = {
 	[1703136323,50,3,16.66,null,null],
 	[1703223299,2515,143,17.58,null,null],
 	[1703309376,1572,92,17.08,null,null],
+	[1703395926,1572,91,17.27,null,null],
 ]};

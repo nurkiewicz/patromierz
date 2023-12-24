@@ -7,4 +7,5 @@ profiles["inkoholiczka"] = {
 	[1703131569,55820,3228,17.29,null,null],
 	[1703218427,null,137,null,null,null],
 	[1703304546,2545,144,17.67,null,null],
+	[1703391081,21264,766,27.75,null,null],
 ]};

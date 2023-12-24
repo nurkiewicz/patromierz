@@ -7,4 +7,5 @@ profiles["Fundacja_Janusza_Kurtyki"] = {
 	[1703129560,1930,76,25.39,null,null],
 	[1703216378,1880,76,24.73,null,null],
 	[1703302507,13135,693,18.95,null,null],
+	[1703389001,20,1,20.0,null,null],
 ]};

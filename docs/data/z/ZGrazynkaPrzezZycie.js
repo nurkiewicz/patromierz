@@ -8,4 +8,5 @@ profiles["ZGrazynkaPrzezZycie"] = {
 	[1703149549,360,20,18.0,null,null],
 	[1703236845,2175,90,24.16,null,null],
 	[1703322750,2545,144,17.67,null,null],
+	[1703409334,1470,69,21.3,null,null],
 ]};

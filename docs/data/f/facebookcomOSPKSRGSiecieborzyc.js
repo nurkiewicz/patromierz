@@ -7,4 +7,5 @@ profiles["facebookcomOSPKSRGSiecieborzyc"] = {
 	[1703128796,21207,764,27.75,null,null],
 	[1703215593,550,34,16.17,null,null],
 	[1703301727,550,34,16.17,null,null],
+	[1703388225,2930,209,14.01,null,null],
 ]};
