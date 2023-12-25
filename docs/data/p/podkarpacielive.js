@@ -8,4 +8,5 @@ profiles["podkarpacielive"] = {
 	[1703140599,260,2,130.0,null,null],
 	[1703227674,90,3,30.0,null,null],
 	[1703313721,null,216,null,null,null],
+	[1703487242,56315,3256,17.29,null,null],
 ]};

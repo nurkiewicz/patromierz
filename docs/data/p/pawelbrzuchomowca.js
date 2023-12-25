@@ -8,4 +8,5 @@ profiles["pawelbrzuchomowca"] = {
 	[1703226899,160,5,32.0,null,null],
 	[1703312952,50,3,16.66,null,null],
 	[1703399499,600,48,12.5,null,null],
+	[1703486456,550,34,16.17,null,null],
 ]};

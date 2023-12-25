@@ -8,4 +8,5 @@ profiles["Dave_z_Ameryki"] = {
 	[1703214026,null,20,null,null,null],
 	[1703300170,2545,144,17.67,null,null],
 	[1703386671,1830,59,31.01,null,null],
+	[1703473359,12075,694,17.39,null,null],
 ]};

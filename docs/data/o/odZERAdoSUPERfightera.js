@@ -8,4 +8,5 @@ profiles["odZERAdoSUPERfightera"] = {
 	[1703225843,90,3,30.0,null,null],
 	[1703311907,null,216,null,null,null],
 	[1703398451,21264,766,27.75,null,null],
+	[1703485386,418,18,23.22,null,null],
 ]};

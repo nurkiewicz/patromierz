@@ -8,4 +8,5 @@ profiles["siostry_od_nieruchomosci"] = {
 	[1703144164,2515,143,17.58,null,null],
 	[1703231319,2515,143,17.58,null,null],
 	[1703317322,418,16,26.12,null,null],
+	[1703490918,21277,761,27.95,null,null],
 ]};

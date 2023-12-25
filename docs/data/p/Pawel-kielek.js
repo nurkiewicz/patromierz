@@ -7,4 +7,5 @@ profiles["Pawel-kielek"] = {
 	[1703139835,260,2,130.0,null,null],
 	[1703226892,90,3,30.0,null,null],
 	[1703312945,null,216,null,null,null],
+	[1703486449,56315,3256,17.29,null,null],
 ]};

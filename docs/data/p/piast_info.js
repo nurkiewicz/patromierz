@@ -7,4 +7,5 @@ profiles["piast_info"] = {
 	[1703140050,260,2,130.0,null,null],
 	[1703227111,90,3,30.0,null,null],
 	[1703313161,null,216,null,null,null],
+	[1703486670,56315,3256,17.29,null,null],
 ]};

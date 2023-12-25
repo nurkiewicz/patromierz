@@ -9,4 +9,5 @@ profiles["ratujemy-bezdomne-kociaki"] = {
 	[1703230104,2930,209,14.01,null,null],
 	[1703316118,2545,144,17.67,null,null],
 	[1703402679,2930,209,14.01,null,null],
+	[1703489689,2930,209,14.01,null,null],
 ]};

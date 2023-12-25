@@ -9,4 +9,5 @@ profiles["romeoandjulietstyle"] = {
 	[1703230505,1305,41,31.82,null,null],
 	[1703316516,1470,69,21.3,null,null],
 	[1703403078,1610,54,29.81,null,null],
+	[1703490096,1315,42,31.3,null,null],
 ]};

@@ -9,4 +9,5 @@ profiles["wojciech-klek-psycholog"] = {
 	[1703235537,6870,202,34.0,null,null],
 	[1703321487,2840,69,41.15,null,null],
 	[1703408065,2175,89,24.43,null,null],
+	[1703495194,550,34,16.17,null,null],
 ]};

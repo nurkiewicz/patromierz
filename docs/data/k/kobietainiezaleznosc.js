@@ -29,4 +29,5 @@ profiles["kobietainiezaleznosc"] = {
 	[1703133358,1480,null,null,null,null],
 	[1703306365,2930,null,null,null,null],
 	[1703392905,56260,null,null,null,null],
+	[1703479710,2930,null,null,null,null],
 ]};

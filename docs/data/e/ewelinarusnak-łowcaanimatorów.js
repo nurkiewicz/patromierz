@@ -6,4 +6,5 @@ profiles["ewelinarusnak-łowcaanimatorów"] = {
 	[1703042531,13175,692,19.03,null,null],
 	[1703215514,2930,209,14.01,null,null],
 	[1703301649,2930,209,14.01,null,null],
+	[1703474874,1470,69,21.3,null,null],
 ]};

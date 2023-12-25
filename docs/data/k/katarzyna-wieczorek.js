@@ -8,4 +8,5 @@ profiles["katarzyna-wieczorek"] = {
 	[1703219816,50,3,16.66,null,null],
 	[1703305929,50,3,16.66,null,null],
 	[1703392469,50,3,16.66,null,null],
+	[1703479266,600,48,12.5,null,null],
 ]};

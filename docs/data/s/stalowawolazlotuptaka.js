@@ -9,4 +9,5 @@ profiles["stalowawolazlotuptaka"] = {
 	[1703232126,13432,462,29.07,null,null],
 	[1703318118,3210,194,16.54,null,null],
 	[1703404684,7880,1940,4.06,null,null],
+	[1703491737,550,34,16.17,null,null],
 ]};

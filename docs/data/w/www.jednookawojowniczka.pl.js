@@ -9,4 +9,5 @@ profiles["www.jednookawojowniczka.pl"] = {
 	[1703235994,1480,69,21.44,null,null],
 	[1703321938,665,31,21.45,null,null],
 	[1703408518,2330,18,129.44,null,null],
+	[1703495659,2330,18,129.44,null,null],
 ]};

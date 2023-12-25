@@ -8,4 +8,5 @@ profiles["kulturanacodzien"] = {
 	[1703221236,null,137,null,null,null],
 	[1703307336,2930,209,14.01,null,null],
 	[1703393878,56260,3259,17.26,null,null],
+	[1703480706,2930,209,14.01,null,null],
 ]};

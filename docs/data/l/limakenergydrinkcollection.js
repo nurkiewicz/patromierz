@@ -8,4 +8,5 @@ profiles["limakenergydrinkcollection"] = {
 	[1703221802,2930,16,183.12,null,null],
 	[1703307899,1805,58,31.12,null,null],
 	[1703394444,1470,69,21.3,null,null],
+	[1703481284,1840,60,30.66,null,null],
 ]};

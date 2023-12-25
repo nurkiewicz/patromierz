@@ -8,4 +8,5 @@ profiles["czlowiekprzeciwkoludzkosci"] = {
 	[1703213763,2930,209,14.01,null,null],
 	[1703299908,8710,222,39.23,null,null],
 	[1703386410,730,11,66.36,null,null],
+	[1703473090,8847,221,40.03,null,null],
 ]};

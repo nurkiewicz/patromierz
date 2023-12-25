@@ -8,4 +8,5 @@ profiles["DoktorAnia"] = {
 	[1703214424,null,20,null,null,null],
 	[1703300567,2545,144,17.67,null,null],
 	[1703387065,1830,59,31.01,null,null],
+	[1703473764,12075,694,17.39,null,null],
 ]};

@@ -8,4 +8,5 @@ profiles["naturalnieniebanalnie"] = {
 	[1703225012,13190,692,19.06,null,null],
 	[1703311074,1805,58,31.12,null,null],
 	[1703397629,1545,52,29.71,null,null],
+	[1703484541,1470,69,21.3,null,null],
 ]};

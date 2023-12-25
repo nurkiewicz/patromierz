@@ -71,4 +71,5 @@ profiles["menyrmx"] = {
 	[1703223326,null,1,null,30,null],
 	[1703309403,null,1,null,30,null],
 	[1703395952,null,1,null,30,null],
+	[1703482837,10,2,5.0,40,null],
 ]};

@@ -8,4 +8,5 @@ profiles["slawomirpartyka_com_pl"] = {
 	[1703231529,1480,69,21.44,null,null],
 	[1703317526,2120,56,37.85,null,null],
 	[1703404094,246,15,16.4,null,null],
+	[1703491131,427,16,26.68,null,null],
 ]};

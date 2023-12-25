@@ -6,4 +6,5 @@ profiles["facebook-AnnaDonicaStudioUrody"] = {
 	[1703042602,13175,692,19.03,null,null],
 	[1703215585,2930,209,14.01,null,null],
 	[1703301719,2930,209,14.01,null,null],
+	[1703474946,1470,69,21.3,null,null],
 ]};

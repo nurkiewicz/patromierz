@@ -8,4 +8,5 @@ profiles["Prawdziwe_Diamenty"] = {
 	[1703141268,260,2,130.0,null,null],
 	[1703228350,90,3,30.0,null,null],
 	[1703314389,null,216,null,null,null],
+	[1703487926,56315,3256,17.29,null,null],
 ]};

@@ -9,4 +9,5 @@ profiles["Urbex-miejsca-zagubione-w-czas"] = {
 	[1703234485,18750,841,22.29,null,null],
 	[1703320449,4290,202,21.23,null,null],
 	[1703407024,4290,201,21.34,null,null],
+	[1703494130,18940,864,21.92,null,null],
 ]};

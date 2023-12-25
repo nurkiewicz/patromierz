@@ -8,4 +8,5 @@ profiles["DrogaDucha"] = {
 	[1703214739,null,20,null,null,null],
 	[1703300877,2545,144,17.67,null,null],
 	[1703387377,2545,144,17.67,null,null],
+	[1703474084,12075,694,17.39,null,null],
 ]};

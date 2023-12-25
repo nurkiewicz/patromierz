@@ -9,4 +9,5 @@ profiles["TrupaTeatralnaMeandry"] = {
 	[1703234098,1480,69,21.44,null,null],
 	[1703320069,1470,69,21.3,null,null],
 	[1703406641,160,5,32.0,null,null],
+	[1703493737,2930,209,14.01,null,null],
 ]};

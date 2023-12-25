@@ -8,4 +8,5 @@ profiles["dziewczynyzagencji"] = {
 	[1703215011,null,20,null,null,null],
 	[1703301152,2545,144,17.67,null,null],
 	[1703387647,2545,144,17.67,null,null],
+	[1703474363,12075,694,17.39,null,null],
 ]};

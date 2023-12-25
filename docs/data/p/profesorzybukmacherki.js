@@ -9,4 +9,5 @@ profiles["profesorzybukmacherki"] = {
 	[1703228447,7980,219,36.43,null,null],
 	[1703314478,1152,47,24.51,null,null],
 	[1703401039,598,1940,0.3,null,null],
+	[1703488016,1152,47,24.51,null,null],
 ]};

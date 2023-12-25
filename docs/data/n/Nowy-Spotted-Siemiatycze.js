@@ -9,4 +9,5 @@ profiles["Nowy-Spotted-Siemiatycze"] = {
 	[1703225601,2515,143,17.58,null,null],
 	[1703311654,2175,90,24.16,null,null],
 	[1703398212,1656,67,24.71,null,null],
+	[1703485140,2535,142,17.85,null,null],
 ]};

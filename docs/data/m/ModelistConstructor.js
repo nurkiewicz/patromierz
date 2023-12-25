@@ -9,4 +9,5 @@ profiles["ModelistConstructor"] = {
 	[1703224031,2515,143,17.58,null,null],
 	[1703310101,610,48,12.7,null,null],
 	[1703396654,600,48,12.5,null,null],
+	[1703483543,550,34,16.17,null,null],
 ]};

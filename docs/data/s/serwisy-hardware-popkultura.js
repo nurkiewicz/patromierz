@@ -9,4 +9,5 @@ profiles["serwisy-hardware-popkultura"] = {
 	[1703231138,2930,209,14.01,null,null],
 	[1703317143,2930,209,14.01,null,null],
 	[1703403707,2930,209,14.01,null,null],
+	[1703490737,1470,69,21.3,null,null],
 ]};

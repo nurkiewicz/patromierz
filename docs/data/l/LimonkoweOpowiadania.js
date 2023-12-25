@@ -8,4 +8,5 @@ profiles["LimonkoweOpowiadania"] = {
 	[1703221807,1545,21,73.57,null,null],
 	[1703307905,2120,16,132.5,null,null],
 	[1703394449,13175,691,19.06,null,null],
+	[1703481289,20,1,20.0,null,null],
 ]};

@@ -8,4 +8,5 @@ profiles["kusinakulture"] = {
 	[1703221303,null,137,null,null,null],
 	[1703307403,2930,209,14.01,null,null],
 	[1703393946,56260,3259,17.26,null,null],
+	[1703480774,2930,209,14.01,null,null],
 ]};

@@ -7,4 +7,5 @@ profiles["patronite.gdanska_liga_orlikow"] = {
 	[1703139694,260,2,130.0,null,null],
 	[1703226746,90,3,30.0,null,null],
 	[1703312801,null,216,null,null,null],
+	[1703486301,56315,3256,17.29,null,null],
 ]};

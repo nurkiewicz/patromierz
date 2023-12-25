@@ -8,4 +8,5 @@ profiles["Dziewczynkajakmalinka"] = {
 	[1703215009,1277,43,29.69,null,null],
 	[1703301150,13135,693,18.95,null,null],
 	[1703387645,20,1,20.0,null,null],
+	[1703474361,7855,217,36.19,null,null],
 ]};

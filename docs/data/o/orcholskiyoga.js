@@ -7,4 +7,5 @@ profiles["orcholskiyoga"] = {
 	[1703139121,260,2,130.0,null,null],
 	[1703226159,90,3,30.0,null,null],
 	[1703312223,null,216,null,null,null],
+	[1703485705,56315,3256,17.29,null,null],
 ]};
