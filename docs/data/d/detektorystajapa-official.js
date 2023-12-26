@@ -9,4 +9,5 @@ profiles["detektorystajapa-official"] = {
 	[1703300331,2545,144,17.67,null,null],
 	[1703386832,18910,860,21.98,null,null],
 	[1703473523,2930,209,14.01,null,null],
+	[1703559557,4290,201,21.34,null,null],
 ]};

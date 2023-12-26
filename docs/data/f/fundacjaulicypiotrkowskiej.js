@@ -9,4 +9,5 @@ profiles["fundacjaulicypiotrkowskiej"] = {
 	[1703302885,550,34,16.17,null,null],
 	[1703389382,2930,209,14.01,null,null],
 	[1703476141,550,34,16.17,null,null],
+	[1703562136,1840,60,30.66,null,null],
 ]};

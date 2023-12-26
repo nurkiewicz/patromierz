@@ -9,4 +9,5 @@ profiles["instagram.comolgaapasek"] = {
 	[1703304607,1315,42,31.3,null,null],
 	[1703391140,1315,42,31.3,null,null],
 	[1703477907,1855,75,24.73,null,null],
+	[1703563873,730,11,66.36,null,null],
 ]};

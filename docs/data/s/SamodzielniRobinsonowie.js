@@ -10,4 +10,5 @@ profiles["SamodzielniRobinsonowie"] = {
 	[1703316839,1656,67,24.71,null,null],
 	[1703403401,1656,67,24.71,null,null],
 	[1703490428,418,18,23.22,null,null],
+	[1703576222,550,34,16.17,null,null],
 ]};

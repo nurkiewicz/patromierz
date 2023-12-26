@@ -9,4 +9,5 @@ profiles["NiestandardoweWyprawy"] = {
 	[1703311399,1880,76,24.73,null,null],
 	[1703397954,4290,201,21.34,null,null],
 	[1703484877,600,48,12.5,null,null],
+	[1703570749,18950,866,21.88,null,null],
 ]};

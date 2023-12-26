@@ -9,4 +9,5 @@ profiles["jednego-serca-jednego-ducha"] = {
 	[1703305162,2930,209,14.01,null,null],
 	[1703391697,56260,3259,17.26,null,null],
 	[1703478481,2930,209,14.01,null,null],
+	[1703564440,1470,69,21.3,null,null],
 ]};

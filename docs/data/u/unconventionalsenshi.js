@@ -10,4 +10,5 @@ profiles["unconventionalsenshi"] = {
 	[1703320391,1572,92,17.08,null,null],
 	[1703406966,50,3,16.66,null,null],
 	[1703494070,25,3,8.33,null,null],
+	[1703579803,25,3,8.33,null,null],
 ]};

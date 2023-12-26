@@ -9,4 +9,5 @@ profiles["dollsbrandnewlook"] = {
 	[1703300582,701,24,29.2,null,null],
 	[1703387080,600,48,12.5,null,null],
 	[1703473780,600,48,12.5,null,null],
+	[1703559809,600,48,12.5,null,null],
 ]};

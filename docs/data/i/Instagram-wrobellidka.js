@@ -9,4 +9,5 @@ profiles["Instagram-wrobellidka"] = {
 	[1703304601,1315,42,31.3,null,null],
 	[1703391135,1315,42,31.3,null,null],
 	[1703477902,1855,75,24.73,null,null],
+	[1703563868,730,11,66.36,null,null],
 ]};

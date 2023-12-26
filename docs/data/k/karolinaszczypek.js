@@ -9,4 +9,5 @@ profiles["karolinaszczypek"] = {
 	[1703305811,50,3,16.66,null,null],
 	[1703392350,50,3,16.66,null,null],
 	[1703479143,600,48,12.5,null,null],
+	[1703565090,50,3,16.66,null,null],
 ]};

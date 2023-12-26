@@ -10,4 +10,5 @@ profiles["raflewski"] = {
 	[1703316037,2120,56,37.85,null,null],
 	[1703402597,246,15,16.4,null,null],
 	[1703489606,427,16,26.68,null,null],
+	[1703575415,null,215,null,null,null],
 ]};

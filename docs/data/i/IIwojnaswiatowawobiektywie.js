@@ -9,4 +9,5 @@ profiles["IIwojnaswiatowawobiektywie"] = {
 	[1703304422,550,34,16.17,null,null],
 	[1703390958,2930,209,14.01,null,null],
 	[1703477719,550,34,16.17,null,null],
+	[1703563686,1840,60,30.66,null,null],
 ]};

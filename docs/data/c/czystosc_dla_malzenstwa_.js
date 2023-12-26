@@ -9,4 +9,5 @@ profiles["czystosc_dla_malzenstwa_"] = {
 	[1703299946,2175,90,24.16,null,null],
 	[1703386449,550,34,16.17,null,null],
 	[1703473131,550,34,16.17,null,null],
+	[1703559172,21264,761,27.94,null,null],
 ]};

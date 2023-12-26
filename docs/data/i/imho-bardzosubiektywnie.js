@@ -9,4 +9,5 @@ profiles["imho-bardzosubiektywnie"] = {
 	[1703304465,2545,144,17.67,null,null],
 	[1703391002,21264,766,27.75,null,null],
 	[1703477764,2930,209,14.01,null,null],
+	[1703563731,7115,205,34.7,null,null],
 ]};

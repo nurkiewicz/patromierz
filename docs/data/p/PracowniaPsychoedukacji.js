@@ -10,4 +10,5 @@ profiles["PracowniaPsychoedukacji"] = {
 	[1703314350,13135,693,18.95,null,null],
 	[1703400910,550,34,16.17,null,null],
 	[1703487887,1656,67,24.71,null,null],
+	[1703573718,21264,761,27.94,null,null],
 ]};

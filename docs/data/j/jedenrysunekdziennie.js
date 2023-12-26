@@ -9,4 +9,5 @@ profiles["jedenrysunekdziennie"] = {
 	[1703305158,25,3,8.33,null,null],
 	[1703391692,654,50,13.08,null,null],
 	[1703478475,2930,209,14.01,null,null],
+	[1703564435,13200,689,19.15,null,null],
 ]};

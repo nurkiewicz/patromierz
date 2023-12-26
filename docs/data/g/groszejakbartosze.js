@@ -9,4 +9,5 @@ profiles["groszejakbartosze"] = {
 	[1703303610,550,34,16.17,null,null],
 	[1703390101,50,3,16.66,null,null],
 	[1703476883,50,3,16.66,null,null],
+	[1703562864,701,24,29.2,null,null],
 ]};

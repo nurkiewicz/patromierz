@@ -9,4 +9,5 @@ profiles["sebastianszablowski"] = {
 	[1703317038,2120,56,37.85,null,null],
 	[1703403602,246,15,16.4,null,null],
 	[1703490630,427,16,26.68,null,null],
+	[1703576422,1470,69,21.3,null,null],
 ]};

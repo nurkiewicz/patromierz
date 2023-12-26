@@ -8,4 +8,5 @@ profiles["paweltabletennis"] = {
 	[1703226933,90,3,30.0,null,null],
 	[1703312985,null,216,null,null,null],
 	[1703486490,56315,3256,17.29,null,null],
+	[1703572335,550,34,16.17,null,null],
 ]};

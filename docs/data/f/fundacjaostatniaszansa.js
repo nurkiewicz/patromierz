@@ -9,4 +9,5 @@ profiles["fundacjaostatniaszansa"] = {
 	[1703302787,1805,58,31.12,null,null],
 	[1703389281,275,15,18.33,null,null],
 	[1703476039,1470,69,21.3,null,null],
+	[1703562035,1840,60,30.66,null,null],
 ]};

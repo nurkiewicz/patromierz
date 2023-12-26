@@ -19,56 +19,56 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/pompanacyklu.js"></script>
-<script type="text/javascript" src="data/p/PODPRAD.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/c/CentrumMotoryzacjiHistorycznej.js"></script>
-<script type="text/javascript" src="data/p/piotrmichalski.js"></script>
-<script type="text/javascript" src="data/k/KaratNM-OrzełSyrenka.js"></script>
-<script type="text/javascript" src="data/r/revenwood.js"></script>
-<script type="text/javascript" src="data/r/RatwithNut.js"></script>
-<script type="text/javascript" src="data/k/Kamiaze7.js"></script>
-<script type="text/javascript" src="data/p/polskapilkakobiet.js"></script>
-<script type="text/javascript" src="data/r/rete.js"></script>
-<script type="text/javascript" src="data/k/KrystianBielawski.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/polishreds.js"></script>
-<script type="text/javascript" src="data/l/LukaszBok.js"></script>
-<script type="text/javascript" src="data/j/Jonek.js"></script>
-<script type="text/javascript" src="data/k/Krisdj.js"></script>
-<script type="text/javascript" src="data/k/Krasza.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/r/radioOPOKA.js"></script>
-<script type="text/javascript" src="data/k/KajsonDavidek.js"></script>
-<script type="text/javascript" src="data/k/KontrArgument.js"></script>
-<script type="text/javascript" src="data/p/piłkawkoloratce.js"></script>
-<script type="text/javascript" src="data/r/Rava.js"></script>
-<script type="text/javascript" src="data/k/Kryst90.js"></script>
-<script type="text/javascript" src="data/r/refaktor.js"></script>
-<script type="text/javascript" src="data/p/pitdadson.js"></script>
-<script type="text/javascript" src="data/p/podkarpacielive.js"></script>
+<script type="text/javascript" src="data/s/SLOWTEAM.js"></script>
+<script type="text/javascript" src="data/s/SzyrGameStudio.js"></script>
+<script type="text/javascript" src="data/s/Shoomi.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/b/Bioran.js"></script>
-<script type="text/javascript" src="data/r/Rapgra.js"></script>
-<script type="text/javascript" src="data/p/psnews.js"></script>
+<script type="text/javascript" src="data/t/TERAZPOLIŻ.js"></script>
+<script type="text/javascript" src="data/k/kiciabangz.js"></script>
+<script type="text/javascript" src="data/t/Three_Deaths.band.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/s/swiatgosi.js"></script>
+<script type="text/javascript" src="data/s/siostry_od_nieruchomosci.js"></script>
+<script type="text/javascript" src="data/s/Sanders.js"></script>
+<script type="text/javascript" src="data/l/LightFromTheSource.js"></script>
+<script type="text/javascript" src="data/k/kptrojmiasto.js"></script>
+<script type="text/javascript" src="data/s/SachielSQ.js"></script>
+<script type="text/javascript" src="data/s/SWAGTV.js"></script>
+<script type="text/javascript" src="data/k/kobus.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/s/Sohayo.js"></script>
+<script type="text/javascript" src="data/t/Taxizlotowa.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/s/Szymonpejski.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/red.tomasz.js"></script>
-<script type="text/javascript" src="data/r/radiorodzina.js"></script>
-<script type="text/javascript" src="data/j/Jowita.js"></script>
-<script type="text/javascript" src="data/k/KamikazeLDZ.js"></script>
-<script type="text/javascript" src="data/k/Konkubent.js"></script>
-<script type="text/javascript" src="data/p/przedszgolaki.js"></script>
-<script type="text/javascript" src="data/p/przemyslenianieznanegosportowc.js"></script>
-<script type="text/javascript" src="data/k/KODIAK.js"></script>
+<script type="text/javascript" src="data/t/TKA.js"></script>
+<script type="text/javascript" src="data/t/Tomek-Prezes.js"></script>
+<script type="text/javascript" src="data/t/Tomasin.js"></script>
+<script type="text/javascript" src="data/s/SerafinTV.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/r/RockBottomMC.js"></script>
+<script type="text/javascript" src="data/s/SibilaVocal.js"></script>
+<script type="text/javascript" src="data/s/SadRapArioch.js"></script>
+<script type="text/javascript" src="data/s/SuperPies_DogTeacher.js"></script>
+<script type="text/javascript" src="data/k/ksuboczewska.js"></script>
+<script type="text/javascript" src="data/l/lady_bezimienna.js"></script>
+<script type="text/javascript" src="data/s/sliski.js"></script>
+<script type="text/javascript" src="data/s/smashit.js"></script>
+<script type="text/javascript" src="data/t/TheOnlyOneScandal.js"></script>
+<script type="text/javascript" src="data/l/lrpl.js"></script>
+<script type="text/javascript" src="data/i/IvoVucoPisarz.js"></script>
+<script type="text/javascript" src="data/j/jakminiewstyd.js"></script>
+<script type="text/javascript" src="data/s/Szarak.js"></script>
+<script type="text/javascript" src="data/t/TOP.js"></script>
+<script type="text/javascript" src="data/k/krzysztofnowakowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Rapgra.eu", -932313], ["Artur Dąbrowski", -932313], ["Anna Rawa", -932313], ["radioOPOKA", -932313], ["Katolickie Radio Rodzina", -932313], ["red.tomasz", -932313], ["Refaktor", -932313], ["Rete", -932313], ["Ronald Evenwood (The RE Works)", -932313], ["POD PRĄD", -877468], ["Piotr Michalski", 56225], ["Pitdadson", 56225], ["Piłka w Koloratce", 56225], ["PodkarpacieLIVE", 56225], ["Polish REDS", 56225], ["Polska Piłka Kobiet", 56225], ["Pompa_na_Cyklu", 56225], ["Przedszgolaki", 56225], ["Mariusz Ukleja", 56225], ["Piaseczno Sport News", 56225]], 'largest_changes');
+            drawHorizontal([["SWAGTV AUTODETAILING & LIFESTYLE ", -93500], ["Serafin Pęzioł", -93500], ["Shoomi", -93500], ["Sohayo Official", -93500], ["Super Pies- Dog Teacher", -93500], ["TAXI Złotówa", -93500], ["siostry_od_nieruchomosci", -93500], ["Sliski Temacik", -93500], ["Smash IT!", -93500], ["Świat Gosi", -93500], ["Light From The Source", 55155], ["Marianna Baranowska", 55155], ["Kobus", 55155], ["Świetlica Krytyki Politycznej w Trójmieście", 55155], ["Krzysztof Nowakowski", 55155], ["Karolina Suboczewska", 55155], ["Lady Bezimienna", 55155], ["Łukasz Rokicki", 55155], ["Ivo Vuco", 55183], ["Sonia Podgórska", 55183]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','radiownet','DIOZ','langustanapalmie','Bioran','CentrumMotoryzacjiHistorycznej','Jonek','Jowita','KODIAK','KajsonDavidek','Kamiaze7','KamikazeLDZ','KaratNM-OrzełSyrenka','Konkubent','KontrArgument','Krasza','Krisdj','Kryst90','KrystianBielawski','LukaszBok'], 
+                    ['DariuszRosiak','radiownet','DIOZ','langustanapalmie','RockBottomMC','SLOWTEAM','SachielSQ','SadRapArioch','Sanders','SibilaVocal','Szarak','Szymonpejski','SzyrGameStudio','TERAZPOLIŻ','TKA','TOP','TheOnlyOneScandal','Three_Deaths.band','Tomasin','Tomek-Prezes'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

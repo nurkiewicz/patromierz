@@ -9,4 +9,5 @@ profiles["FB-kingazuralskayourcoach"] = {
 	[1703301837,11945,16,746.56,null,null],
 	[1703388336,418,18,23.22,null,null],
 	[1703475067,550,34,16.17,null,null],
+	[1703561080,90,3,30.0,null,null],
 ]};

@@ -8,4 +8,5 @@ profiles["krystynaciezarowka"] = {
 	[1703220944,90,3,30.0,null,null],
 	[1703307046,1425,216,6.59,null,null],
 	[1703393588,2545,144,17.67,null,null],
+	[1703566338,550,34,16.17,null,null],
 ]};

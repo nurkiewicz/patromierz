@@ -9,4 +9,5 @@ profiles["nataliakryciabazgrol"] = {
 	[1703311021,3210,194,16.54,null,null],
 	[1703397576,1197,43,27.83,null,null],
 	[1703484487,1855,75,24.73,null,null],
+	[1703570367,1470,69,21.3,null,null],
 ]};

@@ -569,4 +569,5 @@ profiles["spokojnietotylkoastrologia"] = {
 	[1703317921,1656,127,13.03,null,null],
 	[1703404487,1656,127,13.03,null,null],
 	[1703491535,418,126,3.31,null,null],
+	[1703577313,550,126,4.36,null,null],
 ]};

@@ -9,4 +9,5 @@ profiles["BlackForestCharacters"] = {
 	[1703298521,550,34,16.17,null,null],
 	[1703385030,2545,144,17.67,null,null],
 	[1703471665,3210,194,16.54,null,null],
+	[1703557733,50,3,16.66,null,null],
 ]};

@@ -9,4 +9,5 @@ profiles["DziewuchyDziewuchomAnimacje"] = {
 	[1703301157,2175,90,24.16,null,null],
 	[1703387653,550,34,16.17,null,null],
 	[1703474369,550,34,16.17,null,null],
+	[1703560388,21264,761,27.94,null,null],
 ]};

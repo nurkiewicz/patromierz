@@ -9,4 +9,5 @@ profiles["lowcyburzpodbeskidzie"] = {
 	[1703308071,1315,42,31.3,null,null],
 	[1703394619,1315,42,31.3,null,null],
 	[1703481467,550,34,16.17,null,null],
+	[1703567377,2930,209,14.01,null,null],
 ]};

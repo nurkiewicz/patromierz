@@ -1,9 +1,9 @@
 ---
-title: Tadych Foto | Statystyki patronite.pl | Patromierz
+title: Tadych Studio | Statystyki patronite.pl | Patromierz
 
 permalink: /tadychfoto
 ---
 
-# [Tadych Foto](https://patronite.pl/tadychfoto)
+# [Tadych Studio](https://patronite.pl/tadychfoto)
 
 {% include profile.md name="tadychfoto" prefix="t" %}

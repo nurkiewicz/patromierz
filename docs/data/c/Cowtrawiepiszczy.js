@@ -8,4 +8,5 @@ profiles["Cowtrawiepiszczy"] = {
 	[1703213504,260,217,1.19,null,null],
 	[1703299650,90,3,30.0,null,null],
 	[1703386155,1405,215,6.53,null,null],
+	[1703558875,90,3,30.0,null,null],
 ]};

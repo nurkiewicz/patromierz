@@ -10,4 +10,5 @@ profiles["pulsbasketu"] = {
 	[1703315689,2120,56,37.85,null,null],
 	[1703402248,246,15,16.4,null,null],
 	[1703489253,427,16,26.68,null,null],
+	[1703575066,null,215,null,null,null],
 ]};

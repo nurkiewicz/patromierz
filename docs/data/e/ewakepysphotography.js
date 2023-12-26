@@ -9,4 +9,5 @@ profiles["ewakepysphotography"] = {
 	[1703301624,1880,76,24.73,null,null],
 	[1703388122,550,34,16.17,null,null],
 	[1703474848,730,11,66.36,null,null],
+	[1703560864,1855,74,25.06,null,null],
 ]};
