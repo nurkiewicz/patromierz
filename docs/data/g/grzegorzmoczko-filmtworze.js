@@ -10,4 +10,5 @@ profiles["grzegorzmoczko-filmtworze"] = {
 	[1703390216,13432,461,29.13,null,null],
 	[1703477002,13467,463,29.08,null,null],
 	[1703562982,550,34,16.17,null,null],
+	[1703649307,2545,142,17.92,null,null],
 ]};

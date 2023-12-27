@@ -10,4 +10,5 @@ profiles["sandraguzek"] = {
 	[1703403433,246,15,16.4,null,null],
 	[1703490460,427,16,26.68,null,null],
 	[1703576253,null,215,null,null,null],
+	[1703662426,2545,142,17.92,null,null],
 ]};

@@ -10,4 +10,5 @@ profiles["NiezdecydowanaKaja"] = {
 	[1703397999,600,48,12.5,null,null],
 	[1703484923,550,34,16.17,null,null],
 	[1703570794,3210,194,16.54,null,null],
+	[1703656999,25,3,8.33,null,null],
 ]};

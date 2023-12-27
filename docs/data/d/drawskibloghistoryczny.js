@@ -9,4 +9,5 @@ profiles["drawskibloghistoryczny"] = {
 	[1703300814,2545,144,17.67,null,null],
 	[1703387313,2545,144,17.67,null,null],
 	[1703474018,12075,694,17.39,null,null],
+	[1703646411,12255,704,17.4,null,null],
 ]};

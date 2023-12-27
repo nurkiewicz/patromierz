@@ -11,4 +11,5 @@ profiles["zwierzakplyniedogryfina"] = {
 	[1703409619,1855,75,24.73,null,null],
 	[1703496782,18940,864,21.92,null,null],
 	[1703582467,2535,143,17.72,null,null],
+	[1703668590,4290,201,21.34,null,null],
 ]};

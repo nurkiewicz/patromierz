@@ -10,4 +10,5 @@ profiles["przedszgolaki"] = {
 	[1703315375,2120,56,37.85,null,null],
 	[1703488935,56315,3256,17.29,null,null],
 	[1703574751,null,215,null,null,null],
+	[1703660928,2545,142,17.92,null,null],
 ]};

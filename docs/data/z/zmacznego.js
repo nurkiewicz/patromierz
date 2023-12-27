@@ -569,4 +569,5 @@ profiles["zmacznego"] = {
 	[1703409431,21264,16,1329.0,null,null],
 	[1703496590,2535,16,158.43,null,null],
 	[1703582280,null,16,null,null,null],
+	[1703668404,null,16,null,null,null],
 ]};

@@ -11,4 +11,5 @@ profiles["StacjaKontroliTrakcji"] = {
 	[1703404645,10,1,10.0,null,null],
 	[1703491699,11575,434,26.67,null,null],
 	[1703577471,10,1,10.0,null,null],
+	[1703663635,427,16,26.68,null,null],
 ]};

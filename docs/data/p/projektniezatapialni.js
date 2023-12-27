@@ -11,4 +11,5 @@ profiles["projektniezatapialni"] = {
 	[1703401814,2545,143,17.79,null,null],
 	[1703488808,1470,69,21.3,null,null],
 	[1703574627,11908,512,23.25,null,null],
+	[1703660805,10,1,10.0,null,null],
 ]};

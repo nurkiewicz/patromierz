@@ -10,4 +10,5 @@ profiles["grupakulturawroclaw"] = {
 	[1703390143,50,3,16.66,null,null],
 	[1703476928,50,3,16.66,null,null],
 	[1703562907,701,24,29.2,null,null],
+	[1703649233,2930,209,14.01,null,null],
 ]};

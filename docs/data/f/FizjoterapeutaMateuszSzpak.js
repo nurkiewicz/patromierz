@@ -10,4 +10,5 @@ profiles["FizjoterapeutaMateuszSzpak"] = {
 	[1703388564,2930,209,14.01,null,null],
 	[1703475304,550,34,16.17,null,null],
 	[1703561312,1840,60,30.66,null,null],
+	[1703647660,2545,142,17.92,null,null],
 ]};

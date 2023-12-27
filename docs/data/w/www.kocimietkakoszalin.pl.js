@@ -11,4 +11,5 @@ profiles["www.kocimietkakoszalin.pl"] = {
 	[1703408534,1470,69,21.3,null,null],
 	[1703495675,2840,70,40.57,null,null],
 	[1703581380,2840,70,40.57,null,null],
+	[1703667512,1830,60,30.5,null,null],
 ]};

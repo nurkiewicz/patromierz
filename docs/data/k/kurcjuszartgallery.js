@@ -10,4 +10,5 @@ profiles["kurcjuszartgallery"] = {
 	[1703393911,600,48,12.5,null,null],
 	[1703480738,3210,194,16.54,null,null],
 	[1703566662,50,3,16.66,null,null],
+	[1703652935,25,3,8.33,null,null],
 ]};

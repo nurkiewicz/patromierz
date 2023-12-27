@@ -10,4 +10,5 @@ profiles["rockstars-racing"] = {
 	[1703403010,246,15,16.4,null,null],
 	[1703490026,427,16,26.68,null,null],
 	[1703575828,null,215,null,null,null],
+	[1703662004,2545,142,17.92,null,null],
 ]};

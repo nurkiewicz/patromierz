@@ -11,4 +11,5 @@ profiles["paulinakryspiakfotografia"] = {
 	[1703399452,1855,75,24.73,null,null],
 	[1703486409,2185,89,24.55,null,null],
 	[1703572254,325,22,14.77,null,null],
+	[1703658445,550,34,16.17,null,null],
 ]};

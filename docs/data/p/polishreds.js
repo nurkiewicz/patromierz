@@ -10,4 +10,5 @@ profiles["polishreds"] = {
 	[1703313966,null,216,null,null,null],
 	[1703487494,56315,3256,17.29,null,null],
 	[1703573331,null,215,null,null,null],
+	[1703659511,90,3,30.0,null,null],
 ]};

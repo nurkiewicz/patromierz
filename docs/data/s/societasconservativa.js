@@ -11,4 +11,5 @@ profiles["societasconservativa"] = {
 	[1703404325,1656,67,24.71,null,null],
 	[1703491369,418,18,23.22,null,null],
 	[1703577150,550,34,16.17,null,null],
+	[1703663315,1470,68,21.61,null,null],
 ]};

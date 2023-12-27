@@ -10,4 +10,5 @@ profiles["FundacjaSchroniskodlaZwierzatw"] = {
 	[1703389335,275,15,18.33,null,null],
 	[1703476094,1470,69,21.3,null,null],
 	[1703562090,1840,60,30.66,null,null],
+	[1703648428,1830,60,30.5,null,null],
 ]};

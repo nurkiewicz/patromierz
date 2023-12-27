@@ -11,4 +11,5 @@ profiles["OrderJanaIIISobieskiego"] = {
 	[1703398768,1656,67,24.71,null,null],
 	[1703485708,2535,142,17.85,null,null],
 	[1703571567,2930,209,14.01,null,null],
+	[1703657766,1656,66,25.09,null,null],
 ]};

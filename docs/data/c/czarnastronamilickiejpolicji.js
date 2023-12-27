@@ -10,4 +10,5 @@ profiles["czarnastronamilickiejpolicji"] = {
 	[1703386334,6875,202,34.03,null,null],
 	[1703473001,2930,209,14.01,null,null],
 	[1703559056,7115,205,34.7,null,null],
+	[1703645435,7120,206,34.56,null,null],
 ]};

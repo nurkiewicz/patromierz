@@ -10,4 +10,5 @@ profiles["gawryszewska.artstation.com"] = {
 	[1703389590,550,34,16.17,null,null],
 	[1703476356,730,11,66.36,null,null],
 	[1703562349,730,11,66.36,null,null],
+	[1703648682,1855,74,25.06,null,null],
 ]};

@@ -10,4 +10,5 @@ profiles["AkademiaBiznesudlaDzieci"] = {
 	[1703383134,2930,209,14.01,null,null],
 	[1703469718,550,34,16.17,null,null],
 	[1703555821,2930,209,14.01,null,null],
+	[1703642245,1470,69,21.3,null,null],
 ]};

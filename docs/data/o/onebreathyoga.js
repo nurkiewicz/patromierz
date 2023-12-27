@@ -9,4 +9,5 @@ profiles["onebreathyoga"] = {
 	[1703312122,null,216,null,null,null],
 	[1703485604,418,18,23.22,null,null],
 	[1703571465,550,34,16.17,null,null],
+	[1703657664,90,3,30.0,null,null],
 ]};

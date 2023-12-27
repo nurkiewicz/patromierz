@@ -10,4 +10,5 @@ profiles["HistorieZapomnianychBohaterów"] = {
 	[1703390635,13432,461,29.13,null,null],
 	[1703477438,13467,463,29.08,null,null],
 	[1703563409,550,34,16.17,null,null],
+	[1703649726,2545,142,17.92,null,null],
 ]};

@@ -11,4 +11,5 @@ profiles["sexpositiveinstitute"] = {
 	[1703403729,1656,67,24.71,null,null],
 	[1703490759,418,18,23.22,null,null],
 	[1703576550,550,34,16.17,null,null],
+	[1703662717,1470,68,21.61,null,null],
 ]};

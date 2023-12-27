@@ -574,4 +574,5 @@ profiles["RynnRysuje"] = {
 	[1703403260,720,74,9.72,null,null],
 	[1703490281,25,74,0.33,null,null],
 	[1703576078,2930,73,40.13,null,null],
+	[1703662252,null,75,null,null,null],
 ]};

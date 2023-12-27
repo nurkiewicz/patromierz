@@ -9,4 +9,6 @@ profiles["ChrześcijańskiVlog"] = {
 	[1703299419,21168,764,27.7,null,null],
 	[1703385924,1830,59,31.01,null,null],
 	[1703472582,12075,694,17.39,null,null],
+	[1703558646,null,20,null,null,null],
+	[1703645026,12255,704,17.4,null,null],
 ]};

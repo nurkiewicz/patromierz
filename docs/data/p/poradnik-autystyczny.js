@@ -7,4 +7,5 @@ profiles["poradnik-autystyczny"] = {
 	[1703314169,45,3,15.0,null,null],
 	[1703400729,45,3,15.0,null,null],
 	[1703487702,1470,69,21.3,null,null],
+	[1703659715,4810,124,38.79,null,null],
 ]};

@@ -9,4 +9,6 @@ profiles["Antyfeministyczna"] = {
 	[1703297294,21168,764,27.7,null,null],
 	[1703383804,1830,59,31.01,null,null],
 	[1703470406,2535,142,17.85,null,null],
+	[1703556500,null,20,null,null,null],
+	[1703642913,2170,57,38.07,null,null],
 ]};

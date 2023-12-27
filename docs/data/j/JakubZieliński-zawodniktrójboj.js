@@ -10,4 +10,5 @@ profiles["JakubZieliński-zawodniktrójboj"] = {
 	[1703391515,2545,144,17.67,null,null],
 	[1703478294,550,34,16.17,null,null],
 	[1703564253,2930,209,14.01,null,null],
+	[1703650557,2930,209,14.01,null,null],
 ]};

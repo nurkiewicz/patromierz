@@ -9,4 +9,5 @@ profiles["PanTyper"] = {
 	[1703312639,null,216,null,null,null],
 	[1703486133,56315,3256,17.29,null,null],
 	[1703571984,550,34,16.17,null,null],
+	[1703658179,90,3,30.0,null,null],
 ]};

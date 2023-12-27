@@ -10,4 +10,5 @@ profiles["runaddicts"] = {
 	[1703403212,246,15,16.4,null,null],
 	[1703490231,427,16,26.68,null,null],
 	[1703576030,null,215,null,null,null],
+	[1703662204,2545,142,17.92,null,null],
 ]};

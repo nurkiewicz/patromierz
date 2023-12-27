@@ -11,4 +11,5 @@ profiles["StuCytrusowyLas-Projekty"] = {
 	[1703405005,550,34,16.17,null,null],
 	[1703492073,1315,42,31.3,null,null],
 	[1703577838,325,22,14.77,null,null],
+	[1703663997,2910,209,13.92,null,null],
 ]};

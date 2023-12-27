@@ -11,4 +11,5 @@ profiles["psycholog-okoloporodowy"] = {
 	[1703402174,550,34,16.17,null,null],
 	[1703489177,418,18,23.22,null,null],
 	[1703574992,21264,761,27.94,null,null],
+	[1703661168,550,34,16.17,null,null],
 ]};

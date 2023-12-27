@@ -10,4 +10,5 @@ profiles["polskapilkakobiet"] = {
 	[1703314038,null,216,null,null,null],
 	[1703487567,56315,3256,17.29,null,null],
 	[1703573403,null,215,null,null,null],
+	[1703659584,90,3,30.0,null,null],
 ]};

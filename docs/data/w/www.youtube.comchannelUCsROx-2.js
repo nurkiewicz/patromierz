@@ -11,4 +11,5 @@ profiles["www.youtube.comchannelUCsROx-2"] = {
 	[1703408685,1470,69,21.3,null,null],
 	[1703495830,550,34,16.17,null,null],
 	[1703581532,2930,209,14.01,null,null],
+	[1703667665,7120,206,34.56,null,null],
 ]};

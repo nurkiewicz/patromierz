@@ -35,4 +35,5 @@ profiles["NaWychodnym"] = {
 	[1703397701,30,1,30.0,30,null],
 	[1703484617,30,null,null,30,null],
 	[1703570494,30,null,null,30,null],
+	[1703656703,30,null,null,30,null],
 ]};

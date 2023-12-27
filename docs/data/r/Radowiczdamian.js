@@ -11,4 +11,5 @@ profiles["Radowiczdamian"] = {
 	[1703402530,246,15,16.4,null,null],
 	[1703489538,427,16,26.68,null,null],
 	[1703575347,null,215,null,null,null],
+	[1703661523,2545,142,17.92,null,null],
 ]};

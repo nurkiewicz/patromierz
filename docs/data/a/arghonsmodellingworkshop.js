@@ -10,4 +10,5 @@ profiles["arghonsmodellingworkshop"] = {
 	[1703383930,2545,144,17.67,null,null],
 	[1703470537,3210,194,16.54,null,null],
 	[1703556630,21264,761,27.94,null,null],
+	[1703643040,3200,194,16.49,null,null],
 ]};

@@ -10,4 +10,5 @@ profiles["cholernysmakfranzowatejkafki"] = {
 	[1703385861,2938,55,53.41,null,null],
 	[1703472517,8847,221,40.03,null,null],
 	[1703558582,1152,47,24.51,null,null],
+	[1703644962,2545,142,17.92,null,null],
 ]};

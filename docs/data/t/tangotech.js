@@ -158,4 +158,5 @@ profiles["tangotech"] = {
 	[1703405750,25,2,12.5,null,null],
 	[1703492825,1470,2,735.0,null,null],
 	[1703578583,550,2,275.0,null,null],
+	[1703664735,null,2,null,null,null],
 ]};

@@ -10,4 +10,5 @@ profiles["CentrumMotoryzacjiHistorycznej"] = {
 	[1703385705,600,48,12.5,null,null],
 	[1703472356,56315,3256,17.29,null,null],
 	[1703558424,701,24,29.2,null,null],
+	[1703644807,600,48,12.5,null,null],
 ]};

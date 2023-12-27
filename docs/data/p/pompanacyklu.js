@@ -10,4 +10,5 @@ profiles["pompanacyklu"] = {
 	[1703314114,null,216,null,null,null],
 	[1703487645,56315,3256,17.29,null,null],
 	[1703573480,null,215,null,null,null],
+	[1703659660,90,3,30.0,null,null],
 ]};
