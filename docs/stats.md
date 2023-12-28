@@ -19,56 +19,56 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/a/agna28.js"></script>
-<script type="text/javascript" src="data/f/FAQRAK.js"></script>
-<script type="text/javascript" src="data/p/permakulturaifolk.js"></script>
-<script type="text/javascript" src="data/b/BartiFishing.js"></script>
-<script type="text/javascript" src="data/l/lubelakeu.js"></script>
-<script type="text/javascript" src="data/k/kusinakulture.js"></script>
-<script type="text/javascript" src="data/c/Chevy.js"></script>
-<script type="text/javascript" src="data/f/FundacjaTygodnikaPowszechnego.js"></script>
-<script type="text/javascript" src="data/3/315studio.pl.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/b/BiznesSluzbaBogu.js"></script>
-<script type="text/javascript" src="data/7/7zrodel.js"></script>
-<script type="text/javascript" src="data/l/lisiepismo.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/mafiapl.js"></script>
-<script type="text/javascript" src="data/b/Bastetowy.js"></script>
-<script type="text/javascript" src="data/a/akirawiktoria.js"></script>
-<script type="text/javascript" src="data/a/AsiaiHarfa.js"></script>
-<script type="text/javascript" src="data/a/AvinionDance.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/a/Armatki.js"></script>
-<script type="text/javascript" src="data/k/kulturanacodzien.js"></script>
-<script type="text/javascript" src="data/1/126pPartyBike.js"></script>
-<script type="text/javascript" src="data/a/ARTANI.js"></script>
-<script type="text/javascript" src="data/a/AlexRMG.js"></script>
-<script type="text/javascript" src="data/k/krypto-prawnik.js"></script>
-<script type="text/javascript" src="data/l/lowcytrendow.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/a/Ailes.js"></script>
-<script type="text/javascript" src="data/b/BonusBGC.js"></script>
-<script type="text/javascript" src="data/b/BanitaMaxxRadio.js"></script>
-<script type="text/javascript" src="data/f/Fakty.js"></script>
-<script type="text/javascript" src="data/e/Ewelina-Salon-Kultury-22.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/m/magazyndesu.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/a/agnieszkazielinska.js"></script>
-<script type="text/javascript" src="data/b/BeeRoyal.js"></script>
-<script type="text/javascript" src="data/a/agnieszkapatelska.js"></script>
-<script type="text/javascript" src="data/a/Abstrakt.js"></script>
-<script type="text/javascript" src="data/a/Artyfiction.js"></script>
+<script type="text/javascript" src="data/m/MarekMucharski.js"></script>
+<script type="text/javascript" src="data/m/maltreting.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/f/Fprp.js"></script>
+<script type="text/javascript" src="data/g/Gnatkowski.js"></script>
+<script type="text/javascript" src="data/m/MichalFilipek.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/g/GunTalkMusic.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/i/Isos.js"></script>
+<script type="text/javascript" src="data/m/magazyndesu.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/m/my-mobile.js"></script>
+<script type="text/javascript" src="data/m/MiejscaWeWroclawiu.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/n/newsmepl.js"></script>
+<script type="text/javascript" src="data/j/Jonek.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/m/malgofrej.js"></script>
+<script type="text/javascript" src="data/g/Garaż-na-Długiej.js"></script>
+<script type="text/javascript" src="data/j/Jowita.js"></script>
+<script type="text/javascript" src="data/a/ARTANI.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/f/Freshville.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/p/permakulturaifolk.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/i/Izdebski.js"></script>
+<script type="text/javascript" src="data/j/JimiOnGuitar.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Grupa Ailes", -54623], ["Armatki.net", -54623], ["agna28", -54623], ["RytmyNatury | Agnieszka Patelska-Rabenda", -54623], ["Agnieszka Zielińska", -54623], ["AKira - Wiktoria Poriazow", -54623], ["Exen", -54350], ["FAQRAK", -54350], ["Magazyn Dialogu Społecznego Fakty", -54350], ["Fundacja Tygodnika Powszechnego", -54350], ["Krypto-Prawnik", 54965], ["Kultura na co dzień", 54965], ["Kusi na Kulturę", 54965], ["LisiePismo", 54965], ["Łowcy Trendów", 54965], ["www.lubelak.eu", 54965], ["Mafia PL ", 54965], ["Magazyn Desu", 54965], ["Permakultura i folk", 55895], ["Salon Kultury ", 56285]], 'largest_changes');
+            drawHorizontal([["Fotografuję polskie rap płyty", -54335], ["Łukasz Pawłowski", -54335], ["Garaż na Długiej", -54335], ["Georg Gnatkowski", -54335], ["GunTalkMusic", -54335], ["Mateusz Tomczyk", -54335], ["Paweł Izdebski", -54335], ["JimiOnGuitar", -54335], ["Jonek", -54335], ["Jowita Sip", -54335], ["Magazyn Desu", 53515], ["Malgo Frej", 53515], ["Maltreting", 53515], ["Marek Mucharski", 53530], ["Michał Filipek", 53530], ["Miejsca we Wrocławiu ", 53530], ["My-mobile.pl", 53530], ["newsme.pl", 53530], ["ARTANI.ORG", 53930], ["Permakultura i folk", 56420]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','radiownet','DIOZ','langustanapalmie','126pPartyBike','315studio.pl','7zrodel','ARTANI','Abstrakt','AlexRMG','Artyfiction','AsiaiHarfa','AvinionDance','BanitaMaxxRadio','BartiFishing','Bastetowy','BeeRoyal','BiznesSluzbaBogu','BonusBGC','Chevy'], 
+                    ['DariuszRosiak','radiownet','DIOZ','langustanapalmie','dzialzagraniczny','marcinzielinski','dlr','karolinakp','wszewko','radionaukowe','UsłyszećNaCzas','sekielski','Podcastwojennehistorie','palhajstv','accantus','Vlogcasha','Zmierzchu','BezPlanu','rockserwisfm','planetaabstrakcja'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
