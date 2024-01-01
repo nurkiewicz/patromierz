@@ -64,4 +64,5 @@ profiles["arcanecathedralband"] = {
 	[1703822096,5,1,5.0,10,null],
 	[1703908502,5,null,null,10,null],
 	[1703994850,5,null,null,10,null],
+	[1704081244,5,null,null,10,null],
 ]};
