@@ -19,56 +19,49 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/permakulturaifolk.js"></script>
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/t/TKA.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/h/HokejoweSocios.js"></script>
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/w/womanincorset.js"></script>
-<script type="text/javascript" src="data/s/SibilaVocal.js"></script>
-<script type="text/javascript" src="data/s/Szarak.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/v/vulpis.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/z/zuzannawysocka.music.js"></script>
-<script type="text/javascript" src="data/s/SadRapArioch.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/z/zazyjkultury.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/s/Szymonpejski.js"></script>
-<script type="text/javascript" src="data/s/SLOWTEAM.js"></script>
-<script type="text/javascript" src="data/z/zespolgaweda.js"></script>
-<script type="text/javascript" src="data/z/zakiman.js"></script>
-<script type="text/javascript" src="data/t/TERAZPOLIŻ.js"></script>
-<script type="text/javascript" src="data/s/SachielSQ.js"></script>
-<script type="text/javascript" src="data/s/Sanders.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/w/www.majkajaszcz.com.js"></script>
-<script type="text/javascript" src="data/w/wschodyfestiwal.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/w/www.arturwardowski.com.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/s/SzyrGameStudio.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/o/OMZRIK.js"></script>
+<script type="text/javascript" src="data/g/gospodarpg.js"></script>
 <script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/z/Zrozumiec-Elektronike.js"></script>
+<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/m/monikajaruzelska.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/s/SebastianAntonowicz.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/w/WilanowRunCrew.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/l/luksusowetorebki.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["SLOWTEAM", -53560], ["Sachiel", -53560], ["Sad Rap Arioch", -53560], ["Sanders Music Festival", -53560], ["Sibila Extreme Vocal ", -53560], ["Szarak", -53560], ["Szymon Pejski", -53560], ["SzyrGameStudio", -53560], ["TERAZ POLIŻ", -53560], ["- Typowa Kielecka Akcja - ", -53560], ["Vulpis", 53495], ["Woman in Corset", 53495], ["Festiwal Wschody", 53495], ["Artur Wardowski", 53495], ["Majka Jaszcz", 53495], ["Maciej Zakrzewski", 53495], ["Zazyjkultury.pl", 53495], ["Zespół Artystyczny Gawęda na kole podbiegunowym", 53495], ["Zuzanna Wysocka", 53495], ["Permakultura i folk", 54975]], 'largest_changes');
+            drawHorizontal([["Gospoda RPG", -970], ["Sebastian Antonowicz", -880], ["WachU", -605], ["Zagłębie Sosnowiec Hokej", -450], ["LUKSUSOWE TOREBKI by Lux&Happy", -425], ["Maciek Malecki", -420], ["OMZRiK", -415], ["Historia Realna - Piotr Zychowicz", -360], ["Niedźwiecka o Zmierzchu", -347], ["Fundacja Szopowisko", -315], ["BezPlanu", 820], ["Monika Jaruzelska", 975], ["Borkoś", 1015], ["Radio Nowy Świat", 1061], ["Dwie Lewe Ręce", 1100], ["Piotr Górecki", 1460], ["Joanna Flis", 3370], ["Dział Zagraniczny", 6140], ["Radio Wnet", 7740], ["Radio 357", 30346]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','radiownet','DIOZ','langustanapalmie','dzialzagraniczny','dlr','marcinzielinski','karolinakp','wszewko','radionaukowe','UsłyszećNaCzas','sekielski','Podcastwojennehistorie','palhajstv','accantus','BezPlanu','Vlogcasha','Zmierzchu','rockserwisfm','planetaabstrakcja'], 
+                    ['DariuszRosiak','radiownet','DIOZ','dzialzagraniczny','langustanapalmie','dlr','marcinzielinski','karolinakp','wszewko','radionaukowe','UsłyszećNaCzas','sekielski','Podcastwojennehistorie','palhajstv','accantus','BezPlanu','Vlogcasha','Zmierzchu','rockserwisfm','planetaabstrakcja'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

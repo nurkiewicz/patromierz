@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["portalwarszawski"] = {
-"name": "Portal Warszawski/NOWA STRONA WWW",
+"name": "Portal Warszawski/Wspieraj niezależne media",
 "snapshots": [
 	[1622851200,755,15,50.33,4425,null],
 	[1627171200,635,13,48.84,5425,null],
@@ -645,4 +645,6 @@ profiles["portalwarszawski"] = {
 	[1703998123,85,2,42.5,9260,null],
 	[1704084561,85,2,42.5,9260,null],
 	[1704171321,85,2,42.5,9260,null],
+	[1704194907,85,2,42.5,9260,null],
+	[1704279682,85,2,42.5,9260,null],
 ]};
