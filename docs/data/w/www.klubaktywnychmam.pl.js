@@ -393,4 +393,5 @@ profiles["www.klubaktywnychmam.pl"] = {
 	[1704172824,null,1,null,1040,-2.0],
 	[1704196129,null,1,null,1040,-2.0],
 	[1704281251,null,1,null,1040,-2.0],
+	[1704345193,null,1,null,1040,-2.0],
 ]};
