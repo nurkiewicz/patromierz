@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["annaklosowska"] = {
-"name": "Anna Kłosowska - Odmęty Absurdu",
+"name": "Anna Kłosowska",
 "snapshots": [
 	[1643362395,635,38,16.71,29690,null],
 	[1643437415,635,38,16.71,29700,null],
@@ -652,4 +652,5 @@ profiles["annaklosowska"] = {
 	[1704192192,520,33,15.75,42630,null],
 	[1704276300,520,32,16.25,42645,null],
 	[1704340429,520,32,16.25,42645,null],
+	[1704426867,520,32,16.25,42645,null],
 ]};
