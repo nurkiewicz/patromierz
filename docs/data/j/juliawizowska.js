@@ -1,0 +1,7 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["juliawizowska"] = {
+"name": "Julia Wizowska. Z duchem natury",
+"snapshots": [
+	[1704536295,72,5,14.4,9984,null],
+	[1704601037,72,5,14.4,9984,null],
+]};

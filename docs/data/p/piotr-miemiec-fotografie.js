@@ -101,4 +101,6 @@ profiles["piotr-miemiec-fotografie"] = {
 	[1704194770,5,1,5.0,20,null],
 	[1704279509,5,1,5.0,20,null],
 	[1704343528,5,1,5.0,20,null],
+	[1704537450,null,1,null,20,null],
+	[1704602469,null,1,null,20,null],
 ]};
