@@ -651,4 +651,6 @@ profiles["sutari"] = {
 	[1704344534,20,1,20.0,1315,null],
 	[1704538242,20,null,null,1315,null],
 	[1704603416,20,null,null,1315,null],
+	[1704718205,20,null,null,1315,null],
+	[1704776268,20,null,null,1315,null],
 ]};

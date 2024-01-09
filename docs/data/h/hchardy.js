@@ -476,4 +476,6 @@ profiles["hchardy"] = {
 	[1704428215,10,1,10.0,1060,null],
 	[1704536071,10,null,null,1060,null],
 	[1704600768,10,null,null,1060,null],
+	[1704712537,10,null,null,1060,null],
+	[1704773594,10,null,null,1060,null],
 ]};

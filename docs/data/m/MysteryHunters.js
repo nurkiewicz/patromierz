@@ -174,4 +174,6 @@ profiles["MysteryHunters"] = {
 	[1704429584,null,1,null,4845,null],
 	[1704537078,null,1,null,4845,null],
 	[1704602003,null,1,null,4845,null],
+	[1704717153,null,1,null,4845,null],
+	[1704774843,null,1,null,4845,null],
 ]};

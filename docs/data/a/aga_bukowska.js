@@ -253,4 +253,6 @@ profiles["aga_bukowska"] = {
 	[1704426710,29,null,null,998,null],
 	[1704534960,29,null,null,998,null],
 	[1704599390,29,null,null,998,null],
+	[1704711482,29,null,null,998,null],
+	[1704772208,29,1,29.0,1027,null],
 ]};

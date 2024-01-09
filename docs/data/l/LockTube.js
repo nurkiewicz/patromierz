@@ -218,4 +218,6 @@ profiles["LockTube"] = {
 	[1704429035,21,1,21.0,3682,null],
 	[1704536677,21,null,null,3682,null],
 	[1704601504,21,null,null,3682,null],
+	[1704716780,21,null,null,3682,null],
+	[1704774340,21,null,null,3682,null],
 ]};
