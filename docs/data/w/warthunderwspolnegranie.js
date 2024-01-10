@@ -655,4 +655,5 @@ profiles["warthunderwspolnegranie"] = {
 	[1704603854,null,2,null,722,null],
 	[1704718523,null,2,null,722,null],
 	[1704776710,null,2,null,722,null],
+	[1704863088,5,2,2.5,727,null],
 ]};

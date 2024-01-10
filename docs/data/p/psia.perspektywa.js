@@ -3,4 +3,5 @@ profiles["psia.perspektywa"] = {
 "name": "Viktoria Niewrzela",
 "snapshots": [
 	[1704775714,50,1,50.0,50,null],
+	[1704862099,80,2,40.0,80,null],
 ]};
