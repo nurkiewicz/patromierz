@@ -4,4 +4,5 @@ profiles["AkcjaDlaDzikichZwierzat"] = {
 "snapshots": [
 	[1704772253,35,2,17.5,35,null],
 	[1704858657,35,2,17.5,35,null],
+	[1704945067,35,2,17.5,35,null],
 ]};
