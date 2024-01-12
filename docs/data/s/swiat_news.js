@@ -61,4 +61,5 @@ profiles["swiat_news"] = {
 	[1704776274,null,1,null,30,-1.0],
 	[1704862651,null,1,null,30,-1.0],
 	[1704949125,null,1,null,30,-1.0],
+	[1705035544,null,1,null,30,null],
 ]};

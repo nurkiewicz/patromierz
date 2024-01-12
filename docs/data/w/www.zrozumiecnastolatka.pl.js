@@ -269,4 +269,5 @@ profiles["www.zrozumiecnastolatka.pl"] = {
 	[1704776932,100,1,100.0,720,null],
 	[1704863309,100,null,null,720,null],
 	[1704949787,100,null,null,720,null],
+	[1705036224,100,null,null,720,null],
 ]};
