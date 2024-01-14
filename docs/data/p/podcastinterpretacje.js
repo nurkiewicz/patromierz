@@ -4,4 +4,5 @@ profiles["podcastinterpretacje"] = {
 "snapshots": [
 	[1705034625,20,2,10.0,20,null],
 	[1705121042,20,2,10.0,20,null],
+	[1705207477,20,2,10.0,20,null],
 ]};
