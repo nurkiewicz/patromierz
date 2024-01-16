@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PawelJezowski"] = {
-"name": "Paweł Jeżowski. Kremlinka Show.",
+"name": "Codzienny Ekonomiczny Przegląd",
 "snapshots": [
 	[1685594473,40,2,20.0,40,null],
 	[1685680486,40,2,20.0,40,null],
@@ -198,4 +198,5 @@ profiles["PawelJezowski"] = {
 	[1705120915,8700,214,40.65,36730,11.0],
 	[1705207349,8750,216,40.5,37360,13.0],
 	[1705293729,8810,215,40.97,37650,15.0],
+	[1705380083,8810,215,40.97,38210,15.0],
 ]};
