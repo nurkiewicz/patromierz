@@ -620,4 +620,5 @@ profiles["radiokuropatwa"] = {
 	[1705207887,500,null,null,13375,null],
 	[1705294271,500,null,null,13375,null],
 	[1705380618,500,null,null,13375,null],
+	[1705467226,500,1,500.0,13875,null],
 ]};

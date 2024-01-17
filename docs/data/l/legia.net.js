@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["legia.net"] = {
+"name": "Legia.Net",
+"snapshots": [
+	[1705465642,50,4,12.5,50,null],
+]};
