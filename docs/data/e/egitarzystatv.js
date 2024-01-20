@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["egitarzystatv"] = [
+profiles["egitarzystatv"] = {
+"name": "Jarosław Nyckowski - e-gitarzystaTV",
+"snapshots": [
 	[1643354411,75,4,18.75,3340,null],
 	[1643431961,75,4,18.75,3375,null],
 	[1643520575,75,4,18.75,3375,null],
@@ -261,4 +263,5 @@ profiles["egitarzystatv"] = [
 	[1687139817,10,1,10.0,3725,null],
 	[1687226180,null,1,null,3725,null],
 	[1687312454,null,1,null,3725,null],
-];
+	[1705723652,10,1,10.0,null,null],
+]};
