@@ -66,4 +66,5 @@ profiles["CWR"] = {
 	[1705550457,10,null,null,20,null],
 	[1705636946,10,null,null,20,null],
 	[1705723244,10,null,null,20,null],
+	[1705809625,10,1,10.0,30,null],
 ]};
