@@ -361,4 +361,5 @@ profiles["smoothsail-music"] = {
 	[1705640287,50,null,null,950,null],
 	[1705726691,50,null,null,950,null],
 	[1705812933,50,null,null,950,null],
+	[1705899373,50,1,50.0,1000,null],
 ]};
