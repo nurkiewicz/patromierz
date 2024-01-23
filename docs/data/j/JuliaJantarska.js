@@ -669,4 +669,5 @@ profiles["JuliaJantarska"] = {
 	[1705724421,10,null,null,1840,null],
 	[1705810670,10,null,null,1840,null],
 	[1705897087,10,null,null,1840,null],
+	[1705983546,10,1,10.0,1850,null],
 ]};

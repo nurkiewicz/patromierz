@@ -671,4 +671,5 @@ profiles["DobreMedia_projekty"] = {
 	[1705723380,50,1,50.0,3985,null],
 	[1705809760,50,null,null,3985,null],
 	[1705896165,50,null,null,3985,null],
+	[1705982613,50,null,null,3985,null],
 ]};
