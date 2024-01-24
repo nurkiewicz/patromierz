@@ -668,4 +668,5 @@ profiles["teatrprzypadkowferalnych"] = {
 	[1705813245,30,1,30.0,1820,null],
 	[1705899684,30,1,30.0,1820,null],
 	[1705986559,30,null,null,1820,null],
+	[1706072610,30,null,null,1820,null],
 ]};
