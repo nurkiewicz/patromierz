@@ -665,4 +665,5 @@ profiles["Trudnobyćkatolikiem"] = {
 	[1705986698,11060,359,30.8,null,2.0],
 	[1706072751,11065,359,30.82,null,3.0],
 	[1706245721,null,360,null,null,null],
+	[1706331870,null,360,null,null,null],
 ]};

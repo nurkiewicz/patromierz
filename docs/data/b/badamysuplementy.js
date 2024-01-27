@@ -186,4 +186,5 @@ profiles["badamysuplementy"] = {
 	[1705982118,null,1,null,115,null],
 	[1706068569,null,1,null,115,null],
 	[1706241350,null,1,null,115,-1.0],
+	[1706327698,null,1,null,115,-1.0],
 ]};
