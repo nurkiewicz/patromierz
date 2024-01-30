@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["RetroNostalgie"] = {
-"name": "Retro Nostalgie",
+"name": "Retro Nostalgie & SUPER❤️DŹWIĘKI",
 "snapshots": [
 	[1648352118,5,1,5.0,5,null],
 	[1648436760,5,1,5.0,5,null],
@@ -545,4 +545,5 @@ profiles["RetroNostalgie"] = {
 	[1706331156,86,6,14.33,437,1.0],
 	[1706417559,86,6,14.33,437,1.0],
 	[1706503981,86,6,14.33,437,1.0],
+	[1706590463,86,6,14.33,437,1.0],
 ]};
