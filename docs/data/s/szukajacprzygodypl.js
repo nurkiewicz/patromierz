@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["szukajacprzygodypl"] = {
-"name": "Szukając Przygody - Życie na Filipinach",
+"name": "Życie na Filipinach - Rafał Baran",
 "snapshots": [
 	[1598400000,635,15,42.33,2370,null],
 	[1643362179,405,9,45.0,11000,null],
@@ -676,4 +676,5 @@ profiles["szukajacprzygodypl"] = {
 	[1706418064,15,3,5.0,16260,-2.0],
 	[1706504489,50,4,12.5,16295,-1.0],
 	[1706590981,50,3,16.66,16295,-1.0],
+	[1706677281,50,3,16.66,16295,-1.0],
 ]};

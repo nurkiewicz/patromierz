@@ -677,4 +677,5 @@ profiles["hardcoroweharce"] = {
 	[1706415238,10,1,10.0,null,null],
 	[1706501652,10,1,10.0,null,null],
 	[1706588090,10,1,10.0,null,null],
+	[1706674444,10,1,10.0,null,null],
 ]};

@@ -673,4 +673,5 @@ profiles["katowice-wynajem"] = {
 	[1706415627,null,1,null,246,null],
 	[1706502043,null,1,null,246,null],
 	[1706588496,null,1,null,246,null],
+	[1706674832,null,1,null,246,null],
 ]};

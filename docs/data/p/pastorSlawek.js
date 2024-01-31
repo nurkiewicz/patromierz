@@ -92,4 +92,5 @@ profiles["pastorSlawek"] = {
 	[1706416896,100,1,100.0,300,null],
 	[1706503316,100,null,null,300,null],
 	[1706589792,100,null,null,300,null],
+	[1706676098,100,null,null,300,null],
 ]};
