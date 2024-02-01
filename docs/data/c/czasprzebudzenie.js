@@ -233,4 +233,5 @@ profiles["czasprzebudzenie"] = {
 	[1702003988,null,1,null,270,null],
 	[1702090242,null,1,null,270,null],
 	[1706673676,5,1,5.0,275,null],
+	[1706760177,5,1,5.0,275,null],
 ]};
