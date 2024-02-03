@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["maxliga"] = [
+profiles["maxliga"] = {
+"name": "Maxliga Warriors",
+"snapshots": [
 	[1677209427,500,2,250.0,500,null],
 	[1677382114,500,2,250.0,500,null],
 	[1677468412,500,2,250.0,500,null],
@@ -94,4 +96,5 @@ profiles["maxliga"] = [
 	[1686714648,150,1,150.0,1950,-17.0],
 	[1686801019,null,1,null,1950,-22.0],
 	[1686887308,null,1,null,1950,-22.0],
-];
+	[1706934670,10,1,10.0,1960,-2.0],
+]};
