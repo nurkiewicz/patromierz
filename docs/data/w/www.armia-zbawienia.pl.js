@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["www.armia-zbawienia.pl"] = {
+"name": "Armia Zbawienia",
+"snapshots": [
+	[1707023699,50,1,50.0,50,null],
+]};

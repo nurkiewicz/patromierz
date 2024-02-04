@@ -505,12 +505,5 @@ profiles["Delikate25"] = {
 	[1702609017,null,1,null,null,null],
 	[1702695602,null,1,null,null,null],
 	[1702781865,null,1,null,null,null],
-	[1702868410,null,1,null,null,null],
-	[1702954790,11881,1,11881.0,null,null],
-	[1703041181,2930,1,2930.0,null,null],
-	[1703127389,2960,null,null,null,null],
-	[1703300291,2545,null,null,null,null],
-	[1703386792,1830,null,null,null,null],
-	[1703473483,12075,null,null,null,null],
-	[1703645892,12255,null,null,null,null],
+	[1707019704,null,1,null,null,null],
 ]};

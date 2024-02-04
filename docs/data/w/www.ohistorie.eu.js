@@ -87,4 +87,5 @@ profiles["www.ohistorie.eu"] = {
 	[1706764391,10,1,10.0,30,null],
 	[1706850861,null,1,null,30,null],
 	[1706937067,null,1,null,30,null],
+	[1707023739,null,1,null,30,null],
 ]};
