@@ -739,5 +739,6 @@ profiles["miloszszymanski"] = {
 	[1706848487,null,798,null,null,null],
 	[1706934771,null,799,null,null,null],
 	[1707021472,null,797,null,null,null],
-	[1707107759,null,796,null,null,null],
+	[1707107759,13690,796,17.19,null,null],
+	[1707193971,null,797,null,null,null],
 ]};
