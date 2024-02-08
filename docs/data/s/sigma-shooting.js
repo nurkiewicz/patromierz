@@ -90,4 +90,5 @@ profiles["sigma-shooting"] = {
 	[1707109319,10,1,10.0,30,null],
 	[1707195358,10,1,10.0,30,null],
 	[1707281589,null,1,null,30,null],
+	[1707368040,null,1,null,30,null],
 ]};

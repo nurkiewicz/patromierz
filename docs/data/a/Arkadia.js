@@ -611,4 +611,5 @@ profiles["Arkadia"] = {
 	[1700878240,10,null,null,480,null],
 	[1700964630,10,null,null,480,null],
 	[1701050957,10,null,null,480,null],
+	[1707364412,30,1,30.0,510,null],
 ]};
