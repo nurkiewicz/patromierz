@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["patronite.plMagdalenaGabka"] = [
+profiles["patronite.plMagdalenaGabka"] = {
+"name": "Magdalena Gąbka",
+"snapshots": [
 	[1664513156,88,1,88.0,88,null],
 	[1664858512,88,1,88.0,88,null],
 	[1665204299,88,1,88.0,88,null],
@@ -161,4 +163,6 @@ profiles["patronite.plMagdalenaGabka"] = [
 	[1679907455,88,1,88.0,528,null],
 	[1679974628,88,1,88.0,528,null],
 	[1680076633,null,1,null,528,-2.0],
-];
+	[1680162723,null,1,null,528,-2.0],
+	[1707453708,88,1,88.0,616,null],
+]};
