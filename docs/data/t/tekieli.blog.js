@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["tekieli.blog"] = {
-"name": "ROBERT TEKIELI                           Wielka Encyklopedia Manipulacji",
+"name": "ROBERT TEKIELI                    TekieliTV",
 "snapshots": [
 	[1643358984,870,29,30.0,870,null],
 	[1643434913,870,29,30.0,870,null],
@@ -677,4 +677,5 @@ profiles["tekieli.blog"] = {
 	[1707282010,680,24,28.33,24530,null],
 	[1707368453,670,24,27.91,24540,null],
 	[1707454943,670,24,27.91,24570,null],
+	[1707541206,670,24,27.91,24570,null],
 ]};

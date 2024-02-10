@@ -26,4 +26,5 @@ profiles["Sztosgaraz"] = {
 	[1707281925,null,1,null,20,null],
 	[1707368369,null,1,null,20,null],
 	[1707454860,null,1,null,20,null],
+	[1707541126,null,1,null,20,null],
 ]};
