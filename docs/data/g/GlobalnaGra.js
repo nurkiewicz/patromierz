@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["GlobalnaGra"] = {
-"name": "Globalna Gra",
+"name": "Globalna Gra - Filip Dąb-Mirowski",
 "snapshots": [
 	[1589414400,445,28,15.89,3015,null],
 	[1596758400,370,24,15.41,4120,null],
@@ -683,4 +683,5 @@ profiles["GlobalnaGra"] = {
 	[1707538297,null,57,null,null,null],
 	[1707624645,null,57,null,null,null],
 	[1707711075,null,57,null,null,null],
+	[1707797631,null,57,null,null,null],
 ]};

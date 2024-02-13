@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pathlife"] = {
-"name": "Pathlife muzyka",
+"name": "Pathlife - zespół",
 "snapshots": [
 	[1643517197,40,1,40.0,40,null],
 	[1643609631,40,1,40.0,40,null],
@@ -683,4 +683,5 @@ profiles["pathlife"] = {
 	[1707540007,150,6,25.0,2110,null],
 	[1707626334,150,6,25.0,2110,null],
 	[1707712784,150,6,25.0,2110,null],
+	[1707799370,150,6,25.0,2110,null],
 ]};

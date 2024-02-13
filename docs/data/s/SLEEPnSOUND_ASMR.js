@@ -127,4 +127,5 @@ profiles["SLEEPnSOUND_ASMR"] = {
 	[1705553746,10,null,null,40,null],
 	[1705640256,10,null,null,40,null],
 	[1707713645,10,1,10.0,50,null],
+	[1707800245,10,1,10.0,50,null],
 ]};
