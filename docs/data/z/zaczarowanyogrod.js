@@ -689,4 +689,5 @@ profiles["zaczarowanyogrod"] = {
 	[1707628075,50,1,50.0,5100,null],
 	[1707714560,50,null,null,5100,null],
 	[1707801166,50,null,null,5100,null],
+	[1707887490,50,null,null,5100,null],
 ]};

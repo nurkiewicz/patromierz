@@ -3,4 +3,5 @@ profiles["www.ipw.com.pl"] = {
 "name": "Centrum Badań nad Państwowością Rosyjską",
 "snapshots": [
 	[1707801066,60,2,30.0,60,null],
+	[1707887388,60,2,30.0,60,null],
 ]};
