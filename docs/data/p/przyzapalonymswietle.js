@@ -678,4 +678,5 @@ profiles["przyzapalonymswietle"] = {
 	[1707713277,null,2,null,924,-1.0],
 	[1707799871,null,2,null,924,-1.0],
 	[1707886188,null,1,null,924,-1.0],
+	[1707972593,null,1,null,924,-1.0],
 ]};

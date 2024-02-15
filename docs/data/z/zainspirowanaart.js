@@ -68,4 +68,5 @@ profiles["zainspirowanaart"] = {
 	[1707455533,20,null,null,40,null],
 	[1707541775,20,null,null,40,null],
 	[1707628081,20,null,null,40,null],
+	[1707973883,10,1,10.0,50,null],
 ]};
