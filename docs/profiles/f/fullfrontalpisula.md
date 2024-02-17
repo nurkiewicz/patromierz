@@ -1,5 +1,5 @@
 ---
-title: Full Frontal Pisula | Patromierz
+title: Full Frontal Pisula | Statystyki patronite.pl | Patromierz
 
 permalink: /fullfrontalpisula
 ---

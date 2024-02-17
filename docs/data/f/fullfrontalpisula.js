@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fullfrontalpisula"] = [
+profiles["fullfrontalpisula"] = {
+"name": "Full Frontal Pisula",
+"snapshots": [
 	[1643357128,5,1,5.0,2565,null],
 	[1643438330,5,1,5.0,2565,null],
 	[1643520482,5,1,5.0,2565,null],
@@ -152,4 +154,5 @@ profiles["fullfrontalpisula"] = [
 	[1667622681,10,1,10.0,2595,null],
 	[1667709169,null,1,null,2595,null],
 	[1667795357,null,1,null,2595,null],
-];
+	[1708142924,25,1,25.0,2620,null],
+]};
