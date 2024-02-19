@@ -326,4 +326,5 @@ profiles["podlaskiecentrummodelarskie"] = {
 	[1708058651,21,1,21.0,182,null],
 	[1708145002,null,1,null,182,-1.0],
 	[1708231401,null,1,null,182,-1.0],
+	[1708317783,null,1,null,182,-1.0],
 ]};
