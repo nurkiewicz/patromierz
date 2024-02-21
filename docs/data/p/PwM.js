@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PwM"] = {
-"name": "Polki w medycynie",
+"name": "Polki w Medycynie",
 "snapshots": [
 	[1654739910,210,2,105.0,210,null],
 	[1654826376,210,2,105.0,210,null],
@@ -561,4 +561,5 @@ profiles["PwM"] = {
 	[1708231763,355,5,71.0,13205,null],
 	[1708318147,355,5,71.0,13205,null],
 	[1708404615,355,5,71.0,13205,null],
+	[1708490993,345,5,69.0,13205,null],
 ]};

@@ -697,4 +697,5 @@ profiles["fundacjaanalizsztuki"] = {
 	[1708229362,5,1,5.0,325,null],
 	[1708315739,null,1,null,325,null],
 	[1708402181,null,1,null,325,null],
+	[1708488565,null,1,null,325,null],
 ]};
