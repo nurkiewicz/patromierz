@@ -73,4 +73,5 @@ profiles["dziadkowiebiznesu"] = {
 	[1649045135,null,null,null,3000,null],
 	[1649069484,null,null,null,3000,null],
 	[1708488289,20,1,20.0,3020,null],
+	[1708574718,20,1,20.0,3020,null],
 ]};

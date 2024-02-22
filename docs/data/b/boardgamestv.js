@@ -18,4 +18,5 @@ profiles["boardgamestv"] = {
 	[1708315023,9,1,9.0,9,null],
 	[1708401457,9,1,9.0,9,null],
 	[1708487841,null,1,null,9,null],
+	[1708574267,null,1,null,9,null],
 ]};
