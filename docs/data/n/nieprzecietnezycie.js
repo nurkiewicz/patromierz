@@ -681,4 +681,5 @@ profiles["nieprzecietnezycie"] = {
 	[1707194263,5,2,2.5,5130,null],
 	[1707280534,null,2,null,5130,null],
 	[1707366965,null,1,null,5130,null],
+	[1708663077,10,1,10.0,5140,null],
 ]};
