@@ -1,6 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["przekanal"] = {
-"name": "PRZEkanał",
+"name": "PRZEkanał - nowy kanał na YouTube",
 "snapshots": [
 	[1708750343,330,9,36.66,330,null],
+	[1708836625,430,11,39.09,430,null],
 ]};

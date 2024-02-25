@@ -100,4 +100,5 @@ profiles["RAD_RECORDS"] = {
 	[1708577494,5,1,5.0,15,null],
 	[1708663903,5,null,null,15,null],
 	[1708750425,5,null,null,15,null],
+	[1708836705,5,null,null,15,null],
 ]};
