@@ -35,4 +35,5 @@ profiles["www.lavidajuntos.es"] = {
 	[1708665064,50,1,50.0,50,null],
 	[1708751612,50,1,50.0,50,null],
 	[1708837864,50,null,null,50,null],
+	[1708924450,50,null,null,50,null],
 ]};
