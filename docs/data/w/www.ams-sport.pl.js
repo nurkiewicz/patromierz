@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["www.ams-sport.pl"] = {
+"name": "Grupa Lekkoatletyczna AMS",
+"snapshots": [
+	[1709097250,20,1,20.0,20,null],
+]};

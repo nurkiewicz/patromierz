@@ -1,9 +1,9 @@
 ---
-title: "Bartosz Migas - tw\xF3rca internetowy | Statystyki patronite.pl | Patromierz"
+title: Archiwum XD - Bartosz Migas | Statystyki patronite.pl | Patromierz
 
 permalink: /bartoszmigas
 ---
 
-# [Bartosz Migas - twórca internetowy](https://patronite.pl/bartoszmigas)
+# [Archiwum XD - Bartosz Migas](https://patronite.pl/bartoszmigas)
 
 {% include profile.md name="bartoszmigas" prefix="b" %}
