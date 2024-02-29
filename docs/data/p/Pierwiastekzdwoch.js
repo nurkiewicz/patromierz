@@ -29,4 +29,5 @@ profiles["Pierwiastekzdwoch"] = {
 	[1708922716,5,1,5.0,5,null],
 	[1709009016,null,1,null,5,null],
 	[1709095560,null,1,null,5,null],
+	[1709181257,null,1,null,5,null],
 ]};
