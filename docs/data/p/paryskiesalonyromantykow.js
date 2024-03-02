@@ -71,4 +71,5 @@ profiles["paryskiesalonyromantykow"] = {
 	[1649050217,null,null,null,30,null],
 	[1649070880,null,null,null,30,null],
 	[1709268069,25,1,25.0,55,null],
+	[1709354527,25,1,25.0,55,null],
 ]};

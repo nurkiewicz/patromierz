@@ -1,5 +1,5 @@
 ---
-title: Filipiny moja historia | Patromierz
+title: Filipiny moja historia | Statystyki patronite.pl | Patromierz
 
 permalink: /stalinek7
 ---

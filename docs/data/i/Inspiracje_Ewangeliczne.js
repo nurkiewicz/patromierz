@@ -93,4 +93,5 @@ profiles["Inspiracje_Ewangeliczne"] = {
 	[1709093900,10,1,10.0,30,null],
 	[1709179576,10,1,10.0,30,null],
 	[1709266569,null,1,null,30,null],
+	[1709353023,null,1,null,30,null],
 ]};
