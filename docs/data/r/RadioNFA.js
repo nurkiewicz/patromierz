@@ -160,4 +160,5 @@ profiles["RadioNFA"] = {
 	[1709355126,25,1,25.0,300,null],
 	[1709441558,25,null,null,300,null],
 	[1709527853,25,null,null,300,null],
+	[1709614285,25,null,null,300,null],
 ]};
