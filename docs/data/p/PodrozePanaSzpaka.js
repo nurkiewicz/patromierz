@@ -71,4 +71,5 @@ profiles["PodrozePanaSzpaka"] = {
 	[1649041077,null,null,null,100,null],
 	[1649068410,null,null,null,100,null],
 	[1709700265,15,1,15.0,115,null],
+	[1709784592,15,1,15.0,115,null],
 ]};

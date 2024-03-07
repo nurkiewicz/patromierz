@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tv_atlantyda"] = [
+profiles["tv_atlantyda"] = {
+"name": "TV Atlantyda / Marcelo Zammenhoff",
+"snapshots": [
 	[1643356579,43,2,21.5,215,null],
 	[1643436566,43,2,21.5,215,null],
 	[1643523272,43,2,21.5,215,null],
@@ -228,4 +230,5 @@ profiles["tv_atlantyda"] = [
 	[1663047966,10,1,10.0,285,null],
 	[1663134136,null,1,null,285,null],
 	[1663220385,null,1,null,285,null],
-];
+	[1709785476,33,1,33.0,318,null],
+]};

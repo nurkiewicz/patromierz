@@ -4,4 +4,5 @@ profiles["www.fundacjadomswjakuba.com"] = {
 "snapshots": [
 	[1709615426,150,5,30.0,150,null],
 	[1709701792,150,5,30.0,150,null],
+	[1709785720,180,6,30.0,180,null],
 ]};
