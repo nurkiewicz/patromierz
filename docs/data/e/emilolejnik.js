@@ -713,4 +713,5 @@ profiles["emilolejnik"] = {
 	[1709611582,200,null,null,4800,null],
 	[1709697980,200,null,null,4800,null],
 	[1709782953,200,null,null,4800,null],
+	[1709894759,200,1,200.0,5000,null],
 ]};

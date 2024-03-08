@@ -1,9 +1,9 @@
 ---
-title: "Sesje na Pods\u0142uchu | Statystyki patronite.pl | Patromierz"
+title: "Pods\u0142uchane.pl | Statystyki patronite.pl | Patromierz"
 
 permalink: /sesje
 ---
 
-# [Sesje na Podsłuchu](https://patronite.pl/sesje)
+# [Podsłuchane.pl](https://patronite.pl/sesje)
 
 {% include profile.md name="sesje" prefix="s" %}
