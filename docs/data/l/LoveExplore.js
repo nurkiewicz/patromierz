@@ -713,4 +713,5 @@ profiles["LoveExplore"] = {
 	[1709699212,100,null,null,5240,null],
 	[1709783833,100,null,null,5240,null],
 	[1709896084,100,null,null,5240,null],
+	[1709958484,100,null,null,5240,null],
 ]};
