@@ -712,4 +712,5 @@ profiles["autobusy_slawka"] = {
 	[1709697293,15,2,7.5,null,null],
 	[1709894054,15,2,7.5,null,null],
 	[1709956525,15,2,7.5,null,null],
+	[1710042831,15,2,7.5,null,null],
 ]};

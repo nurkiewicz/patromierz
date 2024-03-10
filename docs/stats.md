@@ -19,46 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/t/TwojaPasja.js"></script>
-<script type="text/javascript" src="data/o/ObiegRzeczy.js"></script>
-<script type="text/javascript" src="data/t/Toniebajka.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/p/pmJezus.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/s/spragnieni.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/d/DominikMaluje.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/w/wolnesady.js"></script>
-<script type="text/javascript" src="data/m/marzenaerm.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/d/DEREVO.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
 <script type="text/javascript" src="data/k/krzysztofwojczal.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/d/DominikMaluje.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/t/TwojaPasja.js"></script>
+<script type="text/javascript" src="data/t/Toniebajka.js"></script>
 <script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/DEREVO.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
 <script type="text/javascript" src="data/a/akszly.js"></script>
-<script type="text/javascript" src="data/d/DudekoHistorii.js"></script>
-<script type="text/javascript" src="data/m/Marcin_Przybylek.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/p/pmJezus.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/w/wolnesady.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/k/Krzyzaniak.js"></script>
+<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
+<script type="text/javascript" src="data/s/spragnieni.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Fundacja Wolne Sądy", -2950], ["Radio 357", -2897], ["Obieg Rzeczy by Fundacja Splot Społeczny", -600], ["Dolnośląski Inspektorat Ochrony Zwierząt", -595], ["Marzena Erm", -580], ["Dudek o Historii", -528], ["Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery", -510], ["AKS ZŁY - klub sportowy w modelu społecznościowym", -500], ["Robert Skassa Prowadzi Mnie Jezus", -500], ["DOMINIK MALUJE", -499], ["SPRAGNIENI & PODOBNI OD ZAWSZE", 500], ["Podcast Wojenne Historie", 510], ["Fundacja Twoja Pasja", 512], ["Marcin Sergiusz Przybyłek", 550], ["Langusta na palmie", 610], ["De Revolutionibus Books", 645], ["Witold Gadowski", 1075], ["Marcin Zieliński | Fundacja Rozpal Wiarę", 1120], ["Toniebajka. Księgarnia z TYM potykaczem", 1205], ["Krzysztof Wojczal", 1708]], 'largest_changes');
+            drawHorizontal([["Fundacja Wolne Sądy", -2940], ["Radio 357", -2362], ["Dolnośląski Inspektorat Ochrony Zwierząt", -805], ["Wojtek Krzyżaniak: Głos Szczerej Słowiańskiej Szydery", -560], ["Dudek o Historii", -543], ["Przez Świat na Fazie", -520], ["AKS ZŁY - klub sportowy w modelu społecznościowym", -500], ["Robert Skassa Prowadzi Mnie Jezus", -500], ["DOMINIK MALUJE", -499], ["Kuszlewicz w imieniu", -458], ["SPRAGNIENI & PODOBNI OD ZAWSZE", 500], ["Fundacja Szopowisko", 500], ["Fundacja Twoja Pasja", 512], ["Podcast Wojenne Historie", 595], ["De Revolutionibus Books", 610], ["Witold Gadowski", 975], ["Radio Wnet", 1000], ["Marcin Zieliński | Fundacja Rozpal Wiarę", 1070], ["Toniebajka. Księgarnia z TYM potykaczem", 1251], ["Krzysztof Wojczal", 1812]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
