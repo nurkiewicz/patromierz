@@ -32,4 +32,5 @@ profiles["FromLoveToGames"] = {
 	[1710043662,null,1,null,100,null],
 	[1710130090,null,1,null,100,-4.0],
 	[1710216482,null,1,null,100,-4.0],
+	[1710302884,null,1,null,100,-4.0],
 ]};
