@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["kompasdlakobiet.pl"] = {
+"name": "Kompas dla Kobiet",
+"snapshots": [
+	[1710390029,50,1,50.0,50,null],
+]};
