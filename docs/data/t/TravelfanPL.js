@@ -17,4 +17,5 @@ profiles["TravelfanPL"] = {
 	[1710219632,20,1,20.0,20,null],
 	[1710306058,null,1,null,200,null],
 	[1710392486,null,1,null,200,null],
+	[1710478926,null,1,null,200,null],
 ]};

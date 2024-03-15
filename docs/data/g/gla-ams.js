@@ -3,4 +3,5 @@ profiles["gla-ams"] = {
 "name": "Grupa Lekkoatletyczna AMS",
 "snapshots": [
 	[1710389442,20,1,20.0,20,null],
+	[1710475884,20,1,20.0,20,null],
 ]};
