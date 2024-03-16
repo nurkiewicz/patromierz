@@ -307,4 +307,5 @@ profiles["Tactical-Beardman-Movement"] = {
 	[1710305898,10,1,10.0,350,null],
 	[1710392327,10,1,10.0,350,null],
 	[1710478765,10,null,null,350,null],
+	[1710565090,10,null,null,350,null],
 ]};
