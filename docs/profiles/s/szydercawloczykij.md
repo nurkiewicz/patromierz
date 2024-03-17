@@ -1,5 +1,5 @@
 ---
-title: "Szyderczy W\u0142\xF3czykij | Patromierz"
+title: "Szyderczy W\u0142\xF3czykij | Statystyki patronite.pl | Patromierz"
 
 permalink: /szydercawloczykij
 ---
