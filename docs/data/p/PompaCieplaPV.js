@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["PompaCieplaPV"] = [
+profiles["PompaCieplaPV"] = {
+"name": "Pompa Ciepła i PV",
+"snapshots": [
 	[1643356956,null,null,null,90,null],
 	[1643424355,null,null,null,90,null],
 	[1643525288,null,null,null,90,null],
@@ -228,4 +230,7 @@ profiles["PompaCieplaPV"] = [
 	[1665194993,null,1,null,241,-1.0],
 	[1665281638,null,1,null,241,-1.0],
 	[1665367987,null,1,null,241,-1.0],
-];
+	[1665454409,null,1,null,241,-1.0],
+	[1665540648,null,1,null,241,-1.0],
+	[1710737117,20,1,20.0,261,null],
+]};
