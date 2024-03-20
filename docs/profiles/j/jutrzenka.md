@@ -1,9 +1,9 @@
 ---
-title: Adam Jutrzenka | Statystyki patronite.pl | Patromierz
+title: "Jutrzenka P\u0142ock | Statystyki patronite.pl | Patromierz"
 
 permalink: /jutrzenka
 ---
 
-# [Adam Jutrzenka](https://patronite.pl/jutrzenka)
+# [Jutrzenka Płock](https://patronite.pl/jutrzenka)
 
 {% include profile.md name="jutrzenka" prefix="j" %}

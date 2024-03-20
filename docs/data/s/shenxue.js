@@ -3,4 +3,5 @@ profiles["shenxue"] = {
 "name": "Instytut Badań nad Teologią i Duchowością Dalekiego Wschodu",
 "snapshots": [
 	[1710824084,15,1,15.0,15,null],
+	[1710910459,15,1,15.0,15,null],
 ]};

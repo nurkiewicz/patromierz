@@ -706,4 +706,5 @@ profiles["Magiaumyslu"] = {
 	[1710649597,10,null,null,2290,null],
 	[1710736090,10,null,null,2290,null],
 	[1710822480,10,null,null,2290,null],
+	[1710908869,10,1,10.0,2300,null],
 ]};
