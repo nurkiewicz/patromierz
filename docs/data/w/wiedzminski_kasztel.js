@@ -4,4 +4,5 @@ profiles["wiedzminski_kasztel"] = {
 "snapshots": [
 	[1711084013,25,1,25.0,25,null],
 	[1711170374,25,1,25.0,25,null],
+	[1711256756,25,1,25.0,25,null],
 ]};
