@@ -723,4 +723,5 @@ profiles["TowarzystwoPrzyjaciółZiemiLąde"] = {
 	[1711083769,5,1,5.0,685,null],
 	[1711170133,5,1,5.0,685,null],
 	[1711256517,5,1,5.0,685,null],
+	[1711342881,null,1,null,685,null],
 ]};
