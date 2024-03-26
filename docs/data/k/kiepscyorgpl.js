@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kiepscyorgpl"] = [
+profiles["kiepscyorgpl"] = {
+"name": "Forum.kiepscy.org.pl",
+"snapshots": [
 	[1636761600,5,1,5.0,5,null],
 	[1643364616,5,1,5.0,20,null],
 	[1643438690,5,1,5.0,20,null],
@@ -211,4 +213,5 @@ profiles["kiepscyorgpl"] = [
 	[1697599541,5,1,5.0,130,null],
 	[1697686065,null,1,null,130,null],
 	[1697772418,null,1,null,130,null],
-];
+	[1711426830,10,1,10.0,140,null],
+]};
