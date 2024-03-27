@@ -732,4 +732,5 @@ profiles["kaftann"] = {
 	[1711253900,2385,69,34.56,209385,-1.0],
 	[1711340286,null,70,null,null,null],
 	[1711426730,null,70,null,null,null],
+	[1711513100,null,70,null,null,null],
 ]};
