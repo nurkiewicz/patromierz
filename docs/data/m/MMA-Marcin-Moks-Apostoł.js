@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["MMA-Marcin-Moks-Apostoł"] = [
+profiles["MMA-Marcin-Moks-Apostoł"] = {
+"name": "MMA - Marcin Moks Apostoł",
+"snapshots": [
 	[1643857950,20,1,20.0,1100,null],
 	[1643944366,20,1,20.0,1100,null],
 	[1644030777,20,1,20.0,1100,null],
@@ -151,4 +153,5 @@ profiles["MMA-Marcin-Moks-Apostoł"] = [
 	[1689998482,null,1,null,1420,-3.0],
 	[1690084936,null,1,null,1420,-3.0],
 	[1690171575,null,1,null,1420,-3.0],
-];
+	[1711600348,100,1,100.0,1520,null],
+]};
