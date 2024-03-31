@@ -35,4 +35,5 @@ profiles["sen"] = {
 	[1711601648,100,null,null,100,null],
 	[1711688048,100,null,null,100,null],
 	[1711774510,100,null,null,100,null],
+	[1711857200,100,null,null,100,null],
 ]};

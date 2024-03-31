@@ -3,4 +3,5 @@ profiles["nintendofamilly"] = {
 "name": "Nintendofamilly",
 "snapshots": [
 	[1711773462,250,2,125.0,250,null],
+	[1711856174,280,3,93.33,280,null],
 ]};
