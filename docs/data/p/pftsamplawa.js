@@ -6,4 +6,5 @@ profiles["pftsamplawa"] = {
 	[1711856476,175,6,29.16,175,null],
 	[1711942929,195,7,27.85,195,null],
 	[1712029300,null,7,null,null,null],
+	[1712115718,null,7,null,null,null],
 ]};
