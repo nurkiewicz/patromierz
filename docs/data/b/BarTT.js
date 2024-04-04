@@ -94,4 +94,5 @@ profiles["BarTT"] = {
 	[1711770965,null,1,null,null,-1.0],
 	[1711853715,null,1,null,null,-1.0],
 	[1712112941,20,1,20.0,null,null],
+	[1712199379,20,1,20.0,null,null],
 ]};

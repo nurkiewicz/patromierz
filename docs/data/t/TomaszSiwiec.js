@@ -357,4 +357,5 @@ profiles["TomaszSiwiec"] = {
 	[1711944158,60,null,null,1140,null],
 	[1712030517,60,null,null,1140,null],
 	[1712116940,60,null,null,1140,null],
+	[1712203436,60,1,60.0,1200,null],
 ]};

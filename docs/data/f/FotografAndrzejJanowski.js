@@ -128,4 +128,5 @@ profiles["FotografAndrzejJanowski"] = {
 	[1711940895,null,1,null,70,null],
 	[1712027294,null,1,null,70,null],
 	[1712113710,null,1,null,70,null],
+	[1712200161,null,1,null,70,-1.0],
 ]};
