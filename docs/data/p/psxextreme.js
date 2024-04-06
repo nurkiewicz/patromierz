@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["psxextreme"] = {
-"name": "PSX EXTREME",
+"name": "PSX Extreme",
 "snapshots": [
 	[1618185600,10913,196,55.67,13928,null],
 	[1618358400,11137,201,55.4,15499,null],
@@ -826,4 +826,5 @@ profiles["psxextreme"] = {
 	[1712116167,7545,199,37.91,null,-12.0],
 	[1712202652,7545,199,37.91,null,-12.0],
 	[1712289018,7558,200,37.79,null,-13.0],
+	[1712375320,7558,200,37.79,null,-13.0],
 ]};

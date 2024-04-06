@@ -1,9 +1,9 @@
 ---
-title: PSX EXTREME | Statystyki patronite.pl | Patromierz
+title: PSX Extreme | Statystyki patronite.pl | Patromierz
 
 permalink: /psxextreme
 ---
 
-# [PSX EXTREME](https://patronite.pl/psxextreme)
+# [PSX Extreme](https://patronite.pl/psxextreme)
 
 {% include profile.md name="psxextreme" prefix="p" %}
