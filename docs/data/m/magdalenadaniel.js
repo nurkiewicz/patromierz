@@ -741,4 +741,5 @@ profiles["magdalenadaniel"] = {
 	[1712201328,25,null,null,1150,null],
 	[1712287707,25,null,null,1150,null],
 	[1712374030,25,null,null,1150,null],
+	[1712460399,25,1,25.0,1175,null],
 ]};

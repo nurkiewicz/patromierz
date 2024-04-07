@@ -180,4 +180,5 @@ profiles["ankaskakanka"] = {
 	[1712199204,100,1,100.0,860,null],
 	[1712285610,100,null,null,860,null],
 	[1712371952,100,null,null,860,null],
+	[1712458346,100,null,null,860,null],
 ]};

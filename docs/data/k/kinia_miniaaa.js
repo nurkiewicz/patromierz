@@ -40,4 +40,5 @@ profiles["kinia_miniaaa"] = {
 	[1712200897,100,null,null,385,null],
 	[1712287286,100,null,null,385,null],
 	[1712373609,100,null,null,385,null],
+	[1712459980,100,null,null,385,null],
 ]};
