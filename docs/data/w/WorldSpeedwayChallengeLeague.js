@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["WorldSpeedwayChallengeLeague"] = [
+profiles["WorldSpeedwayChallengeLeague"] = {
+"name": "World Speedway Challenge League WSCL",
+"snapshots": [
 	[1643357375,30,2,15.0,565,null],
 	[1643425636,30,2,15.0,565,null],
 	[1643523812,30,2,15.0,565,null],
@@ -179,4 +181,5 @@ profiles["WorldSpeedwayChallengeLeague"] = [
 	[1677574974,20,1,20.0,675,null],
 	[1677651189,20,1,20.0,675,null],
 	[1677749512,20,1,20.0,675,null],
-];
+	[1712722084,20,1,20.0,695,null],
+]};
