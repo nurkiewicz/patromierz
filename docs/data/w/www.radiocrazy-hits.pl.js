@@ -126,4 +126,5 @@ profiles["www.radiocrazy-hits.pl"] = {
 	[1712551537,null,2,null,120,-1.0],
 	[1712635810,null,1,null,120,-1.0],
 	[1712722168,null,1,null,120,-1.0],
+	[1712808554,null,1,null,120,-1.0],
 ]};

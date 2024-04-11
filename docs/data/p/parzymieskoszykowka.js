@@ -4,4 +4,5 @@ profiles["parzymieskoszykowka"] = {
 "snapshots": [
 	[1712634061,50,1,50.0,50,null],
 	[1712720429,60,2,30.0,60,null],
+	[1712806831,60,2,30.0,60,null],
 ]};
