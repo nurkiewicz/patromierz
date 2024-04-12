@@ -748,4 +748,5 @@ profiles["KMSzczecin"] = {
 	[1712632888,200,1,200.0,3905,null],
 	[1712719259,200,null,null,3905,null],
 	[1712805667,200,null,null,3905,null],
+	[1712892021,200,null,null,3905,null],
 ]};
