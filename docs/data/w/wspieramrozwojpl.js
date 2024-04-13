@@ -751,4 +751,5 @@ profiles["wspieramrozwojpl"] = {
 	[1712722100,50,4,12.5,null,null],
 	[1712808485,50,4,12.5,null,null],
 	[1712894784,50,4,12.5,null,null],
+	[1712981308,50,4,12.5,null,null],
 ]};
