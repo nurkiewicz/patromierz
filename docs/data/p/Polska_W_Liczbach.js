@@ -756,4 +756,5 @@ profiles["Polska_W_Liczbach"] = {
 	[1713239073,25,null,null,1100,null],
 	[1713325586,25,null,null,1100,null],
 	[1713411919,25,null,null,1100,null],
+	[1713498311,25,null,null,1100,null],
 ]};
