@@ -248,4 +248,5 @@ profiles["oakinvestor"] = {
 	[1713325150,5,1,5.0,195,null],
 	[1713411496,null,1,null,200,null],
 	[1713497887,null,1,null,200,null],
+	[1713584273,null,1,null,200,null],
 ]};
