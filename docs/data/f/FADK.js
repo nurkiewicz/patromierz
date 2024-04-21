@@ -3,4 +3,5 @@ profiles["FADK"] = {
 "name": "Fundacja Alarm dla Klimatu",
 "snapshots": [
 	[1713582425,20,1,20.0,20,null],
+	[1713668881,20,1,20.0,20,null],
 ]};

@@ -756,4 +756,5 @@ profiles["SNACK_KASIIULI"] = {
 	[1713412594,null,1,null,5310,-1.0],
 	[1713498993,null,1,null,5310,-1.0],
 	[1713585380,null,1,null,5310,-1.0],
+	[1713671861,null,1,null,5310,null],
 ]};
