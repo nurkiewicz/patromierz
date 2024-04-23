@@ -4,4 +4,5 @@ profiles["www.fundacjasamoczucie.com"] = {
 "snapshots": [
 	[1713672654,5,1,5.0,5,null],
 	[1713758957,105,2,52.5,105,null],
+	[1713845380,125,4,31.25,125,null],
 ]};

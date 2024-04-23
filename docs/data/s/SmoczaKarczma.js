@@ -92,4 +92,5 @@ profiles["SmoczaKarczma"] = {
 	[1713585372,10,1,10.0,30,null],
 	[1713671853,10,1,10.0,30,null],
 	[1713758156,null,1,null,30,null],
+	[1713844581,null,1,null,30,null],
 ]};
