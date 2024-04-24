@@ -123,4 +123,5 @@ profiles["TransferyPilkarskieOficjalnie"] = {
 	[1713672280,null,1,null,60,-1.0],
 	[1713758585,null,1,null,60,-1.0],
 	[1713845005,null,1,null,60,-1.0],
+	[1713931629,null,1,null,60,-1.0],
 ]};

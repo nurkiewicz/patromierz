@@ -3,4 +3,5 @@ profiles["ossolineum"] = {
 "name": "Zakład Narodowy im. Ossolińskich",
 "snapshots": [
 	[1713843582,150,1,150.0,150,null],
+	[1713930157,150,1,150.0,150,null],
 ]};
