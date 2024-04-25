@@ -1,5 +1,5 @@
 ---
-title: "Po\u017Cegnanie Bia\u0142ego Wilka | Patromierz"
+title: "Po\u017Cegnanie Bia\u0142ego Wilka | Statystyki patronite.pl | Patromierz"
 
 permalink: /pozegnanie
 ---

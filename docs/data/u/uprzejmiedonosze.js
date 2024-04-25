@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["uprzejmiedonosze"] = {
-"name": "Uprzejmie Donoszę",
+"name": "Uprzejmie Donoszę i Miejska Agenda Parkingowa",
 "snapshots": [
 	[1680163573,75,2,37.5,75,null],
 	[1680250798,100,3,33.33,100,null],
@@ -355,4 +355,5 @@ profiles["uprzejmiedonosze"] = {
 	[1713758675,1075,36,29.86,8670,4.0],
 	[1713845095,1075,36,29.86,8770,4.0],
 	[1713931725,1085,37,29.32,8780,4.0],
+	[1714018019,1095,38,28.81,8810,5.0],
 ]};
