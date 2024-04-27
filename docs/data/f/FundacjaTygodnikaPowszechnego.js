@@ -196,4 +196,5 @@ profiles["FundacjaTygodnikaPowszechnego"] = {
 	[1713928336,null,133,null,null,null],
 	[1714014694,null,133,null,null,null],
 	[1714101079,null,132,null,null,null],
+	[1714187464,null,132,null,null,null],
 ]};
