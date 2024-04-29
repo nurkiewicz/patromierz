@@ -763,4 +763,5 @@ profiles["justhorses"] = {
 	[1714101560,50,1,50.0,6740,null],
 	[1714187953,50,null,null,6740,null],
 	[1714274301,50,null,null,6740,null],
+	[1714362157,50,null,null,6740,null],
 ]};
