@@ -198,4 +198,5 @@ profiles["Telemarkgirl"] = {
 	[1714190551,100,1,100.0,660,null],
 	[1714276857,100,null,null,660,null],
 	[1714366148,100,null,null,660,null],
+	[1714452351,100,null,null,660,null],
 ]};
