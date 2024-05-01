@@ -131,4 +131,5 @@ profiles["haierpi"] = {
 	[1714274000,20,1,20.0,80,null],
 	[1714361697,20,null,null,80,null],
 	[1714448045,20,null,null,80,null],
+	[1714533279,20,null,null,80,null],
 ]};
