@@ -766,4 +766,5 @@ profiles["hardkorowahistoria"] = {
 	[1714361717,12,1,12.0,1467,null],
 	[1714448064,12,1,12.0,1467,null],
 	[1714533294,null,1,null,1467,null],
+	[1714619740,null,1,null,1467,null],
 ]};
