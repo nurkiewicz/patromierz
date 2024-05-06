@@ -588,4 +588,5 @@ profiles["szczuply_inaczej"] = {
 	[1714709056,40,1,40.0,870,null],
 	[1714795363,40,null,null,870,null],
 	[1714881746,40,null,null,870,null],
+	[1714968097,40,null,null,870,null],
 ]};
