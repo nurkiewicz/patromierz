@@ -195,4 +195,5 @@ profiles["zaklinaczbykow"] = {
 	[1714882471,null,21,null,null,null],
 	[1714968818,null,22,null,null,null],
 	[1715055135,null,22,null,null,null],
+	[1715141688,1030,23,44.78,null,18.0],
 ]};
