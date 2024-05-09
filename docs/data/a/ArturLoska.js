@@ -253,4 +253,5 @@ profiles["ArturLoska"] = {
 	[1714964063,10,null,null,2165,null],
 	[1715050487,10,null,null,2165,null],
 	[1715136881,10,null,null,2165,null],
+	[1715223252,10,1,10.0,2175,null],
 ]};
