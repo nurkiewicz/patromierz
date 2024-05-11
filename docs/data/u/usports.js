@@ -63,4 +63,5 @@ profiles["usports"] = {
 	[1701333450,20,null,null,40,null],
 	[1701419744,20,null,null,40,null],
 	[1701506126,20,null,null,40,null],
+	[1715400342,24,4,6.0,72,null],
 ]};
