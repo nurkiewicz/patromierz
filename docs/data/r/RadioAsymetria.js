@@ -4,4 +4,5 @@ profiles["RadioAsymetria"] = {
 "snapshots": [
 	[1715313172,5,1,5.0,5,null],
 	[1715399468,5,1,5.0,5,null],
+	[1715485826,5,1,5.0,5,null],
 ]};

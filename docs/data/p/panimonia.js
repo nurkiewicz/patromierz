@@ -773,4 +773,5 @@ profiles["panimonia"] = {
 	[1715226080,5,1,5.0,3500,null],
 	[1715312538,5,null,null,3500,null],
 	[1715398851,5,null,null,3500,null],
+	[1715485214,5,null,null,3500,null],
 ]};
