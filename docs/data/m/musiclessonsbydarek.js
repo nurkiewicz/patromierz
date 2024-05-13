@@ -776,4 +776,5 @@ profiles["musiclessonsbydarek"] = {
 	[1715312161,50,3,16.66,null,null],
 	[1715398478,40,3,13.33,null,null],
 	[1715484850,40,3,13.33,null,null],
+	[1715571278,40,2,20.0,null,null],
 ]};
