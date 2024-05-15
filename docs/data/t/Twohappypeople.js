@@ -780,4 +780,5 @@ profiles["Twohappypeople"] = {
 	[1715486630,100,null,null,null,null],
 	[1715573062,100,null,null,null,null],
 	[1715659523,100,null,null,null,null],
+	[1715745971,100,1,100.0,null,null],
 ]};
