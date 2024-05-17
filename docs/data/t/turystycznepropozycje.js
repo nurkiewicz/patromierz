@@ -4,4 +4,5 @@ profiles["turystycznepropozycje"] = {
 "snapshots": [
 	[1715745962,50,1,50.0,50,null],
 	[1715832418,50,1,50.0,50,null],
+	[1715918894,50,1,50.0,50,null],
 ]};

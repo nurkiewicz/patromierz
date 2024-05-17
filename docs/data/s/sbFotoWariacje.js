@@ -98,4 +98,5 @@ profiles["sbFotoWariacje"] = {
 	[1715658896,5,null,null,15,null],
 	[1715745348,5,null,null,15,null],
 	[1715831797,5,null,null,15,null],
+	[1715918265,5,1,5.0,20,null],
 ]};

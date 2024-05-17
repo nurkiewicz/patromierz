@@ -330,4 +330,5 @@ profiles["squash"] = {
 	[1715659115,null,1,null,1845,-2.0],
 	[1715745564,null,1,null,1845,null],
 	[1715832016,null,1,null,1845,null],
+	[1715918489,null,1,null,1845,null],
 ]};
