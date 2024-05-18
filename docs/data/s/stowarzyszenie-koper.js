@@ -4,4 +4,5 @@ profiles["stowarzyszenie-koper"] = {
 "snapshots": [
 	[1715832064,20,1,20.0,20,null],
 	[1715918537,20,1,20.0,20,null],
+	[1716004847,20,1,20.0,20,null],
 ]};

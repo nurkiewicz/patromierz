@@ -19,44 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/l/LukaszNowacki.js"></script>
-<script type="text/javascript" src="data/z/ZGlowaWGwiazdach.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/o/OMZRIK.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/p/pingwinekrehabilitacji.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/s/SzparuMen.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/k/karolinabacapogorzelska.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
 <script type="text/javascript" src="data/m/miliholicy.js"></script>
+<script type="text/javascript" src="data/a/automatyczni.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/o/OMZRIK.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/p/pingwinekrehabilitacji.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/k/karolinabacapogorzelska.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/RadioJAZZFM.js"></script>
+<script type="text/javascript" src="data/k/kezu5osiem100.js"></script>
+<script type="text/javascript" src="data/m/Mileobrazki.js"></script>
+<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/q/QTStudio.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/l/LukaszNowacki.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -3087], ["Łukasz Nowacki", -2450], ["KEZUVLOG - Poszukując prawdy...", -670], ["Dolnośląski Inspektorat Ochrony Zwierząt", -640], ["Julia Bardini-Cimoch", -437], ["Dariusz Rosiak", -400], ["BezPlanu", -350], ["OMZRiK", -340], ["SzparuMen", -317], ["Joanna Flis", -305], ["Dwie Lewe Ręce", 575], ["Podcast Wojenne Historie", 625], ["Karol Wójcicki | Z głową w gwiazdach", 640], ["Dobry wieczór Europo!", 643], ["AstroLife", 720], ["Wojciech Szewko", 910], ["Karolina Baca-Pogorzelska", 1134], ["Miliholicy", 1560], ["Radio Wnet", 1730], ["Exen", 3350]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -4091], ["Łukasz Nowacki", -2450], ["Witold Gadowski", -1125], ["Dolnośląski Inspektorat Ochrony Zwierząt", -1045], ["KEZUVLOG - Poszukując prawdy...", -670], ["AUTOmatyczni", -500], ["Julia Bardini-Cimoch", -437], ["Dariusz Rosiak", -385], ["QT Studio", -350], ["OMZRiK", -340], ["Miłe Obrazki - Maria Kaczorowska", 473], ["Borkoś", 475], ["RadioJAZZ.FM  ", 480], ["AstroLife", 590], ["Fundacja Kosmos dla Dziewczynek", 1085], ["Karolina Baca-Pogorzelska", 1191], ["Wojciech Szewko", 1210], ["Miliholicy", 1610], ["Radio Wnet", 2270], ["Exen", 3210]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
