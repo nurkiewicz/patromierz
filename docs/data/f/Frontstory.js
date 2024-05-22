@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Frontstory"] = {
-"name": "FRONTSTORY",
+"name": "FRONTSTORY.PL",
 "snapshots": [
 	[1681804263,80,3,26.66,80,null],
 	[1681866322,80,3,26.66,80,null],
@@ -368,4 +368,5 @@ profiles["Frontstory"] = {
 	[1716088202,720,22,32.72,8665,null],
 	[1716174638,720,22,32.72,8690,null],
 	[1716261027,820,23,35.65,8790,3.0],
+	[1716347448,820,23,35.65,8815,3.0],
 ]};
