@@ -30,4 +30,5 @@ profiles["CyfrowePokolenie"] = {
 	[1716174130,null,2,null,100,null],
 	[1716260520,null,2,null,100,null],
 	[1716346935,null,2,null,100,null],
+	[1716434075,null,2,null,100,-4.0],
 ]};
