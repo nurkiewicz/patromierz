@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ISKK"] = [
+profiles["ISKK"] = {
+"name": "Instytut Statystyki Kościoła Katolickiego (ISKK)",
+"snapshots": [
 	[1643352644,5,1,5.0,5,null],
 	[1643426956,5,1,5.0,5,null],
 	[1643513810,5,1,5.0,5,null],
@@ -109,4 +111,5 @@ profiles["ISKK"] = [
 	[1696561589,null,1,null,20,null],
 	[1696907111,null,1,null,20,null],
 	[1697166390,null,1,null,20,null],
-];
+	[1716520672,5,1,5.0,25,null],
+]};
