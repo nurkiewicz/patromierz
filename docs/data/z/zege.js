@@ -190,4 +190,5 @@ profiles["zege"] = {
 	[1716440407,null,50,null,2200,null],
 	[1716524129,null,52,null,2240,null],
 	[1716610584,null,54,null,2275,null],
+	[1716783263,null,53,null,2285,null],
 ]};
