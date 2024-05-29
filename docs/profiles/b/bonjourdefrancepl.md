@@ -1,9 +1,9 @@
 ---
-title: "Darmowa nauka j\u0119zyk\xF3w obcych | Statystyki patronite.pl | Patromierz"
+title: "J\u0119zyk francuski dla Polak\xF3w | Statystyki patronite.pl | Patromierz"
 
 permalink: /bonjourdefrancepl
 ---
 
-# [Darmowa nauka języków obcych](https://patronite.pl/bonjourdefrancepl)
+# [Język francuski dla Polaków](https://patronite.pl/bonjourdefrancepl)
 
 {% include profile.md name="bonjourdefrancepl" prefix="b" %}

@@ -533,4 +533,5 @@ profiles["Krzykosiaki"] = {
 	[1716607549,50,1,50.0,990,null],
 	[1716780268,50,null,null,990,null],
 	[1716866799,50,null,null,990,null],
+	[1716952995,50,null,null,990,null],
 ]};

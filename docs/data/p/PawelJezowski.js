@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PawelJezowski"] = {
-"name": "Kremlinka Show🟥 Codzienny Ekonomiczny Przegląd 🟥 Paweł Jeżowski  🟥 Mateusz Lech 🟥 Marek Meissner🟥 Łukasz Kobierski",
+"name": "Kremlinka Show 🟥 CEP 🟥 Paweł Jeżowski, Mateusz Lech, Marek Meissner, Łukasz Kobierskim, Aleksandra Fedorska, Marek Kozubel",
 "snapshots": [
 	[1685594473,40,2,20.0,40,null],
 	[1685680486,40,2,20.0,40,null],
@@ -330,4 +330,5 @@ profiles["PawelJezowski"] = {
 	[1716608689,12513,326,38.38,86860,7.0],
 	[1716781391,12448,327,38.06,87441,4.0],
 	[1716867964,12448,327,38.06,87501,3.0],
+	[1716954087,12548,328,38.25,87791,8.0],
 ]};
