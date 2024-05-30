@@ -189,4 +189,5 @@ profiles["bezpiecznyblog"] = {
 	[1714877847,100,null,null,600,null],
 	[1714964210,100,null,null,600,null],
 	[1715050632,100,null,null,600,null],
+	[1717037853,100,1,100.0,700,null],
 ]};
