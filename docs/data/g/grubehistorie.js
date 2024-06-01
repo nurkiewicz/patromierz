@@ -222,4 +222,5 @@ profiles["grubehistorie"] = {
 	[1716952358,20,1,20.0,940,null],
 	[1717038872,20,null,null,940,null],
 	[1717125285,20,null,null,940,null],
+	[1717211651,20,null,null,940,null],
 ]};

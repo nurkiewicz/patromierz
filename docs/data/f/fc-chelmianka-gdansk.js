@@ -3,4 +3,5 @@ profiles["fc-chelmianka-gdansk"] = {
 "name": "FC Chełmianka Gdańsk",
 "snapshots": [
 	[1717124939,60,2,30.0,60,null],
+	[1717211312,90,3,30.0,90,null],
 ]};
