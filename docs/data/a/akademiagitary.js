@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["akademiagitary"] = {
-"name": "Akademia Gitary - W Szponach Gitary",
+"name": "W Szponach Gitary",
 "snapshots": [
 	[1643352941,1855,119,15.58,32190,null],
 	[1643434711,1835,119,15.42,32190,null],
@@ -796,4 +796,5 @@ profiles["akademiagitary"] = {
 	[1717037528,1600,74,21.62,null,-9.0],
 	[1717123939,1600,74,21.62,null,-9.0],
 	[1717210323,1600,74,21.62,null,-9.0],
+	[1717296725,1640,75,21.86,null,-7.0],
 ]};

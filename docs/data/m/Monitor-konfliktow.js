@@ -344,4 +344,5 @@ profiles["Monitor-konfliktow"] = {
 	[1717040120,null,1,null,230,-1.0],
 	[1717126555,null,1,null,230,-1.0],
 	[1717212898,null,1,null,230,-1.0],
+	[1717299310,null,1,null,230,-1.0],
 ]};
