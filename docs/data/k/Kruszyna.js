@@ -799,4 +799,5 @@ profiles["Kruszyna"] = {
 	[1717212287,25,null,null,3355,null],
 	[1717298695,25,null,null,3355,null],
 	[1717385088,25,null,null,3355,null],
+	[1717471550,25,1,25.0,3380,null],
 ]};

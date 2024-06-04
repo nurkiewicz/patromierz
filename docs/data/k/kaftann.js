@@ -800,4 +800,5 @@ profiles["kaftann"] = {
 	[1717212023,null,67,null,null,null],
 	[1717298431,null,67,null,null,null],
 	[1717384823,null,69,null,null,null],
+	[1717471277,null,69,null,null,null],
 ]};
