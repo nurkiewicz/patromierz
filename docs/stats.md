@@ -19,45 +19,45 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/d/dzieci-świata.js"></script>
-<script type="text/javascript" src="data/b/bozonrecords.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/r/rfp.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-<script type="text/javascript" src="data/c/czabanrobiraban.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
 <script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
 <script type="text/javascript" src="data/l/LigaSuperbohaterow.js"></script>
-<script type="text/javascript" src="data/a/AdrianKostera.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/m/marzenaerm.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/s/szopowisko.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/d/dzieci-świata.js"></script>
+<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
+<script type="text/javascript" src="data/b/bozonrecords.js"></script>
 <script type="text/javascript" src="data/i/igorjanke.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 <script type="text/javascript" src="data/p/PawelJezowski.js"></script>
 <script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/t/Toniebajka.js"></script>
+<script type="text/javascript" src="data/a/AdrianKostera.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
 <script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Langusta na palmie", -1050], ["Borkoś", -745], ["Szkoła PitagoLasa", -720], ["Dolnośląski Inspektorat Ochrony Zwierząt", -635], ["Bozon Records", -400], ["Witold Gadowski", -350], ["Igor Janke. Układ Otwarty", -340], ["Fundacja DAJ HERBATĘ", -330], ["Liga Superbohaterów", -310], ["Radio Naukowe - podcast Karoliny Głowackiej", -305], ["życie warte jest rozmowy", 450], ["Piotr Czaban", 490], ["Kremlinka Show 🟥 CEP 🟥 Paweł Jeżowski, Mateusz Lech, Marek Meissner, Łukasz Kobierski, Aleksandra Fedorska, Marek Kozubel", 493], ["Podcast Wojenne Historie", 520], ["Rajdy Formuły Pierwszej", 530], ["Adrian Kostera", 590], ["Radio Nowy Świat", 899], ["Dzieci Świata - Marzena Figiel", 1013], ["Exen", 1070], ["Radio Wnet", 1150]], 'largest_changes');
+            drawHorizontal([["Langusta na palmie", -1120], ["Szkoła PitagoLasa", -720], ["Radio Naukowe - podcast Karoliny Głowackiej", -600], ["Dolnośląski Inspektorat Ochrony Zwierząt", -510], ["Bozon Records", -510], ["Dział Zagraniczny", -420], ["Toniebajka. Księgarnia z TYM potykaczem", -363], ["Liga Superbohaterów", -350], ["Igor Janke. Układ Otwarty", -330], ["Marzena Erm", -310], ["Kremlinka Show 🟥 CEP 🟥 Paweł Jeżowski, Mateusz Lech, Marek Meissner, Łukasz Kobierski, Aleksandra Fedorska, Marek Kozubel", 543], ["Niedźwiadki Chemart Przemyśl", 600], ["Adrian Kostera", 620], ["Fundacja Szopowisko", 650], ["Radio Nowy Świat", 970], ["Dzieci Świata - Marzena Figiel", 1013], ["Dariusz Rosiak", 1080], ["Radio Wnet", 1080], ["Exen", 1150], ["Tygodnik Podhalański", 1210]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

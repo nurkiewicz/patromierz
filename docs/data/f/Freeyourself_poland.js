@@ -3,4 +3,5 @@ profiles["Freeyourself_poland"] = {
 "name": "Jakub Kotuła",
 "snapshots": [
 	[1717556986,50,1,50.0,15770,null],
+	[1717643419,50,1,50.0,15770,null],
 ]};
