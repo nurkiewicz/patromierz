@@ -22,4 +22,5 @@ profiles["TechnikKowal"] = {
 	[1696921107,null,1,null,10,null],
 	[1697180391,null,1,null,10,null],
 	[1717646674,20,1,20.0,30,null],
+	[1717733108,20,1,20.0,30,null],
 ]};
