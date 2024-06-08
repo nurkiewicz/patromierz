@@ -803,4 +803,5 @@ profiles["naukawplecaku"] = {
 	[1717558640,25,null,null,1745,null],
 	[1717645093,25,null,null,1745,null],
 	[1717731520,25,null,null,1745,null],
+	[1717817983,25,1,25.0,1770,null],
 ]};
