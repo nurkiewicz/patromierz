@@ -379,4 +379,5 @@ profiles["MuszkieterowieSzpiku"] = {
 	[1717731421,10,1,10.0,1330,null],
 	[1717817885,10,null,null,1330,null],
 	[1717904222,10,null,null,1330,null],
+	[1717990607,10,null,null,1330,null],
 ]};
