@@ -233,4 +233,5 @@ profiles["www.podroznaetacie.pl"] = {
 	[1717820109,null,6,null,null,null],
 	[1717906438,null,6,null,null,null],
 	[1717992836,null,6,null,null,null],
+	[1718079204,null,6,null,null,null],
 ]};
