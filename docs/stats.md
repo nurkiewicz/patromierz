@@ -19,48 +19,45 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/k/koroluk.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/s/strajk.js"></script>
-<script type="text/javascript" src="data/f/filozofiatakbardzo.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-<script type="text/javascript" src="data/l/LukaszNowacki.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
-<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
-<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
-<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
-<script type="text/javascript" src="data/s/skopzzor.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/c/chidusz.js"></script>
-<script type="text/javascript" src="data/b/Bogprojektkobieta.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
+<script type="text/javascript" src="data/s/skopzzor.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/w/wywiad-z-czlowiekiem-radio-war.js"></script>
+<script type="text/javascript" src="data/k/koroluk.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/a/agatastrzyzewska.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/n/napisykoncowe.js"></script>
+<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/c/chidusz.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/a/arhneu.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Marcin Zieliński | Fundacja Rozpal Wiarę", -570], ["Dolnośląski Inspektorat Ochrony Zwierząt", -480], ["magazyn żydowski „Chidusz\"", -480], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -470], ["Podcast Historyczny", -434], ["BezPlanu", -400], ["Łukasz Nowacki", -380], ["Langusta na palmie", -375], ["Radio Naukowe - podcast Karoliny Głowackiej", -335], ["Fundacja Nautilus", -275], ["Tygodnik Podhalański", 390], ["Bógprojektkobieta", 400], ["Filozofia tak bardzo", 400], ["Koroluk", 520], ["strajk.eu", 520], ["Niedźwiadki Chemart Przemyśl", 550], ["Damian Duda", 740], ["SkopzzoR", 840], ["MIŁOŚNICY", 1000], ["Exen", 1090]], 'largest_changes');
+            drawHorizontal([["Dolnośląski Inspektorat Ochrony Zwierząt", -615], ["Wywiad z Człowiekiem", -601], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -500], ["Langusta na palmie", -495], ["magazyn żydowski „Chidusz\"", -480], ["Dział Zagraniczny", -450], ["BezPlanu", -370], ["Agata Strzyżewska", -320], ["Radio Nowy Świat", -299], ["Radio Naukowe - podcast Karoliny Głowackiej", -290], ["arhn.eu", 320], ["Niedźwiadki Chemart Przemyśl", 350], ["Tygodnik Podhalański", 360], ["Cash", 400], ["Koroluk", 600], ["Napisy Końcowe", 660], ["Podcastex", 980], ["MIŁOŚNICY", 1000], ["SkopzzoR", 1000], ["Exen", 1110]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

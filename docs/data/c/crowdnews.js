@@ -730,4 +730,5 @@ profiles["crowdnews"] = {
 	[1717988516,null,3,null,null,null],
 	[1718074896,null,3,null,null,null],
 	[1718161298,null,3,null,null,null],
+	[1718247673,null,3,null,null,null],
 ]};
