@@ -810,4 +810,5 @@ profiles["naszinowlodz"] = {
 	[1718077068,25,null,null,2855,null],
 	[1718163473,25,null,null,2855,null],
 	[1718249814,25,null,null,2855,null],
+	[1718336272,25,1,25.0,2880,null],
 ]};

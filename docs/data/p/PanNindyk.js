@@ -72,4 +72,5 @@ profiles["PanNindyk"] = {
 	[1649040854,null,null,null,150,null],
 	[1649068348,null,null,null,150,null],
 	[1718250116,10,1,10.0,160,null],
+	[1718336589,10,1,10.0,160,null],
 ]};
