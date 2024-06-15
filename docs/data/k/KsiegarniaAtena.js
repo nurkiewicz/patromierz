@@ -3,4 +3,5 @@ profiles["KsiegarniaAtena"] = {
 "name": "Księgarnia Atena Kamienna Góra",
 "snapshots": [
 	[1718335550,360,7,51.42,360,null],
+	[1718421961,420,10,42.0,420,null],
 ]};

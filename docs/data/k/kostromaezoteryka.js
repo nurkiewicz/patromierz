@@ -3,4 +3,5 @@ profiles["kostromaezoteryka"] = {
 "name": "KOSTROMA - nauka Tarota",
 "snapshots": [
 	[1718335470,200,2,100.0,200,null],
+	[1718421881,300,4,75.0,300,null],
 ]};
