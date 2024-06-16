@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["www.twarzedepresji.pl"] = {
+"name": "Fundacja “Twarze Depresji”",
+"snapshots": [
+	[1718511203,10,1,10.0,10,null],
+]};
