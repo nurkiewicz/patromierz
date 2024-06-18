@@ -513,4 +513,5 @@ profiles["MartynaRadosz-Rowing"] = {
 	[1718422326,null,1,null,4250,-2.0],
 	[1718508700,null,1,null,4250,-2.0],
 	[1718595145,null,1,null,4250,-2.0],
+	[1718681488,null,1,null,4250,-2.0],
 ]};
