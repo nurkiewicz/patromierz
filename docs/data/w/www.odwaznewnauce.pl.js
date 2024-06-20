@@ -96,4 +96,5 @@ profiles["www.odwaznewnauce.pl"] = {
 	[1718597650,100,1,100.0,300,null],
 	[1718683980,100,null,null,300,null],
 	[1718770296,100,null,null,300,null],
+	[1718856714,100,null,null,300,null],
 ]};

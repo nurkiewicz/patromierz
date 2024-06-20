@@ -19,45 +19,45 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/pelnizycia.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-<script type="text/javascript" src="data/r/rfp.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/n/Nejtan.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/o/outriders.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/s/skopzzor.js"></script>
-<script type="text/javascript" src="data/p/psychodeliki.js"></script>
-<script type="text/javascript" src="data/v/VANDALVAN.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/z/zohanowaty.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/psychodeliki.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/g/grandeconnection.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/k/ktozjakbog.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
+<script type="text/javascript" src="data/p/pelnizycia.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
+<script type="text/javascript" src="data/o/outriders.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/a/arhneu.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dariusz Rosiak", -1155], ["Radio Nowy Świat", -1065], ["Dolnośląski Inspektorat Ochrony Zwierząt", -740], ["Dział Zagraniczny", -710], ["SOWINSKY", -526], ["Dom Pełni Życia Gliwice", -493], ["Planeta Abstrakcja", -480], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -400], ["Któż jak Bóg", -385], ["Świat według Nejtana", -365], ["VANDALVAN", 390], ["Rajdy Formuły Pierwszej", 400], ["Podcastex", 405], ["Podcast Wojenne Historie", 460], ["Exen", 490], ["Polskie Towarzystwo Psychodeliczne", 520], ["SkopzzoR", 520], ["Outriders", 1060], ["Wojciech Szewko", 1270], ["Dwie Lewe Ręce", 1525]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -1253], ["Dariusz Rosiak", -1245], ["Dolnośląski Inspektorat Ochrony Zwierząt", -710], ["Dział Zagraniczny", -690], ["Planeta Abstrakcja", -550], ["życie warte jest rozmowy", -510], ["SOWINSKY", -502], ["Dom Pełni Życia Gliwice", -500], ["Historia Realna - Piotr Zychowicz", -490], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -400], ["GRANDE CONNECTION", 334], ["Kuszlewicz w imieniu", 358], ["Podcast Wojenne Historie", 410], ["Exen", 470], ["Zohanowaty", 490], ["arhn.eu", 525], ["Polskie Towarzystwo Psychodeliczne", 530], ["Outriders", 820], ["Dwie Lewe Ręce", 1225], ["Wojciech Szewko", 1330]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
