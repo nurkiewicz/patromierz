@@ -5,4 +5,5 @@ profiles["www.youtube.travelchannelvevo"] = {
 	[1718684004,null,1,null,10,null],
 	[1718770320,10,1,10.0,20,null],
 	[1718856736,10,1,10.0,20,null],
+	[1718943154,10,1,10.0,20,null],
 ]};
