@@ -197,4 +197,5 @@ profiles["Gandarth"] = {
 	[1718853107,15,1,15.0,525,null],
 	[1718939517,15,null,null,525,null],
 	[1719025323,15,null,null,525,null],
+	[1719113120,15,null,null,525,null],
 ]};
