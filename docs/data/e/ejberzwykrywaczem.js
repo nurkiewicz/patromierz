@@ -287,4 +287,5 @@ profiles["ejberzwykrywaczem"] = {
 	[1718939183,null,1,null,2040,-2.0],
 	[1719112678,null,1,null,2040,null],
 	[1719198397,null,1,null,2040,null],
+	[1719284886,null,1,null,2040,-1.0],
 ]};
