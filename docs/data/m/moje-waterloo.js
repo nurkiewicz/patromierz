@@ -63,4 +63,5 @@ profiles["moje-waterloo"] = {
 	[1719544902,1210,16,75.62,2200,10.0],
 	[1719631306,null,16,null,null,null],
 	[1719717698,null,16,null,null,null],
+	[1719804104,null,15,null,null,null],
 ]};
