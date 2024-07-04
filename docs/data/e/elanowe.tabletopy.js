@@ -3,4 +3,5 @@ profiles["elanowe.tabletopy"] = {
 "name": "Elánowe Tabletopy",
 "snapshots": [
 	[1719975643,110,2,55.0,110,null],
+	[1720062016,110,2,55.0,110,null],
 ]};

@@ -538,4 +538,5 @@ profiles["Księgarnia"] = {
 	[1719803656,null,1,null,5500,-2.0],
 	[1719890081,null,1,null,5500,-2.0],
 	[1719976538,null,1,null,5500,null],
+	[1720062903,null,1,null,5500,null],
 ]};
