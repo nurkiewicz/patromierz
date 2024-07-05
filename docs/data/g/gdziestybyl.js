@@ -750,4 +750,5 @@ profiles["gdziestybyl"] = {
 	[1719889473,1090,36,30.27,null,null],
 	[1719975920,1090,36,30.27,null,null],
 	[1720062290,1090,36,30.27,null,null],
+	[1720148716,null,36,null,null,null],
 ]};
