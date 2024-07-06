@@ -318,4 +318,5 @@ profiles["StreetTactics"] = {
 	[1719978243,100,null,null,1500,null],
 	[1720064587,100,null,null,1500,null],
 	[1720151023,100,null,null,1500,null],
+	[1720237427,100,null,null,1500,null],
 ]};
