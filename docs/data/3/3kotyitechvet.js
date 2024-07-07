@@ -572,4 +572,5 @@ profiles["3kotyitechvet"] = {
 	[1720061215,20,1,20.0,525,null],
 	[1720147632,20,null,null,525,null],
 	[1720234033,20,null,null,525,null],
+	[1720320402,20,null,null,525,null],
 ]};

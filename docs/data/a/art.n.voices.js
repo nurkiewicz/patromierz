@@ -158,4 +158,5 @@ profiles["art.n.voices"] = {
 	[1720061423,50,1,50.0,310,null],
 	[1720147841,50,null,null,310,null],
 	[1720234240,50,null,null,310,null],
+	[1720320607,50,null,null,310,null],
 ]};
