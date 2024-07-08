@@ -803,4 +803,5 @@ profiles["Discover-Thailand-Now"] = {
 	[1720148292,null,1,null,1240,-1.0],
 	[1720234689,null,1,null,1240,-1.0],
 	[1720321051,null,1,null,1240,-1.0],
+	[1720407496,null,1,null,1240,-1.0],
 ]};
