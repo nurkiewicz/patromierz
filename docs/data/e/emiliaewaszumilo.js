@@ -124,4 +124,5 @@ profiles["emiliaewaszumilo"] = {
 	[1720321203,25,1,25.0,null,null],
 	[1720407654,25,1,25.0,null,null],
 	[1720494023,25,1,25.0,null,null],
+	[1720580419,25,1,25.0,null,null],
 ]};

@@ -836,4 +836,5 @@ profiles["HWRG"] = {
 	[1720321650,15,null,null,1080,null],
 	[1720408106,15,null,null,1080,null],
 	[1720494474,15,null,null,1080,null],
+	[1720580869,15,null,null,1080,null],
 ]};
