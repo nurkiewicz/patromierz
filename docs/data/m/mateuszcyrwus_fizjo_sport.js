@@ -307,4 +307,5 @@ profiles["mateuszcyrwus_fizjo_sport"] = {
 	[1704536849,10,null,null,1100,null],
 	[1704601719,10,null,null,1100,null],
 	[1720581597,100,1,100.0,1200,null],
+	[1720668010,110,2,55.0,1210,null],
 ]};

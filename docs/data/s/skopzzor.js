@@ -471,4 +471,5 @@ profiles["skopzzor"] = {
 	[1720410095,6195,566,10.94,35695,44.0],
 	[1720496439,null,568,null,null,null],
 	[1720582833,null,558,null,null,null],
+	[1720669256,null,556,null,null,null],
 ]};
