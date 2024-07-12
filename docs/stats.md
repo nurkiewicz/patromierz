@@ -19,45 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/a/arhneu.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="data/c/CezaryGutowski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/o/okonserwa.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/b/BezSchematu.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/w/wimieniutychconiemowia.js"></script>
 <script type="text/javascript" src="data/l/langustanapalmie.js"></script>
 <script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/z/zestoickimspokojem.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/p/poph.js"></script>
+<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/r/ReportazZwycinkowSwiata.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/a/arhneu.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/o/okonserwa.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/s/spalmyto.js"></script>
-<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/z/ZaMoimiDrzwiami.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 <script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/z/zestoickimspokojem.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/z/ZaMoimiDrzwiami.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Spalmy to!", -2240], ["Za Moimi Drzwiami ", -990], ["Ze stoickim spokojem", -970], ["arhn.eu", -870], ["Dolnośląski Inspektorat Ochrony Zwierząt", -760], ["Usłyszeć Na Czas", -740], ["Cezary Gutowski", -720], ["Wojciech Szewko", -650], ["Radio Wnet", -640], ["Podcastex", -556], ["Tygodnik Podhalański", 520], ["Radio Nowy Świat", 525], ["W imieniu tych co nie mówią", 535], ["Fundacja po DRUGIE", 560], ["Otwarta Konserwa", 710], ["Dział Zagraniczny", 735], ["Bez/Schematu", 800], ["Podcast Wojenne Historie", 800], ["Ruch Radzionków", 900], ["Dwie Lewe Ręce", 925]], 'largest_changes');
+            drawHorizontal([["Spalmy to!", -1885], ["Dolnośląski Inspektorat Ochrony Zwierząt", -1075], ["Podlaskie Ochotnicze Pogotowie Humanitarne", -1000], ["Ze stoickim spokojem", -970], ["arhn.eu", -845], ["Cezary Gutowski", -770], ["Za Moimi Drzwiami ", -685], ["Wojciech Szewko", -570], ["Podcastex", -556], ["Usłyszeć Na Czas", -550], ["Fundacja po DRUGIE", 515], ["życie warte jest rozmowy", 540], ["Kuszlewicz w imieniu", 541], ["Dariusz Rosiak", 550], ["Tygodnik Podhalański", 600], ["Dział Zagraniczny", 605], ["Reportaż z wycinków świata - Monika Białkowska", 680], ["Podcast Wojenne Historie", 850], ["Otwarta Konserwa", 1100], ["Ruch Radzionków", 1400]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

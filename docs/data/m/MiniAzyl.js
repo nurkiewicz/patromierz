@@ -754,4 +754,5 @@ profiles["MiniAzyl"] = {
 	[1720495302,100,null,null,2885,null],
 	[1720581695,100,null,null,2885,null],
 	[1720668109,100,null,null,2885,null],
+	[1720754482,100,null,null,2885,null],
 ]};
