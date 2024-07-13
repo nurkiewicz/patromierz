@@ -840,4 +840,5 @@ profiles["DowytrenowAnia"] = {
 	[1720580320,null,1,null,9278,-1.0],
 	[1720666724,null,1,null,9278,-1.0],
 	[1720753104,null,1,null,9278,null],
+	[1720839503,null,1,null,9278,null],
 ]};
