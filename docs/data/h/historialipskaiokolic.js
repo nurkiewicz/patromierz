@@ -93,4 +93,5 @@ profiles["historialipskaiokolic"] = {
 	[1720926416,10,1,10.0,30,null],
 	[1721012840,null,1,null,30,null],
 	[1721099278,null,1,null,30,null],
+	[1721531327,10,1,10.0,40,null],
 ]};
