@@ -1,5 +1,5 @@
 ---
-title: Piotr Wdowka | Patromierz
+title: Piotr Wdowka | Statystyki patronite.pl | Patromierz
 
 permalink: /wdowka
 ---
