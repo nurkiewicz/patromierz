@@ -642,4 +642,5 @@ profiles["kyudo"] = {
 	[1721531852,null,21,null,null,null],
 	[1721618257,null,19,null,null,null],
 	[1721704549,null,19,null,null,null],
+	[1721877463,null,16,null,null,null],
 ]};
