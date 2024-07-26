@@ -775,4 +775,5 @@ profiles["fizykazdalnie"] = {
 	[1721617409,null,90,null,null,null],
 	[1721703726,null,88,null,null,null],
 	[1721876597,null,88,null,null,null],
+	[1721963049,null,86,null,null,null],
 ]};

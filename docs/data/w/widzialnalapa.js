@@ -845,4 +845,5 @@ profiles["widzialnalapa"] = {
 	[1721620367,15,null,null,2490,null],
 	[1721706602,15,null,null,2490,null],
 	[1721879633,15,null,null,2490,null],
+	[1721966151,15,1,15.0,2505,null],
 ]};
