@@ -517,4 +517,5 @@ profiles["ksiazkowisko"] = {
 	[1721963887,null,70,null,null,null],
 	[1722050252,null,71,null,null,null],
 	[1722136691,null,71,null,null,null],
+	[1722223089,null,72,null,null,null],
 ]};
