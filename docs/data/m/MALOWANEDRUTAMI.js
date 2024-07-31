@@ -61,4 +61,5 @@ profiles["MALOWANEDRUTAMI"] = {
 	[1722050484,null,1,null,60,-1.0],
 	[1722136926,null,1,null,60,-1.0],
 	[1722223325,null,1,null,60,-1.0],
+	[1722396097,null,1,null,60,-1.0],
 ]};

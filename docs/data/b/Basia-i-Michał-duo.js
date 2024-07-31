@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Basia-i-Michał-duo"] = [
+profiles["Basia-i-Michał-duo"] = {
+"name": "Basia Pospieszalska i Michał Bąk ",
+"snapshots": [
 	[1643855745,70,4,17.5,865,null],
 	[1643942169,70,4,17.5,865,null],
 	[1644028553,70,4,17.5,865,null],
@@ -352,4 +354,5 @@ profiles["Basia-i-Michał-duo"] = [
 	[1685754405,null,1,null,1460,-1.0],
 	[1685840854,null,1,null,1460,-1.0],
 	[1685927293,null,1,null,1460,-1.0],
-];
+	[1722394397,100,1,100.0,1560,null],
+]};
