@@ -167,4 +167,5 @@ profiles["bezpiecznik"] = {
 	[1722221647,null,1,null,null,null],
 	[1722394434,null,1,null,null,null],
 	[1722480788,null,1,null,null,null],
+	[1722567186,null,1,null,null,null],
 ]};
