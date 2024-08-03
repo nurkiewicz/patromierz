@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["BezKontroliPodcast"] = {
-"name": "Łukasz Kubiak",
+"name": "Łukasz Kubiak | Bez Kontroli Podcast",
 "snapshots": [
 	[1721357605,50,1,50.0,50,null],
 	[1721444004,50,1,50.0,50,null],
@@ -15,4 +15,5 @@ profiles["BezKontroliPodcast"] = {
 	[1722394432,50,1,50.0,50,null],
 	[1722480786,50,1,50.0,50,null],
 	[1722567184,50,1,50.0,50,null],
+	[1722653582,50,1,50.0,50,null],
 ]};
