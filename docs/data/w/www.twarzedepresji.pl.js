@@ -38,4 +38,5 @@ profiles["www.twarzedepresji.pl"] = {
 	[1721447712,10,null,null,10,null],
 	[1721534114,10,null,null,10,null],
 	[1722743861,10,1,10.0,20,null],
+	[1722830269,10,1,10.0,20,null],
 ]};

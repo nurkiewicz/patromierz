@@ -831,4 +831,5 @@ profiles["cafeksięgarniavademecum"] = {
 	[1720666466,50,null,null,8180,null],
 	[1720752848,50,null,null,8180,null],
 	[1720839245,50,null,null,8180,null],
+	[1722826566,30,1,30.0,8210,null],
 ]};
