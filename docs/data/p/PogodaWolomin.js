@@ -3,4 +3,5 @@ profiles["PogodaWolomin"] = {
 "name": "Pogoda - Powiat Wołomiński",
 "snapshots": [
 	[1722828943,10,1,10.0,10,null],
+	[1722915307,20,2,10.0,20,null],
 ]};
