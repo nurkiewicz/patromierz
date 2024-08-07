@@ -181,4 +181,5 @@ profiles["www.otokrypto.pl"] = {
 	[1722743850,10,1,10.0,90,null],
 	[1722830258,10,1,10.0,90,null],
 	[1722916610,null,1,null,90,null],
+	[1723002961,null,1,null,90,null],
 ]};

@@ -19,54 +19,53 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
 <script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/b/BasiaiKasia.js"></script>
-<script type="text/javascript" src="data/m/menedzerplus.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/e/elizamichalik.js"></script>
 <script type="text/javascript" src="data/p/panoramahk.js"></script>
 <script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/k/kooperatywaswiatla.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
 <script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
-<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
-<script type="text/javascript" src="data/b/Bogprojektkobieta.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/e/elizamichalik.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/a/adamsikorski.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/z/zakazanehistorie.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
 <script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/b/Bogprojektkobieta.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
+<script type="text/javascript" src="data/c/czechostacja.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/a/adamsikorski.js"></script>
+<script type="text/javascript" src="data/k/kooperatywaswiatla.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/z/zakazanehistorie.js"></script>
+<script type="text/javascript" src="data/m/miliholicy.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Menedżer Plus | Mariusz Chrapko", -2600], ["Usłyszeć Na Czas", -1010], ["Bógprojektkobieta", -1000], ["Radio Nowy Świat", -956], ["Panorama kina z Hongkongu i Tajwanu", -880], ["Dariusz Rosiak", -765], ["Eliza Michalik", -695], ["Fundacja DAJ HERBATĘ", -660], ["Kacper Sztuka Racing", -600], ["Borkoś", -520], ["Jakub Wiech", 515], ["Ruch Radzionków", 520], ["KANAŁ HISTORYCZNY Adama Sikorskiego", 700], ["Kooperatywa Światła", 780], ["ZAKAZANE HISTORIE", 780], ["Kasia i Basia", 820], ["Tygodnik Podhalański", 980], ["Dział Zagraniczny", 1000], ["SOWINSKY", 1006], ["Agnieszka Cegielska", 1850]], 'largest_changes');
+            drawHorizontal([["Usłyszeć Na Czas", -1060], ["Bógprojektkobieta", -1000], ["Panorama kina z Hongkongu i Tajwanu", -880], ["Eliza Michalik", -710], ["Radio Nowy Świat", -677], ["Dariusz Rosiak", -620], ["Fundacja DAJ HERBATĘ", -615], ["Kacper Sztuka Racing", -600], ["Borkoś", -440], ["Fundacja Nautilus", -425], ["KANAŁ HISTORYCZNY Adama Sikorskiego", 550], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", 570], ["Czechostacja", 610], ["Miliholicy", 650], ["Kooperatywa Światła", 780], ["ZAKAZANE HISTORIE", 800], ["SOWINSKY", 994], ["Dwie Lewe Ręce", 1000], ["Dział Zagraniczny", 1290], ["Agnieszka Cegielska", 1458]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','dlr','karolinakp','Podcastwojennehistorie','marcinzielinski','wszewko','radionaukowe','Gadowski','sekielski','accantus','palhajstv','Vlogcasha','Zmierzchu','rockserwisfm','poglebiarka','brzmienie-swiata','BezPlanu'], 
+                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','dlr','karolinakp','Podcastwojennehistorie','marcinzielinski','wszewko','radionaukowe','Gadowski','sekielski','accantus','palhajstv','Vlogcasha','Zmierzchu','poglebiarka','rockserwisfm','brzmienie-swiata','BezPlanu'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
