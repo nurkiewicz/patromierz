@@ -466,4 +466,5 @@ profiles["MagnetycznySzczecin"] = {
 	[1723000828,null,1,null,900,-2.0],
 	[1723087261,null,1,null,900,-2.0],
 	[1723172994,null,1,null,900,-2.0],
+	[1723259995,null,1,null,900,-2.0],
 ]};

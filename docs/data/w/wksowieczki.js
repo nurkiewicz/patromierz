@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["wksowieczki"] = {
+"name": "Wielkopolski Klub Sportowy Owieczki",
+"snapshots": [
+	[1723262006,10,1,10.0,10,null],
+]};

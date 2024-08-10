@@ -335,4 +335,5 @@ profiles["przyjacielchlebka"] = {
 	[1723001913,100,1,100.0,2340,null],
 	[1723088356,100,null,null,2340,null],
 	[1723174034,100,null,null,2340,null],
+	[1723261071,100,null,null,2340,null],
 ]};
