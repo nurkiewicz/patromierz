@@ -868,4 +868,5 @@ profiles["hallourbex"] = {
 	[1723086518,null,3,null,null,null],
 	[1723172284,null,3,null,null,null],
 	[1723259264,105,3,35.0,null,null],
+	[1723345711,25,3,8.33,null,-3.0],
 ]};
