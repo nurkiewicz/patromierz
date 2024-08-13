@@ -19,52 +19,52 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/w/wahanie.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
 <script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/DziejeNevendaar.js"></script>
-<script type="text/javascript" src="data/m/miliholicy.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/raczek.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/w/wspolnotajafa.pl.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/z/zameknadaje.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
 <script type="text/javascript" src="data/b/BezSchematu.js"></script>
+<script type="text/javascript" src="data/i/instytutr.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/w/wspolnotajafa.pl.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
+<script type="text/javascript" src="data/s/stomilolsztynpl.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/z/zameknadaje.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/t/TEDENOVELA.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
+<script type="text/javascript" src="data/w/wahanie.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/e/Exen.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1862], ["Exen", -940], ["Dolnośląski Inspektorat Ochrony Zwierząt", -805], ["Borkoś", -640], ["Radio Wnet", -640], ["Damian Duda", -570], ["Tomasz Raczek", -530], ["Bez/Schematu", -520], ["Radio Zamek Nadaje", -490], ["JAFA", -400], ["DziejeNevendaar", 390], ["Fundacja po DRUGIE", 405], ["Miliholicy", 410], ["Studio Accantus", 455], ["AstroLife", 480], ["Wahanie - Szumowski i Giza - podcast", 580], ["Dwie Lewe Ręce", 825], ["Podkast amerykański", 850], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", 1020], ["Agnieszka Cegielska", 2323]], 'largest_changes');
+            drawHorizontal([["Exen", -4060], ["Radio Nowy Świat", -1979], ["Radio Wnet", -830], ["Dolnośląski Inspektorat Ochrony Zwierząt", -750], ["Tedenovela", -580], ["Borkoś", -560], ["Bez/Schematu", -520], ["Radio Zamek Nadaje", -508], ["Damian Duda", -420], ["JAFA", -400], ["AstroLife", 380], ["stomilolsztynpl", 400], ["Fundacja po DRUGIE", 405], ["Studio Accantus", 420], ["Dwie Lewe Ręce", 525], ["Wahanie - Szumowski i Giza - podcast", 650], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", 720], ["Podkast amerykański", 900], ["Instytut Reportażu", 1515], ["Agnieszka Cegielska", 2219]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','dlr','karolinakp','Podcastwojennehistorie','marcinzielinski','wszewko','radionaukowe','Gadowski','sekielski','accantus','palhajstv','Vlogcasha','Zmierzchu','rockserwisfm','poglebiarka','brzmienie-swiata','BezPlanu'], 
+                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','dlr','karolinakp','Podcastwojennehistorie','marcinzielinski','wszewko','radionaukowe','Gadowski','sekielski','palhajstv','Vlogcasha','Zmierzchu','rockserwisfm','poglebiarka','brzmienie-swiata','podkastamerykanski','MarcinMajewski'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
