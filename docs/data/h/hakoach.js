@@ -872,4 +872,5 @@ profiles["hakoach"] = {
 	[1723432080,null,1,null,700,null],
 	[1723517861,null,1,null,700,null],
 	[1723604871,null,1,null,700,null],
+	[1723691315,null,1,null,700,null],
 ]};
