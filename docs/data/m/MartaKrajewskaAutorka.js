@@ -784,4 +784,5 @@ profiles["MartaKrajewskaAutorka"] = {
 	[1723518665,350,16,21.87,null,null],
 	[1723605687,350,16,21.87,null,null],
 	[1723692140,350,16,21.87,null,null],
+	[1723778531,350,16,21.87,null,null],
 ]};

@@ -3,4 +3,5 @@ profiles["TeamPolandaos"] = {
 "name": "Team Poland AoS",
 "snapshots": [
 	[1723693762,100,1,100.0,100,null],
+	[1723780149,100,1,100.0,100,null],
 ]};
