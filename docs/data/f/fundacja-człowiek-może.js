@@ -67,4 +67,5 @@ profiles["fundacja-człowiek-może"] = {
 	[1723691086,null,1,null,115,null],
 	[1723777478,null,1,null,115,null],
 	[1723863845,5,2,2.5,120,null],
+	[1723950237,125,4,31.25,240,null],
 ]};

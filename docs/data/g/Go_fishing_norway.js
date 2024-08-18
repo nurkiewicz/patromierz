@@ -343,4 +343,5 @@ profiles["Go_fishing_norway"] = {
 	[1723691235,20,null,null,360,null],
 	[1723777626,20,null,null,360,null],
 	[1723863991,20,null,null,360,null],
+	[1723950383,20,null,null,360,null],
 ]};

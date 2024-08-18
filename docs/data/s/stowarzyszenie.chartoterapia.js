@@ -4,4 +4,5 @@ profiles["stowarzyszenie.chartoterapia"] = {
 "snapshots": [
 	[1723779992,100,2,50.0,150,null],
 	[1723866312,155,4,38.75,205,null],
+	[1723952709,155,4,38.75,205,null],
 ]};
