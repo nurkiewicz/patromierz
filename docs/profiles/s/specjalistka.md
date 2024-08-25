@@ -1,5 +1,5 @@
 ---
-title: Marta Knasiecka | Patromierz
+title: Marta Knasiecka | Statystyki patronite.pl | Patromierz
 
 permalink: /specjalistka
 ---
