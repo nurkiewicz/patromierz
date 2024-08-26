@@ -34,4 +34,5 @@ profiles["Widowiskowo"] = {
 	[1724039560,20,1,20.0,20,null],
 	[1724471940,20,null,null,20,null],
 	[1724558291,20,null,null,20,null],
+	[1724644594,20,null,null,20,null],
 ]};

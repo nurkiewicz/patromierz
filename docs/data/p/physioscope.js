@@ -531,4 +531,5 @@ profiles["physioscope"] = {
 	[1724038317,10,1,10.0,255,null],
 	[1724470606,10,null,null,255,null],
 	[1724556978,10,null,null,255,null],
+	[1724643297,10,null,null,255,null],
 ]};

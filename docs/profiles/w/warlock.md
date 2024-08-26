@@ -1,9 +1,9 @@
 ---
-title: Karol Lassak | Statystyki patronite.pl | Patromierz
+title: Warlock MUD | Statystyki patronite.pl | Patromierz
 
 permalink: /warlock
 ---
 
-# [Karol Lassak](https://patronite.pl/warlock)
+# [Warlock MUD](https://patronite.pl/warlock)
 
 {% include profile.md name="warlock" prefix="w" %}

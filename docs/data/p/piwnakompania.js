@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["piwnakompania"] = {
-"name": "Piwna Kompania - Podróże przy dobrym piwie",
+"name": "Piwna Kompania - Podróże i Piwo",
 "snapshots": [
 	[1643353838,34,2,17.0,745,null],
 	[1643437685,34,2,17.0,745,null],
@@ -622,4 +622,5 @@ profiles["piwnakompania"] = {
 	[1701758572,null,1,null,1393,-1.0],
 	[1701844169,null,1,null,1393,-1.0],
 	[1701924980,null,1,null,1393,-1.0],
+	[1724643346,10,1,10.0,1403,null],
 ]};

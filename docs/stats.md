@@ -19,49 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/d/DziejeNevendaar.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/m/MagazynAnityGargas.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/r/RomanFicek.js"></script>
-<script type="text/javascript" src="data/c/Cronica.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/t/totylkoteoria.js"></script>
-<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/i/instytutr.js"></script>
-<script type="text/javascript" src="data/m/miliholicy.js"></script>
-<script type="text/javascript" src="data/g/GTBT.js"></script>
-<script type="text/javascript" src="data/d/dlr.js"></script>
-<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/r/RejsDookolaSwiata.js"></script>
 <script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/m/marekczyz.js"></script>
-<script type="text/javascript" src="data/w/wahanie.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 <script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/e/Exen.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
-<script type="text/javascript" src="data/o/outriders.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/i/itssleepyzu.js"></script>
+<script type="text/javascript" src="data/s/StrefaBycia.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/m/mocniwduchu.js"></script>
+<script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/RadiowcyBC.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/m/MarcinMajewski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/w/wei.org.pl.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/i/instytutr.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/t/tubawyszkowa.pl.js"></script>
+<script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
+<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["DziejeNevendaar", -2000], ["Radio Nowy Świat", -1166], ["Radio Wnet", -960], ["Borkoś", -750], ["Good Times Bad Times", -500], ["Wojciech Szewko", -490], ["Miliholicy", -450], ["Niedźwiadki Chemart Przemyśl", -400], ["Roman Ficek", -400], ["Łukasz Sakowski // To Tylko Teoria", -300], ["Wahanie - Szumowski i Giza - podcast", 490], ["Cronica", 500], ["Exen", 540], ["Podcast Wojenne Historie", 550], ["Marek Czyż", 743], ["Mateusz Lachowski", 802], ["Magazyn Anity Gargas", 1010], ["Instytut Reportażu", 1110], ["Outriders", 1165], ["Fundacja Wzajemnie Pomocni", 2040]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -738], ["Radio Wnet", -300], ["Rejs Dookoła Świata - Sailing Crystal", -250], ["SleepyZu", -210], ["Dwie Lewe Ręce", -200], ["Tuba Wyszkowa", -200], ["Radiowcy Bez Cenzury", -190], ["Mocni w Duchu", -180], ["Poglebiarka.pl", -175], ["Strefa Bycia", -160], ["Podkast amerykański", 170], ["Agnieszka Cegielska", 199], ["Witold Gadowski", 300], ["Marcin Strzyżewski", 300], ["Warsaw Enterprise Insitutue", 300], ["Podcast Wojenne Historie", 325], ["Radio Naukowe - podcast Karoliny Głowackiej", 335], ["Instytut Reportażu", 540], ["Fundacja Wzajemnie Pomocni", 910], ["Mateusz Lachowski", 1075]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
