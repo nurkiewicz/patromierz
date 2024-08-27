@@ -207,4 +207,5 @@ profiles["wdowka"] = {
 	[1724471911,null,2,null,1248,null],
 	[1724558264,null,2,null,1248,null],
 	[1724644566,null,2,null,1248,null],
+	[1724731105,null,1,null,1248,-1.0],
 ]};
