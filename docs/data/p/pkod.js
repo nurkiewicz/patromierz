@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pkod"] = {
-"name": "Parafialna Kamiliańska Orkiestra Dęta",
+"name": "Orkiestra Kamiliańska",
 "snapshots": [
 	[1656735905,10,1,10.0,10,null],
 	[1656822034,10,1,10.0,10,null],
@@ -721,4 +721,5 @@ profiles["pkod"] = {
 	[1724557033,800,11,72.72,18830,null],
 	[1724643352,820,12,68.33,18850,1.0],
 	[1724729869,820,12,68.33,18850,1.0],
+	[1724816254,820,12,68.33,18860,1.0],
 ]};
