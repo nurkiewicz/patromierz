@@ -86,4 +86,5 @@ profiles["zuzlowehistorie"] = {
 	[1724644921,15,1,15.0,45,null],
 	[1724731466,15,1,15.0,45,null],
 	[1724817860,null,1,null,45,null],
+	[1724904361,null,1,null,45,null],
 ]};

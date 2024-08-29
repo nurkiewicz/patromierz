@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["ukhk.uniaoswiecim"] = {
+"name": "Uczniowski Klub Hokejowy Kobiet Unia Oświęcim",
+"snapshots": [
+	[1724903874,50,1,50.0,50,null],
+]};
