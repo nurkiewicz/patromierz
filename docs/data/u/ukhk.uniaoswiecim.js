@@ -3,4 +3,5 @@ profiles["ukhk.uniaoswiecim"] = {
 "name": "Uczniowski Klub Hokejowy Kobiet Unia Oświęcim",
 "snapshots": [
 	[1724903874,50,1,50.0,50,null],
+	[1724990165,50,1,50.0,50,null],
 ]};

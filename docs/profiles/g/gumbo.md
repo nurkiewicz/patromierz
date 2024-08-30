@@ -1,5 +1,5 @@
 ---
-title: GUMBO off-road APP | Patromierz
+title: GUMBO off-road APP | Statystyki patronite.pl | Patromierz
 
 permalink: /gumbo
 ---

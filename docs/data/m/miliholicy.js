@@ -69,4 +69,5 @@ profiles["miliholicy"] = {
 	[1724729243,11950,163,73.31,null,72.0],
 	[1724815629,null,163,null,43860,null],
 	[1724902060,null,161,null,null,null],
+	[1724988414,null,162,null,null,null],
 ]};

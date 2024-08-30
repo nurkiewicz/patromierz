@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["gumbo"] = [
+profiles["gumbo"] = {
+"name": "GUMBO off-road APP",
+"snapshots": [
 	[1643357737,null,null,null,1295,null],
 	[1643424907,null,null,null,1295,null],
 	[1643511157,null,null,null,1295,null],
@@ -152,4 +154,5 @@ profiles["gumbo"] = [
 	[1670215554,10,1,10.0,1325,null],
 	[1670301904,null,1,null,1325,null],
 	[1670387959,null,1,null,1325,null],
-];
+	[1724987403,30,1,30.0,1355,null],
+]};
