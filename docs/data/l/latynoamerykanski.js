@@ -3,4 +3,5 @@ profiles["latynoamerykanski"] = {
 "name": "Wojciech Ganczarek",
 "snapshots": [
 	[1724988051,1090,45,24.22,44800,null],
+	[1725074482,1110,46,24.13,44820,null],
 ]};

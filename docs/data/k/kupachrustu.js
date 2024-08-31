@@ -880,4 +880,5 @@ profiles["kupachrustu"] = {
 	[1724815224,100,null,null,17075,null],
 	[1724901655,100,null,null,17075,null],
 	[1724988012,100,null,null,17075,null],
+	[1725074446,100,1,100.0,17175,null],
 ]};

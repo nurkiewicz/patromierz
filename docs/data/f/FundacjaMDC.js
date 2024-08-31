@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["FundacjaMDC"] = {
-"name": "Fundacja Mały Duży Człowiek ",
+"name": "Fundacja Mały Duży Człowiek",
 "snapshots": [
 	[1643354173,180,5,36.0,250,null],
 	[1643431176,180,5,36.0,250,null],
@@ -880,4 +880,5 @@ profiles["FundacjaMDC"] = {
 	[1724814438,515,9,57.22,11710,-3.0],
 	[1724900847,515,9,57.22,11710,-3.0],
 	[1724987232,515,9,57.22,11710,-3.0],
+	[1725073665,515,9,57.22,11710,-3.0],
 ]};

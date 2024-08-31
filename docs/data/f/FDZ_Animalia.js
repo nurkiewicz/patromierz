@@ -879,4 +879,5 @@ profiles["FDZ_Animalia"] = {
 	[1724814285,10,null,null,270,null],
 	[1724900696,10,null,null,270,null],
 	[1724987084,10,null,null,270,null],
+	[1725073517,30,1,30.0,290,1.0],
 ]};

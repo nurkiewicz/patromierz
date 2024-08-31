@@ -1,5 +1,5 @@
 ---
-title: Magdalena Popielarczyk | Patromierz
+title: Magdalena Popielarczyk | Statystyki patronite.pl | Patromierz
 
 permalink: /MagdalenaPodcasterka
 ---
