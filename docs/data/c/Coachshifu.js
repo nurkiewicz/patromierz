@@ -155,4 +155,5 @@ profiles["Coachshifu"] = {
 	[1724986688,30,null,null,220,null],
 	[1725073118,30,null,null,220,null],
 	[1725159520,30,null,null,220,null],
+	[1725245927,20,1,20.0,240,null],
 ]};
