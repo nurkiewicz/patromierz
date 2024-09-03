@@ -237,4 +237,5 @@ profiles["straszneopowiesci"] = {
 	[1725076263,null,1,null,180,-1.0],
 	[1725162696,null,1,null,180,-1.0],
 	[1725249108,null,1,null,180,-1.0],
+	[1725335393,null,1,null,180,null],
 ]};
