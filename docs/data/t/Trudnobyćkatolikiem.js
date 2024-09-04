@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Trudnobyćkatolikiem"] = {
-"name": "Trudno być katolikiem, ale warto",
+"name": "Trudno być katolikiem",
 "snapshots": [
 	[1643860284,2910,68,42.79,null,null],
 	[1643946725,2890,68,42.5,null,null],
@@ -879,4 +879,5 @@ profiles["Trudnobyćkatolikiem"] = {
 	[1725162978,null,326,null,null,null],
 	[1725249392,null,327,null,null,null],
 	[1725335672,null,328,null,null,null],
+	[1725422092,null,327,null,null,null],
 ]};
