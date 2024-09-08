@@ -891,4 +891,5 @@ profiles["taken_from_travel"] = {
 	[1725508468,10,1,10.0,3020,null],
 	[1725594952,null,1,null,3020,null],
 	[1725681215,null,1,null,3020,null],
+	[1725767719,null,1,null,3020,null],
 ]};

@@ -885,4 +885,5 @@ profiles["tatonet"] = {
 	[1725508486,30,null,null,1070,null],
 	[1725594970,30,null,null,1070,null],
 	[1725681232,30,null,null,1070,null],
+	[1725767737,30,1,30.0,1100,null],
 ]};
