@@ -267,4 +267,5 @@ profiles["AZSWSG3LigaSiatkowkiKobiet"] = {
 	[1725591213,null,1,null,600,-1.0],
 	[1725677597,null,1,null,600,-1.0],
 	[1725764052,null,1,null,600,-1.0],
+	[1725850481,null,1,null,600,-1.0],
 ]};

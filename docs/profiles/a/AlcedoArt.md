@@ -1,5 +1,5 @@
 ---
-title: Dorota Milewicz | Patromierz
+title: Dorota Milewicz | Statystyki patronite.pl | Patromierz
 
 permalink: /AlcedoArt
 ---
