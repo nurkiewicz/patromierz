@@ -19,46 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/n/niechzyja.js"></script>
-<script type="text/javascript" src="data/n/napisykoncowe.js"></script>
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/strajk.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/z/ZbigniewDylewski.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 <script type="text/javascript" src="data/i/instytutr.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/b/Bogprojektkobieta.js"></script>
 <script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/k/karta.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/t/Toniebajka.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/z/ZbigniewDylewski.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/n/napisykoncowe.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/s/strajk.js"></script>
+<script type="text/javascript" src="data/n/niechzyja.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/n/Niedzwiadki.js"></script>
 <script type="text/javascript" src="data/d/dlr.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/t/tygodnikpodhalanski.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/b/Bogprojektkobieta.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/k/krzysztofwojczal.js"></script>
+<script type="text/javascript" src="data/s/specjalistka.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/k/karta.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/d/Djsmierc.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Tygodnik Podhalański", -1000], ["Dolnośląski Inspektorat Ochrony Zwierząt", -545], ["strajk.eu", -530], ["Niech Żyją!", -513], ["Niedźwiadki Przemyśl", -500], ["Niedźwiecka o Zmierzchu", -491], ["Radio Nowy Świat", -417], ["Bógprojektkobieta", -400], ["Toniebajka. Księgarnia z TYM potykaczem", -385], ["Napisy Końcowe", -385], ["Usłyszeć Na Czas", 520], ["Zbigniew Dylewski", 1050], ["Instytut Reportażu", 1050], ["Fundacja Wzajemnie Pomocni", 1090], ["życie warte jest rozmowy", 1110], ["Karolina Korwin Piotrowska ", 1125], ["Szkoła PitagoLasa", 1140], ["Fundacja Ośrodka KARTA", 1535], ["Podcast Wojenne Historie", 2335], ["Radio Wnet", 2570]], 'largest_changes');
+            drawHorizontal([["Tygodnik Podhalański", -1000], ["Dolnośląski Inspektorat Ochrony Zwierząt", -735], ["Radio Nowy Świat", -586], ["Niech Żyją!", -575], ["Niedźwiecka o Zmierzchu", -537], ["strajk.eu", -530], ["Bógprojektkobieta", -500], ["Niedźwiadki Przemyśl", -500], ["Napisy Końcowe", -435], ["Krzysztof Wojczal", -396], ["Zbigniew Dylewski", 550], ["DjSmierc", 596], ["Marta Knasiecka", 625], ["Instytut Reportażu", 800], ["Fundacja Ośrodka KARTA", 1065], ["życie warte jest rozmowy", 1070], ["Karolina Korwin Piotrowska ", 1115], ["Fundacja Wzajemnie Pomocni", 1530], ["Podcast Wojenne Historie", 2430], ["Radio Wnet", 3450]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

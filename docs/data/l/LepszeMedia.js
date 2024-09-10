@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["LepszeMedia"] = {
-"name": "Portale KiKŚ oraz Poinformowani.pl ",
+"name": "KiKŚ",
 "snapshots": [
 	[1590192000,3180,256,12.42,null,null],
 	[1611619200,null,127,null,null,null],
@@ -813,4 +813,5 @@ profiles["LepszeMedia"] = {
 	[1725679274,null,21,null,null,null],
 	[1725765775,null,21,null,null,null],
 	[1725852232,null,20,null,null,null],
+	[1725940328,null,20,null,null,null],
 ]};
