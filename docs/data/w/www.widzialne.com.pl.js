@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["www.widzialne.com.pl"] = {
-"name": "Fundacja Widzialne - Zmiana jest Kobietą",
+"name": "Fundacja Widzialne",
 "snapshots": [
 	[1643354535,125,7,17.85,135,null],
 	[1643432862,135,8,16.87,145,null],
@@ -890,4 +890,5 @@ profiles["www.widzialne.com.pl"] = {
 	[1725854727,300,4,75.0,10740,-1.0],
 	[1725944355,300,4,75.0,10940,-1.0],
 	[1726030710,300,4,75.0,10940,-1.0],
+	[1726459368,300,3,100.0,10990,-1.0],
 ]};

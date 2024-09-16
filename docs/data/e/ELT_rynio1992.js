@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["ELT_rynio1992"] = {
+"name": "Europen League Tournament ELT",
+"snapshots": [
+	[1726455840,10,1,10.0,10,null],
+]};

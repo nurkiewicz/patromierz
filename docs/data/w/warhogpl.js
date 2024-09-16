@@ -526,4 +526,5 @@ profiles["warhogpl"] = {
 	[1725854501,25,null,null,5615,null],
 	[1725943967,25,null,null,5615,null],
 	[1726030343,25,null,null,5615,null],
+	[1726459140,25,1,25.0,5640,null],
 ]};
