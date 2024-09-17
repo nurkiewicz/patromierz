@@ -71,4 +71,5 @@ profiles["Antykonfident"] = {
 	[1649037227,null,null,null,700,null],
 	[1649067409,null,null,null,700,null],
 	[1726455139,10,2,5.0,710,null],
+	[1726541522,10,2,5.0,710,null],
 ]};
