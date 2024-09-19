@@ -895,4 +895,5 @@ profiles["Fundacja_BLU"] = {
 	[1726456030,50,null,null,1700,null],
 	[1726542421,50,null,null,1700,null],
 	[1726628749,50,null,null,1700,null],
+	[1726715129,50,null,null,1700,null],
 ]};
