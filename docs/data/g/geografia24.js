@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["geografia24"] = [
+profiles["geografia24"] = {
+"name": "Geografia24.pl",
+"snapshots": [
 	[1575244800,5,1,5.0,5,null],
 	[1622937600,10,1,10.0,85,null],
 	[1643360314,null,null,null,145,null],
@@ -240,4 +242,5 @@ profiles["geografia24"] = [
 	[1677573112,10,1,10.0,205,null],
 	[1677636370,10,1,10.0,205,null],
 	[1677747524,10,1,10.0,205,null],
-];
+	[1726801654,20,1,20.0,225,null],
+]};

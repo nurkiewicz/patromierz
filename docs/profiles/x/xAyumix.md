@@ -1,5 +1,5 @@
 ---
-title: Natalia D. - Ayumi. | Patromierz
+title: Natalia D. - Ayumi. | Statystyki patronite.pl | Patromierz
 
 permalink: /xAyumix
 ---
