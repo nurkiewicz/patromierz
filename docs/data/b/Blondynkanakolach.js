@@ -276,4 +276,5 @@ profiles["Blondynkanakolach"] = {
 	[1709956683,10,1,10.0,220,null],
 	[1710042984,null,1,null,220,null],
 	[1710129405,null,1,null,220,null],
+	[1726973727,5,1,5.0,225,null],
 ]};
