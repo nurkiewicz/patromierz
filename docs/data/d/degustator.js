@@ -575,4 +575,5 @@ profiles["degustator"] = {
 	[1698458044,25,null,null,1921,null],
 	[1698544198,25,null,null,1921,null],
 	[1698634439,25,null,null,1921,null],
+	[1727233161,9,1,9.0,1930,null],
 ]};
