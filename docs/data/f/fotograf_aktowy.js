@@ -146,4 +146,5 @@ profiles["fotograf_aktowy"] = {
 	[1727060716,null,1,null,100,-1.0],
 	[1727147084,null,1,null,100,-1.0],
 	[1727233489,null,1,null,100,-1.0],
+	[1727319907,null,1,null,100,null],
 ]};

@@ -3,4 +3,5 @@ profiles["XboxMuzeum"] = {
 "name": "Filip Turczyński",
 "snapshots": [
 	[1727236791,20,1,20.0,20,null],
+	[1727323189,40,2,20.0,40,null],
 ]};

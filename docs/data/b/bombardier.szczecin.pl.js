@@ -275,4 +275,5 @@ profiles["bombardier.szczecin.pl"] = {
 	[1723431256,100,null,null,1720,null],
 	[1723604053,100,null,null,1720,null],
 	[1723690484,100,null,null,1720,null],
+	[1727319323,10,1,10.0,1730,-1.0],
 ]};

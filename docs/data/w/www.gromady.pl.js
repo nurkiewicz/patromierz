@@ -3,4 +3,5 @@ profiles["www.gromady.pl"] = {
 "name": "Magazyn Gromady",
 "snapshots": [
 	[1727236716,50,1,50.0,50,null],
+	[1727323116,50,1,50.0,50,null],
 ]};

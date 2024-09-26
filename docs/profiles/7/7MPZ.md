@@ -1,9 +1,9 @@
 ---
-title: "Rafa\u0142 G\u0119bura \u2013 Pok\xF3j nr 7 | Statystyki patronite.pl | Patromierz"
+title: "7 metr\xF3w pod ziemi\u0105 | Statystyki patronite.pl | Patromierz"
 
 permalink: /7MPZ
 ---
 
-# [Rafał Gębura – Pokój nr 7](https://patronite.pl/7MPZ)
+# [7 metrów pod ziemią](https://patronite.pl/7MPZ)
 
 {% include profile.md name="7MPZ" prefix="7" %}

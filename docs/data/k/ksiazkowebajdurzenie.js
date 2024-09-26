@@ -4,4 +4,5 @@ profiles["ksiazkowebajdurzenie"] = {
 "snapshots": [
 	[1727147897,20,1,20.0,20,null],
 	[1727234311,60,2,30.0,60,null],
+	[1727320719,60,2,30.0,60,null],
 ]};

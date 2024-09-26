@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["7MPZ"] = {
-"name": "Rafał Gębura – Pokój nr 7",
+"name": "7 metrów pod ziemią",
 "snapshots": [
 	[1606348800,2860,145,19.72,77960,null],
 	[1635370877,3810,154,24.74,null,null],
@@ -988,4 +988,5 @@ profiles["7MPZ"] = {
 	[1727059702,625,30,20.83,null,-1.0],
 	[1727146086,625,30,20.83,null,-1.0],
 	[1727232475,625,30,20.83,null,-1.0],
+	[1727318897,625,30,20.83,null,-1.0],
 ]};
