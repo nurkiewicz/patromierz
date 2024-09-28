@@ -371,4 +371,5 @@ profiles["MKSBieszczady"] = {
 	[1727234776,10,1,10.0,830,null],
 	[1727321183,null,1,null,830,-1.0],
 	[1727407551,null,1,null,830,null],
+	[1727494086,null,1,null,830,null],
 ]};
