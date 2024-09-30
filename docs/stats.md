@@ -19,46 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/k/karta.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/p/promotorbiznesu.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
-<script type="text/javascript" src="data/1/1elemento.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/f/fundacjaduchleona.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/s/spacerzdrapieznikiem.js"></script>
-<script type="text/javascript" src="data/p/pomagamy-kotom.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/r/RomanFicek.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
 <script type="text/javascript" src="data/w/wimieniutychconiemowia.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="data/w/WachU.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/r/RomanFicek.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/1/1elemento.js"></script>
+<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/promotorbiznesu.js"></script>
 <script type="text/javascript" src="data/p/potemotem.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/s/spacerzdrapieznikiem.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/k/karta.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/w/wei.org.pl.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/o/outriders.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1032], ["Spacer z drapieżnikiem", -730], ["Fundacja Primo Elemento", -710], ["Dolnośląski Inspektorat Ochrony Zwierząt", -550], ["Fundacja Kosmos dla Dziewczynek", -385], ["Roman Ficek", -375], ["Dział Zagraniczny", -360], ["Cash", -350], ["Fundacja Duch Leona", -315], ["Borkoś", -285], ["dominikanie.pl", 560], ["Fundacja Ośrodka KARTA", 635], ["Karolina Korwin Piotrowska ", 650], ["Potem-o-tem ", 660], ["Fundacja \"Pomagamy kotom, by znalazły dom\"", 700], ["PROMOTOR BIZNESU", 1000], ["WachU", 1092], ["Fundacja Wzajemnie Pomocni", 1110], ["Radio Wnet", 2320], ["W imieniu tych co nie mówią", 2400]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -1044], ["Spacer z drapieżnikiem", -730], ["Fundacja Primo Elemento", -660], ["Dział Zagraniczny", -455], ["Dolnośląski Inspektorat Ochrony Zwierząt", -415], ["Roman Ficek", -375], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -330], ["Borkoś", -285], ["Warsaw Enterprise Insitutue", -280], ["Outriders", -260], ["dominikanie.pl", 490], ["Karolina Korwin Piotrowska ", 585], ["Potem-o-tem ", 636], ["Fundacja Ośrodka KARTA", 660], ["Podcastex", 764], ["Fundacja Wzajemnie Pomocni", 950], ["PROMOTOR BIZNESU", 1000], ["WachU", 1092], ["W imieniu tych co nie mówią", 1225], ["Radio Wnet", 2260]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
