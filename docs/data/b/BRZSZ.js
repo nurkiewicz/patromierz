@@ -10,4 +10,5 @@ profiles["BRZSZ"] = {
 	[1727492216,null,1,null,50,null],
 	[1727578607,null,1,null,50,null],
 	[1727664943,null,1,null,50,null],
+	[1727751834,null,1,null,50,null],
 ]};
