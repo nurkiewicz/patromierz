@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Classic_car_scene"] = [
+profiles["Classic_car_scene"] = {
+"name": "Classic Car Scene",
+"snapshots": [
 	[1689125454,20,1,20.0,20,null],
 	[1689211695,20,1,20.0,20,null],
 	[1689298256,20,1,20.0,20,null],
@@ -68,5 +70,5 @@ profiles["Classic_car_scene"] = [
 	[1696469801,20,1,20.0,60,null],
 	[1696556524,20,1,20.0,60,null],
 	[1696902195,20,1,20.0,60,null],
-	[1697074819,null,1,null,60,null],
-];
+	[1728615496,5,1,5.0,65,null],
+]};

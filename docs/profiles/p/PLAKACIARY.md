@@ -1,5 +1,5 @@
 ---
-title: PLAKACIARY | Patromierz
+title: PLAKACIARY | Statystyki patronite.pl | Patromierz
 
 permalink: /PLAKACIARY
 ---

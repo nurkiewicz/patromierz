@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Kolorowe-raki"] = {
-"name": "Kolorowe raki | ONKOBAZA",
+"name": "Fundacja Kolorowe raki",
 "snapshots": [
 	[1680688352,180,3,60.0,180,null],
 	[1680766257,180,3,60.0,180,null],
@@ -502,4 +502,5 @@ profiles["Kolorowe-raki"] = {
 	[1727666210,130,2,65.0,2940,null],
 	[1727753535,130,2,65.0,2940,null],
 	[1727839912,130,2,65.0,2940,null],
+	[1728616727,130,2,65.0,3070,null],
 ]};

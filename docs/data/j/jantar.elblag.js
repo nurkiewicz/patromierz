@@ -619,4 +619,5 @@ profiles["jantar.elblag"] = {
 	[1709266652,null,1,null,7567,null],
 	[1709353106,null,1,null,7567,null],
 	[1709439522,null,1,null,7567,null],
+	[1728616479,59,2,29.5,7626,null],
 ]};
