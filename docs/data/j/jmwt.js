@@ -3,4 +3,5 @@ profiles["jmwt"] = {
 "name": "jeden mecz w tygodniu",
 "snapshots": [
 	[1728616524,10,1,10.0,10,null],
+	[1728702863,10,1,10.0,10,null],
 ]};

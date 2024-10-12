@@ -41,4 +41,5 @@ profiles["jazgotout"] = {
 	[1721617900,100,null,null,100,null],
 	[1721704200,100,null,null,100,null],
 	[1721788730,100,null,null,100,null],
+	[1728702837,50,1,50.0,150,null],
 ]};

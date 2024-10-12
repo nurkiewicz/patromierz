@@ -95,4 +95,5 @@ profiles["idealzezgrzytem.pl"] = {
 	[1718335014,10,1,10.0,30,null],
 	[1718421426,null,1,null,30,null],
 	[1718507803,null,1,null,30,null],
+	[1728702704,10,1,10.0,40,null],
 ]};
