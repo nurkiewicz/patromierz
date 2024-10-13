@@ -4,4 +4,5 @@ profiles["andrzejwojciechowski.fotobieg"] = {
 "snapshots": [
 	[1728615073,10,1,10.0,10,null],
 	[1728701452,10,1,10.0,10,null],
+	[1728787855,10,1,10.0,10,null],
 ]};

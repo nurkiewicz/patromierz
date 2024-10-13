@@ -6,4 +6,5 @@ profiles["anmari"] = {
 	[1727837826,510,4,127.5,510,null],
 	[1728615097,null,17,null,null,null],
 	[1728701476,null,17,null,null,null],
+	[1728787879,null,17,null,null,null],
 ]};
