@@ -652,4 +652,5 @@ profiles["ManualZielarski"] = {
 	[1728617097,5,1,5.0,1260,null],
 	[1728703433,5,1,5.0,1260,null],
 	[1728789818,null,1,null,1260,null],
+	[1728876407,null,1,null,1260,null],
 ]};
