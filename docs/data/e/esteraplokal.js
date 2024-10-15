@@ -525,4 +525,5 @@ profiles["esteraplokal"] = {
 	[1728702216,null,1,null,1270,-1.0],
 	[1728788615,null,1,null,1270,null],
 	[1728875151,null,1,null,1270,null],
+	[1728961474,null,1,null,1270,-1.0],
 ]};

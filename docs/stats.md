@@ -19,47 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/g/ghyodo.js"></script>
-<script type="text/javascript" src="data/w/WachU.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/k/K3.js"></script>
-<script type="text/javascript" src="data/n/nitya.js"></script>
-<script type="text/javascript" src="data/m/mkwadratpodcast.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
-<script type="text/javascript" src="data/p/prawdziwachorwacja.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/f/fundacja-ocalenie.js"></script>
-<script type="text/javascript" src="data/w/wolnesady.js"></script>
-<script type="text/javascript" src="data/k/krzysztofmazur.js"></script>
 <script type="text/javascript" src="data/n/NotatnikInwestoraMN.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/p/podrozbezpaszportu.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/f/fundacja-ocalenie.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/o/okonserwa.js"></script>
+<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/m/mocniwduchu.js"></script>
+<script type="text/javascript" src="data/o/okonserwa.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/s/szpila.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/k/K3.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/n/nitya.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/g/ghyodo.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Nitya Patrycja Pruchnik", -1000], ["Wojciech Szewko", -500], ["Dolnośląski Inspektorat Ochrony Zwierząt", -420], ["Gabriel Hyodo", -250], ["Otwarta Konserwa", -220], ["Prawdziwa Chorwacja", -216], ["Michał Nieradka", -200], ["Life On Wheelz - Influencer z Misją", -200], ["MKwadrat Podcast", -200], ["Fundacja Wolne Sądy", -200], ["WachU", 299], ["Podcastex", 323], ["Krzysztof Mazur. Geoekonomia", 325], ["Agnieszka Cegielska", 403], ["K3 podcast Dariusza Bugalskiego", 430], ["Poglebiarka.pl", 525], ["Mocni w Duchu", 585], ["Radio Nowy Świat", 680], ["Radio Wnet", 1230], ["Fundacja Ocalenie", 1865]], 'largest_changes');
+            drawHorizontal([["SOWINSKY", -1582], ["Nitya Patrycja Pruchnik", -1000], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -970], ["Dolnośląski Inspektorat Ochrony Zwierząt", -620], ["Wojciech Szewko", -430], ["Michał Nieradka", -300], ["Gabriel Hyodo", -300], ["Kolektyw Szpila", -250], ["Planeta Abstrakcja", -230], ["Otwarta Konserwa", -220], ["WachU", 372], ["Agnieszka Cegielska", 403], ["K3 podcast Dariusza Bugalskiego", 460], ["Podróż bez Paszportu", 470], ["Radio Nowy Świat", 527], ["Poglebiarka.pl", 530], ["Mocni w Duchu", 630], ["Fundacja Wzajemnie Pomocni", 700], ["Fundacja Ocalenie", 2055], ["Radio Wnet", 2090]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
