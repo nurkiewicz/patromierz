@@ -1,9 +1,9 @@
 ---
-title: "Micha\u0142 Pajek | Statystyki patronite.pl | Patromierz"
+title: "Kuferek z Plansz\xF3wkami | Statystyki patronite.pl | Patromierz"
 
 permalink: /Kuferek
 ---
 
-# [Michał Pajek](https://patronite.pl/Kuferek)
+# [Kuferek z Planszówkami](https://patronite.pl/Kuferek)
 
 {% include profile.md name="Kuferek" prefix="k" %}

@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Kuferek"] = {
-"name": "Michał Pajek",
+"name": "Kuferek z Planszówkami",
 "snapshots": [
 	[1718681148,35,2,17.5,35,null],
 	[1718767507,35,2,17.5,35,null],
@@ -105,4 +105,5 @@ profiles["Kuferek"] = {
 	[1728789581,170,6,28.33,610,1.0],
 	[1728876160,170,6,28.33,610,1.0],
 	[1728962462,170,6,28.33,610,1.0],
+	[1729048996,170,6,28.33,610,1.0],
 ]};
