@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["beczkaprochu"] = {
-"name": "Beczka Prochu - podcast historyczny",
+"name": "Beczka Prochu",
 "snapshots": [
 	[1672906076,5,1,5.0,5,null],
 	[1672991802,5,1,5.0,5,null],
@@ -581,4 +581,5 @@ profiles["beczkaprochu"] = {
 	[1728874567,null,4,null,null,null],
 	[1728960904,null,4,null,null,null],
 	[1729047389,null,4,null,null,null],
+	[1729133666,null,4,null,null,null],
 ]};

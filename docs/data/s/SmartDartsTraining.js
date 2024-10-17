@@ -804,4 +804,5 @@ profiles["SmartDartsTraining"] = {
 	[1728877928,20,null,null,7840,null],
 	[1728964184,20,null,null,7840,null],
 	[1729050755,20,null,null,7840,null],
+	[1729136955,20,null,null,7840,null],
 ]};

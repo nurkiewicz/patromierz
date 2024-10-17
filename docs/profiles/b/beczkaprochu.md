@@ -1,9 +1,9 @@
 ---
-title: Beczka Prochu - podcast historyczny | Statystyki patronite.pl | Patromierz
+title: Beczka Prochu | Statystyki patronite.pl | Patromierz
 
 permalink: /beczkaprochu
 ---
 
-# [Beczka Prochu - podcast historyczny](https://patronite.pl/beczkaprochu)
+# [Beczka Prochu](https://patronite.pl/beczkaprochu)
 
 {% include profile.md name="beczkaprochu" prefix="b" %}
