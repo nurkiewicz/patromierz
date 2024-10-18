@@ -163,4 +163,5 @@ profiles["Obserwator_swiata"] = {
 	[1728963216,null,2,null,null,null],
 	[1729049763,null,2,null,null,null],
 	[1729135989,null,2,null,null,null],
+	[1729222490,null,2,null,null,null],
 ]};
