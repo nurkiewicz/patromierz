@@ -443,4 +443,5 @@ profiles["Herezja"] = {
 	[1729048424,25,null,null,405,null],
 	[1729134665,25,null,null,405,null],
 	[1729221151,25,null,null,405,null],
+	[1729307511,25,1,25.0,430,null],
 ]};
