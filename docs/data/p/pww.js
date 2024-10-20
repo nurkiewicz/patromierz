@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pww"] = {
-"name": "Rafał Zakrzewski",
+"name": "Pod Wpływem Wschowy",
 "snapshots": [
 	[1727235697,10,1,10.0,10,null],
 	[1727322104,25,2,12.5,25,null],
@@ -19,4 +19,5 @@ profiles["pww"] = {
 	[1729136639,130,7,18.57,130,null],
 	[1729223161,130,7,18.57,130,null],
 	[1729309472,130,7,18.57,130,null],
+	[1729395987,130,7,18.57,130,null],
 ]};

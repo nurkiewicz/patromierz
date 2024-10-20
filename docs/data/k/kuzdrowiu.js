@@ -111,4 +111,5 @@ profiles["kuzdrowiu"] = {
 	[1729135256,20,null,null,80,null],
 	[1729221743,20,null,null,80,null],
 	[1729308087,20,null,null,80,null],
+	[1729394581,20,1,20.0,100,null],
 ]};
