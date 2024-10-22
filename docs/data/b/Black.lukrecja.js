@@ -367,4 +367,5 @@ profiles["Black.lukrecja"] = {
 	[1729306557,30,null,null,420,null],
 	[1729393022,30,null,null,420,null],
 	[1729479398,30,null,null,420,null],
+	[1729565727,30,1,30.0,450,null],
 ]};
