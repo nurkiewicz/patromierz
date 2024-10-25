@@ -19,49 +19,51 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/m/miastograf.pl.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/k/Karczmarz.js"></script>
-<script type="text/javascript" src="data/u/urbexhistory.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/k/Klinowski.js"></script>
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 <script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/DziejeNevendaar.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/pomagamy-kotom.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/z/ZbigniewDylewski.js"></script>
+<script type="text/javascript" src="data/k/kskwroclaw.js"></script>
+<script type="text/javascript" src="data/p/promotorbiznesu.js"></script>
 <script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/d/DziejeNevendaar.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/w/wszewko.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/u/urbexhistory.js"></script>
+<script type="text/javascript" src="data/y/YouMyGod.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/k/KarolFjalkowski.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/w/wszewko.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/k/Klinowski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/k/krzysztofmazur.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/r/RadoslawPyffel.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/k/KosmosDlaDziewczynek.js"></script>
+<script type="text/javascript" src="data/m/MateuszChrobok.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dolnośląski Inspektorat Ochrony Zwierząt", -2005], ["Radio Nowy Świat", -1961], ["Witold Gadowski", -760], ["Karczmarz", -547], ["Dział Zagraniczny", -520], ["DziejeNevendaar", -500], ["Wojciech Szewko", -380], ["Karol Fjałkowski", -320], ["Borkoś", -320], ["Pal Hajs TV", -310], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", 370], ["Fundacja \"Pomagamy kotom, by znalazły dom\"", 480], ["Miastograf - Cyfrowe Archiwum Łodzian", 515], ["Urbex History", 519], ["Mateusz Klinowski", 532], ["Karolina Korwin Piotrowska ", 560], ["SOWINSKY", 820], ["Fundacja Wzajemnie Pomocni", 1190], ["Mateusz Lachowski", 1271], ["Radio Wnet", 4330]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -1225], ["Mateusz Chrobok", -1040], ["Witold Gadowski", -910], ["Dolnośląski Inspektorat Ochrony Zwierząt", -660], ["DziejeNevendaar", -500], ["Radosław Pyffel", -500], ["Zbigniew Dylewski", -500], ["Klub Sympatyków Kolei we Wrocławiu", -500], ["Fundacja Kosmos dla Dziewczynek", -315], ["Dział Zagraniczny", -315], ["Fundacja po DRUGIE", 345], ["YouMyGod", 400], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", 400], ["Mateusz Klinowski", 502], ["Urbex History", 723], ["Karolina Korwin Piotrowska ", 775], ["PROMOTOR BIZNESU", 1000], ["Krzysztof Mazur. Geoekonomia", 1100], ["Fundacja Wzajemnie Pomocni", 1430], ["Radio Wnet", 6850]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','karolinakp','Podcastwojennehistorie','radionaukowe','marcinzielinski','wszewko','Gadowski','sekielski','accantus','palhajstv','rockserwisfm','Zmierzchu','Vlogcasha','poglebiarka','brzmienie-swiata','podcastex','podkastamerykanski'], 
+                    ['DariuszRosiak','dzialzagraniczny','DIOZ','langustanapalmie','karolinakp','Podcastwojennehistorie','radionaukowe','marcinzielinski','wszewko','Gadowski','sekielski','accantus','palhajstv','rockserwisfm','poglebiarka','Vlogcasha','Zmierzchu','podcastex','brzmienie-swiata','podkastamerykanski'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

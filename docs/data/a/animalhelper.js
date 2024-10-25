@@ -8,4 +8,5 @@ profiles["animalhelper"] = {
 	[1729392773,null,1,null,50,null],
 	[1729479156,null,1,null,50,null],
 	[1729565494,null,1,null,50,null],
+	[1729842405,65,3,21.66,115,null],
 ]};
