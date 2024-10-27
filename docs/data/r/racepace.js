@@ -339,4 +339,5 @@ profiles["racepace"] = {
 	[1729568584,null,124,null,null,null],
 	[1729845275,null,126,null,null,null],
 	[1729945873,null,132,null,null,null],
+	[1729991549,null,132,null,null,null],
 ]};

@@ -25,4 +25,5 @@ profiles["ksiazkowebajdurzenie"] = {
 	[1729567184,735,31,23.7,null,null],
 	[1729843970,915,34,26.91,null,null],
 	[1729944558,915,34,26.91,null,null],
+	[1729990203,915,34,26.91,null,null],
 ]};
