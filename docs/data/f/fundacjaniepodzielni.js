@@ -613,4 +613,5 @@ profiles["fundacjaniepodzielni"] = {
 	[1729843290,null,1,null,1630,null],
 	[1729943871,null,1,null,1630,null],
 	[1729989432,null,1,null,1630,null],
+	[1730088328,null,1,null,1630,null],
 ]};

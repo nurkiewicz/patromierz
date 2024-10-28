@@ -922,4 +922,5 @@ profiles["WiejskieInspiracje"] = {
 	[1729846104,null,1,null,2575,-2.0],
 	[1729946709,null,1,null,2575,-2.0],
 	[1729992399,null,1,null,2575,-2.0],
+	[1730091230,null,1,null,2575,-2.0],
 ]};

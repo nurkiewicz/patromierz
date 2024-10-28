@@ -498,4 +498,5 @@ profiles["naszlakuhistorii"] = {
 	[1729844548,10,1,10.0,520,null],
 	[1729945144,10,1,10.0,520,null],
 	[1729990793,null,1,null,520,null],
+	[1730089629,null,1,null,520,null],
 ]};
