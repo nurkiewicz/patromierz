@@ -79,4 +79,5 @@ profiles["PerfumoweSwiry"] = {
 	[1729945470,null,30,null,null,null],
 	[1729991130,null,30,null,null,null],
 	[1730089963,null,30,null,null,null],
+	[1730176357,null,31,null,null,null],
 ]};

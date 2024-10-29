@@ -385,4 +385,5 @@ profiles["mocno-żyć"] = {
 	[1729945014,100,null,null,1900,null],
 	[1729990661,100,null,null,1900,null],
 	[1730089493,100,null,null,1900,null],
+	[1730175892,100,null,null,1900,null],
 ]};
