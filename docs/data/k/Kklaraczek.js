@@ -153,4 +153,5 @@ profiles["Kklaraczek"] = {
 	[1725160670,null,1,null,40,null],
 	[1725247080,null,1,null,40,null],
 	[1725333400,null,1,null,40,-1.0],
+	[1730348140,20,1,20.0,60,null],
 ]};

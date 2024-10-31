@@ -4,4 +4,5 @@ profiles["instrumentykosmiczne"] = {
 "snapshots": [
 	[1730175029,65,2,32.5,572,null],
 	[1730261480,65,2,32.5,572,null],
+	[1730347885,65,2,32.5,572,null],
 ]};
