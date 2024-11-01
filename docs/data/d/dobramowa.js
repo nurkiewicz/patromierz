@@ -27,4 +27,5 @@ profiles["dobramowa"] = {
 	[1730174359,10,1,10.0,20,null],
 	[1730260806,null,1,null,20,null],
 	[1730347198,null,1,null,20,null],
+	[1730433532,null,1,null,20,null],
 ]};
