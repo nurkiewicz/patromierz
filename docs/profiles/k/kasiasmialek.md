@@ -1,9 +1,9 @@
 ---
-title: "Kasia \u015Amia\u0142ek | Statystyki patronite.pl | Patromierz"
+title: "Kasia Radecka (\u015Amia\u0142ek) | Statystyki patronite.pl | Patromierz"
 
 permalink: /kasiasmialek
 ---
 
-# [Kasia Śmiałek](https://patronite.pl/kasiasmialek)
+# [Kasia Radecka (Śmiałek)](https://patronite.pl/kasiasmialek)
 
 {% include profile.md name="kasiasmialek" prefix="k" %}

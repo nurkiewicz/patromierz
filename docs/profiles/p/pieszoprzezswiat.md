@@ -1,9 +1,9 @@
 ---
-title: "Pieszo przez \u015Bwiat | Statystyki patronite.pl | Patromierz"
+title: The longest trail- Daniel Korzeniewski | Statystyki patronite.pl | Patromierz
 
 permalink: /pieszoprzezswiat
 ---
 
-# [Pieszo przez świat](https://patronite.pl/pieszoprzezswiat)
+# [The longest trail- Daniel Korzeniewski](https://patronite.pl/pieszoprzezswiat)
 
 {% include profile.md name="pieszoprzezswiat" prefix="p" %}

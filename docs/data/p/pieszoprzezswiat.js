@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["pieszoprzezswiat"] = {
-"name": "Pieszo przez świat",
+"name": "The longest trail- Daniel Korzeniewski",
 "snapshots": [
 	[1643360219,835,17,49.11,3755,null],
 	[1643431399,835,17,49.11,3775,null],
@@ -931,4 +931,5 @@ profiles["pieszoprzezswiat"] = {
 	[1730608361,1265,32,39.53,33295,1.0],
 	[1730694881,1265,32,39.53,33295,1.0],
 	[1730781173,1265,32,39.53,33295,1.0],
+	[1730867514,1265,32,39.53,33325,1.0],
 ]};
