@@ -399,4 +399,5 @@ profiles["www.facebook.com.FCKursko"] = {
 	[1730696232,null,1,null,1260,-2.0],
 	[1730782513,null,1,null,1260,-2.0],
 	[1730868822,null,1,null,1260,-2.0],
+	[1730955394,null,1,null,1260,-2.0],
 ]};

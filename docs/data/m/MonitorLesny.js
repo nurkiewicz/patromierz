@@ -932,4 +932,5 @@ profiles["MonitorLesny"] = {
 	[1730694417,10,1,10.0,6125,null],
 	[1730780704,null,1,null,6125,null],
 	[1730867055,null,1,null,6125,null],
+	[1730953570,null,1,null,6125,null],
 ]};

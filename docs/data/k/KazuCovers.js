@@ -937,4 +937,5 @@ profiles["KazuCovers"] = {
 	[1730693759,null,1,null,2000,null],
 	[1730780047,null,1,null,2000,null],
 	[1730866411,null,1,null,2000,null],
+	[1730952899,null,1,null,2000,null],
 ]};

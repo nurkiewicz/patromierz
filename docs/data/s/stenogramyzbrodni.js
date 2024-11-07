@@ -936,4 +936,5 @@ profiles["stenogramyzbrodni"] = {
 	[1730695639,null,32,null,null,null],
 	[1730781927,null,32,null,null,null],
 	[1730868256,null,32,null,null,null],
+	[1730954807,null,32,null,null,null],
 ]};
