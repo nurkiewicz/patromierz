@@ -1,5 +1,5 @@
 ---
-title: Dom Magnificat | Patromierz
+title: Dom Magnificat | Statystyki patronite.pl | Patromierz
 
 permalink: /DomMagnificat
 ---
