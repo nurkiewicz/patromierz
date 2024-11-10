@@ -47,4 +47,5 @@ profiles["www.wypiszwyczytaj.pl"] = {
 	[1730955444,null,1,null,40,-1.0],
 	[1731041761,null,1,null,40,-1.0],
 	[1731128228,null,1,null,40,-1.0],
+	[1731214611,null,1,null,40,-1.0],
 ]};
