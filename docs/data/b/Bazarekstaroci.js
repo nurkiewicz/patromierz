@@ -7,4 +7,5 @@ profiles["Bazarekstaroci"] = {
 	[1731038012,null,1,null,30,null],
 	[1731124439,null,1,null,30,null],
 	[1731210820,null,1,null,30,null],
+	[1731297860,null,1,null,30,null],
 ]};
