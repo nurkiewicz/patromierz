@@ -71,4 +71,5 @@ profiles["MuzeumTradycjiRuchuNarodowego"] = {
 	[1649040390,null,null,null,70,null],
 	[1649068222,null,null,null,70,null],
 	[1731300838,28,1,28.0,98,null],
+	[1731385615,28,1,28.0,98,null],
 ]};
