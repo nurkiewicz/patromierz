@@ -28,4 +28,5 @@ profiles["damianstefaan"] = {
 	[1731298305,null,4,null,null,null],
 	[1731383912,225,5,45.0,null,null],
 	[1731470298,940,11,85.45,null,null],
+	[1731556912,1000,12,83.33,null,null],
 ]};
