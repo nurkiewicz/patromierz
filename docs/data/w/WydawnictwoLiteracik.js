@@ -67,4 +67,5 @@ profiles["WydawnictwoLiteracik"] = {
 	[1731387456,null,1,null,75,-1.0],
 	[1731473739,null,1,null,75,-1.0],
 	[1731560508,null,1,null,75,-1.0],
+	[1731646907,null,1,null,75,-1.0],
 ]};
