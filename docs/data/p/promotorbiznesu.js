@@ -61,4 +61,5 @@ profiles["promotorbiznesu"] = {
 	[1731472654,null,5,null,null,null],
 	[1731559378,null,5,null,null,null],
 	[1731645753,null,5,null,null,null],
+	[1731732079,null,5,null,null,null],
 ]};
