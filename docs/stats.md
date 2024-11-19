@@ -19,48 +19,49 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/n/nazwex.js"></script>
-<script type="text/javascript" src="data/a/arhneu.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/t/tablao.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
 <script type="text/javascript" src="data/t/twojanowaswiadomosc.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/strajk.js"></script>
-<script type="text/javascript" src="data/k/Klinowski.js"></script>
-<script type="text/javascript" src="data/d/damianstefaan.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/w/warowniajomsborg.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/k/krysiak.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
 <script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
 <script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
-<script type="text/javascript" src="data/b/budzimy-kosciol.js"></script>
-<script type="text/javascript" src="data/s/strefaanime.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/t/TEDENOVELA.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/MagazynAnityGargas.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/w/warowniajomsborg.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/n/nazwex.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
 <script type="text/javascript" src="data/i/instytutr.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/s/strefaanime.js"></script>
+<script type="text/javascript" src="data/k/krysiak.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/strajk.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/b/budzimy-kosciol.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/j/jarominaleksandra.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/t/TEDENOVELA.js"></script>
+<script type="text/javascript" src="data/k/Klinowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Tedenovela", -560], ["TwojaNowaŚwiadomość ", -555], ["Uwaga Naukowy Bełkot", -549], ["Fundacja Nowa Pięćdziesiątnica", -500], ["Fundacja Historyczna - Warownia Jomsborg", -500], ["strajk.eu", -488], ["Life On Wheelz - Influencer z Misją", -485], ["Instytut Reportażu", -420], ["arhn.eu", -340], ["Dolnośląski Inspektorat Ochrony Zwierząt", -330], ["Tablao Flamenco Warszawa", 480], ["Mateusz Klinowski", 502], ["Witold Gadowski", 655], ["Nazwex", 780], ["DAMIAN'S CORNER", 835], ["Fundacja Wzajemnie Pomocni", 840], ["Strefa Anime", 999], ["Piotr Krysiak", 1143], ["Radio Wnet", 2720], ["Podcast Wojenne Historie", 2745]], 'largest_changes');
+            drawHorizontal([["Magazyn Anity Gargas", -1010], ["Uwaga Naukowy Bełkot", -619], ["TwojaNowaŚwiadomość ", -555], ["Tedenovela", -530], ["Fundacja Nowa Pięćdziesiątnica", -500], ["Fundacja Historyczna - Warownia Jomsborg", -500], ["strajk.eu", -479], ["Life On Wheelz - Influencer z Misją", -460], ["Instytut Reportażu", -440], ["Karolina Korwin Piotrowska ", -415], ["Agnieszka Cegielska", 487], ["Aleksandra Jaromin", 500], ["Mateusz Klinowski", 502], ["Fundacja po DRUGIE", 540], ["Nazwex", 800], ["Witold Gadowski", 840], ["Strefa Anime", 999], ["Piotr Krysiak", 1156], ["Radio Wnet", 2070], ["Podcast Wojenne Historie", 3040]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
