@@ -4,4 +4,5 @@ profiles["Armus-sparalizowany-piesek"] = {
 "snapshots": [
 	[1731901864,150,6,25.0,150,null],
 	[1731988303,250,9,27.77,250,null],
+	[1732074673,250,9,27.77,250,null],
 ]};
