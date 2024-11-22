@@ -3,4 +3,5 @@ profiles["bwsinf"] = {
 "name": "Roman Kowenia",
 "snapshots": [
 	[1732161345,20,1,20.0,20,null],
+	[1732247751,30,2,15.0,30,null],
 ]};
