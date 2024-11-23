@@ -34,4 +34,5 @@ profiles["lasyiobywatele"] = {
 	[1732076241,null,1,null,30,null],
 	[1732162702,null,1,null,30,null],
 	[1732249119,null,1,null,30,-1.0],
+	[1732335507,null,1,null,30,-1.0],
 ]};
