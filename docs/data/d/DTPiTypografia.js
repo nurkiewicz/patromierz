@@ -948,4 +948,5 @@ profiles["DTPiTypografia"] = {
 	[1732248049,null,1,null,888,null],
 	[1732334446,null,1,null,888,null],
 	[1732420888,null,1,null,888,null],
+	[1732507288,null,1,null,888,null],
 ]};
