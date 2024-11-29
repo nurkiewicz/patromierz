@@ -258,4 +258,5 @@ profiles["LSDFarm"] = {
 	[1732335588,null,1082,null,null,null],
 	[1732422020,null,1070,null,null,null],
 	[1732508444,null,1066,null,null,null],
+	[1732853997,null,1060,null,null,null],
 ]};
