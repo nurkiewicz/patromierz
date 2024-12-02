@@ -19,52 +19,52 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/e/eurotransecologic.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/o/OMZRIK.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/t/twojanowaswiadomosc.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/m/MagdalenaCzaban-zawodniczkaMMA.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/u/unitedinchrist.js"></script>
-<script type="text/javascript" src="data/s/specjalistka.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/t/teatrmackowiaka.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/a/aryo.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/k/koroluk.js"></script>
-<script type="text/javascript" src="data/b/BetterH.js"></script>
-<script type="text/javascript" src="data/b/BasiaiKasia.js"></script>
-<script type="text/javascript" src="data/w/www.takdlacpk.org.js"></script>
-<script type="text/javascript" src="data/g/gruszetniklublin.js"></script>
 <script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/w/wojnaidei.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 <script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/r/raczek.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/a/aldo.js"></script>
+<script type="text/javascript" src="data/b/BetterH.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/e/EdytaLewandowska.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/d/dominik.tabor.js"></script>
+<script type="text/javascript" src="data/t/teatrmackowiaka.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/s/specjalistka.js"></script>
 <script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/p/Percival.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/m/mikropsy.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/f/fundacja_kaczkowskiego.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/w/www.takdlacpk.org.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/pk.travel.pl.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1763], ["Eurotrans Eco Logic Polska", -1010], ["Gruszętnik Lublin", -500], ["Marta Knasiecka", -475], ["OMZRiK", -455], ["Teatr Kamila Maćkowiaka", -439], ["Aryo", -400], ["Ruch Radzionków", -400], ["Szymon Pękala - Wojna Idei", -362], ["Dział Zagraniczny", -360], ["Dariusz Rosiak", 355], ["Podcastex", 370], ["Kasia i Basia", 390], ["TwojaNowaŚwiadomość ", 467], ["UNITED in CHRIST", 499], ["Magdalena Czaban", 500], ["Koroluk", 700], ["BetterH", 780], ["Stowarzyszenie Tak Dla CPK", 1230], ["Radio Wnet", 1820]], 'largest_changes');
+            drawHorizontal([["Dział Zagraniczny", -485], ["Ruch Radzionków", -300], ["Teatr Kamila Maćkowiaka", -250], ["Virtual Dream - Piotr Łój", -240], ["Tomasz Raczek", -230], ["Marta Knasiecka", -225], ["PERCIVAL SCHUTTENBACH", -198], ["Radio Nowy Świat", -187], ["Fundacja Mikropsy", -184], ["życie warte jest rozmowy", -180], ["Edyta Lewandowska", 217], ["Karolina Korwin Piotrowska ", 235], ["BetterH", 250], ["Aldona Hartwińska", 300], ["Fundacja Kaczkowskiego - Projekt PaKa", 300], ["pk.travel.pl", 420], ["Stowarzyszenie Tak Dla CPK", 460], ["Dominik Tabor", 520], ["Dariusz Rosiak", 650], ["Radio Wnet", 1270]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','langustanapalmie','karolinakp','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','sekielski','accantus','WzajemniePomocni','podcastex','Vlogcasha','rockserwisfm','poglebiarka','palhajstv','Zmierzchu','brzmienie-swiata','podkastamerykanski'], 
+                    ['DariuszRosiak','dzialzagraniczny','langustanapalmie','karolinakp','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','sekielski','accantus','WzajemniePomocni','podcastex','Vlogcasha','poglebiarka','rockserwisfm','palhajstv','Zmierzchu','brzmienie-swiata','podkastamerykanski'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
