@@ -3,4 +3,5 @@ profiles["BasiaDunin_FunFlowJoga"] = {
 "name": "Basia Dunin: FunFlow Joga",
 "snapshots": [
 	[1733111599,50,1,50.0,50,null],
+	[1733198014,50,1,50.0,50,null],
 ]};
