@@ -355,4 +355,5 @@ profiles["www.krakowfootballkings.pl"] = {
 	[1733029027,null,2,null,510,-1.0],
 	[1733115362,null,2,null,510,-1.0],
 	[1733201761,null,1,null,510,-1.0],
+	[1733288179,null,1,null,510,-1.0],
 ]};

@@ -456,4 +456,5 @@ profiles["AMstudio"] = {
 	[1733025051,10,1,10.0,1005,null],
 	[1733111416,null,1,null,1005,null],
 	[1733197829,null,1,null,1005,null],
+	[1733284233,null,1,null,1005,null],
 ]};
