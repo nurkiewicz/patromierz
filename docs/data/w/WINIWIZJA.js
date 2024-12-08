@@ -513,4 +513,5 @@ profiles["WINIWIZJA"] = {
 	[1715054903,null,1,null,null,-1.0],
 	[1733460865,5,1,5.0,null,null],
 	[1733547405,20,2,10.0,null,null],
+	[1733633711,20,2,10.0,null,null],
 ]};
