@@ -962,4 +962,5 @@ profiles["starodawneprzepisy"] = {
 	[1733633207,20,null,null,995,null],
 	[1733719656,20,null,null,995,null],
 	[1733806045,20,null,null,995,null],
+	[1733892227,20,null,null,995,null],
 ]};
