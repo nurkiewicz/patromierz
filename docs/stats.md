@@ -19,52 +19,51 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/w/wedkujzjulia.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/p/Percival.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/l/Leszek-Korzeniecki.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/m/michalzerka.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/m/MiserArt.js"></script>
-<script type="text/javascript" src="data/z/zestoickimspokojem.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/i/IzaMichalewicz.js"></script>
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-<script type="text/javascript" src="data/w/warowniajomsborg.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/m/martindesimmons.js"></script>
-<script type="text/javascript" src="data/b/BezSchematu.js"></script>
-<script type="text/javascript" src="data/e/ekskursje.pl.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/s/szopowisko.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 <script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/d/demagog.js"></script>
+<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+<script type="text/javascript" src="data/w/warowniajomsborg.js"></script>
+<script type="text/javascript" src="data/c/cfdkrakow.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/w/wedkujzjulia.js"></script>
+<script type="text/javascript" src="data/m/martindesimmons.js"></script>
+<script type="text/javascript" src="data/z/zestoickimspokojem.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/p/Percival.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/e/ekskursje.pl.js"></script>
+<script type="text/javascript" src="data/l/Leszek-Korzeniecki.js"></script>
+<script type="text/javascript" src="data/i/IzaMichalewicz.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/u/ujawniamy-com.js"></script>
+<script type="text/javascript" src="data/m/MiserArt.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dolnośląski Inspektorat Ochrony Zwierząt", -700], ["Leszek Korzeniecki", -600], ["Borkoś", -575], ["Wędkuj z Julią", -500], ["Martin de Simmons", -410], ["Fundacja Szopowisko", -360], ["Dział Zagraniczny", -355], ["Pal Hajs TV", -350], ["Bez/Schematu", -330], ["MiserArt – strefa kreatywna w labiryncie wykluczenia", -300], ["Jakub Wiech", 485], ["Michał Zerka", 485], ["Fundacja Historyczna - Warownia Jomsborg", 500], ["Ze stoickim spokojem", 500], ["Podcastex", 590], ["Profesor Matczak", 610], ["Iza Michalewicz", 700], ["PERCIVAL SCHUTTENBACH", 999], ["Radio Wnet", 1380], ["Wojciech Orlinski", 1640]], 'largest_changes');
+            drawHorizontal([["Dolnośląski Inspektorat Ochrony Zwierząt", -745], ["Leszek Korzeniecki", -600], ["Borkoś", -580], ["Wędkuj z Julią", -500], ["Martin de Simmons", -420], ["Dział Zagraniczny", -400], ["Centrum Formacji Duchowej - Kraków", -320], ["Pal Hajs TV", -320], ["MiserArt – strefa kreatywna w labiryncie wykluczenia", -300], ["Demagog", -300], ["Fundacja Historyczna - Warownia Jomsborg", 500], ["Ze stoickim spokojem", 500], ["Podcastex", 669], ["Profesor Matczak", 685], ["Iza Michalewicz", 720], ["PERCIVAL SCHUTTENBACH", 999], ["Marcin Torz", 1000], ["Wojciech Orlinski", 1750], ["Radio Wnet", 1900], ["Radio Nowy Świat", 5292]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','langustanapalmie','karolinakp','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','sekielski','accantus','podcastex','WzajemniePomocni','Vlogcasha','poglebiarka','rockserwisfm','palhajstv','Zmierzchu','brzmienie-swiata','podkastamerykanski'], 
+                    ['DariuszRosiak','dzialzagraniczny','langustanapalmie','karolinakp','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','sekielski','accantus','podcastex','WzajemniePomocni','Vlogcasha','poglebiarka','rockserwisfm','palhajstv','brzmienie-swiata','Zmierzchu','portaldominikanie'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
