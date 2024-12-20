@@ -193,4 +193,5 @@ profiles["Fundacja-Malwa"] = {
 	[1719198621,20,null,null,120,null],
 	[1719285115,20,null,null,120,null],
 	[1719371445,20,null,null,120,null],
+	[1734667511,220,2,110.0,340,1.0],
 ]};
