@@ -931,4 +931,5 @@ profiles["historiawdrodze"] = {
 	[1734581366,10,null,null,2475,null],
 	[1734667783,10,null,null,2475,null],
 	[1734754201,10,null,null,2475,null],
+	[1734840657,20,1,20.0,2485,null],
 ]};

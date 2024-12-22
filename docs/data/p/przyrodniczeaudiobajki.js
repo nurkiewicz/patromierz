@@ -3,4 +3,5 @@ profiles["przyrodniczeaudiobajki"] = {
 "name": "Przyrodnicze Audiobajki",
 "snapshots": [
 	[1734755990,40,4,10.0,40,null],
+	[1734842458,120,8,15.0,120,null],
 ]};
