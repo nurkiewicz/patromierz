@@ -49,4 +49,5 @@ profiles["www.legacyofwrestling.pl"] = {
 	[1734757036,null,1,null,900,-24.0],
 	[1734843511,null,1,null,900,-24.0],
 	[1734929866,null,1,null,900,-24.0],
+	[1735016243,null,1,null,900,-24.0],
 ]};

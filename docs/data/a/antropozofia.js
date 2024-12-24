@@ -978,4 +978,5 @@ profiles["antropozofia"] = {
 	[1734753096,29,1,29.0,1941,null],
 	[1734839527,29,null,null,1941,null],
 	[1734925912,29,null,null,1941,null],
+	[1735012281,29,null,null,1941,null],
 ]};
