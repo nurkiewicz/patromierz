@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["dr.Lukasz.P.Michon"] = {
-"name": "Mechanika wychodzenia ze strefy komfortu",
+"name": "Sztuka wychodzenia ze strefy komfortu",
 "snapshots": [
 	[1709957102,null,1,null,null,null],
 	[1710043376,null,1,null,null,null],
@@ -267,4 +267,5 @@ profiles["dr.Lukasz.P.Michon"] = {
 	[1734926477,null,2,null,null,null],
 	[1735012851,null,2,null,null,null],
 	[1735099276,null,2,null,null,null],
+	[1735185683,null,2,null,null,null],
 ]};

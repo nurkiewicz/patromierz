@@ -1,5 +1,5 @@
 ---
-title: "\u015Arodek od \u015Brodka | Patromierz"
+title: "\u015Arodek od \u015Brodka | Statystyki patronite.pl | Patromierz"
 
 permalink: /srodekodsrodka
 ---

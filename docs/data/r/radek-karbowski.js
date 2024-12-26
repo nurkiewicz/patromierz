@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["radek-karbowski"] = {
-"name": "Radek Karbowski / Skrót polityczny",
+"name": "Radek Karbowski",
 "snapshots": [
 	[1679824655,26,2,13.0,26,null],
 	[1679907791,52,4,13.0,52,null],
@@ -578,4 +578,5 @@ profiles["radek-karbowski"] = {
 	[1734928878,2178,134,16.25,29445,-1.0],
 	[1735015253,2215,139,15.93,29524,null],
 	[1735101403,2215,139,15.93,29524,null],
+	[1735188099,2215,139,15.93,29545,null],
 ]};
