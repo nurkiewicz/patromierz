@@ -781,4 +781,5 @@ profiles["przygodnikpodrozniczy"] = {
 	[1735101345,null,1,null,650,-1.0],
 	[1735188042,null,1,null,650,-1.0],
 	[1735274421,null,1,null,650,-1.0],
+	[1735360958,null,1,null,650,-1.0],
 ]};
