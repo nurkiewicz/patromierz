@@ -337,4 +337,5 @@ profiles["sladamiuczestnikow"] = {
 	[1735188360,null,1,null,3800,-3.0],
 	[1735274745,null,1,null,3800,-4.0],
 	[1735361289,null,1,null,3800,-4.0],
+	[1735447646,null,1,null,3800,-4.0],
 ]};
