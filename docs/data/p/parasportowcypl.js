@@ -83,4 +83,5 @@ profiles["parasportowcypl"] = {
 	[1735360523,10,1,10.0,30,null],
 	[1735446888,10,1,10.0,30,null],
 	[1735533115,10,null,null,30,null],
+	[1735619652,10,null,null,30,null],
 ]};
