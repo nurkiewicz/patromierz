@@ -640,4 +640,5 @@ profiles["WidmaHistorii"] = {
 	[1726977427,null,1,null,880,null],
 	[1727063832,null,1,null,880,null],
 	[1727150163,null,1,null,880,null],
+	[1735710438,20,1,20.0,900,null],
 ]};

@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["miloscinadzieja"] = {
+"name": "Fundacja Miłość i Nadziei",
+"snapshots": [
+	[1735708286,10,1,10.0,3355,null],
+]};
