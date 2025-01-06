@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["browarrejenta"] = [
+profiles["browarrejenta"] = {
+"name": "Rejent i Szumowski w domu na streamie - Browar Rejenta",
+"snapshots": [
 	[1621036800,500,4,125.0,500,null],
 	[1643358786,300,2,150.0,4800,null],
 	[1643438059,300,2,150.0,4800,null],
@@ -180,4 +182,5 @@ profiles["browarrejenta"] = [
 	[1666925732,null,1,null,5700,-6.0],
 	[1667012628,null,1,null,5700,-6.0],
 	[1667098904,null,1,null,5700,-6.0],
-];
+	[1736135757,100,1,100.0,5800,null],
+]};
