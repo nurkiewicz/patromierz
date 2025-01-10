@@ -3,4 +3,5 @@ profiles["klubtwojatura"] = {
 "name": "Klub Gier Planszowych \"Twoja Tura\"",
 "snapshots": [
 	[1736396221,30,2,15.0,30,null],
+	[1736482638,30,2,15.0,30,null],
 ]};
