@@ -187,4 +187,5 @@ profiles["browarrejenta"] = {
 	[1736308571,100,1,100.0,5800,null],
 	[1736394986,null,1,null,5800,null],
 	[1736481407,null,1,null,5800,null],
+	[1736567804,null,1,null,5800,null],
 ]};
