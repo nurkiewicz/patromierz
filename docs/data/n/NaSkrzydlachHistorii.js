@@ -613,4 +613,5 @@ profiles["NaSkrzydlachHistorii"] = {
 	[1736396960,null,1,null,1930,-1.0],
 	[1736483379,null,1,null,1930,-1.0],
 	[1736569784,null,1,null,1930,-1.0],
+	[1736656174,null,1,null,1930,-1.0],
 ]};
