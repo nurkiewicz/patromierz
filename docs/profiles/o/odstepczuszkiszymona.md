@@ -1,5 +1,5 @@
 ---
-title: "Odst\u0119pczuszki Szymona | Patromierz"
+title: "Odst\u0119pczuszki Szymona | Statystyki patronite.pl | Patromierz"
 
 permalink: /odstepczuszkiszymona
 ---
