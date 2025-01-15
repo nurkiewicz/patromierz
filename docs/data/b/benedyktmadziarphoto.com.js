@@ -34,4 +34,5 @@ profiles["benedyktmadziarphoto.com"] = {
 	[1736654095,null,1,null,110,null],
 	[1736740476,null,1,null,110,null],
 	[1736826882,25,2,12.5,135,null],
+	[1736913266,125,2,62.5,235,1.0],
 ]};
