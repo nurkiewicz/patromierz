@@ -3,4 +3,5 @@ profiles["FutbolBezBarier"] = {
 "name": "Futbol Bez Barier",
 "snapshots": [
 	[1737086875,10,1,10.0,410,null],
+	[1737173236,10,1,10.0,410,null],
 ]};
