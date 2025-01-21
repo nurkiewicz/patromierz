@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["smq.gixer"] = {
+profiles["smq_gixer"] = {
 "name": "smq.gixer",
 "snapshots": [
 	[1731818713,10,1,10.0,10,null],
@@ -64,4 +64,5 @@ profiles["smq.gixer"] = {
 	[1737175567,10,1,10.0,30,null],
 	[1737262033,10,1,10.0,30,null],
 	[1737348563,10,1,10.0,30,null],
+	[1737434755,10,1,10.0,30,null],
 ]};

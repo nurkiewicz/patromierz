@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Patronite.plOdpowiedzi-z-nieba"] = {
+profiles["Patronite_plOdpowiedzi-z-nieba"] = {
 "name": "ODPOWIEDZI Z NIEBA I INNE NIEBIAŃSKIE PRZESŁANIA",
 "snapshots": [
 	[1719200611,200,1,200.0,200,null],
@@ -190,4 +190,5 @@ profiles["Patronite.plOdpowiedzi-z-nieba"] = {
 	[1737174820,303,3,101.0,2609,null],
 	[1737261272,303,3,101.0,2609,null],
 	[1737347790,303,3,101.0,2609,null],
+	[1737434000,303,3,101.0,2609,null],
 ]};

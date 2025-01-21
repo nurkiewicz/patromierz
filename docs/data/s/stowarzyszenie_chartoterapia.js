@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["stowarzyszenie.chartoterapia"] = {
+profiles["stowarzyszenie_chartoterapia"] = {
 "name": "Stowarzyszenie Chartoterapia",
 "snapshots": [
 	[1723779992,100,2,50.0,150,null],
@@ -138,4 +138,5 @@ profiles["stowarzyszenie.chartoterapia"] = {
 	[1737175661,2675,68,39.33,7505,29.0],
 	[1737262128,2675,68,39.33,7655,29.0],
 	[1737348659,2575,68,37.86,7855,22.0],
+	[1737434848,2600,69,37.68,8030,24.0],
 ]};

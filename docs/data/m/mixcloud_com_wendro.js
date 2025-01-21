@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["mixcloud.com.wendro"] = {
+profiles["mixcloud_com_wendro"] = {
 "name": "Jazz Division",
 "snapshots": [
 	[1676086703,630,15,42.0,630,null],
@@ -640,4 +640,5 @@ profiles["mixcloud.com.wendro"] = {
 	[1737174363,230,4,57.5,10780,null],
 	[1737260808,230,4,57.5,10780,null],
 	[1737347316,230,4,57.5,10780,null],
+	[1737433543,230,4,57.5,10780,null],
 ]};

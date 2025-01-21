@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["fermata.edu.pl"] = {
+profiles["fermata_edu_pl"] = {
 "name": "Stowarzyszenie Wspierania Kultury FERMATA",
 "snapshots": [
 	[1733976170,50,1,50.0,50,null],
@@ -42,4 +42,5 @@ profiles["fermata.edu.pl"] = {
 	[1737173066,50,1,50.0,100,null],
 	[1737259487,50,1,50.0,100,null],
 	[1737345962,50,1,50.0,100,null],
+	[1737432244,50,1,50.0,100,null],
 ]};

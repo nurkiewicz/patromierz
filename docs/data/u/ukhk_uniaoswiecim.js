@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ukhk.uniaoswiecim"] = {
+profiles["ukhk_uniaoswiecim"] = {
 "name": "Uczniowski Klub Hokejowy Kobiet Unia Oświęcim",
 "snapshots": [
 	[1724903874,50,1,50.0,50,null],
@@ -130,4 +130,5 @@ profiles["ukhk.uniaoswiecim"] = {
 	[1737175988,20,1,20.0,280,null],
 	[1737262459,20,1,20.0,280,null],
 	[1737348994,20,1,20.0,280,null],
+	[1737435174,20,1,20.0,280,null],
 ]};

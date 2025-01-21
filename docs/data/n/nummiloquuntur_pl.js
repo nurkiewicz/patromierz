@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["nummiloquuntur.pl"] = {
+profiles["nummiloquuntur_pl"] = {
 "name": "B. Awianowicz Nummi loquuntur",
 "snapshots": [
 	[1707280594,180,5,36.0,180,null],
@@ -325,4 +325,5 @@ profiles["nummiloquuntur.pl"] = {
 	[1737174636,1060,21,50.47,10060,5.0],
 	[1737261088,1060,21,50.47,10100,5.0],
 	[1737347600,1060,21,50.47,10100,5.0],
+	[1737433818,1060,21,50.47,10100,5.0],
 ]};

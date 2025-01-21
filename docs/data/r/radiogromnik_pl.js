@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["radiogromnik.pl"] = {
+profiles["radiogromnik_pl"] = {
 "name": "Piotr Moc",
 "snapshots": [
 	[1722915616,220,3,73.33,220,null],
@@ -148,4 +148,5 @@ profiles["radiogromnik.pl"] = {
 	[1737175284,810,8,101.25,5400,-4.0],
 	[1737261743,780,8,97.5,5400,-5.0],
 	[1737348268,780,8,97.5,5400,-5.0],
+	[1737434465,780,7,111.42,5400,-5.0],
 ]};

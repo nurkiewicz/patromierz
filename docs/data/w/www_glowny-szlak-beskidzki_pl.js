@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.glowny-szlak-beskidzki.pl"] = {
+profiles["www_glowny-szlak-beskidzki_pl"] = {
 "name": "Stowarzyszenie Główny Szlak Beskidzki Stowarzyszenie GSB",
 "snapshots": [
 	[1678602492,335,9,37.22,335,null],
@@ -620,4 +620,5 @@ profiles["www.glowny-szlak-beskidzki.pl"] = {
 	[1737176256,310,11,28.18,7910,null],
 	[1737262735,310,11,28.18,7910,null],
 	[1737349272,310,11,28.18,7910,null],
+	[1737435445,310,11,28.18,7925,null],
 ]};

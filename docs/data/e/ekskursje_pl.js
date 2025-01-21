@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["ekskursje.pl"] = {
+profiles["ekskursje_pl"] = {
 "name": "Wojciech Orlinski",
 "snapshots": [
 	[1733803357,800,42,19.04,800,null],
@@ -44,4 +44,5 @@ profiles["ekskursje.pl"] = {
 	[1737172972,2960,154,19.22,5700,8.0],
 	[1737259393,2960,154,19.22,5710,8.0],
 	[1737345865,2960,154,19.22,5710,8.0],
+	[1737432150,2960,154,19.22,5710,7.0],
 ]};

@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.ipw.com.pl"] = {
+profiles["www_ipw_com_pl"] = {
 "name": "Centrum Badań nad Państwowością Rosyjską",
 "snapshots": [
 	[1707801066,60,2,30.0,60,null],
@@ -319,4 +319,5 @@ profiles["www.ipw.com.pl"] = {
 	[1737176260,480,15,32.0,5520,null],
 	[1737262739,480,15,32.0,5520,null],
 	[1737349275,480,15,32.0,5520,null],
+	[1737435449,480,15,32.0,5550,null],
 ]};

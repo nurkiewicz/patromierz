@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["dogi-adopcje.pl"] = {
+profiles["dogi-adopcje_pl"] = {
 "name": "Dogi Adopcje",
 "snapshots": [
 	[1706760311,110,5,22.0,110,null],
@@ -327,4 +327,5 @@ profiles["dogi-adopcje.pl"] = {
 	[1737172847,290,12,24.16,2700,1.0],
 	[1737259266,340,13,26.15,2750,2.0],
 	[1737345735,340,13,26.15,2760,2.0],
+	[1737432025,340,13,26.15,2760,2.0],
 ]};

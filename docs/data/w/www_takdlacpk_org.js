@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.takdlacpk.org"] = {
+profiles["www_takdlacpk_org"] = {
 "name": "Stowarzyszenie Tak Dla CPK",
 "snapshots": [
 	[1730177765,50,1,50.0,50,null],
@@ -83,4 +83,5 @@ profiles["www.takdlacpk.org"] = {
 	[1737176292,4090,77,53.11,10650,-10.0],
 	[1737262772,4090,77,53.11,10650,-10.0],
 	[1737349308,4090,77,53.11,10650,-11.0],
+	[1737435482,4090,77,53.11,10800,-11.0],
 ]};

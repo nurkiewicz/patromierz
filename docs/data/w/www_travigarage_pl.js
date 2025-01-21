@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.travigarage.pl"] = {
+profiles["www_travigarage_pl"] = {
 "name": "TRAVI_GARAGE",
 "snapshots": [
 	[1729846259,30,1,30.0,30,null],
@@ -87,4 +87,5 @@ profiles["www.travigarage.pl"] = {
 	[1737176295,580,19,30.52,1560,2.0],
 	[1737262775,580,19,30.52,1560,2.0],
 	[1737349311,580,19,30.52,1610,2.0],
+	[1737435485,580,19,30.52,1610,2.0],
 ]};

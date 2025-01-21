@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.ekumenizm.pl"] = {
+profiles["www_ekumenizm_pl"] = {
 "name": "Ekumenizm.pl",
 "snapshots": [
 	[1690611382,30,1,30.0,30,null],
@@ -487,4 +487,5 @@ profiles["www.ekumenizm.pl"] = {
 	[1737176244,150,7,21.42,2760,null],
 	[1737262723,150,7,21.42,2760,null],
 	[1737349259,150,7,21.42,2760,null],
+	[1737435433,150,7,21.42,2760,null],
 ]};

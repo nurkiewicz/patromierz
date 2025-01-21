@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["chrust.folkmusic"] = {
+profiles["chrust_folkmusic"] = {
 "name": "CHRUST",
 "snapshots": [
 	[1691026236,274,4,68.5,274,null],
@@ -483,4 +483,5 @@ profiles["chrust.folkmusic"] = {
 	[1737172658,232,6,38.66,8612,-2.0],
 	[1737259072,232,6,38.66,8612,-2.0],
 	[1737345536,232,6,38.66,8612,-2.0],
+	[1737431833,232,6,38.66,8612,-2.0],
 ]};

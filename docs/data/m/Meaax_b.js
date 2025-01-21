@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Meaax.b"] = {
+profiles["Meaax_b"] = {
 "name": "Meaax - Trading, Rozwój inwestora",
 "snapshots": [
 	[1688355854,3565,42,84.88,null,null],
@@ -504,4 +504,5 @@ profiles["Meaax.b"] = {
 	[1737174264,null,178,null,null,null],
 	[1737260707,null,179,null,null,null],
 	[1737347214,null,179,null,null,null],
+	[1737433444,null,182,null,null,null],
 ]};

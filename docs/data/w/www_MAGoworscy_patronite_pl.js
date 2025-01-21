@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.MAGoworscy.patronite.pl"] = {
+profiles["www_MAGoworscy_patronite_pl"] = {
 "name": "Marta Panas-Goworska & Andrzej Goworski",
 "snapshots": [
 	[1667023157,45,2,22.5,45,null],
@@ -744,4 +744,5 @@ profiles["www.MAGoworscy.patronite.pl"] = {
 	[1737176270,15,1,15.0,1455,null],
 	[1737262749,15,1,15.0,1455,null],
 	[1737349286,15,1,15.0,1455,null],
+	[1737435459,15,1,15.0,1455,null],
 ]};

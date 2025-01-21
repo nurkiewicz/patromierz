@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["horyzontalny.pl"] = {
+profiles["horyzontalny_pl"] = {
 "name": "Horyzontalny Klub Dyskusyjny",
 "snapshots": [
 	[1701835332,235,4,58.75,235,null],
@@ -387,4 +387,5 @@ profiles["horyzontalny.pl"] = {
 	[1737173449,325,10,32.5,3270,null],
 	[1737259878,325,10,32.5,3270,null],
 	[1737346367,325,10,32.5,3295,null],
+	[1737432626,350,11,31.81,3320,1.0],
 ]};

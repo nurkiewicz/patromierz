@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["baza.inclusive"] = {
+profiles["baza_inclusive"] = {
 "name": "Stowarzyszenie Inclusive.Buzz",
 "snapshots": [
 	[1714186570,10,1,10.0,10,null],
@@ -243,4 +243,5 @@ profiles["baza.inclusive"] = {
 	[1737172460,10,1,10.0,90,null],
 	[1737258871,10,1,10.0,90,null],
 	[1737345330,10,1,10.0,90,null],
+	[1737431634,10,1,10.0,90,null],
 ]};

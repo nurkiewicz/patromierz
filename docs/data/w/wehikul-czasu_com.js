@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wehikul-czasu.com"] = {
+profiles["wehikul-czasu_com"] = {
 "name": "Muzeum Wehikuł Czasu",
 "snapshots": [
 	[1711083989,120,3,40.0,120,null],
@@ -284,4 +284,5 @@ profiles["wehikul-czasu.com"] = {
 	[1737176110,220,8,27.5,2090,null],
 	[1737262586,220,8,27.5,2100,null],
 	[1737349122,220,8,27.5,2100,null],
+	[1737435298,220,8,27.5,2100,null],
 ]};

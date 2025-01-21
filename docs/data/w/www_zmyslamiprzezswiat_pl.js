@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.zmyslamiprzezswiat.pl"] = {
+profiles["www_zmyslamiprzezswiat_pl"] = {
 "name": "Dawid Wudarczyk",
 "snapshots": [
 	[1699433606,20,1,20.0,20,null],
@@ -415,4 +415,5 @@ profiles["www.zmyslamiprzezswiat.pl"] = {
 	[1737176305,30,1,30.0,450,null],
 	[1737262785,30,1,30.0,450,null],
 	[1737349322,30,1,30.0,450,null],
+	[1737435496,30,1,30.0,450,null],
 ]};

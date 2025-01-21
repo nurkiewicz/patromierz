@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["snepallotyni.pl"] = {
+profiles["snepallotyni_pl"] = {
 "name": "Pallotyńska Szkoła Nowej Ewangelizacji",
 "snapshots": [
 	[1678526305,160,7,22.85,160,null],
@@ -620,4 +620,5 @@ profiles["snepallotyni.pl"] = {
 	[1737175572,320,8,40.0,7090,null],
 	[1737262038,320,8,40.0,7090,null],
 	[1737348568,320,8,40.0,7090,null],
+	[1737434759,320,8,40.0,7090,null],
 ]};

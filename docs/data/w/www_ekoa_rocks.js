@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.ekoa.rocks"] = {
+profiles["www_ekoa_rocks"] = {
 "name": "EKOA",
 "snapshots": [
 	[1718251877,30,1,30.0,30,null],
@@ -202,4 +202,5 @@ profiles["www.ekoa.rocks"] = {
 	[1737176243,40,2,20.0,340,null],
 	[1737262722,40,2,20.0,350,null],
 	[1737349258,40,2,20.0,350,null],
+	[1737435433,40,2,20.0,350,null],
 ]};

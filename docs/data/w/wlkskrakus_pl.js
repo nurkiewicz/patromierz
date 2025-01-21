@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["wlkskrakus.pl"] = {
+profiles["wlkskrakus_pl"] = {
 "name": "Sekcja Kolarska WLKS KRAKUS",
 "snapshots": [
 	[1736657874,50,1,50.0,50,null],
@@ -11,4 +11,5 @@ profiles["wlkskrakus.pl"] = {
 	[1737176167,50,1,50.0,50,null],
 	[1737262646,50,1,50.0,50,null],
 	[1737349181,50,1,50.0,50,null],
+	[1737435356,100,2,50.0,100,null],
 ]};

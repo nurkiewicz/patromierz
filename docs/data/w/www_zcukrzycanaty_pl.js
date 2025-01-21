@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.zcukrzycanaty.pl"] = {
+profiles["www_zcukrzycanaty_pl"] = {
 "name": "Fundacja Z cukrzycą na Ty",
 "snapshots": [
 	[1662962459,10,1,10.0,10,null],
@@ -779,4 +779,5 @@ profiles["www.zcukrzycanaty.pl"] = {
 	[1737176303,25,2,12.5,787,null],
 	[1737262783,25,2,12.5,787,null],
 	[1737349320,25,2,12.5,787,null],
+	[1737435494,25,2,12.5,787,null],
 ]};

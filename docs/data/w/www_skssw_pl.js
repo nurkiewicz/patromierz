@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.skssw.pl"] = {
+profiles["www_skssw_pl"] = {
 "name": "Stowarzyszenie Kibiców Stali Stalowa Wola",
 "snapshots": [
 	[1707887416,40,3,13.33,40,null],
@@ -319,4 +319,5 @@ profiles["www.skssw.pl"] = {
 	[1737176290,570,23,24.78,7390,-2.0],
 	[1737262769,570,23,24.78,7390,-2.0],
 	[1737349306,570,23,24.78,7410,-2.0],
+	[1737435479,570,23,24.78,7410,-2.0],
 ]};

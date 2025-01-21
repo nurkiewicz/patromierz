@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.wieczernik.net"] = {
+profiles["www_wieczernik_net"] = {
 "name": "Wspólnota Wieczernik Miłosierdzia",
 "snapshots": [
 	[1705122616,100,1,100.0,100,null],
@@ -351,4 +351,5 @@ profiles["www.wieczernik.net"] = {
 	[1737176298,220,3,73.33,1760,null],
 	[1737262778,220,3,73.33,1760,null],
 	[1737349315,220,3,73.33,1760,null],
+	[1737435488,220,3,73.33,1760,null],
 ]};

@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.kanalklimatyczny.pl"] = {
+profiles["www_kanalklimatyczny_pl"] = {
 "name": "Joanna Kędzierska",
 "snapshots": [
 	[1712376500,40,3,13.33,40,null],
@@ -267,4 +267,5 @@ profiles["www.kanalklimatyczny.pl"] = {
 	[1737176263,20,2,10.0,420,null],
 	[1737262742,20,2,10.0,420,null],
 	[1737349278,20,2,10.0,420,null],
+	[1737435452,20,2,10.0,420,null],
 ]};

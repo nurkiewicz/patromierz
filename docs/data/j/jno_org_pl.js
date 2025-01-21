@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jno.org.pl"] = {
+profiles["jno_org_pl"] = {
 "name": "Fundacja Jazz nad Odrą",
 "snapshots": [
 	[1691030742,110,2,55.0,110,null],
@@ -488,4 +488,5 @@ profiles["jno.org.pl"] = {
 	[1737173624,10,1,10.0,680,null],
 	[1737260056,10,1,10.0,680,null],
 	[1737346550,10,1,10.0,680,null],
+	[1737432803,10,1,10.0,680,null],
 ]};

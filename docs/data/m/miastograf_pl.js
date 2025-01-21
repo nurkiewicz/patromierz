@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["miastograf.pl"] = {
+profiles["miastograf_pl"] = {
 "name": "Miastograf - Cyfrowe Archiwum Łodzian",
 "snapshots": [
 	[1729049378,20,1,20.0,20,null],
@@ -94,4 +94,5 @@ profiles["miastograf.pl"] = {
 	[1737174291,215,8,26.87,1545,null],
 	[1737260735,215,8,26.87,1555,null],
 	[1737347241,215,8,26.87,1555,null],
+	[1737433470,210,8,26.25,1555,null],
 ]};

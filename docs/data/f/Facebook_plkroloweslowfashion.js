@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["Facebook.plkroloweslowfashion"] = {
+profiles["Facebook_plkroloweslowfashion"] = {
 "name": "Królowe Slow Fashion",
 "snapshots": [
 	[1717124917,15,1,15.0,15,null],
@@ -213,4 +213,5 @@ profiles["Facebook.plkroloweslowfashion"] = {
 	[1737173036,645,40,16.12,4270,2.0],
 	[1737259457,645,40,16.12,4345,2.0],
 	[1737345931,645,40,16.12,4345,2.0],
+	[1737432215,645,40,16.12,4360,2.0],
 ]};

@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["raclawice.net"] = {
+profiles["raclawice_net"] = {
 "name": "Stanisław Stadnicki - Raclawice.NET",
 "snapshots": [
 	[1727408484,50,2,25.0,50,null],
@@ -105,4 +105,5 @@ profiles["raclawice.net"] = {
 	[1737175274,420,26,16.15,2190,-6.0],
 	[1737261733,420,26,16.15,2210,-6.0],
 	[1737348258,460,28,16.42,2270,-4.0],
+	[1737434455,460,28,16.42,2270,-4.0],
 ]};

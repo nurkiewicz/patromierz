@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.zen.pl"] = {
+profiles["www_zen_pl"] = {
 "name": "Szkoła Zen Kwan Um",
 "snapshots": [
 	[1643361813,948,25,37.92,948,null],
@@ -1003,4 +1003,5 @@ profiles["www.zen.pl"] = {
 	[1737176304,1460,38,38.42,54986,1.0],
 	[1737262783,1460,38,38.42,55115,1.0],
 	[1737349321,1460,38,38.42,55187,1.0],
+	[1737435495,1460,38,38.42,55187,2.0],
 ]};

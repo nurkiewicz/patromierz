@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["htp.michal.ruszczyk.pl"] = {
+profiles["htp_michal_ruszczyk_pl"] = {
 "name": "Michał Ruszczyk",
 "snapshots": [
 	[1715483687,40,2,20.0,40,null],
@@ -230,4 +230,5 @@ profiles["htp.michal.ruszczyk.pl"] = {
 	[1737173456,75,3,25.0,590,null],
 	[1737259885,75,3,25.0,590,null],
 	[1737346374,75,3,25.0,610,null],
+	[1737432633,75,3,25.0,610,null],
 ]};

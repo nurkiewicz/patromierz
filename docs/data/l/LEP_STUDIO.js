@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["LEP.STUDIO"] = {
+profiles["LEP_STUDIO"] = {
 "name": "LEP Studio",
 "snapshots": [
 	[1717471692,30,1,30.0,30,null],
@@ -211,4 +211,5 @@ profiles["LEP.STUDIO"] = {
 	[1737174009,235,6,39.16,2665,2.0],
 	[1737260447,235,6,39.16,2710,2.0],
 	[1737346948,235,6,39.16,2710,2.0],
+	[1737433185,235,6,39.16,2710,2.0],
 ]};

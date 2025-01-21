@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["zycienaniebiesko.com.pl"] = {
+profiles["zycienaniebiesko_com_pl"] = {
 "name": "Życie na niebiesko",
 "snapshots": [
 	[1700558339,50,1,50.0,50,null],
@@ -400,4 +400,5 @@ profiles["zycienaniebiesko.com.pl"] = {
 	[1737176461,1040,10,104.0,12130,null],
 	[1737262947,1040,10,104.0,12130,null],
 	[1737349482,1040,10,104.0,12130,null],
+	[1737435653,1040,10,104.0,12180,null],
 ]};

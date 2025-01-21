@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["legia.net"] = {
+profiles["legia_net"] = {
 "name": "Legia.Net",
 "snapshots": [
 	[1705465642,50,4,12.5,50,null],
@@ -348,4 +348,5 @@ profiles["legia.net"] = {
 	[1737173998,110,5,22.0,1270,1.0],
 	[1737260434,110,5,22.0,1270,1.0],
 	[1737346936,110,5,22.0,1270,1.0],
+	[1737433174,110,5,22.0,1270,1.0],
 ]};

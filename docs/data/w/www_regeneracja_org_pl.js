@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.regeneracja.org.pl"] = {
+profiles["www_regeneracja_org_pl"] = {
 "name": "Dragon's Den",
 "snapshots": [
 	[1700643903,50,1,50.0,50,null],
@@ -398,4 +398,5 @@ profiles["www.regeneracja.org.pl"] = {
 	[1737176287,235,11,21.36,3425,null],
 	[1737262766,235,11,21.36,3425,null],
 	[1737349303,235,11,21.36,3425,null],
+	[1737435476,235,11,21.36,3425,null],
 ]};

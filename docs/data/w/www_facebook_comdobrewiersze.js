@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.facebook.comdobrewiersze"] = {
+profiles["www_facebook_comdobrewiersze"] = {
 "name": "Z cyklu \"Bardzo dobre wiersze\"",
 "snapshots": [
 	[1714536707,10,1,10.0,10,null],
@@ -244,4 +244,5 @@ profiles["www.facebook.comdobrewiersze"] = {
 	[1737176248,20,2,10.0,210,null],
 	[1737262727,20,2,10.0,210,null],
 	[1737349264,20,2,10.0,210,null],
+	[1737435438,20,2,10.0,210,null],
 ]};

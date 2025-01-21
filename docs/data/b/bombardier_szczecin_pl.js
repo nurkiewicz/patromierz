@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["bombardier.szczecin.pl"] = {
+profiles["bombardier_szczecin_pl"] = {
 "name": "SKF Bombardier",
 "snapshots": [
 	[1699238147,100,1,100.0,100,null],
@@ -379,4 +379,5 @@ profiles["bombardier.szczecin.pl"] = {
 	[1737172550,210,2,105.0,2560,null],
 	[1737258963,210,2,105.0,2560,null],
 	[1737345423,210,2,105.0,2560,null],
+	[1737431724,210,2,105.0,2560,null],
 ]};

@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.logotolka.pl"] = {
+profiles["www_logotolka_pl"] = {
 "name": "Logotolka",
 "snapshots": [
 	[1729137708,5,1,5.0,5,null],
@@ -93,4 +93,5 @@ profiles["www.logotolka.pl"] = {
 	[1737176268,20,3,6.66,65,null],
 	[1737262747,20,3,6.66,65,null],
 	[1737349284,20,3,6.66,65,null],
+	[1737435457,20,3,6.66,65,null],
 ]};

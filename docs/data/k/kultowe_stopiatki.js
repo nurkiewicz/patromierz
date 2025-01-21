@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["kultowe.stopiatki"] = {
+profiles["kultowe_stopiatki"] = {
 "name": "Łukasz Kuczewski",
 "snapshots": [
 	[1643362305,40,2,20.0,120,null],
@@ -815,4 +815,5 @@ profiles["kultowe.stopiatki"] = {
 	[1737173946,50,1,50.0,2460,null],
 	[1737260381,50,1,50.0,2460,null],
 	[1737346883,50,1,50.0,2460,null],
+	[1737433122,50,1,50.0,2460,null],
 ]};

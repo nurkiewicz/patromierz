@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.muzyczna.aleksandrow.pl"] = {
+profiles["www_muzyczna_aleksandrow_pl"] = {
 "name": "Szkoła Muzyczna w Aleksandrowie Kujawskim",
 "snapshots": [
 	[1726459347,50,1,50.0,50,null],
@@ -116,4 +116,5 @@ profiles["www.muzyczna.aleksandrow.pl"] = {
 	[1737176275,50,1,50.0,250,null],
 	[1737262755,50,1,50.0,250,null],
 	[1737349291,50,1,50.0,250,null],
+	[1737435465,50,1,50.0,250,null],
 ]};

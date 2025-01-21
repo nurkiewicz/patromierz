@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.klaudialatosik.pl"] = {
+profiles["www_klaudialatosik_pl"] = {
 "name": "Seksafera. Klaudia Latosik",
 "snapshots": [
 	[1736571599,10,1,10.0,10,null],
@@ -12,4 +12,5 @@ profiles["www.klaudialatosik.pl"] = {
 	[1737176264,35,2,17.5,35,null],
 	[1737262743,45,3,15.0,45,null],
 	[1737349279,45,3,15.0,45,null],
+	[1737435453,45,3,15.0,45,null],
 ]};

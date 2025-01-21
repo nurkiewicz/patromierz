@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["tubawyszkowa.pl"] = {
+profiles["tubawyszkowa_pl"] = {
 "name": "Tuba Wyszkowa",
 "snapshots": [
 	[1695366255,10,1,10.0,10,null],
@@ -453,4 +453,5 @@ profiles["tubawyszkowa.pl"] = {
 	[1737175948,285,8,35.62,6405,null],
 	[1737262419,285,8,35.62,6405,null],
 	[1737348954,285,8,35.62,6505,null],
+	[1737435134,275,8,34.37,6505,null],
 ]};

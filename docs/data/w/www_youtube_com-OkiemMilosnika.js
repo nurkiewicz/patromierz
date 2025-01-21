@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.youtube.com-OkiemMilosnika"] = {
+profiles["www_youtube_com-OkiemMilosnika"] = {
 "name": "Okiem miłośnika",
 "snapshots": [
 	[1692253427,10,1,10.0,10,null],
@@ -467,4 +467,5 @@ profiles["www.youtube.com-OkiemMilosnika"] = {
 	[1737176301,85,5,17.0,1960,null],
 	[1737262780,85,5,17.0,1980,null],
 	[1737349317,85,5,17.0,1980,null],
+	[1737435491,85,5,17.0,1980,null],
 ]};

@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["jedz-bezpiecznie.pl"] = {
+profiles["jedz-bezpiecznie_pl"] = {
 "name": "Jedź Bezpiecznie - portal motoryzacyjny dla wszystkich uczestników ruchu drogowe",
 "snapshots": [
 	[1728616505,6,1,6.0,6,null],
@@ -99,4 +99,5 @@ profiles["jedz-bezpiecznie.pl"] = {
 	[1737173606,6,1,6.0,24,null],
 	[1737260038,6,1,6.0,24,null],
 	[1737346531,6,1,6.0,24,null],
+	[1737432784,6,1,6.0,24,null],
 ]};

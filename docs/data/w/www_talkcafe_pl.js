@@ -1,5 +1,5 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["www.talkcafe.pl"] = {
+profiles["www_talkcafe_pl"] = {
 "name": "Talk Cafe",
 "snapshots": [
 	[1718251927,100,2,50.0,100,null],
@@ -198,4 +198,5 @@ profiles["www.talkcafe.pl"] = {
 	[1737176292,66,1,66.0,758,-1.0],
 	[1737262772,66,1,66.0,758,-1.0],
 	[1737349309,66,1,66.0,758,-1.0],
+	[1737435482,66,1,66.0,758,-1.0],
 ]};
