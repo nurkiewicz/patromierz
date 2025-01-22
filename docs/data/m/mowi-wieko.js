@@ -970,4 +970,5 @@ profiles["mowi-wieko"] = {
 	[1734755194,10,null,null,1880,null],
 	[1734841659,10,null,null,1880,null],
 	[1734928026,10,null,null,1880,null],
+	[1737521389,10,1,10.0,1890,null],
 ]};
