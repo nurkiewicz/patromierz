@@ -1,5 +1,5 @@
 ---
-title: "Dawid B\u0142aszkiewicz | Patromierz"
+title: "Dawid B\u0142aszkiewicz | Statystyki patronite.pl | Patromierz"
 
 permalink: /DawidBlaszkiewicz
 ---

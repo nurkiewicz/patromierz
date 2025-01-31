@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["MateuszKrzaczek"] = {
-"name": "Mateusz Krzaczek",
+"name": "Mateusz Krzaczek - Fundacja Płonący Krzew",
 "snapshots": [
 	[1707107641,20,1,20.0,20,null],
 	[1707193853,20,1,20.0,20,null],
@@ -330,4 +330,5 @@ profiles["MateuszKrzaczek"] = {
 	[1737347189,1550,26,59.61,6980,6.0],
 	[1737433420,1550,26,59.61,7130,6.0],
 	[1737521120,1550,26,59.61,7180,6.0],
+	[1738315876,1900,27,70.37,7730,14.0],
 ]};
