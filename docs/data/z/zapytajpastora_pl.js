@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["zapytajpastora_pl"] = {
+"name": "Marian Rassek",
+"snapshots": [
+	[1738472392,100,1,100.0,100,null],
+]};

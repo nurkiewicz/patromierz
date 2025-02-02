@@ -704,4 +704,5 @@ profiles["nabosaka"] = {
 	[1737521474,null,1,null,750,-1.0],
 	[1738316126,null,1,null,750,null],
 	[1738384054,null,1,null,750,null],
+	[1738470466,null,1,null,750,null],
 ]};
