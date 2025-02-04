@@ -14,4 +14,5 @@ profiles["historie2wojny"] = {
 	[1738315051,null,2,null,20,null],
 	[1738382985,null,2,null,20,null],
 	[1738469390,null,2,null,20,null],
+	[1738642260,null,2,null,20,null],
 ]};

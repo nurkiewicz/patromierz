@@ -882,4 +882,5 @@ profiles["RetroNostalgie"] = {
 	[1738316998,606,20,30.3,null,1.0],
 	[1738384925,578,20,28.9,null,null],
 	[1738471341,578,20,28.9,null,null],
+	[1738644261,null,21,null,null,null],
 ]};
