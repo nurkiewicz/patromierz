@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["NPPPL"] = [
+profiles["NPPPL"] = {
+"name": "Najlepsze Polskie Podcasty",
+"snapshots": [
 	[1643353534,40,3,13.33,315,null],
 	[1643429958,40,3,13.33,315,null],
 	[1643510417,40,3,13.33,315,null],
@@ -427,4 +429,5 @@ profiles["NPPPL"] = [
 	[1682591557,5,1,5.0,550,null],
 	[1682652190,null,1,null,550,null],
 	[1682738319,null,1,null,550,null],
-];
+	[1738989123,25,1,25.0,575,null],
+]};
