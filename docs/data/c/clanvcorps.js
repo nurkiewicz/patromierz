@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["clanvcorps"] = {
-"name": "V Corps Klan Battlefield",
+"name": "V Corps Klan Polska Battlefield",
 "snapshots": [
 	[1729842776,10,2,5.0,10,null],
 	[1729943362,10,2,5.0,10,null],
@@ -97,4 +97,5 @@ profiles["clanvcorps"] = {
 	[1738814357,105,3,35.0,1035,-10.0],
 	[1738900687,105,3,35.0,1135,-10.0],
 	[1738987112,105,3,35.0,1135,-10.0],
+	[1739073514,105,2,52.5,1135,-10.0],
 ]};
