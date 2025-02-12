@@ -3,4 +3,5 @@ profiles["KamilaTarot"] = {
 "name": "Kamila Inner Vision Tarot",
 "snapshots": [
 	[1739247304,176,2,88.0,176,null],
+	[1739333649,264,3,88.0,264,null],
 ]};

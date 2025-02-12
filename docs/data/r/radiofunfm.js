@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["radiofunfm"] = {
-"name": "Radio Fun FM",
+"name": "Radio FunFM",
 "snapshots": [
 	[1707195094,420,5,84.0,3760,null],
 	[1707281334,420,5,84.0,3760,null],
@@ -340,4 +340,5 @@ profiles["radiofunfm"] = {
 	[1739076269,110,2,55.0,6810,null],
 	[1739162648,110,2,55.0,6810,null],
 	[1739248973,110,2,55.0,6810,null],
+	[1739335280,110,2,55.0,6810,null],
 ]};
