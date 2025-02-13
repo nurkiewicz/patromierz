@@ -897,4 +897,5 @@ profiles["wehaveenoughpl"] = {
 	[1726545541,10,null,null,24510,null],
 	[1726631806,10,null,null,24510,null],
 	[1726718155,10,null,null,24510,null],
+	[1739422737,10,1,10.0,24520,null],
 ]};
