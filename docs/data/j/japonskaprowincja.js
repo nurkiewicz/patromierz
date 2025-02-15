@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["japonskaprowincja"] = {
-"name": "JAPOŃSKA PROWINCJA ",
+"name": "JAPOŃSKA PROWINCJA",
 "snapshots": [
 	[1582070400,80,4,20.0,630,null],
 	[1643362776,205,9,22.77,4665,null],
@@ -1027,4 +1027,5 @@ profiles["japonskaprowincja"] = {
 	[1739333557,100,2,50.0,11605,null],
 	[1739420062,100,2,50.0,11605,null],
 	[1739506419,100,2,50.0,11605,null],
+	[1739592952,100,2,50.0,11605,null],
 ]};
