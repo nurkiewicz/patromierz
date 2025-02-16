@@ -266,4 +266,5 @@ profiles["sednohistorii"] = {
 	[1739422052,3,1,3.0,null,null],
 	[1739508359,3,1,3.0,null,null],
 	[1739594931,3,1,3.0,null,null],
+	[1739681305,3,1,3.0,null,null],
 ]};
