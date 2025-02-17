@@ -71,4 +71,5 @@ profiles["POCZATEK"] = {
 	[1649040790,null,null,null,200,null],
 	[1649068331,null,null,null,200,null],
 	[1739680760,5,1,5.0,205,null],
+	[1739767071,5,1,5.0,205,null],
 ]};
