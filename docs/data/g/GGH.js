@@ -26,4 +26,5 @@ profiles["GGH"] = {
 	[1739160538,null,1,null,50,null],
 	[1739246890,null,1,null,50,null],
 	[1739333246,null,1,null,50,null],
+	[1739938098,30,1,30.0,80,null],
 ]};
