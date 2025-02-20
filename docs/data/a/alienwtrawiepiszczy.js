@@ -1,5 +1,7 @@
 var profiles = (profiles === undefined) ? {} : profiles;
-profiles["alienwtrawiepiszczy"] = [
+profiles["alienwtrawiepiszczy"] = {
+"name": "Dominik Hycner - Alien Inventory (Alien w trawie piszczy)",
+"snapshots": [
 	[1659839830,15,1,15.0,15,null],
 	[1659926230,15,1,15.0,15,null],
 	[1660012603,15,1,15.0,15,null],
@@ -225,4 +227,5 @@ profiles["alienwtrawiepiszczy"] = [
 	[1681199469,15,1,15.0,165,null],
 	[1681256680,null,1,null,165,null],
 	[1681371355,null,1,null,165,null],
-];
+	[1740023390,15,2,7.5,195,null],
+]};
