@@ -479,4 +479,5 @@ profiles["radiobest"] = {
 	[1739853725,null,91,null,null,null],
 	[1739940200,null,90,null,null,null],
 	[1740026475,null,90,null,null,null],
+	[1740112960,null,92,null,null,null],
 ]};
