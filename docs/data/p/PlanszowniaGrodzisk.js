@@ -932,4 +932,5 @@ profiles["PlanszowniaGrodzisk"] = {
 	[1739939831,493,28,17.6,null,null],
 	[1740026119,493,28,17.6,null,null],
 	[1740112600,493,28,17.6,null,null],
+	[1740200603,493,28,17.6,null,null],
 ]};
