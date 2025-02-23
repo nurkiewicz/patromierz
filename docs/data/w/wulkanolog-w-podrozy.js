@@ -373,4 +373,5 @@ profiles["wulkanolog-w-podrozy"] = {
 	[1740027444,null,1,null,250,null],
 	[1740113944,null,1,null,250,null],
 	[1740202548,null,1,null,250,null],
+	[1740301646,null,1,null,250,null],
 ]};

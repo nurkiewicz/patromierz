@@ -82,4 +82,5 @@ profiles["irokez_naukajazdy"] = {
 	[1740024692,10,1,10.0,30,null],
 	[1740111150,10,1,10.0,30,null],
 	[1740198511,null,1,null,30,null],
+	[1740298876,null,1,null,30,null],
 ]};
