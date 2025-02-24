@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Klara_Sadurska"] = {
-"name": "Klara Sadurska - Mind&Soul",
+"name": "Klara Sadurska Mind and Soul",
 "snapshots": [
 	[1739679534,30,1,30.0,30,null],
 	[1739765850,30,1,30.0,30,null],
@@ -10,4 +10,5 @@ profiles["Klara_Sadurska"] = {
 	[1740111401,30,1,30.0,30,null],
 	[1740198876,30,1,30.0,30,null],
 	[1740299124,30,1,30.0,30,null],
+	[1740370603,30,1,30.0,30,null],
 ]};
