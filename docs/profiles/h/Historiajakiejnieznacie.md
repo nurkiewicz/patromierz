@@ -1,9 +1,9 @@
 ---
-title: Historia Jakiej Nie Znacie | Statystyki patronite.pl | Patromierz
+title: Cezary Korycki | Historia, jakiej nie znacie | Statystyki patronite.pl | Patromierz
 
 permalink: /Historiajakiejnieznacie
 ---
 
-# [Historia Jakiej Nie Znacie](https://patronite.pl/Historiajakiejnieznacie)
+# [Cezary Korycki | Historia, jakiej nie znacie](https://patronite.pl/Historiajakiejnieznacie)
 
 {% include profile.md name="Historiajakiejnieznacie" prefix="h" %}

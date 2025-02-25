@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Historiajakiejnieznacie"] = {
-"name": "Historia Jakiej Nie Znacie",
+"name": "Cezary Korycki | Historia, jakiej nie znacie",
 "snapshots": [
 	[1689388702,30,1,30.0,30,null],
 	[1689474864,30,1,30.0,30,null],
@@ -531,4 +531,5 @@ profiles["Historiajakiejnieznacie"] = {
 	[1740198360,760,40,19.0,13970,2.0],
 	[1740298771,760,40,19.0,13990,2.0],
 	[1740370245,790,41,19.26,14020,3.0],
+	[1740456617,790,41,19.26,14030,3.0],
 ]};
