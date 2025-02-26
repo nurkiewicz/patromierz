@@ -4,4 +4,5 @@ profiles["MastabaGrobowiecFaraonaSakkara"] = {
 "snapshots": [
 	[1740371077,105,2,52.5,105,null],
 	[1740457438,105,2,52.5,105,null],
+	[1740543887,105,2,52.5,105,null],
 ]};

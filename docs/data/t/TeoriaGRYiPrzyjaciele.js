@@ -29,4 +29,5 @@ profiles["TeoriaGRYiPrzyjaciele"] = {
 	[1740301249,387,7,55.28,null,null],
 	[1740372759,387,7,55.28,null,null],
 	[1740459102,387,7,55.28,null,null],
+	[1740545566,372,7,53.14,null,null],
 ]};

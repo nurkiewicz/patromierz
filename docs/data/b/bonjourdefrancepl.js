@@ -1064,4 +1064,5 @@ profiles["bonjourdefrancepl"] = {
 	[1740283571,85,5,17.0,null,null],
 	[1740369335,85,5,17.0,null,null],
 	[1740455715,85,5,17.0,null,null],
+	[1740542142,85,4,21.25,null,null],
 ]};
