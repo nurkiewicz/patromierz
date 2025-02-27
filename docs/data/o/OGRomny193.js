@@ -86,4 +86,5 @@ profiles["OGRomny193"] = {
 	[1740371543,20,1,20.0,50,null],
 	[1740457900,null,1,null,50,null],
 	[1740544350,null,1,null,50,null],
+	[1740630758,null,1,null,50,null],
 ]};
