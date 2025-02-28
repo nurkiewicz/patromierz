@@ -27,4 +27,5 @@ profiles["rimejk"] = {
 	[1740458591,5,1,5.0,5,null],
 	[1740545055,null,1,null,5,null],
 	[1740631463,null,1,null,5,null],
+	[1740717767,null,1,null,5,null],
 ]};

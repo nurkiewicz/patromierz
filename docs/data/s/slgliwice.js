@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["slgliwice"] = {
+"name": "Służba Liturgiczna Diecezji Gliwickiej",
+"snapshots": [
+	[1740717966,10,1,10.0,10,null],
+]};
