@@ -487,4 +487,5 @@ profiles["www_drogadojezusa_com"] = {
 	[1740632397,null,1,null,900,-1.0],
 	[1740718677,null,1,null,900,-1.0],
 	[1740805132,null,1,null,900,-2.0],
+	[1740891423,null,1,null,900,-2.0],
 ]};
