@@ -1,9 +1,9 @@
 ---
-title: "Du\u0144ski Do Kawy | Statystyki patronite.pl | Patromierz"
+title: "Du\u0144ski do kawy | Statystyki patronite.pl | Patromierz"
 
 permalink: /dunskidokawy
 ---
 
-# [Duński Do Kawy](https://patronite.pl/dunskidokawy)
+# [Duński do kawy](https://patronite.pl/dunskidokawy)
 
 {% include profile.md name="dunskidokawy" prefix="d" %}
