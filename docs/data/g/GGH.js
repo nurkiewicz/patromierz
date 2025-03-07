@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["GGH"] = {
-"name": "GiveAndGetHelp.com",
+"name": "ADRA Polska - GiveAndGetHelp.com",
 "snapshots": [
 	[1736568524,50,1,50.0,50,null],
 	[1736654920,50,1,50.0,50,null],
@@ -39,4 +39,5 @@ profiles["GGH"] = {
 	[1740802076,60,2,30.0,110,null],
 	[1740888423,110,3,36.66,160,1.0],
 	[1740974842,110,3,36.66,160,1.0],
+	[1741351273,110,3,36.66,160,1.0],
 ]};

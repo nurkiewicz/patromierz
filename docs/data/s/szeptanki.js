@@ -445,4 +445,5 @@ profiles["szeptanki"] = {
 	[1740804622,30,null,null,1440,null],
 	[1740890924,30,null,null,1440,null],
 	[1740977360,30,null,null,1440,null],
+	[1741351888,30,1,30.0,1470,null],
 ]};
