@@ -57,4 +57,5 @@ profiles["Warsaw-Coffee-Tour"] = {
 	[1740891258,20,1,20.0,40,null],
 	[1740977701,20,1,20.0,40,null],
 	[1741351978,20,null,null,40,null],
+	[1741410943,20,null,null,40,null],
 ]};
