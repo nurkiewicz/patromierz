@@ -974,4 +974,5 @@ profiles["kushi"] = {
 	[1740975531,null,32,null,null,null],
 	[1741351448,null,32,null,null,null],
 	[1741410440,null,31,null,null,null],
+	[1741583320,null,29,null,null,null],
 ]};
