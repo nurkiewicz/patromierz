@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["gpw"] = {
+"name": "GoodPlaceWarsaw",
+"snapshots": [
+	[1741842152,10,1,10.0,10,null],
+]};
