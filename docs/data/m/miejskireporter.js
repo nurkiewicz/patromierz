@@ -89,4 +89,6 @@ profiles["miejskireporter"] = {
 	[1741670076,null,3,null,null,null],
 	[1741756271,null,3,null,null,null],
 	[1741842401,null,3,null,null,null],
+	[1741876045,null,3,null,null,null],
+	[1741923761,null,3,null,null,null],
 ]};

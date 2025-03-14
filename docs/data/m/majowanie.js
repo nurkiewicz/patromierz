@@ -661,4 +661,6 @@ profiles["majowanie"] = {
 	[1741496908,null,22,null,null,null],
 	[1741583363,null,21,null,null,null],
 	[1741756221,null,22,null,null,null],
+	[1741876005,null,22,null,null,null],
+	[1741923719,null,22,null,null,null],
 ]};

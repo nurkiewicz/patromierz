@@ -967,4 +967,6 @@ profiles["kwadrans"] = {
 	[1741583321,null,823,null,null,null],
 	[1741669984,null,823,null,null,null],
 	[1741756178,null,826,null,null,null],
+	[1741875969,null,828,null,null,null],
+	[1741923685,null,828,null,null,null],
 ]};

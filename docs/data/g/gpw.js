@@ -3,4 +3,6 @@ profiles["gpw"] = {
 "name": "GoodPlaceWarsaw",
 "snapshots": [
 	[1741842152,10,1,10.0,10,null],
+	[1741875831,10,1,10.0,10,null],
+	[1741923548,10,1,10.0,10,null],
 ]};

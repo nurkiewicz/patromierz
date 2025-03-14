@@ -418,4 +418,6 @@ profiles["sjbreyerhorses_blogspot_com"] = {
 	[1741670375,null,1,null,1750,-2.0],
 	[1741756570,null,1,null,1750,-2.0],
 	[1741842681,null,1,null,1750,-2.0],
+	[1741876297,null,1,null,1750,-2.0],
+	[1741924008,null,1,null,1750,-2.0],
 ]};
