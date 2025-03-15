@@ -78,4 +78,5 @@ profiles["Siak"] = {
 	[1741842678,2300,89,25.84,5585,10.0],
 	[1741876294,null,89,null,null,null],
 	[1741924004,null,89,null,null,null],
+	[1742010293,null,89,null,null,null],
 ]};
