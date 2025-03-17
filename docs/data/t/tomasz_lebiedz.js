@@ -1,25 +1,2 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["tomasz_lebiedz"] = {
-"name": "Tomasz Lebiedź o rynku nieruchomości",
-"snapshots": [
-	[1737089583,null,1,null,null,null],
-	[1737175887,null,1,null,null,null],
-	[1737262357,null,1,null,null,null],
-	[1737348891,null,1,null,null,null],
-	[1737435073,null,1,null,null,null],
-	[1737523488,null,1,null,null,null],
-	[1740804760,null,2,null,null,null],
-	[1740891059,null,2,null,null,null],
-	[1740977499,null,2,null,null,null],
-	[1741351926,null,2,null,null,null],
-	[1741410897,null,2,null,null,null],
-	[1741497320,null,2,null,null,null],
-	[1741583779,null,2,null,null,null],
-	[1741670458,null,2,null,null,null],
-	[1741756653,null,2,null,null,null],
-	[1741842758,null,2,null,null,null],
-	[1741876367,null,2,null,null,null],
-	[1741924078,null,2,null,null,null],
-	[1742010364,null,2,null,null,null],
-	[1742096745,null,2,null,null,null],
-]};
