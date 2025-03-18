@@ -1,2 +1,10 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["UCM3-85mpGoDe75lXGRYiPEw"] = {
+"name": "Drumuse",
+"snapshots": [
+	[1742010383,20,2,10.0,20,null],
+	[1742096765,20,2,10.0,20,null],
+	[1742183198,40,3,13.33,40,null],
+	[1742269574,40,3,13.33,40,null],
+	[1742286471,40,3,13.33,40,null],
+]};
