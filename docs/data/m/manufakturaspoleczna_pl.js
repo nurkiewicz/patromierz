@@ -257,4 +257,5 @@ profiles["manufakturaspoleczna_pl"] = {
 	[1743219635,null,1,null,880,-3.0],
 	[1743302401,null,1,null,880,-3.0],
 	[1743388839,null,1,null,880,-3.0],
+	[1743475197,null,1,null,880,-3.0],
 ]};

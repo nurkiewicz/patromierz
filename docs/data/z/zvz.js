@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["zvz"] = {
-"name": "ZVZ – Paweł Opydo, Katarzyna Czajka-Kominiarczuk",
+"name": "Podcast ZVZ – Paweł Opydo, Katarzyna Czajka-Kominiarczuk",
 "snapshots": [
 	[1669792117,670,20,33.5,670,null],
 	[1669878620,870,28,31.07,870,null],
@@ -746,4 +746,5 @@ profiles["zvz"] = {
 	[1742286574,4680,167,28.02,90645,5.0],
 	[1742701674,4780,168,28.45,91235,7.0],
 	[1742788085,4780,168,28.45,91305,7.0],
+	[1743475663,4795,168,28.54,92115,6.0],
 ]};

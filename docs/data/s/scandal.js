@@ -349,4 +349,5 @@ profiles["scandal"] = {
 	[1743047120,null,20,null,null,null],
 	[1743133489,null,20,null,null,null],
 	[1743302671,null,20,null,null,null],
+	[1743475461,null,19,null,null,null],
 ]};
