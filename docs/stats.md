@@ -19,49 +19,48 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/w/www.fundacjazanim.pl.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
-<script type="text/javascript" src="data/a/aska-lawicka.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/m/MagdalenaCzaban-zawodniczkaMMA.js"></script>
 <script type="text/javascript" src="data/b/BezSchematu.js"></script>
-<script type="text/javascript" src="data/d/deseo.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/o/ogniwo.js"></script>
+<script type="text/javascript" src="data/a/aska-lawicka.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/w/www.fundacjazanim.pl.js"></script>
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/k/konpoludnie.js"></script>
 <script type="text/javascript" src="data/r/radioem.js"></script>
 <script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/r/racepace.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/m/MagdalenaCzaban-zawodniczkaMMA.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/i/instytutr.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
 <script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/i/instytutr.js"></script>
+<script type="text/javascript" src="data/m/mocniwduchu.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Dział Zagraniczny", -900], ["Dolnośląski Inspektorat Ochrony Zwierząt", -820], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -610], ["Magdalena Czaban", -500], ["Aśka Ławicka", -465], ["Cash", -300], ["zaNim fundacja", -300], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -260], ["Natalia Kwiecień", -250], ["Instytut Reportażu", -235], ["Damian Duda", 325], ["AstroLife", 330], ["RACE PACE - podcasty o bieganiu", 352], ["Podcast Wojenne Historie", 360], ["Bez/Schematu", 400], ["Radio Wnet", 450], ["Agnieszka Cegielska", 505], ["Radio Naukowe - podcast Karoliny Głowackiej", 544], ["Karolina Korwin Piotrowska ", 805], ["Radio Nowy Świat", 1160]], 'largest_changes');
+            drawHorizontal([["Dział Zagraniczny", -1005], ["Konwenty Południowe", -750], ["Magdalena Czaban", -500], ["Dolnośląski Inspektorat Ochrony Zwierząt", -490], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -490], ["Aśka Ławicka", -450], ["Instytut Reportażu", -355], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -330], ["zaNim fundacja", -300], ["Niedźwiecka o Zmierzchu", -284], ["Podcastex", 356], ["Podcast Wojenne Historie", 385], ["Mocni w Duchu", 455], ["Radio Naukowe - podcast Karoliny Głowackiej", 495], ["Bez/Schematu", 560], ["Agnieszka Cegielska", 567], ["Spółdzielnia Ogniwo", 610], ["Karolina Korwin Piotrowska ", 825], ["Radio Nowy Świat", 1361], ["Radio Wnet", 1470]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','karolinakp','langustanapalmie','Podcastwojennehistorie','radionaukowe','Gadowski','WzajemniePomocni','Vlogcasha','podcastex','palhajstv','podkastamerykanski','sekielski','accantus','portaldominikanie','Zmierzchu','radioem','BezPlanu','astrolife','UsłyszećNaCzas'], 
+                    ['DariuszRosiak','dzialzagraniczny','karolinakp','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','WzajemniePomocni','Vlogcasha','podcastex','palhajstv','podkastamerykanski','accantus','brzmienie-swiata','poglebiarka','SOWINSKY','Zmierzchu','radioem','BezPlanu','astrolife'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
