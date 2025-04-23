@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["jo-ju-news"] = {
+"name": "Jó-Ju News. Mieszkasz tutaj, musisz wiedzieć",
+"snapshots": [
+	[1745404844,60,3,20.0,60,null],
+]};

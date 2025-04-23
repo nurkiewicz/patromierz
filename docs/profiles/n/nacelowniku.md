@@ -1,10 +1,10 @@
 ---
-title: Na celowniku - Artur Dubiel Podcast & Newsletter | Statystyki patronite.pl
-  | Patromierz
+title: "Na celowniku - s\u0142owem o bezpiecze\u0144stwie - podcast, audiobooki, newsletter\
+  \ i kwartalnik | Statystyki patronite.pl | Patromierz"
 
 permalink: /nacelowniku
 ---
 
-# [Na celowniku - Artur Dubiel Podcast & Newsletter](https://patronite.pl/nacelowniku)
+# [Na celowniku - słowem o bezpieczeństwie - podcast, audiobooki, newsletter i kwartalnik](https://patronite.pl/nacelowniku)
 
 {% include profile.md name="nacelowniku" prefix="n" %}

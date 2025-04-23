@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["nacelowniku"] = {
-"name": "Na celowniku - Artur Dubiel Podcast & Newsletter",
+"name": "Na celowniku - słowem o bezpieczeństwie - podcast, audiobooki, newsletter i kwartalnik",
 "snapshots": [
 	[1655179449,14,1,14.0,14,null],
 	[1655266179,14,1,14.0,14,null],
@@ -894,4 +894,5 @@ profiles["nacelowniku"] = {
 	[1740803327,48,3,16.0,1732,null],
 	[1740889643,48,3,16.0,1732,null],
 	[1740976072,48,3,16.0,1732,null],
+	[1745405052,48,3,16.0,1828,null],
 ]};
