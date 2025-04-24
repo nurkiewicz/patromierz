@@ -67,4 +67,5 @@ profiles["strefakryminalna"] = {
 	[1743907526,20,1,20.0,60,null],
 	[1743993923,20,1,20.0,60,null],
 	[1745405304,null,1,null,60,null],
+	[1745479240,null,1,null,60,null],
 ]};

@@ -3,4 +3,5 @@ profiles["ukspiastostrzeszow"] = {
 "name": "UKS Piast Poprawa Ostrzeszów",
 "snapshots": [
 	[1745405373,350,3,116.66,350,null],
+	[1745479308,350,3,116.66,350,null],
 ]};
