@@ -4,4 +4,5 @@ profiles["radiostacja_ratunkowa"] = {
 "snapshots": [
 	[1745405221,68,3,22.66,68,null],
 	[1745479164,68,3,22.66,68,null],
+	[1745549135,68,3,22.66,68,null],
 ]};

@@ -3,4 +3,5 @@ profiles["chorarscameralis"] = {
 "name": "Stowarzyszenie Chór Ars Cameralis",
 "snapshots": [
 	[1745478624,75,3,25.0,75,null],
+	[1745548517,116,5,23.2,116,null],
 ]};
