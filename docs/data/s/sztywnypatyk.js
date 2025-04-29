@@ -2,14 +2,5 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["sztywnypatyk"] = {
 "name": "SztywnyPatyk",
 "snapshots": [
-	[1702887335,6780,203,33.39,null,null],
-	[1702973602,2515,143,17.58,null,null],
-	[1703059878,2120,56,37.85,null,null],
-	[1703145826,2515,143,17.58,null,null],
-	[1703233012,13432,462,29.07,null,null],
-	[1703318996,3210,194,16.54,null,null],
-	[1703405569,7880,1940,4.06,null,null],
-	[1703492642,550,34,16.17,null,null],
-	[1703578403,654,50,13.08,null,null],
-	[1703664554,2170,1935,1.12,null,null],
+	[1745894807,350,18,19.44,10510,null],
 ]};
