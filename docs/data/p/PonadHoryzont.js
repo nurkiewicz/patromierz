@@ -194,4 +194,5 @@ profiles["PonadHoryzont"] = {
 	[1746326625,30,null,null,250,null],
 	[1746413020,30,null,null,250,null],
 	[1746499421,30,null,null,250,null],
+	[1746585847,30,null,null,250,null],
 ]};

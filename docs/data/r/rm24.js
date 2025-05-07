@@ -81,4 +81,5 @@ profiles["rm24"] = {
 	[1746326694,5,null,null,15,null],
 	[1746413090,5,null,null,15,null],
 	[1746499490,5,null,null,15,null],
+	[1746585915,5,1,5.0,20,null],
 ]};
