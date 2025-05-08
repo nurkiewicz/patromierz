@@ -103,4 +103,5 @@ profiles["projektprozak"] = {
 	[1746413046,78,2,39.0,312,null],
 	[1746499447,78,null,null,312,null],
 	[1746585874,78,null,null,312,null],
+	[1746672227,78,null,null,312,null],
 ]};

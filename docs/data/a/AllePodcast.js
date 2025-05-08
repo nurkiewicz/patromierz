@@ -52,4 +52,5 @@ profiles["AllePodcast"] = {
 	[1746412407,50,null,null,100,null],
 	[1746498802,50,null,null,100,null],
 	[1746585214,50,null,null,100,null],
+	[1746671600,50,1,50.0,150,null],
 ]};
