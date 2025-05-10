@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["foodandtravels-eu"] = {
-"name": "Akademia Kulinarna FoodAndTravels.eu / Szef Kuchni Michał M.",
+"name": "Akademia Kulinarna FoodAndTravels.eu / Warsztat Wspierania Kariery w Gastro",
 "snapshots": [
 	[1738314725,20,1,20.0,100,null],
 	[1738382658,20,1,20.0,100,null],
@@ -82,4 +82,5 @@ profiles["foodandtravels-eu"] = {
 	[1746585405,69,2,34.5,318,1.0],
 	[1746671780,69,2,34.5,318,1.0],
 	[1746758213,69,2,34.5,318,1.0],
+	[1746844594,69,2,34.5,318,1.0],
 ]};
