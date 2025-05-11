@@ -417,4 +417,5 @@ profiles["Koronkowe"] = {
 	[1746671945,5,1,5.0,200,null],
 	[1746758388,null,1,null,200,null],
 	[1746844766,null,1,null,200,null],
+	[1746931153,null,1,null,200,null],
 ]};
