@@ -1,9 +1,9 @@
 ---
-title: Tynio | Statystyki patronite.pl | Patromierz
+title: Gry ze smakiem | Statystyki patronite.pl | Patromierz
 
 permalink: /Gryzesmakiem
 ---
 
-# [Tynio](https://patronite.pl/Gryzesmakiem)
+# [Gry ze smakiem](https://patronite.pl/Gryzesmakiem)
 
 {% include profile.md name="Gryzesmakiem" prefix="g" %}
