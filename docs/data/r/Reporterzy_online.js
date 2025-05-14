@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Reporterzy_online"] = {
-"name": "Leszek Kraskowski",
+"name": "Reporterzy Online",
 "snapshots": [
 	[1738316992,60,2,30.0,60,null],
 	[1738384919,70,3,23.33,70,null],
@@ -42,4 +42,5 @@ profiles["Reporterzy_online"] = {
 	[1746499484,300,10,30.0,1070,1.0],
 	[1746845096,300,10,30.0,1090,1.0],
 	[1746931471,300,10,30.0,1090,1.0],
+	[1747190678,300,10,30.0,1090,1.0],
 ]};

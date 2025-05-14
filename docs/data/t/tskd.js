@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["tskd"] = {
+"name": "Towarzystwo Stargardzka Kolej Dojazdowa",
+"snapshots": [
+	[1747190806,30,2,15.0,30,null],
+]};
