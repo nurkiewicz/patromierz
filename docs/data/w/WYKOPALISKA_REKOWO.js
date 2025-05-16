@@ -413,4 +413,5 @@ profiles["WYKOPALISKA_REKOWO"] = {
 	[1747104463,200,1,200.0,3730,null],
 	[1747190893,200,null,null,3730,null],
 	[1747277260,200,null,null,3730,null],
+	[1747363677,200,null,null,3730,null],
 ]};
