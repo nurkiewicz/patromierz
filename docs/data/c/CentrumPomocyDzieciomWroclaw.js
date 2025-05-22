@@ -4,4 +4,5 @@ profiles["CentrumPomocyDzieciomWroclaw"] = {
 "snapshots": [
 	[1747708487,50,1,50.0,50,null],
 	[1747794890,50,1,50.0,50,null],
+	[1747881284,50,1,50.0,50,null],
 ]};
