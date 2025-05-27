@@ -1,5 +1,6 @@
 ---
-title: Rotfl Playing Games - RPGowy komiks internetowy | Patromierz
+title: Rotfl Playing Games - RPGowy komiks internetowy | Statystyki patronite.pl |
+  Patromierz
 
 permalink: /rotflpg
 ---

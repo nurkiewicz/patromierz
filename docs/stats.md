@@ -19,52 +19,51 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
-<script type="text/javascript" src="data/s/SluzbaOgienMilosci.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/m/Mariusz_Wollny.js"></script>
-<script type="text/javascript" src="data/r/radioem.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/s/SkrawkiPuszczy.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/b/baz0k.js"></script>
 <script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/n/niezatapialni.js"></script>
-<script type="text/javascript" src="data/m/MateuszChrobok.js"></script>
 <script type="text/javascript" src="data/z/zaraztamwjade.js"></script>
 <script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/m/Mariusz_Wollny.js"></script>
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/p/potemotem.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/s/Stankiewicz.js"></script>
 <script type="text/javascript" src="data/a/AgnieszkaCegielska.js"></script>
+<script type="text/javascript" src="data/m/MateuszChrobok.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
+<script type="text/javascript" src="data/s/SluzbaOgienMilosci.js"></script>
+<script type="text/javascript" src="data/p/palhajstv.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/j/JanekSpiewak.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
+<script type="text/javascript" src="data/n/niezatapialni.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/s/SkrawkiPuszczy.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
 <script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["SOWINSKY", -1594], ["Radio Nowy Świat", -1098], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -635], ["TERENWIZJA", -550], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -470], ["Zaraz Tam Wjadę!", -450], ["Szkoła PitagoLasa", -380], ["Agnieszka Cegielska", -341], ["BezPlanu", -270], ["Skrawki Puszczy | FOTOGRAFIA", -265], ["Potem-o-tem ", 252], ["Bartosz Bazok Zelek", 260], ["Grzegorz Miecznikowski", 270], ["Podcast Historyczny", 307], ["Podkast amerykański", 310], ["Niezatapialni", 365], ["Fundacja Wzajemnie Pomocni", 380], ["Mariusz Wollny", 400], ["Radio Wnet", 820], ["Mateusz Chrobok", 1032]], 'largest_changes');
+            drawHorizontal([["SOWINSKY", -1582], ["Radio Nowy Świat", -1333], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -685], ["TERENWIZJA", -670], ["Zaraz Tam Wjadę!", -570], ["Szkoła PitagoLasa", -400], ["EWA WĄSIKOWSKA-TOMCZYŃSKA", -380], ["Agnieszka Cegielska", -352], ["Skrawki Puszczy | FOTOGRAFIA", -265], ["Jan Śpiewak", -252], ["Podkast amerykański", 210], ["Joanna Flis", 225], ["Mariusz Wollny", 250], ["Grzegorz Miecznikowski", 270], ["Uwaga Naukowy Bełkot", 296], ["Podcast Historyczny", 356], ["Niezatapialni", 365], ["Myślnik Stankiewicza — stoicyzm reformowany, podcast i inne", 515], ["Radio Wnet", 1010], ["Mateusz Chrobok", 1032]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','NaukowyBelkot','karolinakp','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','WzajemniePomocni','podcastex','Vlogcasha','podkastamerykanski','accantus','palhajstv','sekielski','rockserwisfm','Zmierzchu','Fundacja_po_DRUGIE','radioem'], 
+                    ['DariuszRosiak','dzialzagraniczny','NaukowyBelkot','karolinakp','DIOZ','langustanapalmie','Podcastwojennehistorie','radionaukowe','marcinzielinski','Gadowski','WzajemniePomocni','podcastex','Vlogcasha','podkastamerykanski','accantus','palhajstv','sekielski','rockserwisfm','Zmierzchu','SOWINSKY'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };

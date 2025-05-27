@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["kartografianiepraktyczna"] = {
-"name": "Kartografia Niepraktyczna",
+"name": "Niepraktyczny Kartograf",
 "snapshots": [
 	[1643355476,1565,74,21.14,12565,null],
 	[1643435224,1565,74,21.14,12575,null],
@@ -1109,4 +1109,5 @@ profiles["kartografianiepraktyczna"] = {
 	[1748054330,2410,119,20.25,95835,-1.0],
 	[1748140732,2410,119,20.25,95935,-1.0],
 	[1748227360,2410,119,20.25,95965,-1.0],
+	[1748313531,2410,119,20.25,96025,1.0],
 ]};
