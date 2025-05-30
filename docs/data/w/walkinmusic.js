@@ -37,4 +37,5 @@ profiles["walkinmusic"] = {
 	[1748314043,30,null,null,30,null],
 	[1748400446,30,null,null,30,null],
 	[1748486866,30,null,null,30,null],
+	[1748573273,30,1,30.0,60,null],
 ]};
