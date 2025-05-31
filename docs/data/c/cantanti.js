@@ -3,4 +3,5 @@ profiles["cantanti"] = {
 "name": "Chór Cantanti",
 "snapshots": [
 	[1748572498,45,3,15.0,45,null],
+	[1748658889,75,6,12.5,75,null],
 ]};

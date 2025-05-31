@@ -139,4 +139,5 @@ profiles["ObokSystemu"] = {
 	[1748400147,20,null,null,200,null],
 	[1748486565,20,null,null,200,null],
 	[1748572966,20,null,null,200,null],
+	[1748659345,20,null,null,200,null],
 ]};
