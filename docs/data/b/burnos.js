@@ -708,4 +708,5 @@ profiles["burnos"] = {
 	[1748226975,null,40,null,null,null],
 	[1748313280,null,40,null,null,null],
 	[1748745296,null,41,null,null,null],
+	[1748831697,null,41,null,null,null],
 ]};
