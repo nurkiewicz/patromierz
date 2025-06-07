@@ -19,50 +19,50 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/r/radioem.js"></script>
+<script type="text/javascript" src="data/o/odb.js"></script>
+<script type="text/javascript" src="data/d/drpiotrnapierala.js"></script>
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/k/kacpersztukaracing.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/s/szpila.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/t/trzech.panow.K.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/m/muzykaliturgiczna.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/w/wolnerzeki.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/e/eucharisticatv.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/n/ntnsnowandmore.js"></script>
 <script type="text/javascript" src="data/c/czabanrobiraban.js"></script>
-<script type="text/javascript" src="data/m/muzykaliturgiczna.js"></script>
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/d/dobrywieczoreuropo.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/l/langustanapalmie.js"></script>
-<script type="text/javascript" src="data/b/BezPlanu.js"></script>
-<script type="text/javascript" src="data/m/maopowiedziane.js"></script>
-<script type="text/javascript" src="data/e/eucharisticatv.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/w/www.gorila.pl.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-<script type="text/javascript" src="data/o/odb.js"></script>
-<script type="text/javascript" src="data/s/szpila.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/w/wolnerzeki.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Muzyka Liturgiczna", -777], ["Podcast Wojenne Historie", -755], ["Dział Zagraniczny", -555], ["EucharisticaTV", -500], ["Dariusz Rosiak", -475], ["życie warte jest rozmowy", -470], ["Pal Hajs TV", -410], ["Piotr Czaban", -350], ["NTN Snow & More", -350], ["Dobry wieczór Europo!", -348], ["Mao Powiedziane", 330], ["Odbudowani.", 500], ["Wolne Rzeki", 543], ["Profesor Matczak", 565], ["Radio Nowy Świat", 750], ["Joanna Flis", 795], ["Kolektyw Szpila", 1000], ["Academia Gorila Competition Team", 1202], ["Karolina Korwin Piotrowska ", 1360], ["Radio Wnet", 1790]], 'largest_changes');
+            drawHorizontal([["Podcast Wojenne Historie", -945], ["Muzyka Liturgiczna", -777], ["życie warte jest rozmowy", -510], ["Dział Zagraniczny", -505], ["EucharisticaTV", -500], ["Kacper Sztuka Racing", -500], ["Pal Hajs TV", -470], ["Dobry wieczór Europo!", -378], ["Piotr Czaban", -350], ["NTN Snow & More", -350], ["Trzech Panów K", 370], ["Piotr Napierała", 380], ["Wolne Rzeki", 466], ["Odbudowani.", 500], ["Sekielski Brothers Studio", 940], ["Kolektyw Szpila", 1000], ["Karolina Korwin Piotrowska ", 1020], ["Profesor Matczak", 1355], ["Radio Nowy Świat", 2083], ["Radio Wnet", 3160]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','karolinakp','NaukowyBelkot','langustanapalmie','Podcastwojennehistorie','radionaukowe','WzajemniePomocni','Gadowski','podcastex','podkastamerykanski','Vlogcasha','accantus','palhajstv','SOWINSKY','Zmierzchu','astrolife','Fundacja_po_DRUGIE','BezPlanu','dajherbate'], 
+                    ['DariuszRosiak','dzialzagraniczny','karolinakp','NaukowyBelkot','DIOZ','Podcastwojennehistorie','radionaukowe','marcinzielinski','WzajemniePomocni','Gadowski','podcastex','podkastamerykanski','Vlogcasha','accantus','sekielski','brzmienie-swiata','poglebiarka','palhajstv','Zmierzchu','radioem'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
