@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["UCokQIk2a8X3jV4Wqe65ST6g"] = {
+"name": "Podróżnicy.pl",
+"snapshots": [
+	[1749437236,100,1,100.0,100,null],
+]};
