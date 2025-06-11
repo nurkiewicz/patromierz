@@ -443,4 +443,5 @@ profiles["polishvoygers"] = {
 	[1749350613,null,1,null,560,-1.0],
 	[1749437030,null,1,null,560,-1.0],
 	[1749523450,null,1,null,560,null],
+	[1749609831,null,1,null,560,null],
 ]};
