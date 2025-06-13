@@ -175,4 +175,5 @@ profiles["Lysy_Kudlaty"] = {
 	[1749523247,30,1,30.0,170,null],
 	[1749609631,null,1,null,170,null],
 	[1749696033,null,1,null,170,null],
+	[1749782405,null,1,null,170,null],
 ]};
