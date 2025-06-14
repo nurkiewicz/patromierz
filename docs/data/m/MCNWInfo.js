@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["MCNWInfo"] = {
-"name": "Sebastian Płocharski / MakeCoffeeNotWar.Info",
+"name": "MakeCoffeeNotWar.Info / Sebastian Plocharski",
 "snapshots": [
 	[1689479348,28,1,28.0,28,null],
 	[1689565911,28,1,28.0,28,null],
@@ -580,4 +580,5 @@ profiles["MCNWInfo"] = {
 	[1749004876,602,9,66.88,10160,-1.0],
 	[1749177670,650,10,65.0,10208,null],
 	[1749350451,650,10,65.0,10208,null],
+	[1749869276,650,10,65.0,10208,null],
 ]};
