@@ -507,4 +507,5 @@ profiles["AROnauci"] = {
 	[1749782028,null,1,null,5125,-6.0],
 	[1749868638,null,1,null,5125,-6.0],
 	[1749954945,null,1,null,5125,null],
+	[1750041346,null,1,null,5125,null],
 ]};
