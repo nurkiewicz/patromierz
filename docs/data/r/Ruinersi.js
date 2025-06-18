@@ -3,4 +3,5 @@ profiles["Ruinersi"] = {
 "name": "Fundacja Ruinersi na Dolnym Śląsku",
 "snapshots": [
 	[1750128424,50,1,50.0,50,null],
+	[1750214819,50,1,50.0,50,null],
 ]};
