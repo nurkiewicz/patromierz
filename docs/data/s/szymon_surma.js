@@ -218,4 +218,5 @@ profiles["szymon_surma"] = {
 	[1748573201,null,1,null,220,null],
 	[1748659574,null,1,null,220,null],
 	[1748832405,null,1,null,220,null],
+	[1750474114,20,1,20.0,240,null],
 ]};
