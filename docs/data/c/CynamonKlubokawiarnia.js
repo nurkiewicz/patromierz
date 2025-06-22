@@ -523,4 +523,5 @@ profiles["CynamonKlubokawiarnia"] = {
 	[1690680591,100,null,null,34510,null],
 	[1690767151,100,null,null,34510,null],
 	[1750473429,10,1,10.0,34520,null],
+	[1750559826,10,1,10.0,34520,null],
 ]};
