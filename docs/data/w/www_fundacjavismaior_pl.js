@@ -4,4 +4,5 @@ profiles["www_fundacjavismaior_pl"] = {
 "snapshots": [
 	[1750819808,50,1,50.0,50,null],
 	[1750906212,50,1,50.0,50,null],
+	[1750992614,50,1,50.0,50,null],
 ]};
