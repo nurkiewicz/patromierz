@@ -4,4 +4,5 @@ profiles["WerewolftransylvaniaFintael515"] = {
 "snapshots": [
 	[1750906180,100,1,100.0,100,null],
 	[1750992581,100,1,100.0,100,null],
+	[1751078977,100,1,100.0,100,null],
 ]};
