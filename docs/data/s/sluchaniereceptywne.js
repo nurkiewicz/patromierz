@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["sluchaniereceptywne"] = {
-"name": "Festiwal Słuchanie Receptywne",
+"name": "Projekt Artystyczny „Słuchanie Receptywne”",
 "snapshots": [
 	[1748573157,100,1,100.0,100,null],
 	[1748659532,100,1,100.0,100,null],
@@ -41,4 +41,5 @@ profiles["sluchaniereceptywne"] = {
 	[1751770073,160,4,40.0,260,2.0],
 	[1751856487,160,4,40.0,270,null],
 	[1751942859,160,4,40.0,320,null],
+	[1752029282,160,4,40.0,320,null],
 ]};
