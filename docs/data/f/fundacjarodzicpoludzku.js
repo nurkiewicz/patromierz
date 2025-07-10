@@ -4,4 +4,5 @@ profiles["fundacjarodzicpoludzku"] = {
 "snapshots": [
 	[1751942336,135,3,45.0,135,null],
 	[1752028740,205,7,29.28,205,null],
+	[1752115141,380,12,31.66,380,null],
 ]};
