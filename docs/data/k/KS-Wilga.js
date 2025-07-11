@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["KS-Wilga"] = {
+"name": "Wilga Koźmice Wielkie",
+"snapshots": [
+	[1752201721,250,4,62.5,250,null],
+]};
