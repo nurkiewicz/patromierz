@@ -11,4 +11,5 @@ profiles["forge-of-baldur"] = {
 	[1752201524,null,1,null,6,null],
 	[1752287919,null,1,null,6,null],
 	[1752374321,null,1,null,6,null],
+	[1752460715,null,1,null,6,null],
 ]};
