@@ -115,4 +115,5 @@ profiles["prondzyn"] = {
 	[1751337961,null,214,null,null,null],
 	[1751597584,null,202,null,null,null],
 	[1752115597,null,194,null,null,null],
+	[1752634000,null,190,null,null,null],
 ]};
