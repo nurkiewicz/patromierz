@@ -707,4 +707,5 @@ profiles["fundacja8marca"] = {
 	[1752460724,12,null,null,900,null],
 	[1752547129,12,null,null,900,null],
 	[1752633533,12,null,null,900,null],
+	[1752719937,12,1,12.0,912,null],
 ]};
