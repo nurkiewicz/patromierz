@@ -514,4 +514,5 @@ profiles["www_neweurope_pl"] = {
 	[1752634252,null,2,null,null,null],
 	[1752720686,null,2,null,null,null],
 	[1752807059,null,2,null,null,null],
+	[1752893442,null,2,null,null,null],
 ]};
