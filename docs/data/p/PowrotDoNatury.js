@@ -4,4 +4,5 @@ profiles["PowrotDoNatury"] = {
 "snapshots": [
 	[1752806781,5,1,5.0,5,null],
 	[1752893170,5,1,5.0,5,null],
+	[1752979578,5,1,5.0,5,null],
 ]};
