@@ -1090,4 +1090,5 @@ profiles["GlobalnaGra"] = {
 	[1753065555,null,49,null,null,null],
 	[1753151959,null,48,null,null,null],
 	[1753324757,null,48,null,null,null],
+	[1753411346,null,48,null,null,null],
 ]};
