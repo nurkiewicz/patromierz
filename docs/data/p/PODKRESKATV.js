@@ -270,4 +270,5 @@ profiles["PODKRESKATV"] = {
 	[1753325150,30,1,30.0,360,null],
 	[1753411937,30,null,null,360,null],
 	[1753497940,30,null,null,360,null],
+	[1753584358,30,null,null,360,null],
 ]};
