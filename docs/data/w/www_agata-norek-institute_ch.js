@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["www_agata-norek-institute_ch"] = {
-"name": "Agata Norek",
+"name": "Agata Norek Institute",
 "snapshots": [
 	[1731992129,40,1,40.0,40,null],
 	[1732078407,40,1,40.0,40,null],
@@ -225,4 +225,5 @@ profiles["www_agata-norek-institute_ch"] = {
 	[1753584635,110,4,27.5,880,null],
 	[1753671064,110,4,27.5,880,null],
 	[1753757440,110,4,27.5,880,null],
+	[1753843828,110,4,27.5,880,null],
 ]};
