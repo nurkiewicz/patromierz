@@ -4,4 +4,5 @@ profiles["prepperskaszubysurvival"] = {
 "snapshots": [
 	[1754102779,10,1,10.0,10,null],
 	[1754189164,10,1,10.0,10,null],
+	[1754275580,10,1,10.0,10,null],
 ]};

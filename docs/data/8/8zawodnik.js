@@ -4,4 +4,5 @@ profiles["8zawodnik"] = {
 "snapshots": [
 	[1754102099,320,4,80.0,null,null],
 	[1754188500,320,4,80.0,null,null],
+	[1754274900,320,4,80.0,null,null],
 ]};
