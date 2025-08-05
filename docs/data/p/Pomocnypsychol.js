@@ -36,4 +36,5 @@ profiles["Pomocnypsychol"] = {
 	[1754102767,20,null,null,20,null],
 	[1754189152,20,null,null,20,null],
 	[1754275568,20,null,null,20,null],
+	[1754361966,20,1,20.0,40,null],
 ]};
