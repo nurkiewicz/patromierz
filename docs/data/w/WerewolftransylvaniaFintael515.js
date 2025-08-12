@@ -48,4 +48,5 @@ profiles["WerewolftransylvaniaFintael515"] = {
 	[1754707772,100,1,100.0,200,null],
 	[1754794185,null,1,null,200,-4.0],
 	[1754880579,null,1,null,200,-4.0],
+	[1754966972,null,1,null,200,-4.0],
 ]};
