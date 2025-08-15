@@ -546,4 +546,5 @@ profiles["krakowskiszlakmodernizmu"] = {
 	[1754966481,null,1,null,1160,-1.0],
 	[1755052884,null,1,null,1160,-1.0],
 	[1755139285,null,1,null,1160,-1.0],
+	[1755225700,null,1,null,1160,-1.0],
 ]};
