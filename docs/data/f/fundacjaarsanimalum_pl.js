@@ -4,4 +4,5 @@ profiles["fundacjaarsanimalum_pl"] = {
 "snapshots": [
 	[1755571127,20,1,20.0,20,null],
 	[1755657534,20,1,20.0,20,null],
+	[1755743923,20,1,20.0,20,null],
 ]};
