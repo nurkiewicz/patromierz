@@ -3,4 +3,5 @@ profiles["formajakwino"] = {
 "name": "Grzegorz Kujawski - Forma Jak Wino",
 "snapshots": [
 	[1755916720,150,2,75.0,150,null],
+	[1756003112,150,2,75.0,150,null],
 ]};
