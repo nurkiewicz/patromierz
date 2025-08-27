@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["mrocznewieki"] = {
-"name": "Podcast Mroczne Wieki",
+"name": "Mroczne Wieki | Michał Kuźniar",
 "snapshots": [
 	[1657857701,40,2,20.0,8585,null],
 	[1657945326,40,2,20.0,8585,null],
@@ -908,4 +908,5 @@ profiles["mrocznewieki"] = {
 	[1755225841,7620,294,25.91,null,6.0],
 	[1756089827,7650,296,25.84,null,7.0],
 	[1756176220,7650,293,26.1,null,7.0],
+	[1756262638,7640,294,25.98,null,6.0],
 ]};
