@@ -33,4 +33,5 @@ profiles["majawolny"] = {
 	[1756262567,74,4,18.5,74,null],
 	[1756348945,74,4,18.5,74,null],
 	[1756435343,null,5,null,null,null],
+	[1756521778,null,5,null,null,null],
 ]};
