@@ -36,4 +36,5 @@ profiles["podroze_z_fonem"] = {
 	[1756781154,10,1,10.0,10,null],
 	[1756867558,10,null,null,10,null],
 	[1756953947,10,null,null,10,null],
+	[1757040353,10,null,null,10,null],
 ]};
