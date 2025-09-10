@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["Caldesia"] = {
+"name": "CALDESIA",
+"snapshots": [
+	[1757471806,20,1,20.0,60,null],
+]};
