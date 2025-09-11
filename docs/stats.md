@@ -19,47 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/z/zameknadaje.js"></script>
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-<script type="text/javascript" src="data/r/rockserwisfm.js"></script>
-<script type="text/javascript" src="data/k/karolinakp.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/k/kidsalert.js"></script>
-<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/k/kajtekfotografuje.js"></script>
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/k/karolinakp.js"></script>
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
 <script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/v/VolleyWyszkow.js"></script>
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/k/kidsalert.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/j/jakubwiech.js"></script>
 <script type="text/javascript" src="data/p/palhajstv.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/Percival.js"></script>
-<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/r/radioem.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
+<script type="text/javascript" src="data/p/Percival.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["PERCIVAL SCHUTTENBACH", -1026], ["Dariusz Rosiak", -1010], ["SciFun", -972], ["Nie wiem, ale się dowiem", -655], ["Profesor Matczak", -605], ["Radio Wnet", -480], ["Tetrycy", -460], ["Uwaga Naukowy Bełkot", -445], ["Radio Zamek Nadaje", -444], ["Joanna Flis", -365], ["Karolina Korwin Piotrowska ", 375], ["Radio Naukowe - podcast Karoliny Głowackiej", 405], ["Podcast Historyczny", 433], ["Fundacja Wzajemnie Pomocni", 440], ["Niedźwiecka o Zmierzchu", 514], ["Dział Zagraniczny", 585], ["Jakub Wiech", 632], ["życie warte jest rozmowy", 900], ["KidsAlert", 1470], ["Podkast amerykański", 1990]], 'largest_changes');
+            drawHorizontal([["Dariusz Rosiak", -1100], ["PERCIVAL SCHUTTENBACH", -1026], ["SciFun", -913], ["Nie wiem, ale się dowiem", -520], ["Uwaga Naukowy Bełkot", -493], ["Profesor Matczak", -440], ["Radio Wnet", -440], ["Joanna Flis", -435], ["Marcin Zieliński | Fundacja Rozpal Wiarę", -390], ["Tetrycy", -390], ["Niedźwiecka o Zmierzchu", 454], ["Borkoś", 455], ["Kajetan Pasak", 515], ["Dział Zagraniczny", 540], ["Jakub Wiech", 632], ["Radio Nowy Świat", 645], ["UKS Volley Wyszków", 740], ["życie warte jest rozmowy", 1330], ["KidsAlert", 1510], ["Podkast amerykański", 2120]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','karolinakp','Podcastwojennehistorie','NaukowyBelkot','SciFun','tetrycy','radionaukowe','Gadowski','podkastamerykanski','podcastex','Vlogcasha','accantus','rockserwisfm','portaldominikanie','sekielski','radioem','Zmierzchu','Fundacja_po_DRUGIE','palhajstv'], 
+                    ['DariuszRosiak','dzialzagraniczny','karolinakp','Podcastwojennehistorie','NaukowyBelkot','SciFun','tetrycy','radionaukowe','marcinzielinski','Gadowski','podkastamerykanski','podcastex','Vlogcasha','accantus','sekielski','Zmierzchu','Fundacja_po_DRUGIE','palhajstv','dajherbate','astrolife'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
