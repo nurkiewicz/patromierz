@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Teatr_YETA"] = {
-"name": "Teatr YETA",
+"name": "Fundacja Teatru YETA",
 "snapshots": [
 	[1654395354,10,1,10.0,10,null],
 	[1654481408,10,1,10.0,10,null],
@@ -1085,4 +1085,5 @@ profiles["Teatr_YETA"] = {
 	[1757386131,10,1,10.0,1650,null],
 	[1757472575,10,1,10.0,1650,null],
 	[1757558995,10,1,10.0,1650,null],
+	[1757645444,10,2,5.0,1850,null],
 ]};
