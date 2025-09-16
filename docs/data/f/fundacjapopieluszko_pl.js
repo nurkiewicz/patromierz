@@ -3,4 +3,5 @@ profiles["fundacjapopieluszko_pl"] = {
 "name": "Fundacja im. ks. Jerzego Popiełuszko Dobro",
 "snapshots": [
 	[1757903992,50,1,50.0,50,null],
+	[1757990399,50,1,50.0,50,null],
 ]};
