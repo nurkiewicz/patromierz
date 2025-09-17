@@ -1092,4 +1092,5 @@ profiles["bushcraftowy"] = {
 	[1757817421,3155,97,32.52,291825,-3.0],
 	[1757903819,null,99,null,null,null],
 	[1757990224,null,98,null,null,null],
+	[1758076623,null,100,null,null,null],
 ]};
