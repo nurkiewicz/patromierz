@@ -3,4 +3,5 @@ profiles["fundacjaICO"] = {
 "name": "Fundacja Instytut Cyfrowego Obywatelstwa",
 "snapshots": [
 	[1758076789,20,2,10.0,20,null],
+	[1758163191,680,10,68.0,680,null],
 ]};
