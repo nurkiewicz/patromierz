@@ -1039,4 +1039,5 @@ profiles["blondynkitezgraja"] = {
 	[1756002986,90,2,45.0,null,null],
 	[1756262191,90,2,45.0,null,null],
 	[1757039785,90,2,45.0,null,null],
+	[1758249414,50,2,25.0,null,null],
 ]};
