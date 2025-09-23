@@ -130,4 +130,5 @@ profiles["KamilaTarot"] = {
 	[1758336149,null,7,null,null,null],
 	[1758422544,null,7,null,null,null],
 	[1758508953,null,7,null,null,null],
+	[1758595357,null,6,null,null,null],
 ]};
