@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["bonivibes"] = {
-"name": "Boni Vibes Podcast",
+"name": "Boni Vibes",
 "snapshots": [
 	[1687569509,70,2,35.0,70,null],
 	[1687655897,70,2,35.0,70,null],
@@ -553,4 +553,5 @@ profiles["bonivibes"] = {
 	[1740801331,29,1,29.0,1338,null],
 	[1740887687,29,1,29.0,1338,null],
 	[1740974100,29,1,29.0,1338,null],
+	[1758854222,45,2,22.5,45,null],
 ]};
