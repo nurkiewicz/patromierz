@@ -66,4 +66,5 @@ profiles["framedev"] = {
 	[1758768013,null,1,null,20,null],
 	[1758854395,null,1,null,20,null],
 	[1758941014,null,1,null,20,null],
+	[1759372803,10,1,10.0,30,null],
 ]};

@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["fundacjaICO"] = {
-"name": "Fundacja Instytut Cyfrowego Obywatelstwa",
+"name": "Fundacja „Instytut Cyfrowego Obywatelstwa”",
 "snapshots": [
 	[1758076789,20,2,10.0,20,null],
 	[1758163191,680,10,68.0,680,null],
@@ -13,4 +13,5 @@ profiles["fundacjaICO"] = {
 	[1758768028,740,13,56.92,740,null],
 	[1758854411,740,13,56.92,740,null],
 	[1758941038,740,13,56.92,740,null],
+	[1759372819,800,15,53.33,800,null],
 ]};
