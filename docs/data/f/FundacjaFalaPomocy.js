@@ -4,4 +4,5 @@ profiles["FundacjaFalaPomocy"] = {
 "snapshots": [
 	[1759372818,10,2,5.0,15,null],
 	[1759459218,10,2,5.0,15,null],
+	[1759545612,60,3,20.0,65,null],
 ]};
