@@ -327,4 +327,5 @@ profiles["jedz-bezpiecznie_pl"] = {
 	[1759545747,6,1,6.0,72,null],
 	[1759632156,6,1,6.0,72,null],
 	[1759718564,null,1,null,72,null],
+	[1759804954,null,1,null,72,null],
 ]};
