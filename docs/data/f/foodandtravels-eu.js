@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["foodandtravels-eu"] = {
-"name": "Akademia FoodAndTravels.eu / Masterclass: Gastronomia & Hotelarstwo",
+"name": "e-Akademia FoodAndTravels.eu / Masterclass: Gastronomia & Hotelarstwo",
 "snapshots": [
 	[1738314725,20,1,20.0,100,null],
 	[1738382658,20,1,20.0,100,null],
@@ -222,4 +222,5 @@ profiles["foodandtravels-eu"] = {
 	[1758768007,20,1,20.0,367,null],
 	[1758854389,20,1,20.0,367,null],
 	[1758941004,20,1,20.0,367,null],
+	[1760150387,27,1,27.0,394,null],
 ]};
