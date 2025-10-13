@@ -19,48 +19,48 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/t/totylkoteoria.js"></script>
-<script type="text/javascript" src="data/f/FundacjaPrimum.js"></script>
-<script type="text/javascript" src="data/b/BliskoRahamim.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/i/igorjanke.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/j/jantarustka.com.pl.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-<script type="text/javascript" src="data/r/radek-karbowski.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-<script type="text/javascript" src="data/a/ayumi12.js"></script>
 <script type="text/javascript" src="data/k/kidsalert.js"></script>
-<script type="text/javascript" src="data/k/konfitura.js"></script>
-<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/f/FundacjaPrimum.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
 <script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/a/ayumi12.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/b/BliskoRahamim.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/i/igorjanke.js"></script>
+<script type="text/javascript" src="data/k/khenerga.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
 <script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
-<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/c/cuzamendokupy.js"></script>
+<script type="text/javascript" src="data/j/jantarustka.com.pl.js"></script>
+<script type="text/javascript" src="data/t/totylkoteoria.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/r/radek-karbowski.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/m/MilenaSzalkowska.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Nie wiem, ale się dowiem", -2200], ["Uwaga Naukowy Bełkot", -1372], ["Tetrycy", -680], ["Radio Wnet", -640], ["Igor Janke. Układ Otwarty", -485], ["SciFun", -481], ["Dolnośląski Inspektorat Ochrony Zwierząt", -435], ["KidsAlert", -410], ["Konfitura", -350], ["Łukasz Sakowski // To Tylko Teoria", -330], ["Radek Karbowski – Skrót polityczny", 463], ["Damian Duda", 475], ["Natalia Dudek", 500], ["WachU", 530], ["Witold Gadowski", 575], ["Podkast amerykański", 590], ["MKS JANTAR USTKA", 650], ["Blisko Rahamim", 855], ["Fundacja po DRUGIE", 1270], ["Fundacja  Primum", 2217]], 'largest_changes');
+            drawHorizontal([["Nie wiem, ale się dowiem", -1810], ["Uwaga Naukowy Bełkot", -1535], ["Tetrycy", -600], ["Igor Janke. Układ Otwarty", -595], ["Radio Wnet", -500], ["SciFun", -422], ["Dolnośląski Inspektorat Ochrony Zwierząt", -395], ["Agnieszka z Cuzamendokupy", -377], ["KidsAlert", -370], ["Łukasz Sakowski // To Tylko Teoria", -315], ["Milena Szałkowska", 460], ["Radek Karbowski – Skrót polityczny", 539], ["MKS JANTAR USTKA", 650], ["Podkast amerykański", 650], ["Natalia Dudek", 700], ["Witold Gadowski", 835], ["KH Energa Toruń", 920], ["Blisko Rahamim", 1195], ["Fundacja po DRUGIE", 1340], ["Fundacja  Primum", 2459]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak','dzialzagraniczny','Podcastwojennehistorie','NaukowyBelkot','SciFun','tetrycy','DIOZ','niewiemalesiedowiem','radionaukowe','WzajemniePomocni','marcinzielinski','podkastamerykanski','Gadowski','Fundacja_po_DRUGIE','podcastex','Vlogcasha','Zmierzchu','brzmienie-swiata','accantus','poglebiarka'], 
+                    ['DariuszRosiak','dzialzagraniczny','Podcastwojennehistorie','NaukowyBelkot','SciFun','tetrycy','DIOZ','niewiemalesiedowiem','radionaukowe','WzajemniePomocni','marcinzielinski','podkastamerykanski','Gadowski','Fundacja_po_DRUGIE','podcastex','Vlogcasha','Zmierzchu','brzmienie-swiata','poglebiarka','accantus'], 
                     1, 'top_but_two', 'currency');
                 }, 100);
     };
