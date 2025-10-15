@@ -3,4 +3,5 @@ profiles["Facebook_tygrysystrzelin"] = {
 "name": "Tygrysy Strzelin",
 "snapshots": [
 	[1760409566,50,1,50.0,50,null],
+	[1760495967,280,4,70.0,280,null],
 ]};

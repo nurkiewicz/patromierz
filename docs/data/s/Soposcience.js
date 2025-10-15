@@ -97,4 +97,5 @@ profiles["Soposcience"] = {
 	[1760237520,25,null,null,75,null],
 	[1760323933,25,null,null,75,null],
 	[1760410320,25,null,null,75,null],
+	[1760496743,25,null,null,75,null],
 ]};
