@@ -519,4 +519,5 @@ profiles["ZakuBoardgames"] = {
 	[1760324173,null,129,null,null,null],
 	[1760410558,null,128,null,null,null],
 	[1760496991,null,128,null,null,null],
+	[1760583379,null,128,null,null,null],
 ]};

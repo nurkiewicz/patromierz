@@ -137,4 +137,5 @@ profiles["ZiolowaPrzystan"] = {
 	[1760324187,10,1,10.0,70,null],
 	[1760410573,10,1,10.0,70,null],
 	[1760497006,null,1,null,70,null],
+	[1760583394,null,1,null,70,null],
 ]};

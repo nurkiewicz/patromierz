@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["dominik_tabor"] = {
-"name": "Dominik Tabor",
+"name": "Dominik Tabor - Biegacz Górski | Fizjoterapeuta | Osteopata",
 "snapshots": [
 	[1732852808,120,5,24.0,120,null],
 	[1732939193,420,11,38.18,420,null],
@@ -292,4 +292,5 @@ profiles["dominik_tabor"] = {
 	[1760323117,1480,37,40.0,15110,-10.0],
 	[1760409513,1480,37,40.0,15110,-10.0],
 	[1760495914,1470,36,40.83,15110,-10.0],
+	[1760582313,1470,36,40.83,15110,-10.0],
 ]};
