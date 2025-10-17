@@ -1,9 +1,9 @@
 ---
-title: Podcast o teatrze | Statystyki patronite.pl | Patromierz
+title: Podcast o Teatrze | Statystyki patronite.pl | Patromierz
 
 permalink: /podcastoteatrze
 ---
 
-# [Podcast o teatrze](https://patronite.pl/podcastoteatrze)
+# [Podcast o Teatrze](https://patronite.pl/podcastoteatrze)
 
 {% include profile.md name="podcastoteatrze" prefix="p" %}
