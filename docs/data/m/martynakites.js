@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["martynakites"] = {
-"name": "Martyna Konkel Kitesurferka Pełną Gębą",
+"name": "Martyna Konkel Kite Proriderka 🤙",
 "snapshots": [
 	[1731300480,450,3,150.0,450,null],
 	[1731385376,483,4,120.75,483,null],
@@ -269,4 +269,5 @@ profiles["martynakites"] = {
 	[1760496337,583,5,116.6,7526,null],
 	[1760582734,583,5,116.6,7526,null],
 	[1760669151,583,5,116.6,7526,null],
+	[1760755529,743,7,106.14,7686,5.0],
 ]};

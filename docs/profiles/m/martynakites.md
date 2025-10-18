@@ -1,10 +1,9 @@
 ---
-title: "Martyna Konkel Kitesurferka Pe\u0142n\u0105 G\u0119b\u0105 | Statystyki patronite.pl\
-  \ | Patromierz"
+title: "Martyna Konkel Kite Proriderka \U0001F919 | Statystyki patronite.pl | Patromierz"
 
 permalink: /martynakites
 ---
 
-# [Martyna Konkel Kitesurferka Pełną Gębą](https://patronite.pl/martynakites)
+# [Martyna Konkel Kite Proriderka 🤙](https://patronite.pl/martynakites)
 
 {% include profile.md name="martynakites" prefix="m" %}
