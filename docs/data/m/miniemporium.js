@@ -1192,4 +1192,5 @@ profiles["miniemporium"] = {
 	[1760582772,null,103,null,null,null],
 	[1760669191,null,102,null,null,null],
 	[1760755568,null,102,null,null,null],
+	[1760841972,null,102,null,null,null],
 ]};

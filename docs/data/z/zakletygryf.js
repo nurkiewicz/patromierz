@@ -3,4 +3,5 @@ profiles["zakletygryf"] = {
 "name": "Zaklęty Gryf (Złoty Znicz)",
 "snapshots": [
 	[1760756172,10,1,10.0,10,null],
+	[1760842579,10,1,10.0,10,null],
 ]};
