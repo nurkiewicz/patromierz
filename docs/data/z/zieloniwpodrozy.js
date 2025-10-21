@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["zieloniwpodrozy"] = {
-"name": "Zieloni w podróży",
+"name": "Mateusz Stawarz - Zieloni w podróży",
 "snapshots": [
 	[1597276800,95,8,11.87,1595,null],
 	[1601078400,80,6,13.33,1695,null],
@@ -1169,4 +1169,5 @@ profiles["zieloniwpodrozy"] = {
 	[1760756185,720,35,20.57,null,1.0],
 	[1760842592,720,35,20.57,null,1.0],
 	[1760929012,720,35,20.57,null,1.0],
+	[1761015425,720,34,21.17,null,1.0],
 ]};
