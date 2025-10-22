@@ -19,47 +19,47 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/p/pgfseko.js"></script>
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/s/swiatusy.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/w/WarszawskiKlubGo.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 <script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/a/astrolife.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/b/BliskoRahamim.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-<script type="text/javascript" src="data/h/Historiajakiejnieznacie.js"></script>
-<script type="text/javascript" src="data/p/pkod.js"></script>
-<script type="text/javascript" src="data/p/puchaczowka.js"></script>
-<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-<script type="text/javascript" src="data/w/WachU.js"></script>
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
 <script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 <script type="text/javascript" src="data/z/zydoteka.js"></script>
-<script type="text/javascript" src="data/k/krzysztofmazur.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/f/fundacjakapucynska.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/a/astrolife.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
 <script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/w/WarszawskiKlubGo.js"></script>
 <script type="text/javascript" src="data/k/Karczmarz.js"></script>
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/pgfseko.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/m/MyslecGlebiej.js"></script>
+<script type="text/javascript" src="data/p/pkod.js"></script>
+<script type="text/javascript" src="data/z/zoltenapisy.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/f/fundacjakapucynska.js"></script>
+<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/p/puchaczowka.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/h/Historiajakiejnieznacie.js"></script>
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/k/krzysztofmazur.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/p/profesor.matczak.js"></script>
 <script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1656], ["Radio Wnet", -1420], ["Nie wiem, ale się dowiem", -1060], ["Piotr Sękowski", -500], ["Orkiestra Kamiliańska", -500], ["Krzysztof Mazur. Geoekonomia", -425], ["Uwaga Naukowy Bełkot", -411], ["Dział Zagraniczny", -320], ["Cezary Korycki | Historia, jakiej nie znacie", -290], ["Światusy", -270], ["Blisko Rahamim", 365], ["AstroLife", 405], ["Profesor Matczak", 405], ["Fundacja Kapucyńska im. bł. Aniceta Koplińskiego", 414], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 430], ["Karczmarz", 433], ["Żydoteka", 500], ["Warszawski Klub Go", 550], ["WachU", 687], ["Fundacja po DRUGIE", 820]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -1236], ["Radio Wnet", -1190], ["Nie wiem, ale się dowiem", -990], ["Piotr Sękowski", -500], ["Orkiestra Kamiliańska", -500], ["Uwaga Naukowy Bełkot", -394], ["Krzysztof Mazur. Geoekonomia", -350], ["Myśleć Głębiej", -309], ["Cezary Korycki | Historia, jakiej nie znacie", -290], ["Dział Zagraniczny", -290], ["AstroLife", 320], ["ŻÓŁTE NAPISY", 340], ["Karczmarz", 394], ["Profesor Matczak", 410], ["Fundacja Kapucyńska im. bł. Aniceta Koplińskiego", 414], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 420], ["Żydoteka", 500], ["Warszawski Klub Go", 550], ["WachU", 678], ["Fundacja po DRUGIE", 760]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
