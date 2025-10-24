@@ -1255,4 +1255,5 @@ profiles["vintagelife"] = {
 	[1761015313,10,null,null,1020,null],
 	[1761101776,10,null,null,1020,null],
 	[1761188098,10,null,null,1020,null],
+	[1761274531,10,1,10.0,1030,null],
 ]};
