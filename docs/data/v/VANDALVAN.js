@@ -473,4 +473,6 @@ profiles["VANDALVAN"] = {
 	[1761188090,null,198,null,null,null],
 	[1761274524,null,198,null,null,null],
 	[1761293815,null,197,null,null,null],
+	[1761308585,null,197,null,null,null],
+	[1761360925,null,197,null,null,null],
 ]};

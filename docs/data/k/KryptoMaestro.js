@@ -226,4 +226,6 @@ profiles["KryptoMaestro"] = {
 	[1761187445,null,2,null,null,null],
 	[1761273863,null,2,null,null,null],
 	[1761293178,null,2,null,null,null],
+	[1761307927,null,2,null,null,null],
+	[1761360258,null,2,null,null,null],
 ]};

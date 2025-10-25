@@ -154,4 +154,6 @@ profiles["DDSHD"] = {
 	[1761187099,null,1,null,350,null],
 	[1761273506,null,1,null,350,null],
 	[1761292834,null,1,null,350,null],
+	[1761307561,null,1,null,350,null],
+	[1761359903,null,1,null,350,-3.0],
 ]};
