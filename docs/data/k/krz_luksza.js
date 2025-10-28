@@ -693,4 +693,5 @@ profiles["krz_luksza"] = {
 	[1761360259,1965,38,51.71,null,null],
 	[1761450252,1965,38,51.71,null,1.0],
 	[1761536665,null,38,null,null,null],
+	[1761623071,null,38,null,null,null],
 ]};
