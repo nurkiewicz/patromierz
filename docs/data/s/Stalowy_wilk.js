@@ -72,4 +72,5 @@ profiles["Stalowy_wilk"] = {
 	[1649041962,null,null,null,270,null],
 	[1649068647,null,null,null,270,null],
 	[1761623609,25,1,25.0,320,null],
+	[1761709989,25,1,25.0,320,null],
 ]};
