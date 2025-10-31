@@ -1214,4 +1214,5 @@ profiles["jaktodaleko"] = {
 	[1761622961,null,82,null,null,null],
 	[1761709350,null,83,null,null,null],
 	[1761795750,null,83,null,null,null],
+	[1761882153,null,80,null,null,null],
 ]};
