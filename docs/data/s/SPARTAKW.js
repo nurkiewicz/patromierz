@@ -157,4 +157,5 @@ profiles["SPARTAKW"] = {
 	[1761796382,30,null,null,650,null],
 	[1761882785,30,null,null,650,null],
 	[1761969198,30,null,null,650,null],
+	[1762055600,30,null,null,650,null],
 ]};
