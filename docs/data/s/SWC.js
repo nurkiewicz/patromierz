@@ -3,4 +3,5 @@ profiles["SWC"] = {
 "name": "Small World Camper",
 "snapshots": [
 	[1762055634,10,1,10.0,10,null],
+	[1762142010,10,1,10.0,10,null],
 ]};
