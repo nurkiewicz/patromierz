@@ -78,4 +78,5 @@ profiles["TygodnikPowszechny"] = {
 	[1761969318,null,87,null,null,null],
 	[1762055721,null,87,null,null,null],
 	[1762142095,null,87,null,null,null],
+	[1762228521,null,88,null,null,null],
 ]};
