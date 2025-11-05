@@ -19,45 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-<script type="text/javascript" src="data/z/zoltenapisy.js"></script>
-<script type="text/javascript" src="data/a/animalhelper.js"></script>
-<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/w/wyrokizabrakmilosci-przybyla.js"></script>
 <script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/p/puchaczowka.js"></script>
-<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/ś/ŚmiemWątpić.js"></script>
+<script type="text/javascript" src="data/a/accantus.js"></script>
 <script type="text/javascript" src="data/s/smok.tajwanski.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/f/forumogadka.js"></script>
+<script type="text/javascript" src="data/a/animalhelper.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
 <script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
 <script type="text/javascript" src="data/r/radiownet.js"></script>
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/ś/ŚmiemWątpić.js"></script>
-<script type="text/javascript" src="data/w/wyrokizabrakmilosci-przybyla.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/k/kgonciarz.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
 <script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/p/popaswpieprz.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/a/accantus.js"></script>
-<script type="text/javascript" src="data/c/cfdkrakow.js"></script>
-<script type="text/javascript" src="data/f/forumogadka.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/p/puchaczowka.js"></script>
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/b/BezSchematu.js"></script>
+<script type="text/javascript" src="data/z/zoltenapisy.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/m/MalgorzaTaOdJezyCzaja.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/PLAKACIARY.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Tetrycy", -3810], ["Nie wiem, ale się dowiem", -1245], ["Radio Nowy Świat", -1110], ["Mateusz Lachowski", -1013], ["Dariusz Rosiak", -830], ["SciFun", -820], ["Po pas w pieprz. Kambodżańska odyseja.", -500], ["WachU", -489], ["Krzysztof Gonciarz", -380], ["Witold Gadowski", -330], ["Śmiem Wątpić", 410], ["ŻÓŁTE NAPISY", 460], ["Fundacja Wzajemnie Pomocni", 480], ["Centrum Formacji Duchowej - Kraków", 500], ["Marta Przybyła", 550], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 560], ["smok tajwański 臺灣龍", 752], ["Animal Helper", 825], ["Dział Zagraniczny", 990], ["Forumogadka", 1025]], 'largest_changes');
+            drawHorizontal([["Tetrycy", -3770], ["Nie wiem, ale się dowiem", -1560], ["Mateusz Lachowski", -1013], ["Radio Nowy Świat", -925], ["Dariusz Rosiak", -850], ["SciFun", -820], ["Damian Duda", -660], ["PLAKACIARY", -520], ["WachU", -519], ["Dolnośląski Inspektorat Ochrony Zwierząt", -415], ["MałgorzaTa Od Jeży Czaja", 395], ["Bez/Schematu", 400], ["Śmiem Wątpić", 420], ["ŻÓŁTE NAPISY", 485], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 500], ["Marta Przybyła", 550], ["smok tajwański 臺灣龍", 752], ["Animal Helper", 825], ["Forumogadka", 875], ["Dział Zagraniczny", 880]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

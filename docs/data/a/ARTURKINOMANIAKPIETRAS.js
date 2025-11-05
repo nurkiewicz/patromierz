@@ -325,4 +325,5 @@ profiles["ARTURKINOMANIAKPIETRAS"] = {
 	[1762054580,null,50,null,null,null],
 	[1762140979,null,50,null,null,null],
 	[1762227380,null,50,null,null,null],
+	[1762313779,null,49,null,null,null],
 ]};
