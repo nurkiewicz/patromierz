@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["KDA"] = {
-"name": "Kolektyw Dziennikarstwa Aktywistycznego",
+"name": "Kanał Dziennikarstwa Aktywistycznego",
 "snapshots": [
 	[1754188864,50,1,50.0,50,null],
 	[1754275276,50,1,50.0,50,null],
@@ -96,4 +96,5 @@ profiles["KDA"] = {
 	[1762227816,130,4,32.5,1280,-4.0],
 	[1762314218,130,4,32.5,1280,-4.0],
 	[1762400613,130,4,32.5,1290,-4.0],
+	[1762486926,130,4,32.5,1290,-4.0],
 ]};

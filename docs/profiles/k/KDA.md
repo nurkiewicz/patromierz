@@ -1,9 +1,9 @@
 ---
-title: Kolektyw Dziennikarstwa Aktywistycznego | Statystyki patronite.pl | Patromierz
+title: "Kana\u0142 Dziennikarstwa Aktywistycznego | Statystyki patronite.pl | Patromierz"
 
 permalink: /KDA
 ---
 
-# [Kolektyw Dziennikarstwa Aktywistycznego](https://patronite.pl/KDA)
+# [Kanał Dziennikarstwa Aktywistycznego](https://patronite.pl/KDA)
 
 {% include profile.md name="KDA" prefix="k" %}

@@ -3,4 +3,5 @@ profiles["wuszachsapegazy_pl"] = {
 "name": "W Uszach Są Pegazy",
 "snapshots": [
 	[1762401392,44,1,44.0,44,null],
+	[1762487733,44,1,44.0,44,null],
 ]};
