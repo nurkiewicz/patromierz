@@ -3,4 +3,5 @@ profiles["otwartekomiksy"] = {
 "name": "Otwarte Komiksy",
 "snapshots": [
 	[1762487257,30,2,15.0,30,null],
+	[1762573666,50,3,16.66,50,null],
 ]};
