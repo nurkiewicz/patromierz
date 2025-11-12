@@ -19,47 +19,46 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
-<script type="text/javascript" src="data/w/wyrokizabrakmilosci-przybyla.js"></script>
-<script type="text/javascript" src="data/c/CubaMSF.js"></script>
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-<script type="text/javascript" src="data/r/radio357.js"></script>
-<script type="text/javascript" src="data/a/aska-lawicka.js"></script>
-<script type="text/javascript" src="data/p/przyrodniczeaudiobajki.js"></script>
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 <script type="text/javascript" src="data/g/Gadowski.js"></script>
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-<script type="text/javascript" src="data/i/itssleepyzu.js"></script>
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-<script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-<script type="text/javascript" src="data/p/puchaczowka.js"></script>
-<script type="text/javascript" src="data/c/cudotworcy.js"></script>
-<script type="text/javascript" src="data/f/forumogadka.js"></script>
-<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
-<script type="text/javascript" src="data/s/schroniskopegasus.js"></script>
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-<script type="text/javascript" src="data/w/WachU.js"></script>
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-<script type="text/javascript" src="data/c/chlopibaba.js"></script>
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
 <script type="text/javascript" src="data/p/profesor.matczak.js"></script>
-<script type="text/javascript" src="data/r/rfp.js"></script>
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+<script type="text/javascript" src="data/p/przyrodniczeaudiobajki.js"></script>
+<script type="text/javascript" src="data/w/wmiedzyczasie.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/c/Cronica.js"></script>
+<script type="text/javascript" src="data/c/cudotworcy.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/i/itssleepyzu.js"></script>
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/w/WachU.js"></script>
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/s/schroniskopegasus.js"></script>
+<script type="text/javascript" src="data/p/puchaczowka.js"></script>
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+<script type="text/javascript" src="data/w/wyrokizabrakmilosci-przybyla.js"></script>
+<script type="text/javascript" src="data/b/BezSpiny.js"></script>
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/f/forumogadka.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+<script type="text/javascript" src="data/m/marcinstrzyzewskioRosji.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1520], ["Schronisko Pegasus", -1000], ["Fundacja Wzajemnie Pomocni", -840], ["Irmina i Marcin Śliwińscy | CUDO.twórcy", -730], ["WachU", -519], ["Nie wiem, ale się dowiem", -485], ["Dział Zagraniczny", -390], ["Rajdy Formuły Pierwszej", -330], ["Misja Camajuaní", -320], ["Doktor Aśka", -320], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 350], ["Marta Przybyła", 360], ["CHŁOP I BABA", 365], ["Przyrodnicze Audiobajki", 410], ["SleepyZu", 560], ["Forumogadka", 670], ["SciFun", 690], ["Marcin Strzyżewski", 810], ["Profesor Matczak", 935], ["Fundacja DAJ HERBATĘ", 5960]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -1183], ["Schronisko Pegasus", -1000], ["Irmina i Marcin Śliwińscy | CUDO.twórcy", -730], ["Fundacja Wzajemnie Pomocni", -650], ["Cronica", -500], ["Radio Wnet", -500], ["Dział Zagraniczny", -460], ["WachU", -372], ["Dolnośląski Inspektorat Ochrony Zwierząt", -370], ["Bez Spiny", -320], ["Marta Przybyła", 360], ["Przyrodnicze Audiobajki", 480], ["Damian Duda", 525], ["Ośrodek Leczenia i Rehabilitacji Dzikich Zwierząt \"Puchaczówka\"", 530], ["SleepyZu", 560], ["SciFun", 669], ["Forumogadka", 685], ["Marcin Strzyżewski", 810], ["Profesor Matczak", 1135], ["Fundacja DAJ HERBATĘ", 6470]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

@@ -3,4 +3,5 @@ profiles["galicyjskiedrzewo"] = {
 "name": "galicyjskie_drzewo",
 "snapshots": [
 	[1762832383,100,1,100.0,100,null],
+	[1762918754,100,1,100.0,100,null],
 ]};
