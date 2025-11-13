@@ -91,4 +91,5 @@ profiles["bizneszklasnieciem"] = {
 	[1762659328,10,1,10.0,30,null],
 	[1762832141,10,1,10.0,30,null],
 	[1762918523,null,1,null,30,null],
+	[1763004923,null,1,null,30,null],
 ]};
