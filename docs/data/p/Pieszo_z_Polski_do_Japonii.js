@@ -4,4 +4,5 @@ profiles["Pieszo_z_Polski_do_Japonii"] = {
 "snapshots": [
 	[1762919318,50,1,50.0,50,null],
 	[1763005709,50,1,50.0,50,null],
+	[1763092089,50,1,50.0,50,null],
 ]};
