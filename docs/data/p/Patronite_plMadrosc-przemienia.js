@@ -4,4 +4,5 @@ profiles["Patronite_plMadrosc-przemienia"] = {
 "snapshots": [
 	[1763092069,300,2,150.0,5627,null],
 	[1763178504,300,2,150.0,5627,null],
+	[1763264899,300,2,150.0,5627,null],
 ]};
