@@ -92,4 +92,5 @@ profiles["puszatek"] = {
 	[1763178636,10,2,5.0,60,null],
 	[1763265031,null,2,null,60,null],
 	[1763351412,null,2,null,60,null],
+	[1763438078,null,1,null,60,null],
 ]};
