@@ -1,9 +1,10 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PodZaglamiPrzezSwiat"] = {
-"name": "Pod żaglami przez świat - @we.sail.theworld",
+"name": "Pod Żaglami Przez Świat - @we.sail.theworld",
 "snapshots": [
 	[1763437990,1200,18,66.66,81690,null],
 	[1763524187,1200,18,66.66,81790,null],
 	[1763610588,1200,17,70.58,81790,null],
 	[1763696984,1200,17,70.58,81790,null],
+	[1763783468,1200,17,70.58,81950,null],
 ]};
