@@ -39,4 +39,5 @@ profiles["DariaAsmr"] = {
 	[1763696237,50,null,null,50,null],
 	[1763782706,50,null,null,50,null],
 	[1763869037,50,null,null,50,null],
+	[1763955414,50,1,50.0,100,null],
 ]};
