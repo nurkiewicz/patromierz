@@ -3,4 +3,5 @@ profiles["nadbugiemkwiatki"] = {
 "name": "Nad Bugiem Kwiatki - OGRÓD- WEBINARY - WARSZTATY- KURSY",
 "snapshots": [
 	[1764388008,15,1,15.0,15,null],
+	[1764474757,45,2,22.5,45,null],
 ]};
