@@ -1,9 +1,9 @@
 ---
-title: =|PoLSkIE|SwirY|= | Statystyki patronite.pl | Patromierz
+title: POLSKIE SWIRY XPSAVE. | Statystyki patronite.pl | Patromierz
 
 permalink: /SwiryET
 ---
 
-# [=|PoLSkIE|SwirY|=](https://patronite.pl/SwiryET)
+# [POLSKIE SWIRY XPSAVE.](https://patronite.pl/SwiryET)
 
 {% include profile.md name="SwiryET" prefix="s" %}

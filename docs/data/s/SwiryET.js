@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["SwiryET"] = {
-"name": "=|PoLSkIE|SwirY|=",
+"name": "POLSKIE SWIRY XPSAVE.",
 "snapshots": [
 	[1614902400,44,6,7.33,777,null],
 	[1643351133,70,8,8.75,1519,null],
@@ -1042,4 +1042,5 @@ profiles["SwiryET"] = {
 	[1740804595,null,11,null,null,null],
 	[1740890896,null,11,null,null,null],
 	[1740977333,null,11,null,null,null],
+	[1764906828,null,14,null,null,null],
 ]};
