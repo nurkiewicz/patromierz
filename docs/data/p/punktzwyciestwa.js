@@ -837,4 +837,5 @@ profiles["punktzwyciestwa"] = {
 	[1764733844,null,1,null,19695,-1.0],
 	[1764820237,null,1,null,19695,-1.0],
 	[1764906668,null,1,null,19695,-1.0],
+	[1764993049,null,1,null,19695,null],
 ]};
