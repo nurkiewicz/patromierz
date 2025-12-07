@@ -1,0 +1,10 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["okiniepl"] = {
+"name": "O kinie",
+"snapshots": [
+	[1764733669,40,2,20.0,40,null],
+	[1764820063,40,2,20.0,40,null],
+	[1764906491,40,2,20.0,40,null],
+	[1764992873,40,2,20.0,40,null],
+	[1765079359,40,2,20.0,40,null],
+]};
