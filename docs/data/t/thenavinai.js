@@ -1,0 +1,25 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["thenavinai"] = {
+"name": "TheNavinAI",
+"snapshots": [
+	[1743993958,310,null,null,315,null],
+	[1745549261,585,null,null,605,null],
+	[1745635617,585,null,null,605,null],
+	[1745808386,630,null,null,650,null],
+	[1745894828,645,null,null,775,null],
+	[1745981277,645,null,null,905,null],
+	[1746067649,645,null,null,910,null],
+	[1746153967,655,null,null,920,null],
+	[1746240399,660,null,null,935,null],
+	[1746326798,670,null,null,945,null],
+	[1746413192,690,null,null,965,null],
+	[1746586023,710,null,null,1050,null],
+	[1746672366,730,null,null,1110,null],
+	[1746758834,735,null,null,1125,null],
+	[1746931581,745,null,null,1150,null],
+	[1747104355,800,null,null,1215,null],
+	[1747881975,925,null,null,1505,null],
+	[1747968415,955,null,null,1565,null],
+	[1748141192,960,null,null,null,null],
+	[1748313991,1045,null,null,null,null],
+]};
