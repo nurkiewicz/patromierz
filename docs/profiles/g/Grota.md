@@ -1,0 +1,9 @@
+---
+title: Stowarzyszenie Grota | Statystyki patronite.pl | Patromierz
+
+permalink: /Grota
+---
+
+# [Stowarzyszenie Grota](https://patronite.pl/Grota)
+
+{% include profile.md name="Grota" prefix="g" %}

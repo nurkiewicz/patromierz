@@ -1,0 +1,27 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["akwasfera"] = {
+"name": "Ewelina Ura-Kamińska",
+"snapshots": [
+	[1643364294,null,null,null,50,null],
+	[1643430401,null,null,null,50,null],
+	[1643513074,null,null,null,50,null],
+	[1643606970,null,null,null,50,null],
+	[1643687872,null,null,null,50,null],
+	[1643771291,null,null,null,50,null],
+	[1643861051,null,null,null,50,null],
+	[1643947512,null,null,null,50,null],
+	[1644033967,null,null,null,50,null],
+	[1644120691,null,null,null,50,null],
+	[1644206809,null,null,null,50,null],
+	[1644293314,null,null,null,50,null],
+	[1644379464,null,null,null,50,null],
+	[1644466047,null,null,null,50,null],
+	[1644552491,null,null,null,50,null],
+	[1644638856,null,null,null,50,null],
+	[1644725329,null,null,null,50,null],
+	[1644811690,null,null,null,50,null],
+	[1644897977,null,null,null,50,null],
+	[1644984415,null,null,null,50,null],
+	[1645070876,null,null,null,50,null],
+	[1645157050,null,null,null,50,null],
+]};
