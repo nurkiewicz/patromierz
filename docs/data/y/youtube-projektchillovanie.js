@@ -4,4 +4,5 @@ profiles["youtube-projektchillovanie"] = {
 "snapshots": [
 	[1765079920,20,1,20.0,20,null],
 	[1765166229,20,1,20.0,20,null],
+	[1765252708,20,1,20.0,20,null],
 ]};

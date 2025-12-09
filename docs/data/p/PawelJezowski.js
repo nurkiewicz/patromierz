@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PawelJezowski"] = {
-"name": "Paweł Jeżowski▪️Zbudujmy wspólnie największe gospodarcze medium w Polsce.",
+"name": "Paweł Jeżowski▪️Kremlinka Show▪️Zbudujmy wspólnie największe gospodarcze medium w Polsce.",
 "snapshots": [
 	[1685594473,40,2,20.0,40,null],
 	[1685680486,40,2,20.0,40,null],
