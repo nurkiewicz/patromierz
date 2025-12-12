@@ -14,4 +14,5 @@ profiles["KaPe"] = {
 	[1765251799,100,2,50.0,100,null],
 	[1765338207,null,2,null,null,null],
 	[1765424582,null,2,null,null,null],
+	[1765511007,null,2,null,null,null],
 ]};
