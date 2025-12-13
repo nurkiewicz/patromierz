@@ -71,4 +71,5 @@ profiles["lukaszbak"] = {
 	[1648961757,null,null,null,15,null],
 	[1649048127,null,null,null,15,null],
 	[1649070315,null,null,null,15,null],
+	[1765597565,25,1,25.0,40,null],
 ]};
