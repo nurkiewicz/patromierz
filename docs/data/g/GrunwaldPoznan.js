@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["GrunwaldPoznan"] = {
-"name": "WKS Grunwald Poznań",
+"name": "Enea WKS Grunwald Poznań",
 "snapshots": [
 	[1688783229,400,2,200.0,400,null],
 	[1688869826,400,2,200.0,400,null],
@@ -586,4 +586,5 @@ profiles["GrunwaldPoznan"] = {
 	[1754275178,450,4,112.5,23160,-1.0],
 	[1754534363,450,4,112.5,23160,-1.0],
 	[1754793563,450,4,112.5,23360,-1.0],
+	[1765770061,300,3,100.0,24310,-1.0],
 ]};

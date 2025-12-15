@@ -183,4 +183,5 @@ profiles["Kostiumologika"] = {
 	[1765511062,null,1,null,60,null],
 	[1765597483,null,1,null,60,null],
 	[1765683836,10,1,10.0,70,null],
+	[1765770241,10,1,10.0,70,null],
 ]};
