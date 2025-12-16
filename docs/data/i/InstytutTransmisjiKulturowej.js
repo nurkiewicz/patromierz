@@ -90,4 +90,5 @@ profiles["InstytutTransmisjiKulturowej"] = {
 	[1765597363,null,1,null,1800,-11.0],
 	[1765683721,null,1,null,1800,-11.0],
 	[1765770125,null,1,null,1800,-11.0],
+	[1765856511,null,1,null,1800,null],
 ]};
