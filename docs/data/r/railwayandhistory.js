@@ -127,4 +127,5 @@ profiles["railwayandhistory"] = {
 	[1765770730,20,null,null,80,null],
 	[1765857106,20,null,null,80,null],
 	[1765943535,20,1,20.0,100,null],
+	[1766029902,20,1,20.0,100,null],
 ]};
