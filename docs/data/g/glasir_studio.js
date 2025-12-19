@@ -47,4 +47,5 @@ profiles["glasir_studio"] = {
 	[1765856422,null,1,null,20,null],
 	[1765942842,null,1,null,20,null],
 	[1766029222,null,1,null,20,null],
+	[1766115619,null,1,null,20,null],
 ]};
