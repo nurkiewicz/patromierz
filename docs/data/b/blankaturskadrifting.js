@@ -9,5 +9,4 @@ profiles["blankaturskadrifting"] = {
 	[1703298543,90,3,30.0,null,null],
 	[1703385051,1405,215,6.53,null,null],
 	[1703557754,2535,143,17.72,null,null],
-	[1703644155,11908,512,23.25,null,null],
 ]};

@@ -9,5 +9,4 @@ profiles["czerwozmanchesteru"] = {
 	[1703299877,90,3,30.0,null,null],
 	[1703386379,1405,215,6.53,null,null],
 	[1703559101,90,3,30.0,null,null],
-	[1703645480,13205,689,19.16,null,null],
 ]};
