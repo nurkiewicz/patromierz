@@ -186,4 +186,5 @@ profiles["beeconomia"] = {
 	[1766115350,null,2,null,940,-4.0],
 	[1766201780,null,2,null,940,-4.0],
 	[1766309243,null,1,null,940,null],
+	[1766374549,null,1,null,940,null],
 ]};
