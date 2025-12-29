@@ -3,4 +3,5 @@ profiles["kuba_letek"] = {
 "name": "Weterynaria: Instrukcja Przetrwania",
 "snapshots": [
 	[1766893472,490,7,70.0,490,null],
+	[1766979867,670,11,60.9,670,null],
 ]};

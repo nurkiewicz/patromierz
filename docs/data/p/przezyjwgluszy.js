@@ -94,4 +94,5 @@ profiles["przezyjwgluszy"] = {
 	[1665983855,20,null,null,60,null],
 	[1666070333,20,null,null,60,null],
 	[1766893896,80,1,80.0,140,null],
+	[1766980282,80,1,80.0,140,null],
 ]};
