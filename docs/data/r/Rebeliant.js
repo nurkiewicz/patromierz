@@ -465,4 +465,5 @@ profiles["Rebeliant"] = {
 	[1691125547,null,1,null,128,null],
 	[1691211631,null,1,null,128,null],
 	[1691298649,null,1,null,128,null],
+	[1767498763,100,1,100.0,100,null],
 ]};
