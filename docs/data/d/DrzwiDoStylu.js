@@ -1262,4 +1262,5 @@ profiles["DrzwiDoStylu"] = {
 	[1767411522,null,121,null,null,null],
 	[1767497907,null,120,null,null,null],
 	[1767584310,null,120,null,null,null],
+	[1767670717,null,118,null,null,null],
 ]};
