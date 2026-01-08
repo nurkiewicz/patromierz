@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["modkonopiska"] = {
+"name": "Młodzieżowa Orkiestra Dęta Konopiska",
+"snapshots": [
+	[1767844107,10,1,10.0,10,null],
+]};

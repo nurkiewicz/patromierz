@@ -198,4 +198,5 @@ profiles["WyscigoweHistorie"] = {
 	[1767585671,null,1,null,160,-1.0],
 	[1767671918,null,1,null,160,-1.0],
 	[1767758521,null,1,null,160,-1.0],
+	[1767844811,null,1,null,160,-1.0],
 ]};

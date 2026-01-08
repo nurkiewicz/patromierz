@@ -1200,4 +1200,5 @@ profiles["Teatr_YETA"] = {
 	[1767585477,10,1,10.0,1880,null],
 	[1767671730,10,null,null,1880,null],
 	[1767758329,10,null,null,1880,null],
+	[1767844608,10,null,null,1880,null],
 ]};
