@@ -26,4 +26,5 @@ profiles["fundacjahimalaizmupolskiego"] = {
 	[1767670819,45,2,22.5,null,null],
 	[1767757314,45,2,22.5,null,null],
 	[1767843644,45,2,22.5,null,null],
+	[1767930021,45,2,22.5,null,null],
 ]};
