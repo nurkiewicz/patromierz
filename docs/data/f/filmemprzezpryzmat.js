@@ -587,4 +587,5 @@ profiles["filmemprzezpryzmat"] = {
 	[1767757262,null,1,null,1675,-4.0],
 	[1767843607,null,1,null,1675,-4.0],
 	[1767929986,null,1,null,1675,-4.0],
+	[1768102773,null,1,null,1675,-3.0],
 ]};
