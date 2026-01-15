@@ -4,4 +4,5 @@ profiles["facebook_comWarriorsWarszawa"] = {
 "snapshots": [
 	[1768275591,20,1,20.0,20,null],
 	[1768361981,50,2,25.0,50,null],
+	[1768448383,120,3,40.0,120,null],
 ]};
