@@ -1107,4 +1107,5 @@ profiles["chrzescijanskienauczania"] = {
 	[1768621049,200,null,null,18185,null],
 	[1768707432,200,null,null,18185,null],
 	[1768793838,200,null,null,18185,null],
+	[1768880260,200,null,null,18185,null],
 ]};
