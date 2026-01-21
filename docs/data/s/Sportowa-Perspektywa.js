@@ -1258,4 +1258,5 @@ profiles["Sportowa-Perspektywa"] = {
 	[1768708495,null,8,null,null,null],
 	[1768794907,null,8,null,null,null],
 	[1768881502,null,8,null,null,null],
+	[1768967817,null,8,null,null,null],
 ]};
