@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["foodandtravels-eu"] = {
-"name": "Michał Milewski Szef Kuchni / FoodAndTravels.eu",
+"name": "Michał Milewski Szef Kuchni / Akademia Kulinarna FoodAndTravels.eu",
 "snapshots": [
 	[1738314725,20,1,20.0,100,null],
 	[1738382658,20,1,20.0,100,null],
