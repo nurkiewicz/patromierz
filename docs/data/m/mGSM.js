@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["mGSM"] = {
+"name": "mGSM.pl",
+"snapshots": [
+	[1769226431,10,1,10.0,10,null],
+]};

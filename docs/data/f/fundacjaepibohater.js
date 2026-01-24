@@ -240,4 +240,5 @@ profiles["fundacjaepibohater"] = {
 	[1768966839,null,1,null,800,-3.0],
 	[1769053229,null,1,null,800,-3.0],
 	[1769139637,null,1,null,800,-3.0],
+	[1769226021,null,1,null,800,-3.0],
 ]};
