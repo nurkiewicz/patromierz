@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["dawidmysior"] = {
-"name": "Dawid Mysior SPRAWKI OKIEM KATOLIKA",
+"name": "Dawid Mysior | SPRAWKI OKIEM KATOLIKA",
 "snapshots": [
 	[1613088000,null,114,null,null,null],
 	[1649131297,null,465,null,null,null],
@@ -1121,4 +1121,5 @@ profiles["dawidmysior"] = {
 	[1769225877,null,453,null,null,null],
 	[1769312288,null,453,null,null,null],
 	[1769398683,null,454,null,null,null],
+	[1769485074,null,456,null,null,null],
 ]};
