@@ -91,4 +91,5 @@ profiles["CamelsonArt"] = {
 	[1769312221,30,1,30.0,null,null],
 	[1769398617,30,1,30.0,null,null],
 	[1769485010,30,1,30.0,null,null],
+	[1769571424,null,1,null,null,-1.0],
 ]};
