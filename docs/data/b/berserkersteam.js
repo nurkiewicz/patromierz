@@ -3,4 +3,5 @@ profiles["berserkersteam"] = {
 "name": "DAAS Berserkers Team Bielsko-Biała",
 "snapshots": [
 	[1770089768,746,4,186.5,746,null],
+	[1770176152,746,4,186.5,746,null],
 ]};
