@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["cudotworcy"] = {
-"name": "Irmina i Marcin Śliwińscy | CUDO.twórcy",
+"name": "Irmina i Marcin Śliwińscy | Fundacja CUDO.twórcy",
 "snapshots": [
 	[1699411660,340,8,42.5,340,null],
 	[1699498007,390,9,43.33,390,null],
@@ -598,4 +598,5 @@ profiles["cudotworcy"] = {
 	[1770003444,2170,41,52.92,54460,-1.0],
 	[1770089848,2170,41,52.92,54560,-1.0],
 	[1770176231,2170,40,54.25,54810,-1.0],
+	[1770262660,2170,40,54.25,54820,null],
 ]};

@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["nadbugiemkwiatki"] = {
-"name": "Nad Bugiem Kwiatki - OGRÓD- WEBINARY - WARSZTATY- KURSY",
+"name": "Nad Bugiem Kwiatki - OGRÓD- FARMA KWIATOWA I EDUKACYJNA",
 "snapshots": [
 	[1764388008,15,1,15.0,15,null],
 	[1764474757,45,2,22.5,45,null],
@@ -69,4 +69,5 @@ profiles["nadbugiemkwiatki"] = {
 	[1770004096,330,9,36.66,670,3.0],
 	[1770090504,330,9,36.66,800,3.0],
 	[1770176875,330,9,36.66,800,3.0],
+	[1770263340,460,11,41.81,930,7.0],
 ]};
