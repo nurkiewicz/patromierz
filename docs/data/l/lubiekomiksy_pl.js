@@ -706,4 +706,5 @@ profiles["lubiekomiksy_pl"] = {
 	[1770090349,null,1,null,315,null],
 	[1770176723,null,1,null,315,null],
 	[1770263180,null,1,null,315,null],
+	[1770349546,null,1,null,315,null],
 ]};
