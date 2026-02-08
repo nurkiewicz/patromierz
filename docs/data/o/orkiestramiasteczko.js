@@ -4,4 +4,5 @@ profiles["orkiestramiasteczko"] = {
 "snapshots": [
 	[1770349788,20,1,20.0,20,null],
 	[1770436248,70,2,35.0,70,null],
+	[1770522601,100,3,33.33,100,null],
 ]};
