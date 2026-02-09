@@ -25,4 +25,5 @@ profiles["jestsens"] = {
 	[1770349382,100,6,16.66,100,null],
 	[1770435797,null,6,null,null,null],
 	[1770522193,null,6,null,null,null],
+	[1770608610,null,6,null,null,null],
 ]};
