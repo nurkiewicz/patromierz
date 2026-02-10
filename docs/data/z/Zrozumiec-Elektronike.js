@@ -1103,4 +1103,5 @@ profiles["Zrozumiec-Elektronike"] = {
 	[1770436893,null,1450,null,null,null],
 	[1770523222,null,1452,null,null,null],
 	[1770609702,null,1452,null,null,null],
+	[1770696020,null,1453,null,null,null],
 ]};

@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["ewangeliainietylko"] = {
-"name": "wiktor",
+"name": "Ewangelia i nie tylko",
 "snapshots": [
 	[1768102748,10,1,10.0,10,null],
 	[1768189161,10,1,10.0,10,null],
@@ -32,4 +32,5 @@ profiles["ewangeliainietylko"] = {
 	[1770435569,10,1,10.0,10,null],
 	[1770521966,10,1,10.0,10,null],
 	[1770608380,10,1,10.0,10,null],
+	[1770694768,10,1,10.0,20,null],
 ]};
