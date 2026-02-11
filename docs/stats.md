@@ -20,7 +20,9 @@ Ostatnie 7 dni.
 
 <div id="biggest_drops" class="chart"></div>
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2/dist/chartjs-plugin-zoom.min.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
 
 
