@@ -188,4 +188,5 @@ profiles["michalmisko_pl"] = {
 	[1770522448,null,80,null,null,null],
 	[1770608890,null,80,null,null,null],
 	[1770695249,null,80,null,null,null],
+	[1770781663,null,79,null,null,null],
 ]};
