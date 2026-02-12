@@ -21,7 +21,7 @@ profiles["czlowiek_artysta"] = {
 	[1644726601,null,null,null,110,null],
 	[1644812987,null,null,null,110,null],
 	[1644899238,null,null,null,110,null],
-	[1644985678,null,null,null,110,null],
+	[1644985677,null,null,null,110,null],
 	[1645072147,null,null,null,110,null],
 	[1645158289,null,null,null,110,null],
 	[1645244752,null,null,null,110,null],

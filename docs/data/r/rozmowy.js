@@ -41,7 +41,7 @@ profiles["rozmowy"] = {
 	[1646461766,null,null,null,690,null],
 	[1646548259,null,null,null,690,null],
 	[1646634095,null,null,null,690,null],
-	[1646720889,null,null,null,690,null],
+	[1646720888,null,null,null,690,null],
 	[1646807802,null,null,null,690,null],
 	[1646893875,null,null,null,690,null],
 	[1646984976,null,null,null,690,null],
