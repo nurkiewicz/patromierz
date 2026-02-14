@@ -125,4 +125,5 @@ profiles["krasowskapogodzinach"] = {
 	[1770781503,10,1,10.0,40,null],
 	[1770886519,null,1,null,40,null],
 	[1770954534,null,1,null,40,null],
+	[1771040740,null,1,null,40,null],
 ]};
