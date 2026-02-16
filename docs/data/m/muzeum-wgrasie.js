@@ -3,4 +3,5 @@ profiles["muzeum-wgrasie"] = {
 "name": "Piotr Potera",
 "snapshots": [
 	[1771127430,340,5,68.0,960,null],
+	[1771213747,340,5,68.0,960,null],
 ]};
