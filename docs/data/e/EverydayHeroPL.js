@@ -1139,4 +1139,5 @@ profiles["EverydayHeroPL"] = {
 	[1771040395,null,194,null,null,null],
 	[1771126823,null,193,null,null,null],
 	[1771213172,null,192,null,null,null],
+	[1771299578,null,192,null,null,null],
 ]};
