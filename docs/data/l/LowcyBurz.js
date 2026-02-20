@@ -850,4 +850,5 @@ profiles["LowcyBurz"] = {
 	[1771299980,565,28,20.17,null,3.0],
 	[1771386438,null,29,null,null,null],
 	[1771472763,null,29,null,null,null],
+	[1771559211,null,29,null,null,null],
 ]};
