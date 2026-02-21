@@ -65,4 +65,5 @@ profiles["AkademiaChojniczanki"] = {
 	[1771385701,150,1,150.0,300,null],
 	[1771472085,150,1,150.0,300,null],
 	[1771558504,150,null,null,300,null],
+	[1771644885,150,null,null,300,null],
 ]};
