@@ -26,124 +26,118 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="js/chart.js"></script>
 
 
-<script type="text/javascript" src="data/f/FundacjaNautilus.js"></script>
+<script type="text/javascript" src="data/t/TomekTV.js"></script>
 
-<script type="text/javascript" src="data/p/pmm.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
 
-<script type="text/javascript" src="data/m/marekczyz.js"></script>
+<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
 
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/m/michalmarszal.js"></script>
 
-<script type="text/javascript" src="data/k/K3.js"></script>
-
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
 
 <script type="text/javascript" src="data/l/lesnepogotowie.js"></script>
 
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
+
+<script type="text/javascript" src="data/k/K3.js"></script>
 
 <script type="text/javascript" src="data/p/podcastex.js"></script>
 
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
 
-<script type="text/javascript" src="data/h/halogorlice-info.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
 
-<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
+
+<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
+
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
 
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 
-<script type="text/javascript" src="data/p/Profesorchris.js"></script>
+<script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
 
-<script type="text/javascript" src="data/g/globstory.js"></script>
+<script type="text/javascript" src="data/b/BliskoRahamim.js"></script>
 
-<script type="text/javascript" src="data/s/skadinad.js"></script>
+<script type="text/javascript" src="data/h/Hillsdoyou.js"></script>
 
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 
-<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
+<script type="text/javascript" src="data/r/racepace.js"></script>
 
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/r/radiownet.js"></script>
 
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+<script type="text/javascript" src="data/h/halogorlice-info.js"></script>
 
 <script type="text/javascript" src="data/m/marcinzielinski.js"></script>
 
-<script type="text/javascript" src="data/h/Hillsdoyou.js"></script>
+<script type="text/javascript" src="data/g/globstory.js"></script>
+
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
 
 <script type="text/javascript" src="data/o/outriders.js"></script>
 
-<script type="text/javascript" src="data/t/TomekTV.js"></script>
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
 
-<script type="text/javascript" src="data/s/skazaninapogon.js"></script>
-
-<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
-
-<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
 
 <script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 
-<script type="text/javascript" src="data/r/radiownet.js"></script>
+<script type="text/javascript" src="data/f/FundacjaMDC.js"></script>
+
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+
+<script type="text/javascript" src="data/j/Jakimowicz.js"></script>
 
 <script type="text/javascript" src="data/v/VirtualDream.js"></script>
 
 <script type="text/javascript" src="data/r/radioem.js"></script>
 
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-
 <script type="text/javascript" src="data/m/motoambulans.js"></script>
 
-<script type="text/javascript" src="data/b/BliskoRahamim.js"></script>
-
-<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
-
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
-
-<script type="text/javascript" src="data/r/racepace.js"></script>
-
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-
-<script type="text/javascript" src="data/d/darwin.js"></script>
-
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
-
-<script type="text/javascript" src="data/f/FundacjaMDC.js"></script>
-
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-
-<script type="text/javascript" src="data/j/Jakimowicz.js"></script>
-
-<script type="text/javascript" src="data/u/ubogapodcast.js"></script>
-
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
-
-<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
-
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
-
-<script type="text/javascript" src="data/m/michalmarszal.js"></script>
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
 
 <script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
 
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/r/radio357.js"></script>
+
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+
+<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
+
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+
+<script type="text/javascript" src="data/p/pmm.js"></script>
+
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+
+<script type="text/javascript" src="data/m/marekczyz.js"></script>
+
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+
+<script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
+
+<script type="text/javascript" src="data/s/skadinad.js"></script>
 
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -1305], ["Nie wiem, ale się dowiem", -805], ["UBoga Podcast | Karolina Sarniewicz", -700], ["Podcast Wojenne Historie", -585], ["Profesor Chris", -500], ["TomekTV", -500], ["Informacyjny Portal Internetowy halogorlice.info ", -500], ["SOWINSKY", -422], ["Szkoła PitagoLasa", -390], ["Sekielski Brothers Studio", -355], ["Skazani Na Pogoń", 305], ["Leśne Pogotowie Jacka Wąsińskiego", 335], ["Pogłębiarka", 350], ["Blisko Rahamim", 375], ["SKĄDINĄD. Podcast Tomasza Stawiszyńskiego", 410], ["Fundacja Nautilus", 465], ["RACE PACE - podcasty o bieganiu", 604], ["Hillsdoyou", 620], ["Fundacja Mały Duży Człowiek", 850], ["Marcin Jakimowicz", 900]], 'largest_changes');
+            drawHorizontal([["Mateusz Lachowski", -1126], ["Radio Nowy Świat", -1030], ["UBoga Podcast | Karolina Sarniewicz", -700], ["Nie wiem, ale się dowiem", -590], ["TomekTV", -500], ["Informacyjny Portal Internetowy halogorlice.info ", -500], ["Podcast Wojenne Historie", -490], ["SOWINSKY", -398], ["Sekielski Brothers Studio", -390], ["Life On Wheelz - Influencer z Misją", -370], ["Fundacja DAJ HERBATĘ", 345], ["SciFun", 367], ["Leśne Pogotowie Jacka Wąsińskiego", 380], ["Blisko Rahamim", 385], ["SKĄDINĄD. Podcast Tomasza Stawiszyńskiego", 430], ["RACE PACE - podcasty o bieganiu", 479], ["Fundacja po DRUGIE", 490], ["Hillsdoyou", 565], ["Marcin Jakimowicz", 750], ["Fundacja Mały Duży Człowiek", 935]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
