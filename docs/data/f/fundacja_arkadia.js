@@ -36,4 +36,5 @@ profiles["fundacja_arkadia"] = {
 	[1761882016,15,null,null,15,null],
 	[1761968419,15,null,null,15,null],
 	[1772358735,15,1,15.0,30,null],
+	[1772422898,15,1,15.0,30,null],
 ]};

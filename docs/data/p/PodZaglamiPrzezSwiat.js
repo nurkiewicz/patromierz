@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["PodZaglamiPrzezSwiat"] = {
-"name": "Pod Żaglami Przez Świat - @we.sail.theworld",
+"name": "Pod Żaglami Przez Świat - @sailing.crystal",
 "snapshots": [
 	[1763437990,1200,18,66.66,81690,null],
 	[1763524187,1200,18,66.66,81790,null],
@@ -104,4 +104,5 @@ profiles["PodZaglamiPrzezSwiat"] = {
 	[1772078018,1170,16,73.12,85470,null],
 	[1772164422,1170,16,73.12,85720,null],
 	[1772359438,1170,16,73.12,85970,null],
+	[1772423638,1170,16,73.12,85970,null],
 ]};
