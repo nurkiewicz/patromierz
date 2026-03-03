@@ -1332,4 +1332,5 @@ profiles["JakubJuszynski"] = {
 	[1771645414,35,null,null,3930,null],
 	[1771731798,35,null,null,3930,null],
 	[1771818180,35,null,null,3930,null],
+	[1772509448,35,1,35.0,3965,null],
 ]};
