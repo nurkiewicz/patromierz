@@ -1,9 +1,9 @@
 ---
-title: namzalezy.pl | Statystyki patronite.pl | Patromierz
+title: "Nam Zale\u017Cy | Statystyki patronite.pl | Patromierz"
 
 permalink: /namzalezy
 ---
 
-# [namzalezy.pl](https://patronite.pl/namzalezy)
+# [Nam Zależy](https://patronite.pl/namzalezy)
 
 {% include profile.md name="namzalezy" prefix="n" %}

@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["namzalezy"] = {
-"name": "namzalezy.pl",
+"name": "Nam Zależy",
 "snapshots": [
 	[1582070400,1763,71,24.83,null,null],
 	[1607126400,null,81,null,null,null],
