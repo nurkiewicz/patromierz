@@ -26,118 +26,118 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="js/chart.js"></script>
 
 
-<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/h/historiarealna.js"></script>
 
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
 
-<script type="text/javascript" src="data/m/marekczyz.js"></script>
-
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-
-<script type="text/javascript" src="data/m/michalmarszal.js"></script>
-
-<script type="text/javascript" src="data/j/jazdow.js"></script>
-
-<script type="text/javascript" src="data/r/radioem.js"></script>
-
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-
-<script type="text/javascript" src="data/d/darwin.js"></script>
-
-<script type="text/javascript" src="data/m/madamemonday.js"></script>
-
-<script type="text/javascript" src="data/p/poglebiarka.js"></script>
-
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-
-<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
-
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
-
-<script type="text/javascript" src="data/o/outriders.js"></script>
-
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
-
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
+<script type="text/javascript" src="data/l/lesnepogotowie.js"></script>
 
 <script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 
-<script type="text/javascript" src="data/m/malgosiakozlowska.js"></script>
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 
-<script type="text/javascript" src="data/b/Bog_w_wielkim_miescie.js"></script>
+<script type="text/javascript" src="data/m/mateuszlachowski.js"></script>
+
+<script type="text/javascript" src="data/o/outriders.js"></script>
+
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+
+<script type="text/javascript" src="data/p/poglebiarka.js"></script>
+
+<script type="text/javascript" src="data/t/totylkoteoria.js"></script>
+
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+
+<script type="text/javascript" src="data/r/radio357.js"></script>
+
+<script type="text/javascript" src="data/f/FundacjaMDC.js"></script>
 
 <script type="text/javascript" src="data/p/pmm.js"></script>
 
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
 
-<script type="text/javascript" src="data/h/Hillsdoyou.js"></script>
-
-<script type="text/javascript" src="data/t/totylkoteoria.js"></script>
-
-<script type="text/javascript" src="data/h/historiarealna.js"></script>
-
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-
-<script type="text/javascript" src="data/g/globstory.js"></script>
-
-<script type="text/javascript" src="data/f/FundacjaMDC.js"></script>
-
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-
-<script type="text/javascript" src="data/j/jakubwiech.js"></script>
-
-<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
+<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
 
 <script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 
-<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+
+<script type="text/javascript" src="data/l/Leszek-Korzeniecki.js"></script>
+
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+
+<script type="text/javascript" src="data/p/podcastex.js"></script>
 
 <script type="text/javascript" src="data/k/K3.js"></script>
 
+<script type="text/javascript" src="data/g/globstory.js"></script>
+
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+
+<script type="text/javascript" src="data/j/jazdow.js"></script>
+
+<script type="text/javascript" src="data/a/aldo.js"></script>
+
+<script type="text/javascript" src="data/h/Hillsdoyou.js"></script>
+
 <script type="text/javascript" src="data/s/sekielski.js"></script>
 
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
+<script type="text/javascript" src="data/d/darwin.js"></script>
 
-<script type="text/javascript" src="data/j/Jakimowicz.js"></script>
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
 
 <script type="text/javascript" src="data/t/tetrycy.js"></script>
 
 <script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
 
+<script type="text/javascript" src="data/e/Exen.js"></script>
+
 <script type="text/javascript" src="data/z/zyciewartejestrozmowy.js"></script>
 
-<script type="text/javascript" src="data/l/Leszek-Korzeniecki.js"></script>
+<script type="text/javascript" src="data/m/marekczyz.js"></script>
 
-<script type="text/javascript" src="data/l/lesnepogotowie.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
+
+<script type="text/javascript" src="data/m/malgosiakozlowska.js"></script>
+
+<script type="text/javascript" src="data/m/madamemonday.js"></script>
+
+<script type="text/javascript" src="data/m/mkrajski.js"></script>
+
+<script type="text/javascript" src="data/r/radioem.js"></script>
+
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+
+<script type="text/javascript" src="data/j/jakubwiech.js"></script>
+
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
+
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
 
 <script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
 
-<script type="text/javascript" src="data/r/radio357.js"></script>
+<script type="text/javascript" src="data/m/michalmarszal.js"></script>
 
-<script type="text/javascript" src="data/m/mkrajski.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Radio Nowy Świat", -3185], ["SciFun", -994], ["Radio Wnet", -815], ["Dolnośląski Inspektorat Ochrony Zwierząt", -650], ["Borkoś", -580], ["Jakub Wiech", -533], ["Michał Krajski", -530], ["Fundacja Filar", -520], ["Małgosia Kozłowska", -510], ["Łukasz Sakowski // To Tylko Teoria", -475], ["Fundacja Mały Duży Człowiek", 480], ["Leszek Korzeniecki", 500], ["Katarzyna Olubińska – Godlewska | Bóg w wielkim mieście", 525], ["Leśne Pogotowie Jacka Wąsińskiego", 690], ["Wolny Jazdów", 735], ["Szkoła PitagoLasa", 800], ["Dariusz Rosiak", 805], ["Marcin Jakimowicz", 930], ["Hillsdoyou", 980], ["Virtual Dream - Piotr Łój", 1600]], 'largest_changes');
+            drawHorizontal([["Radio Nowy Świat", -2334], ["Borkoś", -600], ["Radio Wnet", -600], ["Jakub Wiech", -557], ["Dolnośląski Inspektorat Ochrony Zwierząt", -540], ["Fundacja Filar", -505], ["Małgosia Kozłowska", -500], ["Michał Krajski", -500], ["Łukasz Sakowski // To Tylko Teoria", -475], ["K3 podcast Dariusza Bugalskiego", -455], ["Wolny Jazdów", 470], ["Fundacja Mały Duży Człowiek", 480], ["Leszek Korzeniecki", 500], ["Leśne Pogotowie Jacka Wąsińskiego", 570], ["Hillsdoyou", 690], ["Aldona Hartwińska", 775], ["Mateusz Lachowski", 895], ["Przez Świat na Fazie", 975], ["Virtual Dream - Piotr Łój", 2135], ["Exen", 3080]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
