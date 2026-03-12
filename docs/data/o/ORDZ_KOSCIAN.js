@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["ORDZ_KOSCIAN"] = {
-"name": "Ośrodek Rehabilitacji Dzikich Zwierząt w Kościanie",
+"name": "Fundacja Z Dzikiej Strony",
 "snapshots": [
 	[1763005653,60,2,30.0,60,null],
 	[1763092041,70,3,23.33,70,null],
@@ -119,4 +119,5 @@ profiles["ORDZ_KOSCIAN"] = {
 	[1773028278,330,10,33.0,1210,1.0],
 	[1773114704,330,10,33.0,1260,1.0],
 	[1773201065,330,10,33.0,1260,1.0],
+	[1773287489,330,10,33.0,1260,1.0],
 ]};
