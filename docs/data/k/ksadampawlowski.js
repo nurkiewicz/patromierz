@@ -2,7 +2,7 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["ksadampawlowski"] = {
 "name": "ks. Adam Pawłowski",
 "snapshots": [
-	[1703047999,6780,201,33.73,null,null],
+	[1703047999,null,201,null,null,null],
 	[1719114150,10,1,10.0,10,null],
 	[1719199525,10,1,10.0,10,null],
 	[1719286034,10,1,10.0,10,null],
@@ -30,7 +30,7 @@ profiles["ksadampawlowski"] = {
 	[1721187045,10,1,10.0,10,null],
 	[1721359002,10,1,10.0,10,null],
 	[1721445397,10,1,10.0,10,null],
-	[1721531800,10,1,10.0,10,-32.0],
+	[1721531800,10,1,10.0,10,null],
 	[1721618205,null,1,null,10,null],
 	[1721704498,null,1,null,10,null],
 ]};

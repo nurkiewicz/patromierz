@@ -320,4 +320,5 @@ profiles["poranneBASowanie"] = {
 	[1773114828,null,65,null,null,null],
 	[1773201184,null,65,null,null,null],
 	[1773287612,null,65,null,null,null],
+	[1773391153,null,67,null,null,null],
 ]};
