@@ -604,4 +604,5 @@ profiles["kupidura"] = {
 	[1700283534,20,null,null,4330,null],
 	[1700369507,20,null,null,4330,null],
 	[1700455619,20,null,null,4330,null],
+	[1773632674,315,9,35.0,6190,null],
 ]};

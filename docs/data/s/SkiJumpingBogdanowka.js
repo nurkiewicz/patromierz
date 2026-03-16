@@ -4,4 +4,5 @@ profiles["SkiJumpingBogdanowka"] = {
 "snapshots": [
 	[1773460546,35,1,35.0,35,null],
 	[1773547022,35,1,35.0,35,null],
+	[1773633228,35,1,35.0,35,null],
 ]};
