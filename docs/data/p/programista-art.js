@@ -90,4 +90,5 @@ profiles["programista-art"] = {
 	[1773633098,10,1,10.0,30,null],
 	[1773719516,10,1,10.0,30,null],
 	[1773806009,null,1,null,30,null],
+	[1773892567,null,1,null,30,null],
 ]};
