@@ -1150,4 +1150,5 @@ profiles["strzelnicatv"] = {
 	[1773979571,925,null,null,null,-5.0],
 	[1774065328,925,null,null,null,-5.0],
 	[1774151696,925,null,null,null,-5.0],
+	[1774238262,915,null,null,null,-5.0],
 ]};
