@@ -3,4 +3,5 @@ profiles["www_fundacjaprawaojca_pl"] = {
 "name": "Fundacja Prawa Ojca, Fundacja Świadomy Młody",
 "snapshots": [
 	[1774238470,30,1,30.0,30,null],
+	[1774324882,30,1,30.0,30,null],
 ]};
