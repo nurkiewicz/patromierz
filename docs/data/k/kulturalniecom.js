@@ -39,4 +39,5 @@ profiles["kulturalniecom"] = {
 	[1759545854,290,7,41.42,1180,null],
 	[1759632265,290,7,41.42,1180,null],
 	[1774410478,280,null,null,null,null],
+	[1774496741,280,null,null,null,null],
 ]};
