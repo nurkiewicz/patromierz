@@ -4,4 +4,5 @@ profiles["azyldlastarszychpsow"] = {
 "snapshots": [
 	[1774668951,20,2,10.0,20,null],
 	[1774751742,20,2,10.0,20,null],
+	[1774838190,20,2,10.0,20,null],
 ]};
