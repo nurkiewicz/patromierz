@@ -3,4 +3,5 @@ profiles["co_zrobil_posel"] = {
 "name": "Co zrobił poseł",
 "snapshots": [
 	[1775011066,10,1,10.0,10,null],
+	[1775097483,10,1,10.0,10,null],
 ]};
