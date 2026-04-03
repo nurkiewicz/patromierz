@@ -1216,4 +1216,5 @@ profiles["fundacjamm"] = {
 	[1774924901,20,1,20.0,1010,null],
 	[1775011267,20,null,null,1010,null],
 	[1775097839,20,null,null,1010,null],
+	[1775184076,20,null,null,1010,null],
 ]};
