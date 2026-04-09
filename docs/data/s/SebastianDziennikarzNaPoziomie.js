@@ -349,4 +349,5 @@ profiles["SebastianDziennikarzNaPoziomie"] = {
 	[1775444077,10,1,10.0,350,null],
 	[1775530506,10,1,10.0,350,null],
 	[1775616931,null,1,null,350,-1.0],
+	[1775703327,null,1,null,350,-1.0],
 ]};
