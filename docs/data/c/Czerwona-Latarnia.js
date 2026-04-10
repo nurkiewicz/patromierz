@@ -13,4 +13,5 @@ profiles["Czerwona-Latarnia"] = {
 	[1775529483,null,1,null,20,null],
 	[1775615898,null,1,null,20,null],
 	[1775702278,null,1,null,20,null],
+	[1775788714,null,1,null,20,null],
 ]};
