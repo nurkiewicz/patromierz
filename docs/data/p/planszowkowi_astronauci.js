@@ -404,4 +404,5 @@ profiles["planszowkowi_astronauci"] = {
 	[1775616742,null,3,null,null,null],
 	[1775703138,null,3,null,null,null],
 	[1775789668,null,3,null,null,null],
+	[1775876098,null,2,null,null,null],
 ]};

@@ -138,4 +138,5 @@ profiles["co_jest_grane"] = {
 	[1775615876,null,1,null,70,-1.0],
 	[1775702257,null,1,null,70,-1.0],
 	[1775788688,null,1,null,70,null],
+	[1775875110,null,1,null,70,null],
 ]};
