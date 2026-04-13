@@ -167,4 +167,5 @@ profiles["PerunRPG"] = {
 	[1775789630,720,4,180.0,3960,-6.0],
 	[1775876067,null,4,null,null,null],
 	[1775962421,null,4,null,null,null],
+	[1776048811,null,4,null,null,null],
 ]};

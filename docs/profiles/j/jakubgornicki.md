@@ -1,9 +1,9 @@
 ---
-title: Outriders | Statystyki patronite.pl | Patromierz
+title: "Jakub G\xF3rnicki | Statystyki patronite.pl | Patromierz"
 
 permalink: /jakubgornicki
 ---
 
-# [Outriders](https://patronite.pl/jakubgornicki)
+# [Jakub Górnicki](https://patronite.pl/jakubgornicki)
 
 {% include profile.md name="jakubgornicki" prefix="j" %}
