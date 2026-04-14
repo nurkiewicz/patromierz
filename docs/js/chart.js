@@ -181,6 +181,56 @@ function drawHorizontal(data, id) {
     });
 }
 
+function drawTimeSeries(data, id, label, format) {
+    const canvas = createCanvas(id);
+    const isCurrency = format === 'currency';
+
+    const chart = new Chart(canvas, {
+        type: 'line',
+        data: {
+            datasets: [{
+                label: label,
+                data: data.map(row => ({ x: new Date(row[0] * 1000), y: row[1] })),
+                borderColor: 'rgb(21, 120, 120)',
+                backgroundColor: 'rgba(21, 120, 120, 0.08)',
+                borderWidth: 1.5,
+                pointRadius: 0,
+                pointHitRadius: 8,
+                tension: 0.15,
+                fill: true
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { mode: 'nearest', intersect: false },
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        tooltipFormat: 'yyyy-MM-dd',
+                        displayFormats: { month: 'MMM yyyy', year: 'yyyy' }
+                    }
+                },
+                y: {
+                    ticks: { callback: isCurrency ? v => currencyFormat(v) : undefined }
+                }
+            },
+            plugins: {
+                legend: { display: false },
+                zoom: zoomOptions,
+                tooltip: {
+                    callbacks: {
+                        label: ctx => label + ': ' + (isCurrency ? currencyFormat(ctx.parsed.y) : new Intl.NumberFormat('pl-PL').format(ctx.parsed.y))
+                    }
+                }
+            }
+        }
+    });
+
+    canvas.addEventListener('dblclick', () => chart.resetZoom());
+}
+
 function makeTable(data) {
     function currencyFormatter(currency) {
         if (!currency) {

@@ -47,7 +47,7 @@ profiles["stormchaserswlkp"] = {
 	[1646985654,null,null,null,180,null],
 	[1647072591,null,null,null,180,null],
 	[1647159043,null,null,null,180,null],
-	[1647245460,null,null,null,180,null],
+	[1647245459,null,null,null,180,null],
 	[1647331811,null,null,null,180,null],
 	[1647418680,null,null,null,180,null],
 	[1647504963,null,null,null,180,null],
