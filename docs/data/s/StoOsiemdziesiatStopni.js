@@ -269,4 +269,5 @@ profiles["StoOsiemdziesiatStopni"] = {
 	[1775962750,null,1,null,1220,-4.0],
 	[1776049133,null,1,null,1220,-4.0],
 	[1776135459,null,1,null,1220,-4.0],
+	[1776221877,null,1,null,1220,-4.0],
 ]};
