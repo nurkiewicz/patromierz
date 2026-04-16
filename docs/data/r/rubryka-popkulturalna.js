@@ -4,4 +4,5 @@ profiles["rubryka-popkulturalna"] = {
 "snapshots": [
 	[1776135340,15,1,15.0,15,null],
 	[1776221767,15,1,15.0,15,null],
+	[1776308027,30,2,15.0,30,null],
 ]};
