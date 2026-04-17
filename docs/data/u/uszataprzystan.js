@@ -3,4 +3,5 @@ profiles["uszataprzystan"] = {
 "name": "Uszata Przystań w Krakowie",
 "snapshots": [
 	[1776308265,100,2,50.0,100,null],
+	[1776394788,100,2,50.0,100,null],
 ]};

@@ -3,4 +3,5 @@ profiles["przyszlosc"] = {
 "name": "LKS Przyszłość Nowe Chechło",
 "snapshots": [
 	[1776307960,70,3,23.33,70,null],
+	[1776394452,80,4,20.0,80,null],
 ]};
