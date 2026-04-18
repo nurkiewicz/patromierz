@@ -71,4 +71,5 @@ profiles["zoriabresk"] = {
 	[1649055045,null,null,null,790,null],
 	[1649072111,null,null,null,790,null],
 	[1776394961,10,1,10.0,800,null],
+	[1776482042,10,1,10.0,800,null],
 ]};
