@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["TABLETONERADIO"] = {
+"name": "TableTone Radio",
+"snapshots": [
+	[1776567516,35,1,35.0,35,null],
+]};

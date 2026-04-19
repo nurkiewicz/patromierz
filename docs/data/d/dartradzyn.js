@@ -3,4 +3,5 @@ profiles["dartradzyn"] = {
 "name": "White Bears Dart's Club Radzyń Podlaski",
 "snapshots": [
 	[1776480055,20,1,20.0,20,null],
+	[1776566318,60,3,20.0,60,null],
 ]};
