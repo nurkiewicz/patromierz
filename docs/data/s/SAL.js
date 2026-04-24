@@ -175,4 +175,5 @@ profiles["SAL"] = {
 	[1757213241,null,1,null,90,null],
 	[1757299681,null,1,null,90,null],
 	[1757386046,null,1,null,90,null],
+	[1776999411,10,1,10.0,100,null],
 ]};

@@ -37,4 +37,5 @@ profiles["zBushu"] = {
 	[1776740536,20,null,null,20,null],
 	[1776827055,20,null,null,20,null],
 	[1776913487,20,null,null,20,null],
+	[1776999877,20,1,20.0,40,null],
 ]};
