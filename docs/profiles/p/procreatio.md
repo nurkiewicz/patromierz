@@ -1,9 +1,9 @@
 ---
-title: ProCreatio | Statystyki patronite.pl | Patromierz
+title: Fundacja ProCreatio | Statystyki patronite.pl | Patromierz
 
 permalink: /procreatio
 ---
 
-# [ProCreatio](https://patronite.pl/procreatio)
+# [Fundacja ProCreatio](https://patronite.pl/procreatio)
 
 {% include profile.md name="procreatio" prefix="p" %}
