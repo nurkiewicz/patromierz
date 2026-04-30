@@ -1352,4 +1352,5 @@ profiles["michalczejgis"] = {
 	[1777258866,10,null,null,2070,null],
 	[1777344554,10,null,null,2070,null],
 	[1777431057,10,null,null,2070,null],
+	[1777517494,10,1,10.0,2080,null],
 ]};
