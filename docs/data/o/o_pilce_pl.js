@@ -37,4 +37,5 @@ profiles["o_pilce_pl"] = {
 	[1777344694,100,null,null,100,null],
 	[1777431209,100,null,null,100,null],
 	[1777517636,100,null,null,100,null],
+	[1777603996,100,1,100.0,200,null],
 ]};
