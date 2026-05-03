@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["wei_org_pl"] = {
-"name": "Warsaw Enterprise Institute",
+"name": "Magda Tomasz",
 "snapshots": [
 	[1643363887,1830,43,42.55,4140,null],
 	[1643434159,1830,43,42.55,4350,null],
@@ -1357,4 +1357,5 @@ profiles["wei_org_pl"] = {
 	[1777518247,600,36,16.66,58095,-3.0],
 	[1777604608,600,36,16.66,58095,-2.0],
 	[1777691080,600,36,16.66,58115,-2.0],
+	[1777777384,600,36,16.66,58175,-2.0],
 ]};

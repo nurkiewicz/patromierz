@@ -1349,4 +1349,5 @@ profiles["Quadrotes"] = {
 	[1777517880,315,9,35.0,null,4.0],
 	[1777604247,315,9,35.0,null,null],
 	[1777690682,null,10,null,null,null],
+	[1777777027,null,10,null,null,null],
 ]};
