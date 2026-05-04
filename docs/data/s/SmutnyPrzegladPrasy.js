@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["SmutnyPrzegladPrasy"] = {
-"name": "Smutny Przegląd Prasy",
+"name": "Michalina Kobla Shitposting i Smutny Przegląd Prasy",
 "snapshots": [
 	[1743648277,180,6,30.0,180,null],
 	[1743734677,210,8,26.25,210,null],
@@ -377,4 +377,5 @@ profiles["SmutnyPrzegladPrasy"] = {
 	[1777604379,1150,57,20.17,11940,-2.0],
 	[1777690846,1200,58,20.68,12080,null],
 	[1777777158,1200,58,20.68,12130,null],
+	[1777863580,1200,58,20.68,12160,null],
 ]};
