@@ -213,4 +213,5 @@ profiles["vlognaskale"] = {
 	[1661751421,15,null,null,534,null],
 	[1661837548,15,null,null,534,null],
 	[1661924630,15,null,null,534,null],
+	[1778038549,77,1,77.0,1458,null],
 ]};

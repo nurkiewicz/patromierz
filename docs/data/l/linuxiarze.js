@@ -70,4 +70,5 @@ profiles["linuxiarze"] = {
 	[1648961647,null,null,null,30,null],
 	[1649048016,null,null,null,30,null],
 	[1649070285,null,null,null,30,null],
+	[1778036708,20,2,10.0,210,null],
 ]};

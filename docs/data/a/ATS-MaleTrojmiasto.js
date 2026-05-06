@@ -70,4 +70,5 @@ profiles["ATS-MaleTrojmiasto"] = {
 	[1648950664,null,null,null,1200,null],
 	[1649036952,null,null,null,1200,null],
 	[1649067341,null,null,null,1200,null],
+	[1778035236,5,1,5.0,1230,null],
 ]};

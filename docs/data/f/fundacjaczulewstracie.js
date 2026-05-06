@@ -305,4 +305,5 @@ profiles["fundacjaczulewstracie"] = {
 	[1777776161,100,1,100.0,1000,null],
 	[1777862565,100,1,100.0,1000,null],
 	[1777948978,100,null,null,1000,null],
+	[1778035923,100,null,null,1000,null],
 ]};

@@ -280,4 +280,5 @@ profiles["AmbitnaPolska"] = {
 	[1668077620,20,null,null,920,null],
 	[1668132230,20,null,null,920,null],
 	[1668218584,20,null,null,920,null],
+	[1778035121,10,1,10.0,960,null],
 ]};

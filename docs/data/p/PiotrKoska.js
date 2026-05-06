@@ -70,4 +70,5 @@ profiles["PiotrKoska"] = {
 	[1648954719,null,null,null,30,null],
 	[1649041008,null,null,null,30,null],
 	[1649068392,null,null,null,30,null],
+	[1778037494,5,1,5.0,35,null],
 ]};

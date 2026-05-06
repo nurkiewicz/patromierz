@@ -794,4 +794,5 @@ profiles["K_RAMBOL"] = {
 	[1740802463,25,null,null,null,null],
 	[1740888803,25,null,null,null,null],
 	[1740975222,25,null,null,null,null],
+	[1778036348,20,null,null,null,null],
 ]};

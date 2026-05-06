@@ -70,4 +70,5 @@ profiles["LaskaGaming"] = {
 	[1648953405,null,null,null,2075,null],
 	[1649039666,null,null,null,2075,null],
 	[1649068036,null,null,null,2075,null],
+	[1778036657,10,1,10.0,2405,null],
 ]};

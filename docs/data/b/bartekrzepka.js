@@ -70,4 +70,5 @@ profiles["bartekrzepka"] = {
 	[1648957515,null,null,null,390,null],
 	[1649043843,null,null,null,390,null],
 	[1649069145,null,null,null,390,null],
+	[1778035279,20,1,20.0,610,null],
 ]};

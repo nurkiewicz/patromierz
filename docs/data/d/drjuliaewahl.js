@@ -472,4 +472,5 @@ profiles["drjuliaewahl"] = {
 	[1740801680,30,null,null,530,null],
 	[1740888033,30,null,null,530,null],
 	[1740974449,30,null,null,530,null],
+	[1778035671,30,1,30.0,980,null],
 ]};

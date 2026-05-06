@@ -564,4 +564,5 @@ profiles["banal"] = {
 	[1725332007,null,1,null,340,null],
 	[1725418418,null,1,null,340,null],
 	[1725504867,null,1,null,340,null],
+	[1778035269,20,1,20.0,1270,null],
 ]};

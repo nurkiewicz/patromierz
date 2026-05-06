@@ -345,4 +345,5 @@ profiles["WypartowiczBa"] = {
 	[1718424851,10,null,null,330,null],
 	[1718511231,10,null,null,330,null],
 	[1718597694,10,null,null,330,null],
+	[1778038795,40,2,20.0,1390,null],
 ]};

@@ -170,4 +170,5 @@ profiles["Yanosik"] = {
 	[1666752345,null,1,null,115,null],
 	[1666838775,null,1,null,115,null],
 	[1666924387,null,1,null,115,null],
+	[1778038813,5,1,5.0,155,null],
 ]};

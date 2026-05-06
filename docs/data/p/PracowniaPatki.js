@@ -70,4 +70,5 @@ profiles["PracowniaPatki"] = {
 	[1648954902,null,null,null,77,null],
 	[1649041193,null,null,null,77,null],
 	[1649068440,null,null,null,77,null],
+	[1778037647,19,1,19.0,31003,null],
 ]};
