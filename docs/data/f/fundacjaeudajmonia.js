@@ -675,4 +675,5 @@ profiles["fundacjaeudajmonia"] = {
 	[1706328583,null,1,null,3440,null],
 	[1706414997,null,1,null,3440,null],
 	[1778035930,25,1,25.0,3540,null],
+	[1778121897,25,1,25.0,3540,null],
 ]};

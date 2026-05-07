@@ -78,4 +78,5 @@ profiles["PtasznikiZajaca"] = {
 	[1687411053,1220,25,48.8,null,7.0],
 	[1687497828,1220,25,48.8,null,7.0],
 	[1778037794,null,28,null,null,null],
+	[1778122993,null,28,null,null,null],
 ]};

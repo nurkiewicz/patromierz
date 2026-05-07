@@ -166,4 +166,5 @@ profiles["khok"] = {
 	[1777862819,30,null,null,220,null],
 	[1777949239,40,null,null,230,null],
 	[1778036440,40,null,null,230,null],
+	[1778122207,40,null,null,230,null],
 ]};

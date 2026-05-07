@@ -268,4 +268,5 @@ profiles["Adoremus"] = {
 	[1777862148,null,39,null,null,null],
 	[1777948552,null,39,null,null,null],
 	[1778035040,null,39,null,null,null],
+	[1778121361,2020,39,51.79,17080,null],
 ]};

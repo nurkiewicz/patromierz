@@ -96,4 +96,5 @@ profiles["ksiazkiWhoresbane"] = {
 	[1677146405,null,1,null,30,null],
 	[1677207769,null,1,null,30,null],
 	[1778036602,20,2,10.0,210,null],
+	[1778122297,20,2,10.0,220,null],
 ]};

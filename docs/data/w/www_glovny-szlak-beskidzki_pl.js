@@ -4,4 +4,5 @@ profiles["www_glovny-szlak-beskidzki_pl"] = {
 "snapshots": [
 	[1678526788,315,8,39.37,315,null],
 	[1778038734,225,8,28.12,10850,null],
+	[1778123537,225,8,28.12,10850,null],
 ]};
