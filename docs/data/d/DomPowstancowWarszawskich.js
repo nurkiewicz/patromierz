@@ -72,4 +72,5 @@ profiles["DomPowstancowWarszawskich"] = {
 	[1649067610,null,null,null,612,null],
 	[1778035647,7,1,7.0,626,null],
 	[1778121724,7,1,7.0,626,null],
+	[1778208024,7,1,7.0,626,null],
 ]};

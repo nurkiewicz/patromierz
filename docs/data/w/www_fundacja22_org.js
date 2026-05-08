@@ -795,4 +795,5 @@ profiles["www_fundacja22_org"] = {
 	[1740977879,90,5,18.0,9070,-3.0],
 	[1778038729,null,1,null,9420,null],
 	[1778123534,null,1,null,9420,null],
+	[1778209706,null,1,null,9420,null],
 ]};

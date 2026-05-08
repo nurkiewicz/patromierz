@@ -136,4 +136,5 @@ profiles["slowianskie-demony"] = {
 	[1654578062,595,27,22.03,8530,-3.0],
 	[1778038073,null,335,null,null,null],
 	[1778123162,null,333,null,null,null],
+	[1778209350,null,332,null,null,null],
 ]};
