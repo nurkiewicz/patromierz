@@ -4,4 +4,5 @@ profiles["terapia_blisko_czlowieka"] = {
 "snapshots": [
 	[1778123322,5,1,5.0,5,null],
 	[1778209505,5,1,5.0,5,null],
+	[1778297113,5,1,5.0,5,null],
 ]};

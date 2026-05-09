@@ -769,4 +769,5 @@ profiles["kapelnica"] = {
 	[1778036385,null,1,null,2510,null],
 	[1778122174,null,1,null,2510,null],
 	[1778208430,null,1,null,2510,null],
+	[1778295390,null,1,null,2510,null],
 ]};
