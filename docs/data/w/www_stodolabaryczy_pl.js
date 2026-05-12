@@ -378,4 +378,5 @@ profiles["www_stodolabaryczy_pl"] = {
 	[1778123566,null,1,null,260,-1.0],
 	[1778209745,null,1,null,260,-1.0],
 	[1778297471,null,1,null,260,-1.0],
+	[1778583035,null,1,null,260,-1.0],
 ]};

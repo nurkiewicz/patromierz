@@ -179,4 +179,5 @@ profiles["Pieszo_z_Polski_do_Japonii"] = {
 	[1778122814,null,1,null,600,-2.0],
 	[1778209032,null,1,null,600,-2.0],
 	[1778296347,null,1,null,600,-2.0],
+	[1778582441,null,1,null,600,-2.0],
 ]};

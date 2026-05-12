@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["piotrplebaniak"] = {
-"name": "Pieśni dalekich plemion (Piotr Plebaniak)",
+"name": "Piotr Plebaniak. Książki oraz podkasty... „Wojna i cywilizacja”",
 "snapshots": [
 	[1643365651,10,1,10.0,60,null],
 	[1643426618,10,1,10.0,60,null],
@@ -1385,4 +1385,5 @@ profiles["piotrplebaniak"] = {
 	[1778122829,618,22,28.09,13762,-7.0],
 	[1778209045,618,22,28.09,13842,-7.0],
 	[1778296366,618,22,28.09,13842,-7.0],
+	[1778582453,618,22,28.09,13912,-7.0],
 ]};

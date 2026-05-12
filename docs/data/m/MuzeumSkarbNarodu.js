@@ -2,7 +2,7 @@ var profiles = (profiles === undefined) ? {} : profiles;
 profiles["MuzeumSkarbNarodu"] = {
 "name": "Muzeum Skarb Narodu",
 "snapshots": [
-	[1646973559,330,9,36.66,330,null],
+	[1646973558,330,9,36.66,330,null],
 	[1647060092,370,11,33.63,370,null],
 	[1647146684,385,13,29.61,385,null],
 	[1647233070,750,25,30.0,790,null],
@@ -1408,4 +1408,5 @@ profiles["MuzeumSkarbNarodu"] = {
 	[1778122596,850,33,25.75,76105,null],
 	[1778208833,850,33,25.75,76215,null],
 	[1778296018,850,33,25.75,76235,null],
+	[1778582261,860,33,26.06,76440,null],
 ]};
