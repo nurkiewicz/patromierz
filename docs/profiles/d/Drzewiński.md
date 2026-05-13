@@ -1,9 +1,9 @@
 ---
-title: "Drzewi\u0144ski O FOTOGRAFII | Statystyki patronite.pl | Patromierz"
+title: "DRZEWI\u0143SKI :: photography&more | Statystyki patronite.pl | Patromierz"
 
 permalink: /Drzewiński
 ---
 
-# [Drzewiński O FOTOGRAFII](https://patronite.pl/Drzewiński)
+# [DRZEWIŃSKI :: photography&more](https://patronite.pl/Drzewiński)
 
 {% include profile.md name="Drzewiński" prefix="d" %}

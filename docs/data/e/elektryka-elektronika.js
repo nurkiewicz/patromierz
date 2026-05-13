@@ -87,4 +87,5 @@ profiles["elektryka-elektronika"] = {
 	[1778208075,5,1,5.0,15,null],
 	[1778294805,null,1,null,15,null],
 	[1778581617,null,1,null,15,null],
+	[1778640053,null,1,null,15,null],
 ]};

@@ -4,4 +4,5 @@ profiles["stowarzyszenie_kobietostan"] = {
 "snapshots": [
 	[1778296973,25,1,25.0,25,null],
 	[1778582769,50,2,25.0,50,null],
+	[1778641351,50,2,25.0,50,null],
 ]};
