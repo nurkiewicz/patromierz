@@ -1191,4 +1191,5 @@ profiles["naukanatalerzu"] = {
 	[1778296072,null,1,null,1760,-1.0],
 	[1778582287,null,1,null,1760,-1.0],
 	[1778640812,null,1,null,1760,-1.0],
+	[1778727162,null,1,null,1760,null],
 ]};
