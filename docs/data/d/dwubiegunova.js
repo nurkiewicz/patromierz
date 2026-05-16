@@ -967,4 +967,5 @@ profiles["dwubiegunova"] = {
 	[1778640021,25,null,null,3285,null],
 	[1778726402,25,null,null,3285,null],
 	[1778812789,25,null,null,3285,null],
+	[1778899222,25,1,25.0,3310,null],
 ]};

@@ -215,4 +215,5 @@ profiles["hunter_adventureTV"] = {
 	[1778640291,50,1,50.0,400,null],
 	[1778726662,50,null,null,400,null],
 	[1778813054,50,null,null,400,null],
+	[1778899487,50,null,null,400,null],
 ]};
