@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Armus-sparalizowany-piesek"] = {
-"name": "Jacek Daszkowski",
+"name": "Armus sparalizowany piesek",
 "snapshots": [
 	[1731901864,150,6,25.0,150,null],
 	[1731988303,250,9,27.77,250,null],
@@ -510,4 +510,5 @@ profiles["Armus-sparalizowany-piesek"] = {
 	[1778726150,270,6,45.0,5500,-1.0],
 	[1778812535,270,6,45.0,5500,-1.0],
 	[1778898960,270,6,45.0,5500,-1.0],
+	[1778985344,320,6,53.33,5550,1.0],
 ]};

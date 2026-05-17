@@ -255,4 +255,5 @@ profiles["HCHusariaLubliniec"] = {
 	[1778726635,null,1,null,90,null],
 	[1778813026,null,1,null,90,null],
 	[1778899459,null,1,null,90,null],
+	[1778985848,null,1,null,90,null],
 ]};
