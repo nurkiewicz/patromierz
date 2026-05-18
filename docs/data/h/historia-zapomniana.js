@@ -853,4 +853,5 @@ profiles["historia-zapomniana"] = {
 	[1778813034,null,1,null,1200,null],
 	[1778899468,null,1,null,1200,null],
 	[1778985856,null,1,null,1200,null],
+	[1779072259,null,1,null,1200,null],
 ]};

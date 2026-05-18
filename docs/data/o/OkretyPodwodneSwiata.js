@@ -7,4 +7,5 @@ profiles["OkretyPodwodneSwiata"] = {
 	[1778813643,null,1,null,10,null],
 	[1778900092,null,1,null,10,null],
 	[1778986481,null,1,null,10,null],
+	[1779072888,null,1,null,10,null],
 ]};
