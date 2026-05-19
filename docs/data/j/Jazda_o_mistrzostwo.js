@@ -45,4 +45,5 @@ profiles["Jazda_o_mistrzostwo"] = {
 	[1778899547,10,1,10.0,20,null],
 	[1778985936,10,1,10.0,20,null],
 	[1779072340,null,1,null,20,null],
+	[1779158750,null,1,null,20,null],
 ]};

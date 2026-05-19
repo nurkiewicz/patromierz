@@ -3,4 +3,5 @@ profiles["Polka_XXI_wieku"] = {
 "name": "Fundacja Polka XXI wieku",
 "snapshots": [
 	[1779073040,20,1,20.0,20,null],
+	[1779159451,20,1,20.0,20,null],
 ]};
