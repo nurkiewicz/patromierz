@@ -1367,4 +1367,5 @@ profiles["bartekfetysz"] = {
 	[1779071782,3720,127,29.29,null,-2.0],
 	[1779158184,3740,128,29.21,null,-1.0],
 	[1779244593,null,129,null,null,null],
+	[1779330988,null,129,null,null,null],
 ]};
