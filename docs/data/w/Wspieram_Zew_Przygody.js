@@ -3,4 +3,5 @@ profiles["Wspieram_Zew_Przygody"] = {
 "name": "Zew Przygody",
 "snapshots": [
 	[1779419200,340,8,42.5,340,null],
+	[1779505648,389,9,43.22,389,null],
 ]};
