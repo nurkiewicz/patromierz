@@ -1055,4 +1055,5 @@ profiles["piwnarecenzja"] = {
 	[1779332183,25,null,null,4870,null],
 	[1779418587,25,null,null,4870,null],
 	[1779505024,25,null,null,4870,null],
+	[1779591419,25,1,25.0,4895,null],
 ]};

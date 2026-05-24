@@ -742,4 +742,5 @@ profiles["GrunwaldPoznan"] = {
 	[1779331428,200,null,null,24810,null],
 	[1779417830,200,null,null,24810,null],
 	[1779504251,200,null,null,24810,null],
+	[1779590638,200,1,200.0,25010,null],
 ]};
