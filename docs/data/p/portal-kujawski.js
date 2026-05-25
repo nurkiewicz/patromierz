@@ -436,4 +436,5 @@ profiles["portal-kujawski"] = {
 	[1779418647,220,null,null,3360,null],
 	[1779505085,220,null,null,3360,null],
 	[1779591480,220,null,null,3360,null],
+	[1779677853,220,null,null,3360,null],
 ]};
