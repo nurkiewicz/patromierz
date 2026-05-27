@@ -838,4 +838,5 @@ profiles["stosunkowobliskiwschod"] = {
 	[1779591789,140,4,35.0,null,null],
 	[1779678145,140,4,35.0,null,null],
 	[1779764573,140,4,35.0,null,null],
+	[1779851318,140,4,35.0,null,null],
 ]};

@@ -334,7 +334,7 @@ profiles["TeoriaElektryki"] = {
 	[1702974076,null,34,null,null,null],
 	[1703060351,null,34,null,null,null],
 	[1703146293,null,34,null,null,null],
-	[1703233492,null,202,null,null,null],
+	[1703233492,null,null,null,null,null],
 	[1703319470,null,69,null,null,null],
 	[1703406045,null,89,null,null,null],
 	[1703493122,null,34,null,null,null],
