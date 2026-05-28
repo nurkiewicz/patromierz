@@ -1060,4 +1060,5 @@ profiles["Fundacja-ARKA"] = {
 	[1779676929,5,null,null,3925,null],
 	[1779763339,5,null,null,3925,null],
 	[1779849731,5,null,null,3925,null],
+	[1779936135,5,1,5.0,3930,null],
 ]};

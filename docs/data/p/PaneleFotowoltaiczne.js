@@ -1150,4 +1150,5 @@ profiles["PaneleFotowoltaiczne"] = {
 	[1779677723,null,15,null,null,null],
 	[1779764145,null,15,null,null,null],
 	[1779850774,null,15,null,null,null],
+	[1779936939,null,15,null,null,null],
 ]};
