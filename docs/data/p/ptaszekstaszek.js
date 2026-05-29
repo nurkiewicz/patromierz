@@ -8,4 +8,5 @@ profiles["ptaszekstaszek"] = {
 	[1779764358,50,1,50.0,null,null],
 	[1779851055,50,1,50.0,null,null],
 	[1779937155,50,1,50.0,null,null],
+	[1780024279,50,1,50.0,null,null],
 ]};

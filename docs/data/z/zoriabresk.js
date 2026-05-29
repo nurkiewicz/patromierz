@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["zoriabresk"] = {
-"name": "ZORIABRESK Kuźnia Koszęcin ",
+"name": "Dziennik Kowala | ZORIABRESK",
 "snapshots": [
 	[1643364424,null,null,null,790,null],
 	[1643434503,null,null,null,790,null],
@@ -110,4 +110,5 @@ profiles["zoriabresk"] = {
 	[1779764977,260,7,37.14,1110,8.0],
 	[1779851697,310,8,38.75,1160,10.0],
 	[1779937763,310,8,38.75,1160,10.0],
+	[1780025251,310,8,38.75,1160,10.0],
 ]};
