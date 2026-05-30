@@ -992,4 +992,5 @@ profiles["dr-damian-parol"] = {
 	[1779849599,null,31,null,null,null],
 	[1779936002,null,31,null,null,null],
 	[1780022525,null,31,null,null,null],
+	[1780108827,720,31,23.22,37510,null],
 ]};
