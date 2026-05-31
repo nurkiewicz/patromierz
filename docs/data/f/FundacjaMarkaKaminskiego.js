@@ -566,4 +566,5 @@ profiles["FundacjaMarkaKaminskiego"] = {
 	[1779936165,null,1,null,9290,null],
 	[1780022761,null,1,null,9290,null],
 	[1780109001,null,1,null,9290,null],
+	[1780195385,null,1,null,9290,null],
 ]};
