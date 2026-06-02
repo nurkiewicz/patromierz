@@ -645,4 +645,5 @@ profiles["PodkastTygodnikaPowszechnego"] = {
 	[1780109889,null,72,null,null,null],
 	[1780196263,null,72,null,null,null],
 	[1780304392,null,72,null,null,null],
+	[1780369082,null,72,null,null,null],
 ]};
