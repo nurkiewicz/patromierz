@@ -13,4 +13,5 @@ profiles["ptaszekstaszek"] = {
 	[1780196380,50,1,50.0,null,null],
 	[1780304507,50,1,50.0,null,null],
 	[1780369198,50,1,50.0,null,null],
+	[1780455728,50,1,50.0,null,null],
 ]};
