@@ -1,9 +1,9 @@
 ---
-title: "BA\u015ANIK | Statystyki patronite.pl | Patromierz"
+title: "Ba\u015Bnik Ewelina Oleksiak | Statystyki patronite.pl | Patromierz"
 
 permalink: /basnik
 ---
 
-# [BAŚNIK](https://patronite.pl/basnik)
+# [Baśnik Ewelina Oleksiak](https://patronite.pl/basnik)
 
 {% include profile.md name="basnik" prefix="b" %}
