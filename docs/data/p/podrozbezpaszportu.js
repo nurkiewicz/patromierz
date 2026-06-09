@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["podrozbezpaszportu"] = {
-"name": "Podróż bez Paszportu",
+"name": "Mateusz Grzeszczuk | Podróż bez Paszportu i perTraktacje",
 "snapshots": [
 	[1643360694,560,44,12.72,4265,null],
 	[1643427046,560,44,12.72,4265,null],
@@ -1471,4 +1471,5 @@ profiles["podrozbezpaszportu"] = {
 	[1780628325,3720,192,19.37,182145,-2.0],
 	[1780715249,3690,191,19.31,182275,-3.0],
 	[1780801052,3690,191,19.31,182295,-3.0],
+	[1780973865,3670,191,19.21,182730,-3.0],
 ]};

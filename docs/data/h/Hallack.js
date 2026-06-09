@@ -1132,4 +1132,5 @@ profiles["Hallack"] = {
 	[1780627508,null,26,null,null,null],
 	[1780714180,null,26,null,null,null],
 	[1780800274,null,26,null,null,null],
+	[1780973087,null,24,null,null,null],
 ]};
