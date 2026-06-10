@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["wdm"] = {
+"name": "Duszpasterstwo Młodzieży Archidiecezji Łódzkiej",
+"snapshots": [
+	[1781060628,900,4,225.0,null,null],
+]};

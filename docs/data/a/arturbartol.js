@@ -330,4 +330,5 @@ profiles["arturbartol"] = {
 	[1780713482,100,1,100.0,1400,null],
 	[1780799769,100,null,null,1400,null],
 	[1780972570,100,null,null,1400,null],
+	[1781058913,100,null,null,1400,null],
 ]};

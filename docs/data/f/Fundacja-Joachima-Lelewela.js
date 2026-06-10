@@ -976,4 +976,5 @@ profiles["Fundacja-Joachima-Lelewela"] = {
 	[1780714009,10,1,10.0,680,null],
 	[1780800149,10,null,null,680,null],
 	[1780972960,10,null,null,680,null],
+	[1781059284,10,null,null,680,null],
 ]};
