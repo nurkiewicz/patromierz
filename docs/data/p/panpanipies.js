@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["panpanipies"] = {
+"name": "Pan i Pani Pies Fundacja im. Maćka Kozłowskiego",
+"snapshots": [
+	[1781405845,150,1,150.0,150,null],
+]};

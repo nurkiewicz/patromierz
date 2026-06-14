@@ -284,4 +284,5 @@ profiles["podnoszenieciezarow"] = {
 	[1781146583,null,18,null,null,null],
 	[1781233017,null,18,null,null,null],
 	[1781319431,null,18,null,null,null],
+	[1781405935,null,18,null,null,null],
 ]};
