@@ -712,4 +712,5 @@ profiles["InteresujacePojazdy"] = {
 	[1781318708,null,1,null,1358,-2.0],
 	[1781405247,null,1,null,1358,-2.0],
 	[1781491487,null,1,null,1358,-2.0],
+	[1781577859,null,1,null,1358,-2.0],
 ]};
