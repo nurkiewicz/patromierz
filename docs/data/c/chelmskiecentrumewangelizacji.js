@@ -1359,4 +1359,5 @@ profiles["chelmskiecentrumewangelizacji"] = {
 	[1781577458,1410,19,74.21,null,null],
 	[1781664068,1410,19,74.21,null,null],
 	[1781750278,1410,19,74.21,null,null],
+	[1781836670,1410,19,74.21,null,null],
 ]};
