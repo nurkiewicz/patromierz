@@ -684,4 +684,5 @@ profiles["krokiet"] = {
 	[1781923636,185,null,null,null,null],
 	[1782010023,185,null,null,null,null],
 	[1782096454,185,null,null,null,null],
+	[1782182838,85,null,null,null,-3.0],
 ]};

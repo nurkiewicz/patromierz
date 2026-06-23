@@ -102,4 +102,5 @@ profiles["cns"] = {
 	[1781923085,null,25,null,null,null],
 	[1782009484,null,25,null,null,null],
 	[1782095899,null,25,null,null,null],
+	[1782182282,null,24,null,null,null],
 ]};
