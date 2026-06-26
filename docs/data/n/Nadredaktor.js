@@ -358,4 +358,5 @@ profiles["Nadredaktor"] = {
 	[1782183123,15,null,null,1100,null],
 	[1782269694,15,null,null,1100,null],
 	[1782355966,15,null,null,1100,null],
+	[1782442421,15,null,null,1100,null],
 ]};

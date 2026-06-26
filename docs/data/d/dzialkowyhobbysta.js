@@ -96,4 +96,5 @@ profiles["dzialkowyhobbysta"] = {
 	[1782182385,20,2,10.0,null,null],
 	[1782268814,20,2,10.0,null,null],
 	[1782355231,20,2,10.0,null,null],
+	[1782441629,20,2,10.0,null,null],
 ]};
