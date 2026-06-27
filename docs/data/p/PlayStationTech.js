@@ -1088,4 +1088,5 @@ profiles["PlayStationTech"] = {
 	[1782269907,10,null,null,1291,null],
 	[1782356269,10,null,null,1291,null],
 	[1782442642,10,null,null,1291,null],
+	[1782529516,10,1,10.0,1301,null],
 ]};
