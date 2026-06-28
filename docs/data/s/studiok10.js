@@ -537,4 +537,5 @@ profiles["studiok10"] = {
 	[1782356621,null,27,null,null,null],
 	[1782443005,null,27,null,null,null],
 	[1782529991,null,28,null,null,null],
+	[1782615740,null,28,null,null,null],
 ]};
