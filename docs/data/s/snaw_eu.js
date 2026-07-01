@@ -3,4 +3,5 @@ profiles["snaw_eu"] = {
 "name": "Sieć na Wybory",
 "snapshots": [
 	[1782788383,25,1,25.0,25,null],
+	[1782874828,25,1,25.0,25,null],
 ]};
