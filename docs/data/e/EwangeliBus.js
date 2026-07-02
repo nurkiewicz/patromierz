@@ -1195,4 +1195,5 @@ profiles["EwangeliBus"] = {
 	[1782614468,null,28,null,null,null],
 	[1782787230,null,27,null,null,null],
 	[1782873647,null,27,null,null,null],
+	[1782960045,null,27,null,null,null],
 ]};

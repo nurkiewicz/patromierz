@@ -237,4 +237,5 @@ profiles["fundacjaonthetop"] = {
 	[1782614566,null,1,null,400,-2.0],
 	[1782787323,null,1,null,400,-2.0],
 	[1782873740,null,1,null,400,-2.0],
+	[1782960140,null,1,null,400,null],
 ]};

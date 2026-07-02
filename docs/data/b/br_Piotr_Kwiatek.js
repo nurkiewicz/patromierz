@@ -169,4 +169,5 @@ profiles["br_Piotr_Kwiatek"] = {
 	[1782614255,3290,89,36.96,null,7.0],
 	[1782787028,3270,89,36.74,null,6.0],
 	[1782873439,null,90,null,null,null],
+	[1782959837,null,90,null,null,null],
 ]};

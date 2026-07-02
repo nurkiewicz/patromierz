@@ -1329,4 +1329,5 @@ profiles["FundacjaMaliArtysci"] = {
 	[1782614559,15,1,15.0,3585,null],
 	[1782787316,15,null,null,3585,null],
 	[1782873734,15,null,null,3585,null],
+	[1782960134,15,null,null,3585,null],
 ]};
