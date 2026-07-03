@@ -791,4 +791,5 @@ profiles["stowarzyszenie-zaginieni-cala-"] = {
 	[1782788428,50,1,50.0,2950,null],
 	[1782874872,50,null,null,2950,null],
 	[1782961256,50,null,null,2950,null],
+	[1783047661,50,null,null,2950,null],
 ]};

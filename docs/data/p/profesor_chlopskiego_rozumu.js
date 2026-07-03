@@ -29,4 +29,5 @@ profiles["profesor_chlopskiego_rozumu"] = {
 	[1782788176,null,1,null,50,null],
 	[1782874615,null,1,null,50,null],
 	[1782961004,null,1,null,50,null],
+	[1783047406,null,1,null,50,null],
 ]};
