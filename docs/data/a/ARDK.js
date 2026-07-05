@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["ARDK"] = {
-"name": "Akcja Ratunkowa Dla Krakowa",
+"name": "Akcja dla Krakowa",
 "snapshots": [
 	[1620259200,445,29,15.34,705,null],
 	[1643367247,475,30,15.83,4875,null],
@@ -1157,4 +1157,5 @@ profiles["ARDK"] = {
 	[1782959740,330,20,16.5,25095,2.0],
 	[1783046142,330,20,16.5,25095,2.0],
 	[1783132537,340,21,16.19,25105,3.0],
+	[1783218939,340,21,16.19,25105,3.0],
 ]};

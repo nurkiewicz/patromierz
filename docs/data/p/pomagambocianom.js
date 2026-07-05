@@ -3,4 +3,5 @@ profiles["pomagambocianom"] = {
 "name": "Stowarzyszenie \"Pomagam Bocianom\" Ośrodek Rehabilitacji Dzikich Zwierząt",
 "snapshots": [
 	[1783133753,10,1,10.0,10,null],
+	[1783220161,10,1,10.0,10,null],
 ]};

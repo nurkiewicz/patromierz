@@ -1482,4 +1482,5 @@ profiles["AmiciSportivi"] = {
 	[1782959709,null,32,null,null,null],
 	[1783046112,null,32,null,null,null],
 	[1783132507,null,32,null,null,null],
+	[1783218908,null,32,null,null,null],
 ]};
