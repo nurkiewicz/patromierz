@@ -1491,4 +1491,5 @@ profiles["pan_jagoda"] = {
 	[1783220044,null,150,null,null,null],
 	[1783306462,null,150,null,null,null],
 	[1783392829,null,150,null,null,null],
+	[1783479254,null,149,null,null,null],
 ]};
