@@ -836,4 +836,5 @@ profiles["patronite_pl-leszekgnoinski"] = {
 	[1783306480,20,1,20.0,3370,null],
 	[1783392848,20,null,null,3370,null],
 	[1783479272,20,null,null,3370,null],
+	[1783565642,20,null,null,3370,null],
 ]};
