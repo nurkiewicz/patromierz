@@ -1369,4 +1369,5 @@ profiles["MetalNews_pl"] = {
 	[1783565404,null,11,null,null,null],
 	[1783651853,null,11,null,null,null],
 	[1783738239,null,11,null,null,null],
+	[1783824622,null,11,null,null,null],
 ]};
