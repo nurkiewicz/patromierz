@@ -769,4 +769,5 @@ profiles["beczkaprochu"] = {
 	[1783651001,null,6,null,null,null],
 	[1783737396,null,7,null,null,null],
 	[1783823793,null,7,null,null,null],
+	[1783910192,90,7,12.85,2805,null],
 ]};
