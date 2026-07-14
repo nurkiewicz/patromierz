@@ -26,127 +26,129 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="js/chart.js"></script>
 
 
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-
-<script type="text/javascript" src="data/a/aniazajda.js"></script>
-
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-
-<script type="text/javascript" src="data/p/pmm.js"></script>
-
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
-
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
 
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
 
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-
-<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
-
-<script type="text/javascript" src="data/z/zoriabresk.js"></script>
+<script type="text/javascript" src="data/s/SciFun.js"></script>
 
 <script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
 
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
 
-<script type="text/javascript" src="data/a/accantus.js"></script>
+<script type="text/javascript" src="data/w/www_slot_org_pl.js"></script>
 
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/f/fundacjaada.js"></script>
+
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+
+<script type="text/javascript" src="data/s/SOWINSKY.js"></script>
 
 <script type="text/javascript" src="data/s/SLOT.js"></script>
 
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 
-<script type="text/javascript" src="data/p/poland-rebuilding.js"></script>
-
-<script type="text/javascript" src="data/s/studioreymonta.js"></script>
+<script type="text/javascript" src="data/r/ruchradzionkow.js"></script>
 
 <script type="text/javascript" src="data/o/outriders.js"></script>
 
 <script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
 
-<script type="text/javascript" src="data/d/dajherbate.js"></script>
+<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
 
-<script type="text/javascript" src="data/s/SciFun.js"></script>
+<script type="text/javascript" src="data/p/profesor_matczak.js"></script>
 
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
-
-<script type="text/javascript" src="data/r/radioem.js"></script>
-
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-
-<script type="text/javascript" src="data/k/kuba_ccino.js"></script>
-
-<script type="text/javascript" src="data/o/osrodekrehabilitacji.js"></script>
-
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-
-<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
-
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 
 <script type="text/javascript" src="data/g/Gadowski.js"></script>
 
-<script type="text/javascript" src="data/g/globstory.js"></script>
-
-<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
-
-<script type="text/javascript" src="data/w/www_slot_org_pl.js"></script>
-
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
-
-<script type="text/javascript" src="data/p/podcastex.js"></script>
-
-<script type="text/javascript" src="data/r/radio357.js"></script>
-
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-
-<script type="text/javascript" src="data/m/marekczyz.js"></script>
-
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-
-<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
-
-<script type="text/javascript" src="data/a/aldo.js"></script>
-
-<script type="text/javascript" src="data/b/BezSchematu.js"></script>
-
-<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
-
-<script type="text/javascript" src="data/k/K3.js"></script>
-
-<script type="text/javascript" src="data/v/Vlogcasha.js"></script>
-
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-
-<script type="text/javascript" src="data/d/darwin.js"></script>
-
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 
-<script type="text/javascript" src="data/f/fundacjaada.js"></script>
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+
+<script type="text/javascript" src="data/g/globstory.js"></script>
+
+<script type="text/javascript" src="data/l/lifeonwheelz.js"></script>
+
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
 
 <script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
 
+<script type="text/javascript" src="data/p/podcastex.js"></script>
+
+<script type="text/javascript" src="data/a/accantus.js"></script>
+
+<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
+
+<script type="text/javascript" src="data/r/radioem.js"></script>
+
+<script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
+
+<script type="text/javascript" src="data/s/SzkolaPitagoLasa.js"></script>
+
+<script type="text/javascript" src="data/p/pmm.js"></script>
+
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
+
+<script type="text/javascript" src="data/k/K3.js"></script>
+
+<script type="text/javascript" src="data/o/osrodekrehabilitacji.js"></script>
+
+<script type="text/javascript" src="data/w/www_polifonia_edu_pl.js"></script>
+
 <script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+
+<script type="text/javascript" src="data/z/zoriabresk.js"></script>
+
+<script type="text/javascript" src="data/m/marekczyz.js"></script>
+
+<script type="text/javascript" src="data/d/dajherbate.js"></script>
+
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+
+<script type="text/javascript" src="data/p/poland-rebuilding.js"></script>
+
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+
+<script type="text/javascript" src="data/d/darwin.js"></script>
+
+<script type="text/javascript" src="data/l/lesnepogotowie.js"></script>
+
+<script type="text/javascript" src="data/r/radio357.js"></script>
+
+<script type="text/javascript" src="data/a/aniazajda.js"></script>
+
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+
+<script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
+
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["Studio Reymonta", -3000], ["Aldona Hartwińska", -1250], ["Dariusz Rosiak", -1200], ["Radio Nowy Świat", -734], ["Fundacja Filar", -680], ["Radio Wnet", -605], ["Dolnośląski Inspektorat Ochrony Zwierząt", -585], ["Fundacja ADA", -500], ["Ośrodek Rehabilitacji Zwierząt Chronionych", -500], ["Dział Zagraniczny", -485], ["Poland Rebuilding Team", 480], ["SciFun", 535], ["Cash", 540], ["kuba.ccino", 555], ["Anna Zajda", 598], ["Bez/Schematu", 600], ["Ruch Radzionków", 650], ["Stowarzyszenie Lokalnych Ośrodków Twórczych", 835], ["Stowarzyszenie Lokalnych Ośrodków Twórczych", 835], ["Dziennik Kowala | ZORIABRESK", 1000]], 'largest_changes');
+            drawHorizontal([["Dariusz Rosiak", -1335], ["Radio Wnet", -815], ["Fundacja Filar", -690], ["Dolnośląski Inspektorat Ochrony Zwierząt", -665], ["Fundacja ADA", -500], ["Ośrodek Rehabilitacji Zwierząt Chronionych", -500], ["Szkoła PitagoLasa", -400], ["Radio Nowy Świat", -395], ["SOWINSKY", -386], ["Dział Zagraniczny", -375], ["Poland Rebuilding Team", 625], ["Ruch Radzionków", 650], ["Polifonia", 700], ["SciFun", 709], ["Stowarzyszenie Lokalnych Ośrodków Twórczych", 960], ["Stowarzyszenie Lokalnych Ośrodków Twórczych", 960], ["Dziennik Kowala | ZORIABRESK", 1000], ["Profesor Matczak", 1080], ["Anna Zajda", 1192], ["Leśne Pogotowie Jacka Wąsińskiego", 1200]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(
-                    ['DariuszRosiak', 'dzialzagraniczny', 'Podcastwojennehistorie', 'radionaukowe', 'NaukowyBelkot', 'tetrycy', 'SciFun', 'DIOZ', 'WzajemniePomocni', 'Fundacja_po_DRUGIE', 'marcinzielinski', 'podkastamerykanski', 'Gadowski', 'dajherbate', 'radioem', 'podcastex', 'niewiemalesiedowiem', 'brzmienie-swiata', 'K3', 'accantus'],
+                    ['DariuszRosiak', 'dzialzagraniczny', 'Podcastwojennehistorie', 'radionaukowe', 'NaukowyBelkot', 'tetrycy', 'SciFun', 'DIOZ', 'WzajemniePomocni', 'marcinzielinski', 'Fundacja_po_DRUGIE', 'podkastamerykanski', 'Gadowski', 'dajherbate', 'radioem', 'podcastex', 'niewiemalesiedowiem', 'brzmienie-swiata', 'K3', 'accantus'],
                     1, 'top_but_two', 'currency');
                 }, 100);
             setTimeout(() => {
                 drawMulti(
-                    ['sekielski', 'DIOZ', 'niewiemalesiedowiem', 'UsłyszećNaCzas', 'VirtualDream', 'darwin', 'motoambulans', 'TERENWIZJA', 'historiarealna', 'planetaabstrakcja', 'pmm', 'wolskiowojnie', 'przezswiatnafazie', 'MIŁOŚNICY', 'wasikowska', 'LukaszRybarskiYES', 'GrupaMoCarta', 'outriders', 'globstory', 'marekczyz'],
+                    ['sekielski', 'niewiemalesiedowiem', 'UsłyszećNaCzas', 'VirtualDream', 'darwin', 'motoambulans', 'TERENWIZJA', 'historiarealna', 'planetaabstrakcja', 'pmm', 'wolskiowojnie', 'przezswiatnafazie', 'MIŁOŚNICY', 'wasikowska', 'LukaszRybarskiYES', 'GrupaMoCarta', 'lifeonwheelz', 'outriders', 'globstory', 'marekczyz'],
                     1, 'biggest_drops', 'currency');
                 }, 200);
     };
