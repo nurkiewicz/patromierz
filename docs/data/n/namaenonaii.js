@@ -1449,4 +1449,5 @@ profiles["namaenonaii"] = {
 	[1784256870,null,23,null,null,null],
 	[1784343628,null,24,null,null,null],
 	[1784515937,null,24,null,null,null],
+	[1784602391,845,24,35.2,null,-2.0],
 ]};
