@@ -438,4 +438,5 @@ profiles["szuszubard"] = {
 	[1784344438,50,null,null,1000,null],
 	[1784516528,50,null,null,1000,null],
 	[1784602998,50,null,null,1000,null],
+	[1784689370,50,1,50.0,1050,null],
 ]};
