@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["adam_adamczyk"] = {
-"name": "Ale jak to? – blog Adama Adamczyka",
+"name": "Kwantowo.pl – blog Adama Adamczyka",
 "snapshots": [
 	[1739072964,2040,94,21.7,null,null],
 	[1739159356,2060,94,21.91,null,null],
@@ -400,4 +400,5 @@ profiles["adam_adamczyk"] = {
 	[1784687659,2990,104,28.75,null,null],
 	[1784774058,3000,105,28.57,null,1.0],
 	[1784860464,3000,105,28.57,null,1.0],
+	[1785033263,3000,104,28.84,null,1.0],
 ]};
