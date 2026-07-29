@@ -93,4 +93,5 @@ profiles["TravelNatureEu"] = {
 	[1780628818,10,1,10.0,30,null],
 	[1780715881,null,1,null,30,null],
 	[1780801514,null,1,null,30,null],
+	[1785294242,50,1,50.0,80,null],
 ]};
