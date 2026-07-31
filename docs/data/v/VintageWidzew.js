@@ -58,4 +58,5 @@ profiles["VintageWidzew"] = {
 	[1785121516,10,1,10.0,20,null],
 	[1785207943,10,1,10.0,20,null],
 	[1785294297,null,1,null,30,null],
+	[1785467078,null,1,null,30,null],
 ]};

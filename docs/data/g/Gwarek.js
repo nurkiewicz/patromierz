@@ -3,4 +3,5 @@ profiles["Gwarek"] = {
 "name": "GKS Gwarek Ornontowice",
 "snapshots": [
 	[1785293033,20,1,20.0,20,null],
+	[1785465834,20,1,20.0,20,null],
 ]};
