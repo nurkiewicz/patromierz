@@ -737,4 +737,5 @@ profiles["www_basnieludowziemi_com"] = {
 	[1785553568,null,1,null,10965,-2.0],
 	[1785639953,null,1,null,10965,-2.0],
 	[1785726647,null,1,null,10965,-2.0],
+	[1785812751,null,1,null,10965,-2.0],
 ]};
