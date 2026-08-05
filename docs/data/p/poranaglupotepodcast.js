@@ -19,4 +19,5 @@ profiles["poranaglupotepodcast"] = {
 	[1785639403,670,23,29.13,null,null],
 	[1785725974,690,24,28.75,null,null],
 	[1785812202,710,25,28.4,null,null],
+	[1785898615,750,27,27.77,null,null],
 ]};

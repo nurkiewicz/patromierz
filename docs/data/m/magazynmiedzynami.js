@@ -261,4 +261,5 @@ profiles["magazynmiedzynami"] = {
 	[1784688579,50,null,null,580,null],
 	[1784775089,50,null,null,580,null],
 	[1784861392,50,null,null,580,null],
+	[1785898173,50,1,50.0,630,null],
 ]};
