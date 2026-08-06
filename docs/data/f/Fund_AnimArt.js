@@ -3,4 +3,5 @@ profiles["Fund_AnimArt"] = {
 "name": "Fundacja Animacji Artystycznych",
 "snapshots": [
 	[1785897705,50,2,25.0,50,null],
+	[1785984107,50,2,25.0,50,null],
 ]};
