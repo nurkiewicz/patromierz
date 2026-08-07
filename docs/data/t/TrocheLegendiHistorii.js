@@ -172,4 +172,5 @@ profiles["TrocheLegendiHistorii"] = {
 	[1785812619,10,1,10.0,160,null],
 	[1785899038,10,1,10.0,160,null],
 	[1785985432,null,1,null,160,null],
+	[1786071895,null,1,null,160,null],
 ]};

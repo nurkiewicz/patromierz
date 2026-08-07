@@ -87,4 +87,5 @@ profiles["terapia_blisko_czlowieka"] = {
 	[1785812572,5,1,5.0,15,null],
 	[1785898991,5,1,5.0,15,null],
 	[1785985385,null,1,null,15,null],
+	[1786071847,null,1,null,15,null],
 ]};
