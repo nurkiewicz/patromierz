@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["fik"] = {
-"name": "Forum Inspiracji Kulturalnych",
+"name": "Podcast ZaFIKsowany",
 "snapshots": [
 	[1612396800,970,39,24.87,970,null],
 	[1643351506,895,93,9.62,11044,null],
@@ -1491,4 +1491,5 @@ profiles["fik"] = {
 	[1785897669,400,24,16.66,47323,null],
 	[1785984071,400,24,16.66,47323,null],
 	[1786070496,400,24,16.66,47323,null],
+	[1786156885,400,24,16.66,47323,null],
 ]};
