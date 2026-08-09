@@ -1437,4 +1437,5 @@ profiles["PodcastLepiejTeraz"] = {
 	[1785984976,null,22,null,null,null],
 	[1786071419,null,22,null,null,null],
 	[1786157809,null,22,null,null,null],
+	[1786244184,null,21,null,null,null],
 ]};
