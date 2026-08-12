@@ -1535,4 +1535,5 @@ profiles["magazyn-kreski"] = {
 	[1786243777,5,1,5.0,5865,null],
 	[1786330179,5,null,null,5865,null],
 	[1786416611,5,null,null,5865,null],
+	[1786502992,5,null,null,5865,null],
 ]};
