@@ -270,4 +270,5 @@ profiles["sikorskioutdoor"] = {
 	[1784602870,null,1,null,90,null],
 	[1784689235,null,1,null,90,null],
 	[1784775740,null,1,null,90,null],
+	[1786590105,10,1,10.0,100,null],
 ]};

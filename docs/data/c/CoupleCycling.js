@@ -735,4 +735,5 @@ profiles["CoupleCycling"] = {
 	[1786329500,null,1,null,5910,-2.0],
 	[1786415911,null,1,null,5910,-2.0],
 	[1786502307,null,1,null,5910,-2.0],
+	[1786588721,null,1,null,5910,null],
 ]};
