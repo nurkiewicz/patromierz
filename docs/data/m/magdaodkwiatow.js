@@ -122,4 +122,5 @@ profiles["magdaodkwiatow"] = {
 	[1786502998,100,1,100.0,400,null],
 	[1786589431,100,null,null,400,null],
 	[1786675800,100,null,null,400,null],
+	[1786762186,100,null,null,400,null],
 ]};
