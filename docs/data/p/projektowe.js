@@ -1265,4 +1265,5 @@ profiles["projektowe"] = {
 	[1786676286,20,null,null,1470,null],
 	[1786762663,20,null,null,1470,null],
 	[1786849066,20,null,null,1470,null],
+	[1786935465,20,null,null,1470,null],
 ]};

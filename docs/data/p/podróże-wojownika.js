@@ -1139,4 +1139,5 @@ profiles["podróże-wojownika"] = {
 	[1786676211,null,1,null,69495,null],
 	[1786762590,null,1,null,69495,null],
 	[1786848993,null,1,null,69495,null],
+	[1786935393,null,1,null,69495,null],
 ]};

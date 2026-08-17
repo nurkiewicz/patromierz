@@ -1124,4 +1124,5 @@ profiles["bieszczadzki"] = {
 	[1786675015,null,23,null,null,null],
 	[1786761412,null,23,null,null,null],
 	[1786847806,null,22,null,null,null],
+	[1786934204,null,22,null,null,null],
 ]};
