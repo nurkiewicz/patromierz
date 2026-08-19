@@ -16,6 +16,4 @@ permalink: /posts/
 
 [Czytaj dalej]({{ post.url | relative_url }})
 {% endfor %}
-{% else %}
-Nie ma jeszcze żadnych wpisów.
 {% endif %}
