@@ -1543,4 +1543,5 @@ profiles["balet-krynica"] = {
 	[1787020581,80,1,80.0,15208,null],
 	[1787107077,80,null,null,15208,null],
 	[1787193384,80,null,null,15208,null],
+	[1787279847,80,null,null,15208,null],
 ]};
