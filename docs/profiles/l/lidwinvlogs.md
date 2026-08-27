@@ -1,9 +1,9 @@
 ---
-title: Szymon Lidwin | Statystyki patronite.pl | Patromierz
+title: LIDWIN VLOGS | Statystyki patronite.pl | Patromierz
 
 permalink: /lidwinvlogs
 ---
 
-# [Szymon Lidwin](https://patronite.pl/lidwinvlogs)
+# [LIDWIN VLOGS](https://patronite.pl/lidwinvlogs)
 
 {% include profile.md name="lidwinvlogs" prefix="l" %}

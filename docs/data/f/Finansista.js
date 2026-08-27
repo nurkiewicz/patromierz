@@ -1142,4 +1142,5 @@ profiles["Finansista"] = {
 	[1787366604,null,1,null,28260,-1.0],
 	[1787452918,null,1,null,28260,-1.0],
 	[1787539325,null,1,null,28260,null],
+	[1787798544,null,1,null,28260,null],
 ]};
