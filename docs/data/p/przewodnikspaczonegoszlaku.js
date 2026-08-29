@@ -57,4 +57,5 @@ profiles["przewodnikspaczonegoszlaku"] = {
 	[1787540388,null,1,null,76,-1.0],
 	[1787799715,null,1,null,76,-1.0],
 	[1787885954,null,1,null,76,-1.0],
+	[1787972350,null,1,null,76,-1.0],
 ]};
