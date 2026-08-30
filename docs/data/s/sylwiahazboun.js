@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["sylwiahazboun"] = {
-"name": "Sylwia Hazboun - Dzisiaj w Betlejem",
+"name": "Sylwia Hazboun - Fundacja Światło Wschodu",
 "snapshots": [
 	[1622678400,90,3,30.0,170,null],
 	[1643367642,110,4,27.5,800,null],
@@ -1474,4 +1474,5 @@ profiles["sylwiahazboun"] = {
 	[1787799998,395,19,20.78,17140,-4.0],
 	[1787886227,395,19,20.78,17140,-4.0],
 	[1787972620,395,19,20.78,17150,-4.0],
+	[1788059065,395,19,20.78,17150,-2.0],
 ]};

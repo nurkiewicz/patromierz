@@ -1145,4 +1145,5 @@ profiles["vacanze-romane"] = {
 	[1787800160,260,null,null,null,-1.0],
 	[1787886381,260,null,null,null,-1.0],
 	[1787972775,260,null,null,null,-1.0],
+	[1788059223,260,null,null,null,-1.0],
 ]};

@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["kick_com-OjciecTrapcio"] = {
+"name": "Ojciec Trapcio",
+"snapshots": [
+	[1788058069,30,1,30.0,30,null],
+]};
