@@ -26,124 +26,120 @@ Ostatnie 7 dni.
 <script type="text/javascript" src="js/chart.js"></script>
 
 
-<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
 
 <script type="text/javascript" src="data/p/przezswiatnafazie.js"></script>
 
-<script type="text/javascript" src="data/t/tetrycy.js"></script>
+<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
 
-<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
-
-<script type="text/javascript" src="data/t/TSMTB.js"></script>
-
-<script type="text/javascript" src="data/m/motoambulans.js"></script>
-
-<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
-
-<script type="text/javascript" src="data/w/wasikowska.js"></script>
-
-<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
-
-<script type="text/javascript" src="data/i/igorjanke.js"></script>
+<script type="text/javascript" src="data/m/mysli-strategiczne.js"></script>
 
 <script type="text/javascript" src="data/p/Podcastwojennehistorie.js"></script>
 
-<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+<script type="text/javascript" src="data/g/Gadowski.js"></script>
 
-<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
-
-<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
-
-<script type="text/javascript" src="data/g/globstory.js"></script>
-
-<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
+<script type="text/javascript" src="data/u/UsłyszećNaCzas.js"></script>
 
 <script type="text/javascript" src="data/p/podcastex.js"></script>
 
-<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
-
-<script type="text/javascript" src="data/1/1elemento.js"></script>
-
-<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
-
-<script type="text/javascript" src="data/v/VirtualDream.js"></script>
-
-<script type="text/javascript" src="data/a/agnieszkazebradziadek.js"></script>
-
-<script type="text/javascript" src="data/m/marekczyz.js"></script>
-
-<script type="text/javascript" src="data/o/ORB.js"></script>
-
-<script type="text/javascript" src="data/s/sekielski.js"></script>
-
-<script type="text/javascript" src="data/d/DIOZ.js"></script>
-
-<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
-
-<script type="text/javascript" src="data/s/stacjastela.js"></script>
-
-<script type="text/javascript" src="data/d/drpiotrnapierala.js"></script>
-
-<script type="text/javascript" src="data/g/Gadowski.js"></script>
-
-<script type="text/javascript" src="data/p/pmm.js"></script>
-
-<script type="text/javascript" src="data/k/K3.js"></script>
-
-<script type="text/javascript" src="data/s/siema_szczecin.js"></script>
-
-<script type="text/javascript" src="data/k/kuszlewiczwimieniu.js"></script>
-
-<script type="text/javascript" src="data/s/schroniskopegasus.js"></script>
+<script type="text/javascript" src="data/z/Zmierzchu.js"></script>
 
 <script type="text/javascript" src="data/d/dajherbate.js"></script>
 
-<script type="text/javascript" src="data/p/planetaabstrakcja.js"></script>
+<script type="text/javascript" src="data/m/MIŁOŚNICY.js"></script>
 
-<script type="text/javascript" src="data/i/IronWay.js"></script>
+<script type="text/javascript" src="data/1/1elemento.js"></script>
 
-<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+
+<script type="text/javascript" src="data/r/radionowyswiat.js"></script>
 
 <script type="text/javascript" src="data/o/outriders.js"></script>
 
-<script type="text/javascript" src="data/p/puna.js"></script>
-
-<script type="text/javascript" src="data/b/brzmienie-swiata.js"></script>
-
-<script type="text/javascript" src="data/r/radio357.js"></script>
-
-<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
-
-<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
-
-<script type="text/javascript" src="data/h/HokejoweSocios.js"></script>
-
-<script type="text/javascript" src="data/r/radionaukowe.js"></script>
-
-<script type="text/javascript" src="data/r/radioem.js"></script>
-
-<script type="text/javascript" src="data/r/radiownet.js"></script>
-
-<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
-
-<script type="text/javascript" src="data/d/darwin.js"></script>
+<script type="text/javascript" src="data/s/saveturkishdogsgogh.js"></script>
 
 <script type="text/javascript" src="data/n/niewiemalesiedowiem.js"></script>
 
 <script type="text/javascript" src="data/p/profesor_matczak.js"></script>
 
-<script type="text/javascript" src="data/s/SciFun.js"></script>
-
 <script type="text/javascript" src="data/h/historiarealna.js"></script>
 
-<script type="text/javascript" src="data/z/zakazanehistorie.js"></script>
+<script type="text/javascript" src="data/v/VirtualDream.js"></script>
 
-<script type="text/javascript" src="data/f/Fundacja_po_DRUGIE.js"></script>
+<script type="text/javascript" src="data/v/VolleyWyszkow.js"></script>
+
+<script type="text/javascript" src="data/l/LukaszRybarskiYES.js"></script>
+
+<script type="text/javascript" src="data/w/WzajemniePomocni.js"></script>
+
+<script type="text/javascript" src="data/t/TERENWIZJA.js"></script>
+
+<script type="text/javascript" src="data/j/jaszatkovsky.js"></script>
+
+<script type="text/javascript" src="data/g/gospodarpg.js"></script>
+
+<script type="text/javascript" src="data/s/SciFun.js"></script>
+
+<script type="text/javascript" src="data/p/podcasthistoryczny.js"></script>
+
+<script type="text/javascript" src="data/d/darwin.js"></script>
+
+<script type="text/javascript" src="data/d/DariuszRosiak.js"></script>
+
+<script type="text/javascript" src="data/w/wolskiowojnie.js"></script>
+
+<script type="text/javascript" src="data/p/podkastamerykanski.js"></script>
+
+<script type="text/javascript" src="data/w/www_podsztanga_pl.js"></script>
+
+<script type="text/javascript" src="data/p/portaldominikanie.js"></script>
+
+<script type="text/javascript" src="data/d/dzialzagraniczny.js"></script>
+
+<script type="text/javascript" src="data/u/US.js"></script>
+
+<script type="text/javascript" src="data/g/GrupaMoCarta.js"></script>
+
+<script type="text/javascript" src="data/r/radiownet.js"></script>
+
+<script type="text/javascript" src="data/i/igorjanke.js"></script>
+
+<script type="text/javascript" src="data/r/radioem.js"></script>
+
+<script type="text/javascript" src="data/n/NaukowyBelkot.js"></script>
+
+<script type="text/javascript" src="data/w/wasikowska.js"></script>
+
+<script type="text/javascript" src="data/m/marekczyz.js"></script>
+
+<script type="text/javascript" src="data/m/marcinzielinski.js"></script>
+
+<script type="text/javascript" src="data/s/sekielski.js"></script>
+
+<script type="text/javascript" src="data/r/radio357.js"></script>
+
+<script type="text/javascript" src="data/r/radionaukowe.js"></script>
+
+<script type="text/javascript" src="data/k/krzysztofmazur.js"></script>
+
+<script type="text/javascript" src="data/k/K3.js"></script>
+
+<script type="text/javascript" src="data/g/globstory.js"></script>
+
+<script type="text/javascript" src="data/p/pmm.js"></script>
+
+<script type="text/javascript" src="data/d/DIOZ.js"></script>
+
+<script type="text/javascript" src="data/m/motoambulans.js"></script>
+
+<script type="text/javascript" src="data/t/tetrycy.js"></script>
+
+<script type="text/javascript" src="data/h/HokejoweSocios.js"></script>
 
 
 <script type="text/javascript">
     window.onload = () => {
-            drawHorizontal([["PUNA FAMILY", -1000], ["Radio Wnet", -925], ["Radio Nowy Świat", -845], ["Fundacja Primo Elemento", -600], ["SciFun", -505], ["Schronisko Pegasus", -420], ["ORB", -400], ["Fundacja Filar", -360], ["Kuszlewicz w imieniu", -325], ["Agnieszka &#34;Zebra&#34; Dziadek", -285], ["Media IronWay + Akademia Triathlonu", 380], ["Piotr Napierała", 430], ["dominikanie.pl", 490], ["Stowarzyszenie Trójmiejskie Ścieżki MTB", 500], ["SIEMa Szczecin", 500], ["Stacja Stela", 505], ["Zagłębie Sosnowiec Hokej", 600], ["Dział Zagraniczny", 615], ["Profesor Matczak", 750], ["ZAKAZANE HISTORIE", 1010]], 'largest_changes');
+            drawHorizontal([["Układ Sił", -1023], ["Radio Wnet", -705], ["Save Turkish Dogs GOGH", -500], ["Fundacja Primo Elemento", -450], ["Radio Nowy Świat", -374], ["Fundacja Filar", -310], ["Niedźwiecka o Zmierzchu", -299], ["SciFun", -263], ["Fundacja po DRUGIE", -260], ["Witold Gadowski", -250], ["Krzysztof Mazur. Geoekonomia", 300], ["Myśli Strategiczne", 305], ["Juliusz Aleksadner Szatkowski", 360], ["UKS Volley Wyszków", 370], ["Zagłębie Sosnowiec Hokej", 400], ["Dział Zagraniczny", 415], ["Gospoda RPG", 418], ["dominikanie.pl", 500], ["Podsztanga.pl", 621], ["Dariusz Rosiak", 740]], 'largest_changes');
             drawMulti(['radio357', 'radionowyswiat', 'radiownet'], 1, 'two_radios', 'currency');
             setTimeout(() => {
                 drawMulti(

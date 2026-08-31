@@ -151,4 +151,5 @@ profiles["vlogizdrogi"] = {
 	[1755226207,50,null,null,350,null],
 	[1755312590,50,null,null,350,null],
 	[1755399482,50,null,null,350,null],
+	[1788145586,200,1,200.0,550,null],
 ]};
