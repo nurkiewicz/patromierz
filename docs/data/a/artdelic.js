@@ -1499,4 +1499,5 @@ profiles["artdelic"] = {
 	[1788057366,20,null,null,1620,null],
 	[1788143750,20,null,null,1620,null],
 	[1788230158,20,null,null,1620,null],
+	[1788316552,20,1,20.0,1640,null],
 ]};
