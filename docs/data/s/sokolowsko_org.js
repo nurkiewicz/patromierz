@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["sokolowsko_org"] = {
-"name": "Fundacja Sztuki Współczenej In Situ",
+"name": "Fundacja Sztuki Współczesnej In Situ || Sokołowsko",
 "snapshots": [
 	[1786676493,15,1,15.0,15,null],
 	[1786762869,15,1,15.0,15,null],
@@ -20,4 +20,5 @@ profiles["sokolowsko_org"] = {
 	[1788145345,15,1,15.0,15,null],
 	[1788231769,15,1,15.0,15,null],
 	[1788318138,15,1,15.0,15,null],
+	[1788404529,15,1,15.0,15,null],
 ]};
