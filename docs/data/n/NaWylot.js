@@ -195,4 +195,5 @@ profiles["NaWylot"] = {
 	[1788317628,null,1,null,2105,null],
 	[1788404026,null,1,null,2105,null],
 	[1788490578,null,1,null,2105,null],
+	[1788576912,null,1,null,2105,-17.0],
 ]};
