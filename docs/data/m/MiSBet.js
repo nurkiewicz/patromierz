@@ -3,4 +3,5 @@ profiles["MiSBet"] = {
 "name": "Galeria Artefaktura",
 "snapshots": [
 	[1788749621,30,1,30.0,30,null],
+	[1788835973,30,1,30.0,30,null],
 ]};
