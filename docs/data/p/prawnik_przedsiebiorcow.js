@@ -692,4 +692,5 @@ profiles["prawnik_przedsiebiorcow"] = {
 	[1788663520,10,1,10.0,20225,null],
 	[1788749992,10,1,10.0,20225,null],
 	[1788836346,10,null,null,20225,null],
+	[1788922760,10,null,null,20225,null],
 ]};

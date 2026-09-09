@@ -3,4 +3,5 @@ profiles["naszeradiowalbrzych"] = {
 "name": "Nasze Radio Wałbrzych",
 "snapshots": [
 	[1788836059,100,1,100.0,100,null],
+	[1788922471,100,1,100.0,100,null],
 ]};
