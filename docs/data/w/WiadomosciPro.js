@@ -88,4 +88,5 @@ profiles["WiadomosciPro"] = {
 	[1788836872,10,1,10.0,30,null],
 	[1788923278,10,1,10.0,30,null],
 	[1789009647,null,1,null,30,null],
+	[1789096029,null,1,null,30,null],
 ]};
