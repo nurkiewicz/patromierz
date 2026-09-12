@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["akugitara"] = {
-"name": "AkuGitara",
+"name": "Bartosz Kieliś (AkuGitara)",
 "snapshots": [
 	[1643362525,476,14,34.0,5106,null],
 	[1643436709,476,14,34.0,5135,null],
@@ -1562,4 +1562,5 @@ profiles["akugitara"] = {
 	[1788921310,279,13,21.46,28650,1.0],
 	[1789007705,279,13,21.46,28650,1.0],
 	[1789094105,279,12,23.25,28650,1.0],
+	[1789180558,279,12,23.25,28650,1.0],
 ]};
