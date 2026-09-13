@@ -1499,4 +1499,5 @@ profiles["Baniakbaniaka"] = {
 	[1789007800,null,1769,null,null,null],
 	[1789094200,null,1766,null,null,null],
 	[1789180654,null,1764,null,null,null],
+	[1789266992,null,1762,null,null,null],
 ]};
