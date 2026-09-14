@@ -1151,4 +1151,5 @@ profiles["IT_i_Ty"] = {
 	[1788490024,8,null,null,528,null],
 	[1788576385,8,null,null,528,null],
 	[1788662744,8,null,null,528,null],
+	[1789353928,8,1,8.0,536,null],
 ]};
