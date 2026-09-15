@@ -1158,4 +1158,5 @@ profiles["prostahistoria"] = {
 	[1789182235,10,1,10.0,1200,null],
 	[1789268361,null,1,null,1200,null],
 	[1789354749,null,1,null,1200,null],
+	[1789441173,null,1,null,1200,null],
 ]};
