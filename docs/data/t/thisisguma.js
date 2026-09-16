@@ -3,4 +3,5 @@ profiles["thisisguma"] = {
 "name": "GUMa",
 "snapshots": [
 	[1789441530,100,2,50.0,100,null],
+	[1789527970,100,2,50.0,100,null],
 ]};

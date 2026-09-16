@@ -891,4 +891,5 @@ profiles["ImperatorMrowek"] = {
 	[1789267520,25,null,null,2195,null],
 	[1789353910,25,null,null,2195,null],
 	[1789440324,25,null,null,2195,null],
+	[1789526781,25,1,25.0,2220,null],
 ]};
