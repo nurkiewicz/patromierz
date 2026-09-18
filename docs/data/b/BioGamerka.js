@@ -1161,4 +1161,5 @@ profiles["BioGamerka"] = {
 	[1789439829,20,null,null,16035,null],
 	[1789526289,20,null,null,16035,null],
 	[1789612633,20,null,null,16035,null],
+	[1789699168,20,1,20.0,16055,null],
 ]};

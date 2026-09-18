@@ -1381,4 +1381,5 @@ profiles["WirtualnaWioskaWsparcia"] = {
 	[1789441672,null,601,null,null,null],
 	[1789528122,null,599,null,null,null],
 	[1789614478,null,598,null,null,null],
+	[1789701717,null,593,null,null,null],
 ]};
