@@ -38,4 +38,5 @@ profiles["zkanapywswiat"] = {
 	[1789614625,980,18,54.44,null,27.0],
 	[1789701922,null,18,null,null,null],
 	[1789873925,null,20,null,null,null],
+	[1789960242,null,21,null,null,null],
 ]};
