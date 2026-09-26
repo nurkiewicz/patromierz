@@ -145,4 +145,5 @@ profiles["EduGuard"] = {
 	[1790131251,null,1,null,100,-1.0],
 	[1790217642,null,1,null,100,-1.0],
 	[1790304389,null,1,null,100,null],
+	[1790390452,null,1,null,100,null],
 ]};
