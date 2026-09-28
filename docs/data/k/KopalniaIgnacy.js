@@ -1175,4 +1175,5 @@ profiles["KopalniaIgnacy"] = {
 	[1790304993,5,null,null,960,null],
 	[1790390903,5,null,null,960,null],
 	[1790477302,5,null,null,960,null],
+	[1790563692,5,null,null,960,null],
 ]};

@@ -1,7 +1,8 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Medalografia"] = {
-"name": "Agnieszka Smołucha-Sładkowska",
+"name": "Medalografia – Agnieszka Smołucha-Sładkowska",
 "snapshots": [
 	[1790391131,25,1,25.0,25,null],
 	[1790477524,25,1,25.0,25,null],
+	[1790563917,100,3,33.33,100,null],
 ]};
