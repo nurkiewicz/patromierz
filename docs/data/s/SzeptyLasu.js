@@ -1410,4 +1410,5 @@ profiles["SzeptyLasu"] = {
 	[1790651069,50,null,null,4250,null],
 	[1790737619,50,null,null,4250,null],
 	[1790823846,50,null,null,4250,null],
+	[1790910313,50,1,50.0,4300,null],
 ]};
