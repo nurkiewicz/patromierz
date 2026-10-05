@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["Meaax_b"] = {
-"name": "Meaax - Trading, Rozwój inwestora",
+"name": "Trading, Profesjonalne podejście do handlu.",
 "snapshots": [
 	[1688355854,3565,42,84.88,null,null],
 	[1688442721,3740,46,81.3,null,null],
@@ -1084,4 +1084,5 @@ profiles["Meaax_b"] = {
 	[1790909545,null,197,null,null,null],
 	[1790995957,null,197,null,null,null],
 	[1791082419,null,197,null,null,null],
+	[1791168727,null,197,null,null,null],
 ]};
