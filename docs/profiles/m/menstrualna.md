@@ -1,9 +1,9 @@
 ---
-title: Menstrualna Mentorka | Statystyki patronite.pl | Patromierz
+title: Fundacja Menstrualna Mentorka | Statystyki patronite.pl | Patromierz
 
 permalink: /menstrualna
 ---
 
-# [Menstrualna Mentorka](https://patronite.pl/menstrualna)
+# [Fundacja Menstrualna Mentorka](https://patronite.pl/menstrualna)
 
 {% include profile.md name="menstrualna" prefix="m" %}

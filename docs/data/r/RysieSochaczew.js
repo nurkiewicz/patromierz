@@ -481,4 +481,5 @@ profiles["RysieSochaczew"] = {
 	[1791083004,100,null,null,7050,null],
 	[1791169309,100,null,null,7050,null],
 	[1791255855,100,null,null,7050,null],
+	[1791342157,100,1,100.0,7150,null],
 ]};
