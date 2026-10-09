@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["snaw_eu"] = {
-"name": "Sieć na Wybory",
+"name": "snaw.eu",
 "snapshots": [
 	[1782788383,25,1,25.0,25,null],
 	[1782874828,25,1,25.0,25,null],
@@ -60,4 +60,5 @@ profiles["snaw_eu"] = {
 	[1791255945,50,1,50.0,75,1.0],
 	[1791342244,50,1,50.0,75,null],
 	[1791428855,50,1,50.0,125,null],
+	[1791515347,50,1,50.0,125,null],
 ]};

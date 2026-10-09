@@ -583,4 +583,5 @@ profiles["htp_michal_ruszczyk_pl"] = {
 	[1770349326,null,1,null,1185,-1.0],
 	[1770435740,null,1,null,1185,-1.0],
 	[1770522136,null,1,null,1185,null],
+	[1791513996,15,1,15.0,1200,null],
 ]};
