@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["brat_jacek"] = {
-"name": "Br. Jacek Rakowski M.Afr",
+"name": "Br. Jacek Rakowski — Dom Nadziei w Zambii",
 "snapshots": [
 	[1689124835,270,7,38.57,270,null],
 	[1689211087,270,7,38.57,270,null],
@@ -925,4 +925,5 @@ profiles["brat_jacek"] = {
 	[1791340670,1390,11,126.36,15080,34.0],
 	[1791427156,1390,11,126.36,15080,34.0],
 	[1791513516,1390,11,126.36,15080,34.0],
+	[1791599885,1390,11,126.36,15080,34.0],
 ]};
