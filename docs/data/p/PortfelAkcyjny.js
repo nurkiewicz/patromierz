@@ -728,4 +728,5 @@ profiles["PortfelAkcyjny"] = {
 	[1791514883,null,11,null,null,null],
 	[1791601213,null,11,null,null,null],
 	[1791687616,null,10,null,null,null],
+	[1791983785,null,10,null,null,null],
 ]};
