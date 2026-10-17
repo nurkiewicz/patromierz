@@ -1194,4 +1194,5 @@ profiles["AkiArkadiuszGerlic"] = {
 	[1791982357,30,3,10.0,null,null],
 	[1792031776,30,3,10.0,null,null],
 	[1792118122,30,3,10.0,null,null],
+	[1792204508,30,2,15.0,null,null],
 ]};
