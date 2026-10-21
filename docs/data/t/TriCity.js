@@ -72,4 +72,5 @@ profiles["TriCity"] = {
 	[1792292859,null,64,null,null,null],
 	[1792379384,null,64,null,null,null],
 	[1792465651,null,63,null,null,null],
+	[1792552135,null,64,null,null,null],
 ]};
