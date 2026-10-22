@@ -151,4 +151,5 @@ profiles["malelapkiwielkapomoc"] = {
 	[1792378432,20,null,null,100,null],
 	[1792464714,20,null,null,100,null],
 	[1792551153,20,1,20.0,120,null],
+	[1792637690,20,1,20.0,120,null],
 ]};

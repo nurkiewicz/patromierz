@@ -3,4 +3,5 @@ profiles["akcjonariusze-4mass"] = {
 "name": "Akcjonariusze Mniejszościowi 4mass",
 "snapshots": [
 	[1792550106,100,1,100.0,100,null],
+	[1792636528,100,1,100.0,100,null],
 ]};

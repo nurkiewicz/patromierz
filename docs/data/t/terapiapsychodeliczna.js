@@ -827,4 +827,5 @@ profiles["terapiapsychodeliczna"] = {
 	[1792379332,220,13,16.92,null,null],
 	[1792465596,220,13,16.92,null,null],
 	[1792552057,220,13,16.92,null,null],
+	[1792639005,220,13,16.92,null,null],
 ]};
