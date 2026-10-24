@@ -3,4 +3,5 @@ profiles["rozszczepienipolaczeni"] = {
 "name": "Fundacja Rozszczepieni Połączeni",
 "snapshots": [
 	[1792724574,30,1,30.0,30,null],
+	[1792810958,30,1,30.0,30,null],
 ]};

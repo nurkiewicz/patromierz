@@ -97,4 +97,5 @@ profiles["pastelovy_amerykan"] = {
 	[1792551500,null,18,null,null,null],
 	[1792638413,null,18,null,null,null],
 	[1792724264,null,19,null,null,null],
+	[1792810654,null,19,null,null,null],
 ]};

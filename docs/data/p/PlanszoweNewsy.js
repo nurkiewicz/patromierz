@@ -1033,4 +1033,5 @@ profiles["PlanszoweNewsy"] = {
 	[1792551567,null,172,null,null,null],
 	[1792638510,null,172,null,null,null],
 	[1792724330,null,170,null,null,null],
+	[1792810720,null,170,null,null,null],
 ]};
