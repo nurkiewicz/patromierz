@@ -4,4 +4,5 @@ profiles["internetowyobiektyw"] = {
 "snapshots": [
 	[1792809977,5,1,5.0,5,null],
 	[1792899943,5,1,5.0,5,null],
+	[1792986340,15,2,7.5,15,null],
 ]};
