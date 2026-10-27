@@ -1216,4 +1216,5 @@ profiles["lesnerzemioslo"] = {
 	[1792810237,null,11,null,25680,null],
 	[1792900199,null,11,null,25680,null],
 	[1792986594,null,11,null,25700,null],
+	[1793072996,null,11,null,25700,null],
 ]};

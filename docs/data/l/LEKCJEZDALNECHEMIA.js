@@ -563,4 +563,5 @@ profiles["LEKCJEZDALNECHEMIA"] = {
 	[1792810227,5,null,null,890,-1.0],
 	[1792900191,5,null,null,890,-1.0],
 	[1792986586,5,null,null,890,-1.0],
+	[1793072988,5,null,null,890,-1.0],
 ]};

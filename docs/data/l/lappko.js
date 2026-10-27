@@ -263,4 +263,5 @@ profiles["lappko"] = {
 	[1792810216,null,11,null,25680,null],
 	[1792900180,null,11,null,25680,null],
 	[1792986575,null,11,null,25700,null],
+	[1793072977,null,11,null,25700,null],
 ]};
