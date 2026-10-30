@@ -830,4 +830,5 @@ profiles["fundacjazapomniane"] = {
 	[1793072601,null,1,null,1800,-2.0],
 	[1793159009,null,1,null,1800,-2.0],
 	[1793245445,null,1,null,1800,-2.0],
+	[1793331827,null,1,null,1800,-2.0],
 ]};
