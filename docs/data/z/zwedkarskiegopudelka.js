@@ -255,4 +255,5 @@ profiles["zwedkarskiegopudelka"] = {
 	[1793160694,null,1,null,180,-1.0],
 	[1793247171,null,1,null,180,-1.0],
 	[1793333549,null,1,null,180,-1.0],
+	[1793420008,null,1,null,180,-1.0],
 ]};
