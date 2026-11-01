@@ -3,4 +3,5 @@ profiles["okiemkrytycznegoegzaminatora"] = {
 "name": "OKE Okiem Krytycznego Egzaminatora",
 "snapshots": [
 	[1793419042,10,1,10.0,10,null],
+	[1793505402,10,1,10.0,10,null],
 ]};
