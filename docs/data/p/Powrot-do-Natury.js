@@ -470,4 +470,5 @@ profiles["Powrot-do-Natury"] = {
 	[1793332797,29,null,null,3545,null],
 	[1793419241,29,null,null,3545,null],
 	[1793505597,29,null,null,3545,null],
+	[1793591962,29,1,29.0,3574,null],
 ]};

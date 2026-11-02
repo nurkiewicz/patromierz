@@ -1334,4 +1334,5 @@ profiles["patronite_plmacierzynski"] = {
 	[1793332667,752,21,35.8,null,null],
 	[1793419108,752,21,35.8,null,null],
 	[1793505466,752,21,35.8,null,null],
+	[1793591834,752,21,35.8,null,null],
 ]};
