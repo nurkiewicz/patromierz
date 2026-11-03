@@ -1203,4 +1203,5 @@ profiles["DomTymczasowyUMacieja"] = {
 	[1793418052,10,1,10.0,6240,null],
 	[1793504435,10,1,10.0,6240,null],
 	[1793590817,null,1,null,6240,null],
+	[1793677224,null,1,null,6240,null],
 ]};

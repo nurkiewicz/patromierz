@@ -1207,4 +1207,5 @@ profiles["Herrhamburger"] = {
 	[1793418350,20,null,null,2930,null],
 	[1793504727,20,null,null,2930,null],
 	[1793591103,20,null,null,2930,null],
+	[1793677511,20,1,20.0,2950,null],
 ]};
