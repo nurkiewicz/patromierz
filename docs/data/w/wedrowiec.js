@@ -598,4 +598,5 @@ profiles["wedrowiec"] = {
 	[1793506151,115,null,null,5035,null],
 	[1793592504,115,null,null,5085,null],
 	[1793678906,115,null,null,5085,null],
+	[1793765334,85,null,null,5085,-1.0],
 ]};

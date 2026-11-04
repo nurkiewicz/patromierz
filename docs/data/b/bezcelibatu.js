@@ -3,4 +3,5 @@ profiles["bezcelibatu"] = {
 "name": "Kościół EXE",
 "snapshots": [
 	[1793677027,10,1,10.0,10,null],
+	[1793763425,10,1,10.0,10,null],
 ]};
