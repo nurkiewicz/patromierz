@@ -671,4 +671,5 @@ profiles["RynekKrowoderski"] = {
 	[1793592138,null,37,null,null,null],
 	[1793678539,null,37,null,null,null],
 	[1793764963,null,37,null,null,null],
+	[1793851377,null,37,null,null,null],
 ]};
