@@ -437,4 +437,5 @@ profiles["TrudnoBycKatolikiem"] = {
 	[1793765255,null,301,null,null,null],
 	[1793851670,null,301,null,null,null],
 	[1793938007,null,301,null,null,null],
+	[1794024392,null,300,null,null,null],
 ]};
