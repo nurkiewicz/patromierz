@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["01gallery"] = {
-"name": "01 Gallery: wirtualna galeria sztuki",
+"name": "Stowarzyszenie 01 Gallery",
 "snapshots": [
 	[1697157964,150,1,150.0,150,null],
 	[1697244298,150,1,150.0,150,null],
@@ -90,4 +90,5 @@ profiles["01gallery"] = {
 	[1704772127,150,1,150.0,450,null],
 	[1704858532,null,1,null,450,-6.0],
 	[1704944936,null,1,null,450,-6.0],
+	[1794195226,20,1,20.0,470,null],
 ]};

@@ -347,4 +347,5 @@ profiles["MinisterstwoSatyry"] = {
 	[1793937188,null,131,null,null,null],
 	[1794023572,null,133,null,null,null],
 	[1794109974,null,133,null,null,null],
+	[1794196371,null,133,null,null,null],
 ]};
