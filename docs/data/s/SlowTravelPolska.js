@@ -380,4 +380,5 @@ profiles["SlowTravelPolska"] = {
 	[1794024185,10,null,null,280,null],
 	[1794110590,10,null,null,280,null],
 	[1794196984,10,null,null,280,null],
+	[1794283432,10,null,null,280,null],
 ]};

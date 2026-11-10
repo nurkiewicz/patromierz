@@ -265,4 +265,5 @@ profiles["WrotaKrypty"] = {
 	[1791515727,null,1,null,90,null],
 	[1791601831,null,1,null,90,null],
 	[1791688238,null,1,null,90,null],
+	[1794283776,10,1,10.0,100,null],
 ]};
