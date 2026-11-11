@@ -3,4 +3,5 @@ profiles["podroznych"] = {
 "name": "Stowarzyszenie Podróżnych Ugościć",
 "snapshots": [
 	[1794283134,546,9,60.66,1718,null],
+	[1794369529,546,9,60.66,1718,null],
 ]};
