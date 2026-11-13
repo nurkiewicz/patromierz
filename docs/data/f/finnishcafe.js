@@ -601,4 +601,5 @@ profiles["finnishcafe"] = {
 	[1794282142,60,null,null,3295,null],
 	[1794368536,60,null,null,3305,null],
 	[1794454983,60,null,null,3305,null],
+	[1794541326,60,null,null,3305,null],
 ]};
