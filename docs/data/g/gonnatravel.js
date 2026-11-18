@@ -1226,4 +1226,5 @@ profiles["gonnatravel"] = {
 	[1794714230,null,1,null,39685,-1.0],
 	[1794800627,null,1,null,39685,null],
 	[1794887045,null,1,null,39685,null],
+	[1794973446,null,1,null,39685,null],
 ]};
