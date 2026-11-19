@@ -1221,4 +1221,5 @@ profiles["wyskakujzlaptopa"] = {
 	[1794802154,63,5,12.6,null,null],
 	[1794888624,63,5,12.6,null,null],
 	[1794975003,56,5,11.2,null,null],
+	[1795061413,56,5,11.2,null,null],
 ]};

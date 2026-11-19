@@ -1,6 +1,6 @@
 var profiles = (profiles === undefined) ? {} : profiles;
 profiles["mszpakowski"] = {
-"name": "Rajskie Życie w Kurniku",
+"name": "Mariusz Szpakowski",
 "snapshots": [
 	[1672404345,650,10,65.0,null,null],
 	[1672503714,650,10,65.0,null,null],
