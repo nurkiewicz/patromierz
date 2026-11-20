@@ -710,4 +710,5 @@ profiles["SzeptInnegoSwiata"] = {
 	[1794888294,190,4,47.5,null,null],
 	[1794974697,190,4,47.5,null,null],
 	[1795061105,190,4,47.5,null,null],
+	[1795147548,190,4,47.5,null,null],
 ]};

@@ -827,4 +827,5 @@ profiles["fundacja_problematy"] = {
 	[1794886956,100,null,null,4080,null],
 	[1794973359,100,null,null,4080,null],
 	[1795059762,100,null,null,4080,null],
+	[1795146177,100,1,100.0,4180,null],
 ]};
