@@ -1577,4 +1577,5 @@ profiles["higienistkapogodzinach"] = {
 	[1794973496,null,1,null,5600,-4.0],
 	[1795059901,null,1,null,5600,-4.0],
 	[1795146322,null,1,null,5600,-4.0],
+	[1795232717,null,1,null,5600,-4.0],
 ]};
