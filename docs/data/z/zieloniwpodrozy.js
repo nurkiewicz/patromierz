@@ -1554,4 +1554,5 @@ profiles["zieloniwpodrozy"] = {
 	[1795147899,null,70,null,null,null],
 	[1795234304,null,70,null,null,null],
 	[1795320649,null,69,null,null,null],
+	[1795407043,null,69,null,null,null],
 ]};
