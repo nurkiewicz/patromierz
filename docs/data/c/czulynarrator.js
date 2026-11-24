@@ -1,0 +1,6 @@
+var profiles = (profiles === undefined) ? {} : profiles;
+profiles["czulynarrator"] = {
+"name": "Droga bez wroga & Czuły Narrator | Fundacja Alchemia Zmiany",
+"snapshots": [
+	[1795493479,75,3,25.0,4489,null],
+]};
