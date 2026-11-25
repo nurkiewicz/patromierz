@@ -3,4 +3,5 @@ profiles["psychologiaciala"] = {
 "name": "Psychologia ciała • Carolina Const",
 "snapshots": [
 	[1795493479,172,13,13.23,6680,null],
+	[1795579216,172,13,13.23,6702,null],
 ]};
