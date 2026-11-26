@@ -378,4 +378,5 @@ profiles["thewingsofhope_pl"] = {
 	[1795406756,null,1,null,3750,-5.0],
 	[1795493143,null,1,null,3750,-5.0],
 	[1795579543,null,1,null,3750,-5.0],
+	[1795666000,null,1,null,3750,null],
 ]};
