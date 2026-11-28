@@ -503,4 +503,5 @@ profiles["GuildOfSteel"] = {
 	[1795578281,null,3,null,null,null],
 	[1795664698,null,3,null,null,null],
 	[1795751064,null,2,null,null,null],
+	[1795837452,null,2,null,null,null],
 ]};
